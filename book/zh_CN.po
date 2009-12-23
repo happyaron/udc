@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-12-07 15:34-0500\n"
+"PO-Revision-Date: 2009-12-23 20:27+0800\n"
+"Last-Translator: syq <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: book/xinclude.xml:4(title)
+msgid "Ubuntu Desktop Training new"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: book/xinclude.xml:0(None)
+msgid "translator-credits"
+msgstr ""

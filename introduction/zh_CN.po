@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-12-07 15:34-0500\n"
+"PO-Revision-Date: 2009-12-23 20:28+0800\n"
+"Last-Translator: syq <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: introduction/xinclude.xml:4(title)
+msgid "Course Overview"
+msgstr ""
+
+#: introduction/xinclude.xml:6(title)
+msgid "About the Course"
+msgstr ""
+
+#: introduction/xinclude.xml:7(para)
+msgid ""
+"Ubuntu is a community developed Linux-based operating system freely "
+"available and suitable for laptops, desktops and servers. This course is "
+"based on Ubuntu 8.04 LTS and aims to train new users of Ubuntu how to use "
+"key applications including mainstream office applications, Internet "
+"connectivity and browsing, graphics arts tools, multi-media and music."
+msgstr ""
+
+#: introduction/xinclude.xml:15(title)
+msgid "Objectives"
+msgstr ""
+
+#: introduction/xinclude.xml:17(para)
+msgid "This course will teach you:"
+msgstr ""
+
+#: introduction/xinclude.xml:19(para)
+msgid "The concepts of open source and how they tie in with Ubuntu"
+msgstr ""
+
+#: introduction/xinclude.xml:23(para)
+msgid "The benefits of using Ubuntu"
+msgstr ""
+
+#: introduction/xinclude.xml:26(para)
+msgid "How to customise the look and feel of the Ubuntu desktop"
+msgstr ""
+
+#: introduction/xinclude.xml:30(para)
+msgid "How to navigate through the file system and search for files"
+msgstr ""
+
+#: introduction/xinclude.xml:34(para)
+msgid "How to connect to and use the Internet"
+msgstr ""
+
+#: introduction/xinclude.xml:37(para)
+msgid ""
+"How to perform basic word-processing and spreadsheet functions using "
+"OpenOffice.org"
+msgstr ""
+
+#: introduction/xinclude.xml:41(para)
+msgid "How to Install and play games"
+msgstr ""
+
+#: introduction/xinclude.xml:44(para)
+msgid "How to add, remove and update applications"
+msgstr ""
+
+#: introduction/xinclude.xml:47(para)
+msgid "How to view, draw, manipulate and scan images"
+msgstr ""
+
+#: introduction/xinclude.xml:50(para)
+msgid "How to play, edit and organize music and video files"
+msgstr ""
+
+#: introduction/xinclude.xml:53(para)
+msgid "Where to seek help on Ubuntu from free and commercial sources"
+msgstr ""
+
+#: introduction/xinclude.xml:57(para)
+msgid "How to create partitions and dual-boot options"
+msgstr ""
+
+#: introduction/xinclude.xml:61(title)
+msgid "Target Audience and Pre-requisites"
+msgstr ""
+
+#: introduction/xinclude.xml:62(para)
+msgid ""
+"This course provides both home and office users with hands on training on "
+"Ubuntu. No prior knowledge of Ubuntu is required, although computer literacy "
+"is assumed and is a pre-requisite. Ubuntu 8.04 LTS must be installed on the "
+"computer hard disk before starting this course."
+msgstr ""
+
+#: introduction/xinclude.xml:67(para)
+msgid ""
+"The Ubuntu desktop course is designed to be modular. If studied in a "
+"classroom in its entirety, it should be completed within two full days. "
+"However, topics and lessons can be selected as required and a day's content "
+"designed to suit the key learning objectives."
+msgstr ""
+
+#: introduction/xinclude.xml:72(para)
+msgid ""
+"Sample material for various exercises is available through the ubuntu-"
+"desktop-course-resources package. The most current package is available "
+"through the canonical-training PPA (Personal Package Archive) in Launchpad: "
+"https://launchpad.net/~canonical-training/+archive."
+msgstr ""
+
+#: introduction/xinclude.xml:78(title)
+msgid "Instructor Notes:"
+msgstr ""
+
+#: introduction/xinclude.xml:79(para)
+msgid ""
+"The ubuntu-desktop-course-resource package should be installed on all "
+"systems before the course starts. The sample files are placed in /usr/share/"
+"ubuntu-desktop-course. It is recommended to add a link to the directory on "
+"the students desktop."
+msgstr ""
+
+#: introduction/xinclude.xml:87(title)
+msgid "Student Responsibilities"
+msgstr ""
+
+#: introduction/xinclude.xml:90(para)
+msgid ""
+"Students should arrive on time and stay until the session is dismissed. The "
+"instructor should be notified if you expect to arrive late."
+msgstr ""
+
+#: introduction/xinclude.xml:95(para)
+msgid ""
+"Participation in class discussions is strongly encouraged. Even when some "
+"topics are already familiar to some, sharing relevant experiences can be "
+"very helpful to other people."
+msgstr ""
+
+#: introduction/xinclude.xml:101(para)
+msgid "Cell phones and pagers should be placed on silent mode during class."
+msgstr ""
+
+#: introduction/xinclude.xml:105(para)
+msgid ""
+"Feedback is vital to the improvement of our course development and delivery. "
+"All students must complete the course evaluation form at the end of the last "
+"day in order to receive a certificate of completion."
+msgstr ""
+
+#: introduction/xinclude.xml:111(para)
+msgid ""
+"Please provide any and all feedback regarding this course to: "
+"training@canonical.com."
+msgstr ""
+
+#: introduction/xinclude.xml:117(title)
+msgid "Ubuntu Session Plan"
+msgstr ""
+
+#: introduction/xinclude.xml:126(emphasis)
+#: introduction/xinclude.xml:564(emphasis)
+msgid "Session"
+msgstr ""
+
+#: introduction/xinclude.xml:131(emphasis)
+msgid "Duration (in minutes)"
+msgstr ""
+
+#: introduction/xinclude.xml:139(emphasis)
+msgid "DAY 1"
+msgstr ""
+
+#: introduction/xinclude.xml:148(emphasis)
+msgid "Welcome and Course Overview"
+msgstr ""
+
+#: introduction/xinclude.xml:154(emphasis)
+msgid "20"
+msgstr ""
+
+#: introduction/xinclude.xml:161(emphasis)
+msgid "Introducing Ubuntu"
+msgstr ""
+
+#: introduction/xinclude.xml:167(emphasis)
+#: introduction/xinclude.xml:702(emphasis)
+#: introduction/xinclude.xml:787(emphasis)
+#: introduction/xinclude.xml:914(emphasis)
+#: introduction/xinclude.xml:1015(emphasis)
+msgid "60"
+msgstr ""
+
+#: introduction/xinclude.xml:173(para)
+msgid "About Open Source"
+msgstr ""
+
+#: introduction/xinclude.xml:181(para)
+msgid "Free Software Movement, Open Source and Linux"
+msgstr ""
+
+#: introduction/xinclude.xml:190(para)
+msgid "About Ubuntu"
+msgstr ""
+
+#: introduction/xinclude.xml:198(para)
+msgid "Software Repositories and Categories"
+msgstr ""
+
+#: introduction/xinclude.xml:206(para)
+msgid "Key Differences between Ubuntu and Microsoft Windows"
+msgstr ""
+
+#: introduction/xinclude.xml:215(para) introduction/xinclude.xml:293(para)
+#: introduction/xinclude.xml:471(para) introduction/xinclude.xml:539(para)
+#: introduction/xinclude.xml:663(para) introduction/xinclude.xml:748(para)
+#: introduction/xinclude.xml:875(para) introduction/xinclude.xml:984(para)
+#: introduction/xinclude.xml:1045(para)
+msgid "Lesson Summary"
+msgstr ""
+
+#: introduction/xinclude.xml:223(para) introduction/xinclude.xml:378(para)
+#: introduction/xinclude.xml:479(para) introduction/xinclude.xml:671(para)
+#: introduction/xinclude.xml:756(para) introduction/xinclude.xml:883(para)
+#: introduction/xinclude.xml:992(para) introduction/xinclude.xml:1053(para)
+msgid "Review Exercise"
+msgstr ""
+
+#: introduction/xinclude.xml:240(emphasis)
+msgid "Exploring the Ubuntu Desktop"
+msgstr ""
+
+#: introduction/xinclude.xml:246(emphasis)
+msgid "75"
+msgstr ""
+
+#: introduction/xinclude.xml:252(para)
+msgid "Ubuntu Desktop Components"
+msgstr ""
+
+#: introduction/xinclude.xml:260(para)
+msgid "Changing the Default Language"
+msgstr ""
+
+#: introduction/xinclude.xml:268(para)
+msgid "Creating a User Account and Fast User Switching"
+msgstr ""
+
+#: introduction/xinclude.xml:277(para)
+msgid "Adding/Removing Applications"
+msgstr ""
+
+#: introduction/xinclude.xml:285(para)
+msgid "Desktop Effects - Compiz Fusion"
+msgstr ""
+
+#: introduction/xinclude.xml:301(para) introduction/xinclude.xml:386(para)
+#: introduction/xinclude.xml:487(para) introduction/xinclude.xml:547(para)
+#: introduction/xinclude.xml:679(para) introduction/xinclude.xml:764(para)
+#: introduction/xinclude.xml:891(para) introduction/xinclude.xml:1061(para)
+msgid "Lab Exercise"
+msgstr ""
+
+#: introduction/xinclude.xml:318(emphasis)
+msgid "Using the Internet"
+msgstr ""
+
+#: introduction/xinclude.xml:324(emphasis)
+msgid "100"
+msgstr ""
+
+#: introduction/xinclude.xml:330(para)
+msgid "Connecting to and Using the Internet"
+msgstr ""
+
+#: introduction/xinclude.xml:338(para)
+msgid "Browsing the Web"
+msgstr ""
+
+#: introduction/xinclude.xml:346(para)
+msgid "Accessing RSS Feeds"
+msgstr ""
+
+#: introduction/xinclude.xml:354(para)
+msgid "Sending and Receiving E-mail Messages"
+msgstr ""
+
+#: introduction/xinclude.xml:362(para)
+msgid "Instant Messaging"
+msgstr ""
+
+#: introduction/xinclude.xml:370(para)
+msgid "Making Phone Calls using Softphones"
+msgstr ""
+
+#: introduction/xinclude.xml:403(emphasis)
+msgid "Using OpenOffice Applications"
+msgstr ""
+
+#: introduction/xinclude.xml:409(emphasis)
+msgid "180"
+msgstr ""
+
+#: introduction/xinclude.xml:415(para)
+msgid "Introducing the OpenOffice.org Suite"
+msgstr ""
+
+#: introduction/xinclude.xml:423(para)
+msgid "Using OpenOffice.org Writer"
+msgstr ""
+
+#: introduction/xinclude.xml:431(para)
+msgid "Using OpenOffice.org Calc"
+msgstr ""
+
+#: introduction/xinclude.xml:439(para)
+msgid "Using OpenOffice.org Impress"
+msgstr ""
+
+#: introduction/xinclude.xml:447(para)
+msgid "Using OpenOffice.org Draw"
+msgstr ""
+
+#: introduction/xinclude.xml:455(para)
+msgid "Using OpenOffice.org Math"
+msgstr ""
+
+#: introduction/xinclude.xml:463(para)
+msgid "Additional Applications"
+msgstr ""
+
+#: introduction/xinclude.xml:504(emphasis)
+msgid "Ubuntu and Games"
+msgstr ""
+
+#: introduction/xinclude.xml:509(emphasis)
+msgid "40"
+msgstr ""
+
+#: introduction/xinclude.xml:515(para)
+msgid "Installing Ubuntu Games"
+msgstr ""
+
+#: introduction/xinclude.xml:523(para)
+msgid "Playing Ubuntu Games"
+msgstr ""
+
+#: introduction/xinclude.xml:531(para)
+msgid "Playing Other Popular Games"
+msgstr ""
+
+#: introduction/xinclude.xml:569(emphasis)
+msgid "Duration (in minutes) excl. exercises"
+msgstr ""
+
+#: introduction/xinclude.xml:577(emphasis)
+msgid "DAY 2"
+msgstr ""
+
+#: introduction/xinclude.xml:586(emphasis)
+msgid "Customising the Desktop and Applications"
+msgstr ""
+
+#: introduction/xinclude.xml:592(emphasis)
+msgid "80"
+msgstr ""
+
+#: introduction/xinclude.xml:598(para) introduction/xinclude.xml:920(para)
+#: introduction/xinclude.xml:1214(title)
+msgid "Introduction"
+msgstr ""
+
+#: introduction/xinclude.xml:606(para)
+msgid "Customising the Desktop"
+msgstr ""
+
+#: introduction/xinclude.xml:614(para)
+msgid "The 3D Effects"
+msgstr ""
+
+#: introduction/xinclude.xml:622(para)
+msgid "Working with Files Using Nautilus"
+msgstr ""
+
+#: introduction/xinclude.xml:630(para)
+msgid ""
+"Adding and removing applications using Add/Remove and Synaptic Package "
+"Manager"
+msgstr ""
+
+#: introduction/xinclude.xml:639(para)
+msgid "Installing a Single Package File"
+msgstr ""
+
+#: introduction/xinclude.xml:647(para)
+msgid "Software Repositories"
+msgstr ""
+
+#: introduction/xinclude.xml:655(para)
+msgid "Adding New Language Settings"
+msgstr ""
+
+#: introduction/xinclude.xml:696(emphasis)
+msgid "Making the Most of Images and Photos"
+msgstr ""
+
+#: introduction/xinclude.xml:708(para)
+msgid "Introducing Graphics Applications"
+msgstr ""
+
+#: introduction/xinclude.xml:716(para)
+msgid "The GIMP"
+msgstr ""
+
+#: introduction/xinclude.xml:724(para)
+msgid "Managing Photos with F-Spot"
+msgstr ""
+
+#: introduction/xinclude.xml:732(para)
+msgid "Drawing with Inkscape"
+msgstr ""
+
+#: introduction/xinclude.xml:740(para)
+msgid "Using a Scanner"
+msgstr ""
+
+#: introduction/xinclude.xml:781(emphasis)
+msgid "Playing Music and Videos"
+msgstr ""
+
+#: introduction/xinclude.xml:795(para)
+msgid "Legal Restrictions"
+msgstr ""
+
+#: introduction/xinclude.xml:803(para)
+msgid "Playing Music Files"
+msgstr ""
+
+#: introduction/xinclude.xml:811(para)
+msgid "Playing and Extracting Audio CDs"
+msgstr ""
+
+#: introduction/xinclude.xml:819(para)
+msgid "Burning Audio CDs"
+msgstr ""
+
+#: introduction/xinclude.xml:827(para)
+msgid "Playing Proprietary Multimedia Formats"
+msgstr ""
+
+#: introduction/xinclude.xml:835(para)
+msgid "Using an iPod"
+msgstr ""
+
+#: introduction/xinclude.xml:843(para)
+msgid "Creating and Editing Audio Files"
+msgstr ""
+
+#: introduction/xinclude.xml:851(para)
+msgid "Using DVDs"
+msgstr ""
+
+#: introduction/xinclude.xml:859(para)
+msgid "Playing Online Media"
+msgstr ""
+
+#: introduction/xinclude.xml:867(para)
+msgid "Editing Videos"
+msgstr ""
+
+#: introduction/xinclude.xml:908(emphasis)
+msgid "Ubuntu: Help and Support"
+msgstr ""
+
+#: introduction/xinclude.xml:928(para)
+msgid "Free support resources"
+msgstr ""
+
+#: introduction/xinclude.xml:936(para)
+msgid "System documentation"
+msgstr ""
+
+#: introduction/xinclude.xml:944(para)
+msgid "Online Documentation"
+msgstr ""
+
+#: introduction/xinclude.xml:952(para)
+msgid "Community Support"
+msgstr ""
+
+#: introduction/xinclude.xml:960(para)
+msgid "Launchpad"
+msgstr ""
+
+#: introduction/xinclude.xml:968(para)
+msgid "The Fridge"
+msgstr ""
+
+#: introduction/xinclude.xml:976(para)
+msgid "Paid for Commercial Services"
+msgstr ""
+
+#: introduction/xinclude.xml:1009(emphasis)
+msgid "Partitioning and Booting - optional"
+msgstr ""
+
+#: introduction/xinclude.xml:1021(para)
+msgid "What is Partitioning"
+msgstr ""
+
+#: introduction/xinclude.xml:1029(para)
+msgid "Creating a Partition"
+msgstr ""
+
+#: introduction/xinclude.xml:1037(para)
+msgid "Boot-up Options"
+msgstr ""
+
+#: introduction/xinclude.xml:1069(para)
+msgid "Course Summary"
+msgstr ""
+
+#: introduction/xinclude.xml:1080(title)
+msgid "Instructor Responsibilities"
+msgstr ""
+
+#: introduction/xinclude.xml:1081(para)
+msgid "Instructors are:"
+msgstr ""
+
+#: introduction/xinclude.xml:1084(para)
+msgid ""
+"Responsible for conducting classes professionally and ensuring that the "
+"classroom environment is conducive to learning; this includes adhering to "
+"the schedule for start times, breaks, and lunches."
+msgstr ""
+
+#: introduction/xinclude.xml:1090(para)
+msgid ""
+"Available during lab sessions to answer questions and assist students in "
+"completing the exercises."
+msgstr ""
+
+#: introduction/xinclude.xml:1094(para)
+msgid ""
+"Committed to delivering a positive learning experience for all students."
+msgstr ""
+
+#: introduction/xinclude.xml:1098(para)
+msgid ""
+"Responsible for providing students with a course feedback questionnaire at "
+"the end of the course."
+msgstr ""
+
+#: introduction/xinclude.xml:1104(title)
+msgid "Pre-Training Preparation/Checks"
+msgstr ""
+
+#: introduction/xinclude.xml:1107(para)
+msgid ""
+"Familiarise yourself with the student profile and expectations. Some "
+"elements of the course may need to be customised."
+msgstr ""
+
+#: introduction/xinclude.xml:1112(para)
+msgid ""
+"Pre-run and check all student and instructor computers and make sure they "
+"are functional and running well on Ubuntu."
+msgstr ""
+
+#: introduction/xinclude.xml:1117(para)
+msgid ""
+"Ensure you check the classroom set-up guide, test each lab exercise and "
+"troubleshoot problems encountered, if any."
+msgstr ""
+
+#: introduction/xinclude.xml:1122(para)
+msgid ""
+"Go through the Instructor Guide and the presentation slides in detail before "
+"getting into the classroom."
+msgstr ""
+
+#: introduction/xinclude.xml:1127(para)
+msgid ""
+"Students may not be able to answer all the questions based on the content in "
+"the presentation slides. Please ensure to cover the related topics prior to "
+"posing the questions to the students."
+msgstr ""
+
+#: introduction/xinclude.xml:1133(para)
+msgid ""
+"It is highly recommended that you teach each topic covered in the training "
+"material. However, if you are running short of time, optional topics are "
+"indicated in the Instructor Notes of each lesson."
+msgstr ""
+
+#: introduction/xinclude.xml:1142(title)
+msgid "Instructional Methods"
+msgstr ""
+
+#: introduction/xinclude.xml:1143(para)
+msgid "Here are some instructional methods that will be used to teach:"
+msgstr ""
+
+#: introduction/xinclude.xml:1147(para)
+msgid ""
+"Slides and lecture: Slides will be used to explain concepts and also "
+"illustrate the step-by-step procedure to perform each task."
+msgstr ""
+
+#: introduction/xinclude.xml:1152(para)
+msgid ""
+"Demonstrations: Instructor will perform live demonstrations of procedures "
+"that may be complicated for students, before doing a hands-on exercise."
+msgstr ""
+
+#: introduction/xinclude.xml:1157(para)
+msgid ""
+"Review questions: Should be interspersed throughout each lesson, to ensure "
+"student understanding of key concepts."
+msgstr ""
+
+#: introduction/xinclude.xml:1162(para)
+msgid ""
+"Lab exercises: At regular intervals, students will be performing hands-on "
+"lab exercises that replicate the real life scenarios."
+msgstr ""
+
+#: introduction/xinclude.xml:1169(title)
+msgid "Instructional Tips/Guidelines"
+msgstr ""
+
+#: introduction/xinclude.xml:1172(para)
+msgid ""
+"Use conversational language that is easy to understand and sounds natural to "
+"the students."
+msgstr ""
+
+#: introduction/xinclude.xml:1176(para)
+msgid "Create a comfortable, relaxed environment throughout."
+msgstr ""
+
+#: introduction/xinclude.xml:1180(para)
+msgid ""
+"Be prompt with your responses to student queries. If you are not sure about "
+"anything, inform them and get back with your response the next day."
+msgstr ""
+
+#: introduction/xinclude.xml:1185(para)
+msgid ""
+"Circulate around the room as students complete the exercise and reach out to "
+"students struggling with the exercise."
+msgstr ""
+
+#: introduction/xinclude.xml:1190(para)
+msgid ""
+"Use technology (slides, demos, and guided lab exercises) in the most "
+"appropriate ways depending on the audience profile and their comfort with "
+"Ubuntu."
+msgstr ""
+
+#: introduction/xinclude.xml:1196(para)
+msgid ""
+"Use presentation slides to stay on topic and avoid getting lost and cover "
+"the main points without forgetting anything. Glance at a specific point and "
+"quickly return attention to the students. Avoid reading out the slide word "
+"by word."
+msgstr ""
+
+#: introduction/xinclude.xml:1203(para)
+msgid ""
+"To encourage interactivity, use the lab exercises throughout the lesson."
+msgstr ""
+
+#: introduction/xinclude.xml:1209(title)
+msgid "Lecture Components"
+msgstr ""
+
+#: introduction/xinclude.xml:1210(para)
+msgid "Each lecture can be divided in the following components."
+msgstr ""
+
+#: introduction/xinclude.xml:1215(para)
+msgid "On the first day,"
+msgstr ""
+
+#: introduction/xinclude.xml:1218(para)
+msgid ""
+"Welcome the students and introduce yourself followed by students introducing "
+"themselves - name, professional background, and company, expectations and "
+"level of experience with Linux OS."
+msgstr ""
+
+#: introduction/xinclude.xml:1224(para)
+msgid ""
+"Clearly state the purpose and objectives of the training in general terms."
+msgstr ""
+
+#: introduction/xinclude.xml:1228(para)
+msgid "Establish the ground rules for breaks."
+msgstr ""
+
+#: introduction/xinclude.xml:1233(title)
+msgid "Context Setting"
+msgstr ""
+
+#: introduction/xinclude.xml:1234(para)
+msgid "Use any/all of the following methods:"
+msgstr ""
+
+#: introduction/xinclude.xml:1237(para)
+msgid "Giving out a brief introduction to the topic."
+msgstr ""
+
+#: introduction/xinclude.xml:1241(para)
+msgid "Explaining why the topic is important from learner's perspective."
+msgstr ""
+
+#: introduction/xinclude.xml:1245(para)
+msgid "Providing a link from the previous to the current topic."
+msgstr ""
+
+#: introduction/xinclude.xml:1251(title)
+msgid "Main Body"
+msgstr ""
+
+#: introduction/xinclude.xml:1252(para)
+msgid ""
+"You could use any or all of the Instructional methods listed above. However, "
+"depending on the student profile and the complexity of the content piece to "
+"be taught, choose any combination of the above mentioned methods. Using a "
+"wide range of teaching styles and methods is also a good instructional "
+"practice as it brings in variety and breaks monotony."
+msgstr ""
+
+#: introduction/xinclude.xml:1261(para)
+msgid ""
+"For complex topics, demonstrate the procedure and then have the students "
+"practice the lab exercise. If the topic is fairly simple, put up the slides "
+"illustrating the procedure and have the students perform the associated lab "
+"simultaneously."
+msgstr ""
+
+#: introduction/xinclude.xml:1268(para)
+msgid "Explain how and when to use each option on the interface."
+msgstr ""
+
+#: introduction/xinclude.xml:1275(title)
+msgid "Summary"
+msgstr ""
+
+#: introduction/xinclude.xml:1276(para)
+msgid ""
+"Always summarize key points of the lesson: The lecture can be summarized by:"
+msgstr ""
+
+#: introduction/xinclude.xml:1280(para)
+msgid "Asking for questions."
+msgstr ""
+
+#: introduction/xinclude.xml:1283(para)
+msgid "Asking questions."
+msgstr ""
+
+#: introduction/xinclude.xml:1286(para)
+msgid ""
+"Using the Lesson Summary presentation slide, which highlight the main points."
+msgstr ""
+
+#: introduction/xinclude.xml:1290(para)
+msgid "Reiterating how the topic relates with the learner's job."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: introduction/xinclude.xml:0(None)
+msgid "translator-credits"
+msgstr ""
