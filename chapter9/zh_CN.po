@@ -1,0 +1,1563 @@
+# Simplified Chinese translation for ubuntu-desktop-course
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubuntu-desktop-course package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-desktop-course\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-08-06 12:43+0200\n"
+"PO-Revision-Date: 2009-10-30 17:23+0000\n"
+"Last-Translator: wzssyqa <wzssyqa@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-10-31 08:34+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:56(None)
+msgid ""
+"@@image: 'images/Lesson10_images_001.png'; "
+"md5=e915bba976451f7b3e2468fe1bc82989"
+msgstr ""
+"@@image: 'images/Lesson10_images_001.png'; "
+"md5=e915bba976451f7b3e2468fe1bc82989"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:82(None)
+msgid ""
+"@@image: 'images/Lesson10_images_002.png'; "
+"md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+msgstr ""
+"@@image: 'images/Lesson10_images_002.png'; "
+"md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:131(None)
+msgid ""
+"@@image: 'images/Lesson10_images_003.png'; "
+"md5=4516deca4721171cb90f84e24c3138b5"
+msgstr ""
+"@@image: 'images/Lesson10_images_003.png'; "
+"md5=4516deca4721171cb90f84e24c3138b5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:192(None)
+msgid ""
+"@@image: 'images/Lesson10_images_004.png'; "
+"md5=f581330fbdbac89582ad56d0fe5cc516"
+msgstr ""
+"@@image: 'images/Lesson10_images_004.png'; "
+"md5=f581330fbdbac89582ad56d0fe5cc516"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:217(None)
+msgid ""
+"@@image: 'images/Lesson10_images_005.png'; "
+"md5=8fc250755a7fc2589e3fc8c02cc83520"
+msgstr ""
+"@@image: 'images/Lesson10_images_005.png'; "
+"md5=8fc250755a7fc2589e3fc8c02cc83520"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:238(None)
+msgid ""
+"@@image: 'images/Lesson10_images_006.png'; "
+"md5=8f999cc18ef54c08352392a0d6f1dac2"
+msgstr ""
+"@@image: 'images/Lesson10_images_006.png'; "
+"md5=8f999cc18ef54c08352392a0d6f1dac2"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:301(None)
+msgid ""
+"@@image: 'images/Lesson10_images_007.png'; "
+"md5=36e2f61c6c284797e1033a8581cba4e9"
+msgstr ""
+"@@image: 'images/Lesson10_images_007.png'; "
+"md5=36e2f61c6c284797e1033a8581cba4e9"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:316(None)
+msgid ""
+"@@image: 'images/Lesson10_images_008.png'; "
+"md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+msgstr ""
+"@@image: 'images/Lesson10_images_008.png'; "
+"md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:334(None)
+msgid ""
+"@@image: 'images/Lesson10_images_009.png'; "
+"md5=7860881cb910500753e6618870bf9b28"
+msgstr ""
+"@@image: 'images/Lesson10_images_009.png'; "
+"md5=7860881cb910500753e6618870bf9b28"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:349(None)
+msgid ""
+"@@image: 'images/Lesson10_images_010.png'; "
+"md5=a56d81763de07e8c82c576e0e61290f9"
+msgstr ""
+"@@image: 'images/Lesson10_images_010.png'; "
+"md5=a56d81763de07e8c82c576e0e61290f9"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:363(None)
+msgid ""
+"@@image: 'images/Lesson10_images_011.png'; "
+"md5=c1c56334f8afcf929c62dce7c246c121"
+msgstr ""
+"@@image: 'images/Lesson10_images_011.png'; "
+"md5=c1c56334f8afcf929c62dce7c246c121"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:413(None)
+msgid ""
+"@@image: 'images/Lesson10_images_012.png'; "
+"md5=75bda44452a7a610f3a9199f9fefa751"
+msgstr ""
+"@@image: 'images/Lesson10_images_012.png'; "
+"md5=75bda44452a7a610f3a9199f9fefa751"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:437(None)
+msgid ""
+"@@image: 'images/Lesson10_images_013.png'; "
+"md5=19c9d8c3013d2ffc0c494b10839aad4b"
+msgstr ""
+"@@image: 'images/Lesson10_images_013.png'; "
+"md5=19c9d8c3013d2ffc0c494b10839aad4b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:451(None)
+msgid ""
+"@@image: 'images/Lesson10_images_014.png'; "
+"md5=576fd5224bd2af6fd60110056c47846a"
+msgstr ""
+"@@image: 'images/Lesson10_images_014.png'; "
+"md5=576fd5224bd2af6fd60110056c47846a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:518(None)
+msgid ""
+"@@image: 'images/Lesson10_images_015.png'; "
+"md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+msgstr ""
+"@@image: 'images/Lesson10_images_015.png'; "
+"md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:533(None)
+msgid ""
+"@@image: 'images/Lesson10_images_016.png'; "
+"md5=74de2a36f128e97dd46c7e9046b0d4da"
+msgstr ""
+"@@image: 'images/Lesson10_images_016.png'; "
+"md5=74de2a36f128e97dd46c7e9046b0d4da"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:550(None)
+msgid ""
+"@@image: 'images/Lesson10_images_017.png'; "
+"md5=967f8515f6267d3893957f7ece56f95a"
+msgstr ""
+"@@image: 'images/Lesson10_images_017.png'; "
+"md5=967f8515f6267d3893957f7ece56f95a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:566(None)
+msgid ""
+"@@image: 'images/Lesson10_images_018.png'; "
+"md5=0521700b06b668ae31897f31e9c086a7"
+msgstr ""
+"@@image: 'images/Lesson10_images_018.png'; "
+"md5=0521700b06b668ae31897f31e9c086a7"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:592(None)
+msgid ""
+"@@image: 'images/Lesson10_images_019.png'; "
+"md5=3e8207cbfcfcc242774714ae195ff360"
+msgstr ""
+"@@image: 'images/Lesson10_images_019.png'; "
+"md5=3e8207cbfcfcc242774714ae195ff360"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:606(None)
+msgid ""
+"@@image: 'images/Lesson10_images_020.png'; "
+"md5=0df8bfdec16f42137670df1b19afcb15"
+msgstr ""
+"@@image: 'images/Lesson10_images_020.png'; "
+"md5=0df8bfdec16f42137670df1b19afcb15"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:636(None)
+msgid ""
+"@@image: 'images/Lesson10_images_021.png'; "
+"md5=4fbe18b5540818faad59ff696c4393eb"
+msgstr ""
+"@@image: 'images/Lesson10_images_021.png'; "
+"md5=4fbe18b5540818faad59ff696c4393eb"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:677(None)
+msgid ""
+"@@image: 'images/Lesson10_images_022.png'; "
+"md5=b787be41e41204c97240a11ac501ad2b"
+msgstr ""
+"@@image: 'images/Lesson10_images_022.png'; "
+"md5=b787be41e41204c97240a11ac501ad2b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:696(None)
+msgid ""
+"@@image: 'images/Lesson10_images_023.png'; "
+"md5=ad23761748ed0732f480b8eeaa4159e0"
+msgstr ""
+"@@image: 'images/Lesson10_images_023.png'; "
+"md5=ad23761748ed0732f480b8eeaa4159e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:729(None)
+msgid ""
+"@@image: 'images/Lesson10_images_024.png'; "
+"md5=4d974ef3cd00828995a855e7ff7c0f7c"
+msgstr ""
+"@@image: 'images/Lesson10_images_024.png'; "
+"md5=4d974ef3cd00828995a855e7ff7c0f7c"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:746(None)
+msgid ""
+"@@image: 'images/Lesson10_images_025.png'; "
+"md5=c574ffd1b99578759473fff2b4d4d458"
+msgstr ""
+"@@image: 'images/Lesson10_images_025.png'; "
+"md5=c574ffd1b99578759473fff2b4d4d458"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:761(None)
+msgid ""
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
+msgstr ""
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:776(None)
+msgid ""
+"@@image: 'images/Lesson10_images_027.png'; "
+"md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
+msgstr ""
+"@@image: 'images/Lesson10_images_027.png'; "
+"md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:810(None)
+msgid ""
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
+msgstr ""
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:825(None)
+msgid ""
+"@@image: 'images/Lesson10_images_029.png'; "
+"md5=555c1ab6556d75cbb01aeea4889a8dde"
+msgstr ""
+"@@image: 'images/Lesson10_images_029.png'; "
+"md5=555c1ab6556d75cbb01aeea4889a8dde"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:842(None)
+msgid ""
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
+msgstr ""
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:877(None)
+msgid ""
+"@@image: 'images/Lesson10_images_031.png'; "
+"md5=6e57129bb90caec2ee5c2f73a2fcd63a"
+msgstr ""
+"@@image: 'images/Lesson10_images_031.png'; "
+"md5=6e57129bb90caec2ee5c2f73a2fcd63a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:913(None)
+msgid ""
+"@@image: 'images/Lesson10_images_032.png'; "
+"md5=9e46bc184b317ea17c31017b911e1899"
+msgstr ""
+"@@image: 'images/Lesson10_images_032.png'; "
+"md5=9e46bc184b317ea17c31017b911e1899"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:948(None)
+msgid ""
+"@@image: 'images/Lesson10_images_033.png'; "
+"md5=fad9bd35e30210d7c255b6c039f9e19e"
+msgstr ""
+"@@image: 'images/Lesson10_images_033.png'; "
+"md5=fad9bd35e30210d7c255b6c039f9e19e"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:968(None)
+msgid ""
+"@@image: 'images/Lesson10_images_034.png'; "
+"md5=b05eca7f15e29eb93348ed9d779eee4f"
+msgstr ""
+"@@image: 'images/Lesson10_images_034.png'; "
+"md5=b05eca7f15e29eb93348ed9d779eee4f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:992(None)
+msgid ""
+"@@image: 'images/Lesson10_images_035.png'; "
+"md5=0d34db061c8c7fabbe5b94a2319ef27f"
+msgstr ""
+"@@image: 'images/Lesson10_images_035.png'; "
+"md5=0d34db061c8c7fabbe5b94a2319ef27f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter9/Ubuntu_Help_and_Support.xml:1013(None)
+msgid ""
+"@@image: 'images/Lesson10_images_036.png'; "
+"md5=fd4be2c49135a50cf636fd32d1a2f059"
+msgstr ""
+"@@image: 'images/Lesson10_images_036.png'; "
+"md5=fd4be2c49135a50cf636fd32d1a2f059"
+
+#: chapter9/Ubuntu_Help_and_Support.xml:4(title)
+msgid "Ubuntu Help and Support"
+msgstr "Ubuntu 帮忙和支持"
+
+#: chapter9/Ubuntu_Help_and_Support.xml:7(title)
+msgid "Objectives"
+msgstr "宗旨"
+
+#: chapter9/Ubuntu_Help_and_Support.xml:9(para)
+msgid "In this lesson, you will learn:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:12(para)
+msgid ""
+"How to seek help for Ubuntu from various sources such as system "
+"documentation, online documentation, commercial support, community support, "
+"Launchpad and The Fridge."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:19(title) chapter9/Ubuntu_Help_and_Support.xml:108(title) chapter9/Ubuntu_Help_and_Support.xml:383(title)
+msgid "Instructor Notes:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:21(para)
+msgid ""
+"This lesson includes an optional hour. In addition to covering the lesson "
+"content, you can devote this hour to elaborate on topics already covered in "
+"the previous lessons or select something from the optional material, such as "
+"partitioning and booting or sections from the music and video lesson."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:29(title)
+msgid "Introduction"
+msgstr "前言"
+
+#: chapter9/Ubuntu_Help_and_Support.xml:31(para)
+msgid ""
+"Help and support for Ubuntu is readily available through a number of sources "
+"so you need not panic if you run into a problem. Essentially there are two "
+"channels for accessing support:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:37(para)
+msgid ""
+"<emphasis role=\"italic\">The first level is: </emphasis> Free, community "
+"based and involves system and online documentation, mailing lists, forums, "
+"IRC channels and Launchpad."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:45(para)
+msgid ""
+"<emphasis role=\"italic\">The second level is: </emphasis> Paid for, "
+"commercial services through Canonical itself and / or various partners."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:52(title)
+msgid "Accessing System Documentation"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:63(title) chapter9/Ubuntu_Help_and_Support.xml:78(title)
+msgid "System Documentation"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:65(para)
+msgid ""
+"The first resource that you should explore is the offline system "
+"documentation. The <ulink "
+"url=\"https://wiki.ubuntu.com/DocumentationTeam\">Ubuntu Documentation "
+"Team</ulink> maintains and updates the documentation for each release. This "
+"documentation is very reliable and available in different languages."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:71(para)
+msgid ""
+"Ubuntu System documentation is organised into topic based help, including "
+"answers to common questions. It is accessed by clicking the <emphasis "
+"role=\"strong\">Help and Support</emphasis> button located under the System "
+"Menu. The following screenshot shows the home page of the Help and Support "
+"offline system documentation."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:87(para)
+msgid ""
+"New to Ubuntu? This section introduces you to the wonderful world of Ubuntu "
+"including an easy to use guide if you are migrating from Microsoft Windows "
+"to Ubuntu. Also in this section, the help guide will explain how to use your "
+"desktop, the role of the administrator and basic computer skills. A great "
+"resource for any newcomers and a top-up to this desktop course."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:94(para)
+msgid ""
+"Some applications do also offer access to the help system through the "
+"<emphasis>Help</emphasis> menu or keyboard shortcut <emphasis>F1</emphasis>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:98(para)
+msgid ""
+"One of the great features of the system documentation is the ability to "
+"search the documentation to help solve the problem you have. Simply type in "
+"the term you are looking for and the system will search all the documents "
+"and guides with related information."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:105(title) chapter9/Ubuntu_Help_and_Support.xml:127(title)
+msgid "Online Documentation"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:110(para)
+msgid "Guide the students through each one of the options on the Web."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:114(para)
+msgid ""
+"The online Ubuntu documentation is available at <ulink "
+"url=\"https://help.ubuntu.com\"> https://help.ubuntu.com</ulink>. There are "
+"two different types of documentation available on this site, official and "
+"community."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:118(para)
+msgid ""
+"The official documentation is the documentation that is included with your "
+"Ubuntu installation by default and is locally accessible from your Ubuntu "
+"desktop. You can also access this documentation on the Internet at the Web "
+"site mentioned above."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:123(para)
+msgid ""
+"The following screenshot shows the home page of the Ubuntu documentation "
+"site:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:136(para)
+msgid ""
+"The documentation is classified according to the various Ubuntu releases, "
+"such as Ubuntu 8.04 LTS, 7.10 and 6.06 LTS."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:139(para)
+msgid ""
+"To access the official documentation locally from your Ubuntu desktop, "
+"without connecting to the Internet, on the <emphasis "
+"role=\"strong\">System</emphasis> menu, click <emphasis role=\"strong\">Help "
+"and Support</emphasis>. You can also use the Help icon on the top panel of "
+"the desktop."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:144(para)
+msgid ""
+"The information available in the official documentation will be enough to "
+"guide you through most topics and problems. However, if you are unable to "
+"find an answer to your queries here, you can look for answers in the second "
+"type of documentation available on this site. This is documentation created "
+"by the community, without following the stringent quality control process of "
+"the Ubuntu Documentation Team. Access this documentation via the tab "
+"labelled <emphasis role=\"strong\">Community Docs</emphasis>. The community "
+"documentation is stored on a Wiki, which allows the documentation to be "
+"changed quickly. While the community documentation covers more topics and "
+"some subjects in greater depth than the official documentation, the lack of "
+"quality assurance control and especially maintenance makes it a slightly "
+"less reliably alternative."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:158(para)
+msgid ""
+"The community documentation is a large collection of community-contributed "
+"documents, primarily covering the following topics:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:164(para)
+msgid ""
+"Migrating from other operating systems, such as Microsoft Windows and Red Hat"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:169(para)
+msgid "Post-installation configuration for a variety of tasks such as"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:174(para)
+msgid "Maintaining your computer"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:178(para)
+msgid "Connecting and configuring hardware"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:184(para)
+msgid ""
+"The following screenshot displays the information available in the community "
+"documentation:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:188(title)
+msgid "Community Documentation"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:197(para)
+msgid ""
+"The community documentation is also classified under various categories. You "
+"can select the desired category from the page index at the right of the "
+"page. You can also use the <emphasis role=\"strong\">Search</emphasis> field "
+"in the top-right corner of the page to look for specific information within "
+"the community documentation. Be aware that <emphasis "
+"role=\"strong\">Titles</emphasis> will restrict the search of your term to "
+"the pages titles only. If a search via titles does not produce any results, "
+"a full <emphasis role=\"strong\">Text</emphasis> search may find the right "
+"page."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:206(para)
+msgid ""
+"You can also find relevant information on the <emphasis "
+"role=\"strong\">CommonQuestions</emphasis> page. Access the <emphasis "
+"role=\"strong\">CommonQuestions</emphasis> page by clicking the <emphasis "
+"role=\"strong\">Common Questions</emphasis> link on the community "
+"documentation page."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:209(para)
+msgid ""
+"The following screenshot displays the <emphasis "
+"role=\"strong\">CommonQuestions</emphasis> page on the Ubuntu Web site:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:213(title)
+msgid "The CommonQuestions Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:222(para)
+msgid ""
+"Additional help is available to you in the form of Ubuntu screencasts. You "
+"can click the <emphasis role=\"strong\">Ubuntu Screencasts</emphasis> link "
+"on the <emphasis role=\"strong\">Community Documentation</emphasis> page to "
+"access a number of videos on using and installing Ubuntu. Each video is "
+"created with the aim of educating new users of Ubuntu. Each video is "
+"available in three sizes, large, medium and small, and two formats, OGG and "
+"Flash."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:230(para)
+msgid ""
+"The following is an example of a screenshot from a video on installing "
+"applications:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:234(title)
+msgid "The Screencasts Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:244(title) chapter9/Ubuntu_Help_and_Support.xml:419(title) chapter9/Ubuntu_Help_and_Support.xml:494(title) chapter9/Ubuntu_Help_and_Support.xml:612(title) chapter9/Ubuntu_Help_and_Support.xml:651(title) chapter9/Ubuntu_Help_and_Support.xml:854(title) chapter9/Ubuntu_Help_and_Support.xml:883(title) chapter9/Ubuntu_Help_and_Support.xml:901(title) chapter9/Ubuntu_Help_and_Support.xml:998(title) chapter9/Ubuntu_Help_and_Support.xml:1019(title)
+msgid "Note:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:246(para)
+msgid ""
+"These screen casts are licensed under the Creative Commons Attributions-"
+"Share Alike 3.0 License. You are free to modify, share, sell or distribute "
+"these screencasts as long as the attribution to Ubuntu is intact."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:254(title)
+msgid "Community Support"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:256(para)
+msgid ""
+"The vast and ever growing Ubuntu community also offers a range of free "
+"support options for your Ubuntu desktop. Apart from the community "
+"documentation, the Ubuntu community provides support through:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:262(para) chapter9/Ubuntu_Help_and_Support.xml:1133(para)
+msgid "Mailing lists"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:266(para) chapter9/Ubuntu_Help_and_Support.xml:397(title) chapter9/Ubuntu_Help_and_Support.xml:409(title)
+msgid "Web Forums"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:270(para) chapter9/Ubuntu_Help_and_Support.xml:481(title)
+msgid "IRC Channels"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:274(para) chapter9/Ubuntu_Help_and_Support.xml:575(title)
+msgid "LoCo Teams"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:278(para) chapter9/Ubuntu_Help_and_Support.xml:621(title) chapter9/Ubuntu_Help_and_Support.xml:632(title)
+msgid "The Ubuntu Team Wiki"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:283(title)
+msgid "Mailing Lists"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:285(para)
+msgid ""
+"To get help on a specific problem, all you need to do is to send your query "
+"through e-mail to the relevant mailing list and you will get a quick "
+"response from the team."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:289(para)
+msgid ""
+"You will need to subscribe to the mailing list first by visiting the Ubuntu "
+"Mailing Lists Web site at <ulink "
+"url=\"https://lists.ubuntu.com/\">https://lists.ubuntu.com/</ulink>. The "
+"<emphasis role=\"strong\">Mailing Lists</emphasis> page displays all the "
+"public mailing lists to which you can subscribe and their topic."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:294(para)
+msgid ""
+"The following screenshot displays the <emphasis role=\"strong\">Mailing "
+"Lists</emphasis> page:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:297(title)
+msgid "The Mailing Lists Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:306(para)
+msgid ""
+"To get help for your Ubuntu desktop, you should go to the <emphasis "
+"role=\"strong\">Community Support</emphasis> and select the <emphasis "
+"role=\"strong\">ubuntu-users</emphasis> mailing list. This will take you to "
+"a page like the following:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:312(title)
+msgid "Subscribing to Ubuntu-users Mailing List"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:321(para)
+msgid ""
+"You need to provide your e-mail address, your name and a password in the "
+"appropriate boxes and then click the <emphasis "
+"role=\"strong\">Subscribe</emphasis> button."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:324(para)
+msgid ""
+"When you subscribe to a mailing list, a confirmation mail is sent to your "
+"provided e-mail to verify that it is your address. To activate this mailing "
+"list, you need to first open your e-mail account and then click the link "
+"provided in the confirmation e-mail."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:330(title)
+msgid "Confirmation Mail"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:339(para)
+msgid ""
+"Clicking this link takes you to the <emphasis role=\"strong\">Confirm "
+"subscription request</emphasis> page, where you can verify the details of "
+"your subscription request and subscribe to the selected mailing list by "
+"clicking the <emphasis role=\"strong\">Subscribe to list ubuntu-"
+"users</emphasis> button."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:345(title)
+msgid "Confirm Subscription Request Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:354(para)
+msgid ""
+"Finally, you will receive a confirmation message saying that your "
+"subscription request to the selected mailing list has been confirmed."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:359(title)
+msgid "Confirmation of Subscription Request Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:368(para)
+msgid ""
+"Soon after, you will receive a welcome mail containing the mailing address "
+"of your selected mailing list and you will then be able to send e-mail "
+"messages to this list. Before sending your first query, it is good practice "
+"to read a bit of the archive, as the topic may have already been covered. "
+"The archive will also give you an idea of how much volume to expect from a "
+"list and get a \"feel\" of others who are active on the list."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:376(para)
+msgid ""
+"It is possible that you will be flooded with many responses to your posting. "
+"The level of emails received can be controlled by adjusting your preferences "
+"on the <emphasis role=\"strong\">UserCP (User Control Panel)</emphasis>. You "
+"can use this panel to customize your profile and preferences too."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:385(para)
+msgid ""
+"To use the mailing lists, some guidelines are given in the Mailing List "
+"Etiquette page. To read these guidelines, go to <ulink "
+"url=\"http://www.ubuntu.com/support/community/mailinglists/etiquette\">http:/"
+"/www.ubuntu.com/support/community/mailinglists/etiquette</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:391(para)
+msgid ""
+"The mailing lists archive is an excellent resource of information, as quite "
+"a few questions have been discussed on the lists already. The archive can be "
+"seen as a memory for the mailing lists expertise."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:399(para)
+msgid ""
+"Web forums are often an easier and more immediate alternative to mailing "
+"lists as you can receive help on various issues without subscribing to a "
+"high-traffic mailing list. They are easier to use, available in a Web "
+"browser and are an ideal way for you to meet other Ubuntu users and "
+"developers."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:405(para)
+msgid ""
+"The following screenshot displays the home page of the Ubuntu forums Web "
+"site:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:421(para)
+msgid ""
+"To access the Ubuntu forums, go to: <ulink "
+"url=\"http://ubuntuforums.org/\">http://ubuntuforums.org/</ulink> or <ulink "
+"url=\"http://www.ubuntu.com/community/forums\">http://www.ubuntu.com/communit"
+"y/forums</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:425(para)
+msgid ""
+"The Ubuntu forums are entirely maintained and moderated by volunteers and "
+"are available in many languages such as Chinese, Dutch, German, Finnish and "
+"French."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:429(para)
+msgid "The following screenshot displays a view of the Ubuntu French forum:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:433(title)
+msgid "Ubuntu French Forum"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:442(para)
+msgid ""
+"You need to register on the forum to be able to post messages and get "
+"support. To do this, click the <emphasis role=\"strong\">Register</emphasis> "
+"link displayed on the home page which will lead to the following page:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:447(title)
+msgid "Ubuntu Forum Rules Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:456(para)
+msgid ""
+"Follow all the instructions on this and the following pages to sign on to "
+"the Ubuntu forum. You will then receive a confirmation that your "
+"registration is complete."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:460(para)
+msgid ""
+"You can now sign in with your new user name and password and start using the "
+"Web forum for posting new messages and searching the existing ones. The "
+"postings on the Web forum are segregated into several categories based on "
+"their subject. To get an answer for a specific question, you may first look "
+"into the related category. Each category contains threads to all the "
+"postings already made under that category."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:468(para)
+msgid ""
+"An alternate method to search the desired information is by using the "
+"<emphasis role=\"strong\">Search</emphasis> option on the right of the home "
+"page. You can type your question in the <emphasis role=\"strong\">Search "
+"Forums</emphasis> field and run a search. It is more than likely that you "
+"will find your desired information in these postings."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:474(para)
+msgid ""
+"However, if you do not find the required information in the questions that "
+"have already been asked, you can create a new posting on the Web forum. You "
+"are likely to receive an answer very quickly, otherwise the Unanswered Posts "
+"Team will pick up your post within 24 hours."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:483(para)
+msgid ""
+"The IRC channels are a form of real-time Internet chat that enable users to "
+"talk directly (and immediately) with one another."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:486(para)
+msgid ""
+"IRC channels are available on the freenode network, irc.freenode.net. The "
+"best channel for you to interact with other Ubuntu users is #ubuntu. Other "
+"specialised channels related to Ubuntu variants, such as #kubuntu, #edubuntu "
+"and #xubuntu are also available. In addition, channels related to bugs, "
+"development, LoCo teams, accessibility and documentation are also available."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:496(para)
+msgid ""
+"To see a list of IRC channels and clients, go to <ulink "
+"url=\"https://help.ubuntu.com/community/InternetRelayChat\">https://help.ubun"
+"tu.com/community/InternetRelayChat</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:500(para)
+msgid ""
+"There are many ways to connect to an IRC channel and one of them is by using "
+"the Pidgin instant messenger. Connecting to Pidgin was covered in Lesson 3."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:505(title)
+msgid "Once in Pidgin, you can access various IRC channels by:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:508(para)
+msgid ""
+"Open the <emphasis role=\"strong\">Buddies</emphasis> menu to view the "
+"available options, and click <emphasis role=\"strong\">Add Chat</emphasis>. "
+"This displays the <emphasis role=\"strong\">Add Chat</emphasis> dialogue box."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:514(title)
+msgid "Buddies Menu"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:525(para)
+msgid ""
+"To interact with ubuntu users, type <emphasis "
+"role=\"strong\">#Ubuntu</emphasis> in the <emphasis role=\"strong\">Screen "
+"name</emphasis> field. Then click <emphasis role=\"strong\">Add</emphasis>. "
+"This adds the Ubuntu users' account to your <emphasis "
+"role=\"strong\">Buddies List</emphasis>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:529(title)
+msgid "Add Chat Dialogue Box"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:540(para)
+msgid ""
+"Notice that <emphasis role=\"strong\">#ubuntu</emphasis> is added as an IRC "
+"account to your <emphasis role=\"strong\">Buddy List</emphasis>. Double-"
+"click the account name to enter the IRC channel for Ubuntu users."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:546(title)
+msgid "Buddy List"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:557(para)
+msgid ""
+"You have now entered the IRC channel for Ubuntu users. You can use the box "
+"at the bottom of the window to type your messages, and press <emphasis "
+"role=\"strong\">Enter</emphasis> to send them."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:562(title)
+msgid "IRC Channel for Ubuntu Users"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:577(para)
+msgid ""
+"The Ubuntu LoCo (short for 'Local Community') teams are a vital resource for "
+"providing localised support. With the incredible success of Ubuntu around "
+"the world, the Loco project helps groups of Ubuntu fans and enthusiasts work "
+"together in their regional teams to help advocate, promote, translate, "
+"develop and otherwise improve Ubuntu.You can access them through: <ulink "
+"url=\"http://www.ubuntu.com/support/community/locallanguage\">http://www.ubun"
+"tu.com/support/community/locallanguage</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:584(para)
+msgid ""
+"The following screenshot displays the list of languages in which you can "
+"receive help and support on Ubuntu:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:588(title)
+msgid "The LoCo Teams Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:597(para)
+msgid ""
+"To receive help and support on Ubuntu in your local language, select the "
+"desired language from the <emphasis role=\"strong\">Non-English "
+"Support</emphasis> list."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:602(title)
+msgid "Non-English Support Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:614(para)
+msgid ""
+"If you want to start a LoCo team or join an existing one, go to: <ulink "
+"url=\"https://wiki.ubuntu.com/LoCoTeams\">https://wiki.ubuntu.com/LoCoTeams</"
+"ulink>. To view the list of LoCo teams, visit <ulink "
+"url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeam"
+"List</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:623(para)
+msgid ""
+"The Ubuntu Team Wiki is a central Web site that provides access to useful "
+"information on Ubuntu and the supporting Ubuntu project. The pages are "
+"continually updated by the Ubuntu community members. The Ubuntu Team Wiki "
+"can be accessed at <ulink "
+"url=\"https://wiki.ubuntu.com/\">https://wiki.ubuntu.com/</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:628(para)
+msgid "The following is a screenshot of the Ubuntu Team Wiki home page:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:641(para)
+msgid ""
+"As an Ubuntu user, you can also contribute to the wiki content and edit any "
+"of the pages on this site. However, you must observe the Ubuntu code of "
+"conduct while editing any content."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:645(para)
+msgid ""
+"Although the official Ubuntu wiki is available only in English, many wikis "
+"exist through the LoCo Web sites. For instance, the French wiki URL is "
+"<ulink url=\"http://wiki.ubuntu-fr.org\">http://wiki.ubuntu-fr.org</ulink>. "
+"You can find other LoCo teams in <ulink "
+"url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeam"
+"List</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:653(para)
+msgid ""
+"For more information on editing the Ubuntu wiki, visit <ulink "
+"url=\"https://wiki.ubuntu.com/HelpOnEditing\">https://wiki.ubuntu.com/HelpOnE"
+"diting</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:659(title)
+msgid "Launchpad"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:661(para)
+msgid ""
+"Launchpad is a collaborative Web-based suite that helps people develop "
+"directly or contribute to the development of free and open source software. "
+"It is a collaborative system developed by Canonical, with Ubuntu as the most "
+"popular project hosted on it. You can use Shipit with your Launchpad ID and "
+"order Ubuntu CDs, report a bug, assist in translation of Ubuntu and more. "
+"This course covers the Launchpad Technical Answers section, Launchpad Bug "
+"Tracking and Shipit (ordering Ubuntu CDs)."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:669(para)
+msgid ""
+"You can visit Launchpad at <ulink "
+"url=\"https://launchpad.net\">https://launchpad.net</ulink>. The following "
+"screenshot displays the home page of the Launchpad site:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:673(title)
+msgid "The Launchpad Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:682(para)
+msgid ""
+"Information stored on Launchpad can be retrieved anonymously. To submit "
+"information on Launchpad, you need to first create an account on Launchpad. "
+"You can create a Launchpad account by clicking the <emphasis "
+"role=\"strong\">Register</emphasis> link at the top-right corner of the home "
+"page and filling the required details under the <emphasis "
+"role=\"strong\">Not registered yet?</emphasis> section. Click <emphasis "
+"role=\"strong\">Register</emphasis> to complete the registration process. "
+"You may also use an OpenID login to access Launchpad. For more information "
+"on on OpenID see the project website at: <ulink "
+"url=\"https://openid.net\">http://openid.net</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:692(title)
+msgid "Registration Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:701(para)
+msgid ""
+"After you register, you can log on again and return to the home page to "
+"search the required information. You can do this by either asking a fresh "
+"question or searching the relevant information within the existing answers "
+"on the Launchpad site."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:707(title)
+msgid "Launchpad Technical Answers"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:709(para)
+msgid ""
+"To search for an answer in the existing questions, click the <emphasis "
+"role=\"strong\">Answers</emphasis> icon on the right. This displays the "
+"<emphasis role=\"strong\">Questions and answers</emphasis> page. To obtain "
+"information about a specific project, such as Ubuntu, you can select the "
+"project name from the <emphasis role=\"strong\">Most active "
+"projects</emphasis> list. This displays the <emphasis "
+"role=\"strong\">Question for Ubuntu</emphasis> page on Launchpad."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:717(title)
+msgid "Nice to Know"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:719(para)
+msgid ""
+"Many applications on Ubuntu provide the <emphasis role=\"strong\">Get Help "
+"Online</emphasis> menu entry in their Help menu. This can be used as a "
+"shortcut to visit the Technical Answers section in Launchpad."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:725(title)
+msgid "Questions and Answers Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:734(para)
+msgid ""
+"On this page, all answers specific to the Ubuntu project are listed under "
+"various categories. You can type your question in the <emphasis "
+"role=\"strong\">Search</emphasis> field to search for an answer in the "
+"existing questions. Alternatively, you can click the <emphasis "
+"role=\"strong\">Ask a question</emphasis> button to display the <emphasis "
+"role=\"strong\">Ask a question</emphasis> page."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:742(title)
+msgid "Questions for Ubuntu Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:751(para)
+msgid ""
+"You can ask a question by selecting your preferred language and then typing "
+"the summary of your question in the <emphasis "
+"role=\"strong\">Summary</emphasis> field. Clicking <emphasis "
+"role=\"strong\">Continue</emphasis> displays a list of questions that may be "
+"similar to what you asked."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:757(title)
+msgid "Ask a Question Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:766(para)
+msgid ""
+"If you still do not find the required answer, go ahead and type the "
+"description of the problem in the <emphasis "
+"role=\"strong\">Description</emphasis> field. You can then click <emphasis "
+"role=\"strong\">Add</emphasis> to add the question to the main Launchpad "
+"database."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:772(title)
+msgid "Question Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:781(para)
+msgid ""
+"When your question is answered, you will receive an e-mail notification, "
+"stating that your question has been replied to."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:786(title)
+msgid "Launchpad Bug Tracker: Malone"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:788(para)
+msgid ""
+"Malone is a Web-based, collaborative, bug-tracking tool available with "
+"Launchpad. It provides you with a location to report any bugs that you find "
+"in Ubuntu and its various applications. It also enables you to track the "
+"bugs during their life, right until they have been resolved."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:794(para)
+msgid ""
+"If you find any problems in Ubuntu and its related applications, you can "
+"report it on Launchpad by clicking the <emphasis "
+"role=\"strong\">Bugs</emphasis> icon on home page. This displays the "
+"<emphasis role=\"strong\">Bug tracking</emphasis> page of the Launchpad Web "
+"site."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:800(para)
+msgid ""
+"The <emphasis role=\"strong\">Bug tracking</emphasis> page displays all the "
+"recently reported and recently fixed bugs. Before reporting a new bug on "
+"Launchpad, you must run a search in the existing bug reports to ensure that "
+"this bug has not been reported already."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:806(title)
+msgid "The Bug Tracking Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:815(para)
+msgid ""
+"You can report a fresh bug on the <emphasis role=\"strong\">Report a "
+"bug</emphasis> page, which can be displayed by clicking the <emphasis "
+"role=\"strong\">Report a bug</emphasis> button on the <emphasis "
+"role=\"strong\">Bug tracking</emphasis> page."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:818(para)
+msgid ""
+"Type a small description of the bug in the <emphasis "
+"role=\"strong\">Summary</emphasis> field, and click <emphasis "
+"role=\"strong\">Continue</emphasis> to report the bug."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:821(title)
+msgid "Report a Bug Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:830(para)
+msgid ""
+"When you click the <emphasis role=\"strong\">Continue</emphasis> button, the "
+"bug tracker displays a list containing similar bugs reported earlier on "
+"Launchpad. If you do not find your bug listed here, you can still report the "
+"bug as a fresh bug by clicking the <emphasis role=\"strong\">No, I'd like to "
+"report a new bug</emphasis> radio button at the bottom of this page. This "
+"displays a new section at the bottom of the page."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:838(title)
+msgid "Look for the Reported Bug"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:847(para)
+msgid ""
+"You are then required to provide further detailed information about the bug, "
+"such as the steps to reproduce the bug and version information. After "
+"providing the required details, you can finally submit the bug report by "
+"clicking the <emphasis role=\"strong\">Submit Bug Report</emphasis> button."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:856(para)
+msgid ""
+"Visit Malone at <ulink "
+"url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:861(title)
+msgid "Shipit"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:863(para)
+msgid ""
+"Shipit is an application you can use to request the delivery of Ubuntu CDs. "
+"Although Ubuntu can be freely downloaded from the Internet, you can also "
+"request a free-of-charge mail delivery of the Ubuntu CD. This is especially "
+"useful if you have slow Internet connection, as downloading the OS can take "
+"a while. Delivery may take up to 10 weeks."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:870(para)
+msgid "The following screenshot displays the Shipit site:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:873(title)
+msgid "The Shipit Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:885(para)
+msgid ""
+"Visit Shipit at <ulink "
+"url=\"http://Shipit.ubuntu.com\">http://Shipit.ubuntu.com</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:891(title) chapter9/Ubuntu_Help_and_Support.xml:909(title)
+msgid "The Fridge"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:893(para)
+msgid ""
+"The Fridge is an information hub for the Ubuntu community, bringing together "
+"news, grassroots marketing, advocacy, team collaboration and great original "
+"content. Just like the family fridge at home, this is where the Ubuntu "
+"family can exhibit its best work for everyone to see, along with the "
+"requisite jokes, reminders, invitations, news clippings and photos."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:903(para)
+msgid ""
+"Visit The Fridge at <ulink "
+"url=\"http://fridge.ubuntu.com/\">http://fridge.ubuntu.com/</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:906(para)
+msgid "The following is a screenshot of The Fridge home page:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:920(title)
+msgid "Paid For Commercial Services"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:922(para)
+msgid ""
+"Canonical provides professional support across the globe. You can purchase "
+"this support by contacting the Global Support Services team on the Ubuntu "
+"Web site at <ulink "
+"url=\"http://www.ubuntu.com/support/paid\">http://www.ubuntu.com/support/paid"
+"</ulink>. Professional support services can also be obtained through the "
+"network of companies and partners listed in the Canonical Marketplace."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:929(title)
+msgid "Professional Support Services from Canonical"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:931(para)
+msgid ""
+"Canonical Global Support Services are deployed to enable 24x7 assistance to "
+"customers. The Global Support Services team utilises its vast experience and "
+"knowledge base to identify the challenges that customers may face when "
+"installing and maintaining new platforms and applications. From optimising "
+"your small office set-up to providing guidance on very large deployments, "
+"the Global Support Services team is always ready to help you get the most "
+"out of Ubuntu."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:939(para)
+msgid ""
+"Support is provided for desktops, servers and thin client servers, and "
+"clusters. The following screenshot shows the various types of support "
+"services offered:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:944(title)
+msgid "The Various Type of Support Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:953(para)
+msgid ""
+"To purchase commercial support, click the <emphasis role=\"strong\">contact "
+"us</emphasis> link available at the bottom of the <emphasis "
+"role=\"strong\">Canonical Global Support Services</emphasis> page. This "
+"takes you to the <emphasis role=\"strong\">About us</emphasis> page. You can "
+"fill the form provided on this page to request more information about "
+"Canonical Global Support Services. Alternatively, you may click the "
+"<emphasis role=\"strong\">Purchase Support</emphasis> button present in the "
+"left <emphasis role=\"strong\">Navigation</emphasis> pane. If you are a "
+"company employee, ask your I.S. team for details of your support options as "
+"this will vary from company to company."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:964(title)
+msgid "About Us Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:973(para)
+msgid ""
+"After you purchase the support, you will receive a confirmation e-mail "
+"message containing your support ID number. You will also receive a phone "
+"call welcoming you to the service."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:979(title) chapter9/Ubuntu_Help_and_Support.xml:988(title)
+msgid "The Canonical Marketplace"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:981(para)
+msgid ""
+"The Canonical Marketplace lists a number of companies and partners located "
+"in various regions of the world which provide local support for desktops and "
+"servers running Ubuntu."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:985(para)
+msgid ""
+"The following screenshot displays the <emphasis "
+"role=\"strong\">Marketplace</emphasis> page on the Ubuntu Web site:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1000(para)
+msgid ""
+"To find support and solutions from local providers, visit <ulink "
+"url=\"http://www.ubuntu.com/support/commercial/marketplace\">http://www.ubunt"
+"u.com/support/commercial/marketplace</ulink>."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1003(para)
+msgid ""
+"Selecting your region from the list provided will lead you to a "
+"comprehensive list of all the Local Support Service providers in that "
+"region. The following screenshot displays a list of all the Local Support "
+"Services providers existing in Africa:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1009(title)
+msgid "Local Support Services Page"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1021(para)
+msgid ""
+"If your company is providing Ubuntu-related services then you too have the "
+"option of being listed in the Canonical Marketplace as a Local Services "
+"Provider. To do this simply click the <emphasis role=\"strong\">send us your "
+"information</emphasis> link at the bottom of the <emphasis "
+"role=\"strong\">Marketplace</emphasis> page."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1030(title)
+msgid "Lesson Summary"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1032(para)
+msgid "In this lesson, you learned:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1036(para)
+msgid ""
+"The various sources where you can find both free and paid for support on "
+"Ubuntu - system and online documentation, commercial support, community "
+"support, Launchpad and The Fridge."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1042(para)
+msgid ""
+"System and Online documentation provide the primary source of help and "
+"contains both official and community documentation."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1047(para)
+msgid ""
+"The Ubuntu community also provides vital support through mailing lists, Web "
+"forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1053(para)
+msgid ""
+"You can use Launchpad to perform tasks such as searching Ubuntu related "
+"information, tracking bugs in Ubuntu and placing orders for Ubuntu CDs."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1059(para)
+msgid ""
+"The Fridge is an information hub for the Ubuntu community, bringing together "
+"news, grassroots marketing, advocacy, team collaboration and great original "
+"content."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1065(para)
+msgid ""
+"Canonical provides professional support across the globe, which you can "
+"purchase by contacting the Global Support Services team."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1071(para)
+msgid ""
+"Professional support services can also be obtained through the companies and "
+"partners listed in the Canonical Marketplace."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1078(title)
+msgid "Review Exercise"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1083(para)
+msgid "Name the major sources of help and support for Ubuntu."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1087(para)
+msgid ""
+"The major sources of help and support for Ubuntu are system and online "
+"documentation, commercial support, community support, Launchpad and the "
+"Fridge."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1095(para)
+msgid ""
+"What types of documentation is available on the documentation site of Ubuntu?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1100(para)
+msgid ""
+"Four types of documentations are available on the Ubuntu documentation site. "
+"These are the Ubuntu official documentation, community documentation, common "
+"questions and Ubuntu screencasts."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1109(para)
+msgid "What are the options for obtaining commercial support for Ubuntu?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1114(para)
+msgid ""
+"The options for obtaining commercial support are either by getting the "
+"support directly from Canonical through their Global Support Services team "
+"or through the network of companies and partners that are listed in the "
+"Canonical Marketplace."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1123(para)
+msgid ""
+"What are the different platforms through which the Ubuntu community extends "
+"its help and support?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1128(para)
+msgid ""
+"The different platforms through which the Ubuntu community extends its help "
+"and support are:"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1137(para)
+msgid "Web forums"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1141(para)
+msgid "IRC channels"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1145(para)
+msgid "LoCo teams"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1149(para)
+msgid "The Ubuntu wiki"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1157(para)
+msgid "What are IRC channels?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1161(para)
+msgid ""
+"IRC channels are a form of real-time Internet chat that allows users to talk "
+"directly to one another."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1168(para)
+msgid "What help and support do the LoCo teams provide to Ubuntu users?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1173(para)
+msgid ""
+"The LoCo teams are primarily involved in providing free local support, such "
+"as one-on-one troubleshooting, group sessions and presentations about "
+"Ubuntu. Simultaneously, these teams are actively engaged in providing non-"
+"English support to the Ubuntu users."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1182(para)
+msgid "What is Launchpad?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1186(para)
+msgid ""
+"Launchpad is a Web-based suite that helps people develop free and open "
+"source software. It is a collaborative system developed by Canonical and is "
+"primarily used to track many aspects of open source development."
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1195(para)
+msgid "What is the name of the bug-tracking tool available with Launchpad?"
+msgstr ""
+
+#: chapter9/Ubuntu_Help_and_Support.xml:1200(para)
+msgid "Malone is the bug-tracking tool available with Launchpad."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: chapter9/Ubuntu_Help_and_Support.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Azrael Green https://launchpad.net/~azrael-green\n"
+"  wzssyqa https://launchpad.net/~wzssyqa"

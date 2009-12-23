@@ -1,0 +1,1475 @@
+# Chinese (Simplified) translation for ubuntu-desktop-course
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubuntu-desktop-course package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-desktop-course\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-08-06 12:43+0200\n"
+"PO-Revision-Date: 2009-11-12 07:44+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-11-13 11:21+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:134(None)
+msgid ""
+"@@image: 'images/chapter1_img_02.png'; md5=7957ea25aac579a2b7b862880520c777"
+msgstr ""
+"@@image: 'images/chapter1_img_02.png'; md5=7957ea25aac579a2b7b862880520c777"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:192(None)
+msgid ""
+"@@image: 'images/chapter1_img_03.png'; md5=2a756b1ed9f8b8cf907728a6699b1152"
+msgstr ""
+"@@image: 'images/chapter1_img_03.png'; md5=2a756b1ed9f8b8cf907728a6699b1152"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:238(None)
+msgid ""
+"@@image: 'images/chapter1_img_04.png'; md5=c5625b9df7b30e425d856aa8a863393f"
+msgstr ""
+"@@image: 'images/chapter1_img_04.png'; md5=c5625b9df7b30e425d856aa8a863393f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:318(None)
+msgid ""
+"@@image: 'images/chapter1_img_05.png'; md5=510a7c7dce7e72edf30031b775946801"
+msgstr ""
+"@@image: 'images/chapter1_img_05.png'; md5=510a7c7dce7e72edf30031b775946801"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:871(None)
+msgid ""
+"@@image: 'images/Lesson02_images_003.png'; "
+"md5=a4a51227912e40025008dbf939f49105"
+msgstr ""
+"@@image: 'images/Lesson02_images_003.png'; "
+"md5=a4a51227912e40025008dbf939f49105"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:897(None)
+msgid ""
+"@@image: 'images/Lesson02_images_004.png'; "
+"md5=b9623c4571de3df2ff01ef96b3ee3912"
+msgstr ""
+"@@image: 'images/Lesson02_images_004.png'; "
+"md5=b9623c4571de3df2ff01ef96b3ee3912"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:1055(None)
+msgid ""
+"@@image: 'images/Lesson02_images_006.png'; "
+"md5=a866364ec51f76682dd89b0fe99ae5cf"
+msgstr ""
+"@@image: 'images/Lesson02_images_006.png'; "
+"md5=a866364ec51f76682dd89b0fe99ae5cf"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:1245(None)
+msgid ""
+"@@image: 'images/Lesson02_images_008.png'; "
+"md5=5f2a3a42285abf2fa7679659b0341c56"
+msgstr ""
+"@@image: 'images/Lesson02_images_008.png'; "
+"md5=5f2a3a42285abf2fa7679659b0341c56"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:1263(None)
+msgid ""
+"@@image: 'images/Lesson02_images_009.png'; "
+"md5=2dc5798a29daeb1a8bef38d0a48f2565"
+msgstr ""
+"@@image: 'images/Lesson02_images_009.png'; "
+"md5=2dc5798a29daeb1a8bef38d0a48f2565"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/Introducing_Ubuntu.xml:1304(None)
+msgid ""
+"@@image: 'images/Lesson02_images_010.png'; "
+"md5=61821237d9c18ef6589fd90e285391e3"
+msgstr ""
+"@@image: 'images/Lesson02_images_010.png'; "
+"md5=61821237d9c18ef6589fd90e285391e3"
+
+#: chapter1/Introducing_Ubuntu.xml:4(title)
+msgid "Introducing Ubuntu"
+msgstr "Ubuntu 介绍"
+
+#: chapter1/Introducing_Ubuntu.xml:6(title)
+msgid "Objectives"
+msgstr "目标"
+
+#: chapter1/Introducing_Ubuntu.xml:7(para)
+msgid "In this lesson, you will learn:"
+msgstr "在本课程中，您将了解到："
+
+#: chapter1/Introducing_Ubuntu.xml:10(para)
+msgid "The fundamental concepts of open source."
+msgstr "开源的基础性概念"
+
+#: chapter1/Introducing_Ubuntu.xml:14(para) chapter1/Introducing_Ubuntu.xml:1318(para)
+msgid "The link between the Free Software Movement, open source and Linux"
+msgstr "自由软件运动、开源和 Linux 之间的联系"
+
+#: chapter1/Introducing_Ubuntu.xml:19(para) chapter1/Introducing_Ubuntu.xml:1322(para)
+msgid "How Ubuntu ties in with open source"
+msgstr "Ubuntu 如何同开源相结合"
+
+#: chapter1/Introducing_Ubuntu.xml:23(para) chapter1/Introducing_Ubuntu.xml:1325(para)
+msgid "How Ubuntu is developed"
+msgstr "Ubuntu 是如何发展起来的"
+
+#: chapter1/Introducing_Ubuntu.xml:27(para)
+msgid "About Ubuntu versions"
+msgstr "关于 Ubuntu 的版本"
+
+#: chapter1/Introducing_Ubuntu.xml:31(para) chapter1/Introducing_Ubuntu.xml:1331(para)
+msgid "The key differences between Ubuntu and Microsoft Windows"
+msgstr "Ubuntu 与微软 Windows 的主要区别"
+
+#: chapter1/Introducing_Ubuntu.xml:37(title)
+msgid "About Open Source"
+msgstr "关于开源(Open Source)"
+
+#: chapter1/Introducing_Ubuntu.xml:39(title) chapter1/Introducing_Ubuntu.xml:215(title) chapter1/Introducing_Ubuntu.xml:251(title) chapter1/Introducing_Ubuntu.xml:274(title) chapter1/Introducing_Ubuntu.xml:1339(title)
+msgid "Instructor Notes:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:40(para)
+msgid ""
+"The focus of this topic is to help students understand the concept of open "
+"source, which is the underlying foundation of Ubuntu. Briefly explain the "
+"dictionary meaning of 'open source' in general and move on to establishing "
+"how the open source ideology developed in the context of Linux. Present this "
+"as a story spread over different phases: Free Software Movement, Open Source "
+"Movement initiation and its formal launch. Explain the Ubuntu release "
+"schedule, naming convention and Ubuntu promise in detail."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:50(para)
+msgid ""
+"Ubuntu is a Linux-based open source operating system. The term 'open source' "
+"can be defined as a set of principles and practices that promotes access to "
+"the design and production of goods and knowledge. Open source is generally "
+"applied to the source code of software and is available to users with "
+"relaxed or no intellectual property restrictions. This enables users to "
+"distribute, create and modify software content, either individually to meet "
+"their specific requirement or collaboratively to improve the software. Both "
+"open source and Linux have transitioned through various phases to reach "
+"their present form."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:61(para)
+msgid ""
+"The idea behind openly distributed source code is to encourage the "
+"voluntary, collaborative development of software. Users continuously enhance "
+"the software, fix bugs, develop new features and share it with others."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:65(para)
+msgid ""
+"As a result of collaborative software development which involves a large "
+"number of programmers, users receive software that is often better in "
+"quality and performance than proprietary alternatives. Users are encouraged "
+"to customise the software to their own personal requirements, which in "
+"itself is a huge step away from the 'one size fits all' philosophy."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:72(para)
+msgid ""
+"Open source projects call on the talents of many people with skills other "
+"than programming. Many projects involve artists, musicians, user-interface "
+"designers and documentation authors to create a complete product."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:78(title)
+msgid "Free Software Movement, Open Source and Linux"
+msgstr "自由软件运动，开源和 Linux"
+
+#: chapter1/Introducing_Ubuntu.xml:79(para)
+msgid ""
+"There is often confusion between open source, free software and Linux. While "
+"all three are inter-linked, there are distinct differences which are made "
+"clearer when looking at their evolution."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:84(title)
+msgid "The Free Software Movement"
+msgstr "自由软件运动"
+
+#: chapter1/Introducing_Ubuntu.xml:85(para)
+msgid ""
+"In the 1960s, it was typical for software to be distributed freely by "
+"companies such as IBM and shared amongst users. Software was then considered "
+"an enabler for the hardware, around which the business model of these "
+"corporations was built. Software was provided with source code that could be "
+"improved and modified; this was therefore the very early seeds of open "
+"source software. However, as hardware became cheaper and profit margins "
+"eroded in the 1970s, manufacturers looked to software to provide additional "
+"revenue streams."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:95(para)
+msgid ""
+"In September 1983, Richard Matthew Stallman, former programmer at the MIT "
+"Artificial Intelligence Lab launched the GNU project to create a free UNIX-"
+"like operating system (OS). He was concerned with growth in proprietary "
+"software and users' inability to access and modify programmes on their "
+"computers. Developer constraint, as opposed to freedom was prevalent. With "
+"the launch of the GNU project, Stallman started the Free Software Movement "
+"and in October 1985, set up the Free Software Foundation."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:104(para)
+msgid ""
+"Stallman pioneered the definition and characteristics of open source "
+"software and the concept of copyleft. He is the main author of several "
+"copyleft licenses, including the GNU General Public License (GPL), which is "
+"the most widely used free software license."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:110(title) chapter1/Introducing_Ubuntu.xml:140(emphasis) chapter1/Introducing_Ubuntu.xml:158(title) chapter1/Introducing_Ubuntu.xml:227(title) chapter1/Introducing_Ubuntu.xml:332(title)
+msgid "Nice to Know:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:111(para)
+msgid ""
+"For more information on Richard Stallman and the GNU project, refer to the "
+"following URL: <ulink "
+"url=\"http://en.wikipedia.org/wiki/Richard_stallman\">http://en.wikipedia.org"
+"/wiki/Richard_stallman</ulink>."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:115(para)
+msgid ""
+"By 1991, a number of GNU tools, including the powerful GNU compiler "
+"collection (GCC), had been created. However, a free kernel was not yet "
+"available to build a free OS that would use these tools."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:121(title)
+msgid "The Open Source Movement and Linux"
+msgstr "开源运动与 Linux"
+
+#: chapter1/Introducing_Ubuntu.xml:122(para)
+msgid ""
+"The difference between free software and open source can be defined as the "
+"difference between a social movement (free software) and a development "
+"methodology (open source). Linux refers to the kernel, or the backbones of "
+"the open source architecture."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:127(para)
+msgid ""
+"In August 1991, Linus Benedict Torvalds, a Finnish second-year student of "
+"computer science at the University of Helsinki, started working on Minix."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:131(title)
+msgid "Linus Benedict Torvalds"
+msgstr "Linus Benedict Torvalds"
+
+#: chapter1/Introducing_Ubuntu.xml:142(para)
+msgid ""
+"Minix is a UNIX-like OS built with open source code that Prof. Andrew S. "
+"Tanenbaum created with the intention to teach his students the internal "
+"processes of an OS."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:147(para)
+msgid ""
+"Linux was initially designed to be a Minix-like operating system that Linus "
+"Torvalds could use on his home computer. By mid-September, Torvalds released "
+"the first Linux kernel version 0.01. In 1994, Linux kernel version 1.0 was "
+"released under the GNU GPL. The free kernel and GNU tools provided a fertile "
+"environment for enthusiasts. By staying close to its UNIX roots, Linux "
+"provided a Command Line Interface (CLI) first; the adaptation of the X "
+"Window System made a graphical user interface (GUI) available at a later "
+"stage."
+msgstr ""
+"Linus Torvalds 最初想把 Linux 设计成一个类 Minix 的能跑在自己家用计算机上的操作系统。在九月中旬时，Torvald "
+"发布了第一个 Linux 内核 0.01 版本。在 1994 年，Linux 内核 1.0 版本在 GNU GPL 下发布。这个免费的内核加上 GNU "
+"工具给爱好者提供了一个富有潜力的环境。为了与所发源的 UNIX 保持相近，Linux 真实提供了一个命令行界面；之后的阶段里 X "
+"窗口系统的加入使图形用户界面成为可能。"
+
+#: chapter1/Introducing_Ubuntu.xml:159(para)
+msgid ""
+"Linux is not owned by any individual or company, not even Linus Torvalds who "
+"started Linux. However, Torvalds is heavily involved in the main kernel "
+"development process and owns the trademark, Linux."
+msgstr ""
+"Linux 不隶属于任何个人或公司，甚至不属于开创 Linux 的 Linus Torvalds 本人。但是，Torvalds "
+"在主要的内核开发过程中参与了大量工作，并且拥有 Linux 这个商标。"
+
+#: chapter1/Introducing_Ubuntu.xml:167(para)
+msgid "Is available and accessible to everyone"
+msgstr "可以被任何人获取和使用"
+
+#: chapter1/Introducing_Ubuntu.xml:170(para)
+msgid ""
+"Can be customised according to an individual's requirements and the "
+"platforms used"
+msgstr "可以根据个人的要求和所使用的平台定制"
+
+#: chapter1/Introducing_Ubuntu.xml:174(para)
+msgid "Can be freely redistributed in its current or a modified form"
+msgstr "可以自由地以当前或修改的形式重新发布"
+
+#: chapter1/Introducing_Ubuntu.xml:164(para)
+msgid "Linux open source code: <placeholder-1/>"
+msgstr "Linux 开放源代码：<placeholder-1/>"
+
+#: chapter1/Introducing_Ubuntu.xml:178(para)
+msgid ""
+"Initially, Linux was a very technical, hard core open source programming "
+"tool. Thousands of developers contributed to its evolution as it became more "
+"user friendly. This has resulted in the launch of hundreds of commercial and "
+"non-commercial distribution versions, designed for everyday application use "
+"which are now available."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:184(para)
+msgid ""
+"In 1998, Jon \"maddog\" Hall, Larry Augustin, Eric S. Raymond, Bruce Perens "
+"et al formally launched the Open Source Movement. They promoted open source "
+"software exclusively on the basis of technical excellence."
+msgstr ""
+"1998 年，Jon \"maddog\" Hall、Larry Augustin、 Eric S、Raymond、Bruce Perens et al "
+"正式启动了开放源码运动(Open Source Movement)。他们在技术专业基础之外促进了开源软件的发展。"
+
+#: chapter1/Introducing_Ubuntu.xml:189(title)
+msgid "Founders of the Open Source Movement"
+msgstr "开放源码运动的发起者"
+
+#: chapter1/Introducing_Ubuntu.xml:196(para)
+msgid ""
+"The open source movement and the dot.com boom of the late 1990s coincided, "
+"resulting in the popularity of Linux and the evolution of many open source "
+"friendly companies such as Corel (Corel Linux), Sun Microsystems "
+"(OpenOffice.org) and IBM (OpenAFS). In the early 21st century when the "
+"dot.com crash was at its peak, open source was in a prime position as a "
+"viable alternative to expensive proprietary software. Its momentum has "
+"strengthened since with the availability of many easy to use applications."
+msgstr ""
+"开放源码运动和 1990 年代末的 dot.com(互联网) 的兴起一起，导致了 Linux 的流行和很多支持开源的公司，如Corel (Corel "
+"Linux)、Sun Microsystems (OpenOffice.org)、 IBM (OpenAFS) 等的变革。在 21世纪初，当 "
+"dot.com "
+"在顶峰时崩溃时(互联网泡沫破碎)，开源软件作为昂贵的专有软件的可行替换品被摆到一个重要的位置上。大量易用应用程序的出现更加巩固了它的发展力量。"
+
+#: chapter1/Introducing_Ubuntu.xml:205(para)
+msgid ""
+"As such, what started off as an idea became a passion to revolutionise a "
+"patent and license intense industry. With a significantly cheaper return on "
+"investment and enhanced usability features, Linux is now rooted as a viable "
+"option for enterprises and home users."
+msgstr ""
+"就这样，开始的一个想法变成了一种变革这个专利和授权的行业的激情。在投资上显著的价格优势和增强的使用特色使 Linux 已经成为商业和家庭用户的可行选择。"
+
+#: chapter1/Introducing_Ubuntu.xml:213(title)
+msgid "About Ubuntu"
+msgstr "关于 Ubuntu"
+
+#: chapter1/Introducing_Ubuntu.xml:216(para)
+msgid ""
+"The focus of this topic is to make the students understand the origins of "
+"Ubuntu, the development cycle, version releases and the importance of "
+"community contributions towards its development."
+msgstr "本话题的重点是让学生理解 Ubuntu 的由来、开发周期、版本发布和社区贡献对其开发的重要性。"
+
+#: chapter1/Introducing_Ubuntu.xml:221(para)
+msgid ""
+"Ubuntu is a community developed, Linux-based operating system that is "
+"perfect for laptops, desktops and servers. It contains all the applications "
+"you need - including a Web browser, presentation, document and spreadsheet "
+"software, instant messaging and much more."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:228(para)
+msgid ""
+"Ubuntu is an African word meaning 'Humanity to others', or 'I am what I am "
+"because of who we all are'."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:235(title)
+msgid "Mark Shuttleworth"
+msgstr "Mark Shuttleworth"
+
+#: chapter1/Introducing_Ubuntu.xml:231(para)
+msgid ""
+"The history of Ubuntu dates back to April 2004 when Mark Shuttleworth formed "
+"a group of open source developers to create a new Linux OS. <placeholder-"
+"1/>Based on the principles of time-based releases, a strong Debian "
+"foundation, the GNOME desktop, and a commitment to freedom, this group "
+"operated initially under the auspices of http://no-name-yet.com."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:245(para)
+msgid ""
+"In a little over four years, Ubuntu has grown to a community of thousands of "
+"members and an estimated user base of over 8 million (as at June 2007). "
+"Canonical is the commercial sponsor of Ubuntu."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:252(para)
+msgid ""
+"If the students are interested to know more about Mark Shuttleworth, present "
+"the following content as a story."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:255(para)
+msgid ""
+"Mark Shuttleworth is an African entrepreneur with a love for technology, "
+"innovation, change and space flight. Shuttleworth studied finance and "
+"information technology at the University of Cape Town and went on to found "
+"Thawte, a company specialising in digital certificates and cryptography. He "
+"sold Thawte to the U.S. company VeriSign in 1999 and founded HBD Venture "
+"Capital and the Shuttleworth Foundation. He moved to London in 2001 and "
+"began preparing for the First African in Space mission, training in Star "
+"City, Russia and Khazakstan. In April 2002, he became a space traveller as a "
+"member of the cosmonaut crew of Soyuz Mission TM34 to the International "
+"Space Station. In early 2004, he founded the Ubuntu project, which aims to "
+"produce a free, high-quality, user friendly OS available for everybody."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:272(title)
+msgid "The Ubuntu Promise"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:275(para)
+msgid ""
+"Stress on the Ubuntu promise because it holds the very essence of the spirit "
+"and success of the software."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:281(para) chapter1/Introducing_Ubuntu.xml:1381(para)
+msgid ""
+"Ubuntu will always be free of charge, including enterprise releases and "
+"security updates."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:285(para) chapter1/Introducing_Ubuntu.xml:1385(para)
+msgid ""
+"Ubuntu comes with full commercial support from Canonical and hundreds of "
+"companies around the world."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:290(para)
+msgid ""
+"Ubuntu includes the best translations and accessibility infrastructure that "
+"the free software community has to offer."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:295(para)
+msgid ""
+"Ubuntu CDs contain only free software applications; Ubuntu encourages you to "
+"use free and open source software, improve it and pass it on."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:302(title) chapter1/Introducing_Ubuntu.xml:315(title)
+msgid "Ubuntu Versions"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:303(para)
+msgid ""
+"In October 2004, Ubuntu released its first version. A new version of Ubuntu "
+"is released every six months and upgrades to new releases are free of "
+"charge. Users are encouraged to upgrade with each new release in order to "
+"enjoy the latest features and applications. Its versions are named using the "
+"Y.MM (name) scheme, where Y indicates the year and MM refers to the month of "
+"release. The name in brackets is a code name given to the version pre-"
+"release."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:311(para)
+msgid ""
+"Each release is supported for 18 months; Long Term Support releases (LTS) "
+"are supported for 3 years on the desktop and 5 years on the server."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:322(para)
+msgid "A brief history of releases:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:326(title)
+msgid "Ubuntu 4.10 (Warty Warthog)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:327(para)
+msgid ""
+"Ubuntu 4.10 was the first release of Ubuntu in October 2004; supported until "
+"April 2006."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:333(para)
+msgid ""
+"The early testing community of version 4.10 was called the Sounder, named "
+"after the collective noun for warthogs. The Sounder mailing list continues "
+"today as an open discussion forum for the community."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:342(title)
+msgid "Ubuntu 5.04 (Hoary Hedgehog)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:343(para)
+msgid "Released in April 2005; supported until October 2006."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:349(title)
+msgid "Ubuntu 5.10 (Breezy Badger)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:350(para)
+msgid "Released in October 2005; supported until April 2007."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:356(title)
+msgid "Ubuntu 6.06 LTS (Dapper Drake)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:357(para)
+msgid ""
+"The first release with Long Term Support (LTS); it was released in June "
+"2006. Long-term support version refers to guaranteed three years of support "
+"on the desktop and five years on the server. All other releases are provided "
+"with 18 month support for desktops and servers. The extended support period "
+"provides reassurance and makes it easier and more practical for large "
+"deployments of Ubuntu. Desktops supported until June 2009; servers supported "
+"until June 2011."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:370(title)
+msgid "Ubuntu 6.10 (Edgy Eft)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:371(para)
+msgid ""
+"Released in October 2006. This version guarantees a robust boot process; "
+"supported until April 2007."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:377(title)
+msgid "Ubuntu 7.04 (Feisty Fawn)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:378(para)
+msgid ""
+"Released in April 2007. This version introduced significant improvements to "
+"network roaming; supported until October 2008."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:385(title)
+msgid "Ubuntu 7.10 (Gutsy Gibbon)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:386(para)
+msgid ""
+"Released in October 2007. Key features include spectacular visual effects by "
+"default, fast user switching, printer auto-detection and easier desktop file "
+"searching and tracking; supported until April 2009."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:395(title)
+msgid "Ubuntu 8.04 LTS (Hardy Heron)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:396(para)
+msgid ""
+"Released in April 2008. Ubuntu 8.04 LTS forms the second Long Term Support "
+"release of Ubuntu. Desktops will be supported until April 2011; servers "
+"supported until April 2013."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:404(title)
+msgid "Ubuntu 8.10 (Intrepid Ibex)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:405(para)
+msgid ""
+"Released in October 2008. Ubuntu 8.10 includes hundreds of improvements and "
+"full 3G support. This release will be supported until April 2010."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:412(title)
+msgid "Ubuntu 9.04 (Jaunty Jackalope)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:413(para)
+msgid ""
+"Releasadin April 2009. Ubuntu 9.04 is the latest cutting edge Ubuntu "
+"release, bringing the Eucalyptus Cloud to the Ubuntu community. This release "
+"will be supported until October 2010."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:420(title)
+msgid "Ubuntu 9.10 (Karmic Koala)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:421(para)
+msgid ""
+"Scheduled for release in October 2009, Ubuntu 9.10 will be the next Ubuntu "
+"release. This release will be supported until April 2011."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:428(title)
+msgid "Ubuntu Derivatives"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:429(para)
+msgid ""
+"Ubuntu is also available in several editions such as Ubuntu, Edubuntu, "
+"Kubuntu and Xubuntu. Edubuntu is Ubuntu customised for the school "
+"environment. Kubuntu is an official derivative of Ubuntu based on the work "
+"of the K Desktop project (KDE). KDE is a powerful graphical desktop "
+"environment, combining ease of use and contemporary functionality. Xubuntu "
+"is intended for users with less-powerful computers or those who seek a "
+"highly efficient desktop environment on faster systems."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:437(title)
+msgid "Ubuntu Development and the Community"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:439(para)
+msgid ""
+"Ubuntu is a joint collaboration project comprised of Ubuntu community "
+"members all around the world. Since its inception in 2004, thousands of "
+"contributors have joined the Ubuntu community. These users contribute "
+"towards Ubuntu development through writing code, advocacy, artwork, "
+"translations, testing and documentation (to name just a few). The "
+"development process of Ubuntu is open and transparent to all, whether you "
+"are a novice Ubuntu user or an experienced Ubuntu developer - everyone is "
+"welcome to get involved with and improve Ubuntu. Canonical also employs "
+"developers to contribute to Ubuntu."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:451(title)
+msgid "How you can get involved"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:452(para)
+msgid ""
+"The Ubuntu community is made of many individuals and teams who work on "
+"different aspects of Ubuntu. If you are a developer, you can participate in "
+"the core development, write new applications, package additional software "
+"and fix bugs. If you are an artist, you can add value to the look and feel "
+"and functionality of Ubuntu. You can also provide online support, write "
+"documentation, assist with training material, join Web forums and the "
+"mailing lists of Ubuntu. There are lots of ways to get involved!"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:463(title)
+msgid "Developer Zone"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:464(para)
+msgid ""
+"The developer zone is comprised of developers who create and package "
+"software, fix bugs and maintain Ubuntu. They are responsible for ensuring "
+"that Ubuntu has a wide catalogue of software and it operates reliably and "
+"smoothly. A great way to get started as a packager is to join MOTU - see "
+"https://wiki.ubuntu.com/MOTU/GettingStarted."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:472(title)
+msgid "Idea Pool"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:473(para)
+msgid ""
+"If you have ideas for projects, proposals and enhancements but do not "
+"necessarily want to implement them, you can add the ideas into the idea pool "
+"available at https://wiki.ubuntu.com/IdeaPool."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:479(title)
+msgid "Technical Users"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:484(para)
+msgid ""
+"Test the pre-release versions of Ubuntu to help find bugs before the final "
+"release."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:488(para)
+msgid "Report bugs and help the development team analyse them."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:492(para)
+msgid ""
+"Triage (edit and categorise) bugs to read, assess and sort them before they "
+"can be fixed."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:496(para)
+msgid ""
+"Join an e-mail support list or discussion list on the Ubuntu mailing lists."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:500(para)
+msgid "Join Web forums and respond to requests."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:503(para)
+msgid ""
+"Join the Ubuntu support and discussion Internet Relay Chat (IRC) channel, "
+"which is a form of real-time Internet chat."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:480(para)
+msgid ""
+"If you have the requisite technical skills, you can contribute to the Ubuntu "
+"community in the following ways: <placeholder-1/>"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:510(title)
+msgid "Non-Technical Users"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:515(para)
+msgid "Artwork and design"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:518(para)
+msgid "Translation and localisation"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:521(para)
+msgid "Writing and updating documentation and training materials"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:524(para)
+msgid "Advocacy"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:511(para)
+msgid ""
+"Even if you do not have technical knowledge of Ubuntu, you can help Ubuntu "
+"users through the following projects: <placeholder-1/>"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:529(title)
+msgid "Ubuntu Desktop Course Development"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:530(para)
+msgid ""
+"Part of Canonical's mission is to enable the widest deployment of Ubuntu on "
+"as many computers and servers, in as many corners of the world as possible. "
+"Training is seen as a core enabler for the adoption of Ubuntu and as such "
+"courses are designed to certify Ubuntu professionals, assist partners to "
+"deploy Ubuntu and show desktop users (such as yourselves) how to use and get "
+"the most out of it. For more information on Ubuntu course availability and "
+"certifications, please refer to http://www.ubuntu.com/training."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:541(para)
+msgid ""
+"As with software development, the community contributes towards the "
+"development and enhancement of this desktop course. As Ubuntu experts, the "
+"community defines the scope and structure of the training by identifying "
+"requirements from the users' perspective; they also assist the Canonical and "
+"third-party content writers in developing content and reviewing it. More "
+"information on the Ubuntu Training community effort can be found at "
+"http://wiki.ubuntu.com/Training."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:550(para)
+msgid ""
+"The entire content development process is in the true spirit of Ubuntu's "
+"philosophy and the open source tradition."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:611(title)
+msgid "Ubuntu and Microsoft Windows: Key Differences"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:612(para)
+msgid "Open source differs from the proprietary software model in that it:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:616(para)
+msgid ""
+"Encourages customisation and variation as opposed to a one size fits many "
+"approach."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:620(para)
+msgid ""
+"Relies on a 'services attached' business model rather than per license and "
+"seat basis."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:624(para)
+msgid ""
+"Believes that the benefits of collaboration and multi-developer contribution "
+"outweigh those of controlled project work of smaller, paid developer teams."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:632(para)
+msgid ""
+"Ubuntu and Microsoft Windows can be differentiated by many characteristics. "
+"Elements of cost, release cycle, security, customisation and mobility are "
+"presented here."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:638(title)
+msgid "Key Attributes"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:647(emphasis)
+msgid "Attribute"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:652(emphasis) chapter1/Introducing_Ubuntu.xml:927(emphasis) chapter1/Introducing_Ubuntu.xml:1081(emphasis)
+msgid "Ubuntu"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:657(emphasis) chapter1/Introducing_Ubuntu.xml:932(emphasis) chapter1/Introducing_Ubuntu.xml:1086(emphasis)
+msgid "Microsoft Windows"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:667(emphasis)
+msgid "Costs"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:674(para)
+msgid "Free of licensing charges"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:683(para)
+msgid "Charges per user license and/or for a fixed term"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:693(emphasis)
+msgid "Versions Released"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:701(para)
+msgid "Same version and features for home and professional users"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:705(para)
+msgid "Six-monthly fully supported free release"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:715(para)
+msgid "Separate Professional and Home editions"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:719(para)
+msgid "Less frequent and less visible release schedule"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:729(emphasis)
+msgid "Security"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:736(para)
+msgid "Locked administrative user root"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:739(para)
+msgid "Rarely targeted by malware and viruses"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:749(para)
+msgid "Enables easy access to administrative user"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:753(para)
+msgid "Regularly targeted by malware and viruses"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:763(emphasis)
+msgid "Customisation"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:770(para)
+msgid "Easy to design and personalise"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:773(para)
+msgid "Can run different flavours of Ubuntu in parallel"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:783(para)
+msgid "Standard OS with limited options to personalise"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:787(para)
+msgid "Paid for additional applications"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:796(emphasis)
+msgid "Data Storage"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:803(para)
+msgid "Easy to upgrade and downgrade"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:806(para)
+msgid "User data stored in home directory"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:809(para)
+msgid ""
+"Easy to migrate and replicate user data and configuration to another computer"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:819(para)
+msgid "User data saved in multiple locations"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:823(para)
+msgid "Difficult to backup and migrate to computer"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:833(para) chapter1/Introducing_Ubuntu.xml:1216(para)
+msgid "Looking at each element outlined in the table in greater detail:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:836(title)
+msgid "Associated Costs:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:837(para)
+msgid ""
+"The Microsoft Windows OS is proprietary and the overall price increases with "
+"added functionality and applications. The associated price is sometimes a "
+"factor of using third party applications and not just a Microsoft decision. "
+"With Ubuntu new release versions and applications are free."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:844(title)
+msgid "New version releases:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:845(para)
+msgid ""
+"There is only one released version of Ubuntu and therefore features "
+"available to home and professional users are the same. The Home and "
+"Professional editions of Microsoft Windows are not the same. For example, "
+"Microsoft Windows Professional editions have more security features than "
+"Home editions."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:852(para)
+msgid ""
+"Ubuntu's 6 monthly release cycle also makes it very easy for users to have "
+"access to all the latest applications. An upgrade from one release to the "
+"next is free and fully supported. Microsoft scheduled releases are less "
+"frequent and less visible to the public."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:859(title)
+msgid "Security aspects:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:860(para)
+msgid ""
+"Ubuntu is rarely targeted by malware and viruses. The administrative user "
+"root is locked by default in Ubuntu and only certain tasks are run with "
+"administrative privileges. Microsoft Windows provides an environment where "
+"people can access administrative user directly."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:868(title)
+msgid "Ubuntu Security"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:877(title)
+msgid "Customisation:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:878(para)
+msgid ""
+"As you will discover throughout this course, Ubuntu is yours to design and "
+"personalise. You can have different flavours of Ubuntu running parallel; for "
+"example, you can install the Kubuntu (KDE) desktop together with Ubuntu "
+"(GNOME) and then select the desktop environment you want to use. More than "
+"17,000 packages are available and easily accessible through the Internet. As "
+"a result, you are not stuck with using one version because it was the first "
+"you installed."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:890(para)
+msgid ""
+"Microsoft Windows is a standard OS with some options for customization. "
+"While many applications are available, most are proprietary software which "
+"incur a license fee."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:894(title)
+msgid "Desktop Customisation"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:902(title)
+msgid "Data Storage:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:903(para)
+msgid ""
+"User data is often located in multiple locations in Microsoft Windows, which "
+"can make backing up and migrating from one computer to another tricky. "
+"Ubuntu saves your user information in one place - the home directory. This "
+"makes the migration of data from an old computer to a new one easy, as well "
+"as keeping user specific backup data separate."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:911(title) chapter1/Introducing_Ubuntu.xml:922(emphasis)
+msgid "Installation"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:913(title)
+msgid "Installation Differences"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:942(emphasis)
+msgid "OS Installation"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:950(para)
+msgid "Freely downloadable from the Internet or using a free CD"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:954(para)
+msgid "Can be used directly from the live-CD"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:964(para)
+msgid "Purchase required"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:967(para)
+msgid "OS must be installed on com­puter hard drive"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:977(emphasis)
+msgid "Software Installation"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:985(para)
+msgid "Huge variety of applications available by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:989(para)
+msgid "All freely downloadable from the Internet"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:999(para)
+msgid "Limited selection of software available by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1003(para)
+msgid ""
+"Users can purchase and download some software online, others can only be "
+"manually installed"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1018(title)
+msgid "OS Installation:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1019(para)
+msgid ""
+"Both Microsoft Windows and Ubuntu come as pre-installed OSs on computers. "
+"However, to install post-purchase, Ubuntu can be freely downloaded from the "
+"Internet or a free CD can be requested. Any Microsoft Windows version will "
+"need to be purchased."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1027(para)
+msgid ""
+"Ubuntu comes in live-CD mode which means you can use the OS directly from "
+"the CD without installing it on a host computer. If you like what you see, "
+"install it. If you don't, pass it on to a friend. The live-CD option is also "
+"useful for system recovery."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1032(para)
+msgid ""
+"The installation of Microsoft Windows and Ubuntu is easy and conducted by "
+"running the installation CD and booting the computer. Both installations "
+"vary in length according to how powerful your computer is, with an average "
+"install taking 20 - 30 minutes."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1040(title)
+msgid "Software Installation:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1041(para)
+msgid ""
+"You can add software on Ubuntu by using the Add/Remove Applications and "
+"Synaptic Package Manager. The Add/Remove Applications allows you to search "
+"the entire directory of free applications recommended for Ubuntu and install "
+"the ones you want. In Microsoft Windows, each programme supplies its own "
+"installation method. Microsoft Vista has a Digital Locker feature enables "
+"users to purchase software online and download it in a protected manner."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1052(title)
+msgid "Installing Software Applications"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1063(title) chapter1/Introducing_Ubuntu.xml:1076(emphasis)
+msgid "Applications"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1064(para)
+msgid ""
+"The table below displays a comparison between Ubuntu and Microsoft Windows "
+"applications:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1067(title)
+msgid "Application Based Differences"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1096(emphasis)
+msgid "Web browsing and E-mail"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1104(para)
+msgid "Firefox Web browser by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1107(para)
+msgid "Evolution e-mail client by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1117(para)
+msgid "Internet Explorer Web browser by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1121(para)
+msgid "Outlook e-mail client by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1130(emphasis)
+msgid "Word Processing"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1138(para)
+msgid "OpenOffice.org suite"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1147(para)
+msgid "WordPad by default"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1156(emphasis)
+msgid "Multimedia"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1163(para)
+msgid ""
+"Includes Audio CD Extractor, Brasero, Rhythmbox, Movie Player and Sound "
+"Recorder"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1173(para)
+msgid ""
+"Includes Microsoft Windows Media Player 11 (WMP) and Microsoft Windows Media "
+"Center (WMC)"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1184(emphasis)
+msgid "Image Editing and Picture Management"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1192(para)
+msgid "F-Spot photo manager"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1195(para)
+msgid "Gimp for image editing"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1204(para)
+msgid "Picture Gallery application"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1207(para)
+msgid "Paint"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1220(title)
+msgid "Networking, Web browsing and E-mail"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1221(para)
+msgid ""
+"Network setup on both Ubuntu and Microsoft Windows is easy. Web browsing "
+"features are more or less the same on both OSs."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1226(para)
+msgid ""
+"Mozilla Firefox is loaded as the default browser on Ubuntu, and Internet "
+"Explorer is the default browser on Vista. You can also install Firefox on "
+"Microsoft Windows."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1230(para)
+msgid ""
+"Evolution is the default e-mail client on Ubuntu. It connects to POP "
+"accounts, conventional UNIX mailboxes and Exchange servers via Outlook Web "
+"Access. Evolution also has a built-in Personal Information Manager (PIM) and "
+"a calendaring and appointment system. The Microsoft Windows Mail application "
+"in Vista is a rewritten version of Outlook Express, with a stripped down "
+"calendar or appointment application, Microsoft Windows Calendar. An upgrade "
+"to Outlook is suggested if you use the calendar often or if you have a full "
+"PIM. Ubuntu users enjoy the out-of-the-box mail client setup facility."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1242(title)
+msgid "Evolution E-mail Client"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1250(title)
+msgid "Word Processing:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1258(emphasis)
+msgid "OpenOffice.org Writer"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1251(para)
+msgid ""
+"The OpenOffice.org suite is installed on Ubuntu by default and provides many "
+"features of Microsoft Office. Vista comes with WordPad by default; the full "
+"version of Microsoft Word (or Office) for Microsoft Windows, is available at "
+"an additional cost. <placeholder-1/>"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1269(title)
+msgid "Multimedia:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1270(para)
+msgid ""
+"Several multimedia programmes are configured by default on Ubuntu, such as "
+"Audio CD Extractor, Brasero Disc Burning, Rhythmbox Music Player, Movie "
+"Player and Sound Recorder. Rhythmbox is the default application for playing "
+"audio CDs and organising music and playlists. Rhythmbox is similiar to "
+"Microsoft Windows Media Player. You can use Brasero to author audio CDs."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1274(para)
+msgid ""
+"To play the mp3 format on Ubuntu, you need to install a codec pack. This is "
+"because Ubuntu is not distributed with mp3 codecs due to licensing "
+"restrictions. Playback of mp3 files is enabled by default on some versions "
+"of Microsoft Windows."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1279(para)
+msgid ""
+"Vista has two multimedia programmes, Windows Media Player 11 (WMP for short) "
+"and Windows Media Center (WMC for short). WMP is best for playing music, and "
+"WMC is useful if you are using the computer as your core entertainment "
+"system. WMP can contain a large music library. With the index search system "
+"of WMP, you can search music numbers by a particular artist or search for "
+"specific numbers."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1288(title)
+msgid "Image Editing and Picture Management:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1289(para)
+msgid ""
+"With the Picture Gallery application of Microsoft Vista, you can upload "
+"thousands of images and add tags. You can also organise the images quickly "
+"and work on them easily because you can tag them with one click. F-Spot "
+"photo manager organises your personal photos on Ubuntu. It integrates "
+"seamlessly with popular Web based image databases, such as Flickr and Picasa "
+"Web."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1297(para)
+msgid ""
+"Ubuntu provides GIMP for image editing which is a powerful Photoshop-like "
+"application. Microsoft Windows Vista provides 'Paint' for basic image "
+"editing."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1301(title)
+msgid "GIMP"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1311(title)
+msgid "Lesson Summary"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1312(para)
+msgid "In this lesson, you learned:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1315(para)
+msgid "The fundamental concepts of open source"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1328(para)
+msgid "The Ubuntu version naming conventions"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1337(title)
+msgid "Review Exercise"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1340(para)
+msgid ""
+"If you are running short of time, administer this exercise when Exploring "
+"the Ubuntu Desktop in <xref linkend=\"lesson2\"/>."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1346(para)
+msgid "What is meant by the term free software?"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1349(para)
+msgid ""
+"Quoting the Free Software Foundation's 'What is Free Software', the freedoms "
+"at the core of free software are defined as:"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1354(para)
+msgid "The freedom to run the programme, for any purpose."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1358(para)
+msgid ""
+"The freedom to study how the programme works and adapt it to your needs."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1362(para)
+msgid "The freedom to redistribute copies so you can help others."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1366(para)
+msgid ""
+"The freedom to improve the programme and release your improvements to the "
+"public, so that everyone benefits."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1375(para)
+msgid "What is the Ubuntu promise?"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1390(para)
+msgid ""
+"Ubuntu includes the best translations and accessibility infrastructure that "
+"the open source community has to offer."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1395(para)
+msgid ""
+"Ubuntu CDs contain only open source applications; Ubuntu encourages you to "
+"use free and open source software, improve it and pass it on."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1378(para)
+msgid "The Ubuntu promise is: <placeholder-1/>"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1405(para)
+msgid "Match the Ubuntu versions with the years in which they were released."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1414(para) chapter1/Introducing_Ubuntu.xml:1456(para)
+msgid "1) 7.04"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1417(para) chapter1/Introducing_Ubuntu.xml:1475(para)
+msgid "a) June 2006"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1422(para) chapter1/Introducing_Ubuntu.xml:1464(para)
+msgid "2) 4.10"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1425(para) chapter1/Introducing_Ubuntu.xml:1483(para)
+msgid "b) October 2007"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1430(para) chapter1/Introducing_Ubuntu.xml:1472(para)
+msgid "3) 6.06"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1433(para) chapter1/Introducing_Ubuntu.xml:1459(para)
+msgid "c) April 2007"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1438(para) chapter1/Introducing_Ubuntu.xml:1480(para)
+msgid "4) 7.10"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1441(para) chapter1/Introducing_Ubuntu.xml:1467(para)
+msgid "d) October 2004"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1493(para)
+msgid ""
+"List 3 ways in which non-technical users can contribute towards the "
+"development of Ubuntu."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1497(para)
+msgid ""
+"The three ways in which non-technical users can contribute towards Ubuntu "
+"development are artwork, translation and localisation and document solutions."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1505(para)
+msgid "The default web browser on Ubuntu is _________________."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1509(para)
+msgid "The default web browser on Ubuntu is Mozilla Firefox."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1515(para)
+msgid "The default e-mail client on Ubuntu is __________________."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1519(para)
+msgid "The default e-mail client on Ubuntu is Evolution."
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1525(para)
+msgid "What are the advantages of Ubuntu 6 monthly releases?"
+msgstr ""
+
+#: chapter1/Introducing_Ubuntu.xml:1529(para)
+msgid ""
+"Quicker upgrade and availability of new applications, as well as improved "
+"functionality."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: chapter1/Introducing_Ubuntu.xml:0(None)
+msgid "translator-credits"
+msgstr ""

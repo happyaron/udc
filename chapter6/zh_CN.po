@@ -1,0 +1,2435 @@
+# Chinese (Simplified) translation for ubuntu-desktop-course
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubuntu-desktop-course package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-desktop-course\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-08-06 12:43+0200\n"
+"PO-Revision-Date: 2009-11-10 07:57+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-11-11 04:32+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:95(None)
+msgid ""
+"@@image: 'images/Lesson07_images_001.png'; "
+"md5=e627f283bb8aa3b210a4861c557ae301"
+msgstr ""
+"@@image: 'images/Lesson07_images_001.png'; "
+"md5=e627f283bb8aa3b210a4861c557ae301"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:121(None)
+msgid ""
+"@@image: 'images/Lesson07_images_002.png'; "
+"md5=ee89b05ac13cde98ec0e3ac67b7cae09"
+msgstr ""
+"@@image: 'images/Lesson07_images_002.png'; "
+"md5=ee89b05ac13cde98ec0e3ac67b7cae09"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:145(None)
+msgid ""
+"@@image: 'images/Lesson07_images_003.png'; "
+"md5=68056732e97da1a10c305f69d72201bc"
+msgstr ""
+"@@image: 'images/Lesson07_images_003.png'; "
+"md5=68056732e97da1a10c305f69d72201bc"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:172(None)
+msgid ""
+"@@image: 'images/Lesson07_images_004.png'; "
+"md5=26f0bb3d4a0d92ffc8470eed23b3b3f7"
+msgstr ""
+"@@image: 'images/Lesson07_images_004.png'; "
+"md5=26f0bb3d4a0d92ffc8470eed23b3b3f7"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:206(None)
+msgid ""
+"@@image: 'images/Lesson07_images_005.png'; "
+"md5=553106e10de279aac821dab2fac6ee74"
+msgstr ""
+"@@image: 'images/Lesson07_images_005.png'; "
+"md5=553106e10de279aac821dab2fac6ee74"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:224(None)
+msgid ""
+"@@image: 'images/Lesson07_images_006.png'; "
+"md5=d89a24ddcfc5f20aa8bfd84b20e83b62"
+msgstr ""
+"@@image: 'images/Lesson07_images_006.png'; "
+"md5=d89a24ddcfc5f20aa8bfd84b20e83b62"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:244(None)
+msgid ""
+"@@image: 'images/Lesson07_images_007.png'; "
+"md5=c35beea99014895253aa1f6c495bc5ca"
+msgstr ""
+"@@image: 'images/Lesson07_images_007.png'; "
+"md5=c35beea99014895253aa1f6c495bc5ca"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:286(None)
+msgid ""
+"@@image: 'images/Lesson07_images_008.png'; "
+"md5=96602e35c28c5485dd9b7105f66aa27b"
+msgstr ""
+"@@image: 'images/Lesson07_images_008.png'; "
+"md5=96602e35c28c5485dd9b7105f66aa27b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:308(None)
+msgid ""
+"@@image: 'images/Lesson07_images_009.png'; "
+"md5=1f2c5c94d962974dfba591b93ada8e2d"
+msgstr ""
+"@@image: 'images/Lesson07_images_009.png'; "
+"md5=1f2c5c94d962974dfba591b93ada8e2d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:327(None)
+msgid ""
+"@@image: 'images/Lesson07_images_010.png'; "
+"md5=2e78cc862c7e8a92ec0f25aa6bad9ae3"
+msgstr ""
+"@@image: 'images/Lesson07_images_010.png'; "
+"md5=2e78cc862c7e8a92ec0f25aa6bad9ae3"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:345(None)
+msgid ""
+"@@image: 'images/Lesson07_images_011.png'; "
+"md5=5a497ad0b9f1d65dc7b8fa8f3447b26a"
+msgstr ""
+"@@image: 'images/Lesson07_images_011.png'; "
+"md5=5a497ad0b9f1d65dc7b8fa8f3447b26a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:384(None)
+msgid ""
+"@@image: 'images/Lesson07_images_012.png'; "
+"md5=901f196343cf92fa5d49ab7224077c9e"
+msgstr ""
+"@@image: 'images/Lesson07_images_012.png'; "
+"md5=901f196343cf92fa5d49ab7224077c9e"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:476(None)
+msgid ""
+"@@image: 'images/Lesson07_images_013.png'; "
+"md5=b80ff949229816d4b7eb739fc60a5f9b"
+msgstr ""
+"@@image: 'images/Lesson07_images_013.png'; "
+"md5=b80ff949229816d4b7eb739fc60a5f9b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:496(None)
+msgid ""
+"@@image: 'images/Lesson07_images_014.png'; "
+"md5=464a894e9a2c18d911c5a256d391f564"
+msgstr ""
+"@@image: 'images/Lesson07_images_014.png'; "
+"md5=464a894e9a2c18d911c5a256d391f564"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:514(None)
+msgid ""
+"@@image: 'images/Lesson07_images_015.png'; "
+"md5=9ea6df2d490e0775e4727f92ac7022b2"
+msgstr ""
+"@@image: 'images/Lesson07_images_015.png'; "
+"md5=9ea6df2d490e0775e4727f92ac7022b2"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:536(None)
+msgid ""
+"@@image: 'images/Lesson07_images_016.png'; "
+"md5=515901ca2528b2550303ee2af096a9ed"
+msgstr ""
+"@@image: 'images/Lesson07_images_016.png'; "
+"md5=515901ca2528b2550303ee2af096a9ed"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:559(None)
+msgid ""
+"@@image: 'images/Lesson07_images_017.png'; "
+"md5=dc8fcc3dcdba7869ca808e5eca20bfe1"
+msgstr ""
+"@@image: 'images/Lesson07_images_017.png'; "
+"md5=dc8fcc3dcdba7869ca808e5eca20bfe1"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:590(None)
+msgid ""
+"@@image: 'images/Lesson07_images_018.png'; "
+"md5=2e1a09ad471f343bf9cb4464d3c948b4"
+msgstr ""
+"@@image: 'images/Lesson07_images_018.png'; "
+"md5=2e1a09ad471f343bf9cb4464d3c948b4"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:607(None)
+msgid ""
+"@@image: 'images/Lesson07_images_019.png'; "
+"md5=fd4b551a382228708819a1b0eb082732"
+msgstr ""
+"@@image: 'images/Lesson07_images_019.png'; "
+"md5=fd4b551a382228708819a1b0eb082732"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:625(None)
+msgid ""
+"@@image: 'images/Lesson07_images_020.png'; "
+"md5=5f2fbdd162c2d34fd354fad156bc8084"
+msgstr ""
+"@@image: 'images/Lesson07_images_020.png'; "
+"md5=5f2fbdd162c2d34fd354fad156bc8084"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:646(None)
+msgid ""
+"@@image: 'images/Lesson07_images_021.png'; "
+"md5=2dd43ca0defd1aaebcce475ddd133ef5"
+msgstr ""
+"@@image: 'images/Lesson07_images_021.png'; "
+"md5=2dd43ca0defd1aaebcce475ddd133ef5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:679(None)
+msgid ""
+"@@image: 'images/Lesson07_images_022.png'; "
+"md5=eb98e8080fd9f67dbe5c6314339e7860"
+msgstr ""
+"@@image: 'images/Lesson07_images_022.png'; "
+"md5=eb98e8080fd9f67dbe5c6314339e7860"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:695(None)
+msgid ""
+"@@image: 'images/Lesson07_images_023.png'; "
+"md5=b5ece558720b0ed263c77318ae184891"
+msgstr ""
+"@@image: 'images/Lesson07_images_023.png'; "
+"md5=b5ece558720b0ed263c77318ae184891"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:750(None)
+msgid ""
+"@@image: 'images/Lesson07_images_024.png'; "
+"md5=8e6fce6a7c1ee6318ecd7252b8fdb748"
+msgstr ""
+"@@image: 'images/Lesson07_images_024.png'; "
+"md5=8e6fce6a7c1ee6318ecd7252b8fdb748"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:767(None)
+msgid ""
+"@@image: 'images/Lesson07_images_025.png'; "
+"md5=9b2087da58fdf7099ae5521053e47e26"
+msgstr ""
+"@@image: 'images/Lesson07_images_025.png'; "
+"md5=9b2087da58fdf7099ae5521053e47e26"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:786(None)
+msgid ""
+"@@image: 'images/Lesson07_images_026.png'; "
+"md5=0edae1a08f1ff137e28939a73e872818"
+msgstr ""
+"@@image: 'images/Lesson07_images_026.png'; "
+"md5=0edae1a08f1ff137e28939a73e872818"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:951(None)
+msgid ""
+"@@image: 'images/Lesson07_images_027.png'; "
+"md5=1d978f559ad76a94169ff272d714eb46"
+msgstr ""
+"@@image: 'images/Lesson07_images_027.png'; "
+"md5=1d978f559ad76a94169ff272d714eb46"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:968(None)
+msgid ""
+"@@image: 'images/Lesson07_images_028.png'; "
+"md5=167fb86de27a0b8a141ea20788ef5a80"
+msgstr ""
+"@@image: 'images/Lesson07_images_028.png'; "
+"md5=167fb86de27a0b8a141ea20788ef5a80"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:999(None)
+msgid ""
+"@@image: 'images/Lesson07_images_029.png'; "
+"md5=e9887a12ac476e88879397f3a5d69947"
+msgstr ""
+"@@image: 'images/Lesson07_images_029.png'; "
+"md5=e9887a12ac476e88879397f3a5d69947"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1018(None)
+msgid ""
+"@@image: 'images/Lesson07_images_030.png'; "
+"md5=4cc7861b8581ca5e69786ba6845e1e94"
+msgstr ""
+"@@image: 'images/Lesson07_images_030.png'; "
+"md5=4cc7861b8581ca5e69786ba6845e1e94"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1035(None)
+msgid ""
+"@@image: 'images/Lesson07_images_031.png'; "
+"md5=01baee9acf210293cedffeb6f0a0114b"
+msgstr ""
+"@@image: 'images/Lesson07_images_031.png'; "
+"md5=01baee9acf210293cedffeb6f0a0114b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1138(None)
+msgid ""
+"@@image: 'images/Lesson07_images_032.png'; "
+"md5=45c87517c875ef0e928150fb9c4a01ec"
+msgstr ""
+"@@image: 'images/Lesson07_images_032.png'; "
+"md5=45c87517c875ef0e928150fb9c4a01ec"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1163(None)
+msgid ""
+"@@image: 'images/Lesson07_images_033.png'; "
+"md5=a866364ec51f76682dd89b0fe99ae5cf"
+msgstr ""
+"@@image: 'images/Lesson07_images_033.png'; "
+"md5=a866364ec51f76682dd89b0fe99ae5cf"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1189(None)
+msgid ""
+"@@image: 'images/Lesson07_images_034.png'; "
+"md5=16ed00c02ed614b1b9db97dd66fd0560"
+msgstr ""
+"@@image: 'images/Lesson07_images_034.png'; "
+"md5=16ed00c02ed614b1b9db97dd66fd0560"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1206(None)
+msgid ""
+"@@image: 'images/Lesson07_images_035.png'; "
+"md5=c0e610db8537885780242757fb13c541"
+msgstr ""
+"@@image: 'images/Lesson07_images_035.png'; "
+"md5=c0e610db8537885780242757fb13c541"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1222(None)
+msgid ""
+"@@image: 'images/Lesson07_images_036.png'; "
+"md5=453736e2c625c6784cf3d6d9f8812431"
+msgstr ""
+"@@image: 'images/Lesson07_images_036.png'; "
+"md5=453736e2c625c6784cf3d6d9f8812431"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1238(None)
+msgid ""
+"@@image: 'images/Lesson07_images_037.png'; "
+"md5=b517f47dc56b713dfd2b6abddacb6abb"
+msgstr ""
+"@@image: 'images/Lesson07_images_037.png'; "
+"md5=b517f47dc56b713dfd2b6abddacb6abb"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1254(None)
+msgid ""
+"@@image: 'images/Lesson07_images_038.png'; "
+"md5=9e353a84dde7273e5de53ba2d632cc48"
+msgstr ""
+"@@image: 'images/Lesson07_images_038.png'; "
+"md5=9e353a84dde7273e5de53ba2d632cc48"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1275(None)
+msgid ""
+"@@image: 'images/Lesson07_images_039.png'; "
+"md5=e13aea2faf52e76ad5c3fbcd9f6de4d3"
+msgstr ""
+"@@image: 'images/Lesson07_images_039.png'; "
+"md5=e13aea2faf52e76ad5c3fbcd9f6de4d3"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1322(None)
+msgid ""
+"@@image: 'images/Lesson07_images_040.png'; "
+"md5=389c0e9f1c853ff05baf3f49d2e746f8"
+msgstr ""
+"@@image: 'images/Lesson07_images_040.png'; "
+"md5=389c0e9f1c853ff05baf3f49d2e746f8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1354(None)
+msgid ""
+"@@image: 'images/Lesson07_images_041.png'; "
+"md5=46f0d797e95634bb9936603ac841a1f0"
+msgstr ""
+"@@image: 'images/Lesson07_images_041.png'; "
+"md5=46f0d797e95634bb9936603ac841a1f0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1381(None)
+msgid ""
+"@@image: 'images/Lesson07_images_042.png'; "
+"md5=48d54c44f3e6770478e57183dad187ef"
+msgstr ""
+"@@image: 'images/Lesson07_images_042.png'; "
+"md5=48d54c44f3e6770478e57183dad187ef"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1401(None)
+msgid ""
+"@@image: 'images/Lesson07_images_043.png'; "
+"md5=dca5efccee42a0d5fb3b490135d407db"
+msgstr ""
+"@@image: 'images/Lesson07_images_043.png'; "
+"md5=dca5efccee42a0d5fb3b490135d407db"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1419(None)
+msgid ""
+"@@image: 'images/Lesson07_images_044.png'; "
+"md5=4d7db4bf87195d8d7f00c77774887a16"
+msgstr ""
+"@@image: 'images/Lesson07_images_044.png'; "
+"md5=4d7db4bf87195d8d7f00c77774887a16"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1435(None)
+msgid ""
+"@@image: 'images/Lesson07_images_045.png'; "
+"md5=4d8b8f9388a1aad9c89b61b40fdd70bf"
+msgstr ""
+"@@image: 'images/Lesson07_images_045.png'; "
+"md5=4d8b8f9388a1aad9c89b61b40fdd70bf"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1453(None)
+msgid ""
+"@@image: 'images/Lesson07_images_046.png'; "
+"md5=12103d3774763a47167c8b873dd03374"
+msgstr ""
+"@@image: 'images/Lesson07_images_046.png'; "
+"md5=12103d3774763a47167c8b873dd03374"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1470(None)
+msgid ""
+"@@image: 'images/Lesson07_images_047.png'; "
+"md5=96545d06bd12a09e51b621e6d93ed2cd"
+msgstr ""
+"@@image: 'images/Lesson07_images_047.png'; "
+"md5=96545d06bd12a09e51b621e6d93ed2cd"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1487(None)
+msgid ""
+"@@image: 'images/Lesson07_images_048.png'; "
+"md5=eb60d65ea2b29170fb93f0a4c8575d21"
+msgstr ""
+"@@image: 'images/Lesson07_images_048.png'; "
+"md5=eb60d65ea2b29170fb93f0a4c8575d21"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1709(None)
+msgid ""
+"@@image: 'images/Lesson07_images_049.png'; "
+"md5=9b7e2454304b63e1d57f734b386a0858"
+msgstr ""
+"@@image: 'images/Lesson07_images_049.png'; "
+"md5=9b7e2454304b63e1d57f734b386a0858"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1724(None)
+msgid ""
+"@@image: 'images/Lesson07_images_050.png'; "
+"md5=5e25dc335c5b75cd04618d3d02c8deb8"
+msgstr ""
+"@@image: 'images/Lesson07_images_050.png'; "
+"md5=5e25dc335c5b75cd04618d3d02c8deb8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1751(None)
+msgid ""
+"@@image: 'images/Lesson07_images_051.png'; "
+"md5=75230712e216a8cea22fb90c6e8616ec"
+msgstr ""
+"@@image: 'images/Lesson07_images_051.png'; "
+"md5=75230712e216a8cea22fb90c6e8616ec"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1778(None)
+msgid ""
+"@@image: 'images/Lesson07_images_052.png'; "
+"md5=af339f67b1807a26eafceab6654d2054"
+msgstr ""
+"@@image: 'images/Lesson07_images_052.png'; "
+"md5=af339f67b1807a26eafceab6654d2054"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1796(None)
+msgid ""
+"@@image: 'images/Lesson07_images_053.png'; "
+"md5=98476086c4e90b2b9659cf93e7b3314a"
+msgstr ""
+"@@image: 'images/Lesson07_images_053.png'; "
+"md5=98476086c4e90b2b9659cf93e7b3314a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1813(None)
+msgid ""
+"@@image: 'images/Lesson07_images_054.png'; "
+"md5=e9779428ad65af0efb6ddf6e83a086ca"
+msgstr ""
+"@@image: 'images/Lesson07_images_054.png'; "
+"md5=e9779428ad65af0efb6ddf6e83a086ca"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1841(None)
+msgid ""
+"@@image: 'images/Lesson07_images_055.png'; "
+"md5=cbbc1be65a5903eaf0978abd83429140"
+msgstr ""
+"@@image: 'images/Lesson07_images_055.png'; "
+"md5=cbbc1be65a5903eaf0978abd83429140"
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:5(title)
+msgid "Customising the Desktop and Applications"
+msgstr "自定义桌面和应用程序"
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:8(title)
+msgid "Objectives"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:10(para)
+msgid "In this lesson, you will learn how to:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:13(para)
+msgid "Customise the look and feel of the Ubuntu desktop"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:17(para)
+msgid "Work with the Nautilus file manager"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:21(para)
+msgid "Add and remove applications"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:25(para)
+msgid "Identify the types of single package files and their use"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:29(para)
+msgid "Install and uninstall Debian packages"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:33(para)
+msgid "Identify the categories of software repositories"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:37(para)
+msgid "Add extra repositories"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:42(title)
+msgid "Introduction"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:44(para)
+msgid ""
+"The Ubuntu desktop comes completely clean and free of pre-determined icons "
+"and buttons. Customising your desktop allows you to add icons to suit your "
+"work style."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:48(para)
+msgid ""
+"In this lesson, you will learn about various ways to set up your Ubuntu "
+"desktop to suit your requirements. You will also learn how to install and "
+"uninstall various software applications."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:54(title)
+msgid "Customising the Desktop"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:56(para)
+msgid ""
+"Ubuntu and its derivatives can be customised through a Graphical User "
+"Interface or a Command Line Interface."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:59(para)
+msgid ""
+"The graphical tools to customize the desktop are available as menu options "
+"in the <emphasis role=\"strong\">System</emphasis> menu. Point to <emphasis "
+"role=\"strong\">Preferences</emphasis> on the <emphasis "
+"role=\"strong\">System menu</emphasis> to view the tools."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:65(title) chapter6/Customising_the_Desktop_and_Applications.xml:399(title) chapter6/Customising_the_Desktop_and_Applications.xml:457(title) chapter6/Customising_the_Desktop_and_Applications.xml:979(title) chapter6/Customising_the_Desktop_and_Applications.xml:1041(title) chapter6/Customising_the_Desktop_and_Applications.xml:1098(title) chapter6/Customising_the_Desktop_and_Applications.xml:1116(title) chapter6/Customising_the_Desktop_and_Applications.xml:1150(title) chapter6/Customising_the_Desktop_and_Applications.xml:1281(title) chapter6/Customising_the_Desktop_and_Applications.xml:1338(title) chapter6/Customising_the_Desktop_and_Applications.xml:1368(title) chapter6/Customising_the_Desktop_and_Applications.xml:1506(title) chapter6/Customising_the_Desktop_and_Applications.xml:1535(title) chapter6/Customising_the_Desktop_and_Applications.xml:1730(title) chapter6/Customising_the_Desktop_and_Applications.xml:1766(title)
+msgid "Note:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:67(para)
+msgid ""
+"The System - Preferences menu enables users to customise their own desktop "
+"environment but not that of other users on the same computer. In contrast, "
+"applications on the System - Administration menu will make changes to the "
+"computer that will affect all users."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:74(title)
+msgid "Changing the Background"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:76(para)
+msgid ""
+"The desktop background is the image or colour applied to your desktop."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:80(title)
+msgid "To change the default Ubuntu background select:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:83(para)
+msgid ""
+"On the <emphasis role=\"strong\">System </emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and then click <emphasis "
+"role=\"strong\">Appearance</emphasis>. The <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:90(title)
+msgid "Launching Appearance Preferences Dialogue Box"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:101(title) chapter6/Customising_the_Desktop_and_Applications.xml:127(title) chapter6/Customising_the_Desktop_and_Applications.xml:1055(title) chapter6/Customising_the_Desktop_and_Applications.xml:1177(title)
+msgid "Nice to Know:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:103(para)
+msgid ""
+"You can also right-click the desktop and select <emphasis "
+"role=\"strong\">Change Desktop Background</emphasis> to open the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:111(para)
+msgid ""
+"In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
+"box, select a desktop wallpaper from the available wallpapers. The "
+"background changes immediately."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:116(title)
+msgid "Changing the Desktop Wallpaper"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:129(para)
+msgid "To view the name of the wallpaper, move the pointer over its name."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:135(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box to apply the "
+"changes."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:140(title)
+msgid "Applying Preference Change"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:153(title) chapter6/Customising_the_Desktop_and_Applications.xml:200(emphasis)
+msgid "Adding a New Wallpaper"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:155(para)
+msgid ""
+"In addition to the wallpapers available with Ubuntu, you can download "
+"wallpapers from other sources and add them to the available wallpapers list "
+"in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
+"box. To do this:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:161(para)
+msgid ""
+"Open the Web site <ulink "
+"url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> and click "
+"<emphasis role=\"strong\">Backgrounds</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:166(emphasis)
+msgid "Opening Wallpaper Source"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:179(para)
+msgid ""
+"Download the wallpaper of your choice. During the download, you can view the "
+"screen resolutions available for the selected wallpaper. You should download "
+"and save the version of your chosen wallpaper that matches the screen "
+"resolution of your computer."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:187(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and then click <emphasis "
+"role=\"strong\">Appearance</emphasis>. The <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:195(para)
+msgid ""
+"Click the <emphasis role=\"strong\">Background</emphasis> tab and then click "
+"<emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add "
+"Wallpaper</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:213(para)
+msgid ""
+"In the <emphasis role=\"strong\">Add Wallpaper</emphasis> dialogue box, "
+"select the downloaded image and click <emphasis "
+"role=\"strong\">Open</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:218(emphasis)
+msgid "Selecting Downloaded Wallpaper"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:229(para)
+msgid "This step adds the image as new wallpaper."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:233(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box to accept the "
+"changes. You can now view the new desktop background."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:239(emphasis)
+msgid "Added Wallpaper"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:252(title)
+msgid "Nice to know:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:254(para)
+msgid ""
+"You can, of course, use a picture from any other source to use as your "
+"desktop background. Many popular online photo collaboration sites allow "
+"visitors to download and use their content for personal use. Many people "
+"also use their own digital photographs as backgrounds."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:262(title)
+msgid "Changing the Colour of the Background"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:264(para)
+msgid "To change the colour of the background:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:267(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and then click <emphasis "
+"role=\"strong\">Appearance</emphasis> to open the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:274(para)
+msgid ""
+"Click the <emphasis role=\"strong\">Background</emphasis> tab and select the "
+"wallpaper <emphasis role=\"strong\">No Wallpaper</emphasis>. You can only "
+"view colours if you have not set any desktop wallpaper."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:280(emphasis)
+msgid "Changing Background Colour"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:293(para)
+msgid ""
+"The <emphasis role=\"strong\">Colours</emphasis> box provides three types of "
+"background: <emphasis role=\"strong\">Solid colour, Horizontal "
+"gradient</emphasis> and <emphasis role=\"strong\">Vertical "
+"gradient</emphasis>. Select the desktop colour of your choice and then click "
+"the colour chip next to the <emphasis role=\"strong\">Colours</emphasis> "
+"box. The <emphasis role=\"strong\">Pick a Colour</emphasis> dialogue box "
+"opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:302(emphasis)
+msgid "Selecting a colour Option"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:315(para)
+msgid ""
+"Select a colour or the attributes of a colour such as hue and saturation to "
+"create a colour of your choice. Click <emphasis "
+"role=\"strong\">OK</emphasis>. The desktop reflects the new settings "
+"immediately."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:321(emphasis)
+msgid "Specifying Colour"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:334(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> to close the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:339(emphasis)
+msgid "Changed Background Colour"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:354(title)
+msgid "Customising the Theme (Buttons &amp; icons etc)"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:356(para)
+msgid ""
+"The desktop theme controls the visual appearance of the buttons, scroll "
+"bars, icons, panels, borders etc. A number of themes are provided with "
+"Ubuntu."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:361(title)
+msgid "To select a theme for your desktop:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:364(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and click <emphasis "
+"role=\"strong\">Appearance</emphasis>. The <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:372(para)
+msgid ""
+"On the <emphasis role=\"strong\">Theme</emphasis> tab, select the theme of "
+"your choice. The desktop reflects the theme automatically. To customise your "
+"theme further, click <emphasis role=\"strong\">Customise</emphasis>. The "
+"<emphasis role=\"strong\">Customise Theme</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:379(title)
+msgid "Customising Desktop Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:391(para)
+msgid ""
+"The default selection is <emphasis role=\"strong\">Controls</emphasis> tab. "
+"The setting on the <emphasis role=\"strong\">Controls</emphasis> tabbed page "
+"defines the visual appearance of windows, panels and applets. Select a "
+"control from the <emphasis role=\"strong\">Controls</emphasis> list. You "
+"will see an immediate change in the appearance of the open windows."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:401(para)
+msgid "You can customise the following objects on the screen:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:405(title)
+msgid "Window:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:407(para)
+msgid ""
+"A rectangular area of the screen with a border and a title bar at the top. "
+"All graphical applications run inside windows."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:413(title)
+msgid "Panel:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:415(para)
+msgid ""
+"An area on the desktop from where you can access information such as date "
+"and time. You can also launch applications and add or remove objects from "
+"panels. The Ubuntu desktop contains two panels, the top edge panel at the "
+"top of the screen and the bottom edge panel at the bottom of the screen."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:424(title)
+msgid "Applet:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:426(para)
+msgid "A small application whose user interface resides within a panel."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:431(title)
+msgid "Window Border:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:433(para)
+msgid ""
+"The border that appears around windows. It has a frame at the top of the "
+"window that contains the name of the application and the edges that allow "
+"you to resize the window."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:439(title)
+msgid "Icon:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:441(para)
+msgid ""
+"A graphical symbol for the applications and options on the panels and "
+"windows."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:446(para)
+msgid ""
+"Similarly, you can customise the background and text colour of your windows, "
+"input boxes and selected items by configuring the settings on the <emphasis "
+"role=\"strong\">Colours</emphasis> tab."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:451(para)
+msgid ""
+"If you want to customise your window borders and icons, click the <emphasis "
+"role=\"strong\">Window Border</emphasis> and <emphasis "
+"role=\"strong\">Icons</emphasis> tabs in the <emphasis "
+"role=\"strong\">Customise Theme</emphasis> dialogue box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:459(para)
+msgid ""
+"Ubuntu provides additional options to customise your themes. You can "
+"download more controls, window borders and icons from the Web site <ulink "
+"url=\"http://art.gnome.org\">http://art.gnome.org</ulink> and save it at any "
+"location on your computer. While customising the theme, click <emphasis "
+"role=\"strong\">Install</emphasis> in the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box. The "
+"<emphasis role=\"strong\">Select Theme</emphasis> dialogue box opens, and "
+"you can select the downloaded objects."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:471(title)
+msgid "Selecting Theme Controls"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:483(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis "
+"role=\"strong\">Customise Theme</emphasis> dialogue box. To save the theme, "
+"click <emphasis role=\"strong\">Save As</emphasis> in the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box. The "
+"<emphasis role=\"strong\">Save Theme As</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:491(title)
+msgid "Saving a Modified Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:503(para)
+msgid ""
+"Provide a name for the theme in the <emphasis role=\"strong\">Name "
+"</emphasis> box and a description, if you want, in the <emphasis "
+"role=\"strong\">Description </emphasis> box. Click <emphasis "
+"role=\"strong\">Save</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:509(title)
+msgid "Specifying Theme Name and Description"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:521(para)
+msgid ""
+"In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
+"box, click <emphasis role=\"strong\">Close</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:527(para)
+msgid ""
+"If you open a menu or window, you can see the changes in their appearance."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:531(title)
+msgid "Viewing an Application in a Modified Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:542(title)
+msgid "Installing New Themes"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:544(para)
+msgid ""
+"You can also download other Ubuntu-compatible themes from Ubuntu's "
+"recommended source. To install these themes:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:548(para)
+msgid ""
+"Open the Web site(<ulink "
+"url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>) and click "
+"<emphasis role=\"strong\">DesktopThemes</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:553(emphasis)
+msgid "Opening Theme Source"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:566(para)
+msgid ""
+"Download a theme of your choice. Select any theme and follow the "
+"instructions as they appear."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:571(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences </emphasis> and click <emphasis "
+"role=\"strong\">Appearance</emphasis>. The <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:579(para)
+msgid ""
+"On the <emphasis role=\"strong\">Theme</emphasis> tab, click <emphasis "
+"role=\"strong\">Install</emphasis>. The <emphasis role=\"strong\">Select "
+"Theme</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:584(emphasis)
+msgid "Installing a New Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:597(para)
+msgid ""
+"Select the downloaded theme and click <emphasis "
+"role=\"strong\">Open</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:601(emphasis)
+msgid "Selecting the Downloaded Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:614(para)
+msgid ""
+"You can apply a new theme or retain the current theme. Click <emphasis "
+"role=\"strong\">Apply New Theme</emphasis> to apply the new theme. The "
+"screen will reflect the new theme immediately."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:619(emphasis)
+msgid "Applying New Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:632(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:636(para)
+msgid "If you open any menu or window, it will reflect the selected theme."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:640(emphasis)
+msgid "Chess in Blue Heart Theme"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:655(title)
+msgid "Customising a Screensaver"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:657(para)
+msgid ""
+"A screensaver displays (often moving) images on the screen when your "
+"computer is switched on but not in use. To go back to the workspace, you can "
+"move the mouse or press any key on the keyboard."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:663(title)
+msgid ""
+"You can choose a screensaver and customise it. To customise a screensaver:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:667(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and click <emphasis "
+"role=\"strong\">Screensaver</emphasis>. The <emphasis "
+"role=\"strong\">Screensaver Preferences </emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:674(title)
+msgid "Launching Screensaver Preferences Dialogue Box"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:686(para)
+msgid ""
+"Select a screensaver from the list. You can preview the screensaver in the "
+"right pane."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:690(title)
+msgid "Customising Screensaver Settings"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:702(para)
+msgid ""
+"The <emphasis role=\"strong\">Regard the computer as idle after</emphasis> "
+"slider specifies when a screensaver starts to work if the computer is not in "
+"use. The default time is set to 10 minutes. You can use this slider to "
+"select how long the computer needs to be idle before the screensaver "
+"activates."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:710(para)
+msgid ""
+"To prevent any tampering of your computer in your absence, you can "
+"automatically lock your screen the moment the screensaver activates. Locking "
+"requires users to type their password to reactivate the desktop. Select the "
+"<emphasis role=\"strong\">Lock screen when screensaver is active</emphasis> "
+"check box to lock the screen when the screensaver starts."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:719(para)
+msgid "Click <emphasis role=\"strong\">Close</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:723(para)
+msgid ""
+"The selected screensaver displays when the computer is idle for the "
+"specified period."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:728(title)
+msgid "Customising the Screen Resolution"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:730(para)
+msgid ""
+"The screen resolution determines how large or small an item looks on the "
+"screen."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:734(title)
+msgid "To modify the desktop screen resolution:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:737(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and then click <emphasis "
+"role=\"strong\">Screen Resolution</emphasis>. The <emphasis "
+"role=\"strong\">Screen Resolution Preferences</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:744(title)
+msgid "Launching Screen Resolution Preferences Dialogue Box"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:757(para)
+msgid ""
+"The default resolution is <emphasis role=\"strong\">1280x1024</emphasis>. "
+"You can change the resolution in the <emphasis "
+"role=\"strong\">Resolution</emphasis> box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:762(title)
+msgid "Customising Screen Resolution"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:774(para)
+msgid ""
+"Click <emphasis role=\"strong\">Apply</emphasis>. The <emphasis "
+"role=\"strong\">Keep Resolution</emphasis> dialogue box opens, prompting you "
+"to confirm settings or use the previous resolution and revert to the "
+"original settings. Click <emphasis role=\"strong\">Keep "
+"resolution</emphasis> to apply new changes."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:781(title)
+msgid "Resolution Confirmation Dialogue Box"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:793(para)
+msgid "The screen resolution will change."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:798(title)
+msgid "3D Effects"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:800(para)
+msgid ""
+"A computer screen is two-dimensional (2D) and until recently most "
+"applications were developed in a 2D layout."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:803(para)
+msgid ""
+"However, advancements in technology fuelled the demand for more life-like on "
+"screen visuals, as in three-dimensional (3D) modelling and games. The "
+"operating system needs to perform complex calculations to display 3D images "
+"in 2D. Consequently, to reduce the burden on the operating system and "
+"increase the speed of applications, 3D accelerator cards were developed, "
+"which use the graphics processor on the graphics card instead of consuming "
+"valuable CPU resources. Almost all modern graphics cards have a built-in "
+"acceleration to display 3D."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:812(para)
+msgid ""
+"Ubuntu can utilize the 3D capabilities of a graphics card for desktop "
+"effects. An example of these can be seen with Compiz Fusion – spinning "
+"cubes, floating windows etc. Compiz Fusion is a fun application used to "
+"liven up your desktop experience and make it 3D in appearance."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:818(para)
+msgid ""
+"The effects are enabled by default and can be controlled from the <emphasis "
+"role=\"strong\">Appearance</emphasis> menu. From here the desktop effects "
+"can either be completely disabled or enabled. The number of effects can be "
+"controlled via the <emphasis role=\"strong\">normal effects</emphasis> and "
+"<emphasis role=\"strong\">extra effects</emphasis> setting."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:825(para)
+msgid ""
+"If a graphics card does not have 3D capabilities or support for 3D is "
+"missing from the Linux drivers for the card, you will be notified that "
+"<emphasis role=\"strong\">Desktop effects could not be enabled</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:832(title)
+msgid "Working with Files Using Nautilus"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:834(para)
+msgid ""
+"The Nautilus file manager in Ubuntu provides a simple and integrated way to "
+"manage files and applications."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:838(title)
+msgid "Features of Nautilus"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:840(para)
+msgid ""
+"The Nautilus file manager enables you to organise files into folders and "
+"perform tasks such as:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:845(para)
+msgid ""
+"Create and display folders and documents: Create new files, organise them "
+"into folders and save them."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:850(para)
+msgid ""
+"Search and manage your files: Classify files and search them as per their "
+"classification."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:855(para)
+msgid ""
+"Open special locations on your computer: Access the local network and save "
+"your files."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:860(para)
+msgid "Write data to a CD or DVD"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:864(para)
+msgid "Navigate using two modes:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:868(para)
+msgid ""
+"Spatial mode: Allows you to open each folder in a separate window, which "
+"then helps open your files as physical objects in different locations. You "
+"can view the content of various folders simultaneously."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:875(para)
+msgid ""
+"Browser mode: Opens your folders in a single window. Only one file manager "
+"opens in browser mode, and it is updated when you click another folder in "
+"the file manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:884(title) chapter6/Customising_the_Desktop_and_Applications.xml:1661(title) chapter6/Customising_the_Desktop_and_Applications.xml:1681(title) chapter6/Customising_the_Desktop_and_Applications.xml:2021(title)
+msgid "Instructor Notes:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:886(para)
+msgid ""
+"Compare browser mode with Firefox to help students appreciate the similarity."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:892(title)
+msgid "Nautilus"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:895(title)
+msgid "To choose the required mode:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:902(title)
+msgid "Home Folder:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:904(para)
+msgid ""
+"This is a personal folder created by default for every user to create and "
+"work on files. It takes the user name by default."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:912(title)
+msgid "Desktop:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:914(para)
+msgid ""
+"An active component that lies behind all the screens on your computer and "
+"provides easy and quick access to the files saved on it."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:922(title)
+msgid "Computer:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:924(para)
+msgid ""
+"Contains all drives and file systems; makes document backup onto CD and DVD "
+"really simple."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:931(title)
+msgid "CD/DVD Creator:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:933(para)
+msgid ""
+"It consists of folders that you can write to a CD or a DVD. You can also "
+"back up your documents on a CD or a DVD."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:898(para)
+msgid ""
+"Click the <emphasis role=\"strong\">Places</emphasis> menu. A list of items "
+"appears: <placeholder-1/>"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:942(para)
+msgid ""
+"Click any of the above items on the <emphasis role=\"strong\">Places "
+"</emphasis> menu."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:946(title)
+msgid "Using File Browser"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:956(para)
+msgid ""
+"The Nautilus file manager opens files in browser mode by default. If you "
+"open a folder in this mode, the folder will open in the same window. The "
+"location bar shows the current location of the opened folder in the "
+"hierarchy of folders, and the sidebar shows other folders saved on your "
+"computer."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:963(title)
+msgid "Files Display"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:973(para)
+msgid ""
+"While in browser mode, you can move to the parent folder that contains the "
+"currently open folder. To move to the parent folder, click <emphasis "
+"role=\"strong\">Open Parent</emphasis> on the <emphasis "
+"role=\"strong\">Go</emphasis> menu in the window."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:981(para)
+msgid ""
+"You can also click <emphasis role=\"strong\">Up</emphasis> on the navigation "
+"toolbar or press the BACKSPACE key to move to the parent folder."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:988(para)
+msgid ""
+"On the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis "
+"role=\"strong\">Preferences</emphasis>. The <emphasis role=\"strong\">File "
+"Management Preferences</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:994(title)
+msgid "Launching File Management Preferences"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1006(para)
+msgid ""
+"Click the <emphasis role=\"strong\">Behaviour</emphasis> tab in the dialogue "
+"box. To change the mode to spatial mode, clear the <emphasis "
+"role=\"strong\">Always open in browser windows</emphasis> check box and then "
+"click <emphasis role=\"strong\">Close</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1013(title)
+msgid "Changing File Management Behaviour"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1025(para)
+msgid ""
+"Close the file manager window and open it again. Your files will now open in "
+"spatial mode. If you open another folder, it will open in a different file "
+"manager window."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1030(title)
+msgid "Confirming File Management Behaviour Changes"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1043(para)
+msgid ""
+"Each time you open a particular folder in spatial mode, you will find its "
+"window displayed in the same place on the screen and of the same size as "
+"during the last view. For this reason, this mode is referred to as spatial "
+"mode."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1049(para)
+msgid ""
+"To move to the parent folder in spatial mode, click <emphasis "
+"role=\"strong\">Open Parent</emphasis> on the <emphasis "
+"role=\"strong\">File</emphasis> menu. Alternatively, you can press the "
+"ALT+UP arrow key."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1057(para)
+msgid ""
+"Konqueror is KDE equivalent of Nautilus file manager, which is used in the "
+"Kubuntu derivative of Ubuntu. It is a multi-purpose application that can act "
+"as a file manager, Web browser and universal viewer. As well as allowing you "
+"to browse Web sites, this application provides basic file management and can "
+"many view different file types."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1070(title)
+msgid "Package Managers"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1072(para)
+msgid ""
+"One of the biggest differences between Ubuntu and other operating systems is "
+"how you install and uninstall applications. In Microsoft Windows, most "
+"applications provide their own installation and removal methods. Some "
+"applications provide a method to keep themselves up to date, but others do "
+"not and there is no easy way to ensure that everything on your computer is "
+"up to date. Keeping track of all the programmes that have been installed and "
+"keeping all those programmes updated is largely up to you."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1081(para)
+msgid ""
+"Ubuntu has a sophisticated <emphasis role=\"strong\">package management "
+"framework </emphasis> that keeps track of all the software installed, "
+"automates the process of installing and removing applications, and ensures "
+"that all the software is kept up to date with the latest enhancements and "
+"fixes. All you have to do is decide what applications you want installed, "
+"and then use a <emphasis role=\"strong\">package manager</emphasis> to tell "
+"Ubuntu to install them."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1090(title)
+msgid "Types of Package Managers"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1092(para)
+msgid ""
+"Ubuntu includes a few package managers by default and which one you use "
+"depends on how advanced the package management tasks are that you want to "
+"achieve. This course covers Add/Remove applications utility and the Synaptic "
+"Package Manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1100(para)
+msgid ""
+"If you open more than one package manager at the same time, they may not "
+"work. Close all the package managers and open just one."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1107(title)
+msgid "Using Add/Remove Applications"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1109(para)
+msgid ""
+"The Add/Remove tool is the easiest to use and will enable you to install and "
+"uninstall many popular packages. You can search for the package or packages "
+"you want to install by simply searching a keyword such as 'email' or by "
+"looking through the given categories, selecting applications and choosing "
+"\"Apply\" to start the installation."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1118(para)
+msgid ""
+"You need administrative access to use any package manager. Type the password "
+"for your user name at the prompt. This means that applications can not be "
+"added / removed from your computer without your knowledge (and password)."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1125(title)
+msgid ""
+"The procedure to add or remove software by using Add/Remove Applications is:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1129(para)
+msgid ""
+"On the <emphasis role=\"strong\">Applications</emphasis> menu, click "
+"<emphasis role=\"strong\">Add/Remove</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1133(title)
+msgid "Launching Add/Remove Applications"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1145(para)
+msgid ""
+"The <emphasis role=\"strong\">Add/Remove Applications</emphasis> dialogue "
+"box displays a list of applications. The check boxes against the "
+"applications that are already installed are pre-selected."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1152(para)
+msgid ""
+"Many package names in Ubuntu are quite obscure, so the package manager will "
+"also look at the package description when searching."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1158(title)
+msgid "Add/Remove Applications Window"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1170(para)
+msgid ""
+"If you know the name of the package to be installed, you can type the name "
+"in the <emphasis role=\"strong\">Search</emphasis> box. Otherwise, you can "
+"click the appropriate software category in the left pane and select the "
+"check box next to the required package in the right pane."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1179(para)
+msgid ""
+"For more details about a package, click the package and view the bottom pane."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1184(title)
+msgid "Searching for a Package in All Available Applications"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1196(para)
+msgid ""
+"When you have finished selecting the packages to be installed or removed, "
+"click <emphasis role=\"strong\">Apply Changes</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1201(title)
+msgid "Applying Changes to the Package List"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1213(para)
+msgid ""
+"You are prompted to confirm your selection. Click <emphasis "
+"role=\"strong\">Apply</emphasis> to proceed."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1217(title)
+msgid "Confirming Changes"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1229(para)
+msgid ""
+"The progress indicator shows the status of the package being installed or "
+"removed."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1233(title)
+msgid "Installing Selected Package from Repositories"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1245(para)
+msgid "After the changes are applied successfully, the package is installed."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1249(title) chapter6/Customising_the_Desktop_and_Applications.xml:1465(title)
+msgid "Installation Confirmation"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1261(para)
+msgid ""
+"Double-click the package to launch it. If you want to add or remove more "
+"applications, click <emphasis role=\"strong\">Add/Remove More "
+"Applications</emphasis> or else click <emphasis "
+"role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">New "
+"application has been installed</emphasis> dialogue box. The following figure "
+"shows <emphasis role=\"strong\">Atomix</emphasis>, which has been installed "
+"by performing this procedure."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1270(title)
+msgid "Launching the Installed Application - Atomix"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1283(para)
+msgid ""
+"After installing a package, you can open it by using a particular menu based "
+"on its category."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1291(title)
+msgid "Using Synaptic Package Manager"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1293(para)
+msgid ""
+"Add/Remove Applications does not enable you to install and remove some more "
+"advanced packages, such as the Apache web server, the PHP programming "
+"language or Scribe. In such cases, use Synaptic Package Manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1298(para)
+msgid ""
+"You can install, remove, configure or upgrade software packages, browse, "
+"sort and search the list of available software packages, manage repositories "
+"or upgrade the whole system. You can queue up a number of actions before you "
+"execute them. Synaptic informs you about the additional packages required by "
+"the software package you have chosen as well as conflicts with other "
+"packages that are already installed on your system. In addition, it presents "
+"more information such as package status, origin and filters."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1308(title)
+msgid "To add and remove any package using Synaptic Packager Manager:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1312(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and then click <emphasis "
+"role=\"strong\">Synaptic Package Manager</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1317(title)
+msgid "Launching Synaptic Package Manager"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1329(para)
+msgid ""
+"In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
+"dialogue box, you can select the package you need. The left pane lists the "
+"categories, and the right pane lists the packages. If you do not know the "
+"name of the package, select the category in the left pane to filter the list "
+"of packages. You can then select the check box next to the required package "
+"in the right pane."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1340(para)
+msgid ""
+"If you want to view the installed and uninstalled packages, click <emphasis "
+"role=\"strong\">Status</emphasis>. To know the source repository of the "
+"package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis "
+"role=\"strong\">Custom Filters</emphasis> if you want to know the whether a "
+"package is broken or can be upgraded."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1349(title)
+msgid "Synaptic Package Manager Window"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1361(para)
+msgid ""
+"If you know the name of the package, click <emphasis "
+"role=\"strong\">Search</emphasis>. The <emphasis "
+"role=\"strong\">Find</emphasis> dialogue box opens. Type the name of the "
+"package in the <emphasis role=\"strong\">Search</emphasis> field and click "
+"<emphasis role=\"strong\">Search</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1370(para)
+msgid ""
+"To return to the list of categories after searching the packages using "
+"<emphasis role=\"strong\">Search</emphasis>, click <emphasis "
+"role=\"strong\">Sections</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1376(title)
+msgid "Searching a Package to Install"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1388(para)
+msgid ""
+"Choose the action to be performed on the selected package. Select the "
+"<emphasis role=\"strong\">Mark for Installation</emphasis> check box to "
+"install the package or select the <emphasis role=\"strong\">Mark for "
+"Removal</emphasis> check box to remove it. If you change your mind, select "
+"the <emphasis role=\"strong\">Unmark</emphasis> check box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1396(title)
+msgid "Marking the Package for Installation"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1408(para)
+msgid ""
+"If the package that you choose to remove or install depends on other "
+"packages, you will be notified about the dependencies. To continue making "
+"changes, click <emphasis role=\"strong\">Mark</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1414(title)
+msgid "Confirming Additional Changes"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1426(para)
+msgid ""
+"To confirm that you want to make the marked changes, click <emphasis "
+"role=\"strong\">Apply</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1430(title)
+msgid "Applying Changes to Update Software Information"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1442(para)
+msgid ""
+"The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, "
+"prompting you for a final check before making the marked changes. Click "
+"<emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1448(title)
+msgid "Final Confirmation to Install the Package"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1460(para)
+msgid ""
+"When all the marked changes are made, you are notified about the changes "
+"applied. Click <emphasis role=\"strong\">Close</emphasis> to close Synaptic "
+"Package Manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1475(para)
+msgid ""
+"This step completes the procedure of installing packages by using Synaptic "
+"Package Manager. You can access the installed package by selecting a "
+"particular menu, depending on the category of the package. The following "
+"figure shows Abiword, which has been installed using this procedure."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1482(title)
+msgid "Launching the Installed Application - Abiword"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1496(title)
+msgid "Installing a Single Package File"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1498(para)
+msgid ""
+"The preferred method of installing programmes is by using package managers. "
+"If some packages or files are not available, you can download and install "
+"them from Web sites. These files are associated with the package managers of "
+"specific Linux distributions and are referred to as single package files. "
+"Examples are Debian package files-.deb files and tarballs-.tar files."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1508(para)
+msgid ""
+"You should download files that are not present in Ubuntu archives only from "
+"a safe source."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1514(para)
+msgid ""
+"Debian Package files: These files are associated with Ubuntu and have the "
+".deb suffix."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1519(para)
+msgid ""
+"Tarballs: Zipped archive files that contain the source code of a programme. "
+"This source code needs to be compiled before use. Installing programmes by "
+"compiling them from source is not covered by this course."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1526(para)
+msgid ""
+"Compiling and installing programmes from source tarballs can can be very "
+"complex to debug when things go wrong. Tarballs are simple structures which "
+"don't specify what dependencies are required to enable compilation to take "
+"place. For this reason it can also be time consuming and complex to "
+"determine the necessary dependencies and either install or compile them "
+"also. Compiling from tarball is therefore not covered on this course."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1537(para)
+msgid ""
+"It is not guaranteed that the single package files will be compatible with "
+"your system. Also, you will not receive security updates if you install "
+"these files. Therefore, wherever possible use a native Ubuntu package of the "
+"application available through a package manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1545(title)
+msgid "Installing/Uninstalling Debian Packages"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1547(para)
+msgid ""
+"Debian packages are installed and uninstalled using the graphical installer "
+"(gdebi). gdebi will attempt to install any dependencies which are in the "
+"Ubuntu repositories, however if the package requires further dependencies "
+"which are not in the Ubuntu repositories these will also need to be "
+"installed manually."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1553(para)
+msgid ""
+"To install a Debian package, open the .deb file from the folder in which it "
+"resides."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1557(title)
+msgid "Installing a Debian package:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1560(para)
+msgid ""
+"Download the package XVidCap <emphasis role=\"strong\"> "
+"xvidcap_1.1.6_i386.deb</emphasis>. As this package is not in the Ubuntu "
+"repositories, you will need to download it from the following website: "
+"<ulink url=\"http://sourceforge.net/projects/xvidcap/\">http://sourceforge.ne"
+"t/projects/xvidcap/</ulink>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1568(para)
+msgid ""
+"Once downloaded, simply double click the .deb file and the gdebi installer "
+"will start. It will check to see if you have all the necessary dependents, "
+"and if so will offer an <emphasis role=\"strong\">Install</emphasis> button. "
+"Simply press the button to start the installation. In the event that "
+"dependencies cannot be resolved, an error message will be displayed and you "
+"will not be able to install the package until they are fulfilled."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1578(para)
+msgid ""
+"To uninstall the package, simply use the Synaptic Package Manager, as "
+"outlined previously in this section."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1586(title)
+msgid "Software Repositories"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1588(para)
+msgid ""
+"A software repository is a library of packages (applications) available over "
+"the Internet. The Ubuntu software repository contains tens of thousands of "
+"freely available packages for you to download and install. These packages "
+"have been specially built and selected for Ubuntu."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1598(title)
+msgid "Software Repository Categories"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1600(para)
+msgid ""
+"Ubuntu repositories are categorised into four groups based on the level of "
+"support that software development teams provide for a programme and the "
+"level of compliance the programme has with the free software philosophy."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1607(emphasis)
+msgid "Main"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1611(emphasis)
+msgid "Restricted"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1615(emphasis)
+msgid "Universe"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1619(emphasis)
+msgid "Multiverse"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1624(title)
+msgid "The Main Component"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1626(para)
+msgid ""
+"The Main component contains software packages that are free and fully "
+"supported by the Canonical team. These packages comply with the free "
+"software philosophy and are available by default while installing Ubuntu. "
+"For all packages in the Main component, security updates and technical "
+"support are available free of cost. OpenOffice.org, Abiword and the Apache "
+"web server are some of the packages available there."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1636(title)
+msgid "The Restricted Component"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1638(para)
+msgid ""
+"The Restricted component consists of packages for commonly used software "
+"that are supported by the Ubuntu team but not available under a completely "
+"free license. Binary drivers produced by some video card vendors are an "
+"example of packages available there. Packages in this component are also "
+"available on the standard Ubuntu installation CD, but they can be easily "
+"removed."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1647(title)
+msgid "The Universe Component"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1649(para)
+msgid ""
+"The Universe component includes thousands of packages for software that is "
+"not officially supported by Canonical. The software is available under a "
+"variety of free licenses, taken from a variety of public sources. This "
+"component is available only through Internet downloading."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1656(para)
+msgid ""
+"All the packages in this component are expected to work perfectly. However, "
+"there is no guarantee of security fixes and support for these packages. "
+"These packages are maintained by the community."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1663(para)
+msgid ""
+"It could be considered risky to use packages from the Universe component, "
+"especially because the lack of guaranteed security updates."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1669(title)
+msgid "The Multiverse Component"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1671(para)
+msgid ""
+"The Multiverse component contains packages of non-free software, which means "
+"that the licensing requirements of the software does not meet the license "
+"policy of Ubuntu's Main component. It is the user's responsibility to verify "
+"their rights to use the software and comply with the individual licensing "
+"terms. Support and security updates are not provided. Examples of these "
+"packages include VLC and the Adobe Flash plugin."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1683(para)
+msgid ""
+"Software from the Multiverse component could be hindered by patents and "
+"restriction on usage and distribution. It is the user's responsibility to "
+"determine if the software can be used in its jurisdiction and complies with "
+"local laws."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1689(para)
+msgid ""
+"Many packages are not available in default Ubuntu repositories. These "
+"packages can either be installed from other Ubuntu repositories or from "
+"third-party software. To use the packages present in third-party software, "
+"you need to add the software and the repositories."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1695(title)
+msgid ""
+"Perform the following steps to add the third-party software and repositories:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1699(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and then click <emphasis "
+"role=\"strong\">Software Sources</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1704(title)
+msgid "Launching Software Sources Dialogue Box"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1714(para)
+msgid ""
+"The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box "
+"opens. The software sources for Ubuntu are selected by default."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1719(title)
+msgid "Selecting the Required Sources"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1732(para)
+msgid ""
+"You can also open the <emphasis role=\"strong\">Software Sources</emphasis> "
+"dialogue box by using the Add/Remove applications or Synaptic Package "
+"Manager to enable the repositories under the <emphasis "
+"role=\"strong\">Ubuntu Software</emphasis> tab."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1741(para)
+msgid ""
+"To add a repository from the third party, click the <emphasis "
+"role=\"strong\">Third-Party Software</emphasis> tab and then click <emphasis "
+"role=\"strong\">Add</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1746(title)
+msgid "Adding a Third Party Software Source"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1758(para)
+msgid ""
+"Type the APT line for the repository you want to add as a source. To access "
+"the Debian main repositories, type <emphasis role=\"strong\">deb <ulink "
+"url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge "
+"main</emphasis> in the <emphasis role=\"strong\">APT line</emphasis> box. "
+"Click <emphasis role=\"strong\">Add Source</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1768(para)
+msgid ""
+"The APT line should include the type, location and components of a "
+"repository."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1773(title)
+msgid "Stating the Source APT Line"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1785(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> to save changes. The "
+"repository specified in the APT line is added to the third-party software "
+"box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1790(title)
+msgid "Software Sources Dialogue Box Displaying the Added Source"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1803(para)
+msgid ""
+"With the addition of an extra repository, you will be prompted to update "
+"information about available software. Click <emphasis "
+"role=\"strong\">Reload</emphasis> to do so."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1808(title)
+msgid "Reloading Available Software Information"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1820(para)
+msgid ""
+"The progress indicator shows the status of package being installed or "
+"removed."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1823(para)
+msgid ""
+"You can authenticate your downloads from the <emphasis "
+"role=\"strong\">Authentication</emphasis> tab in the <emphasis "
+"role=\"strong\">Software Sources</emphasis> dialogue box. When you do not "
+"authenticate your downloads, your computer may show the error shown below "
+"after downloading the package information. This error can be ignored. To "
+"authenticate the downloading process, you need to import the GPG key, which "
+"is different for every repository. Click <emphasis "
+"role=\"strong\">Close</emphasis> in the dialogue box showing the error. This "
+"step will end the process of adding extra repositories and updating package "
+"information."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1835(title)
+msgid "Public Key Error"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1853(title)
+msgid "Adding New Language Settings"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1855(para)
+msgid ""
+"Ubuntu provides the option to enable numerous language settings for your "
+"desktop."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1858(para)
+msgid ""
+"Support for new languages can be installed via <emphasis "
+"role=\"strong\">Language Support</emphasis>, which is found in the <emphasis "
+"role=\"strong\">Administration/System</emphasis> menu. Depending on the "
+"language, the input method and keyboard mapping may need to be changed as "
+"well. The <emphasis>Smart Common Input Method</emphasis>(SCIM) is used in "
+"Ubuntu to switch between different input methods for complex characters in "
+"many non-Latin languages. The <emphasis>ctrl space</emphasis> hotkey is a "
+"convenient switch between different input methods."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1869(title)
+msgid "Lesson Summary"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1871(para)
+msgid "In this lesson, you learned that:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1875(para)
+msgid ""
+"GNOME is the default desktop for Ubuntu. You can use the <emphasis "
+"role=\"strong\">Preferences</emphasis> option on the <emphasis "
+"role=\"strong\">System</emphasis> menu to customise the Ubuntu desktop look "
+"and feel."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1882(para)
+msgid ""
+"You can manage your file system using the Nautilus file manager. Use the "
+"spatial mode to open each folder in a separate window and view the content "
+"of various folders simultaneously. Use the browser mode to open folders in a "
+"single window."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1889(para)
+msgid ""
+"Add/Remove Applications is the easiest tool to install or uninstall packages."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1894(para)
+msgid ""
+"You can use Synaptic Package Manager to install or uninstall advanced "
+"applications that cannot be installed using Add/Remove."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1900(para)
+msgid ""
+"To install a package that is not available in the Ubuntu archives, you can "
+"download and install it from Web sites. These files are associated with the "
+"package managers of specific Linux distribution and are referred to as "
+"single package files."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1907(para)
+msgid ""
+"Tarballs are zipped archive files that contain the source code of a "
+"programme. You can use advanced command line tools to install or uninstall "
+"the tarball file."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1915(title)
+msgid "Review Exercise"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1920(para)
+msgid "What is the default desktop for Ubuntu?"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1924(para)
+msgid "GNOME is the default desktop for Ubuntu."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1930(para)
+msgid ""
+"From which Web site can you download additional Ubuntu wallpapers and themes?"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1935(para)
+msgid ""
+"You can download additional wallpapers and themes from the Web site <ulink "
+"url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1943(para)
+msgid "Mention any three features of the Nautilus file manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1948(para)
+msgid "Three features of the Nautilus file manager are:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1952(para)
+msgid "Creating and displaying folders and documents"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1956(para)
+msgid "Searching and managing files"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1960(para)
+msgid "Navigating using two modes, browser and spatial"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1968(para)
+msgid "Which is the file manager for the KDE environment?"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1972(para)
+msgid "Konqueror is the file manager of the KDE environment."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1978(para)
+msgid "What is a package manager?"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1982(para)
+msgid ""
+"A package manager is a programme that helps add or remove packages in Ubuntu."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1989(para)
+msgid ""
+"Differentiate between a graphical package manager and a command line package "
+"manager. Provide examples of each."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1994(para)
+msgid ""
+"To add and remove packages, a graphical package manager uses the graphical "
+"interface while a command line package manager uses the command line "
+"interface."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:1998(para)
+msgid ""
+"Add/Remove Applications is a graphical package manager and apt-get is a "
+"command line package manager."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2005(para)
+msgid ""
+"Software that is not licensed under Ubuntu's main component licensing policy "
+"is referred to as _______________."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2010(para)
+msgid ""
+"Software that is not licensed under Ubuntu's main component licensing policy "
+"is referred to as non-free software."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2018(title)
+msgid "Lab Exercise"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2023(para)
+msgid ""
+"Explain to the students the purpose of each application. xpdf is a suite of "
+"tools used to view Portable Document Format (pdf). This package supports "
+"standard X fonts, true type fonts and type1 fonts. Gnumeric is a stand-alone "
+"spreadsheet application that interoperates well with other spreadsheets."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2031(title)
+msgid "Exercise 1"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2033(para)
+msgid ""
+"You have installed Ubuntu 8.04 on your personal computer. You want to view "
+"your pdf files, use a spreadsheet application for creating your daily tasks "
+"and archive your files. Install the following packages:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2039(para)
+msgid "a) xpdf"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2041(para)
+msgid "b) gnumeric"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2044(title)
+msgid "a) Installing xpdf using Add/Remove Applications:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2047(para)
+msgid ""
+"On the <emphasis role=\"strong\">Application</emphasis> menu, click "
+"<emphasis role=\"strong\">Add/Remove</emphasis>. The <emphasis "
+"role=\"strong\">Add/Remove</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2053(para)
+msgid ""
+"In the <emphasis role=\"strong\">Search</emphasis> box, type <emphasis "
+"role=\"strong\">xpdf</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2058(para)
+msgid ""
+"Select the check box next to <emphasis role=\"strong\">xpdf</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2063(para)
+msgid "Click <emphasis role=\"strong\">Apply Changes</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2067(para)
+msgid "Click <emphasis role=\"strong\">Apply</emphasis> to make the changes."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2072(para)
+msgid ""
+"In the <emphasis role=\"strong\">New application has been "
+"installed</emphasis> dialogue box, click <emphasis "
+"role=\"strong\">Close</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2079(title)
+msgid "b) Installing gnumeric from Synaptic:"
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2082(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and then click <emphasis "
+"role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis "
+"role=\"strong\">Synaptic Package Manager</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2090(para)
+msgid ""
+"Click <emphasis role=\"strong\">Search</emphasis> to find gnumeric and "
+"select the <emphasis role=\"strong\">gnumeric</emphasis> check box."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2096(para)
+msgid ""
+"Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check "
+"box. A dialogue box displaying the dependencies of this package on other "
+"packages opens."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2102(para)
+msgid ""
+"To continue making the required changes, click <emphasis "
+"role=\"strong\">Mark</emphasis>."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2107(para)
+msgid ""
+"To confirm making the marked changes, click <emphasis "
+"role=\"strong\">Apply</emphasis>. The <emphasis "
+"role=\"strong\">Summary</emphasis> dialogue box opens, prompting you for a "
+"final check before making the marked changes."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2114(para)
+msgid ""
+"Click <emphasis role=\"strong\">Apply</emphasis> to continue with the "
+"changes."
+msgstr ""
+
+#: chapter6/Customising_the_Desktop_and_Applications.xml:2119(para)
+msgid ""
+"When all the marked changes are made, you are notified of the changes "
+"applied. Click <emphasis role=\"strong\">Close</emphasis>."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: chapter6/Customising_the_Desktop_and_Applications.xml:0(None)
+msgid "translator-credits"
+msgstr ""

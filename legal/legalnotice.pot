@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-12-07 15:34-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: legal/xinclude.xml:4(para)
+msgid "Written by and attributed to Canonical Ltd. and the Ubuntu Training community 2008-2009."
+msgstr ""
+
+#: legal/xinclude.xml:6(para)
+msgid "This license is bound by the Creative Commons: CC by NC SA"
+msgstr ""
+
+#: legal/xinclude.xml:8(para)
+msgid "Under this license, you are free:"
+msgstr ""
+
+#: legal/xinclude.xml:11(para)
+msgid "to Share - to copy, distribute and transmit the work"
+msgstr ""
+
+#: legal/xinclude.xml:15(para)
+msgid "to Remix - to adapt the work"
+msgstr ""
+
+#: legal/xinclude.xml:18(para)
+msgid "Under the following conditions:"
+msgstr ""
+
+#: legal/xinclude.xml:21(para)
+msgid "Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)."
+msgstr ""
+
+#: legal/xinclude.xml:27(para)
+msgid "Non-commercial. You may not use this work for commercial purposes."
+msgstr ""
+
+#: legal/xinclude.xml:31(para)
+msgid "Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one."
+msgstr ""
+
+#: legal/xinclude.xml:36(para)
+msgid "For any reuse or distribution, you must make clear to others the license terms of this work. Any of the above conditions can be waived if you get permission from the copyright holder. Nothing in this license impairs or restricts the author's moral rights."
+msgstr ""
+
+#: legal/xinclude.xml:42(para)
+msgid "For more information on this Copyright, please refer to: http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: legal/xinclude.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

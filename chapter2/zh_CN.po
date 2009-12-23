@@ -1,0 +1,1328 @@
+# Chinese (Simplified) translation for ubuntu-desktop-course
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubuntu-desktop-course package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-desktop-course\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-08-06 12:43+0200\n"
+"PO-Revision-Date: 2009-11-10 08:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-11-11 04:32+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:92(None)
+msgid ""
+"@@image: 'images/Lesson03_images_001.png'; "
+"md5=2702a46111941de35b205a96b9e8bbb5"
+msgstr ""
+"@@image: 'images/Lesson03_images_001.png'; "
+"md5=2702a46111941de35b205a96b9e8bbb5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:108(None)
+msgid ""
+"@@image: 'images/Lesson03_images_002.png'; "
+"md5=1f28288dd4e7a8f8f5e4551ee5deb35c"
+msgstr ""
+"@@image: 'images/Lesson03_images_002.png'; "
+"md5=1f28288dd4e7a8f8f5e4551ee5deb35c"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:122(None)
+msgid ""
+"@@image: 'images/Lesson03_images_003.png'; "
+"md5=d69f7858c373afb66de36d6f10b20a72"
+msgstr ""
+"@@image: 'images/Lesson03_images_003.png'; "
+"md5=d69f7858c373afb66de36d6f10b20a72"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:144(None)
+msgid ""
+"@@image: 'images/Lesson03_images_004.png'; "
+"md5=2c6acada46c0c07339a09a8d0c11bbc3"
+msgstr ""
+"@@image: 'images/Lesson03_images_004.png'; "
+"md5=2c6acada46c0c07339a09a8d0c11bbc3"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:164(None)
+msgid ""
+"@@image: 'images/Lesson03_images_005.png'; "
+"md5=83fb7b1b4355cca801129147a15ba300"
+msgstr ""
+"@@image: 'images/Lesson03_images_005.png'; "
+"md5=83fb7b1b4355cca801129147a15ba300"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:194(None)
+msgid ""
+"@@image: 'images/Lesson03_images_006.png'; "
+"md5=936cc62e7e382ac1b4d198cc86034358"
+msgstr ""
+"@@image: 'images/Lesson03_images_006.png'; "
+"md5=936cc62e7e382ac1b4d198cc86034358"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:211(None)
+msgid ""
+"@@image: 'images/Lesson03_images_007.png'; "
+"md5=9eeeffb122481e65e4f55af841924ae5"
+msgstr ""
+"@@image: 'images/Lesson03_images_007.png'; "
+"md5=9eeeffb122481e65e4f55af841924ae5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:230(None)
+msgid ""
+"@@image: 'images/Lesson03_images_008.png'; "
+"md5=acb9db6f6e50aeeb26b83cc765c52c08"
+msgstr ""
+"@@image: 'images/Lesson03_images_008.png'; "
+"md5=acb9db6f6e50aeeb26b83cc765c52c08"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:258(None)
+msgid ""
+"@@image: 'images/Lesson03_images_009.png'; "
+"md5=b9b1b186a6ffb59237565074206d1adc"
+msgstr ""
+"@@image: 'images/Lesson03_images_009.png'; "
+"md5=b9b1b186a6ffb59237565074206d1adc"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:276(None)
+msgid ""
+"@@image: 'images/Lesson03_images_010.png'; "
+"md5=8b6da16dea3506e11375dfbb3a6f10e8"
+msgstr ""
+"@@image: 'images/Lesson03_images_010.png'; "
+"md5=8b6da16dea3506e11375dfbb3a6f10e8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:290(None)
+msgid ""
+"@@image: 'images/Lesson03_images_011.png'; "
+"md5=5801410041f5d1fac0057dab7bd78574"
+msgstr ""
+"@@image: 'images/Lesson03_images_011.png'; "
+"md5=5801410041f5d1fac0057dab7bd78574"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:308(None)
+msgid ""
+"@@image: 'images/Lesson03_images_012.png'; "
+"md5=6e67af9f4ef840b13712a3484f990ae8"
+msgstr ""
+"@@image: 'images/Lesson03_images_012.png'; "
+"md5=6e67af9f4ef840b13712a3484f990ae8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:332(None)
+msgid ""
+"@@image: 'images/Lesson03_images_013.png'; "
+"md5=bacbfad7dda1060c9dee56c1a0cdb515"
+msgstr ""
+"@@image: 'images/Lesson03_images_013.png'; "
+"md5=bacbfad7dda1060c9dee56c1a0cdb515"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:354(None)
+msgid ""
+"@@image: 'images/Lesson03_images_015.png'; "
+"md5=78a5263f5507a514cf6224f87843e66f"
+msgstr ""
+"@@image: 'images/Lesson03_images_015.png'; "
+"md5=78a5263f5507a514cf6224f87843e66f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:371(None)
+msgid ""
+"@@image: 'images/Lesson03_images_016.png'; "
+"md5=fa4c917c0a840acdd414e26f6a4e2353"
+msgstr ""
+"@@image: 'images/Lesson03_images_016.png'; "
+"md5=fa4c917c0a840acdd414e26f6a4e2353"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:387(None)
+msgid ""
+"@@image: 'images/Lesson03_images_017.png'; "
+"md5=3307736ba5389f5f19cc37332f51abb7"
+msgstr ""
+"@@image: 'images/Lesson03_images_017.png'; "
+"md5=3307736ba5389f5f19cc37332f51abb7"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:408(None)
+msgid ""
+"@@image: 'images/Lesson03_images_018.png'; "
+"md5=4f48d01c0a3f31bb98a5671b5969f768"
+msgstr ""
+"@@image: 'images/Lesson03_images_018.png'; "
+"md5=4f48d01c0a3f31bb98a5671b5969f768"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:425(None)
+msgid ""
+"@@image: 'images/Lesson03_images_019.png'; "
+"md5=5c00f46ed9353fa890c816953e546dad"
+msgstr ""
+"@@image: 'images/Lesson03_images_019.png'; "
+"md5=5c00f46ed9353fa890c816953e546dad"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:440(None)
+msgid ""
+"@@image: 'images/Lesson03_images_020.png'; "
+"md5=4f5343184ab4f949f3cf7ced7dc7edcf"
+msgstr ""
+"@@image: 'images/Lesson03_images_020.png'; "
+"md5=4f5343184ab4f949f3cf7ced7dc7edcf"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:458(None)
+msgid ""
+"@@image: 'images/Lesson03_images_021.png'; "
+"md5=252b3e1ea5cc5550d0e71373131f2510"
+msgstr ""
+"@@image: 'images/Lesson03_images_021.png'; "
+"md5=252b3e1ea5cc5550d0e71373131f2510"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:475(None)
+msgid ""
+"@@image: 'images/Lesson03_images_022.png'; "
+"md5=a1b626d9c0e65d31a92f7e1ecc977417"
+msgstr ""
+"@@image: 'images/Lesson03_images_022.png'; "
+"md5=a1b626d9c0e65d31a92f7e1ecc977417"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:495(None)
+msgid ""
+"@@image: 'images/Lesson03_images_023.png'; "
+"md5=fec762bb56757cd0a9380dc4d545055a"
+msgstr ""
+"@@image: 'images/Lesson03_images_023.png'; "
+"md5=fec762bb56757cd0a9380dc4d545055a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:521(None)
+msgid ""
+"@@image: 'images/Lesson03_images_024.png'; "
+"md5=108ad2283ebfd6174e2c0e1a682e2c31"
+msgstr ""
+"@@image: 'images/Lesson03_images_024.png'; "
+"md5=108ad2283ebfd6174e2c0e1a682e2c31"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:553(None)
+msgid ""
+"@@image: 'images/Lesson03_images_025.png'; "
+"md5=e3e408cc3b09dd85ea0d961a9a18fded"
+msgstr ""
+"@@image: 'images/Lesson03_images_025.png'; "
+"md5=e3e408cc3b09dd85ea0d961a9a18fded"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:570(None)
+msgid ""
+"@@image: 'images/Lesson03_images_026.png'; "
+"md5=e80a8f72d70568f4289d6e39daf3e9f8"
+msgstr ""
+"@@image: 'images/Lesson03_images_026.png'; "
+"md5=e80a8f72d70568f4289d6e39daf3e9f8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:588(None)
+msgid ""
+"@@image: 'images/Lesson03_images_027.png'; "
+"md5=44500bc9ffbda54de6ef6176ec727738"
+msgstr ""
+"@@image: 'images/Lesson03_images_027.png'; "
+"md5=44500bc9ffbda54de6ef6176ec727738"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:659(None)
+msgid ""
+"@@image: 'images/Lesson03_images_028.png'; "
+"md5=86edaab488f4c85fe308a7ef23c4a025"
+msgstr ""
+"@@image: 'images/Lesson03_images_028.png'; "
+"md5=86edaab488f4c85fe308a7ef23c4a025"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:677(None)
+msgid ""
+"@@image: 'images/Lesson03_images_029.png'; "
+"md5=7f55155277f9f457c1a7f4f13ae92da2"
+msgstr ""
+"@@image: 'images/Lesson03_images_029.png'; "
+"md5=7f55155277f9f457c1a7f4f13ae92da2"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:741(None)
+msgid ""
+"@@image: 'images/Lesson03_images_030.png'; "
+"md5=4ef58140609e512aa37489bfdb594c2b"
+msgstr ""
+"@@image: 'images/Lesson03_images_030.png'; "
+"md5=4ef58140609e512aa37489bfdb594c2b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:759(None)
+msgid ""
+"@@image: 'images/Lesson03_images_031.png'; "
+"md5=e4d913cb1b0557f4baef9267ab3b3cab"
+msgstr ""
+"@@image: 'images/Lesson03_images_031.png'; "
+"md5=e4d913cb1b0557f4baef9267ab3b3cab"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:776(None)
+msgid ""
+"@@image: 'images/Lesson03_images_032.png'; "
+"md5=c0409804a1fc8a9bcdd9009f34649cc0"
+msgstr ""
+"@@image: 'images/Lesson03_images_032.png'; "
+"md5=c0409804a1fc8a9bcdd9009f34649cc0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:835(None)
+msgid ""
+"@@image: 'images/Lesson03_images_033.png'; "
+"md5=26ad6647d0dd3c6e7c18b46f8955983f"
+msgstr ""
+"@@image: 'images/Lesson03_images_033.png'; "
+"md5=26ad6647d0dd3c6e7c18b46f8955983f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:851(None)
+msgid ""
+"@@image: 'images/Lesson03_images_034.png'; "
+"md5=626428fbcea23e5c0ac7eb6b3c3d5b55"
+msgstr ""
+"@@image: 'images/Lesson03_images_034.png'; "
+"md5=626428fbcea23e5c0ac7eb6b3c3d5b55"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:900(None)
+msgid ""
+"@@image: 'images/Lesson03_images_035.png'; "
+"md5=c6e6c9ffef9c99ddef5430bd4dc4de2d"
+msgstr ""
+"@@image: 'images/Lesson03_images_035.png'; "
+"md5=c6e6c9ffef9c99ddef5430bd4dc4de2d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:918(None)
+msgid ""
+"@@image: 'images/Lesson03_images_036.png'; "
+"md5=5979adf62f7ef6352f97c8f3449bc630"
+msgstr ""
+"@@image: 'images/Lesson03_images_036.png'; "
+"md5=5979adf62f7ef6352f97c8f3449bc630"
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:5(title)
+msgid "Exploring the Ubuntu Desktop"
+msgstr "探索 Ubuntu 桌面环境"
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:8(title)
+msgid "Objectives"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:10(para)
+msgid "In this lesson, you will learn:"
+msgstr "在本课程中，您将了解到："
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:13(para)
+msgid "The highlights of Ubuntu desktop"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:17(para)
+msgid "How to change the default language"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:21(para)
+msgid "How to create a new user account and take advantage of user switching"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:25(para)
+msgid "To add and remove applications"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:29(para)
+msgid "How to enable 3D Desktop effects"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:34(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:51(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:80(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:627(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:795(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:866(title)
+msgid "Instructor Notes:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:36(emphasis)
+msgid ""
+"All the topics in this lesson are mandatory. To familiarise the students "
+"with the basic features of the new desktop, this lesson should primarily be "
+"a hands on session."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:43(para)
+msgid ""
+"This section serves as a quick tour of the Ubuntu desktop. The course will "
+"go into more detail in later lessons, but this will give you a taste of "
+"what's ahead."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:48(title)
+msgid "Ubuntu Desktop Components"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:53(emphasis)
+msgid ""
+"Highlight the fact that unlike other operating systems, Ubuntu comes with a "
+"completely clean desktop, by default. Users are free to add icons and files "
+"on the desktop according to their preferences."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:59(para)
+msgid ""
+"GNOME is the default desktop environment for Ubuntu. GNOME (GNU Network "
+"Object Model Environment) is an international effort to build a complete "
+"desktop environment—the graphical user interface, which sits on top of a "
+"computer operating system—entirely from free software. This goal includes "
+"creating software development frameworks, selecting application software for "
+"the desktop and working on the programmes which manage application "
+"launching, file handling and window and task management. Community members "
+"worldwide contribute to the translation and accessibility of the desktop in "
+"multiple languages. (Reference: <ulink "
+"url=\"http://en.wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME"
+"</ulink>)"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:71(title)
+msgid "Key Desktop Components on Ubuntu"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:73(para)
+msgid ""
+"When you start your computer, the first screen displayed on Ubuntu is the "
+"logon screen, where you type your user name and password. The next screen "
+"displayed is the Ubuntu desktop. Ubuntu comes with a completely clean "
+"desktop background, free of icons by default."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:82(para)
+msgid ""
+"Ensure that you browse through each element very quickly because more "
+"details will be covered in the subsequent lessons."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:87(title)
+msgid "Default Ubuntu Desktop"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:97(para)
+msgid ""
+"You can arrange icons and files on the desktop to access them quickly. If a "
+"CD, hard disk or any other external device is connected to your computer, "
+"Ubuntu automatically displays its icon on the desktop to allow easy access "
+"to the device."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:103(title)
+msgid "Desktop Icons"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:113(para)
+msgid "At the top and bottom of the desktop are two bars, called panels."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:117(title)
+msgid "Desktop Panels"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:131(title)
+msgid "Applications:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:133(para)
+msgid ""
+"This menu contains all the applications installed on your computer such as "
+"games, music players, Web browsers and e-mail clients."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:139(title)
+msgid "The Application Menu"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:152(title)
+msgid "Places:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:154(para)
+msgid ""
+"This menu provides access to your home directory, external devices and "
+"network on your computer."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:159(title)
+msgid "The Places Menu"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:170(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:245(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:319(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:504(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:726(title)
+msgid "Note:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:172(para)
+msgid ""
+"The Home directory is created by default for every user and automatically "
+"takes the username. It contains all user-specific files. In a multi-user "
+"system, every user stores personal data in a sub-directory of this directory."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:181(title)
+msgid "System:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:183(para)
+msgid ""
+"This menu enables you to change the computer settings. You can also access "
+"the Ubuntu help system and turn off your computer here."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:189(title)
+msgid "The System Menu"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:127(para)
+msgid ""
+"There are three main menus in the left pane of the top panel: Applications, "
+"Places and System. <placeholder-1/>"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:201(para)
+msgid ""
+"By default, there are three shortcut icons next to the menus on the top "
+"panel: Mozilla Firefox, Evolution and Help. You can create additional "
+"shortcuts to any applications and place them here for quick access."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:206(title)
+msgid "The Shortcut Icons"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:217(title)
+msgid "To add a new shortcut icon to the desktop panel:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:220(para)
+msgid ""
+"Right-click the blank area of the top panel and click <emphasis "
+"role=\"strong\">Add to Panel</emphasis>. The <emphasis role=\"strong\">Add "
+"to Panel</emphasis> dialogue box appears."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:225(title)
+msgid "Adding a Shortcut Icon"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:237(para)
+msgid ""
+"The <emphasis role=\"strong\">Add to Panel</emphasis> dialogue box displays "
+"a list of applications available on your computer. Select an application and "
+"click <emphasis role=\"strong\">Add</emphasis> to add it to the blank area "
+"of the desktop. If you want to launch the programmes available on the "
+"<emphasis role=\"strong\">Applications</emphasis> menu, click <emphasis "
+"role=\"strong\">Application Launcher</emphasis>."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:247(para)
+msgid ""
+"Alternatively, you can drag an application icon from the Add to Panel "
+"dialogue box and drop the icon on the panel to create a short cut to the "
+"application."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:253(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:285(title)
+msgid "Adding Application Launchers"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:265(para)
+msgid ""
+"The applications grouped in a category similar to the <emphasis "
+"role=\"strong\">Applications</emphasis> menu appears. Select an application "
+"from the available list, and click <emphasis role=\"strong\">Add</emphasis>."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:271(title)
+msgid "Selecting Applications"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:281(para)
+msgid ""
+"The icon of the selected application will be displayed on the blank area of "
+"the top panel."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:297(para)
+msgid ""
+"You can change the location of the newly created shortcut icon by right-"
+"clicking it and selecting <emphasis role=\"strong\">Move</emphasis>. Move "
+"the icon anywhere on the top panel and left-click the icon to freeze its "
+"location."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:303(title)
+msgid "Moving Shortcut Icons"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:313(para)
+msgid ""
+"Next to the blank area on the top panel (where you can create short cuts of "
+"the application) is the fast user switch icon. This icon shows the current "
+"user of your computer. You can click the icon to view other users on the "
+"computer and switch to another user."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:321(para)
+msgid ""
+"You will learn more about fast user switching in the <emphasis "
+"role=\"strong\">Fast User Switching</emphasis> topic of this lesson."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:327(title)
+msgid "The Fast User Switch Icon"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:337(para)
+msgid ""
+"The System tray contains the network and sound icons for quick access to "
+"network and sound settings. You can check the network configuration of the "
+"computer and adjust the volume of your computer's speaker."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:342(para)
+msgid ""
+"The current date and time is displayed next to the System tray. If you click "
+"the date and time, a calendar is displayed."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:345(para)
+msgid ""
+"The last icon on the top panel shuts down, restarts, hibernates, locks your "
+"computer and places it on standby."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:349(title)
+msgid "Top Panel Icons"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:359(para)
+msgid ""
+"The first icon on the bottom panel provides quick access to the desktop. If "
+"multiple windows are open on your desktop and you would like to minimise all "
+"of them together, click this icon. Clicking again will display your windows "
+"in their original state, before you minimised them."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:366(title)
+msgid "Show the Desktop"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:376(para)
+msgid ""
+"Next to the icon used to minimise the windows is a blank area in which the "
+"list of open application windows appears, similar to the taskbar in Windows. "
+"When you open an application, it's listed on this area for easy access, as "
+"shown in the bottom panel of the following screen:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:382(title)
+msgid "Open Applications"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:392(para)
+msgid ""
+"The next icon, workspace, enables you to split the windows that are open on "
+"your desktop into multiple workspaces. You can then navigate among the "
+"workspaces by pressing and holding down the CTRL+ALT keys, and then pressing "
+"either the left or the right arrow key. This reduces the clutter on your "
+"desktop and eases navigation between windows."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:398(para)
+msgid ""
+"For example, you might have the Firefox window, an OpenOffice application, a "
+"search window and a calculator window open on the desktop."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:403(title)
+msgid "The Workspace Icon"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:413(para)
+msgid ""
+"You can move the Firefox window to a separate workspace by pressing and "
+"holding down the CTRL+ALT+SHIFT keys and then pressing the left or the right "
+"arrow key. Two workspaces will be displayed in the bottom-right corner of "
+"the desktop - one workspace with the Firefox window and the original "
+"workspace with the other windows."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:420(title)
+msgid "Switching Workspaces"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:430(para)
+msgid ""
+"Now, you have two separate workspaces. Notice that the Firefox window has "
+"shifted to the original workspace. So, depending on the task you perform, "
+"you can split the windows into different workspaces."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:435(title)
+msgid "Splitting Windows into Workspaces"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:445(para)
+msgid ""
+"By default, Ubuntu provides two workspaces. If you want to split the windows "
+"into more workspaces, you have to add the workspace to the desktop by right-"
+"clicking the workspace icon and then clicking <emphasis "
+"role=\"strong\">Preferences</emphasis>. The <emphasis "
+"role=\"strong\">Workspace Switcher Preferences</emphasis> dialogue box "
+"appears."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:453(title)
+msgid "Creating New Workspaces"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:463(para)
+msgid ""
+"In the <emphasis role=\"strong\">Workspace Switcher Preferences</emphasis> "
+"dialogue box, type or select the number of workspaces from the <emphasis "
+"role=\"strong\">Number of workspaces</emphasis> list and click <emphasis "
+"role=\"strong\">Close</emphasis>."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:470(title)
+msgid "Workspace Switcher Preferences"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:480(para)
+msgid ""
+"The specified number of workspaces will be displayed in the bottom-right "
+"corner of the desktop."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:483(para)
+msgid ""
+"The last icon in the bottom panel is the <emphasis role=\"strong\">Waste "
+"basket</emphasis>. It contains the files you deleted from your computer. "
+"Right-click the icon and click <emphasis role=\"strong\">Open</emphasis> to "
+"open the <emphasis role=\"strong\">Trash</emphasis> window."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:490(title)
+msgid "The Waste Basket Icon and Menu"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:500(para)
+msgid ""
+"You can delete an item permanently from the computer by pressing the DELETE "
+"key."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:506(para)
+msgid ""
+"Alternatively, you can right-click the item and click <emphasis "
+"role=\"strong\">Delete from Trash</emphasis> to permanently delete it from "
+"the computer."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:511(para)
+msgid ""
+"If you want to restore the deleted item to the desktop, drag that item to "
+"the desktop from the <emphasis role=\"strong\">Trash</emphasis> window."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:516(title)
+msgid "Deleting Items from Trash"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:528(title)
+msgid "Changing the Default Language"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:530(para)
+msgid ""
+"Ubuntu supports more than 100 languages. You can set the default language of "
+"your computer either during the installation of Ubuntu or at a later stage."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:534(para)
+msgid ""
+"To change the default language during the installation, select the required "
+"language when prompted."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:538(title)
+msgid "To change the default language at a later stage:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:541(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and click <emphasis "
+"role=\"strong\">Language Support</emphasis>. The system prompts you to "
+"install language support if updates are available for your selected language."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:548(title)
+msgid "Configuring Language Support"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:560(para)
+msgid ""
+"Click <emphasis role=\"strong\">Install</emphasis> to continue. On "
+"completing the updates, the <emphasis role=\"strong\">Language "
+"Support</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:565(title)
+msgid "Installing Language Support Updates"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:577(para)
+msgid ""
+"In the <emphasis role=\"strong\">Language Support</emphasis> dialogue box, "
+"from the <emphasis role=\"strong\">Supported Languages</emphasis> section, "
+"select the check box for the language you want to use for support functions "
+"in Ubuntu."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:583(title)
+msgid "Installing Default Language Support"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:595(para)
+msgid ""
+"Click <emphasis role=\"strong\">Apply</emphasis> and then click <emphasis "
+"role=\"strong\">OK</emphasis>. Ubuntu downloads and installs the necessary "
+"packages on your computer. The language you selected will now appear in the "
+"<emphasis role=\"strong\">Default Language</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:603(para)
+msgid ""
+"Select the language that you want set as default, and click <emphasis "
+"role=\"strong\">OK</emphasis>."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:608(para)
+msgid "For the changes to take effect, log off and then log on again."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:614(title)
+msgid "Nice to Know:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:616(para)
+msgid ""
+"You can change the language as many times as you would like and this can "
+"depend on your location. For example, changing the language to Russian may "
+"be a nice touch when presenting in Russia during a business trip."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:624(title)
+msgid "Creating a User Account and Fast User Switching"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:629(para)
+msgid ""
+"Advise students that to understand the concept of fast user switching, they "
+"need to have more than one user account on their computer. Walk the students "
+"through creating a new user on their computer, and then move on to the "
+"concept of fast user switching."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:635(para)
+msgid ""
+"You may have multiple users who want to access your system. In this case, "
+"there is a risk of data being manipulated or corrupted by other users. To "
+"prevent this from happening, you can create user accounts for each "
+"individual who wants to use your computer, giving each user an individual "
+"account with personalised user settings. For example, it is useful to give "
+"children their own accounts on the computer to prevent then from changing "
+"your settings or accessing unsuitable files and applications.."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:645(title)
+msgid "To create a new user account on Ubuntu:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:648(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and click <emphasis "
+"role=\"strong\">Users and Groups</emphasis>. The <emphasis "
+"role=\"strong\">User settings</emphasis> dialogue box appears."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:654(title)
+msgid "Adding/Removing Users"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:666(para)
+msgid ""
+"In the <emphasis role=\"strong\">User settings</emphasis> dialogue box, "
+"click <emphasis role=\"strong\">Add User</emphasis> to add a new user "
+"account on your computer. The <emphasis role=\"strong\">New user "
+"account</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:672(title)
+msgid "Adding a User"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:684(para)
+msgid ""
+"Specify the user accounts' basic settings, contact information and password "
+"information in the <emphasis role=\"strong\">New user account</emphasis> "
+"dialogue box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:690(para)
+msgid ""
+"Type the name with which you want to log on to your computer in the "
+"<emphasis role=\"strong\">Username</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:695(para)
+msgid ""
+"Type your full name in the <emphasis role=\"strong\">Real name</emphasis> "
+"box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:700(para)
+msgid ""
+"Select your user type from the <emphasis role=\"strong\">Profile</emphasis> "
+"box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:705(para)
+msgid ""
+"Type your office location in the <emphasis role=\"strong\">Office "
+"location</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:710(para)
+msgid ""
+"Type your work phone number in the <emphasis role=\"strong\">Work "
+"phone</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:715(para)
+msgid ""
+"Type your home phone number in the <emphasis role=\"strong\">Home "
+"phone</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:720(para)
+msgid ""
+"Type the password for your user account in the <emphasis "
+"role=\"strong\">User password</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:728(para)
+msgid ""
+"This information is for record keeping only, and other users cannot view it."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:732(para) chapter2/Exploring_the_Ubuntu_Desktop.xml:1078(para)
+msgid ""
+"Click <emphasis role=\"strong\">Close</emphasis> to save the settings."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:736(title)
+msgid "Configuring New User Account"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:748(para)
+msgid ""
+"A new user account will be displayed in the User settings dialogue box. This "
+"dialogue box displays the new user's full name and login name. It also tells "
+"you the location of the new user account created."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:754(title)
+msgid "The New User Account"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:766(para)
+msgid ""
+"Now, if you click the fast user switch icon, there will be two users "
+"displayed and the current user logged on to the computer will be marked."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:771(title)
+msgid "Switching Users"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:781(para)
+msgid ""
+"This feature prevents you from logging off and logging on all the time to "
+"switch users. It allows multiple users to switch quickly while staying "
+"logged on. By simply clicking the fast user switching icon, a list of the "
+"user names appears. Select the user name and you will be directed to the "
+"logon screen. Type the user name and password, and you will be on a desktop "
+"of the new user. When you switch to another user, the previous user screen "
+"is locked by default, so the other person cannot make any profile changes."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:792(title)
+msgid "Adding/Removing Applications"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:797(para)
+msgid ""
+"Advise students that you will cover this topic in detail while teaching the "
+"<emphasis role=\"strong\">Customising Ubuntu and Applications</emphasis> "
+"lesson of this course. This topic is just an introduction."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:802(para)
+msgid ""
+"Tell the students that you will cover this topic in detail while teaching "
+"the <emphasis role=\"strong\">Customising the Desktop and "
+"Application</emphasis> lesson of this course. This topic is just an "
+"introduction."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:809(title)
+msgid "Use the Add/Remove applications when you need to:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:812(para)
+msgid "Use software not provided as a default application on Ubuntu."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:817(para)
+msgid "Try an alternative application to the one already installed"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:822(para)
+msgid ""
+"Ubuntu contains pre-loaded software that you can easily install on your "
+"computer when required. You can install this software by using the "
+"Add/Remove application or the Synaptic Package Manager utility of Ubuntu. To "
+"access the Add/Remove application, on the <emphasis "
+"role=\"strong\">Applications</emphasis> menu, click <emphasis "
+"role=\"strong\">Add/Remove</emphasis>."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:830(title)
+msgid "Launching Add/Remove Applications"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:840(para)
+msgid ""
+"To access Synaptic Package Manager, on the <emphasis "
+"role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and click <emphasis "
+"role=\"strong\">Synaptic Package Manager</emphasis>."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:846(title)
+msgid "Launching Synaptic Package Manager"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:856(para)
+msgid ""
+"Synaptic offers an advanced way of installing packages. If you do not find a "
+"software programme in the Add/Remove tool, you can search for it in "
+"Synaptic. It searches all software in the available repositories on Ubuntu."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:863(title)
+msgid "Desktop Effects - Compiz Fusion"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:868(para)
+msgid ""
+"Advise students that to view desktop effects, computers must have a 3D-"
+"enabled graphic card."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:872(para)
+msgid ""
+"Compiz Fusion is a 3D window manager that makes use of 3D accelerated "
+"graphics cards found today on many desktops and laptops. It provides a "
+"number of visual effects that makes the Linux desktop more powerful and "
+"intuitive, as well as easier and more fun to use. For example, you can place "
+"workspaces on a cube, which enables you to move from one workspace to "
+"another easily."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:879(para)
+msgid ""
+"Compiz Fusion is enabled by default on Ubuntu 8.04 LTS with appropriate "
+"graphics cards. It enables the 3D desktop visual effects that improve the "
+"usability and visual appeal of the system. You really have to see and play "
+"with this application to appreciate the benefits."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:885(title)
+msgid "To view the visual effects on Ubuntu:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:888(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Preferences</emphasis> and click <emphasis "
+"role=\"strong\">Appearance</emphasis>. The <emphasis "
+"role=\"strong\">Appearance Preferences</emphasis> dialogue box appears."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:895(title)
+msgid "Opening the Appearance Preferences Dialogue Box"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:907(para)
+msgid ""
+"In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
+"box, there are three pre-configured levels of special effects settings: No "
+"effects, Normal effects and Extra effects. You can select any one of them:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:913(title)
+msgid "Configuring Visual Effects"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:925(para)
+msgid ""
+"If you want a simple desktop without any special effects, select <emphasis "
+"role=\"strong\">None</emphasis>. If you want a desktop with a balance of "
+"attractiveness and average performance, select <emphasis "
+"role=\"strong\">Normal</emphasis>. If you want various desktop effects, such "
+"as wobbly windows, desktop cube and many more, select <emphasis "
+"role=\"strong\">Extra</emphasis>. For example, while you are waiting for an "
+"update to complete or an e-mail client to import e-mail messages, you can "
+"turn on the Wobbly effect. The windows will start dancing and displaying the "
+"3D effects. Play with it a little, it's fun!"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:937(title)
+msgid "Lesson Summary"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:939(para)
+msgid "In this lesson, you learned that:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:942(para)
+msgid "Ubuntu utilises the GNOME desktop by default"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:946(para)
+msgid ""
+"You can set the default language of your computer either during the "
+"installation of Ubuntu or at a later stage"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:951(para)
+msgid ""
+"Fast user switching enables you to share your computer with other users "
+"without sharing your files"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:956(para)
+msgid ""
+"You can install software by using the Add/Remove application or the Synaptic "
+"Package Manager utility of Ubuntu"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:961(para)
+msgid ""
+"Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D "
+"desktop visual effects"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:969(title)
+msgid "Review Exercise"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:974(para)
+msgid ""
+"At the top and bottom of the desktop, you have two bars, called "
+"_________________."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:979(para)
+msgid ""
+"At the top and bottom of the desktop, you have two bars, called panels."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:986(para)
+msgid "Which are the three shortcut icons already present on the top panel?"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:991(para)
+msgid "Mozilla Firefox, Evolution e-mail client and Ubuntu help."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:998(para)
+msgid "What is fast user switching?"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1002(para)
+msgid ""
+"Fast user switching is a feature that avoids you having to log off and log "
+"on all the time to switch users. It enables multiple users to switch quickly "
+"while staying"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1012(title)
+msgid "Lab Exercise"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1015(title)
+msgid "Exercise:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1017(para)
+msgid ""
+"You have bank-related information on your computer and want to block others' "
+"access to it. Your friend wants to use your computer for some time. To "
+"handle this situation, create a new user account for your friend and use the "
+"fast user switch feature."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1026(para)
+msgid ""
+"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
+"role=\"strong\">Administration</emphasis> and click <emphasis "
+"role=\"strong\">Users and Groups</emphasis>. The <emphasis "
+"role=\"strong\">User settings</emphasis> dialogue box opens."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1033(para)
+msgid ""
+"In the <emphasis role=\"strong\">User settings</emphasis> dialogue box, "
+"click <emphasis role=\"strong\">Add User.</emphasis> The <emphasis "
+"role=\"strong\">New user account</emphasis> dialogue box appears."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1039(para)
+msgid "In the dialogue box, specify the following information:"
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1043(para)
+msgid ""
+"Type charles in the <emphasis role=\"strong\">Username</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1048(para)
+msgid ""
+"Select Desktop user from the <emphasis role=\"strong\">Profile</emphasis> "
+"box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1053(para)
+msgid ""
+"Type charles windsor in the <emphasis role=\"strong\">Real name</emphasis> "
+"box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1058(para)
+msgid ""
+"Type England in the <emphasis role=\"strong\">Office location</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1063(para)
+msgid ""
+"Type 111111 in the <emphasis role=\"strong\">Work phone</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1068(para)
+msgid ""
+"Type 99999 in the <emphasis role=\"strong\">Home phone</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1073(para)
+msgid ""
+"Type password@1 in the <emphasis role=\"strong\">User password</emphasis> "
+"box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1087(para)
+msgid ""
+"Click the fast user switch icon on the top panel. Click charles. The logon "
+"screen appears."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1092(para)
+msgid ""
+"Type charles in the <emphasis role=\"strong\">Username</emphasis> box and "
+"password@1 in the <emphasis role=\"strong\">Password</emphasis> box."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1098(para)
+msgid "Your friend can now work on this desktop."
+msgstr ""
+
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:1102(para)
+msgid ""
+"Your friend cannot access your user account because the computer will ask "
+"for your password to log on to the account. So, your personal data is safe."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: chapter2/Exploring_the_Ubuntu_Desktop.xml:0(None)
+msgid "translator-credits"
+msgstr ""
