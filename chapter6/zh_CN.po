@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-24 20:04+0800\n"
+"PO-Revision-Date: 2009-12-24 22:59+0800\n"
 "Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
 "Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -1337,7 +1337,7 @@ msgstr "3D 特效"
 msgid ""
 "A computer screen is two-dimensional (2D) and until recently most "
 "applications were developed in a 2D layout."
-msgstr ""
+msgstr "计算机屏幕是二维的(2D)，直到最近大多数应用程序以 2D 布局开发。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:803(para)
 msgid ""
@@ -1350,6 +1350,9 @@ msgid ""
 "valuable CPU resources. Almost all modern graphics cards have a built-in "
 "acceleration to display 3D."
 msgstr ""
+"然而，技术的进步助长了屏幕视野的需要，力求更逼近真实生活，如三维(3D)建模和游戏。操作系统需要进行复杂的计算以使 3D 图像显示在 2D "
+"屏幕上。因而，为了减轻操作系统的负担和加速应用程序，3D 加速卡开发出来了。加速卡使用显卡上的图形处理器而不是消耗宝贵的 CPU "
+"资源。几乎所有的现代显卡都内建显示 3D 的加速功能。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:812(para)
 msgid ""
@@ -1358,6 +1361,8 @@ msgid ""
 "cubes, floating windows etc. Compiz Fusion is a fun application used to "
 "liven up your desktop experience and make it 3D in appearance."
 msgstr ""
+"Ubuntu 将显卡的 3D 功能利用于桌面特效。其显见的一例便是 Compiz Fusion – 旋转立方体、浮动窗口等。Compiz Fusion "
+"是款供娱乐用的应用程序，它使您的桌面体验充满生气并展示 3D 外观。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:818(para)
 msgid ""
@@ -1367,6 +1372,9 @@ msgid ""
 "controlled via the <emphasis role=\"strong\">normal effects</emphasis> and "
 "<emphasis role=\"strong\">extra effects</emphasis> setting."
 msgstr ""
+"特效默认启用，并可通过<emphasis role=\"strong\">外观</emphasis>"
+"菜单控制。在那儿可完全禁用或启用桌面特效。特效的数量可通过<emphasis role=\"strong\">普通特效</emphasis>和<"
+"emphasis role=\"strong\">其它特效</emphasis>设置控制。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:825(para)
 msgid ""
@@ -1374,66 +1382,68 @@ msgid ""
 "missing from the Linux drivers for the card, you will be notified that "
 "<emphasis role=\"strong\">Desktop effects could not be enabled</emphasis>."
 msgstr ""
+"如果显卡不具备 3D 功能或显卡的 Linux 驱动缺少 3D 支持，您将得到<emphasis role=\"strong\">无法启用桌面特效<"
+"/emphasis>的通知。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:832(title)
 msgid "Working with Files Using Nautilus"
-msgstr ""
+msgstr "使用 Nautilus 管理文件"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:834(para)
 msgid ""
 "The Nautilus file manager in Ubuntu provides a simple and integrated way to "
 "manage files and applications."
-msgstr ""
+msgstr "Ubuntu 中的文件管理器 Nautilus 提供了简单而综合的文件和应用程序管理方式。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:838(title)
 msgid "Features of Nautilus"
-msgstr ""
+msgstr "Nautilus 的特性"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:840(para)
 msgid ""
 "The Nautilus file manager enables you to organise files into folders and "
 "perform tasks such as:"
-msgstr ""
+msgstr "Nautilus 文件管理器让您能按文件夹组织文件和进行如下任务："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:845(para)
 msgid ""
 "Create and display folders and documents: Create new files, organise them "
 "into folders and save them."
-msgstr ""
+msgstr "创建和显示文件夹和文档：创建新文件、按文件夹组织文件和保存文件。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:850(para)
 msgid ""
 "Search and manage your files: Classify files and search them as per their "
 "classification."
-msgstr ""
+msgstr "搜索和管理您的文件：为文件分级并按其分级搜索。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:855(para)
 msgid ""
 "Open special locations on your computer: Access the local network and save "
 "your files."
-msgstr ""
+msgstr "打开您计算机的特殊位置：访问本地网络并保存您的文件。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:860(para)
 msgid "Write data to a CD or DVD"
-msgstr ""
+msgstr "向 CD 或 DVD 写入数据"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:864(para)
 msgid "Navigate using two modes:"
-msgstr ""
+msgstr "使用两种模式导航："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:868(para)
 msgid ""
 "Spatial mode: Allows you to open each folder in a separate window, which "
 "then helps open your files as physical objects in different locations. You "
 "can view the content of various folders simultaneously."
-msgstr ""
+msgstr "空间模式：允许您在分离的窗口中打开各个文件夹。这样能帮助您打开处于不同位置物理对象的文件。您可以同时查看各文件夹的内容。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:875(para)
 msgid ""
 "Browser mode: Opens your folders in a single window. Only one file manager "
 "opens in browser mode, and it is updated when you click another folder in "
 "the file manager."
-msgstr ""
+msgstr "浏览模式：在单一窗口中打开您的文件夹。在浏览模式中只打开一个文件管理器，当您点击文件管理器中的另一个文件夹时，其内容将更新。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:884(title) chapter6/Customising_the_Desktop_and_Applications.xml:1661(title) chapter6/Customising_the_Desktop_and_Applications.xml:1681(title) chapter6/Customising_the_Desktop_and_Applications.xml:2021(title)
 msgid "Instructor Notes:"
@@ -1442,71 +1452,71 @@ msgstr ""
 #: chapter6/Customising_the_Desktop_and_Applications.xml:886(para)
 msgid ""
 "Compare browser mode with Firefox to help students appreciate the similarity."
-msgstr ""
+msgstr "把浏览模式与 Firefox 做比较以帮助学生领会其相似性。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:892(title)
 msgid "Nautilus"
-msgstr ""
+msgstr "Nautilus"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:895(title)
 msgid "To choose the required mode:"
-msgstr ""
+msgstr "选择需要的模式："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:902(title)
 msgid "Home Folder:"
-msgstr ""
+msgstr "主文件夹："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:904(para)
 msgid ""
 "This is a personal folder created by default for every user to create and "
 "work on files. It takes the user name by default."
-msgstr ""
+msgstr "这是默认为每位用户创建的私人文件夹，让用户创建和处理文件。默认取名为用户名。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:912(title)
 msgid "Desktop:"
-msgstr ""
+msgstr "桌面："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:914(para)
 msgid ""
 "An active component that lies behind all the screens on your computer and "
 "provides easy and quick access to the files saved on it."
-msgstr ""
+msgstr "铺在您计算机所有屏幕后方的活动组件，为保存于桌面的文件提供简便快捷的访问。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:922(title)
 msgid "Computer:"
-msgstr ""
+msgstr "计算机："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:924(para)
 msgid ""
 "Contains all drives and file systems; makes document backup onto CD and DVD "
 "really simple."
-msgstr ""
+msgstr "包含全部驱动器和文件系统；使得将文档备份到 CD 和 DVD 变得特别容易。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:931(title)
 msgid "CD/DVD Creator:"
-msgstr ""
+msgstr "CD/DVD 创建器："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:933(para)
 msgid ""
 "It consists of folders that you can write to a CD or a DVD. You can also "
 "back up your documents on a CD or a DVD."
-msgstr ""
+msgstr "它由一些您可向 CD 或 DVD 写入数据的文件夹所组成。您也可以将您的文档备份到 CD 或 DVD。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:898(para)
 msgid ""
 "Click the <emphasis role=\"strong\">Places</emphasis> menu. A list of items "
 "appears: <placeholder-1/>"
-msgstr ""
+msgstr "点击<emphasis role=\"strong\">位置</emphasis>菜单，将弹出以下项目列表：<placeholder-1/>"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:942(para)
 msgid ""
 "Click any of the above items on the <emphasis role=\"strong\">Places "
 "</emphasis> menu."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">位置</emphasis>菜单中点击任何一个上述项目。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:946(title)
 msgid "Using File Browser"
-msgstr ""
+msgstr "使用文件浏览器"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:956(para)
 msgid ""
@@ -1516,10 +1526,13 @@ msgid ""
 "hierarchy of folders, and the sidebar shows other folders saved on your "
 "computer."
 msgstr ""
+"Nautilus "
+"文件管理器默认以浏览模式打开文件。如果您以此模式打开文件夹，文件夹将会在同一窗口内打开。位置栏以层级文件夹方式显示已打开文件夹的当前位置，而侧边栏显示存储"
+"于您计算机的其它文件夹。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:963(title)
 msgid "Files Display"
-msgstr ""
+msgstr "文件显示"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:973(para)
 msgid ""
@@ -1528,12 +1541,14 @@ msgid ""
 "role=\"strong\">Open Parent</emphasis> on the <emphasis "
 "role=\"strong\">Go</emphasis> menu in the window."
 msgstr ""
+"在浏览模式中，您可以转到包含当前文件夹的父文件夹。要转到父文件夹，请点击窗口<emphasis role=\"strong\">转到</emphasis>"
+"菜单中的<emphasis role=\"strong\">打开父文件夹</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:981(para)
 msgid ""
 "You can also click <emphasis role=\"strong\">Up</emphasis> on the navigation "
 "toolbar or press the BACKSPACE key to move to the parent folder."
-msgstr ""
+msgstr "您也可点击导航工具栏上的<emphasis role=\"strong\">向上</emphasis>或按退格键来转到父文件夹。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:988(para)
 msgid ""
@@ -1541,10 +1556,12 @@ msgid ""
 "role=\"strong\">Preferences</emphasis>. The <emphasis role=\"strong\">File "
 "Management Preferences</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">编辑</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，将弹出<emphasis role=\"strong\">文件管理器首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:994(title)
 msgid "Launching File Management Preferences"
-msgstr ""
+msgstr "启动文件管理首选项"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1006(para)
 msgid ""
@@ -1553,21 +1570,24 @@ msgid ""
 "role=\"strong\">Always open in browser windows</emphasis> check box and then "
 "click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
+"点击对话框中的<emphasis role=\"strong\">行为</emphasis>标签。要将模式更改为空间模式，请取消勾选<emphasis "
+"role=\"strong\">总是在浏览器窗口打开</emphasis>复选框，然后点击<emphasis role=\"strong\">关闭<"
+"/emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1013(title)
 msgid "Changing File Management Behaviour"
-msgstr ""
+msgstr "更改文件管理行为"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1025(para)
 msgid ""
 "Close the file manager window and open it again. Your files will now open in "
 "spatial mode. If you open another folder, it will open in a different file "
 "manager window."
-msgstr ""
+msgstr "关闭文件管理器窗口，然后重新打开。您的文件将以空间模式打开。如果您打开另一个文件夹，它将在不同的文件管理器窗口中打开。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1030(title)
 msgid "Confirming File Management Behaviour Changes"
-msgstr ""
+msgstr "确认文件管理行为更改"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1043(para)
 msgid ""
@@ -1575,7 +1595,7 @@ msgid ""
 "window displayed in the same place on the screen and of the same size as "
 "during the last view. For this reason, this mode is referred to as spatial "
 "mode."
-msgstr ""
+msgstr "每次您以空间模式打开特定文件夹，您会发现其窗口在与上次浏览时相同的屏幕位置及相同大小显示。正因为这个原因，该模式被称为空间模式。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1049(para)
 msgid ""
@@ -1584,6 +1604,8 @@ msgid ""
 "role=\"strong\">File</emphasis> menu. Alternatively, you can press the "
 "ALT+UP arrow key."
 msgstr ""
+"要以空间模式转到父文件夹，请点击<emphasis role=\"strong\">文件</emphasis>中的<emphasis "
+"role=\"strong\">打开父文件夹</emphasis>。同样，您也可以按 ALT+ 向上箭头键。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1057(para)
 msgid ""
@@ -1593,10 +1615,13 @@ msgid ""
 "to browse Web sites, this application provides basic file management and can "
 "many view different file types."
 msgstr ""
+"Konqueror 是 KDE 下 Nautilus 文件管理器的等价品，用在 Ubuntu 衍生版本 Kubuntu "
+"中。它是个多用途应用程序，能够用作文件管理器、网页浏览器和通用查看器。在让您浏览网站的同时，这个应用程序还能提供基本的文件管理并能够查看许多不同格式的文件"
+"。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1070(title)
 msgid "Package Managers"
-msgstr ""
+msgstr "软件包管理器"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1072(para)
 msgid ""
@@ -1622,7 +1647,7 @@ msgstr ""
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1090(title)
 msgid "Types of Package Managers"
-msgstr ""
+msgstr "软件包管理器种类"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1092(para)
 msgid ""
