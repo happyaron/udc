@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-24 17:58+0800\n"
+"PO-Revision-Date: 2009-12-25 04:43+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -134,7 +134,7 @@ msgstr ""
 "https://launchpad.net/~canonical-training/+archive。"
 
 #: introduction/xinclude.xml:78(title)
-#, fuzzy
+#, need review
 msgid "Instructor Notes:"
 msgstr "教员注解:"
 
@@ -258,7 +258,7 @@ msgstr "课程总结"
 #: introduction/xinclude.xml:479(para) introduction/xinclude.xml:671(para)
 #: introduction/xinclude.xml:756(para) introduction/xinclude.xml:883(para)
 #: introduction/xinclude.xml:992(para) introduction/xinclude.xml:1053(para)
-#, fuzzy
+#, need review
 msgid "Review Exercise"
 msgstr "复习习题"
 
@@ -294,7 +294,7 @@ msgstr "桌面效果 - Compiz Fusion"
 #: introduction/xinclude.xml:487(para) introduction/xinclude.xml:547(para)
 #: introduction/xinclude.xml:679(para) introduction/xinclude.xml:764(para)
 #: introduction/xinclude.xml:891(para) introduction/xinclude.xml:1061(para)
-#, fuzzy
+#, need review
 msgid "Lab Exercise"
 msgstr "实验练习"
 
@@ -327,7 +327,7 @@ msgid "Instant Messaging"
 msgstr "即时通信"
 
 #: introduction/xinclude.xml:370(para)
-#, fuzzy
+#, need review
 msgid "Making Phone Calls using Softphones"
 msgstr "使用软件打电话"
 
@@ -388,7 +388,7 @@ msgid "Playing Other Popular Games"
 msgstr "运行其他流行的游戏"
 
 #: introduction/xinclude.xml:569(emphasis)
-#, fuzzy
+#, need review
 msgid "Duration (in minutes) excl. exercises"
 msgstr "时长 (分钟) excl. exercises"
 
@@ -441,7 +441,7 @@ msgid "Adding New Language Settings"
 msgstr "添加新语言设置"
 
 #: introduction/xinclude.xml:696(emphasis)
-#, fuzzy
+#, need review
 msgid "Making the Most of Images and Photos"
 msgstr "制作常用的图像和照片"
 
@@ -470,7 +470,7 @@ msgid "Playing Music and Videos"
 msgstr "播放音乐和视频"
 
 #: introduction/xinclude.xml:795(para)
-#, fuzzy
+#, need review
 msgid "Legal Restrictions"
 msgstr "法律限制"
 
@@ -563,12 +563,12 @@ msgid "Course Summary"
 msgstr "课程总结"
 
 #: introduction/xinclude.xml:1080(title)
-#, fuzzy
+#, need review
 msgid "Instructor Responsibilities"
 msgstr "教员职责"
 
 #: introduction/xinclude.xml:1081(para)
-#, fuzzy
+#, need review
 msgid "Instructors are:"
 msgstr "教员的职责如下:"
 
@@ -602,7 +602,7 @@ msgstr ""
 "在课程结束时，提供调查问卷以便学生做出反馈。"
 
 #: introduction/xinclude.xml:1104(title)
-#, fuzzy
+#, need review
 msgid "Pre-Training Preparation/Checks"
 msgstr "培训前准备和检查"
 
@@ -644,7 +644,7 @@ msgstr ""
 "您的教学内容已覆盖相关的主题。"
 
 #: introduction/xinclude.xml:1133(para)
-#, fuzzy
+#, need review
 msgid ""
 "It is highly recommended that you teach each topic covered in the training "
 "material. However, if you are running short of time, optional topics are "
@@ -684,7 +684,7 @@ msgstr ""
 "复习问题: 提问应贯穿在每节课的过程中，以确保学生能够理解关键的概念。"
 
 #: introduction/xinclude.xml:1162(para)
-#, fuzzy
+#, need review
 msgid ""
 "Lab exercises: At regular intervals, students will be performing hands-on "
 "lab exercises that replicate the real life scenarios."
@@ -826,7 +826,7 @@ msgstr ""
 
 #: introduction/xinclude.xml:1268(para)
 msgid "Explain how and when to use each option on the interface."
-msgstr "解释如何和何时需要去使用街面上的选项。"
+msgstr "解释如何和何时需要去使用界面上的选项。"
 
 #: introduction/xinclude.xml:1275(title)
 msgid "Summary"
