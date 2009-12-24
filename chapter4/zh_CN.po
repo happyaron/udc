@@ -1031,49 +1031,48 @@ msgstr "在本课中，您将学到如何："
 
 #: chapter4/Using_OpenOffice_Applications.xml:13(para)
 msgid "Perform basic word-processing functions using OpenOffice.org Writer."
-msgstr ""
+msgstr "使用 OpenOffice.org Writer 进行基本的文本处理操作。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:18(para)
 msgid "Perform basic spreadsheet functions using OpenOffice.org Calc."
-msgstr ""
+msgstr "使用 OpenOfficeorg Calc 进行基本的电子表格操作。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:23(para)
-msgid ""
-"Create and view multimedia presentations using OpenOffice.org Impress."
-msgstr ""
+msgid "Create and view multimedia presentations using OpenOffice.org Impress."
+msgstr "使用 OpenOffice.org Impress 创建和浏览多媒体演示文稿。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:28(para)
 msgid "Perform basic drawing operations using OpenOffice.org Draw."
-msgstr ""
+msgstr "使用 OpenOffice.org Draw 进行基本的绘图操作。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:32(para)
 msgid "Create and edit formulae using OpenOffice.org Math."
-msgstr ""
+msgstr "使用 OpenOfficeorg Math 创建和编辑公式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:37(title) chapter4/Using_OpenOffice_Applications.xml:444(title) chapter4/Using_OpenOffice_Applications.xml:582(title) chapter4/Using_OpenOffice_Applications.xml:791(title) chapter4/Using_OpenOffice_Applications.xml:848(title) chapter4/Using_OpenOffice_Applications.xml:973(title) chapter4/Using_OpenOffice_Applications.xml:1598(title) chapter4/Using_OpenOffice_Applications.xml:2305(title) chapter4/Using_OpenOffice_Applications.xml:2682(title) chapter4/Using_OpenOffice_Applications.xml:2864(title) chapter4/Using_OpenOffice_Applications.xml:3227(title) chapter4/Using_OpenOffice_Applications.xml:3346(title)
 msgid "Instructor Notes:"
-msgstr ""
+msgstr "指导备注："
 
 #: chapter4/Using_OpenOffice_Applications.xml:39(emphasis)
 msgid ""
 "It is recommended to cover all the topics in this lesson. However, if you "
 "are running short on time you can omit the following optional topics:"
-msgstr ""
+msgstr "我们推荐您通览本课程的全部主题。然而，如果您挤不出时间，可以跳过以下可选主题："
 
 #: chapter4/Using_OpenOffice_Applications.xml:43(emphasis) chapter4/Using_OpenOffice_Applications.xml:106(para) chapter4/Using_OpenOffice_Applications.xml:176(title) chapter4/Using_OpenOffice_Applications.xml:3880(para)
 msgid "OpenOffice.org Draw"
-msgstr ""
+msgstr "OpenOffice.org Draw"
 
 #: chapter4/Using_OpenOffice_Applications.xml:47(emphasis) chapter4/Using_OpenOffice_Applications.xml:110(para) chapter4/Using_OpenOffice_Applications.xml:184(title) chapter4/Using_OpenOffice_Applications.xml:3888(para)
 msgid "OpenOffice.org Math"
-msgstr ""
+msgstr "OpenOffice.org Math"
 
 #: chapter4/Using_OpenOffice_Applications.xml:51(para)
 msgid ""
 "Students, who are familiar with office applications, may want further "
 "exposure to these applications. However, ensure to conclude the lesson "
 "within the permitted time span."
-msgstr ""
+msgstr "对于熟悉办公套件的学生，可能想更深入了解这些应用程序。不过，得确保在允许的时间里结束本课程。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:57(title)
 msgid "Introducing the OpenOffice.org Suite"
@@ -1088,6 +1087,9 @@ msgid ""
 "package, in which all applications have a similar look and feel and common "
 "tools."
 msgstr ""
+"OpenOffice.org 是 Ubuntu "
+"提供的默认办公应用程序套件。这是一套自由、开源的办公软件，涵盖全部办公套件所应具备的特性。它并非只是几个独立软件程序的合集，而是一个完整的办公软件包，其所"
+"有的应用程序都有相似的感观和通用工具。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:66(para)
 msgid ""
@@ -1098,6 +1100,9 @@ msgid ""
 "save and exchange documents with friends and colleagues in Microsoft Office "
 "formats."
 msgstr ""
+"OpenOffice.org 套件具有超过 30 种语言界面，并且能运行于许多操作系统上，包括 Linux、Microsoft "
+"Windows、Solaris 以及 Mac OS X。它也兼容包括 Microsoft Office 在内的所有其它的主流办公套件，让您轻松地用 "
+"Microsoft Office 格式与朋友和同事创建、打开、保存和交换文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:73(para)
 msgid ""
@@ -1106,6 +1111,8 @@ msgid ""
 "office documents. This Extensible Markup Language (XML) based format enables "
 "you to access your data from any OpenDocument-compliant software."
 msgstr ""
+"OpenOffice.org 另一个主要特性是其所有的应用程序都保存为 OpenDoument "
+"格式。这是一种新型办公文档国际标准。这种基于可扩展标记语言(XML)的格式让您可以用任何与 OpenDoument 兼容的软件访问您的数据。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:80(title) chapter4/Using_OpenOffice_Applications.xml:665(title) chapter4/Using_OpenOffice_Applications.xml:1710(title) chapter4/Using_OpenOffice_Applications.xml:1849(title) chapter4/Using_OpenOffice_Applications.xml:2197(title) chapter4/Using_OpenOffice_Applications.xml:3171(title)
 msgid "Nice to Know:"
@@ -1118,10 +1125,13 @@ msgid ""
 "url=\"http://en.wikipedia.org/wiki/Openoffice.org\">http://en.wikipedia.org/w"
 "iki/Openoffice.org</ulink>."
 msgstr ""
+"要获取更多关于 OpenOffice.org 的历史和开发信息，请访问 <ulink "
+"url=\"http://en.wikipedia.org/wiki/Openoffice.org\">http://en.wikipedia.org/w"
+"iki/Openoffice.org</ulink>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:90(para) chapter4/Using_OpenOffice_Applications.xml:136(title) chapter4/Using_OpenOffice_Applications.xml:3868(para)
 msgid "OpenOffice.org Writer"
-msgstr ""
+msgstr "OpenOffice.org Writer"
 
 #: chapter4/Using_OpenOffice_Applications.xml:94(para) chapter4/Using_OpenOffice_Applications.xml:146(title) chapter4/Using_OpenOffice_Applications.xml:3872(para)
 msgid "OpenOffice.org Calc"
@@ -1139,11 +1149,11 @@ msgstr "OpenOffice.org Base"
 msgid ""
 "The OpenOffice.org software suite includes the following applications to "
 "help you handle your work effectively: <placeholder-1/>"
-msgstr ""
+msgstr "OpenOffice.org 套件包含下列应用程序，一同协助您高效地完成工作：<placeholder-1/>"
 
 #: chapter4/Using_OpenOffice_Applications.xml:115(title)
 msgid "To access the OpenOffice.org suite:"
-msgstr ""
+msgstr "访问 OpenOffice.org 套件："
 
 #: chapter4/Using_OpenOffice_Applications.xml:118(para)
 msgid ""
@@ -1151,10 +1161,12 @@ msgid ""
 "<emphasis role=\"strong\">Office</emphasis> and then click the "
 "OpenOffice.org application you want."
 msgstr ""
+"在<emphasis role=\"strong\">应用程序</emphasis>菜单中，点击<emphasis role=\"strong\">"
+"办公</emphasis>，然后点击您想要访问的 OpenOffice.org 应用程序。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:123(title)
 msgid "Accessing OpenOffice.org"
-msgstr ""
+msgstr "访问 OpenOffice.org"
 
 #: chapter4/Using_OpenOffice_Applications.xml:138(para)
 msgid ""
@@ -1164,6 +1176,9 @@ msgid ""
 "an index. Complex desktop publishing tasks, such as creating multicolumn "
 "newsletters and brochures are also on hand."
 msgstr ""
+"Writer 是 OpenOffice.org "
+"套件的文本处理器。它提供了强大的功能和工具，完成小到一封短信，大到创建包含图标、图形、照片、表格和索引的一整本书。诸如创建多栏报纸和小册子这样的复杂桌面出"
+"版任务也不在话下。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:148(para)
 msgid ""
@@ -1172,6 +1187,9 @@ msgid ""
 "charts. It has a wide range of advanced functions such as entering complex "
 "formulae, pulling in external data and performing statistical analyses."
 msgstr ""
+"Calc "
+"是款强大的电子表格程序，包含计算、分析、求和以及以报告或图表形式展示数据所需的全部工具。它还有大量的高级功能，比如输入复杂公式、引入外部数据和进行统计分析"
+"。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:158(para)
 msgid ""
@@ -1179,6 +1197,7 @@ msgid ""
 "presentations. It provides a range of tools to create presentations with 2D "
 "and 3D graphics, clip art, graphics, special effects and animations."
 msgstr ""
+"Impress 是款用作创建高效多媒体演示文稿的幻灯片程序。它提供一组创建幻灯片的工具，使演示文稿具有 2D 和 3D 图形、剪辑图、图片、特效和动画。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:167(para)
 msgid ""
@@ -1188,12 +1207,14 @@ msgid ""
 "be covered in detail in this course. For more information on base, please "
 "refer to www.openoffice.org/product/base.html"
 msgstr ""
+"Base 是款用于存储联系人和账户信息、创建和修改表格、表单、查询和报表的数据库程序。它还能访问存储于各种数据库文件格式中的数据。Base "
+"在本课程中不会详细涉及。如需获取更多关于 Base 的信息，请访问 www.openoffice.org/product/base.html"
 
 #: chapter4/Using_OpenOffice_Applications.xml:178(para)
 msgid ""
 "Draw is a vector graphics editor that provides tools to create anything from "
 "simple graphics to dynamic 3D illustrations and special effects."
-msgstr ""
+msgstr "Draw 是款矢量图形编辑器，为创建小到简单图形，大到动态 3D 描图和特效提供了工具。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:186(para)
 msgid ""
@@ -1202,10 +1223,12 @@ msgid ""
 "editor. The formula created in this manner can then be inserted into other "
 "OpenOffice.org programmes, such as Writer, Calc and Impress."
 msgstr ""
+"您可使用 Math 的图形用户界面或在表达式编辑器中直接输入公式来创建和编辑数学表达式。通过此方式创建的公式可插入到其它 OpenOffice.org "
+"程序中，如 Writer、Calc 和 Impress。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:193(title) chapter4/Using_OpenOffice_Applications.xml:965(title) chapter4/Using_OpenOffice_Applications.xml:2483(title) chapter4/Using_OpenOffice_Applications.xml:2500(title) chapter4/Using_OpenOffice_Applications.xml:2713(title) chapter4/Using_OpenOffice_Applications.xml:2737(title) chapter4/Using_OpenOffice_Applications.xml:2759(title) chapter4/Using_OpenOffice_Applications.xml:2985(title) chapter4/Using_OpenOffice_Applications.xml:3011(title) chapter4/Using_OpenOffice_Applications.xml:3092(title) chapter4/Using_OpenOffice_Applications.xml:3156(title) chapter4/Using_OpenOffice_Applications.xml:3339(title) chapter4/Using_OpenOffice_Applications.xml:3426(title)
 msgid "Note:"
-msgstr "注："
+msgstr ""
 
 #: chapter4/Using_OpenOffice_Applications.xml:195(para)
 msgid ""
@@ -1215,6 +1238,8 @@ msgid ""
 "house; all your old cutlery, plates and dishes are in your kitchen "
 "cupboards, you just need to get used to the new kitchen arrangement!"
 msgstr ""
+"使用新操作系统尤其是新的办公应用程序套件并非您所想的那么恐怖。在 OpenOffice.org "
+"中，大多数操作都很直观。将使用新套件想象成搬新家的情形；您所有的旧刀具、盘子和碟子依然在您的橱柜里，您只需适应下新的厨房布局！"
 
 #: chapter4/Using_OpenOffice_Applications.xml:206(title)
 msgid "Using OpenOffice.org Writer"
@@ -1222,13 +1247,15 @@ msgstr "使用 OpenOffice Writer"
 
 #: chapter4/Using_OpenOffice_Applications.xml:209(title)
 msgid "Key Features of OpenOffice.org Writer"
-msgstr ""
+msgstr "OpenOffice.org Writer 的主要特性"
 
 #: chapter4/Using_OpenOffice_Applications.xml:211(para)
 msgid ""
 "You may already be familiar with many of the features of this application so "
 "only a few of them are included here."
 msgstr ""
+"或许你对 OpenOffice 办公套件的特性已经有了不少了解 "
+"所以这里只介绍它的一部分特性。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:215(title)
 msgid "Writing"
@@ -1244,6 +1271,13 @@ msgid ""
 "misspelled word and provides you the option to add a new word to the "
 "existing user dictionary."
 msgstr ""
+"<emphasis role=\"strong\">拼写检查:</emphasis> 拼写检查功能 "
+"使你能够在包括文件头尾，目录和脚注在内的整个文件中"
+"找出拼写错误，从而确保你的文档在拼写上准确无误"
+"它甚至可以使你找出特定文档部分中拼错的词"
+"并且列出所有可能的正确单词来替代被拼错的词"
+"同时，你也可以自定义用户词典"
+"向里面添加新的单词"
 
 #: chapter4/Using_OpenOffice_Applications.xml:234(para)
 msgid ""
@@ -1251,6 +1285,9 @@ msgid ""
 "enhance the quality of your writing and make it more effective by allowing "
 "you to find a more appropriate synonym for a selected word."
 msgstr ""
+"<emphasis role=\"strong\">同义词提示:</emphasis> 同义词提示功能 "
+"使你可以找到更加适合特定上下文环境的措辞"
+"从而有效提高作品的语言质量。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:241(para)
 msgid ""
@@ -1260,6 +1297,11 @@ msgid ""
 "to automatically apply correct formatting to the text or insert special "
 "characters by recognizing particular character usage."
 msgstr ""
+"<emphasis role=\"strong\"> 自动更正:</emphasis> OpenOffice 的自动更正功能"
+"可以自动纠正常见的拼写错误和输入错误"
+"从而使你的输入工作变得更加轻松。此外，自动更正功能还可以"
+"使你自动应用正确的文档格式，并在识别出"
+"文字的特殊用法时自动插入特定的特殊字符"
 
 #: chapter4/Using_OpenOffice_Applications.xml:250(para)
 msgid ""
@@ -1268,6 +1310,10 @@ msgid ""
 "the end of a line. It searches the entire document and suggests hyphenation "
 "that you can either accept or reject."
 msgstr ""
+"<emphasis role=\"strong\">智能断字:</emphasis> 当一个位于句尾的单词"
+"长度过大而不得不转入下一行的时候，智能断字功能可以自动在句尾加入连字符号，"
+"以保持单词的连贯性。该功能会自动搜索整个文档并做出加入连字符号的建议，"
+"你可以自主决定是否需要加入连字符号。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:258(para)
 msgid ""
@@ -1276,6 +1322,10 @@ msgid ""
 "faxes and e-mail messages by using a form letter template and an address "
 "database."
 msgstr ""
+"<emphasis role=\"strong\">邮件合并:</emphasis> 邮件合并功能"
+"为你提供可供套用的信函模板和地址数据库，使你可以轻松的创建高"
+"度定制的信件模板，标签，信封，电报稿"
+"和电子邮件。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:217(para)
 msgid ""
@@ -1284,10 +1334,14 @@ msgid ""
 "that may include components such as bibliographies, reference tables and "
 "indexes. Some of these features are: <placeholder-1/>"
 msgstr ""
+" OpenOffice 为你提供了大量实用的功能，既可以"
+"创建基本的文本文档，也可以胜任拥有"
+"参考书目，引文表格和超长索引的格式复杂，章节繁多"
+"的文档. 其中一些特性包括: <placeholder-1/>"
 
 #: chapter4/Using_OpenOffice_Applications.xml:267(title)
 msgid "Designing and Structuring"
-msgstr ""
+msgstr "设计和排版"
 
 #: chapter4/Using_OpenOffice_Applications.xml:272(para)
 msgid ""
@@ -1298,6 +1352,12 @@ msgid ""
 "assign and modify styles for paragraphs, lists, individual characters, "
 "frames and pages."
 msgstr ""
+"<emphasis role=\"strong\">“样式和格式”窗口</emphasis> 样式和格式"
+"窗口是整个 OpenOffice 办公套件各部分的共同特性，在"
+"整个套件所包含的所有程序中都可以使用"
+"通过这个窗口，你可以创建，分配和"
+"修改段落，表格，框架，页面甚至每一个"
+"字的格式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:282(para)
 msgid ""
@@ -1306,6 +1366,10 @@ msgid ""
 "document. You can also use Navigator to track the objects and elements that "
 "are already inserted and to insert new elements into the document."
 msgstr ""
+"<emphasis role=\"strong\">导航:</emphasis> 导航功能为你提供"
+"整个文档的文档结构图，你可以快速的查看整个文档的结构。"
+"你也可以使用导航功能来跟踪已经插入文档中的对象和元素，"
+"并使用它来向文档中插入新的元素。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:290(para)
 msgid ""
@@ -1314,12 +1378,18 @@ msgid ""
 "text document. You can also customise the inserted tables and indexes by "
 "defining their structure and appearance."
 msgstr ""
+"<emphasis role=\"strong\">索引和表格:</emphasis> 通过"
+"这一功能，你可以在文档中插入索引，表格或引文列表。"
+"你也可以自行设置插入的表格和索引的"
+"结构和外观。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:269(para)
 msgid ""
 "OpenOffice.org enables you to design and structure your text document by "
 "using an assortment of features, including: <placeholder-1/>"
 msgstr ""
+"OpenOffice 办公套件为你提供了很多实用的特性，"
+"使你能够对文档进行设计和排版，这些特性包括 <placeholder-1/>"
 
 #: chapter4/Using_OpenOffice_Applications.xml:300(title)
 msgid "Desktop Publishing"
@@ -1332,6 +1402,10 @@ msgid ""
 "these frames to apply a multi-column layout to your document and render a "
 "professional look and style to it."
 msgstr ""
+"<emphasis role=\"strong\">图文框:</emphasis> 你可以在图文框"
+"中加入文本和图像，并把它们放在文档中的任何位置。你也可以使用"
+"框架来对你的文档进行分列，或者设置出其他"
+"专业的外观和格式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:314(para)
 msgid ""
@@ -1339,18 +1413,25 @@ msgid ""
 "graphic object into your text document from a gallery, a file or any other "
 "OpenOffice.org application."
 msgstr ""
+"<emphasis role=\"strong\">图形功能:</emphasis> 你可以从"
+"任意图片集，文件夹或任何其他 OpenOffice 程序"
+"中向你的文档插入图片对象。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:320(para)
 msgid ""
 "<emphasis role=\"strong\"> Tables:</emphasis> OpenOffice.org Writer also "
 "enables you to create or insert a table into a text document."
 msgstr ""
+"<emphasis role=\"strong\"> 表格:</emphasis> 使用 OpenOffice，"
+"你也可以在文档中创建或插入表格。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:302(para)
 msgid ""
 "The following features can help you create professionally styled documents, "
 "such as brochures, invitations and newsletters: <placeholder-1/>"
 msgstr ""
+"接下来要讲解的这些特性可以使你创建专业风格的文档，"
+"比如宣传册，请柬和新闻稿： <placeholder-1/>"
 
 #: chapter4/Using_OpenOffice_Applications.xml:328(title)
 msgid "Drawing"
@@ -1362,6 +1443,9 @@ msgid ""
 "and graphics directly in your text document. You can use the Drawing bar to "
 "add various shapes, lines, text and callouts to a current document."
 msgstr ""
+"绘图功能使你可以很容易地在文档中直接创建多种"
+"多样的绘画和图形。你可以使用绘图工具栏来向当前"
+"文本中加入各种图形，线条，文本和插图编号。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:337(title)
 msgid "Drag and Drop"
@@ -1373,6 +1457,9 @@ msgid ""
 "in the same document, from one OpenOffice document to another and from the "
 "Gallery to your OpenOffice document."
 msgstr ""
+"这一独特的特性使你能够在同一文档中，"
+"不同 OpenOffice 程序中拖曳对象，你"
+"也可以将图片从照片集中拖入 OpenOffice 文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:345(title)
 msgid "The Help Function"
@@ -1380,11 +1467,11 @@ msgstr "帮助功能"
 
 #: chapter4/Using_OpenOffice_Applications.xml:347(para)
 msgid "This is a complete reference for your Writer."
-msgstr ""
+msgstr "OpenOffice Writer拥有完整的帮助文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:352(title)
 msgid "Performing Basic Word-Processing Tasks"
-msgstr ""
+msgstr "完成基本的文字处理工作"
 
 #: chapter4/Using_OpenOffice_Applications.xml:354(para)
 msgid ""
@@ -1396,6 +1483,13 @@ msgid ""
 "the basic word-processing tasks in Writer are described in the following "
 "sections."
 msgstr ""
+"通过使用 OpenOffice Writer，你可以完成大量文字处理"
+"任务。比如撰写，编辑，排版，批阅和打印文档。"
+"你也可以在使用大量的模板，在文档中应用各种不同"
+"的样式，控制页面布局，插入，编辑和创建图形。"
+"在接下来的部分中，我们就将讲授"
+"如何使用这一程序来完成一些最基本的"
+"文字处理工作。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:363(title)
 msgid "Entering and Formatting Text"
@@ -1407,12 +1501,17 @@ msgid ""
 "can enter text using your keyboard and then apply a variety of formats to "
 "the text, as per the document's requirements."
 msgstr ""
+"首先，OpenOffice Writer 可以用来撰写和编辑文本。你"
+"可以使用键盘输入一段文本，然后根据不同的要求来"
+"进行各种编辑工作。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:372(title)
 msgid ""
 "You can use the following steps to enter and format text using "
 "OpenOffice.org Writer:"
 msgstr ""
+"通过以下的步骤，你可以在 OpenOffice Writer 中输入和"
+"编辑文本。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:376(para)
 msgid ""
@@ -1421,10 +1520,14 @@ msgid ""
 "role=\"strong\">Openoffice.org Word Processor</emphasis>. A blank text "
 "document opens."
 msgstr ""
+"在<emphasis role=\"strong\">程序</emphasis>菜单中，指向"
+"<emphasis role=\"strong\">办公</emphasis>然后单击<emphasis "
+"role=\"strong\">Openoffice.org 文字处理</emphasis>。就能打开"
+"一个空白文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:382(title)
 msgid "Launching Writer"
-msgstr ""
+msgstr "运行 Writer"
 
 #: chapter4/Using_OpenOffice_Applications.xml:394(para)
 msgid ""
@@ -1432,6 +1535,9 @@ msgid ""
 "or an entire novel from scratch, or you may start with a predefined template "
 "or sample that is suitable for your requirements."
 msgstr ""
+"根据你的不同需要，你可以创建信件，记事，笔记"
+"甚至整部小说。你也可以打开一个符合要求的预设模板"
+"或示例。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:399(para)
 msgid ""
@@ -1442,10 +1548,16 @@ msgid ""
 "press SHIFT+CTRL+N. The <emphasis role=\"strong\">Templates and "
 "Documents</emphasis> dialogue box opens."
 msgstr ""
+"如要使用模板和示例，在<emphasis "
+"role=\"strong\">文件</emphasis> 菜单中, 指向<emphasis "
+"role=\"strong\">新建</emphasis>然后单击<emphasis "
+"role=\"strong\">模板和文档</emphasis>。或者你也可以直接"
+"按下 SHIFT+CTRL+N。即可打开<emphasis role=\"strong\">模板和"
+"文档</emphasis>对话框"
 
 #: chapter4/Using_OpenOffice_Applications.xml:407(title)
 msgid "Accessing Templates and Documents"
-msgstr ""
+msgstr "使用模板和文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:419(para)
 msgid ""
@@ -1455,6 +1567,11 @@ msgid ""
 "display the various templates associated with that category. Select a "
 "template of your choice and then start working on it."
 msgstr ""
+"你可以在对话框的中间这栏里浏览各种"
+"可用的模板的分类，如果你想要使用一个"
+"模板来创建你的文档，你可以双击一个分类来"
+"查看分类下的所有模板。挑选一个"
+"模板，然后就可以开始你的工作了。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:426(para)
 msgid ""
@@ -1464,10 +1581,15 @@ msgid ""
 "<emphasis role=\"strong\">Close</emphasis> in the top-right corner of the "
 "dialogue box."
 msgstr ""
+"如果你要从默认的空白文档开始工作，"
+"那么就点击右上角的<emphasis "
+"role=\"strong\">关闭</emphasis>按钮来关掉"
+"<emphasis role=\"strong\">模板和文档</emphasis>对话"
+"框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:433(title)
 msgid "Accessing Templates"
-msgstr ""
+msgstr "使用模板"
 
 #: chapter4/Using_OpenOffice_Applications.xml:446(emphasis)
 msgid ""
@@ -1476,6 +1598,10 @@ msgid ""
 "create user-defined templates, such as faxes and letters. These templates "
 "can later be used to create further documents."
 msgstr ""
+"如果有学生想要知道更多使用示例和模板的知识，"
+"请指导他们使用文件菜单下的各种向导，来"
+"创建自定义模板，比如电报稿和信件。将来这些模板"
+"也可以被用来创建其他文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:455(para)
 msgid ""
@@ -1485,16 +1611,23 @@ msgid ""
 "<emphasis role=\"strong\">Formatting</emphasis> toolbar to perform some of "
 "the most common formatting tasks."
 msgstr ""
+"创建文档完成后，你就可以使用程序提供的"
+"各种特性来改变文字显示效果或加粗显示"
+"文档中的特定部分。你可以使用<emphasis role=\"strong\">格式</emphasis>菜单"
+"中的以下选项来完成一些"
+"最常见的格式设置任务。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:463(title)
 msgid "The Formatting Toolbar"
-msgstr ""
+msgstr "格式工具栏"
 
 #: chapter4/Using_OpenOffice_Applications.xml:475(para)
 msgid ""
 "You can use the <emphasis role=\"strong\">Style and Formatting</emphasis> "
 "window to perform a complete document makeover."
 msgstr ""
+"你可以使用<emphasis role=\"strong\">样式和格式</emphasis> "
+"窗口来完成完整的文档格式设置工作。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:479(para)
 msgid ""
@@ -1503,10 +1636,14 @@ msgid ""
 "<emphasis role=\"strong\">Style and Formatting</emphasis>. The <emphasis "
 "role=\"strong\">Style and Formatting</emphasis> window appears."
 msgstr ""
+"要打开<emphasis role=\"strong\">样式和格式</emphasis> "
+"窗口，请在<emphasis role=\"strong\">格式</emphasis>菜单下，单击"
+"<emphasis role=\"strong\">格式和样式</emphasis>. 就会出现<emphasis "
+"role=\"strong\">格式和样式</emphasis>窗口。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:486(title)
 msgid "Accessing Style and Formatting Window"
-msgstr ""
+msgstr "使用格式和样式窗口"
 
 #: chapter4/Using_OpenOffice_Applications.xml:498(para)
 msgid ""
@@ -1515,10 +1652,14 @@ msgid ""
 "role=\"strong\">Style and Formatting</emphasis> window will display a list "
 "of styles in a particular category, such as a list or a paragraph."
 msgstr ""
+"你可以使用这个窗口来选定和修改已有的样式"
+"或者创建新的样式。按下窗口标题栏下方的图标，"
+"就会显示各个分类下的样式"
+"列表，比如段落样式列表等。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:505(title)
 msgid "The Style and Formatting Icons"
-msgstr ""
+msgstr "样式和格式图标"
 
 #: chapter4/Using_OpenOffice_Applications.xml:517(para)
 msgid ""
@@ -1531,10 +1672,18 @@ msgid ""
 "the current document by selecting specific parts of the document and "
 "applying an existing style by double-clicking that style."
 msgstr ""
+"默认情况下，当你打开<emphasis role=\"strong\">样式和"
+"格式</emphasis>窗口时，<emphasis "
+"role=\"strong\">段落</emphasis><emphasis "
+"role=\"strong\">样式</emphasis>图标处于被选定状态。所有在这一"
+"分类下的样式都会被列在<emphasis role=\"strong\">样式和"
+"格式</emphasis>窗口中。通过选定文档中的"
+"特定部分，然后双击你需要的样式，就"
+"可以应用你所需要的样式了。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:528(title)
 msgid "Applying a Style"
-msgstr ""
+msgstr "使用样式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:540(para)
 msgid ""
@@ -1543,75 +1692,88 @@ msgid ""
 "displays a new pop-up window. You can redefine almost all aspects of the "
 "selected style using the various options available under the different tabs."
 msgstr ""
+"如果你需要修改现存的样式，你可以右键单击"
+"这一样式并选择<emphasis role=\"strong\">修改</emphasis>。然后会"
+"弹出一个新的窗口，通过使用不同标签下的各种选项，"
+"你几乎可以自定义样式的所有方面。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:546(para)
 msgid ""
 "Modify the specifications of the selected style, and click <emphasis "
 "role=\"strong\">OK</emphasis> to apply the changes."
 msgstr ""
+"修改所选定样式的细节，然后单击<emphasis "
+"role=\"strong\">确定</emphasis>来应用这些改变。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:550(title)
 msgid "Modifying a Style"
-msgstr ""
+msgstr "修改样式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:562(para)
 msgid ""
 "Double-click the modified style to reflect the changes in the selected text."
 msgstr ""
+"双击所修改的样式以查看被选定文本的改变情况。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:566(title)
 msgid "Applying the Modified Style"
-msgstr ""
+msgstr "使用修改后的样式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:578(para)
 msgid "You can customize all other parts of the document in the same way."
-msgstr ""
+msgstr "你可以用同样的方法自定义文档的其他任何部分。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:584(para)
 msgid ""
 "If the students want to know more about the various formatting options "
 "available, you can give them the following information:"
 msgstr ""
+"如果学生们想要知道更多关于格式选项的内容，你"
+"可以向他们提供如下信息。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:588(emphasis)
 msgid "OpenOffice.org provides several ways to apply styles. These are:"
-msgstr ""
+msgstr "OpenOffice.org 提供了几种方法来应用样式，它们包括："
 
 #: chapter4/Using_OpenOffice_Applications.xml:591(emphasis)
 msgid "Using the Styles and Formatting window."
-msgstr ""
+msgstr "使用格式和样式窗口。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:596(emphasis)
 msgid "Using Fill Format mode."
-msgstr ""
+msgstr "使用格式填充模式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:601(emphasis)
 msgid "Using the Apply Style list on the Formatting bar."
-msgstr ""
+msgstr "使用格式工具栏上的应用格式列表。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:606(emphasis)
 msgid "Assigning styles to shortcut keys."
-msgstr ""
+msgstr "为样式分配快捷键"
 
 #: chapter4/Using_OpenOffice_Applications.xml:611(emphasis)
 msgid "Using AutoFormat."
-msgstr ""
+msgstr "使用自动格式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:616(para)
 msgid ""
 "In addition, describe the procedure to create a new style and add it to the "
 "Style and Formatting window."
 msgstr ""
+"另外，向他们介绍创建新的样式并把"
+"它们加入样式和格式窗口的方法"
 
 #: chapter4/Using_OpenOffice_Applications.xml:623(title)
 msgid "Inserting Tables"
-msgstr ""
+msgstr "插入表格"
 
 #: chapter4/Using_OpenOffice_Applications.xml:625(para)
 msgid ""
 "To insert a table in a text document, position the cursor where you want the "
 "table to appear and then follow the procedure described below:"
 msgstr ""
+"要在文档中插入表格，请将鼠标指向你希望"
+"插入表格的区域，然后按照以下步骤进行操作："
 
 #: chapter4/Using_OpenOffice_Applications.xml:630(para)
 msgid ""
@@ -1620,20 +1782,26 @@ msgid ""
 "role=\"strong\">Table.</emphasis> The <emphasis role=\"strong\">Insert "
 "Table</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">表格</emphasis>菜单中，指向<emphasis "
+"role=\"strong\">插入</emphasis>然后单击<emphasis "
+"role=\"strong\">表格</emphasis>，即可打开<emphasis role=\"strong\">插入"
+"表格</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:636(emphasis)
 msgid "Inserting a Table"
-msgstr ""
+msgstr "插入一张表格"
 
 #: chapter4/Using_OpenOffice_Applications.xml:649(para)
 msgid ""
 "You can use the various options present in the dialogue box to specify some "
 "of the table properties."
 msgstr ""
+"你可以使用对话框中的各种选项来设置"
+"一些表格属性。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:653(emphasis)
 msgid "Specifying Table Properties"
-msgstr ""
+msgstr "设置表格属性"
 
 #: chapter4/Using_OpenOffice_Applications.xml:667(para)
 msgid ""
@@ -1642,6 +1810,10 @@ msgid ""
 "appears. To create the table, click the cell that you want to be on the last "
 "row of the last column."
 msgstr ""
+"要使用默认属性直接插入表格，单击工具栏上的"
+"表格图标，然后在出现的图形框中选择表格尺寸。"
+"要创建表格，单击你所需设置的最后一列"
+"最后一行额单元格。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:676(para)
 msgid ""
@@ -1654,22 +1826,34 @@ msgid ""
 "role=\"strong\">Table</emphasis> from the short-cut menu. The <emphasis "
 "role=\"strong\">Table Format</emphasis> dialogue box opens."
 msgstr ""
+"设置表格属性，然后单击<emphasis "
+"role=\"strong\">确定。</emphasis>就可以在文档的特定部分"
+"插入表格。默认情况下，程序会创建与页面宽度相同的"
+"表格，所有的行有相同的行高，所有的列"
+"有相同的列宽。如果需要调整行和列的属性，并进一步"
+"设置表格，右键单击表格，在弹出菜单中选择<emphasis "
+"role=\"strong\">表格</emphasis>按钮。即可打开<emphasis "
+"role=\"strong\">表格格式</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:686(para)
 msgid ""
 "Now you can use this dialogue box to define finer specifications for the "
 "table such as alignment, column width, text flow, borders and background."
 msgstr ""
+"现在你就可以在这个对话框中设置更多选项，"
+"比如对齐方式，列宽，文字方向，边框和背景等等。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:690(para)
 msgid ""
 "Define the table specifications as per your requirements and preferences, "
 "and click <emphasis role=\"strong\">OK</emphasis> to apply the changes."
 msgstr ""
+"根据你的要求和偏好定义表格细节，然后"
+"单击<emphasis role=\"strong\">确定</emphasis>来应用这些改变。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:695(emphasis)
 msgid "Customising the Table Format"
-msgstr ""
+msgstr "自定义表格格式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:708(para)
 msgid ""
@@ -1678,6 +1862,10 @@ msgid ""
 "tables. Writer permits you to create as many layers of nested tables as you "
 "want."
 msgstr ""
+"定义好的表格细节会被应用。如果要将一个单元格"
+"中的数据用另一个表格形式来展现，你可以创建"
+"嵌套表格。Writer 允许你创建不限数量的嵌套"
+"表格。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:713(para)
 msgid ""
@@ -1685,24 +1873,29 @@ msgid ""
 "to appear, then follow the procedure for inserting a new table. A nested "
 "table appears in the specified cell within the larger table."
 msgstr ""
+"要创建嵌套表格，单击你需要创建嵌套表格的单元格，"
+"然后按照创建新表格的步骤操作一遍。"
+"一个嵌套表格就会出现在这个单元格中。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:719(emphasis)
 msgid "Creating a Nested Table"
-msgstr ""
+msgstr "创建嵌套表格"
 
 #: chapter4/Using_OpenOffice_Applications.xml:732(para)
 msgid ""
 "You can now define the finer specifications of the nested table using the "
 "Table Format dialogue box and then populate the table with data."
 msgstr ""
+"你可以使用表格格式对话框来为"
+"嵌套的表格定义更多细节，然后填入数据。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:737(emphasis)
 msgid "The Nested Table"
-msgstr ""
+msgstr "嵌套表格"
 
 #: chapter4/Using_OpenOffice_Applications.xml:750(title)
 msgid "Inserting Images"
-msgstr ""
+msgstr "插入图片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:752(para)
 msgid ""
@@ -1711,10 +1904,14 @@ msgid ""
 "can be inserted from a file, the OpenOffice.org Gallery, a scanner, the "
 "Internet, or a graphics programme."
 msgstr ""
+"OpenOffice.org 办公套件允许你插入各种不同格式的图像，"
+"包括最流行的图像格式如 JPEG, PNG, BMP 和 GIF。你可以"
+"从文件夹，OpenOffice 图片集，扫描仪，互联"
+"网或图像程序中插入图像。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:759(title)
 msgid "To insert an image into your text document from a file:"
-msgstr ""
+msgstr "要从文件夹向文档中插入图片："
 
 #: chapter4/Using_OpenOffice_Applications.xml:762(para)
 msgid ""
@@ -1724,6 +1921,11 @@ msgid ""
 "<emphasis role=\"strong\">From File</emphasis>. The <emphasis "
 "role=\"strong\">Insert Picture</emphasis> dialogue box opens."
 msgstr ""
+"将鼠标放在需要插入图片的地方，"
+"在<emphasis role=\"strong\">插入</emphasis> "
+"菜单中，指向<emphasis role=\"strong\">图片</emphasis>然后单击"
+"<emphasis role=\"strong\">来自文件</emphasis>。即可打开<emphasis "
+"role=\"strong\">插入图片</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:771(para)
 msgid ""
@@ -1734,14 +1936,20 @@ msgid ""
 "selected the correct image. Click <emphasis role=\"strong\">Open</emphasis> "
 "to insert the image in your document."
 msgstr ""
+"要插入文件，找到并选定需要插入的文件，你可以"
+"选定<emphasis role=\"strong\">插入图片</emphasis>对话框底部"
+"的<emphasis role=\"strong\">预览</emphasis>选项"
+"来预览这一图片以确定你是否选定了"
+"正确的图片。单击<emphasis role=\"strong\">打开</emphasis> "
+"来把图片插入文档中。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:780(title)
 msgid "Inserting Image"
-msgstr ""
+msgstr "插入图片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:793(para)
 msgid "Explain the following:"
-msgstr ""
+msgstr "解释以下内容"
 
 #: chapter4/Using_OpenOffice_Applications.xml:795(emphasis)
 msgid ""
@@ -1752,12 +1960,20 @@ msgid ""
 "not the image itself. Linking an image has the following advantages and "
 "disadvantages:"
 msgstr ""
+"选中链接复选框可以在你的文档中"
+"创建一个链接，而不是在文档中也保存一份图片。"
+"这样做的结果是，尽管你可以在文档中看到图片，当"
+"图片被保存以后，这个文档将只包括一个指向该图片的链接而不是"
+"图片本身。这种链接图片的方式优缺点"
+"如下："
 
 #: chapter4/Using_OpenOffice_Applications.xml:803(emphasis)
 msgid ""
 "It reduces the size of your document when it is saved because the image is "
 "not included in it."
 msgstr ""
+"当保存文档时，文档的尺寸会减小，因为"
+"图片本身并没有被包括在文档中。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:809(emphasis)
 msgid ""
@@ -1765,6 +1981,9 @@ msgid ""
 "the document and can view the modified image the next time you open the "
 "document."
 msgstr ""
+"你无须打开文档即可单独修改"
+"图片，并且在下次打开文档时可以看到"
+"修改后的图片。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:816(emphasis)
 msgid ""
@@ -1772,12 +1991,17 @@ msgid ""
 "document and the image otherwise, the receiver will not be able to view the "
 "linked image."
 msgstr ""
+"当你要把文档发送给其他人时，你"
+"需要同时发送文档和图片，否则，受到文档的人将"
+"看不到链接的图片。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:826(para)
 msgid ""
 "The image is inserted at the specified location in your document. If the "
 "image does not fit perfectly into your document, you should resize it."
 msgstr ""
+"图片会被插入到你文档的特定地点。如果"
+"图片的大小没有完全符合你的要求，你可以重设图片大小"
 
 #: chapter4/Using_OpenOffice_Applications.xml:830(para)
 msgid ""
@@ -1787,16 +2011,23 @@ msgid ""
 "the SHIFT key, click and drag one of the handles on the image to modify its "
 "size."
 msgstr ""
+"要在保持图片属性的情况下重设其大小，请选定图片，然后"
+"按住SHIFT键不动。当你选定一张图片后，一些小方"
+"块（被称为\“手柄\”）会出现在图片的边缘。在按住Shift键"
+"的同时按下并拖曳这些手柄来调整图片的"
+"大小。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:837(title)
 msgid "Resizing the Inserted Image"
-msgstr ""
+msgstr "重设插入图片的大小"
 
 #: chapter4/Using_OpenOffice_Applications.xml:850(para)
 msgid ""
 "Explain the difference between a scaled and an unscaled resize, and "
 "emphasise the advantages of the scaled resize performed above."
 msgstr ""
+"请向学生解释按比例调整和不按比例调整之间的区别，"
+"并强调上面这种按比例调整方式的优越性。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:857(para)
 msgid ""
@@ -1806,6 +2037,11 @@ msgid ""
 "appears below the <emphasis role=\"strong\">Standard toolbar</emphasis> when "
 "you select a graphic for the first time."
 msgstr ""
+"在重设完图片的尺寸后，你需要将图片防盗"
+"文档中的合适位置。要调整和对其图片，可以"
+"使用<emphasis role=\"strong\">框架工具栏</emphasis>中的工具。这个工具栏会在"
+"你首次选中一幅图片的时候出现在<emphasis role=\"strong\">标准工具栏</emphasis>的"
+"下方。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:864(para)
 msgid ""
@@ -1814,24 +2050,30 @@ msgid ""
 "Wrap</emphasis> or <emphasis role=\"strong\">Anchor,</emphasis> on the short-"
 "cut menu."
 msgstr ""
+"另一种办法是，你可以右键单击图片，然后在快捷菜单中选择例如"
+"<emphasis role=\"strong\">排序，"
+"对齐</emphasis>或者<emphasis role=\"strong\">锁定</emphasis>等"
+"选项。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:870(title)
 msgid "Positioning the Inserted Image"
-msgstr ""
+msgstr "放置插入的图片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:882(para)
 msgid ""
 "After you have selected appropriate positioning options for the image, you "
 "may obtain a result similar to the following screenshot."
 msgstr ""
+"在选定了合适的图片选项后，你也许会"
+"看到类似于下面这张截图的情形。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:887(title)
 msgid "The Inserted Image"
-msgstr ""
+msgstr "插入的图片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:900(title)
 msgid "Printing Documents"
-msgstr ""
+msgstr "打印文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:903(para)
 msgid ""
@@ -1846,6 +2088,16 @@ msgid ""
 "the printer, such as orientation, the paper tray to be used and the paper "
 "size to be printed."
 msgstr ""
+"在<emphasis role=\"strong\">文件</emphasis>菜单下，单击<emphasis "
+"role=\"strong\">打印</emphasis>。就会弹出<emphasis "
+"role=\"strong\">打印</emphasis>对话框。你可以使用这个"
+"对话框来选定要使用的打印机（如果你有不止一台"
+"打印机的话），需要打印的页码，以及"
+"需要打印的份数。你也可以单击<emphasis "
+"role=\"strong\">打印</emphasis>对话框中的<emphasis "
+"role=\"strong\">属性</emphasis>按钮来设置打印机的属性，比"
+"如说方向，需要使用的纸盒和需要打印的纸张"
+"大小。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:914(para)
 msgid ""
@@ -1853,10 +2105,13 @@ msgid ""
 "role=\"strong\">Options</emphasis> button in the <emphasis "
 "role=\"strong\">Print</emphasis> dialogue box."
 msgstr ""
+"要为当前文档设置打印属性，单击<emphasis "
+"role=\"strong\">打印</emphasis>对话框中的<emphasis "
+"role=\"strong\">选项</emphasis>按钮。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:919(emphasis)
 msgid "Printing a Document"
-msgstr ""
+msgstr "打印一份文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:932(para)
 msgid ""
@@ -1867,6 +2122,12 @@ msgid ""
 "under the <emphasis role=\"strong\">Content</emphasis> section by selecting "
 "or clearing the appropriate check boxes."
 msgstr ""
+"通过使用<emphasis role=\"strong\">打印选项</emphasis>对话框，"
+"你可以选择当前文档中的特定部分来进行打印。例"
+"如为了节省墨粉或墨水，你也许不希望印出文档的"
+"背景和图像，你可以通过控"
+"制<emphasis role=\"strong\">内容</emphasis>中的复选框来"
+"确定这些细节。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:940(para)
 msgid ""
@@ -1875,10 +2136,14 @@ msgid ""
 "role=\"strong\">Notes</emphasis> section. After specifying the details, "
 "click <emphasis role=\"strong\">OK</emphasis> to save your settings."
 msgstr ""
+"类似的，你也可以在<emphasis "
+"role=\"strong\">页面</emphasis>和<emphasis "
+"role=\"strong\">批注</emphasis>中设定所需的打印细节。设定完这些细节后，"
+"单击<emphasis role=\"strong\">确定</emphasis>来保存这些设置。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:947(emphasis)
 msgid "Defining Printer Options"
-msgstr ""
+msgstr "设定打印选项"
 
 #: chapter4/Using_OpenOffice_Applications.xml:960(para)
 msgid ""
@@ -1886,49 +2151,63 @@ msgid ""
 "role=\"strong\">OK</emphasis> on the <emphasis "
 "role=\"strong\">Print</emphasis> dialogue box."
 msgstr ""
+"现在你可以单击<emphasis "
+"role=\"strong\">打印</emphasis>对话框中的<emphasis "
+"role=\"strong\">确定</emphasis>按钮来开始打印文档了。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:967(para)
 msgid ""
 "Making changes in the Printer Options dialogue box will only apply to the "
 "current document and not change your default settings permanently."
 msgstr ""
+"在打印选项对话框中作出的修改会只应用于"
+"当前的文档，而不会永久改变你的默认打印设置。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:975(emphasis)
 msgid ""
 "If the students want to know about the procedure to select the default print "
 "options, provide them the following information:"
 msgstr ""
+"如果学生们想要了解选择默认打印机的方式，请"
+"向他们提供以下信息："
 
 #: chapter4/Using_OpenOffice_Applications.xml:979(emphasis)
 msgid ""
 "To select the default print options, On the Tools menu, click Options."
 msgstr ""
+"要选择默认打印机，在工具菜单中单击选项"
 
 #: chapter4/Using_OpenOffice_Applications.xml:982(emphasis)
 msgid "The OpenOffice.org - Print dialogue box opens."
-msgstr ""
+msgstr "The OpenOffice.org - 打印对话框打开时的状态。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:987(emphasis)
 msgid ""
 "In the left navigation panel, expand OpenOffice.org Writer and then select "
 "Print."
 msgstr ""
+"在左侧面板中，展开 OpenOffice.org Writer 然后选择"
+"打印。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:993(emphasis)
 msgid ""
 "Select the required options and click OK to apply the changes to the default "
 "print settings."
 msgstr ""
+"设定所需的选项，然后按下确定来将这些改变应用到默认的"
+"打印设置中。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1003(title)
 msgid "Saving Documents"
-msgstr ""
+msgstr "保存文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1005(para)
 msgid ""
 "You can save your Writer document in the same way as you save any other "
 "document. To save a new text document:"
 msgstr ""
+"保存 Writer 文档的方法和保存其他类型文档的方法是一样的。"
+"要保存一个新的文档："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1009(para)
 msgid ""
@@ -1936,10 +2215,13 @@ msgid ""
 "role=\"strong\">Save As</emphasis>. The <emphasis "
 "role=\"strong\">Save</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">文件</emphasis>菜单中，单击<emphasis "
+"role=\"strong\">保存</emphasis>。打开<emphasis "
+"role=\"strong\">保存</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1014(emphasis)
 msgid "Saving the Document"
-msgstr ""
+msgstr "保存文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1027(para)
 msgid ""
@@ -1947,6 +2229,9 @@ msgid ""
 "name and click <emphasis role=\"strong\">Save</emphasis> to save the file at "
 "the desired location."
 msgstr ""
+"找到你想要保存文档的路径，输入"
+"文件名，按下<emphasis role=\"strong\">保存</emphasis>来将文档保存在"
+"你需要的位置。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1032(para)
 msgid ""
@@ -1955,6 +2240,10 @@ msgid ""
 "HTML document. This enables you to share your documents with other people "
 "who use other office applications, such as Office."
 msgstr ""
+"OpenOffice.org 也允许你将文档保存为其他的"
+"格式，包括 Microsoft Word， Rich Text，Star Writer 和"
+"HTML 文件。使你可以和使用其他办公软件（比如 Office）的人"
+"共享文件。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1038(para)
 msgid ""
@@ -1963,10 +2252,14 @@ msgid ""
 "dialogue box. Then, click <emphasis role=\"strong\">Save</emphasis> to save "
 "the file as a Word document."
 msgstr ""
+"如果你想要把当前文件保存为 Word 文档，选择"
+"在对话框下部的下拉菜单中选择合适的 Word 版本，"
+"然后按下<emphasis role=\"strong\">保存</emphasis>来将这一文件"
+"保存为 Word 文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1045(emphasis)
 msgid "Saving in Word Format"
-msgstr ""
+msgstr "保存为 Word 文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1061(title)
 msgid "Using OpenOffice.org Calc"
