@@ -1,16 +1,18 @@
 # Chinese (Simplified) translation for ubuntu-desktop-course
-# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the ubuntu-desktop-course package.
+# Copyright (C) 2009 Canonical Ltd and translation contributors:
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# First Translator <feidaozhanchen@gmail.com> 2009
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: ubuntu-desktop-course chapter7\n"
+"Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
 "PO-Revision-Date: 2009-12-24 15:40+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
