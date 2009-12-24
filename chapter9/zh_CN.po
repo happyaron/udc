@@ -1,21 +1,19 @@
-# Simplified Chinese translation for ubuntu-desktop-course
-# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# Simplified Chinese translation for ubuntu-desktop-course chapter9 ubuntu-help-and-support
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Copyright (C) 2009 Canonical Ltd and translation contributors:
+#     Aron Xu <happyaron.xu@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: ubuntu-desktop-course ubuntu-help-and-support\n"
+"Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-10-30 17:23+0000\n"
-"Last-Translator: wzssyqa <wzssyqa@gmail.com>\n"
-"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"PO-Revision-Date: 2009-12-24 17:56+0800\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+"Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2009-10-31 08:34+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -379,15 +377,15 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:4(title)
 msgid "Ubuntu Help and Support"
-msgstr "Ubuntu 帮忙和支持"
+msgstr "Ubuntu 帮助和支持"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:7(title)
 msgid "Objectives"
-msgstr "宗旨"
+msgstr "目标"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:9(para)
 msgid "In this lesson, you will learn:"
-msgstr ""
+msgstr "这一课，您将学到："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:12(para)
 msgid ""
@@ -395,6 +393,7 @@ msgid ""
 "documentation, online documentation, commercial support, community support, "
 "Launchpad and The Fridge."
 msgstr ""
+"如何查找各种帮助信息，诸如：系统文档、在线文档、商业支持、社区支持、Launchpad 和 Fridge 新闻站。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:19(title) chapter9/Ubuntu_Help_and_Support.xml:108(title) chapter9/Ubuntu_Help_and_Support.xml:383(title)
 msgid "Instructor Notes:"
@@ -410,7 +409,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:29(title)
 msgid "Introduction"
-msgstr "前言"
+msgstr "简介"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:31(para)
 msgid ""
@@ -418,6 +417,8 @@ msgid ""
 "so you need not panic if you run into a problem. Essentially there are two "
 "channels for accessing support:"
 msgstr ""
+"Ubuntu 的帮助和支持可以从多种来源获得，所以当您遇到问题时大可不必惊慌。"
+"您有两种主要的渠道获得支持："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:37(para)
 msgid ""
@@ -630,7 +631,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:244(title) chapter9/Ubuntu_Help_and_Support.xml:419(title) chapter9/Ubuntu_Help_and_Support.xml:494(title) chapter9/Ubuntu_Help_and_Support.xml:612(title) chapter9/Ubuntu_Help_and_Support.xml:651(title) chapter9/Ubuntu_Help_and_Support.xml:854(title) chapter9/Ubuntu_Help_and_Support.xml:883(title) chapter9/Ubuntu_Help_and_Support.xml:901(title) chapter9/Ubuntu_Help_and_Support.xml:998(title) chapter9/Ubuntu_Help_and_Support.xml:1019(title)
 msgid "Note:"
-msgstr ""
+msgstr "注："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:246(para)
 msgid ""
@@ -641,7 +642,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:254(title)
 msgid "Community Support"
-msgstr ""
+msgstr "社区支持"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:256(para)
 msgid ""
@@ -649,30 +650,32 @@ msgid ""
 "support options for your Ubuntu desktop. Apart from the community "
 "documentation, the Ubuntu community provides support through:"
 msgstr ""
+"不断壮大的 Ubuntu 社区也在一定范围内提供对 Ubuntu 桌面的免费支持。除社区文档外"
+"Ubuntu 社区还提供以下的支持方式："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:262(para) chapter9/Ubuntu_Help_and_Support.xml:1133(para)
 msgid "Mailing lists"
-msgstr ""
+msgstr "邮件列表"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:266(para) chapter9/Ubuntu_Help_and_Support.xml:397(title) chapter9/Ubuntu_Help_and_Support.xml:409(title)
 msgid "Web Forums"
-msgstr ""
+msgstr "网络论坛"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:270(para) chapter9/Ubuntu_Help_and_Support.xml:481(title)
 msgid "IRC Channels"
-msgstr ""
+msgstr "IRC 在线频道"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:274(para) chapter9/Ubuntu_Help_and_Support.xml:575(title)
 msgid "LoCo Teams"
-msgstr ""
+msgstr "本地团队支持"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:278(para) chapter9/Ubuntu_Help_and_Support.xml:621(title) chapter9/Ubuntu_Help_and_Support.xml:632(title)
 msgid "The Ubuntu Team Wiki"
-msgstr ""
+msgstr "Ubuntu 团队 Wiki"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:283(title)
 msgid "Mailing Lists"
-msgstr ""
+msgstr "邮件列表"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:285(para)
 msgid ""
@@ -1185,7 +1188,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:806(title)
 msgid "The Bug Tracking Page"
-msgstr ""
+msgstr "错误跟踪页"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:815(para)
 msgid ""
@@ -1204,7 +1207,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:821(title)
 msgid "Report a Bug Page"
-msgstr ""
+msgstr "错误报告页"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:830(para)
 msgid ""
@@ -1218,7 +1221,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:838(title)
 msgid "Look for the Reported Bug"
-msgstr ""
+msgstr "查看已报告的错误"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:847(para)
 msgid ""
@@ -1236,7 +1239,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:861(title)
 msgid "Shipit"
-msgstr ""
+msgstr "Shipit"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:863(para)
 msgid ""
@@ -1253,7 +1256,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:873(title)
 msgid "The Shipit Page"
-msgstr ""
+msgstr "Shipit 页"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:885(para)
 msgid ""
@@ -1558,6 +1561,8 @@ msgstr ""
 #: chapter9/Ubuntu_Help_and_Support.xml:0(None)
 msgid "translator-credits"
 msgstr ""
+"Aron Xu <happyaron.xu@gmail.com>, 2009.\n"
+"\n"
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"
 "  wzssyqa https://launchpad.net/~wzssyqa"
