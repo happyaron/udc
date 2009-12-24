@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-24 15:40+0800\n"
+"PO-Revision-Date: 2009-12-25 00:13+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -231,7 +231,7 @@ msgstr "扫描和发送图像"
 #: chapter7/Managing_Graphics_and_Photos.xml:732(title)
 #: chapter7/Managing_Graphics_and_Photos.xml:906(title)
 msgid "Instructor Notes:"
-msgstr ""
+msgstr "编者提示"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:26(emphasis)
 msgid "It is advisable to cover all the topics during the training. However, if you fall short of time then cover only the following topics:"
@@ -260,43 +260,43 @@ msgstr "图形应用程序是Ubuntu的一个组成部分。他们可以用来管
 
 #: chapter7/Managing_Graphics_and_Photos.xml:56(para)
 msgid "In this lesson, you will learn about the various graphics applications available on Ubuntu and which one to use when. These graphics applications are available either with the Ubuntu installation or in repositories (those libraries we mentioned earlier)."
-msgstr ""
+msgstr "本次课程中，你将学习在Ubuntu上的多种图形应用程序，并在特定的时间针对性的使用他们。这些图形应用程序可以是Ubuntu自带的或者在库文件中获取(这些库文件之前提到过)。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:62(title)
 msgid "Applications Available with the Ubuntu Installation"
-msgstr ""
+msgstr "Ubuntu安装获取应用程序"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:67(para)
 msgid "<emphasis role=\"strong\">GIMP Image Editor:</emphasis> An image editor used for advanced image creation and editing such as changing the contrast, colour or the texture of an image."
-msgstr ""
+msgstr "<emphasis role=\"strong\">GIMP 图像编辑器:</emphasis> 这款图像编辑器可用于图像的创建和编辑，比如改变图像的对比度、色彩和纹理等。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:73(para)
 msgid "<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager used to organise and manage photos. F-Spot enables you to tag (label), categorise and sort photos."
-msgstr ""
+msgstr "<emphasis role=\"strong\">F-Spot 照片管理器:</emphasis>可用来组织和管理照片。可以利用F-Spot对照片进行标记（添加标签）、分类和排序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:79(para)
 msgid "<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner which also enables you to photocopy documents and fax or e-mail scanned images."
-msgstr ""
+msgstr "<emphasis role=\"strong\">XSane 图像扫描仪:</emphasis>可以用来影印文件，以传真或者电子邮件的形式发送扫描图像。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:64(para)
 msgid "The following applications are included in the Ubuntu installation package: <placeholder-1/>"
-msgstr ""
+msgstr "下列应用程序包含在Ubuntu安装包中：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:87(title)
 msgid "Applications Available in Repositories"
-msgstr ""
+msgstr "存储库中可获取的应用程序"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:89(para)
 msgid "In addition to the default applications, you can search through the repositories and install applications using the Synaptic Package Manager or the Command Line Interface (CLI)."
-msgstr ""
+msgstr "除了默认的应用程序，您还可以使用新立得软件包管理器或命令行界面（CLI）在存储库中搜索和安装应用程序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:97(para)
 msgid "Thousands of applications are available in the repositories; this topic covers only a few of them. If students want more information about a specific application, show them the way to view application details in the Synaptic Package Manager."
-msgstr ""
+msgstr "存储库中有成千上万的应用程序；本文只涉及到了其中的某些应用程序。如果想了解具体应用程序的更多信息，可在新立得软件包管理器中输入程序名来了解其细节。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:114(title)
 msgid "Agave:"
-msgstr ""
+msgstr "Agave:"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:116(para)
 msgid "A colour scheme designer. After you select a base colour, Agave suggests the appropriate complementary colours or shades of the same base colour. You can also drag and drop a colour from another application, such as GIMP. Whether you are designing a Web page or a pamphlet or painting your house, this programme enables you to identify the appropriate colour scheme. Visit the Web site <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink> for more information on Agave."
