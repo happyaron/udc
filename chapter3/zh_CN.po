@@ -1,21 +1,19 @@
-# Simplified Chinese translation for ubuntu-desktop-course
-# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# Simplified Chinese translation for ubuntu-desktop-course chapter3 using-internet
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Copyright (C) 2009 Canonical Ltd and translation contributors:
+#     Aron Xu <happyaron.xu@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: ubuntu-desktop-course using-internet\n"
+"Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-11-14 13:54+0000\n"
-"Last-Translator: 王英华 <wantinghard@gmail.com>\n"
-"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"PO-Revision-Date: 2009-12-24 17:57+0800\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+"Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2009-11-15 04:34+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -641,7 +639,7 @@ msgstr "使用各种即时通讯工具"
 
 #: chapter3/Using_Internet.xml:33(para)
 msgid "Make phone calls using Softphones"
-msgstr "使用软电话(Softphones)打电话"
+msgstr "使用软电话打电话"
 
 #: chapter3/Using_Internet.xml:38(title) chapter3/Using_Internet.xml:469(title) chapter3/Using_Internet.xml:507(title) chapter3/Using_Internet.xml:611(title) chapter3/Using_Internet.xml:781(title) chapter3/Using_Internet.xml:799(title)
 msgid "Instructor Notes:"
@@ -665,7 +663,7 @@ msgid ""
 "relatives, participating in discussion forums, reading the news, playing "
 "games, has never been easier... or more accessible."
 msgstr ""
-"每天，成千上万的人在互联网上工作和娱乐。在世界范围内搜索信息、与亲戚和朋友保持联系、参与论坛讨论、阅读新闻、玩游戏，从未如此简单或方便过。"
+"每天，成千上万的人在互联网上工作和娱乐。在世界范围内搜索信息、与亲戚和朋友保持联系、参与论坛讨论、阅读新闻、玩游戏，一切从未如此简单方便。"
 
 #: chapter3/Using_Internet.xml:54(para)
 msgid ""
@@ -678,8 +676,8 @@ msgid ""
 "Broadband (cable or ASDL), dial-up and direct access through Local Area "
 "Network (LAN)."
 msgstr ""
-"连接到互联网并不总是仅仅作一个选择，它很大程度上还依赖于您居住或工作的地方和其周围的基础设施。连接到互联网的前提是向一个网络服务提供商(ISP)注册及您所"
-"在区域内可用的一种互联网连接。配置互联网连接不需要您插多少手。Ubuntu 支持绝大部分的连接类型。本课将会涵盖：宽带(电缆或 "
+"连接到互联网并不总是仅仅作一个选择，它很大程度上还依赖于您居住或工作的地方，以及其周围的基础设施。连接到互联网的前提是您向一个网络服务提供商(ISP)注册您所"
+"在区域内可用的一种网络连接方式。连接并不需要您过多的参与，Ubuntu 支持绝大部分的连接类型。本课将会涵盖：宽带(电缆或 "
 "ADSL)、拨号上网和通过本地局域网(LAN)直接访问。"
 
 #: chapter3/Using_Internet.xml:63(para)
@@ -705,8 +703,8 @@ msgid ""
 "Internet. This is the oldest and slowest means of connecting; carrying out "
 "many functions using this mode can be very tedious and frustrating."
 msgstr ""
-"拨号上网使用和您电话连接相同的线路，不同的是它两端都是电脑。这是用电话线连接到本地服务器的慢速和便宜的方案。您的电脑需要拨一个网络服务提供商给的电话号码来"
-"连接到服务器。所以，您在上网的同时是不能打电话的。这是最古老和缓慢的连接方法；在这种方式下使用许多服务是很乏味和难以忍受的。"
+"拨号上网使用和您电话连接相同的线路，语打电话不同的是它两端都是电脑。这是一种是您通过电话线连接到本地服务器的慢速和便宜的方案。您的电脑需要拨一个网络服务提供商指定的电话号码来"
+"连接到服务器。所以，您在上网的同时是不能打电话的。这是最古老最缓慢的连接方法，在这种方式下使用许多服务是很乏味的，甚至会有些难以忍受。"
 
 #: chapter3/Using_Internet.xml:81(title) chapter3/Using_Internet.xml:94(title)
 msgid "Network Manager"
@@ -723,16 +721,15 @@ msgid ""
 "automatically be used when needed. However, you may be asked for your "
 "keyring password if you have to log out."
 msgstr ""
-"Ubuntu上用于保持有线和无线适配器连接的网络管理器是一个使用简单且功能强大的工具。它位于顶部菜单工具栏的右上角。用左键点击它就可以查看您的计算机是否已"
-"经连接到一个有线或无线的网络。假如是一个带密码保护的无线网络，会弹出一个对话框要求您输入密码。这个密码之后可以存储在您的密钥环(keyring)中，以后需"
-"要的时候会自动使用。然而，在您注销的时候可能会要示提供自己的密钥环密码。"
+"Ubuntu 上的网络管理器是一个使用简单且功能强大的工具。它位于顶部菜单栏的右侧。用左键点击它就可以查看您的计算机是否已"
+"经连接到一个有线或无线的网络。如果是一个有密码保护的无线网络，则会弹出一个对话框要求您输入密码。这个密码可以存储在您的密钥环中，将来需要时会自动使用。然而，当您注销并再次登录时可能需要提供密钥环密码以对其解锁。"
 
 #: chapter3/Using_Internet.xml:104(para)
 msgid ""
 "You can also right-click on Network Manager to enable and disable wireless "
 "and wired connections. The connection information allows access to the "
 "network parameters currently used."
-msgstr "您也可以右击网络管理器来启用和禁用无线和有线连接。连接信息允许您访问当前使用网络的网络参数。"
+msgstr "您也可以右击网络管理器来启用或禁用无线和有线连接。“连接信息”允许您查看当前使用网络的网络参数。"
 
 #: chapter3/Using_Internet.xml:109(title)
 msgid "Network Manager Connection"
@@ -742,7 +739,7 @@ msgstr "网络管理器连接"
 msgid ""
 "If Network Manager does not automatically configure your network "
 "connections, you can fall back to manually configuring them."
-msgstr "如果网络管理器没有自动配置好您的网络连接，您可以退而手动配置它们。"
+msgstr "如果网络管理器没有自动配置好您的网络连接，您仍然可以手动配置它们。"
 
 #: chapter3/Using_Internet.xml:124(title)
 msgid "Using a Cable Connection"
@@ -753,16 +750,17 @@ msgid "To connect to the Internet using a cable connection:"
 msgstr "要使用电缆来连接到互联网："
 
 #: chapter3/Using_Internet.xml:130(para) chapter3/Using_Internet.xml:357(para)
+# Changes here.
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and click <emphasis "
 "role=\"strong\">Network</emphasis>. The <emphasis role=\"strong\">Network "
 "Settings</emphasis> dialogue box will be displayed."
 msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单上，指向 <emphasis "
-"role=\"strong\">系统管理</emphasis> 然后点击 <emphasis "
+"在 <emphasis role=\"strong\">系统</emphasis> 菜单上，用鼠标指向 <emphasis "
+"role=\"strong\">首选项</emphasis> 然后点击 <emphasis "
 "role=\"strong\">网络</emphasis>。<emphasis "
-"role=\"strong\">网络设置</emphasis>对话框就会出现。"
+"role=\"strong\">网络设置</emphasis> 对话框就会出现。"
 
 #: chapter3/Using_Internet.xml:137(title)
 msgid "Accessing Network Settings"
@@ -1457,17 +1455,18 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:790(title)
 msgid "Sending and Receiving E-Mail Messages"
-msgstr ""
+msgstr "发送和接收电子邮件"
 
 #: chapter3/Using_Internet.xml:792(para)
 msgid ""
 "Evolution is the default e-mail client for Ubuntu. It combines mail, "
 "calendar and tasks in one powerful application."
 msgstr ""
+"Evolution 是 Ubuntu 的默认电子邮件客户端，它是整合了邮件、日历和任务安排功能的强大应用程序。"
 
 #: chapter3/Using_Internet.xml:796(title)
 msgid "Using Evolution Mail"
-msgstr ""
+msgstr "使用 Evolution 电子邮件"
 
 #: chapter3/Using_Internet.xml:801(para)
 msgid ""
@@ -1477,10 +1476,14 @@ msgid ""
 "url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.co"
 "m/community/EmailClients</ulink>."
 msgstr ""
+"本节着重于为 Evolution 电子邮件客户端配置 POP 服务器。 如果学生希望了解更多内容，"
+"可以阅读：<ulink "
+"url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.co"
+"m/community/EmailClients</ulink>。"
 
 #: chapter3/Using_Internet.xml:808(title)
 msgid "To configure the Evolution e-mail client on Ubuntu:"
-msgstr ""
+msgstr "要在 Ubuntu 上配置 Evolution 电子邮件客户端："
 
 #: chapter3/Using_Internet.xml:811(para)
 msgid ""
@@ -1491,7 +1494,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:816(title)
 msgid "Launching Evolution Mail"
-msgstr ""
+msgstr "启动 Evolution 电子邮件"
 
 #: chapter3/Using_Internet.xml:829(para)
 msgid ""
@@ -2602,105 +2605,110 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2197(para)
 msgid "Match the following:"
-msgstr ""
+msgstr "连线题："
 
 #: chapter3/Using_Internet.xml:2203(para)
 msgid "1) Evolution"
-msgstr ""
+msgstr "1) Evolution"
 
 #: chapter3/Using_Internet.xml:2205(para)
 msgid "a) Web browser"
-msgstr ""
+msgstr "a) 网络浏览器"
 
 #: chapter3/Using_Internet.xml:2209(para)
 msgid "2) Firefox"
-msgstr ""
+msgstr "2) Firefox"
 
 #: chapter3/Using_Internet.xml:2211(para)
 msgid "b) Mail client"
-msgstr ""
+msgstr "b) 邮件客户端"
 
 #: chapter3/Using_Internet.xml:2215(para)
 msgid "3) Ekiga"
-msgstr ""
+msgstr "3) Ekiga"
 
 #: chapter3/Using_Internet.xml:2217(para)
 msgid "c) Instant messenger"
-msgstr ""
+msgstr "c) 即使聊天工具"
 
 #: chapter3/Using_Internet.xml:2221(para)
 msgid "4) Pidgin"
-msgstr ""
+msgstr "4) Pidgin"
 
 #: chapter3/Using_Internet.xml:2223(para)
 msgid "d) Phone calls"
-msgstr ""
+msgstr "d) 软电话"
 
 #: chapter3/Using_Internet.xml:2231(para)
 msgid "1-b, 2-a, 3-d and 4-c"
-msgstr ""
+msgstr "1-b，2-a，3-d，4-c"
 
 #: chapter3/Using_Internet.xml:2237(para)
 msgid "You can get an SIP address from _____________________."
 msgstr ""
+"您可以在 _____________________ 获得一个 SIP 地址。"
 
 #: chapter3/Using_Internet.xml:2241(para)
 msgid ""
 "You can get an SIP address from <ulink "
 "url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink>."
 msgstr ""
+"您可以在 <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink>"
+"获得一个 SIP 地址。"
 
 #: chapter3/Using_Internet.xml:2248(para)
 msgid ""
 "The source code of Skype software is _____________________, but the software "
 "is _____________________to use."
 msgstr ""
+"Skype 的源代码是 _____________________ 的，但软件对于使用者是 _____________________ 的。"
 
 #: chapter3/Using_Internet.xml:2253(para)
 msgid ""
 "The source code of Skype software is proprietary, but the software is free "
 "to use."
 msgstr ""
+"Skype 的源代码是具有专利的，但软件对于使用者是免费的。"
 
 #: chapter3/Using_Internet.xml:2260(para)
 msgid "Which of the following is an RSS feed reader?"
-msgstr ""
+msgstr "下列哪个是 RSS 阅读器？"
 
 #: chapter3/Using_Internet.xml:2262(para)
 msgid "A. Ekiga"
-msgstr ""
+msgstr "A. Ekiga"
 
 #: chapter3/Using_Internet.xml:2264(para) chapter3/Using_Internet.xml:2272(para)
 msgid "B. Liferea"
-msgstr ""
+msgstr "B. Liferea"
 
 #: chapter3/Using_Internet.xml:2266(para)
 msgid "C. Pan"
-msgstr ""
+msgstr "C. Pan"
 
 #: chapter3/Using_Internet.xml:2268(para)
 msgid "D. Skype"
-msgstr ""
+msgstr "D. Skype"
 
 #: chapter3/Using_Internet.xml:2278(para)
 msgid "Which of the following is proprietary software?"
-msgstr ""
+msgstr "下列哪个是专利软件？"
 
 #: chapter3/Using_Internet.xml:2280(para) chapter3/Using_Internet.xml:2290(para)
 msgid "A. Skype"
-msgstr ""
+msgstr "A. Skype"
 
 #: chapter3/Using_Internet.xml:2282(para)
 msgid "B. Ekiga"
-msgstr ""
+msgstr "B. Ekiga"
 
 #: chapter3/Using_Internet.xml:2284(para)
 msgid "C. Liferea"
-msgstr ""
+msgstr "C. Liferea"
 
 #: chapter3/Using_Internet.xml:2286(para)
 msgid "D. Firefox"
-msgstr ""
+msgstr "D. Firefox"
 
 #: chapter3/Using_Internet.xml:2297(title)
 msgid "Lab Exercise"
@@ -2708,7 +2716,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2299(title)
 msgid "Exercise 1"
-msgstr ""
+msgstr "练习 1"
 
 #: chapter3/Using_Internet.xml:2301(para)
 msgid ""
@@ -2757,7 +2765,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2347(title)
 msgid "Exercise 2"
-msgstr ""
+msgstr "练习 2"
 
 #: chapter3/Using_Internet.xml:2349(para)
 msgid ""
@@ -2805,6 +2813,8 @@ msgstr ""
 #: chapter3/Using_Internet.xml:0(None)
 msgid "translator-credits"
 msgstr ""
+"Aron Xu <happyaron.xu@gmail.com>, 2009.\n"
+"\n"
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"
 "  王英华 https://launchpad.net/~wantinghard"
