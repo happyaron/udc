@@ -1,21 +1,23 @@
 # Chinese (Simplified) translation for ubuntu-desktop-course
 # Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
 #
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Ni Hui <shuizhuyuanluo@126.com>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-11-10 07:57+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"PO-Revision-Date: 2009-12-24 20:04+0800\n"
+"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2009-11-11 04:32+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -573,67 +575,67 @@ msgstr "自定义桌面和应用程序"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:8(title)
 msgid "Objectives"
-msgstr ""
+msgstr "目标"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:10(para)
 msgid "In this lesson, you will learn how to:"
-msgstr ""
+msgstr "在本课中，您将学到如何："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:13(para)
 msgid "Customise the look and feel of the Ubuntu desktop"
-msgstr ""
+msgstr "自定义 Ubuntu 桌面的感观"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:17(para)
 msgid "Work with the Nautilus file manager"
-msgstr ""
+msgstr "使用 Nautilus 文件管理器工作"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:21(para)
 msgid "Add and remove applications"
-msgstr ""
+msgstr "添加和删除应用程序"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:25(para)
 msgid "Identify the types of single package files and their use"
-msgstr ""
+msgstr "识别单个软件包文件的类型及其用途"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:29(para)
 msgid "Install and uninstall Debian packages"
-msgstr ""
+msgstr "安装和卸载 Debian 软件包"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:33(para)
 msgid "Identify the categories of software repositories"
-msgstr ""
+msgstr "识别软件仓库分类"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:37(para)
 msgid "Add extra repositories"
-msgstr ""
+msgstr "添加其它仓库"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:42(title)
 msgid "Introduction"
-msgstr ""
+msgstr "介绍"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:44(para)
 msgid ""
 "The Ubuntu desktop comes completely clean and free of pre-determined icons "
 "and buttons. Customising your desktop allows you to add icons to suit your "
 "work style."
-msgstr ""
+msgstr "Ubuntu 桌面自带了完全简洁自由的预设图标和按钮。通过自定义桌面，您可添加图标以迎合您工作的风格。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:48(para)
 msgid ""
 "In this lesson, you will learn about various ways to set up your Ubuntu "
 "desktop to suit your requirements. You will also learn how to install and "
 "uninstall various software applications."
-msgstr ""
+msgstr "在本课程中，您将学到多种不同的途径设置您的 Ubuntu 桌面以符合您的需求。您还会学到如何安装和卸载各种软件应用程序。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:54(title)
 msgid "Customising the Desktop"
-msgstr ""
+msgstr "自定义桌面"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:56(para)
 msgid ""
 "Ubuntu and its derivatives can be customised through a Graphical User "
 "Interface or a Command Line Interface."
-msgstr ""
+msgstr "Ubuntu 及其衍生版本皆可通过图形用户界面或命令行界面自定义。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:59(para)
 msgid ""
@@ -642,6 +644,9 @@ msgid ""
 "role=\"strong\">Preferences</emphasis> on the <emphasis "
 "role=\"strong\">System menu</emphasis> to view the tools."
 msgstr ""
+"自定义桌面的图形工具在<emphasis role=\"strong\">系统</emphasis>菜单中作为菜单选项出现。点击<emphasis "
+"role=\"strong\">系统菜单</emphasis>的<emphasis role=\"strong\">首选项</emphasis>"
+"可查看这些工具。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:65(title) chapter6/Customising_the_Desktop_and_Applications.xml:399(title) chapter6/Customising_the_Desktop_and_Applications.xml:457(title) chapter6/Customising_the_Desktop_and_Applications.xml:979(title) chapter6/Customising_the_Desktop_and_Applications.xml:1041(title) chapter6/Customising_the_Desktop_and_Applications.xml:1098(title) chapter6/Customising_the_Desktop_and_Applications.xml:1116(title) chapter6/Customising_the_Desktop_and_Applications.xml:1150(title) chapter6/Customising_the_Desktop_and_Applications.xml:1281(title) chapter6/Customising_the_Desktop_and_Applications.xml:1338(title) chapter6/Customising_the_Desktop_and_Applications.xml:1368(title) chapter6/Customising_the_Desktop_and_Applications.xml:1506(title) chapter6/Customising_the_Desktop_and_Applications.xml:1535(title) chapter6/Customising_the_Desktop_and_Applications.xml:1730(title) chapter6/Customising_the_Desktop_and_Applications.xml:1766(title)
 msgid "Note:"
@@ -654,19 +659,19 @@ msgid ""
 "applications on the System - Administration menu will make changes to the "
 "computer that will affect all users."
 msgstr ""
+"系统 - 首选项菜单让用户可自定义其自己的桌面环境，但不能自定义同一台计算机上其它用户的桌面。相反，系统 - 管理菜单中的更改会应用于计算机上的所有用户。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:74(title)
 msgid "Changing the Background"
-msgstr ""
+msgstr "更改背景"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:76(para)
-msgid ""
-"The desktop background is the image or colour applied to your desktop."
-msgstr ""
+msgid "The desktop background is the image or colour applied to your desktop."
+msgstr "桌面背景是铺在您桌面上的图像或色彩。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:80(title)
 msgid "To change the default Ubuntu background select:"
-msgstr ""
+msgstr "更改默认 Ubuntu 背景配置："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:83(para)
 msgid ""
@@ -675,10 +680,13 @@ msgid ""
 "role=\"strong\">Appearance</emphasis>. The <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">外观</emphasis>，弹出<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:90(title)
 msgid "Launching Appearance Preferences Dialogue Box"
-msgstr ""
+msgstr "启动外观首选项对话框"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:101(title) chapter6/Customising_the_Desktop_and_Applications.xml:127(title) chapter6/Customising_the_Desktop_and_Applications.xml:1055(title) chapter6/Customising_the_Desktop_and_Applications.xml:1177(title)
 msgid "Nice to Know:"
@@ -690,21 +698,23 @@ msgid ""
 "role=\"strong\">Change Desktop Background</emphasis> to open the <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box."
 msgstr ""
+"您也可以右键点击桌面并选择<emphasis role=\"strong\">更改桌面背景</emphasis>来打开<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:111(para)
 msgid ""
 "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
 "box, select a desktop wallpaper from the available wallpapers. The "
 "background changes immediately."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">外观首选项</emphasis>对话框中，选择一张可用的墙纸。背景将立即更改。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:116(title)
 msgid "Changing the Desktop Wallpaper"
-msgstr ""
+msgstr "更改桌面墙纸"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:129(para)
 msgid "To view the name of the wallpaper, move the pointer over its name."
-msgstr ""
+msgstr "要查看墙纸的名称，请将指针移到其名称上。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:135(para)
 msgid ""
@@ -712,14 +722,16 @@ msgid ""
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box to apply the "
 "changes."
 msgstr ""
+"点击<emphasis role=\"strong\">外观首选项</emphasis>对话框中的<emphasis role=\"strong\">"
+"关闭</emphasis>以应用更改。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:140(title)
 msgid "Applying Preference Change"
-msgstr ""
+msgstr "应用首选项更改"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:153(title) chapter6/Customising_the_Desktop_and_Applications.xml:200(emphasis)
 msgid "Adding a New Wallpaper"
-msgstr ""
+msgstr "添加新墙纸"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:155(para)
 msgid ""
@@ -728,6 +740,8 @@ msgid ""
 "in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
 "box. To do this:"
 msgstr ""
+"除了 Ubuntu 提供的墙纸之外，您可以从其它来源下载墙纸并将它们添入<emphasis role=\"strong\">外观对话框<"
+"/emphasis>中的可用墙纸列表。步骤如下："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:161(para)
 msgid ""
@@ -735,10 +749,12 @@ msgid ""
 "url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> and click "
 "<emphasis role=\"strong\">Backgrounds</emphasis>."
 msgstr ""
+"打开网站<ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>然后点击<"
+"emphasis role=\"strong\">背景</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:166(emphasis)
 msgid "Opening Wallpaper Source"
-msgstr ""
+msgstr "打开墙纸来源"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:179(para)
 msgid ""
@@ -746,7 +762,7 @@ msgid ""
 "screen resolutions available for the selected wallpaper. You should download "
 "and save the version of your chosen wallpaper that matches the screen "
 "resolution of your computer."
-msgstr ""
+msgstr "下载您中意的墙纸。在下载过程中，您可以查看所选墙纸的可用屏幕分辨率。您应该下载并保存所选墙纸中符合您计算机屏幕分辨率的版本。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:187(para)
 msgid ""
@@ -755,6 +771,9 @@ msgid ""
 "role=\"strong\">Appearance</emphasis>. The <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">外观</emphasis>，弹出<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:195(para)
 msgid ""
@@ -762,6 +781,8 @@ msgid ""
 "<emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add "
 "Wallpaper</emphasis> dialogue box opens."
 msgstr ""
+"点击<emphasis role=\"strong\">背景</emphasis>标签，然后点击<emphasis role=\"strong\">"
+"添加</emphasis>。将弹出<emphasis role=\"strong\">添加墙纸</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:213(para)
 msgid ""
@@ -769,14 +790,16 @@ msgid ""
 "select the downloaded image and click <emphasis "
 "role=\"strong\">Open</emphasis>."
 msgstr ""
+"在<emphasis role=\"strong\">添加墙纸</emphasis>对话框中，选择下载的图像，点击<emphasis "
+"role=\"strong\">打开</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:218(emphasis)
 msgid "Selecting Downloaded Wallpaper"
-msgstr ""
+msgstr "选择已下载的墙纸"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:229(para)
 msgid "This step adds the image as new wallpaper."
-msgstr ""
+msgstr "这步会把图像添加为墙纸。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:233(para)
 msgid ""
@@ -784,10 +807,12 @@ msgid ""
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box to accept the "
 "changes. You can now view the new desktop background."
 msgstr ""
+"点击<emphasis role=\"strong\">外观首选项</emphasis>对话框中的<emphasis role=\"strong\">"
+"关闭</emphasis>以接受更改。您现在可以看到新的桌面背景了。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:239(emphasis)
 msgid "Added Wallpaper"
-msgstr ""
+msgstr "添加的墙纸"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:252(title)
 msgid "Nice to know:"
@@ -800,14 +825,15 @@ msgid ""
 "visitors to download and use their content for personal use. Many people "
 "also use their own digital photographs as backgrounds."
 msgstr ""
+"您当然可以将其它任何来源的图片用作桌面背景。许多热门的在线照片合作站点允许访客以个人使用名义下载并使用他们的内容。还有很多人把他们自己的数码照片设为背景。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:262(title)
 msgid "Changing the Colour of the Background"
-msgstr ""
+msgstr "更改背景颜色"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:264(para)
 msgid "To change the colour of the background:"
-msgstr ""
+msgstr "更改背景颜色步骤："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:267(para)
 msgid ""
@@ -816,6 +842,9 @@ msgid ""
 "role=\"strong\">Appearance</emphasis> to open the <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">外观</emphasis>以打开<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:274(para)
 msgid ""
@@ -823,10 +852,12 @@ msgid ""
 "wallpaper <emphasis role=\"strong\">No Wallpaper</emphasis>. You can only "
 "view colours if you have not set any desktop wallpaper."
 msgstr ""
+"点击<emphasis role=\"strong\">背景</emphasis>标签并选择<emphasis role=\"strong\">无墙纸<"
+"/emphasis>。如果您未设定任何桌面墙纸，您将只能看到颜色。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:280(emphasis)
 msgid "Changing Background Colour"
-msgstr ""
+msgstr "更改背景颜色"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:293(para)
 msgid ""
@@ -838,10 +869,14 @@ msgid ""
 "box. The <emphasis role=\"strong\">Pick a Colour</emphasis> dialogue box "
 "opens."
 msgstr ""
+"<emphasis role=\"strong\">颜色</emphasis>框提供三种背景类型：<emphasis role=\"strong\">"
+"纯色、水平渐变</emphasis>以及<emphasis role=\"strong\">垂直渐变</emphasis>"
+"。选择您中意的桌面颜色，然后点击<emphasis role=\"strong\">颜色</emphasis>框旁边的彩色方块，弹出<emphasis "
+"role=\"strong\">选择一种颜色</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:302(emphasis)
 msgid "Selecting a colour Option"
-msgstr ""
+msgstr "选择颜色选项"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:315(para)
 msgid ""
@@ -850,35 +885,39 @@ msgid ""
 "role=\"strong\">OK</emphasis>. The desktop reflects the new settings "
 "immediately."
 msgstr ""
+"选择一种颜色或诸如色调和饱和度之类的颜色属性来创建您中意的颜色。点击<emphasis role=\"strong\">确定</emphasis>"
+"。桌面会立即按新设置发生变化。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:321(emphasis)
 msgid "Specifying Colour"
-msgstr ""
+msgstr "指定颜色"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:334(para)
 msgid ""
 "Click <emphasis role=\"strong\">Close</emphasis> to close the <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box."
 msgstr ""
+"点击<emphasis role=\"strong\">关闭</emphasis>以关闭<emphasis role=\"strong\">外观首选项<"
+"/emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:339(emphasis)
 msgid "Changed Background Colour"
-msgstr ""
+msgstr "更改背景颜色"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:354(title)
 msgid "Customising the Theme (Buttons &amp; icons etc)"
-msgstr ""
+msgstr "自定义主题(按钮 &amp; 图标等)"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:356(para)
 msgid ""
 "The desktop theme controls the visual appearance of the buttons, scroll "
 "bars, icons, panels, borders etc. A number of themes are provided with "
 "Ubuntu."
-msgstr ""
+msgstr "桌面主题控制着按钮、滚动条、图标、面板、边框等元素的外观。Ubuntu 便提供了一些主题。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:361(title)
 msgid "To select a theme for your desktop:"
-msgstr ""
+msgstr "为您的桌面选择主题："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:364(para)
 msgid ""
@@ -887,6 +926,9 @@ msgid ""
 "role=\"strong\">Appearance</emphasis>. The <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">外观</emphasis>，弹出<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:372(para)
 msgid ""
@@ -895,10 +937,13 @@ msgid ""
 "theme further, click <emphasis role=\"strong\">Customise</emphasis>. The "
 "<emphasis role=\"strong\">Customise Theme</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">主题</emphasis>"
+"标签内选择您中意的主题。桌面将立即改变其主题。想要更全面地自定义您的主题，请点击<emphasis role=\"strong\">自定义<"
+"/emphasis>，弹出<emphasis role=\"strong\">自定义主题</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:379(title)
 msgid "Customising Desktop Theme"
-msgstr ""
+msgstr "自定义桌面主题"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:391(para)
 msgid ""
@@ -908,24 +953,27 @@ msgid ""
 "control from the <emphasis role=\"strong\">Controls</emphasis> list. You "
 "will see an immediate change in the appearance of the open windows."
 msgstr ""
+"默认选中的标签是<emphasis role=\"strong\">控件</emphasis>。<emphasis role=\"strong\">"
+"控件</emphasis>标签页中的设置决定了窗口、面板和小程序的外观。请在<emphasis role=\"strong\">控件</emphasis>"
+"列表中选择一种控件。您将立即看到已打开窗口外观的变化。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:401(para)
 msgid "You can customise the following objects on the screen:"
-msgstr ""
+msgstr "您可以自定义屏幕中的下列对象："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:405(title)
 msgid "Window:"
-msgstr ""
+msgstr "窗口："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:407(para)
 msgid ""
 "A rectangular area of the screen with a border and a title bar at the top. "
 "All graphical applications run inside windows."
-msgstr ""
+msgstr "一个矩形屏幕区域，带有边框和位于上部的标题栏。所有图形应用程序都在窗口内运行。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:413(title)
 msgid "Panel:"
-msgstr ""
+msgstr "面板："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:415(para)
 msgid ""
@@ -934,35 +982,37 @@ msgid ""
 "panels. The Ubuntu desktop contains two panels, the top edge panel at the "
 "top of the screen and the bottom edge panel at the bottom of the screen."
 msgstr ""
+"一块桌面区域，您访问如日期和时间之类信息的地方。您也从面板上启动应用程序以及添加或删除对象。Ubuntu "
+"桌面包含两块面板，一块在屏幕顶部，一块在屏幕底部。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:424(title)
 msgid "Applet:"
-msgstr ""
+msgstr "小程序："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:426(para)
 msgid "A small application whose user interface resides within a panel."
-msgstr ""
+msgstr "一种小型应用程序，其界面适于放在面板中。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:431(title)
 msgid "Window Border:"
-msgstr ""
+msgstr "窗口边框："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:433(para)
 msgid ""
 "The border that appears around windows. It has a frame at the top of the "
 "window that contains the name of the application and the edges that allow "
 "you to resize the window."
-msgstr ""
+msgstr "窗口周围所显示的边框。它在窗口顶部有个包含应用程序名称的结构，以及允许您调整窗口大小的边。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:439(title)
 msgid "Icon:"
-msgstr ""
+msgstr "图标："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:441(para)
 msgid ""
 "A graphical symbol for the applications and options on the panels and "
 "windows."
-msgstr ""
+msgstr "一种面板和窗口上的图形，代表应用程序和选项。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:446(para)
 msgid ""
@@ -970,6 +1020,8 @@ msgid ""
 "input boxes and selected items by configuring the settings on the <emphasis "
 "role=\"strong\">Colours</emphasis> tab."
 msgstr ""
+"同样，您还能通过配置<emphasis role=\"strong\">颜色</emphasis>"
+"标签中的设置自定义窗口、输入框和选中项的背景色及文本颜色。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:451(para)
 msgid ""
@@ -978,6 +1030,8 @@ msgid ""
 "role=\"strong\">Icons</emphasis> tabs in the <emphasis "
 "role=\"strong\">Customise Theme</emphasis> dialogue box."
 msgstr ""
+"如果您想要自定义窗口边框和图标，请点击<emphasis role=\"strong\">自定义主题</emphasis>对话框中的<emphasis "
+"role=\"strong\">窗口边框</emphasis>和<emphasis role=\"strong\">图标</emphasis>标签。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:459(para)
 msgid ""
@@ -990,10 +1044,14 @@ msgid ""
 "<emphasis role=\"strong\">Select Theme</emphasis> dialogue box opens, and "
 "you can select the downloaded objects."
 msgstr ""
+"Ubuntu 提供了更多选项方便您自定义主题。您可以从网站<ulink url=\"http://art.gnome.org\">http://art."
+"gnome.org</ulink>下载更多控件、窗口边框和图标并保存在您计算机上任何位置。当自定义主题时，只需点击<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框中的<emphasis role=\"strong\">安装</emphasis>"
+"。弹出<emphasis role=\"strong\">选择主题</emphasis>对话框后，您便可选择下载的东西。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:471(title)
 msgid "Selecting Theme Controls"
-msgstr ""
+msgstr "选择主题控件"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:483(para)
 msgid ""
@@ -1003,10 +1061,14 @@ msgid ""
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box. The "
 "<emphasis role=\"strong\">Save Theme As</emphasis> dialogue box opens."
 msgstr ""
+"点击<emphasis role=\"strong\">自定义主题</emphasis>对话框中的<emphasis role=\"strong\">"
+"关闭</emphasis>。要保存主题，请点击<emphasis role=\"strong\">外观首选项</emphasis>对话框中的<"
+"emphasis role=\"strong\">另存为</emphasis>，弹出<emphasis role=\"strong\">另存为主题<"
+"/emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:491(title)
 msgid "Saving a Modified Theme"
-msgstr ""
+msgstr "保存已修改的主题"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:503(para)
 msgid ""
@@ -1015,35 +1077,40 @@ msgid ""
 "role=\"strong\">Description </emphasis> box. Click <emphasis "
 "role=\"strong\">Save</emphasis>."
 msgstr ""
+"为主题提供一个<emphasis role=\"strong\">名称</emphasis>，如果你愿意的话，还可在<emphasis "
+"role=\"strong\">描述</emphasis>框中写下描述。点击<emphasis role=\"strong\">保存</emphasis>"
+"。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:509(title)
 msgid "Specifying Theme Name and Description"
-msgstr ""
+msgstr "指定主题名称和描述"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:521(para)
 msgid ""
 "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
 "box, click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
+"在<emphasis role=\"strong\">外观首选项</emphasis>对话框中，点击<emphasis role=\"strong\">"
+"关闭</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:527(para)
 msgid ""
 "If you open a menu or window, you can see the changes in their appearance."
-msgstr ""
+msgstr "如果您打开菜单或窗口，你将会看到其外观的变化。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:531(title)
 msgid "Viewing an Application in a Modified Theme"
-msgstr ""
+msgstr "查看主题修改后的应用程序"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:542(title)
 msgid "Installing New Themes"
-msgstr ""
+msgstr "安装新主题"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:544(para)
 msgid ""
 "You can also download other Ubuntu-compatible themes from Ubuntu's "
 "recommended source. To install these themes:"
-msgstr ""
+msgstr "您还可以从 Ubuntu 推荐的来源下载其它与 Ubuntu 兼容的主题。安装这些主题的步骤："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:548(para)
 msgid ""
@@ -1051,16 +1118,18 @@ msgid ""
 "url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>) and click "
 "<emphasis role=\"strong\">DesktopThemes</emphasis>."
 msgstr ""
+"打开网站(<ulink url=\"http://art.gnome.org/\">http://art.gnome.org</ulink>)然后点击<"
+"emphasis role=\"strong\">桌面主题</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:553(emphasis)
 msgid "Opening Theme Source"
-msgstr ""
+msgstr "打开主题来源"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:566(para)
 msgid ""
 "Download a theme of your choice. Select any theme and follow the "
 "instructions as they appear."
-msgstr ""
+msgstr "下载您中意的主题。选择其一并按照其所给的步骤进行。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:571(para)
 msgid ""
@@ -1069,6 +1138,9 @@ msgid ""
 "role=\"strong\">Appearance</emphasis>. The <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">外观</emphasis>，弹出<emphasis "
+"role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:579(para)
 msgid ""
@@ -1076,20 +1148,22 @@ msgid ""
 "role=\"strong\">Install</emphasis>. The <emphasis role=\"strong\">Select "
 "Theme</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">主题</emphasis>标签中，点击<emphasis role=\"strong\">安装<"
+"/emphasis>，弹出<emphasis role=\"strong\">选择主题</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:584(emphasis)
 msgid "Installing a New Theme"
-msgstr ""
+msgstr "安装新主题"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:597(para)
 msgid ""
 "Select the downloaded theme and click <emphasis "
 "role=\"strong\">Open</emphasis>."
-msgstr ""
+msgstr "选择下载的主题并点击<emphasis role=\"strong\">打开</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:601(emphasis)
 msgid "Selecting the Downloaded Theme"
-msgstr ""
+msgstr "选择已下载的主题"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:614(para)
 msgid ""
@@ -1097,40 +1171,44 @@ msgid ""
 "role=\"strong\">Apply New Theme</emphasis> to apply the new theme. The "
 "screen will reflect the new theme immediately."
 msgstr ""
+"您可应用新的主题或保持当前主题。点击<emphasis role=\"strong\">应用新主题</emphasis>"
+"以应用新的主题。屏幕上的主题将立即发生变化。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:619(emphasis)
 msgid "Applying New Theme"
-msgstr ""
+msgstr "应用新主题"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:632(para)
 msgid ""
 "Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box."
 msgstr ""
+"点击<emphasis role=\"strong\">外观首选项</emphasis>对话框中的<emphasis role=\"strong\">"
+"关闭</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:636(para)
 msgid "If you open any menu or window, it will reflect the selected theme."
-msgstr ""
+msgstr "如果您打开了菜单或窗口，它将随所选主题改变。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:640(emphasis)
 msgid "Chess in Blue Heart Theme"
-msgstr ""
+msgstr "Blue Heart 主题风格"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:655(title)
 msgid "Customising a Screensaver"
-msgstr ""
+msgstr "自定义屏幕保护"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:657(para)
 msgid ""
 "A screensaver displays (often moving) images on the screen when your "
 "computer is switched on but not in use. To go back to the workspace, you can "
 "move the mouse or press any key on the keyboard."
-msgstr ""
+msgstr "屏幕保护会在您计算机开启却不用时在屏幕上显示图像(经常是动态的)。要返回工作区，您可以移动下鼠标或按下键盘上的任意键。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:663(title)
 msgid ""
 "You can choose a screensaver and customise it. To customise a screensaver:"
-msgstr ""
+msgstr "您可以选择一个屏幕保护来自定义。自定义屏幕保护步骤："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:667(para)
 msgid ""
@@ -1139,20 +1217,23 @@ msgid ""
 "role=\"strong\">Screensaver</emphasis>. The <emphasis "
 "role=\"strong\">Screensaver Preferences </emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">屏幕保护</emphasis>，弹出<emphasis "
+"role=\"strong\">屏幕保护首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:674(title)
 msgid "Launching Screensaver Preferences Dialogue Box"
-msgstr ""
+msgstr "启动屏幕保护首选项对话框"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:686(para)
 msgid ""
 "Select a screensaver from the list. You can preview the screensaver in the "
 "right pane."
-msgstr ""
+msgstr "从列表中选择一个屏幕保护。您可在右侧面板中预览该屏幕保护。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:690(title)
 msgid "Customising Screensaver Settings"
-msgstr ""
+msgstr "自定义屏幕保护设置"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:702(para)
 msgid ""
@@ -1162,6 +1243,8 @@ msgid ""
 "select how long the computer needs to be idle before the screensaver "
 "activates."
 msgstr ""
+"<emphasis role=\"strong\">于此时间后视计算机为空闲</emphasis>滑块指定计算机未使用时启动屏幕保护的时机。默认时间设为 "
+"10 分钟。您可使用此滑块选择屏幕保护激活前计算机需要处于空闲状态的时间长度。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:710(para)
 msgid ""
@@ -1171,30 +1254,32 @@ msgid ""
 "<emphasis role=\"strong\">Lock screen when screensaver is active</emphasis> "
 "check box to lock the screen when the screensaver starts."
 msgstr ""
+"为了您不在时防止您的计算机被恶搞，您可以在屏幕保护激活时自动锁定您的屏幕。锁定后需要用户输入他的密码后才能重新返回桌面。选择<emphasis "
+"role=\"strong\">屏幕保护程序激活时锁定屏幕</emphasis>复选框以使屏幕保护启动时锁定屏幕。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:719(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis>."
-msgstr ""
+msgstr "点击<emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:723(para)
 msgid ""
 "The selected screensaver displays when the computer is idle for the "
 "specified period."
-msgstr ""
+msgstr "所选的屏幕保护将在计算机处于空闲状态一段特定时间后显示。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:728(title)
 msgid "Customising the Screen Resolution"
-msgstr ""
+msgstr "自定义屏幕分辨率"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:730(para)
 msgid ""
 "The screen resolution determines how large or small an item looks on the "
 "screen."
-msgstr ""
+msgstr "屏幕分辨率决定着屏幕各项目看上去的大小。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:734(title)
 msgid "To modify the desktop screen resolution:"
-msgstr ""
+msgstr "修改桌面屏幕分辨率步骤："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:737(para)
 msgid ""
@@ -1203,10 +1288,13 @@ msgid ""
 "role=\"strong\">Screen Resolution</emphasis>. The <emphasis "
 "role=\"strong\">Screen Resolution Preferences</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">首选项<"
+"/emphasis>，然后点击<emphasis role=\"strong\">屏幕分辨率</emphasis>，弹出<emphasis "
+"role=\"strong\">屏幕分辨率首选项</emphasis>对话框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:744(title)
 msgid "Launching Screen Resolution Preferences Dialogue Box"
-msgstr ""
+msgstr "启动屏幕分辨率首选项对话框"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:757(para)
 msgid ""
@@ -1214,10 +1302,12 @@ msgid ""
 "You can change the resolution in the <emphasis "
 "role=\"strong\">Resolution</emphasis> box."
 msgstr ""
+"默认分辨率为<emphasis role=\"strong\">1280x1024</emphasis>。您可在<emphasis "
+"role=\"strong\">分辨率</emphasis>框中更改分辨率。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:762(title)
 msgid "Customising Screen Resolution"
-msgstr ""
+msgstr "自定义屏幕分辨率"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:774(para)
 msgid ""
@@ -1227,18 +1317,21 @@ msgid ""
 "original settings. Click <emphasis role=\"strong\">Keep "
 "resolution</emphasis> to apply new changes."
 msgstr ""
+"点击<emphasis role=\"strong\">应用</emphasis>。此时将弹出<emphasis role=\"strong\">"
+"保持分辨率</emphasis>对话框，提示您确认设置或使用先前的分辨率和恢复到初始设置。点击<emphasis role=\"strong\">"
+"保持分辨率</emphasis>以应用新的更改。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:781(title)
 msgid "Resolution Confirmation Dialogue Box"
-msgstr ""
+msgstr "分辨率确认对话框"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:793(para)
 msgid "The screen resolution will change."
-msgstr ""
+msgstr "屏幕分辨率将更改。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:798(title)
 msgid "3D Effects"
-msgstr ""
+msgstr "3D 特效"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:800(para)
 msgid ""
@@ -2359,8 +2452,7 @@ msgid ""
 msgstr ""
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:2058(para)
-msgid ""
-"Select the check box next to <emphasis role=\"strong\">xpdf</emphasis>."
+msgid "Select the check box next to <emphasis role=\"strong\">xpdf</emphasis>."
 msgstr ""
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:2063(para)
@@ -2433,3 +2525,5 @@ msgstr ""
 #: chapter6/Customising_the_Desktop_and_Applications.xml:0(None)
 msgid "translator-credits"
 msgstr ""
+
+
