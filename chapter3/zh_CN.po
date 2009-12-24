@@ -3,6 +3,10 @@
 # Copyright (C) 2009 Canonical Ltd and translation contributors:
 #     Aron Xu <happyaron.xu@gmail.com>, 2009.
 #
+# Changes:
+#    1) Network Manager section need to be rewrite.
+#    2) Pidgin had been changed to Empathy.
+#  
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
@@ -819,7 +823,7 @@ msgstr ""
 msgid ""
 "Type the IP address of your computer in the <emphasis role=\"strong\">IP "
 "address</emphasis> box."
-msgstr "在<emphasis role=\"strong\">IP地址</emphasis>框中输入您计算机的IP地址。"
+msgstr "在 <emphasis role=\"strong\">IP 地址</emphasis> 框中输入您计算机的 IP 地址。"
 
 #: chapter3/Using_Internet.xml:194(para)
 msgid ""
@@ -924,9 +928,9 @@ msgid ""
 "url=\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported\">htt"
 "ps://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>."
 msgstr ""
-"要查看能在 Ubuntu 中正常工作网上的完整列表，请查阅：<ulink "
+"要查看能在 Ubuntu 中正常工作的无线网卡的完整列表，请查阅：<ulink "
 "url=\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported\">htt"
-"ps://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>。"
+"ps://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>"
 
 #: chapter3/Using_Internet.xml:302(para)
 msgid ""
@@ -1028,7 +1032,7 @@ msgstr ""
 msgid ""
 "Specify your ISP's information and your account information, which you can "
 "obtain form your ISP."
-msgstr "指定您 ISP 的信息和您的帐号信息，它们可以从您的 ISP 处获得。"
+msgstr "指定您 ISP 的信息和您的帐户信息，它们可以从您的 ISP 处获得。"
 
 #: chapter3/Using_Internet.xml:395(para)
 msgid ""
@@ -1112,7 +1116,7 @@ msgstr ""
 msgid ""
 "Click <emphasis role=\"strong\">OK</emphasis> to complete the dial-up "
 "configuration."
-msgstr "点击 <emphasis role=\"strong\">确定</emphasis> 来完成拨号设置。"
+msgstr "点击 <emphasis role=\"strong\">确定</emphasis> 来完成拨号配置。"
 
 #: chapter3/Using_Internet.xml:451(title)
 msgid "pppo Properties"
@@ -1162,24 +1166,24 @@ msgid ""
 "role=\"strong\">Internet</emphasis> and click <emphasis "
 "role=\"strong\">Firefox Web Browser</emphasis>. <placeholder-1/>"
 msgstr ""
-"Mozilla Firefox 是Ubuntu 中默认的网络浏览器。它是开源的，由 Mozilla Corporation 和许多外部贡献者开发并与 "
-"Ubuntu 完全兼容。要打开一个 Firefox 网络浏览器，在 <emphasis role=\"strong\">应用程序</emphasis> "
-"菜单中，指向 <emphasis role=\"strong\">Internet</emphasis> 然后点击 <emphasis "
+"Mozilla Firefox 是 Ubuntu 默认的网络浏览器。它是开源的，由 Mozilla 公司和许多社区贡献者共同开发并与 "
+"Ubuntu 完全兼容。要打开 Firefox 网络浏览器，请在 <emphasis role=\"strong\">应用程序</emphasis> "
+"菜单中，使用鼠标指向 <emphasis role=\"strong\">Internet</emphasis> 然后点击 <emphasis "
 "role=\"strong\">Firefox Web Browser</emphasis>。<placeholder-1/>"
 
 #: chapter3/Using_Internet.xml:502(para)
 msgid ""
 "Firefox includes two powerful features that make your online experience more "
 "productive - an integrated search system and bookmarking."
-msgstr "Firefox 包含两个强大的特性来提高您的在线体验效率 - 集成的搜索系统和书签功能。"
+msgstr "Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
 
 #: chapter3/Using_Internet.xml:509(para)
 msgid "Ask students to open this browser and try performing a search."
-msgstr "让学员们打开这个浏览器并试着执行一下搜索。"
+msgstr "让学员们打开浏览器并试着进行一次搜索。"
 
 #: chapter3/Using_Internet.xml:514(title)
 msgid "Integrated Search"
-msgstr "集成的搜索"
+msgstr "集成搜索"
 
 #: chapter3/Using_Internet.xml:523(emphasis)
 msgid "Available Search Engines"
@@ -1196,8 +1200,7 @@ msgid ""
 msgstr ""
 "这个特性允许您搜索并找到任何信息。搜索框预设了 Google、Yahoo!、Amazon、eBay、Answers.com 和 Creative "
 "Commons "
-"提供的搜索引擎。您可以在搜索框中输入一个搜索项并很快得到所选择搜索引擎提供的答案。您可以在任何时候从搜索框菜单里选择一个新的搜索引擎和添加自己喜欢的网站提"
-"供的搜索引擎。<placeholder-1/>"
+"提供的搜索引擎。您可以在搜索框中输入一个搜索项并很快得到所选择搜索引擎提供的结果。您可以在任何时候从搜索框菜单里选择一个新的搜索引擎或添加自己喜欢的网站所提供的搜索引擎。<placeholder-1/>"
 
 #: chapter3/Using_Internet.xml:536(title)
 msgid "Search Suggestions"
@@ -1209,8 +1212,8 @@ msgid ""
 "Google, Yahoo and Answers.com in Firefox, suggest search terms. Begin typing "
 "into the Search bar and a list of suggestions will appear."
 msgstr ""
-"为了使搜索相关的操作更轻松，一些搜索引擎如 Firefox 中的 Google、Yahoo 和 Answers.com "
-"提供搜索词建议。当在搜索条中开始输入时，一个建议列表会显示出来。"
+"为了使搜索相关的操作更轻松，一些搜索引擎，如 Firefox 中的 Google、Yahoo 和 Answers.com，"
+"提供搜索建议。当您在搜索条中进行输入时，一个建议列表会显示出来。"
 
 #: chapter3/Using_Internet.xml:544(para)
 msgid ""
@@ -1219,15 +1222,15 @@ msgid ""
 "displayed. So instead of typing the complete term, you can select the "
 "required term from the list. This makes the search easy and quick."
 msgstr ""
-"例如，如果您在搜索框中输入 <emphasis "
-"role=\"strong\">king</emphasis>，一个自动完成您搜索关键词的建议列表会出现。所以您可以从列表中选择需要的检索项，而不用完整输"
-"入检索词。这个功能使搜索变得简单和快捷。"
+"例如，如果您在搜索框中输入 <emphasis role=\"strong\">king</emphasis>，"
+"一个自动完成您搜索关键词的建议列表会出现。您可以从列表中选择需要的检索项，而不必完整输"
+"入检索词。这个功能使搜索变得简单快捷。"
 
 #: chapter3/Using_Internet.xml:549(para)
 msgid ""
 "The following graphic shows a list of suggestions, when you start typing in "
 "the Search bar:"
-msgstr "下面的图显示了当你在搜索框中开始输入时的一个建议列表："
+msgstr "下面的图显示了当您在搜索框中开始输入时的一个建议列表："
 
 #: chapter3/Using_Internet.xml:553(title)
 msgid "List of Suggestions"
@@ -1248,9 +1251,10 @@ msgid ""
 "latest headlines from your favourite sites and click to go directly to "
 "chapters of interest."
 msgstr ""
-"如果您在浏览互联网时碰巧发现了一个感兴趣的网站并希望把它保存下来以便将来访问，不用试着去记它的网址，建一个书签就可以了。下一次在线时，只要点击书签链接就可"
-"以访问那个网页。您可以在书签工具栏或菜单里查看网络源(feed)，如新闻和博客头条。网页源(feed）是一个 XML "
-"网页，其中包含了一个到其他网页链接的列表。您可以快速查看最喜欢的网站里的最新头条并点击来直接访问感兴趣的那部分。"
+"如果您在浏览互联网时碰巧发现了一个感兴趣的网站并希望把它保存下来以便将来访问，不用试着去记它的网址，建一个书"
+"签就可以了。下次只要点击书签链接就可以访问那个网页。您可以在书签工具栏或菜单里查看网络 Feed，如新闻和博客头"
+"条。网络 Feed 是一个 XML 页，其中包含了一个到其他网页的链接列表。您可以快速查看最喜欢的网站里的最新头条并"
+"通过点击直接访问您感兴趣的部分。"
 
 #: chapter3/Using_Internet.xml:579(para)
 msgid ""
@@ -1268,7 +1272,7 @@ msgid ""
 "role=\"strong\">Bookmarks</emphasis> menu, click on <emphasis "
 "role=\"strong\">Bookmark this page</emphasis>."
 msgstr ""
-"打开 Firefox 浏览器。在 <emphasis role=\"strong\">书签</emphasis> 菜单上，点击 <emphasis "
+"打开 Firefox 浏览器。在 <emphasis role=\"strong\">书签</emphasis> 菜单上点击 <emphasis "
 "role=\"strong\">将此页加为书签</emphasis>。"
 
 #: chapter3/Using_Internet.xml:591(para)
@@ -1301,8 +1305,7 @@ msgid ""
 "get the latest headlines as soon as it is published without having to visit "
 "the website. These news feeds are known as RSS or Really Simple Syndication."
 msgstr ""
-"您可以在源中查看一个网站新添加的内容。最新的头条一发布您就能获得它们，不用访问网站。这些新闻源称为 RSS 或Really Simple "
-"Syndication(简单新闻聚合)。"
+"您可以在源中查看一个网站新添加的内容。最新头条一发布您就能获得它们而不需访问网站，这些新闻源称为 RSS。"
 
 #: chapter3/Using_Internet.xml:608(title)
 msgid "Liferea Newsreader"
@@ -1310,13 +1313,13 @@ msgstr "Liferea 新闻阅读器"
 
 #: chapter3/Using_Internet.xml:613(para)
 msgid "While teaching, demonstrate how to access Liferea."
-msgstr "教学的时候，示范如何访问 Liferea。"
+msgstr "教学的时候请示范如何访问 Liferea。"
 
 #: chapter3/Using_Internet.xml:616(para)
 msgid ""
 "Liferea is an online RSS feed reader. It is a fast, easy-to-use and easy-to-"
 "install news accumulator for GTK/GNOME."
-msgstr "Liferea 是一个在线 RSS 源阅读器。它是 GTK/GNOME 下的一个快速、易用和易安装的新闻聚合软件。"
+msgstr "Liferea 是一个在线 RSS 阅读器。它是 GTK/GNOME 下的一个快速、易用和易安装的新闻聚合软件。"
 
 #: chapter3/Using_Internet.xml:622(para)
 msgid ""
@@ -1324,18 +1327,18 @@ msgid ""
 "following the procedure described in <emphasis role=\"strong\">Using "
 "Alternative E-Mail Client</emphasis> section."
 msgstr ""
-"您可以按照接下来 <emphasis role=\"strong\">使用其他可选的电子邮件客户端</emphasis> 小节里的步骤在 "
-"Ubuntu上使用新立得软件包管理器安装 Liferea。"
+"您可以按照接下来的 <emphasis role=\"strong\">使用其他可选的电子邮件客户端</emphasis> 一节里的步骤在 "
+"Ubuntu 上使用新立得软件包管理器安装 Liferea。"
 
 #: chapter3/Using_Internet.xml:628(para)
 msgid ""
 "The Web sites that offer RSS feeds display an RSS feed symbol next to its "
 "URL."
-msgstr "提供 RSS 源的网站的 URL 地址旁会显示一个RSS 源标志。"
+msgstr "提供 RSS 的网站的 URL 地址旁会显示一个 RSS 标志。"
 
 #: chapter3/Using_Internet.xml:632(title)
 msgid "Identifying RSS Feed Providing Web Sites"
-msgstr "确定提供 RSS 的网站"
+msgstr "辨别提供 RSS 的网站"
 
 #: chapter3/Using_Internet.xml:642(emphasis)
 msgid "Accessing Liferea"
@@ -1346,7 +1349,7 @@ msgid ""
 "You have to search the Web site that offers RSS feeds to access Liferea. "
 "Look through the complete list of newsgroups on your server to search for "
 "the group that interests you."
-msgstr "您需要搜索提供 RSS 源的网站来访问 Liferea。在您的服务器上浏览完整的新闻组列表来查找感兴趣的组。"
+msgstr "您需要搜索提供 RSS 的网站来访问 Liferea。在您的服务器上浏览完整的新闻组列表来查找感兴趣的组。"
 
 #: chapter3/Using_Internet.xml:653(title)
 msgid "To access Liferea:"
@@ -1354,7 +1357,7 @@ msgstr "要访问 Liferea："
 
 #: chapter3/Using_Internet.xml:656(para)
 msgid "Open the Web page that offers RSS feeds."
-msgstr "打开提供 RSS 源的网页。"
+msgstr "打开提供 RSS 的网页。"
 
 #: chapter3/Using_Internet.xml:659(title)
 msgid "Opening RSS Feed Web Page"
@@ -1364,7 +1367,7 @@ msgstr "打开 RSS 源网页"
 msgid ""
 "On this Web page, search for the link that offers RSS feed. Click the link "
 "and save the URL of that link. This URL will be the feed."
-msgstr "在这个网页上，搜索提供 RSS 源的链接，点击链接并保存这个链接的网址。这个网址就是源。"
+msgstr "在这个网页上，搜索提供 RSS 的链接，点击链接并保存这个链接的网址。这个网址就是 Feed。"
 
 #: chapter3/Using_Internet.xml:676(title)
 msgid "Searching the Link"
@@ -1397,7 +1400,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:713(title)
 msgid "Subscribing to RSS Feeds"
-msgstr "订阅 RSS 源"
+msgstr "订阅 RSS"
 
 #: chapter3/Using_Internet.xml:725(para)
 msgid ""
@@ -1412,15 +1415,15 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:731(title)
 msgid "Entering Feed Source"
-msgstr "输入源地址"
+msgstr "输入 Feed 源地址"
 
 #: chapter3/Using_Internet.xml:741(para)
 msgid "The following graphic shows the new feed in Liferea."
-msgstr "下面的图显示了 Liferea 里的新源。"
+msgstr "下面的图显示了 Liferea 里的新 Feed。"
 
 #: chapter3/Using_Internet.xml:744(title)
 msgid "Viewing New Feeds"
-msgstr "查看新的源"
+msgstr "查看新 Feed"
 
 #: chapter3/Using_Internet.xml:757(title)
 msgid "The key features of Liferea are as follows:"
@@ -1434,7 +1437,7 @@ msgstr "Liferea Feed 阅读器默认带有多个 RSS 订阅。"
 msgid ""
 "If you do not want a chapter to be deleted after some time, you can flag it "
 "and tag it as an important item."
-msgstr "如果您不想某一篇在一段时间之后被删除，可以将它标记为一个重要项。"
+msgstr "如果您不想让某篇在一段时间之后被删除，可以将它标记为一个重要项。"
 
 #: chapter3/Using_Internet.xml:770(para)
 msgid ""
@@ -1446,12 +1449,14 @@ msgstr "您可以使用搜索功能在下载的项目中搜索来快速访问需
 msgid ""
 "You can also use an online search engine to search for additional news."
 msgstr ""
+"您还可以使用在线搜索引擎以搜索附加新闻。"
 
 #: chapter3/Using_Internet.xml:783(para)
 msgid ""
 "The change in feeds properties is required if it needs HTTP authentication "
 "or other feed specific options."
 msgstr ""
+"如果需要经过 HTTP 认证或设置其他选项，则需要更改 Feed 属性。"
 
 #: chapter3/Using_Internet.xml:790(title)
 msgid "Sending and Receiving E-Mail Messages"
@@ -1491,6 +1496,9 @@ msgid ""
 "<emphasis role=\"strong\">Internet</emphasis> and click <emphasis "
 "role=\"strong\">Evolution Mail</emphasis>."
 msgstr ""
+"点击 <emphasis role=\"strong\">应用程序</emphasis> 菜单，然后将鼠标指向 "
+"<emphasis role=\"strong\">Internet</emphasis> 再点击 <emphasis "
+"role=\"strong\">Evolution 电子邮件</emphasis>。"
 
 #: chapter3/Using_Internet.xml:816(title)
 msgid "Launching Evolution Mail"
@@ -1512,10 +1520,13 @@ msgid ""
 "connect to your e-mail accounts and import files from other applications. "
 "Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
+"<emphasis role=\"strong\">Evolution 设置助手</emphasis> 将协助您在几步之内完成对 "
+"Evolution 的配置使其连接到您的电子邮件帐户并从其他应用程序导入文件。"
+"点击 <emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/Using_Internet.xml:844(title)
 msgid "Configuring New E-mail Account"
-msgstr ""
+msgstr "配置新的电子邮件帐户"
 
 #: chapter3/Using_Internet.xml:856(para)
 msgid ""
@@ -1525,10 +1536,13 @@ msgid ""
 "backup files such as, e-mails, memos, address book, personal files and many "
 "more from your older version of Evolution."
 msgstr ""
+"Evolution 提供了一个集成的备份系统。如果您将 Evolution 数据从一个系统迁移到另一个，请使用"
+"这个功能。在 <emphasis role=\"strong\">从备份恢复</emphasis> 页，您可以恢复电子邮件、"
+"备忘录、地址簿、个人文件和各种老版本 Evolution 所支持的数据。"
 
 #: chapter3/Using_Internet.xml:864(title)
 msgid "Restoring Evolution"
-msgstr ""
+msgstr "从备份恢复"
 
 #: chapter3/Using_Internet.xml:876(para)
 msgid ""
@@ -1539,10 +1553,14 @@ msgid ""
 "configured with this information. Click <emphasis "
 "role=\"strong\">Forward</emphasis>."
 msgstr ""
+"在 <emphasis role=\"strong\">认证</emphasis> 页上的 "
+"<emphasis role=\"strong\">全名</emphasis> 栏输入您的全名，在"
+"<emphasis role=\"strong\">E-mail 地址</emphasis> 栏输入您的邮件服务商提供的电子邮件地址。"
+"完成后点击 <emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/Using_Internet.xml:885(title)
 msgid "Setting up Account Identity"
-msgstr ""
+msgstr "设置帐户认证"
 
 #: chapter3/Using_Internet.xml:898(para)
 msgid ""
@@ -1566,13 +1584,14 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:919(title)
 msgid "Selecting Server Type for Receiving E-Mail"
-msgstr ""
+msgstr "为接收邮件选择服务器类型"
 
 #: chapter3/Using_Internet.xml:932(para)
 msgid ""
 "If you do not know the server information, you should contact your system "
 "administrator or ISP."
 msgstr ""
+"如果您不知道服务器的信息，您应当联系系统管理员或者服务提供商。"
 
 #: chapter3/Using_Internet.xml:938(para)
 msgid ""
@@ -1581,6 +1600,9 @@ msgid ""
 "from POP servers. The Receiving E-mail page will further prompt you for the "
 "configuration information."
 msgstr ""
+"在 <emphasis role=\"strong\">服务器类型</emphasis> 中选择 <emphasis "
+"role=\"strong\">POP</emphasis> 以连接到服务器并下载全部邮件。 "
+"稍后接收邮件页会提示您输入配置信息。"
 
 #: chapter3/Using_Internet.xml:947(para)
 msgid ""
@@ -1588,6 +1610,9 @@ msgid ""
 "url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.co"
 "m/community/EmailClients</ulink>."
 msgstr ""
+"关于服务器类型的更多信息，参见：<ulink "
+"url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.co"
+"m/community/EmailClients</ulink>"
 
 #: chapter3/Using_Internet.xml:954(para)
 msgid ""
@@ -1621,20 +1646,22 @@ msgid ""
 "Contact your system administrator or ISP to know about the authentication "
 "type supported."
 msgstr ""
+"联系您的系统管理员或服务商以了解支持的认证类型。"
 
 #: chapter3/Using_Internet.xml:989(para) chapter3/Using_Internet.xml:1032(para)
 msgid "Click <emphasis role=\"strong\">Forward</emphasis>."
-msgstr ""
+msgstr "点击 <emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/Using_Internet.xml:994(title)
 msgid "Providing POP Server Information"
-msgstr ""
+msgstr "提供 POP 服务器信息"
 
 #: chapter3/Using_Internet.xml:1006(para)
 msgid ""
 "On the <emphasis role=\"strong\">Receiving Options</emphasis> page , select "
 "the following options, if required:"
 msgstr ""
+"如果需要请在 <emphasis role=\"strong\">接收选项</emphasis> 页选择以下选项："
 
 #: chapter3/Using_Internet.xml:1011(para)
 msgid ""
@@ -1657,10 +1684,12 @@ msgid ""
 "Select <emphasis role=\"strong\">Disable support for all POP3 "
 "extensions</emphasis> check box, if you want to disable POP3."
 msgstr ""
+"如果您要禁用 POP3，请选中 <emphasis role=\"strong\">禁用所有 POP3 "
+"扩展支持</emphasis>。"
 
 #: chapter3/Using_Internet.xml:1037(title)
 msgid "Specifying Mail Checking and Storage Options"
-msgstr ""
+msgstr "指定邮件检查和储存选项"
 
 #: chapter3/Using_Internet.xml:1049(para)
 msgid ""
@@ -1679,11 +1708,11 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1065(para)
 msgid "Specify the outbound server configuration:"
-msgstr ""
+msgstr "指定出站服务器配置："
 
 #: chapter3/Using_Internet.xml:1068(title)
 msgid "Providing SMTP Server Information"
-msgstr ""
+msgstr "提供 SMTP 服务器信息"
 
 #: chapter3/Using_Internet.xml:1080(para)
 msgid ""
@@ -1727,7 +1756,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1123(title)
 msgid "Providing Account Information"
-msgstr ""
+msgstr "提供帐户信息"
 
 #: chapter3/Using_Internet.xml:1135(para)
 msgid ""
@@ -1736,20 +1765,25 @@ msgid ""
 "role=\"strong\">Selection</emphasis> list. Click <emphasis "
 "role=\"strong\">Forward</emphasis>."
 msgstr ""
+"在 <emphasis role=\"strong\">时区</emphasis> 页选择您所在的时区，既可以在地图上选择"
+"也可以在 <emphasis role=\"strong\">选择</emphasis> 列表里设置。完成后点击 <emphasis "
+"role=\"strong\">前进</emphasis>。"
 
 #: chapter3/Using_Internet.xml:1141(title)
 msgid "Specifying Timezone"
-msgstr ""
+msgstr "指定时区"
 
 #: chapter3/Using_Internet.xml:1153(para)
 msgid ""
 "Configuration is done. Click <emphasis role=\"strong\">Apply</emphasis> to "
 "save your settings. The Evolution window will be displayed."
 msgstr ""
+"配置到此结束，点击 <emphasis role=\"strong\">应用</emphasis> 保存您的设置。"
+"Evolution 窗口将会出现。"
 
 #: chapter3/Using_Internet.xml:1158(title)
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #: chapter3/Using_Internet.xml:1173(para)
 msgid ""
@@ -1758,10 +1792,13 @@ msgid ""
 "url=\"https://help.ubuntu.com/8.04/internet/C/email.html\">https://help.ubunt"
 "u.com/8.04/internet/C/email.html</ulink>."
 msgstr ""
+"更多关于如何使用 Evolution 电子邮件客户端的信息，参见："
+"<ulink url=\"https://help.ubuntu.com/9.10/internet/C/email.html\">"
+"https://help.ubuntu.com/9.10/internet/C/email.html</ulink>"
 
 #: chapter3/Using_Internet.xml:1180(title)
 msgid "Using an Alternative E-Mail Client"
-msgstr ""
+msgstr "使用其他电子邮件客户端"
 
 #: chapter3/Using_Internet.xml:1182(para)
 msgid ""
@@ -1772,6 +1809,10 @@ msgid ""
 "developed by Mozilla Foundation. It is a free, cross-platform e-mail and "
 "news application."
 msgstr ""
+"除 Evolution 外，您还有很多可选的电子邮件客户端，例如 Mozilla Thunderbird，Balsa 和 Pine。"
+"如果您曾经使用过 Mozilla 套装，那么您将觉得 Thunderbird 非常熟悉。您可以尝试他们从中选择一个您"
+"所喜欢的。Mozilla Thunderbird 由 Mozilla 基金会开发，它是一个自由的、跨平台的电子邮件和新闻组"
+"应用程序。"
 
 #: chapter3/Using_Internet.xml:1192(para)
 msgid ""
@@ -1785,10 +1826,11 @@ msgid ""
 "The Thunderbird e-mail application is available in the Universe repository "
 "and can be installed on your computer from the Synaptic Package Manager."
 msgstr ""
+"Thunderbird 处在 Universe 仓库中，您可以使用新立得软件包管理器进行安装。"
 
 #: chapter3/Using_Internet.xml:1203(title)
 msgid "To install Thunderbird on Ubuntu, perform the following steps:"
-msgstr ""
+msgstr "要在 Ubuntu 上安装 Thunderbird，请按照以下步骤操作："
 
 #: chapter3/Using_Internet.xml:1207(para)
 msgid ""
@@ -1800,7 +1842,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1214(title)
 msgid "Launching Synaptic Package Manager"
-msgstr ""
+msgstr "启动新立得软件包管理器"
 
 #: chapter3/Using_Internet.xml:1226(para)
 msgid ""
@@ -1835,7 +1877,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1257(title)
 msgid "Searching Thunderbird"
-msgstr ""
+msgstr "搜索 Thunderbird"
 
 #: chapter3/Using_Internet.xml:1270(para)
 msgid ""
@@ -1852,7 +1894,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1281(title)
 msgid "Marking Thunderbird for Installation"
-msgstr ""
+msgstr "标记 Thunderbird 以安装"
 
 #: chapter3/Using_Internet.xml:1293(para)
 msgid ""
@@ -1867,10 +1909,11 @@ msgid ""
 "To confirm that you want to make the marked changes, click <emphasis "
 "role=\"strong\">Apply.</emphasis>"
 msgstr ""
+"要确认您要执行已标记的变更，请点击 <emphasis role=\"strong\">应用</emphasis>。"
 
 #: chapter3/Using_Internet.xml:1304(title)
 msgid "Confirming Changes"
-msgstr ""
+msgstr "确认变更"
 
 #: chapter3/Using_Internet.xml:1316(para)
 msgid ""
@@ -1890,33 +1933,34 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1327(para)
 msgid "This displays the Thunderbird window."
-msgstr ""
+msgstr "这样 Thunderbird 窗口便会显示出来。"
 
 #: chapter3/Using_Internet.xml:1330(title)
 msgid "Launching Mozilla Thunderbird Mail/News"
-msgstr ""
+msgstr "启动 Mozilla Thunderbird"
 
 #: chapter3/Using_Internet.xml:1341(title)
 msgid "Thunderbird Window"
-msgstr ""
+msgstr "Thunderbird 窗口"
 
 #: chapter3/Using_Internet.xml:1354(title)
 msgid "Features of Thunderbird"
-msgstr ""
+msgstr "Thunderbird 的特性"
 
 #: chapter3/Using_Internet.xml:1356(para)
 msgid ""
 "Thunderbird features many enhancements to help you better manage your inbox, "
 "send emails and organise your correspondence."
 msgstr ""
+"Thunderbird 特性能帮助您更好地管理收件箱、发送和组织信件。"
 
 #: chapter3/Using_Internet.xml:1360(para)
 msgid "Some of its key features are:"
-msgstr ""
+msgstr "关键特性："
 
 #: chapter3/Using_Internet.xml:1365(title)
 msgid "Stop Junk Mail"
-msgstr ""
+msgstr "阻止垃圾邮件"
 
 #: chapter3/Using_Internet.xml:1367(para)
 msgid ""
@@ -1929,11 +1973,11 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1375(title)
 msgid "Stopping Junk Mail"
-msgstr ""
+msgstr "阻止垃圾邮件"
 
 #: chapter3/Using_Internet.xml:1386(title)
 msgid "To activate the junk mail filters in Thunderbird:"
-msgstr ""
+msgstr "要在 Thunderbird 中激活垃圾邮件过滤器："
 
 #: chapter3/Using_Internet.xml:1389(para)
 msgid ""
@@ -1941,6 +1985,9 @@ msgid ""
 "role=\"strong\">Junk Mail Controls</emphasis>. The <emphasis "
 "role=\"strong\">Junk Mail Controls</emphasis> window will be displayed."
 msgstr ""
+"在 <emphasis role=\"strong\">工具</emphasis> 菜单中点击 <emphasis "
+"role=\"strong\">对文件夹运行垃圾邮件控制</emphasis>，<emphasis "
+"role=\"strong\">垃圾邮件控制</emphasis> 窗口就会出现。"
 
 #: chapter3/Using_Internet.xml:1396(para)
 msgid ""
@@ -1951,35 +1998,37 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1406(title)
 msgid "Customise your mail"
-msgstr ""
+msgstr "定制外观"
 
 #: chapter3/Using_Internet.xml:1408(para)
 msgid ""
 "You have three column views to access you e-mail messages: Classic, Wide and "
 "Vertical view."
 msgstr ""
+"您有三种可选的视图用以查看您的电子邮件：经典视图、宽视图和直视图。"
 
 #: chapter3/Using_Internet.xml:1413(title)
 msgid "Customising the E-mail View"
-msgstr ""
+msgstr "定制电子邮件视图"
 
 #: chapter3/Using_Internet.xml:1426(title)
 msgid "Built-in Spell Checker"
-msgstr ""
+msgstr "内建拼写检查器"
 
 #: chapter3/Using_Internet.xml:1428(para)
 msgid ""
 "To check for correct spelling, click <emphasis "
 "role=\"strong\">Spell</emphasis> on the toolbar."
 msgstr ""
+"要检查拼写，点击工具栏上的 <emphasis role=\"strong\">拼写</emphasis> 按钮。"
 
 #: chapter3/Using_Internet.xml:1433(title)
 msgid "Spell Checker"
-msgstr ""
+msgstr "拼写检查器"
 
 #: chapter3/Using_Internet.xml:1446(title)
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 #: chapter3/Using_Internet.xml:1448(para)
 msgid ""
@@ -1990,7 +2039,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1457(title)
 msgid "Extensions"
-msgstr ""
+msgstr "扩展"
 
 #: chapter3/Using_Internet.xml:1459(para)
 msgid ""
@@ -2001,7 +2050,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1468(title)
 msgid "News Reader"
-msgstr ""
+msgstr "新闻阅读器"
 
 #: chapter3/Using_Internet.xml:1470(para)
 msgid ""
@@ -2015,7 +2064,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1489(title)
 msgid "Themes"
-msgstr ""
+msgstr "主题"
 
 #: chapter3/Using_Internet.xml:1491(para)
 msgid ""
@@ -2026,17 +2075,19 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1500(title)
 msgid "Cross-Platform Support"
-msgstr ""
+msgstr "跨平台支持"
 
 #: chapter3/Using_Internet.xml:1502(para)
 msgid ""
 "Thunderbird is used on various platforms, such as Ubuntu, Microsoft Windows, "
 "Mac OS X and Unix-based operating systems."
 msgstr ""
+"Thunderbird 支持包括 Ubuntu 在内的 Linux 系统，Microsoft Windows，Mac OS X 及众多 Unix"
+"和类 Unix 操作系统。"
 
 #: chapter3/Using_Internet.xml:1512(title)
 msgid "Instant Messaging"
-msgstr ""
+msgstr "即时消息"
 
 #: chapter3/Using_Internet.xml:1514(para)
 msgid ""
@@ -2084,7 +2135,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1549(title)
 msgid "Launching Pidgin Internet Messenger"
-msgstr ""
+msgstr "启动 Pidgin 互联网通讯程序"
 
 #: chapter3/Using_Internet.xml:1561(para)
 msgid ""
@@ -2112,7 +2163,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1590(title)
 msgid "Providing Basic Account Information"
-msgstr ""
+msgstr "提供基本帐户信息"
 
 #: chapter3/Using_Internet.xml:1602(para)
 msgid ""
@@ -2123,7 +2174,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1608(title)
 msgid "Viewing Added Accounts"
-msgstr ""
+msgstr "查看已添加的帐户"
 
 #: chapter3/Using_Internet.xml:1621(para)
 msgid ""
@@ -2189,7 +2240,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1714(title)
 msgid "Making Phone Calls Using Softphones"
-msgstr ""
+msgstr "使用软电话拨打电话"
 
 #: chapter3/Using_Internet.xml:1716(para)
 msgid ""
@@ -2224,11 +2275,11 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1743(para)
 msgid "The configuration of Ekiga is described below."
-msgstr ""
+msgstr "以下内容描述了如何配置 Ekiga。"
 
 #: chapter3/Using_Internet.xml:1747(title)
 msgid "Using Ekiga"
-msgstr ""
+msgstr "使用 Ekiga"
 
 #: chapter3/Using_Internet.xml:1749(para)
 msgid ""
@@ -2247,7 +2298,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1759(title)
 msgid "To configure Ekiga on Ubuntu:"
-msgstr ""
+msgstr "要在 Ubuntu 上配置 Ekiga："
 
 #: chapter3/Using_Internet.xml:1762(para)
 msgid ""
@@ -2260,7 +2311,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1769(title)
 msgid "Launching Ekiga Softphone"
-msgstr ""
+msgstr "启动 Ekiga 软电话"
 
 #: chapter3/Using_Internet.xml:1781(para)
 msgid ""
@@ -2273,7 +2324,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1789(title)
 msgid "Specifying Display Name"
-msgstr ""
+msgstr "指定显示名称"
 
 #: chapter3/Using_Internet.xml:1801(para)
 msgid ""
@@ -2285,7 +2336,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1808(title)
 msgid "Specifying ekiga.net Account Username and Password"
-msgstr ""
+msgstr "指定 ekiga.net 帐户名和密码"
 
 #: chapter3/Using_Internet.xml:1821(para)
 msgid ""
@@ -2293,6 +2344,8 @@ msgid ""
 "role=\"strong\">Get an ekiga.net SIP account</emphasis> on the page to "
 "create an SIP account on ekiga.net."
 msgstr ""
+"如果您没有 SIP 帐户，可以点击页面上的 <emphasis role=\"strong\">获得 "
+"ekiga.net SIP 帐户</emphasis> 以创建一个帐户。"
 
 #: chapter3/Using_Internet.xml:1828(para)
 msgid ""
@@ -2307,7 +2360,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1838(title)
 msgid "Selecting Connection Type"
-msgstr ""
+msgstr "选择连接类型"
 
 #: chapter3/Using_Internet.xml:1850(para)
 msgid ""
@@ -2321,7 +2374,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1858(title)
 msgid "Selecting NAT Type"
-msgstr ""
+msgstr "选择 NAT 类型"
 
 #: chapter3/Using_Internet.xml:1871(para)
 msgid ""
@@ -2344,7 +2397,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1887(title)
 msgid "Selecting Audio Manager"
-msgstr ""
+msgstr "选择声音管理器"
 
 #: chapter3/Using_Internet.xml:1899(para)
 msgid ""
@@ -2360,7 +2413,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1910(title)
 msgid "Selecting Audio Devices"
-msgstr ""
+msgstr "选择声音设备"
 
 #: chapter3/Using_Internet.xml:1922(para)
 msgid ""
@@ -2393,7 +2446,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1954(title)
 msgid "Selecting Video Devices"
-msgstr ""
+msgstr "选择视频设备"
 
 #: chapter3/Using_Internet.xml:1966(para)
 msgid ""
@@ -2407,11 +2460,11 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:1976(title)
 msgid "Account Configuration Summary"
-msgstr ""
+msgstr "帐户配置小结"
 
 #: chapter3/Using_Internet.xml:1986(para)
 msgid "The Configuration Assistant will close."
-msgstr ""
+msgstr "配置助手将会关闭。"
 
 #: chapter3/Using_Internet.xml:1991(para)
 msgid ""
@@ -2426,6 +2479,8 @@ msgid ""
 "For more information on Ekiga, refer to <ulink "
 "url=\"http://www.ekiga.org\">http://www.ekiga.org</ulink>."
 msgstr ""
+"关于 Ekiga 的更多信息，参见 <ulink "
+"url=\"http://www.ekiga.org\">http://www.ekiga.org</ulink>"
 
 #: chapter3/Using_Internet.xml:2004(para)
 msgid ""
@@ -2435,7 +2490,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2008(title)
 msgid "Ekiga Window"
-msgstr ""
+msgstr "Ekiga 窗口"
 
 #: chapter3/Using_Internet.xml:2021(title)
 msgid "Making Calls Using Ekiga"
@@ -2496,7 +2551,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2079(title)
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: chapter3/Using_Internet.xml:2081(para)
 msgid ""
@@ -2512,45 +2567,51 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2096(title)
 msgid "Lesson Summary"
-msgstr ""
+msgstr "课堂小结"
 
 #: chapter3/Using_Internet.xml:2099(para)
 msgid "In this lesson, you learned that:"
-msgstr ""
+msgstr "在本课中，您已经学习了："
 
 #: chapter3/Using_Internet.xml:2102(para)
 msgid ""
 "You can connect a computer to the Internet using cable, wireless and dial-up "
 "connections."
 msgstr ""
+"您可以使用电缆、无线和拨号方式连接至互联网。"
 
 #: chapter3/Using_Internet.xml:2107(para)
 msgid ""
 "Mozilla Firefox is an open source, powerful and secure Web browser. It is "
 "available for free and is the default browser on Ubuntu."
 msgstr ""
+"Mozilla Firefox 是一个开源的、强大且安全的网页浏览器。它可以自由获得，并且是 Ubuntu 的默认浏览器。"
 
 #: chapter3/Using_Internet.xml:2113(para)
 msgid ""
 "Firefox includes two powerful features that make your online experience "
 "better and more productive -integrated search system and bookmarking."
 msgstr ""
+"Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
 
 #: chapter3/Using_Internet.xml:2119(para)
 msgid ""
 "Liferea is an RSS feed reader, which offers useful features to manage your "
 "newsgroup subscription."
 msgstr ""
+"Liferea 是一个 RSS 阅读器，提供了方便您订阅新闻组的诸多实用特性。"
 
 #: chapter3/Using_Internet.xml:2124(para)
 msgid "Evolution is the default e-mail client for Ubuntu."
-msgstr ""
+msgstr "Evolution 是 Ubuntu 默认的电子邮件客户端程序。"
 
 #: chapter3/Using_Internet.xml:2128(para)
 msgid ""
 "Mozilla Thunderbird is the e-mail application developed by Mozilla "
 "Foundation. It is a free, cross-platform e-mail and news client."
 msgstr ""
+"Mozilla Thunderbird 由 Mozilla 基金会开发，它是一个自由的、跨平台的电子邮件和新闻组"
+"应用程序。"
 
 #: chapter3/Using_Internet.xml:2134(para)
 msgid ""
@@ -2561,11 +2622,11 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2140(para)
 msgid "Ekiga is the default open source softphone application for Ubuntu."
-msgstr ""
+msgstr "Ekiga 是 Ubuntu 默认的开源软电话应用程序。"
 
 #: chapter3/Using_Internet.xml:2147(title)
 msgid "Review Exercise"
-msgstr ""
+msgstr "复习测验"
 
 #: chapter3/Using_Internet.xml:2152(para)
 msgid "What are the three main ways to connect to the Internet?"
@@ -2579,20 +2640,21 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2164(para)
 msgid "Which tool is used to identify a modem on Ubuntu?"
-msgstr ""
+msgstr "Ubuntu 中用以识别调制解调器的工具是什么？"
 
 #: chapter3/Using_Internet.xml:2168(para)
 msgid "The ScanModem tool is used to identify a modem on Ubuntu."
-msgstr ""
+msgstr "ScanModem 是 Ubuntu 用以识别调制解调器的工具。"
 
 #: chapter3/Using_Internet.xml:2175(para)
 msgid "Why do you require a bookmark in Firefox?"
-msgstr ""
+msgstr "为什么需要在 Firefox 中使用书签？"
 
 #: chapter3/Using_Internet.xml:2179(para)
 msgid ""
 "Mozilla Firefox uses a bookmark for quick access to saved Web addresses."
 msgstr ""
+"Mozilla Firefox 使用书签来加速访问已保存的网页地址。"
 
 #: chapter3/Using_Internet.xml:2186(para)
 msgid "What is a feed?"
@@ -2633,7 +2695,7 @@ msgstr "c) 即使聊天工具"
 
 #: chapter3/Using_Internet.xml:2221(para)
 msgid "4) Pidgin"
-msgstr "4) Pidgin"
+msgstr "4) Empathy"
 
 #: chapter3/Using_Internet.xml:2223(para)
 msgid "d) Phone calls"
@@ -2712,7 +2774,7 @@ msgstr "D. Firefox"
 
 #: chapter3/Using_Internet.xml:2297(title)
 msgid "Lab Exercise"
-msgstr ""
+msgstr "实践演练"
 
 #: chapter3/Using_Internet.xml:2299(title)
 msgid "Exercise 1"
@@ -2807,7 +2869,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2384(para)
 msgid "You are now connected to the gtalk server."
-msgstr ""
+msgstr "您已连接至 GTalk 服务器"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: chapter3/Using_Internet.xml:0(None)
