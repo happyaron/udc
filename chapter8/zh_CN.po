@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-25 22:03+0800\n"
+"PO-Revision-Date: 2009-12-26 00:29+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -847,7 +847,7 @@ msgstr "您可以从 <emphasis role=\"strong\">配置插件</emphasis> 对话框
 
 #: chapter8/xinclude.xml:230(para)
 msgid "Depending on your requirements and preferences, you can activate these plugins to get extra functionality in your Rhythmbox. For example, the <emphasis role=\"strong\">Magnatune Store</emphasis> plugin enables iTunes-style song previews and paid downloads. Activating <emphasis role=\"strong\">Visualization</emphasis> renders a real-time visualization of the music on the screen while you listen to a song track. Similarly, if you want to automatically retrieve the lyrics of the song being played, activate <emphasis role=\"strong\">Song Lyrics</emphasis> by selecting the corresponding check box and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box."
-msgstr ""
+msgstr "根据要求和设置，可以在 Rhythmbox 中激活这些插件以获得额外功能。例如，<emphasis role=\"strong\">Magnatune 商店</emphasis> 启用 iTunes 型的歌曲试听和付费下载。激活 <emphasis role=\"strong\">视觉效果</emphasis> ，听歌时，在屏幕上渲染一个音乐的实时形象。类似地，如果自动检索正在播放的歌曲的歌词，通过选择对应的复选框以激活 <emphasis role=\"strong\">歌词</emphasis> 然后点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:242(title)
 msgid "Activating Plugins"
@@ -995,7 +995,7 @@ msgstr "http://flac.sourceforge.net/"
 
 #: chapter8/xinclude.xml:482(para)
 msgid "To know more about Ogg Vorbis and FLAC audio format, visit the following Web sites: <placeholder-1/>"
-msgstr ""
+msgstr "要了解关于 Ogg Vorbis 和 FLAC 音频格式的更多信息，访问如下网站：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:495(title)
 msgid "Playing Audio CDs"
@@ -1015,11 +1015,11 @@ msgstr "启动音乐榨汁机"
 
 #: chapter8/xinclude.xml:517(para)
 msgid "Sound Juicer's main interface is displayed. When Sound Juicer detects a CD, it examines the CD and tries to search the Internet to locate information about the CD's content. If you are connected to the Internet, Sound Juicer will retrieve the CD artist, title, and track data from MusicBrainz.org."
-msgstr ""
+msgstr "已显示音乐榨汁机的主界面。当音乐榨汁机探测到 CD 时，其检查 CD 并尝试搜索互联网以定位关于此 CD 内容的信息。如果您您连接到了互联网，音乐榨汁机将从 MusicBrainz.org 检索 CD 艺人、标题和曲目信息。"
 
 #: chapter8/xinclude.xml:523(para)
 msgid "To play all the tracks sequentially, you can simply click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr ""
+msgstr "要顺序的播放所有曲目，可以简单的点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:529(para)
 msgid "MusicBrainz.org is a community-maintained online database, which contains data on over 360,000 published albums."
@@ -1031,11 +1031,11 @@ msgstr "播放音频 CD"
 
 #: chapter8/xinclude.xml:543(para)
 msgid "Notice that Sound Juicer has fetched the track information from MusicBrainz.org. In the upper part of the Sound Juicer window, you can see the basic information about the disc, including title, artist, genre and total duration. The lower part of the window displays a list of tracks, each with its full title, artist and duration."
-msgstr ""
+msgstr "注意，音乐榨汁机已经从 MusicBrainz.org 取回了曲目信息。在音乐榨汁机窗口的上部，您可以查看此光盘的基本信息，包括标题、艺人、流派和总时间。窗口的下部显示曲目列表，每个带有其全标题、艺人和时间。"
 
 #: chapter8/xinclude.xml:552(para)
 msgid "To play only the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes and then click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr ""
+msgstr "要仅播放选定的曲目，通过选中对应的复选框来选择特定的曲目然后点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:557(title)
 msgid "Selecting the Song tracks"
@@ -1055,7 +1055,7 @@ msgstr "提取音频 CD"
 
 #: chapter8/xinclude.xml:587(para)
 msgid "If you want to listen to your favourite music tracks without needing to insert a CD every time, you can create a copy of the CD and extract the music tracks on your computer."
-msgstr ""
+msgstr "如果想欣赏最喜欢的曲目而不用每次都插入 CD，可以创建 CD 的一个副本并提取曲目到计算机。"
 
 #: chapter8/xinclude.xml:592(title)
 msgid "To extract the audio CD:"
@@ -1063,11 +1063,11 @@ msgstr "要提取音频 CD："
 
 #: chapter8/xinclude.xml:595(para)
 msgid "Insert the audio CD and click the <emphasis role=\"strong\">Extract</emphasis> button. However, if you want to define the audio quality, format and the location where the files would be stored, click <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu. This displays the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
-msgstr ""
+msgstr "插入音频 CD 并点击 <emphasis role=\"strong\">提取</emphasis> 按钮。但是，如果想定义音频质量、格式和文件存储的位置，点击 <emphasis role=\"strong\">编辑</emphasis> 菜单上的 <emphasis role=\"strong\">首选项</emphasis>。此操作显示 <emphasis role=\"strong\">首选项</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:600(title)
 msgid "Defining Preferences For Audio Files"
-msgstr ""
+msgstr "为音频文件设定参数"
 
 #: chapter8/xinclude.xml:611(para)
 msgid "You can use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define a number of things such as how the folder hierarchy should be saved, how the files should be named and whether to eject the CD automatically after the tracks are extracted."
@@ -1091,7 +1091,7 @@ msgstr ""
 
 #: chapter8/xinclude.xml:652(title)
 msgid "Editing Audio Profile"
-msgstr ""
+msgstr "编辑音频配置文件"
 
 #: chapter8/xinclude.xml:663(para)
 msgid "The <emphasis role=\"strong\">Editing profile</emphasis> dialogue box for the selected audio profile is displayed. You can edit the audio profile according to your requirements and the click <emphasis role=\"strong\">Close</emphasis> to exit."
@@ -1099,7 +1099,7 @@ msgstr ""
 
 #: chapter8/xinclude.xml:669(title)
 msgid "Customising Audio Profile"
-msgstr ""
+msgstr "自定义音频配置文件"
 
 #: chapter8/xinclude.xml:680(para)
 msgid "You can also use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define the location where you want the audio files to be stored on your computer. By default, Sound Juicer stores the audio files in the Home directory. To define a location of your choice, select a directory from the <emphasis role=\"strong\">Music Folder</emphasis> drop-down list and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
@@ -1176,7 +1176,7 @@ msgstr "新音频工程窗口"
 
 #: chapter8/xinclude.xml:814(para)
 msgid "Now you need to specify the files that you want to be copied onto the blank CD. To start specifying the desired audio files, click the <emphasis role=\"strong\">Music</emphasis> folder. This displays the contents of any items previously imported. Double-click the title of the folder where the music files are located. The files are listed in the middle window. You can now add files to the project using any of the methods described in the right side window."
-msgstr ""
+msgstr "现在需要指定要复制到空白 CD 上的文件。要开始指定希望的音频文件，点击 <emphasis role=\"strong\">Music</emphasis> 文件夹。此操作显示先前导入的任何条目的内容。双击方有音乐文件文件夹的标题。文件在中间窗口中列出。现在可以使用任何在右边窗口中说明的方法向项目添加文件。"
 
 #: chapter8/xinclude.xml:822(title)
 msgid "Specifying Audio Files to Copy"
@@ -1184,7 +1184,7 @@ msgstr "指定要复制的音频文件"
 
 #: chapter8/xinclude.xml:834(para)
 msgid "The selected files now appear in the project window. You can also view the estimated disc usage once these files are written to the disc at the bottom of the project window. Based on this data, you may decide to add or delete some files from your current selection. Once you are sure of the files to be copied to the disc, click the <emphasis role=\"strong\">Burn</emphasis> button to start writing the audio files from your computer to the CD."
-msgstr ""
+msgstr "选中的文件显示在项目窗口中。也可以在项目窗口底部查看这些文件写入光盘后的磁盘估计使用量。根据这个数据，可以决定从现有的选择中添加或或删除一些文件。确定要复制到光盘的文件后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始从计算机向 CD 写入音频文件。"
 
 #: chapter8/xinclude.xml:843(title)
 msgid "Writing Audio Files to Disc"
@@ -1212,7 +1212,7 @@ msgstr "播放私有多媒体格式"
 
 #: chapter8/xinclude.xml:894(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
-msgstr ""
+msgstr "如前所述，鉴于关于使用私有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。如果希望播放私有格式，需要安装附加多媒体解码器。多媒体解码器是使您可以用特定的格式观看视频或欣赏音乐的小软件。虽然 Ubuntu 默认包含很多解码器，可能还是需要安装更多，因为有很多种不同的多媒体格式并且全部提供是不现实的。"
 
 #: chapter8/xinclude.xml:908(para)
 msgid "gstreamer0.10-plugins-ugly"
@@ -1236,7 +1236,7 @@ msgstr "gstreamer0.10-ffmpeg"
 
 #: chapter8/xinclude.xml:903(para)
 msgid "Playback of multimedia files in Ubuntu is handled by the Gstreamer multimedia framework. GStreamer by itself does not provide any multimedia codecs, it relies on codecs that have been packaged into a <emphasis role=\"strong\">plugin</emphasis> that it uses to perform the actual recording and playback. Typical plugins are: <placeholder-1/>"
-msgstr ""
+msgstr "在 Ubuntu 中播放多媒体文件是由 Gstreamer 对媒体框架处理的。GStreamer 本身并不提供任何多媒体编解码器，它依赖于打包成用于实际执行记录和播放功能的 <emphasis role=\"strong\">插件</emphasis> 的编解码器。典型的插件有：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:931(para)
 msgid "To know more about which Gstreamer package contains which plugins, visit the following Web site: <ulink url=\"http://gstreamer.freedesktop.org/documentation/plugins.html\">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>."
@@ -1252,7 +1252,7 @@ msgstr "您可以使用新立得软件包管理器或者命令行界面(CLI)来�
 
 #: chapter8/xinclude.xml:945(para)
 msgid "Codecs can be installed directly from the Movie Player. When Movie Player recognizes a format it cannot play, it checks if a Gstreamer plugin is available for this format. If it finds one, you can install the codec easily without following the lengthy solution presented below."
-msgstr ""
+msgstr "插件可以直接在电影播放器中安装。当电影播放器认出一种它不能播放的格式时，它检查是否有对此种格式的可用 Gstreamer 插件。如果找到了，可以安装容易的安装此编解码器，而不用按照下边给出的冗长的解决方案。"
 
 #: chapter8/xinclude.xml:953(title)
 msgid "To install a codec plugin using Synaptic Package Manager:"
@@ -1287,7 +1287,7 @@ msgstr "启用软件仓库"
 #: chapter8/xinclude.xml:1007(para)
 #: chapter8/xinclude.xml:3255(para)
 msgid "You may receive a notification that your repository information has changed. Click <emphasis role=\"strong\">Close</emphasis> to exit this message."
-msgstr ""
+msgstr "将收到一个关于软件长如信息已更改新的信息。点击 <emphasis role=\"strong\">关闭</emphasis> 退出此消息。"
 
 #: chapter8/xinclude.xml:1012(title)
 msgid "Repositories Information Notification"
@@ -2422,7 +2422,7 @@ msgstr "新立得软件包管理器或命令行界面"
 
 #: chapter8/xinclude.xml:2986(title)
 msgid "Lab Exercise"
-msgstr ""
+msgstr "实验练习"
 
 #: chapter8/xinclude.xml:2989(title)
 msgid "Exercise 1: Playing Music Using Rhythmbox"
@@ -2430,27 +2430,28 @@ msgstr "练习 1：使用 Rhythmbox 播放音乐文件"
 
 #: chapter8/xinclude.xml:2991(para)
 msgid "You have recently installed Ubuntu and want to play and organise your music files, listen to music podcasts and Internet radio. List the steps that you would take."
-msgstr ""
+msgstr "刚刚安装了 Ubuntu 并想播放和组织您的音乐文件、收听音乐播客和网络电台。列出了将需要的步骤："
 
 #: chapter8/xinclude.xml:2998(para)
 msgid "On the <emphasis role=\"strong\">Application</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Rhythmbox Music Player</emphasis>."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Rhythmbox 音乐播放器</emphasis>。"
 
 #: chapter8/xinclude.xml:3005(para)
 msgid "To start importing individual music files into Rhythmbox, right-click <emphasis role=\"strong\">Library</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>."
-msgstr ""
+msgstr "要开始向 Rhythmbox 导入分离的音乐文件，右键点击 <emphasis role=\"strong\">音乐库</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>。"
 
 #: chapter8/xinclude.xml:3011(para)
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框中，导航到从中导入文件的文件夹。"
 
 #: chapter8/xinclude.xml:3017(para)
 msgid "Select the files that you want to import and click <emphasis role=\"strong\">Open.</emphasis>"
-msgstr ""
+msgstr "选择要导入的文件并点击 <emphasis role=\"strong\">打开</emphasis>。"
 
+# 怀疑原文有误，缺少一个 click
 #: chapter8/xinclude.xml:3021(para)
 msgid "Select the music tracks that you want to play and the <emphasis role=\"strong\">Play</emphasis> button to start playing the selected track."
-msgstr ""
+msgstr "选择要播放的音乐曲目，并点击 <emphasis role=\"strong\">播放</emphasis> 按钮开始播放选中曲目。"
 
 #: chapter8/xinclude.xml:3031(para)
 msgid "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast Feed</emphasis> text box and click <emphasis role=\"strong\">Add.</emphasis>"
@@ -2494,7 +2495,7 @@ msgstr "向计算机的 CD 驱动器插入音频 CD。<emphasis role=\"strong\">
 
 #: chapter8/xinclude.xml:3091(para)
 msgid "Notice that <emphasis role=\"strong\">Sound Juicer</emphasis> has fetched the tracks' information from MusicBrainz.org."
-msgstr ""
+msgstr "注意，<emphasis role=\"strong\">音乐榨汁机</emphasis> 已经从 MusicBrainz.org 取回了曲目信息。"
 
 #: chapter8/xinclude.xml:3096(para)
 msgid "To play the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes."
