@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 00:13+0800\n"
+"PO-Revision-Date: 2009-12-25 00:42+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -300,15 +300,15 @@ msgstr "Agave:"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:116(para)
 msgid "A colour scheme designer. After you select a base colour, Agave suggests the appropriate complementary colours or shades of the same base colour. You can also drag and drop a colour from another application, such as GIMP. Whether you are designing a Web page or a pamphlet or painting your house, this programme enables you to identify the appropriate colour scheme. Visit the Web site <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink> for more information on Agave."
-msgstr ""
+msgstr "一款颜色设计器。当你选定一个基本颜色，Agave将提示适当的互补色或者相同基础色的色调。您还可以从类似GIMP这样的应用程序中将颜色拖拽过来。无论您是在设计一个网页或是一本小册子，亦或是粉刷您的房子，这个程序都将方便您找到合适的配色方案。想获得关于Agave的更多信息，可登录网址 <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink>进行查看。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:137(title)
 msgid "Blender:"
-msgstr ""
+msgstr "Blender："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:139(para)
 msgid "An open-source 3D content creation suite. You can create 3D models and animations, add post-production effects or use it as a graphics editor to define interactive behaviour without programming. Blender has a distinctive user interface that is implemented entirely in Open GL and designed for speed. Python bindings for scripting and import/export features for popular file formats such as 3D Studio are available in Blender. Blender can output still images, animations, models for games or other third party engines and interactive content in the form of standalone binaries or web plug-ins. Visit the Web site <ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink> for more information on Blender."
-msgstr ""
+msgstr "是一款开源的3D内容创建软件。可以进行3D建模和动画制作，"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:163(title)
 msgid "Dia:"
