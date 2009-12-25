@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 14:13+0800\n"
+"PO-Revision-Date: 2009-12-25 22:49+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -356,49 +356,49 @@ msgstr "利用F-Spot浏览和管理照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:235(para)
 msgid "After a brief explanation of F-Spot and its features, refrain from lengthy explanation of the tasks. Perform a brief demo of the tasks covered in the lesson and ask students to follow."
-msgstr ""
+msgstr "简单介绍了F-Spot及其功能，避免冗长的任务说明。下面对本节课需要完成的任务做一个简要的示范，同学们可以跟着做一下。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:240(para)
 msgid "F-Spot is a personal photo management application for the GNOME desktop. You can import and view pictures from the hard disk on your computer, digital camera or even the ipod. You can attach tags to your photos and categorise them, build a photo CD, export photos over the Internet and share them online or perform basic colour-correction and editing. F-Spot supports 16 common file types, including JPEG, GIF, TIFF and RAW."
-msgstr ""
+msgstr "F-Spot是GNOME桌面上的一款个人相片管理应用程序。用户可以通过它从电脑硬盘、数码相机甚至是 ipod 中提取并浏览相片。用户可以给照片添加标签，对照片进行分类，创建照片CD集，通过 Internet 传送和共享照片，还可以执行基本的颜色校正和编辑。F-Spot支持16中常用的文件类型，包括JPEG、GIF、TIFF、RAW等。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:248(para)
 msgid "The following graphic shows the elements in the F-Spot interface:"
-msgstr ""
+msgstr "下图显示了F-Spot界面的基本元素："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:252(title)
 msgid "F-Spot Window"
-msgstr ""
+msgstr "F-Spot 窗体"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:263(title)
 msgid "Importing Photos in F-Spot"
-msgstr ""
+msgstr "向 F-Spot 中导入图像"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:265(para)
 msgid "After importing the photographs, you can categorise and tag them as you would to create a playlist in a music player."
-msgstr ""
+msgstr "导入相片后，可以为相片添加标签并分类，就像在音乐播放器中建立播放列表一样。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:269(title)
 msgid "Importing Photographs from the Hard Disk"
-msgstr ""
+msgstr "从硬盘上导入相片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:271(para)
 msgid "To import photographs into F-Spot from the hard disk of your computer:"
-msgstr ""
+msgstr "从计算机硬盘上向 F-Spot 导入相片："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:275(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The <emphasis role=\"strong\">F-Spot</emphasis> window opens."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">应用程序</emphasis> 菜单下, 选择 <emphasis role=\"strong\">图形</emphasis> 并单击 <emphasis role=\"strong\">F-Spot 相片管理器</emphasis>. 将打开<emphasis role=\"strong\">F-Spot</emphasis> 窗口。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:282(para)
 #: chapter7/Managing_Graphics_and_Photos.xml:384(para)
 msgid "Click the <emphasis role=\"strong\">Import</emphasis> button on the toolbar. The <emphasis role=\"strong\">Import</emphasis> dialogue box opens."
-msgstr ""
+msgstr "单击工具条上的<emphasis role=\"strong\">导入</emphasis> 按钮. 将弹出<emphasis role=\"strong\">导入</emphasis> 对话框。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:287(emphasis)
 #: chapter7/Managing_Graphics_and_Photos.xml:343(emphasis)
 msgid "Importing Photos"
-msgstr ""
+msgstr "导入相片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:298(title)
 #: chapter7/Managing_Graphics_and_Photos.xml:370(title)
@@ -409,11 +409,11 @@ msgstr ""
 #: chapter7/Managing_Graphics_and_Photos.xml:1033(title)
 #: chapter7/Managing_Graphics_and_Photos.xml:1127(title)
 msgid "Note:"
-msgstr ""
+msgstr "提示："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:300(para)
 msgid "You can also click <emphasis role=\"strong\">Import</emphasis> on the <emphasis role=\"strong\">File</emphasis> menu to open the <emphasis role=\"strong\">Import</emphasis> dialogue box."
-msgstr ""
+msgstr "还可以通过单击 <emphasis role=\"strong\">照片</emphasis>菜单下的 <emphasis role=\"strong\">导入</emphasis> 按钮来打开<emphasis role=\"strong\">导入</emphasis> 对话框。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:307(para)
 msgid "In the <emphasis role=\"strong\">Import Source</emphasis> box, the <emphasis role=\"strong\">Select Folder</emphasis> option is selected by default. Retain the option, navigate to the folder that contains the photographs and click <emphasis role=\"strong\">Open</emphasis>."
