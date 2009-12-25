@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-25 13:25+0800\n"
+"PO-Revision-Date: 2009-12-25 22:03+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -756,7 +756,7 @@ msgstr "播放音乐文件"
 
 #: chapter8/xinclude.xml:57(para)
 msgid "Ubuntu comes with the Rhythmbox Music Player to play and organise music files. Similar to iTunes in its interface, this music player is a free software application designed to work in the GNOME desktop environment. Using Rhythmbox, you can play your music files, listen to Internet radio, import music from CDs and organise your music files. Rhythmbox offers comprehensive audio support for a large number of audio formats and contains various useful features that make playing music easy and enjoyable."
-msgstr "Ubuntu 带有 Rhythmbox 音乐播放器播放和组织音乐文件。其界面类似于 iTunes，此音乐播放器是自由软件，设计为在 GNOME 桌面环境下工作。使用 Rhythmbox，您可以播放音乐文件，收听网络广播，从 CD 导入音乐并且组织您的音乐文件。Rhythmbox 提供对大量音频格式的广泛支持并且包含很多使播放音乐变得更简单和享受的有用功能。"
+msgstr "Ubuntu 带有 Rhythmbox 音乐播放器播放和组织音乐文件。其界面类似于 iTunes，此音乐播放器是自由软件，设计为在 GNOME 桌面环境下工作。使用 Rhythmbox，您可以播放音乐文件，收听网络电台，从 CD 导入音乐并且组织您的音乐文件。Rhythmbox 提供对大量音频格式的广泛支持并且包含很多使播放音乐变得更简单和享受的有用功能。"
 
 #: chapter8/xinclude.xml:69(para)
 msgid "You need to demonstrate and let the students play fully with at least 1 music, 1 DVD playback and 1 audio recording."
@@ -780,19 +780,19 @@ msgstr "启动 Rhythmbox"
 
 #: chapter8/xinclude.xml:97(para)
 msgid "The main window of the Rhythmbox Music Player opens. Now, you will be able to organise your favourite music using this window."
-msgstr ""
+msgstr "Rhythmbox 音乐播放器主窗口将打开。现在，您将可以使用这个窗口组织您的音乐收藏。"
 
 #: chapter8/xinclude.xml:102(title)
 msgid "The Rhythmbox Music Player"
-msgstr ""
+msgstr "Rhythmbox 音乐播放器"
 
 #: chapter8/xinclude.xml:113(para)
 msgid "To start playing music in Rhythmbox, you need to first select the music source from the <emphasis role=\"strong\">Source</emphasis> list. By default <emphasis role=\"strong\">Library</emphasis> is selected as the source when you open Rhythmbox for the first time."
-msgstr ""
+msgstr "要开始在 Rhythmbox 中播放音乐，您需要首先选择从 <emphasis role=\"strong\">源</emphasis> 列表中选择音乐源。默认，第一次打开 Rhythmbox 时 <emphasis role=\"strong\">音乐库</emphasis> 被选中作为源。"
 
 #: chapter8/xinclude.xml:119(para)
 msgid "Library is the main source available in Rhythmbox. You can import all your music files into the Rhythmbox library and can start playing immediately. You also use the music files in your library to create smart customised playlists and play-queues. To start importing individual music files, right-click <emphasis role=\"strong\">Music</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>. It displays the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box."
-msgstr ""
+msgstr "音乐库是 Rhythmbox 中可用的主要源。您可以向 Rhythmbox 音乐库导入任何音乐文件并且可以立即开始播放。您也可以使用音乐库中的音乐文件创建小的自定义播放列表和播放队列。要开始导入单独的音乐文件，右键点击 <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>。它显示 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:127(title)
 msgid "Importing Music Files"
@@ -800,7 +800,7 @@ msgstr "导入音乐文件"
 
 #: chapter8/xinclude.xml:138(para)
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files. Select the files that you want to import and click <emphasis role=\"strong\">Open</emphasis>."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框中，导航到要导入文件所在的文件夹。选择要导入的文件夹并点击 <emphasis role=\"strong\">打开</emphasis>。"
 
 #: chapter8/xinclude.xml:144(title)
 #: chapter8/xinclude.xml:1563(title)
@@ -815,11 +815,11 @@ msgstr ""
 
 #: chapter8/xinclude.xml:156(para)
 msgid "While importing music files from your music collection, Rhythmbox also imports the metadata tags associated with the files. These tags are used by Rhythmbox to categorise the music files by genre, artist, album, title, and track number."
-msgstr ""
+msgstr "从音乐集导入文件时，Rhythmbox 也导入与文件相关联的元数据标签。这些标签被 Rhythmbox 用于根据流派(genre)、艺人(artist)、专辑(album)、标题(title)和音轨(track number)对音乐文件进行分类。"
 
 #: chapter8/xinclude.xml:164(para)
 msgid "The selected music files are imported into the library and displayed in the the Rhythmbox window. You will notice that the main Rhythmbox window is split into various panes. Each pane displays different details about your music collection. To play music from the library, you can use the <emphasis role=\"strong\">Artist, Album</emphasis> and <emphasis role=\"strong\">Track</emphasis> panes to select the music tracks that you want to play and then use the playback controls to start playing the music tracks. Click the <emphasis role=\"strong\">Play</emphasis> button to start playing the selected track."
-msgstr ""
+msgstr "选中的音乐文件导入到音乐库中并在 Rhythmbox 窗口中显示。您将注意到 Rhythmbox 主窗口被分为多个嵌板。每个嵌板显示关于音乐集的不同细节。要从音乐库中播放音乐，您可以使用 <emphasis role=\"strong\">艺人，专辑</emphasis> 和 <emphasis role=\"strong\">曲目</emphasis> 嵌板选择要播放的音乐曲目然后使用播放控制开始播放此音乐曲目。"
 
 #: chapter8/xinclude.xml:176(title)
 msgid "The Rhythmbox Window"
@@ -827,7 +827,7 @@ msgstr "Rhythmbox 窗口"
 
 #: chapter8/xinclude.xml:187(para)
 msgid "If you click the <emphasis role=\"strong\">Play</emphasis> button without selecting any track, Rhythmbox will start playing the first track from your current view. You can use the <emphasis role=\"strong\">Shuffle</emphasis> button to play tracks randomly. You can also create a play list by right-clicking a music track and selecting <emphasis role=\"strong\">Add to Playlist</emphasis>. To stop or pause a track, click the <emphasis role=\"strong\">Play</emphasis> button again."
-msgstr ""
+msgstr "如果没有选择任何曲目的点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">乱序</emphasis> 按钮随机播放曲目。您也可以通过在一个曲目上点右键并选择 <emphasis role=\"strong\">添加到播放列表</emphasis>。要停止或暂停一个曲目，请再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:195(title)
 msgid "Creating New Playlist"
@@ -835,7 +835,7 @@ msgstr "创建新播放列表"
 
 #: chapter8/xinclude.xml:206(para)
 msgid "Rhythmbox offers many additional useful features in the form of various plugins. Some of these plugins are not turned on by default. To access these plugins, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Plugins.</emphasis> The <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box opens."
-msgstr ""
+msgstr "Rhythmbox 以多种插件的形式提供很多附加的有用功能。某些插件默认没有打开。要使用这些插件，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件.</emphasis>，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:212(title)
 msgid "Accessing Plugins"
@@ -843,7 +843,7 @@ msgstr "访问插件"
 
 #: chapter8/xinclude.xml:223(para)
 msgid "You can view all the available plugins in the left pane of the <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box. Selecting a plugin displays its details in the right pane of the dialogue box."
-msgstr ""
+msgstr "您可以从 <emphasis role=\"strong\">配置插件</emphasis> 对话框的左嵌板内查看所有可用插件。选择一个插件在对话框右嵌板内显示它的细节。"
 
 #: chapter8/xinclude.xml:230(para)
 msgid "Depending on your requirements and preferences, you can activate these plugins to get extra functionality in your Rhythmbox. For example, the <emphasis role=\"strong\">Magnatune Store</emphasis> plugin enables iTunes-style song previews and paid downloads. Activating <emphasis role=\"strong\">Visualization</emphasis> renders a real-time visualization of the music on the screen while you listen to a song track. Similarly, if you want to automatically retrieve the lyrics of the song being played, activate <emphasis role=\"strong\">Song Lyrics</emphasis> by selecting the corresponding check box and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box."
@@ -855,7 +855,7 @@ msgstr "激活插件"
 
 #: chapter8/xinclude.xml:253(para)
 msgid "You are returned to the main Rhythmbox interface. To start retrieving the song lyrics, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Song Lyrics</emphasis>."
-msgstr ""
+msgstr "您回到了 Rhythmbox 主界面。要开始检索歌词，在 <emphasis role=\"strong\">编辑</emphasis> 菜单，点击 <emphasis role=\"strong\">歌词</emphasis>。"
 
 #: chapter8/xinclude.xml:257(title)
 msgid "Retrieving Song Lyrics"
@@ -871,7 +871,7 @@ msgstr "已检索到歌词"
 
 #: chapter8/xinclude.xml:283(para)
 msgid "Similarly, if you wish to view animations while listening to a song, click the <emphasis role=\"strong\"> Visualization</emphasis> button."
-msgstr ""
+msgstr "类似地，如果您希望在听歌时观看动画，点击 <emphasis role=\"strong\">可视化</emphasis> 按钮"
 
 #: chapter8/xinclude.xml:288(title)
 msgid "Activating Visualisation"
@@ -887,12 +887,12 @@ msgstr "观看动画"
 
 #: chapter8/xinclude.xml:313(para)
 msgid "Rhythmbox also enables you to listen to music from a variety of sources, such as Internet radio stations and podcasts."
-msgstr ""
+msgstr "Rhythmbox 也允许您从多种来源收听音乐，例如网络电台和播客。"
 
 #: chapter8/xinclude.xml:316(para)
 #: chapter8/xinclude.xml:3026(para)
 msgid "To play music from a podcast of your choice, right-click the <emphasis role=\"strong\">Podcast</emphasis> option in the <emphasis role=\"strong\">Source</emphasis> list and select <emphasis role=\"strong\">New Podcast Feed</emphasis>."
-msgstr ""
+msgstr "要从您选择的一个播客播放音乐，在 <emphasis role=\"strong\">源</emphasis> 列表右键点击 <emphasis role=\"strong\">播客</emphasis> 选项并选择 <emphasis role=\"strong\">新播客订阅</emphasis>。"
 
 #: chapter8/xinclude.xml:320(title)
 msgid "Adding New Podcast Feed"
@@ -910,15 +910,15 @@ msgstr "注意："
 
 #: chapter8/xinclude.xml:332(para)
 msgid "Podcasts are audio shows broadcast over the Internet that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
-msgstr ""
+msgstr "播客是网可以订阅的通过互联的音频秀广播。订阅一个播客使您可以从订阅的播客源下载音频的每个新版本。"
 
 #: chapter8/xinclude.xml:341(para)
 msgid "If the students want to know more about podcasts, advise them to read the Wikipedia article on podcasting: <ulink url=\"http://en.wikipedia.org/wiki/Podcasting\">http://en.wikipedia.org/wiki/Podcasting</ulink>."
-msgstr ""
+msgstr "如果学生想更多地了解播客，建议他们阅读维基百科上关于播客的文章：<ulink url=\"http://zh.wikipedia.org/zh-cn/播客\">http://zh.wikipedia.org/zh-cn/播客</ulink>。"
 
 #: chapter8/xinclude.xml:347(para)
 msgid "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast Feed</emphasis> text box and click <emphasis role=\"strong\">Add</emphasis>."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框输入播客订阅的 URL 并点击 <emphasis role=\"strong\">添加</emphasis>。"
 
 #: chapter8/xinclude.xml:351(title)
 msgid "Entering Podcast Feed URL"
@@ -926,7 +926,7 @@ msgstr "输入播客订阅 URL"
 
 #: chapter8/xinclude.xml:362(para)
 msgid "Rhythmbox automatically looks for the latest podcasts and downloads them for you. To play a podcast episode, select the episode that you want to play and click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr ""
+msgstr "Rhythmbox 自动查看最新的播客并为您自动下载它们。要播放播客曲目，选择要播放的曲目并点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:367(title)
 msgid "Playing a Podcast"
@@ -934,27 +934,27 @@ msgstr "播放一个播客"
 
 #: chapter8/xinclude.xml:378(para)
 msgid "Rhythmbox also allows you to listen to radio streamed from Internet radio stations across the world. To listen to Internet radio, click the <emphasis role=\"strong\">Radio</emphasis> source in the <emphasis role=\"strong\">Source</emphasis> pane."
-msgstr ""
+msgstr "Rhythmbox 也允许您从全世界的网络电台收听广播流。要收听网络电台，在 <emphasis role=\"strong\">源</emphasis> 嵌板点击 <emphasis role=\"strong\">电台</emphasis> 源。"
 
 #: chapter8/xinclude.xml:384(title)
 msgid "Playing Internet Radio"
-msgstr "播放网络广播"
+msgstr "播放网络电台"
 
 #: chapter8/xinclude.xml:395(para)
 msgid "By default the <emphasis role=\"strong\">Radio</emphasis> source lists several radio stations, each of them broadcasting a different genre of music. Double-click on the radio station of your choice to listen to the streaming media."
-msgstr ""
+msgstr "默认上，<emphasis role=\"strong\">广播</emphasis> 源列出了多个广播电台，每个广播不同流派的音乐。双击您选择的广播电台以收听流媒体。"
 
 #: chapter8/xinclude.xml:401(title)
 msgid "Listening to a Radio Station"
-msgstr ""
+msgstr "收听广播电台"
 
 #: chapter8/xinclude.xml:413(para)
 msgid "Advise students to read the Wikipedia article on Internet Radio if they want more background information: <ulink url=\"http://en.wikipedia.org/wiki/Internet_radio\">http://en.wikipedia.org/wiki/Internet_radio</ulink>."
-msgstr ""
+msgstr "如果学生们需要更多的背景资料建议他们阅读维基百科关于网络电台的文章：<ulink url=\"http://zh.wikipedia.org/zh-cn/网络电台\">http://zh.wikipedia.org/zh-cn/网络电台</ulink>。"
 
 #: chapter8/xinclude.xml:419(para)
 msgid "You can also add a new radio station to the existing list by clicking <emphasis role=\"strong\">New Internet Radio Station</emphasis> and pasting the URL of the new radio station in the <emphasis role=\"strong\">URL of Internet radio station</emphasis> text box. Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in the existing list."
-msgstr ""
+msgstr "您也可以通过点击 <emphasis role=\"strong\">新建网络电台</emphasis> 并向 <emphasis role=\"strong\">网络电台的 URL</emphasis> 文本框粘贴新电台的 URL 来向现有列表添加新电台。"
 
 #: chapter8/xinclude.xml:427(title)
 msgid "Adding New Radio Station"
@@ -963,7 +963,7 @@ msgstr "添加新广播台"
 #: chapter8/xinclude.xml:438(para)
 #: chapter8/xinclude.xml:3063(para)
 msgid "You can add many more Internet radio stations in the same way and listen to your favourite radio stations with just a click of your mouse."
-msgstr ""
+msgstr "您可以通过同样的方法添加更多的网络电台并通过仅仅点下鼠标来收听您最喜欢的电台。"
 
 #: chapter8/xinclude.xml:447(title)
 msgid "Playing and Extracting Audio CDs"
@@ -971,7 +971,7 @@ msgstr "播放和提取音频 CD"
 
 #: chapter8/xinclude.xml:457(para)
 msgid "Ogg Vorbis: Ogg vorbis is a free, unpatented and open source alternative to the proprietary MP3 format. Like the MP3 format, it discards parts of the sound that humans cannot normally hear. An Ogg Vorbis file is typically a tenth of the size of a WAV format file containing the same content."
-msgstr ""
+msgstr "Ogg Vorbis：Ogg Vorbis 是专有 MP3 格式的一种自由、非专利和开源的替代品。就像 MP3 格式，其忽略了人们通常听不到的声音部分。Ogg Vorbis 文件通常是含有同样内容的 WAV 格式文件的十分之一。"
 
 #: chapter8/xinclude.xml:465(para)
 msgid "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without discarding any information. A FLAC file is typically half the size of a WAV file containing the same content."
@@ -1003,11 +1003,11 @@ msgstr "播放音频 CD"
 
 #: chapter8/xinclude.xml:498(title)
 msgid "To play audio CDs using Sound Juicer"
-msgstr ""
+msgstr "要使用音乐榨汁机播放音频 CD。"
 
 #: chapter8/xinclude.xml:501(para)
 msgid "Insert an audio CD in the CD drive of your computer. The Sound Juicer CD player and ripper is launched automatically. To start Sound Juicer manually, click the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audio CD Extractor</emphasis>."
-msgstr ""
+msgstr "向计算机的 CD 驱动器插入音频 CD。音乐榨汁机 CD 播放器和提取器自动启动。要手动启动音乐榨汁机，点击 <emphasis role=\"strong\">应用程序</emphasis> 菜单，指向 <emphasis role=\"strong\">影音</emphasis> 并点击 <emphasis role=\"strong\">音频 CD 提取器</emphasis>。"
 
 #: chapter8/xinclude.xml:506(title)
 msgid "Launching Sound Juicer"
@@ -1023,7 +1023,7 @@ msgstr ""
 
 #: chapter8/xinclude.xml:529(para)
 msgid "MusicBrainz.org is a community-maintained online database, which contains data on over 360,000 published albums."
-msgstr ""
+msgstr "MusicBrainz.org 是一个社区维护的在线数据库，其包含超过 360,000 个发行的专辑的数据。"
 
 #: chapter8/xinclude.xml:534(title)
 msgid "Playing Audio CD"
@@ -1103,19 +1103,20 @@ msgstr ""
 
 #: chapter8/xinclude.xml:680(para)
 msgid "You can also use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define the location where you want the audio files to be stored on your computer. By default, Sound Juicer stores the audio files in the Home directory. To define a location of your choice, select a directory from the <emphasis role=\"strong\">Music Folder</emphasis> drop-down list and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
-msgstr ""
+msgstr "可以使用 <emphasis role=\"strong\">首选项</emphasis> 对话框定义输出的音频文件在计算机上的存放位置。默认上，音乐榨汁机存放音频文件到 home 目录。要根据您的选择，从 <emphasis role=\"strong\">音乐文件</emphasis> 下拉菜单选择一个目录并点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong\">首选项</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:690(title)
 msgid "Specifying Audio File Location"
-msgstr ""
+msgstr "指定音频文件位置"
 
 #: chapter8/xinclude.xml:701(para)
 msgid "After configuring your preferences, you can go ahead and start extracting all the tracks by clicking the <emphasis role=\"strong\">Extract</emphasis> button. However, if you want to exclude some tracks, deselect them by clearing the corresponding check boxes."
-msgstr ""
+msgstr "设置了首选项之后，可以继续并通过点击 <emphasis role=\"strong\">导出</emphasis> 按钮开始导出所有曲目。如果，希望排除一些曲目，通过清除对应的复选框反选他们。"
 
 #: chapter8/xinclude.xml:706(para)
+#, fuzzy
 msgid "Depending on the speed of your computer, the extracting process can take a long time. You can watch the total progress of the process in the lower left section of the <emphasis role=\"strong\">Sound Juicer</emphasis> window."
-msgstr ""
+msgstr "依赖于您计算机的速度，提取过程可能要用去很长时间。"
 
 #: chapter8/xinclude.xml:711(title)
 msgid "Extracting Song Tracks"
@@ -1124,7 +1125,7 @@ msgstr "提取歌曲曲目"
 #: chapter8/xinclude.xml:722(para)
 #: chapter8/xinclude.xml:3153(para)
 msgid "Sound Juicer notifies you after the selected tracks are extracted successfully. Click <emphasis role=\"strong\">Open</emphasis> to view the tracks copied on your hard disk."
-msgstr ""
+msgstr "选中的曲目提取成功时，音乐榨汁机将通知您。点击 <emphasis role=\"strong\">打开</emphasis> 来查看复制到您硬盘上的曲目。"
 
 #: chapter8/xinclude.xml:727(title)
 msgid "Viewing Copied Tracks"
@@ -1133,7 +1134,7 @@ msgstr "查看复制的曲目"
 #: chapter8/xinclude.xml:738(para)
 #: chapter8/xinclude.xml:3159(para)
 msgid "The CD audio tracks are now copied as audio files on your hard disk. You can listen to these tracks by simply double-clicking them."
-msgstr ""
+msgstr "CD 音频曲目现在复制为了一个您硬盘上的音频文件。您可以通过简单的双击它们来欣赏这些曲目。"
 
 #: chapter8/xinclude.xml:743(title)
 msgid "The Copied Tracks"
@@ -1145,7 +1146,7 @@ msgstr "刻录音频 CD"
 
 #: chapter8/xinclude.xml:759(para)
 msgid "Besides copying audio tracks from a CD to your computer, Ubuntu also enables you to copy music files from your computer onto a CD or DVD. Brasero is the CD/DVD burner application that comes bundled with Ubuntu, by default. It is an easy-to-use application that also allows CD/DVD data disc creation, CD/DVD copying and burning of existing images to CD/DVD."
-msgstr ""
+msgstr "除了从 CD 复制音乐曲目到计算机，Ubuntu 也支持允许您从计算机复制音乐文件到光盘。Brasero是 Ubuntu 默认捆绑的光盘刻录程序。它是一个易用的程序，也允许数据光盘创建、光盘复制和刻录已有镜像到光盘。"
 
 #: chapter8/xinclude.xml:766(title)
 #: chapter8/xinclude.xml:3176(title)
@@ -1154,19 +1155,20 @@ msgstr "要刻录音频 CD"
 
 #: chapter8/xinclude.xml:769(para)
 msgid "Launch Brasero by selecting the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Brasero Disc Burning</emphasis>. The Brasero window is displayed."
-msgstr ""
+msgstr "通过选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Brasero 光盘刻录器</emphasis>。就显示 Brasero 窗口。"
 
 #: chapter8/xinclude.xml:775(title)
 msgid "Launching Brasero"
 msgstr "启动 Brasero"
 
+# 怀疑此处原文有错
 #: chapter8/xinclude.xml:786(para)
 msgid "The <emphasis role=\"strong\">Brasero Window</emphasis> displays. Click the <emphasis role=\"strong\">Audio Project</emphasis> button. You will need to navigate to the folder containing the audio tracks you wish to add to the new CD project."
-msgstr ""
+msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。您将需要导航到包含想要添加到新 CD 项目音频曲目的文件夹。"
 
 #: chapter8/xinclude.xml:792(title)
 msgid "Starting a new Audio Project"
-msgstr ""
+msgstr "启动一个新音频工程"
 
 #: chapter8/xinclude.xml:803(title)
 msgid "The New Audio Project window"
@@ -1190,7 +1192,7 @@ msgstr "向光盘写入音频文件"
 
 #: chapter8/xinclude.xml:854(para)
 msgid "The Disc Burning Setup window allows you to change the Properties of the project. You can select the <emphasis role=\"strong\">Options</emphasis> checkbox to leave the disc open to add a data session later. Click the <emphasis role=\"strong\">Burn</emphasis> button to begin writing the files to the disc."
-msgstr ""
+msgstr "光盘刻录设置窗口允许您更改项目的属性。您可以选择 <emphasis role=\"strong\">选项</emphasis> 复选框让光盘保存打开以便稍候添加数据。点击 <emphasis role=\"strong\">Burn</emphasis> 按钮开始写入文件到光盘。"
 
 #: chapter8/xinclude.xml:861(title)
 msgid "Confirming the CD Writing"
@@ -1198,7 +1200,7 @@ msgstr "确认写入 CD"
 
 #: chapter8/xinclude.xml:872(para)
 msgid "Brasero now starts writing the music files to the media disc. You can view the progress in the <emphasis role=\"strong\">Burning Audio Disc</emphasis> dialogue box. This process may take some time depending on the size of the files to be written to disc. Once the process is complete, you have a new CD containing all your favourite songs."
-msgstr ""
+msgstr "Brasero 现在开始写入音乐文件到媒体光盘。您可以在 <emphasis role=\"strong\">刻录音频光盘</emphasis> 对话框中查看这个过程。这个过程可能需要一些时间，其依赖于要写入到光盘的文件的大小。这个过程完成以后，您就拥有了一个带有您所有喜欢歌的新 CD。"
 
 #: chapter8/xinclude.xml:879(title)
 msgid "Writing an Audio CD"
@@ -1238,7 +1240,7 @@ msgstr ""
 
 #: chapter8/xinclude.xml:931(para)
 msgid "To know more about which Gstreamer package contains which plugins, visit the following Web site: <ulink url=\"http://gstreamer.freedesktop.org/documentation/plugins.html\">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>."
-msgstr ""
+msgstr "要了解关于哪个 Gstreamer 包包含哪些解码器的更多信息，访问如下网址：<ulink url=\"http://gstreamer.freedesktop.org/documentation/plugins.html\">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>。"
 
 #: chapter8/xinclude.xml:935(para)
 msgid "Other applications, such as VLC, MPlayer and Xine, do not use the Gstreamer framework."
@@ -1276,7 +1278,7 @@ msgstr "显示软件源"
 #: chapter8/xinclude.xml:990(para)
 #: chapter8/xinclude.xml:3248(para)
 msgid "To enable the Multiverse and Restricted repositories, select the third and fourth check boxes available on the <emphasis role=\"strong\">Ubuntu Software</emphasis> tabbed page, and click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr ""
+msgstr "要启用 Multiverse 和 Restricted 仓库，选中在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页上的第三个和第四个复选框，并点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 #: chapter8/xinclude.xml:996(title)
 msgid "Enabling Repositories"
@@ -1289,12 +1291,12 @@ msgstr ""
 
 #: chapter8/xinclude.xml:1012(title)
 msgid "Repositories Information Notification"
-msgstr ""
+msgstr "软件仓库信息通知"
 
 #: chapter8/xinclude.xml:1023(para)
 #: chapter8/xinclude.xml:3261(para)
 msgid "Once you return to the Synaptic Package Manager window, you are required to click the <emphasis role=\"strong\">Reload</emphasis> button to apply your changes."
-msgstr ""
+msgstr "一旦您返回到新立得软件包管理器窗口，您需要点击 <emphasis role=\"strong\">刷新</emphasis> 按钮来提交您的更改。"
 
 #: chapter8/xinclude.xml:1028(title)
 msgid "Applying Changes"
@@ -1303,7 +1305,7 @@ msgstr "提交更改"
 #: chapter8/xinclude.xml:1039(para)
 #: chapter8/xinclude.xml:3267(para)
 msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
-msgstr ""
+msgstr "点击 <emphasis role=\"strong\">Reload</emphasis> 按钮，系统开始检查软件仓库以获取新的、移除的或更新的软件包。"
 
 #: chapter8/xinclude.xml:1044(title)
 msgid "Checking Package Information"
@@ -1311,7 +1313,7 @@ msgstr "检查软件包信息"
 
 #: chapter8/xinclude.xml:1055(para)
 msgid "After the Multiverse and Restricted repositories are added in the Ubuntu software sources, you can download and install additional multimedia codecs. To install a software package, you need to first locate the package in the Synaptic Package Manager window. You can either search for a specific software package manually or run a search using the search utility provided in the Synaptic Package Manager. To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>"
-msgstr ""
+msgstr "Multiverse 和 Restricted 仓库添加到 Ubuntu 软件源之后，您可以下载并安装附加的多媒体解码器。要安装一个软件包，您需要首先在新立得软件包管理器窗口中定位此包。您也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具运行一个搜索。要开始对一个指定包的搜索，点击 click <emphasis role=\"strong\">Search</emphasis>。"
 
 #: chapter8/xinclude.xml:1064(title)
 msgid "Initiating Software Search"
@@ -1320,7 +1322,7 @@ msgstr "开始软件搜索"
 #: chapter8/xinclude.xml:1075(para)
 #: chapter8/xinclude.xml:3282(para)
 msgid "In the <emphasis role=\"strong\">Search</emphasis> field, enter the name of the software package that you are looking for. Click <emphasis role=\"strong\">Search</emphasis> to begin the search."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">搜索</emphasis> 域中，输入您要查找的软件包的名字。点击 <emphasis role=\"strong\">查找</emphasis> 开始搜索。"
 
 #: chapter8/xinclude.xml:1080(title)
 msgid "Searching a Software Package"
@@ -1328,7 +1330,7 @@ msgstr "搜索软件包"
 
 #: chapter8/xinclude.xml:1091(para)
 msgid "The search results are displayed in the right pane of the Synaptic package Manager window. Right-click the package to be installed and select <emphasis role=\"strong\">Mark for Installation</emphasis>."
-msgstr ""
+msgstr "搜索结果在新立得软件包管理器的右嵌板显示。右键点击要安装的包并选择 <emphasis role=\"strong\">标记以便安装</emphasis>。"
 
 #: chapter8/xinclude.xml:1097(title)
 msgid "Marking Packages for Installation"
@@ -1336,7 +1338,7 @@ msgstr "标记软件包以便安装"
 
 #: chapter8/xinclude.xml:1108(para)
 msgid "You can mark multiple packages for installation by following the same procedure. Once all the required packages are marked, click <emphasis role=\"strong\">Apply</emphasis> to start downloading the packages. The <emphasis role=\"strong\">Summary</emphasis> dialogue box is displayed."
-msgstr ""
+msgstr "您也可以通过同样的步骤标记多个包以便安装。所有要求的包都标记了之后，点击 <emphasis role=\"strong\">应用</emphasis> 开始下载这些包。将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1115(title)
 msgid "Initiating Package Download"
@@ -1440,7 +1442,7 @@ msgstr "更新 iPod"
 
 #: chapter8/xinclude.xml:1323(para)
 msgid "When you are done updating your iPod and want to disconnect it, close down the Rhythmbox window. Right-click the iPod icon on the desktop and then select <emphasis role=\"strong\">Eject</emphasis>. You now can safely remove your iPod from the computer."
-msgstr ""
+msgstr "更新 iPod 之后如果想断开它，关闭 Rhythmbox 窗口。在桌面上的 iPod 图标上点邮件然后选择 <emphasis role=\"strong\">弹出</emphasis>。现在，您可以从计算机上安全地移除您的 iPod 了。"
 
 #: chapter8/xinclude.xml:1333(title)
 msgid "Creating and Editing Audio Files"
@@ -1704,23 +1706,24 @@ msgstr ""
 
 #: chapter8/xinclude.xml:1801(para)
 msgid "The audio file is exported to the specified location. You can now close the Audacity window and listen to the edited audio file whenever you wish."
-msgstr ""
+msgstr "音频文件被导出到指定的位置。您现在可以关闭 Audacity 窗口并在任何您希望的时候欣赏已编辑的音频文件。"
 
 #: chapter8/xinclude.xml:1810(title)
 msgid "Playing DVDs"
 msgstr "播放 DVD"
 
+# 原文错误 sotware
 #: chapter8/xinclude.xml:1812(para)
 msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
-msgstr ""
+msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System CSS) 加密的，其尝试限制可以播放 DVD 的软件。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，加密 DVD 播放需要的一些软件包没有默认安装。您可以从 Ubuntu 仓库启用加密 DVD 的播放。"
 
 #: chapter8/xinclude.xml:1824(para)
 msgid "It is possible that the use of some of the following software to play or copy DVDs is not permitted by law in some countries. Please check your rights before proceeding."
-msgstr ""
+msgstr "使用如下软件中的一些播放或复制 DVD 在某些国家可能是不被法律允许的。请在进行之前确定您有权这样做。"
 
 #: chapter8/xinclude.xml:1829(para)
 msgid "You may also consider downloading the following additional applications that are capable of playing certain formats by default:"
-msgstr ""
+msgstr "您也可以考虑下载如下可以默认播放特定格式的附加程序："
 
 #: chapter8/xinclude.xml:1835(para)
 msgid "Mplayer movie player"
@@ -1741,7 +1744,7 @@ msgstr "Totem-xine"
 
 #: chapter8/xinclude.xml:1851(para)
 msgid "Totem Movie Player, the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
-msgstr ""
+msgstr "Totem 电影播放器 - 包含在 Ubuntu 中的默认电影播放器，可以在 DVD 插入 DVD 驱动器时自动播放它。但是，它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 xine 的自由媒体播放软件可以使 DVD 菜单可用。"
 
 #: chapter8/xinclude.xml:1857(title)
 msgid "Playing DVDs in Totem Movie Player"
@@ -1765,7 +1768,7 @@ msgstr "在 Totem 中播放 DVD"
 
 #: chapter8/xinclude.xml:1883(para)
 msgid "To view the DVD in full screen mode, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Fullscreen</emphasis>. Alternatively, you can simply press <emphasis role=\"strong\">F</emphasis> on your keyboard."
-msgstr ""
+msgstr "要在全屏模式观看 DVD，在 <emphasis role=\"strong\">查看</emphasis> 菜单上点击 <emphasis role=\"strong\">全屏</emphasis>。或者，可以简单的在键盘上按 <emphasis role=\"strong\">F</emphasis>。"
 
 #: chapter8/xinclude.xml:1887(title)
 msgid "Enabling the Full Screen View"
@@ -1781,7 +1784,7 @@ msgstr "全屏观看 DVD"
 
 #: chapter8/xinclude.xml:1912(para)
 msgid "Totem also allows you to configure some settings to view the DVD according to your preferences. To configure the preferences settings, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences</emphasis>."
-msgstr ""
+msgstr "Totem 也允许您配置一些选项以根据您的喜好观看 DVD。要配置喜好的设置，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上，点击 <emphasis role=\"strong\">首选项</emphasis>。"
 
 #: chapter8/xinclude.xml:1918(title)
 msgid "Displaying Totem Configuration"
@@ -1789,15 +1792,16 @@ msgstr "显示 Totem 配置"
 
 #: chapter8/xinclude.xml:1929(para)
 msgid "You can use the Preferences dialogue box to define various display settings, such as the brightness, colour, hue and saturation of the display. After specifying your preferences, click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr ""
+msgstr "您可以使用首选项对话框定义多种显示设置，例如显示的亮度、颜色、色调和饱和度。指定您的首选项之后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 #: chapter8/xinclude.xml:1934(title)
 msgid "Customising Display Settings"
 msgstr "自定义显示设置"
 
+# 此处菜单条没有翻译
 #: chapter8/xinclude.xml:1945(para)
 msgid "When watching a DVD, you can use the various options provided in the <emphasis role=\"strong\">Go</emphasis> menu to navigate inside the DVD. To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
-msgstr ""
+msgstr "当您观看 DVD 时，您可以使用在 <emphasis role=\"strong\">Go</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一帧，在 <emphasis role=\"strong\">Go</emphasis> 菜单上，点击 click <emphasis role=\"strong\">Skip Forwards</emphasis>。"
 
 #: chapter8/xinclude.xml:1951(title)
 msgid "Navigating Inside a DVD"
@@ -1805,7 +1809,7 @@ msgstr "在 DVD 中导航"
 
 #: chapter8/xinclude.xml:1962(para)
 msgid "You are taken to the next frame in the DVD. If you do not want to view the side bar when playing the DVD, click the <emphasis role=\"strong\">Sidebar</emphasis> button."
-msgstr ""
+msgstr "您被带到了 DVD 的下一帧。如果播放 DVD 时您不想看到侧边栏，点击 <emphasis role=\"strong\">侧边栏</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:1966(title)
 msgid "Hiding the Sidebar"
@@ -1817,7 +1821,7 @@ msgstr "观看 DVD"
 
 #: chapter8/xinclude.xml:1987(para)
 msgid "This hides the side bar and now you can view the DVD on a larger space and simultaneously, have all the playback controls right in front of you."
-msgstr ""
+msgstr "此项隐藏侧边栏，现在您可以在一个更大的空间观看 DVD，同时使所有播放控制正好在您面前。"
 
 #: chapter8/xinclude.xml:1995(title)
 msgid "Backing up DVDs"
@@ -1841,7 +1845,7 @@ msgstr "HandBrake"
 
 #: chapter8/xinclude.xml:1997(para)
 msgid "If you have a collection of old and not-so-easy-to-find DVDs, you may wish to back up these on your computer or create extra copies of them. You may even want to extract certain tracks from your DVD and watch it later. To do so, Ubuntu provides you with a number of DVD backup applications or DVD rippers. Although these applications are not included in Ubuntu by default, you can download and install them from the Ubuntu repositories. Some of these applications are: <placeholder-1/>"
-msgstr ""
+msgstr "如果您有收集的旧且不容易查找的 DVD，您可能希望备份它们到计算机或者创建它们的额外副本。您甚至可能希望从 DVD 提取特定曲目稍候观看。要做到这些，Ubuntu 提供给您一些 DVD 备份程序或 DVD 抓取程序。虽然这些程序并不默认包含在 Ubuntu 中，但是您可以从 Ubuntu 仓库下载并安装它们。这些程序中的一些是：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2024(para)
 msgid "If the students want to know more about the above applications, advise them to visit the following Web pages: For dvd::rip- <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink> For K9copy- <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink> For HandBrake- <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>."
@@ -1853,7 +1857,7 @@ msgstr "使用 Thoggen 备份 DVD"
 
 #: chapter8/xinclude.xml:2033(para)
 msgid "Thoggen is a DVD backup utility for Linux, based on GStreamer and Gtk+. This application is designed to be easy-to-use. Rather than exposing the complexities of the DVD ripping process, which many other applications tend to do, it tries to simplify the process for average users by offering sensible default options."
-msgstr ""
+msgstr "Thoggen 是一种 Linux 上的基于 GStreamer 和 Gtk+ 的 DVD 备份工具。此程序设计为易于使用。而不是暴露 DVD 抓取过程的复杂性，这是其它程序倾向于做的，它尝试通过提供合理的默认选项为普通用户简化这个过程。"
 
 #: chapter8/xinclude.xml:2042(para)
 msgid "Is easy to use and has a nice graphical user interface (GUI)"
@@ -1877,7 +1881,7 @@ msgstr "可以从本地目录使用 DVD 文件编码"
 
 #: chapter8/xinclude.xml:2064(para)
 msgid "Is based on the GStreamer multimedia framework, which makes it fairly easy to add additional encoding formats/codecs in future."
-msgstr ""
+msgstr "基于 GStreamer 多媒体框架，这使他在未来相当容易地添加附加的格式或解码。"
 
 #: chapter8/xinclude.xml:2040(para)
 msgid "Thoggen includes certain key features: <placeholder-1/>"
@@ -1885,7 +1889,7 @@ msgstr "Thoggen 包含特定关键特性：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2073(para)
 msgid "Thoggen is still beta software, but should work fine nevertheless. It is advisable, however, to check the list of known issues at <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>."
-msgstr ""
+msgstr "Thoggen 仍然是公开测试版(beta)的软件，但是应该可以很好的工作。它是可取的，然而，要查看已知问题列表  <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>。"
 
 #: chapter8/xinclude.xml:2078(para)
 msgid "To be able to back up your DVD using Thoggen, you need to first install it. You can easily find this application in the Universe repository of Synaptic Package Manager and install it on your computer."
@@ -1953,7 +1957,7 @@ msgstr "Totem Xine 插件:"
 
 #: chapter8/xinclude.xml:2210(para)
 msgid "Install the <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> package from the \"Universe\" repository."
-msgstr ""
+msgstr "从“Universe”仓库安装 <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2218(title)
 msgid "Totem gstreamer plugin:"
@@ -1961,7 +1965,7 @@ msgstr "Totem gstreamer 插件:"
 
 #: chapter8/xinclude.xml:2220(para)
 msgid "Install the <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> package from the \"Universe\" repository."
-msgstr ""
+msgstr "从“Universe”仓库安装 <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2228(title)
 msgid "Mplayer plugin:"
@@ -1969,7 +1973,7 @@ msgstr "Mplayer 插件:"
 
 #: chapter8/xinclude.xml:2230(para)
 msgid "Install the <emphasis role=\"strong\"> mozilla-mplayer</emphasis> package from the Universe repository"
-msgstr ""
+msgstr "从“Universe”仓库安装 <emphasis role=\"strong\"> mozilla-mplayer</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2238(title)
 msgid "Flash plugin:"
@@ -1977,7 +1981,7 @@ msgstr "Flash 插件:"
 
 #: chapter8/xinclude.xml:2240(para)
 msgid "install the <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> package from the \"Multiverse\" repository"
-msgstr ""
+msgstr "从“Multiverse”仓库安装 <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2202(para)
 msgid "However, depending on the format of the video that you want to watch, you may also require to download and install certain additional browser plugins. Some of the plugins available for the default Firefox web browser are: <placeholder-1/>"
@@ -1993,11 +1997,11 @@ msgstr ""
 
 #: chapter8/xinclude.xml:2262(para)
 msgid "The RealPlayer, developed by RealNetworks, supports a number of audio and video codecs such as realaudio, realvideo 10, mp3, ogg vorbis and theora, h263 and AAC. The RealPlayer for Linux is available in the Canonical commercial repository and can also be freely downloaded from the RealPlayer web site."
-msgstr ""
+msgstr "RealNetworks 开发的 RealPlayer 支持很多音频和视频编码，例如  realaudio、realvideo 10、mp3、ogg vorbis 和 theora、h263 以及 AAC。Linux 版的 RealPlayer 可以在 Canonical 商业仓库找到，也可以自由地从 RealPlayer 网站下载。"
 
 #: chapter8/xinclude.xml:2271(para)
 msgid "RealPlayer is a proprietary software and is not supported by the Ubuntu community."
-msgstr ""
+msgstr "RealPlayer 是一款商业软件，并不由 Ubuntu 社区支持。"
 
 #: chapter8/xinclude.xml:2276(title)
 msgid "Installing RealPlayer"
@@ -2005,7 +2009,7 @@ msgstr "安装 RealPlayer "
 
 #: chapter8/xinclude.xml:2278(para)
 msgid "As mentioned above, the realPlayer for Linux is available in the Canonical commercial repository. Ubuntu does not include this repository by default. Therefore, you will first need to add Canonical's commercial repository to your system. Once the repository is added, you can search for the Realplayer package and then install it on your computer."
-msgstr ""
+msgstr "如前所述，Linux 版 RealPlayer 在 Canonical 商业仓库中可用。Ubuntu 默认并不包含此仓库。因此，您首先需要向您的系统添加 Canonical 商业仓库。一旦添加了此仓库，您可以搜索 Realplayer 包并安装在您的计算机上。"
 
 #: chapter8/xinclude.xml:2287(title)
 msgid "Watching Online Videos Using RealPlayer"
@@ -2169,7 +2173,7 @@ msgstr "在 Pitivi 中导入视频剪辑"
 
 #: chapter8/xinclude.xml:2591(para)
 msgid "The selected video clip is now imported into the Pitivi Video editor. You can double-click the video clip to view it in the right pane. Click the <emphasis role=\"strong\">Stop</emphasis> button on the control bar to stop the playback."
-msgstr ""
+msgstr "选中的视频剪辑现在导入到了 Pitivi 视频编辑器。您可以双击此视频剪辑以在右嵌板查看它。点击控制条上的 <emphasis role=\"strong\">停止</emphasis> 按钮来停止播放。"
 
 #: chapter8/xinclude.xml:2597(title)
 msgid "Viewing the Imported Video"
@@ -2177,7 +2181,7 @@ msgstr "查看导入的视频"
 
 #: chapter8/xinclude.xml:2608(para)
 msgid "To edit the imported video clip, you need to drag them to the bottom pane to add them to the time line and then select the <emphasis role=\"strong\">Project Settings</emphasis> option from the <emphasis role=\"strong\">File</emphasis> menu. This opens the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box."
-msgstr ""
+msgstr "要编辑导入的视频剪辑，您需要拖动它们到底部嵌板以添加它们到时间线，并然后从 <emphasis role=\"strong\">文件</emphasis> 菜单选择 <emphasis role=\"strong\">项目设置</emphasis> 选项。这项打开 <emphasis role=\"strong\">项目设置</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2616(title)
 msgid "Displaying the Project Settings Dialogue Box"
@@ -2245,7 +2249,7 @@ msgstr "当使用或重新发布私有媒体格式时，您应该知道与之相
 
 #: chapter8/xinclude.xml:2752(para)
 msgid "You can use Rhythmbox to play and organise music, listen to Internet radio and import music from CDs."
-msgstr "您可以使用 Rhythmbox 播放和组织音乐，收听网络广播，从 CD 导入音乐。"
+msgstr "您可以使用 Rhythmbox 播放和组织音乐，收听网络电台，从 CD 导入音乐。"
 
 #: chapter8/xinclude.xml:2757(para)
 msgid "Using Sound Juicer, you can play audio tracks direct from the CD, extract audio tracks and convert them into audio files in various file formats. In addition, the default audio CD/DVD burner for Ubuntu, Brasero, can be used to create audio and data CD/DVDs."
@@ -2458,7 +2462,7 @@ msgstr ""
 
 #: chapter8/xinclude.xml:3042(para)
 msgid "To listen to Internet radio, click the <emphasis role=\"strong\">Radio</emphasis> source in the <emphasis role=\"strong\">Source</emphasis> pane."
-msgstr "要收听网络广播，点击在 <emphasis role=\"strong\">源</emphasis> 嵌板上的 <emphasis role=\"strong\">广播</emphasis> 源。"
+msgstr "要收听网络电台，点击在 <emphasis role=\"strong\">源</emphasis> 嵌板上的 <emphasis role=\"strong\">电台</emphasis> 源。"
 
 #: chapter8/xinclude.xml:3046(para)
 msgid "Double-click on the radio station of your choice to listen to the streaming media."
@@ -2486,7 +2490,7 @@ msgstr "要播放音频 CD："
 
 #: chapter8/xinclude.xml:3085(para)
 msgid "Insert an audio CD in the CD drive of your computer. The <emphasis role=\"strong\">Sound Juicer</emphasis> CD player and ripper is launched automatically."
-msgstr ""
+msgstr "向计算机的 CD 驱动器插入音频 CD。<emphasis role=\"strong\">音乐榨汁机</emphasis> CD 播放器和抓取器将自动启动。"
 
 #: chapter8/xinclude.xml:3091(para)
 msgid "Notice that <emphasis role=\"strong\">Sound Juicer</emphasis> has fetched the tracks' information from MusicBrainz.org."
@@ -2696,5 +2700,12 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter8/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "YunQiang Su <wzssyqa@gmail.com>"
+msgstr ""
+"Aron Xu <happyaron.xu@gmail.com>, 2009.\n"
+"YunQiang Su <wzssyqa@gmail.com>,2009.\n"
+"Hunt Xu <huntxu@live.cn>, 2009.\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Azrael Green https://launchpad.net/~azrael-green\n"
+"  王英华 https://launchpad.net/~wantinghard"
 

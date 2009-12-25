@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-24 23:33+0800\n"
+"PO-Revision-Date: 2009-12-25 21:11+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -885,7 +885,7 @@ msgstr "不，禁用所有的启动服务是不可行的，因为禁用某些服
 
 #: chapter10/Partitioning_and_Booting.xml:1161(title)
 msgid "Lab Exercise"
-msgstr "实验课联系"
+msgstr "实验课练习"
 
 #: chapter10/Partitioning_and_Booting.xml:1164(title)
 msgid "Exercise 1"
