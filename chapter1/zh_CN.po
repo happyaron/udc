@@ -159,10 +159,15 @@ msgid ""
 "source, which is the underlying foundation of Ubuntu. Briefly explain the "
 "dictionary meaning of 'open source' in general and move on to establishing "
 "how the open source ideology developed in the context of Linux. Present this "
-"as a story spread over different phases: Free Software Movement, Open Source "
+"as a story spread over different phases: Free Software Movemenhttp://github.com/happyaron/udc/blob/master/chapter1/zh_CN.pot, Open Source "
 "Movement initiation and its formal launch. Explain the Ubuntu release "
 "schedule, naming convention and Ubuntu promise in detail."
 msgstr ""
+"本课重点旨在帮助学生理解作为Ubuntu基础的开源的概念。简而言之，简要解释“开源”的含义并开始实践。"
+"简而言之，简要解释“开源”的含义并开始将开源思想于Linux中付诸实践。我们将把它作为一个故事并分成若干段来讲："
+"讲解自由软件运动的起源以及它的正式启动；"
+"详细讲解Ubuntu的发布日程安排，命名规则以及Ubuntu承诺。"
+
 
 #: chapter1/Introducing_Ubuntu.xml:50(para)
 msgid ""
@@ -176,6 +181,7 @@ msgid ""
 "open source and Linux have transitioned through various phases to reach "
 "their present form."
 msgstr ""
+"Ubuntu是一个以Linux为基础的开源操作系统。“开源”可以被定义为一组原则和习惯，一组将"
 
 #: chapter1/Introducing_Ubuntu.xml:61(para)
 msgid ""

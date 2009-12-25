@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-24 15:40+0800\n"
+"PO-Revision-Date: 2009-12-25 14:13+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -231,7 +231,7 @@ msgstr "扫描和发送图像"
 #: chapter7/Managing_Graphics_and_Photos.xml:732(title)
 #: chapter7/Managing_Graphics_and_Photos.xml:906(title)
 msgid "Instructor Notes:"
-msgstr ""
+msgstr "编者提示"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:26(emphasis)
 msgid "It is advisable to cover all the topics during the training. However, if you fall short of time then cover only the following topics:"
@@ -260,99 +260,99 @@ msgstr "图形应用程序是Ubuntu的一个组成部分。他们可以用来管
 
 #: chapter7/Managing_Graphics_and_Photos.xml:56(para)
 msgid "In this lesson, you will learn about the various graphics applications available on Ubuntu and which one to use when. These graphics applications are available either with the Ubuntu installation or in repositories (those libraries we mentioned earlier)."
-msgstr ""
+msgstr "本次课程中，你将学习在Ubuntu上的多种图形应用程序，并在特定的时间针对性的使用他们。这些图形应用程序可以是Ubuntu自带的或者在库文件中获取(这些库文件之前提到过)。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:62(title)
 msgid "Applications Available with the Ubuntu Installation"
-msgstr ""
+msgstr "Ubuntu安装获取应用程序"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:67(para)
 msgid "<emphasis role=\"strong\">GIMP Image Editor:</emphasis> An image editor used for advanced image creation and editing such as changing the contrast, colour or the texture of an image."
-msgstr ""
+msgstr "<emphasis role=\"strong\">GIMP 图像编辑器:</emphasis> 这款图像编辑器可用于图像的创建和编辑，比如改变图像的对比度、色彩和纹理等。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:73(para)
 msgid "<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager used to organise and manage photos. F-Spot enables you to tag (label), categorise and sort photos."
-msgstr ""
+msgstr "<emphasis role=\"strong\">F-Spot 照片管理器:</emphasis>可用来组织和管理照片。可以利用F-Spot对照片进行标记（添加标签）、分类和排序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:79(para)
 msgid "<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner which also enables you to photocopy documents and fax or e-mail scanned images."
-msgstr ""
+msgstr "<emphasis role=\"strong\">XSane 图像扫描仪:</emphasis>可以用来影印文件，以传真或者电子邮件的形式发送扫描图像。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:64(para)
 msgid "The following applications are included in the Ubuntu installation package: <placeholder-1/>"
-msgstr ""
+msgstr "下列应用程序包含在Ubuntu安装包中：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:87(title)
 msgid "Applications Available in Repositories"
-msgstr ""
+msgstr "存储库中可获取的应用程序"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:89(para)
 msgid "In addition to the default applications, you can search through the repositories and install applications using the Synaptic Package Manager or the Command Line Interface (CLI)."
-msgstr ""
+msgstr "除了默认的应用程序，您还可以使用新立得软件包管理器或命令行界面（CLI）在存储库中搜索和安装应用程序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:97(para)
 msgid "Thousands of applications are available in the repositories; this topic covers only a few of them. If students want more information about a specific application, show them the way to view application details in the Synaptic Package Manager."
-msgstr ""
+msgstr "存储库中有成千上万的应用程序；本文只涉及到了其中的某些应用程序。如果想了解具体应用程序的更多信息，可在新立得软件包管理器中输入程序名来了解其细节。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:114(title)
 msgid "Agave:"
-msgstr ""
+msgstr "Agave:"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:116(para)
 msgid "A colour scheme designer. After you select a base colour, Agave suggests the appropriate complementary colours or shades of the same base colour. You can also drag and drop a colour from another application, such as GIMP. Whether you are designing a Web page or a pamphlet or painting your house, this programme enables you to identify the appropriate colour scheme. Visit the Web site <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink> for more information on Agave."
-msgstr ""
+msgstr "一款颜色设计器。当你选定一个基本颜色，Agave将提示适当的互补色或者相同基础色的色调。您还可以从类似GIMP这样的应用程序中将颜色拖拽过来。无论您是在设计一个网页或是一本小册子，亦或是粉刷您的房子，这个程序都将方便您找到合适的配色方案。想获得关于Agave的更多信息，可登录网址 <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink>进行查看。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:137(title)
 msgid "Blender:"
-msgstr ""
+msgstr "Blender："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:139(para)
 msgid "An open-source 3D content creation suite. You can create 3D models and animations, add post-production effects or use it as a graphics editor to define interactive behaviour without programming. Blender has a distinctive user interface that is implemented entirely in Open GL and designed for speed. Python bindings for scripting and import/export features for popular file formats such as 3D Studio are available in Blender. Blender can output still images, animations, models for games or other third party engines and interactive content in the form of standalone binaries or web plug-ins. Visit the Web site <ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink> for more information on Blender."
-msgstr ""
+msgstr "是一款开源的3D内容创建软件。可以进行3D建模、动画制作和后期效果制作，它可作为一款图形编辑器，在无需编程的环境下定义互动行为。Blender有一个独特的用户界面，它完全在Open GL下实现且优化了运行速度。利用Blender可以获得Python绑定脚本，并针对常用的文件格式实现了导入/导出功能，例如3D Studio。Blender还可以生成图像、动画和模型，供给游戏或其他第三方引擎使用，它以独立的二进制文件或网页插件的形式提供互动内容。想获得关于Blender的更多信息，可登录网站<ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink>进行查看。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:163(title)
 msgid "Dia:"
-msgstr ""
+msgstr "Dia："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:165(para)
 msgid "A diagram editor similar to Microsoft Visio. Dia offers the capability to produce precise and professional-level graphics. You can draw entity relationship diagrams, flowcharts and network diagrams and export them to various formats, including EPS, SVG, XFIG, WMF and PNG. You can also print diagrams spanning multiple pages. Visit the Web site <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> for more information."
-msgstr ""
+msgstr "一款类似于Microsoft Visio的图标编辑器。Dia能够制作精密的专业水平的图表。您可以绘制实体关系图、流程图和网络图，并以多种格式导出，包括EPS、SVG、XFIG、WMF和PNG等。您还可以跨越多也面进行图标打印。您可以登录网站 <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> 获得更多相关信息。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:185(title)
 msgid "Gcolor2:"
-msgstr ""
+msgstr "Gcolor2："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:187(para)
 msgid "A simple colour selector and picker that facilitates quick and easy selection of colours. It also enables you to save new colours and delete existing ones. Visit the Web site <ulink url=\"http://gcolor2.sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink> for more information."
-msgstr ""
+msgstr "一款简单的颜色选择器，您可以用它快速简单地进行颜色设定。您还可以使用它来保存新的颜色信息或者删除已有的颜色信息。登录 <ulink url=\"http://gcolor2.sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink>可获得更多信息。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:204(title)
 msgid "GNU paint:"
-msgstr ""
+msgstr "GNU paint："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:206(para)
 msgid "A user-friendly painting programme for GNOME. It offers easy-to-use drawing tools to perform various image-processing operations. Visit the Web site <ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/</ulink> for more information."
-msgstr ""
+msgstr "为GNOME提供的用户友好的绘图方案。它提供易于使用的绘图工具来执行各种图像处理操作。可访问网站<ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/</ulink> 获得更多相关信息。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:103(para)
 msgid "Some of the graphics applications are available in Ubuntu software repositories: <placeholder-1/>"
-msgstr ""
+msgstr "一些图形应用程序可在Ubuntu软件库中获得：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:215(para)
 msgid "In addition, several third-party applications, such as Picasa, a free software download from Google, are compatible with Ubuntu."
-msgstr ""
+msgstr "此外，一些第三方应用，如Google上下载的自由软件Picasa，也能与Ubuntu兼容。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:218(para)
 msgid "Picasa enables you to locate and organise all the photos on your computer, edit and add effects to your photos and share your photos through e-mail and print and post images on the Web. You can download Picasa from the following Web site <ulink url=\"http://picasa.google.com/linux/download.html\">http://picasa.google.com/linux/download.html</ulink>."
-msgstr ""
+msgstr "利用Picasa您可以查找和组织您的计算机上的所有照片，对其进行编辑或者添加效果，您可以通过电子邮件、打印或者在网络上贴图的形式共享您的照片。您可以通过以下网址下载Picasa：<ulink url=\"http://picasa.google.com/linux/download.html\">http://picasa.google.com/linux/download.html</ulink>."
 
 #: chapter7/Managing_Graphics_and_Photos.xml:224(para)
 msgid "The following section outlines the features of some of these graphics applications and how to use them."
-msgstr ""
+msgstr "下面一节将概述一下这些图形应用程序的特点和使用方法。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:230(title)
 msgid "Viewing and Managing Photos with F-Spot"
-msgstr ""
+msgstr "利用F-Spot浏览和管理照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:235(para)
 msgid "After a brief explanation of F-Spot and its features, refrain from lengthy explanation of the tasks. Perform a brief demo of the tasks covered in the lesson and ask students to follow."
