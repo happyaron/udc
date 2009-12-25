@@ -1,7 +1,0 @@
-#!/bin/bash
-PO_POT_DIRS="book chapter1 chapter10 chapter2 chapter3 chapter4 chapter5 chapter6 chapter7 chapter8 chapter9 introduction legal"
-for popotdirs in $PO_POT_DIRS
-do
-	cd ../$popotdirs
-	msgmerge -U zh_CN.po `ls *.pot`
-done

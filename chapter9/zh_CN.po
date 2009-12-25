@@ -400,7 +400,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:19(title) chapter9/Ubuntu_Help_and_Support.xml:108(title) chapter9/Ubuntu_Help_and_Support.xml:383(title)
 msgid "Instructor Notes:"
-msgstr ""
+msgstr "教师附注："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:21(para)
 msgid ""
@@ -409,6 +409,8 @@ msgid ""
 "the previous lessons or select something from the optional material, such as "
 "partitioning and booting or sections from the music and video lesson."
 msgstr ""
+"本课包含一个可选学时。您可以选择利用这些时间复习前面课程的内容，或者选择其他材料进行学习，例如"
+"分区和启动或者影音相关的课程。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:29(title)
 msgid "Introduction"
@@ -429,20 +431,24 @@ msgid ""
 "based and involves system and online documentation, mailing lists, forums, "
 "IRC channels and Launchpad."
 msgstr ""
+"<emphasis role=\"italic\">第一种渠道是：</emphasis>免费的，由社区提供的系统文档和在线文档、"
+"邮件列表、论坛、IRC 频道和 Launchpad。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:45(para)
 msgid ""
 "<emphasis role=\"italic\">The second level is: </emphasis> Paid for, "
 "commercial services through Canonical itself and / or various partners."
 msgstr ""
+"<emphasis role=\"italic\">第二种渠道是：</emphasis>付费从 Canonical 及其合作伙伴"
+"购买商业支持服务。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:52(title)
 msgid "Accessing System Documentation"
-msgstr ""
+msgstr "获取系统文档"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:63(title) chapter9/Ubuntu_Help_and_Support.xml:78(title)
 msgid "System Documentation"
-msgstr ""
+msgstr "系统文档"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:65(para)
 msgid ""
@@ -452,6 +458,9 @@ msgid ""
 "Team</ulink> maintains and updates the documentation for each release. This "
 "documentation is very reliable and available in different languages."
 msgstr ""
+"您应当最先查找的是离线系统文档。这些文档由 <ulink "
+"url=\"https://wiki.ubuntu.com/DocumentationTeam\">Ubuntu 文档团队</ulink> 维护，"
+"因此它们非常可靠并且拥有多个语言的版本。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:71(para)
 msgid ""
@@ -461,6 +470,9 @@ msgid ""
 "Menu. The following screenshot shows the home page of the Help and Support "
 "offline system documentation."
 msgstr ""
+"Ubuntu 系统文档是以主题为线索组织的，包括了对常见问题的解答。您可以点击 <emphasis role=\"strong\">系统"
+"</emphasis> 菜单下的 <emphasis role=\"strong\">帮助和支持</emphasis> 来访问这些文档。"
+"以下是帮助和支持离线文档系统的首页截图。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:87(para)
 msgid ""
@@ -470,12 +482,17 @@ msgid ""
 "desktop, the role of the administrator and basic computer skills. A great "
 "resource for any newcomers and a top-up to this desktop course."
 msgstr ""
+"Ubuntu 新手？这一节将会把您带入 Ubuntu 的多彩世界，并且为您提供了从 Microsoft Windows "
+"迁移所需的简易指导。它还会向您阐述如何使用桌面系统、管理员的角色和基本的计算机操作技巧。这些文档"
+"可以作为本教程非常有益的补充部分。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:94(para)
 msgid ""
 "Some applications do also offer access to the help system through the "
 "<emphasis>Help</emphasis> menu or keyboard shortcut <emphasis>F1</emphasis>."
 msgstr ""
+"部分应用程序还支持通过系统 <emphasis>帮助</emphasis> 菜单或者 <emphasis>F1</emphasis> 快捷键"
+"访问帮助系统。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:98(para)
 msgid ""
@@ -484,14 +501,16 @@ msgid ""
 "the term you are looking for and the system will search all the documents "
 "and guides with related information."
 msgstr ""
+"系统文档的一项重要特性是它支持搜索并以此指引您获得解决问题所需的文档。您只需输入要查找的关键词，"
+"系统将搜索全部文档和指南并给出您相关的信息。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:105(title) chapter9/Ubuntu_Help_and_Support.xml:127(title)
 msgid "Online Documentation"
-msgstr ""
+msgstr "在线文档"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:110(para)
 msgid "Guide the students through each one of the options on the Web."
-msgstr ""
+msgstr "指导学生通过网络尝试每一项内容。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:114(para)
 msgid ""
@@ -500,6 +519,9 @@ msgid ""
 "two different types of documentation available on this site, official and "
 "community."
 msgstr ""
+"Ubuntu 在线文档可以在 <ulink url=\"https://help.ubuntu.com\">"
+"https://help.ubuntu.com</ulink> 获得。在此站点上有两种不同类型的文档，"
+"即官方文档和社区文档。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:118(para)
 msgid ""
@@ -508,18 +530,22 @@ msgid ""
 "desktop. You can also access this documentation on the Internet at the Web "
 "site mentioned above."
 msgstr ""
+"官方文档是随着您的 Ubuntu 系统安装一同被装入系统的，您可以在桌面环境中在本地直接访问。"
+"当然，您也可以在上面提及的网站中获得它们。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:123(para)
 msgid ""
 "The following screenshot shows the home page of the Ubuntu documentation "
 "site:"
 msgstr ""
+"以下是 Ubuntu 文档网站的截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:136(para)
 msgid ""
 "The documentation is classified according to the various Ubuntu releases, "
 "such as Ubuntu 8.04 LTS, 7.10 and 6.06 LTS."
 msgstr ""
+"文档按照不同的 Ubuntu 版本分类，如 Ubuntu 9.10，9.04，8.10 和 Ubuntu 8.04 LTS。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:139(para)
 msgid ""
@@ -529,6 +555,8 @@ msgid ""
 "and Support</emphasis>. You can also use the Help icon on the top panel of "
 "the desktop."
 msgstr ""
+"要在 Ubuntu 桌面中访问本地的官方文档，请在 <emphasis role=\"strong\">系统</emphasis>"
+"菜单中点击 <emphasis role=\"strong\">帮助和支持</emphasis>，或者点击桌面顶部面板的帮助图标。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:144(para)
 msgid ""
@@ -545,39 +573,46 @@ msgid ""
 "quality assurance control and especially maintenance makes it a slightly "
 "less reliably alternative."
 msgstr ""
+"官方文档所涉及的内容足够您解决大多数的问题。然而，如果您无法在其中找到需要的内容，您可以查找"
+"社区文档看是否能够获得答案。这些文档由社区创建，没有 Ubuntu 文档团队那样严格的质量控制流程。"
+"您可以通过站点上的 <emphasis role=\"strong\">社区文档</emphasis> 标签访问它们，这些文档"
+"被储存在 Wiki 上，其内容允许快速变更。社区文档的益处在于它覆盖了更广的内容范围，深度也远大于官方"
+"文档；然而它缺少完善的质量控制流程，这使得您应当将其作为官方文档之后的备用选择。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:158(para)
 msgid ""
 "The community documentation is a large collection of community-contributed "
 "documents, primarily covering the following topics:"
 msgstr ""
+"社区文档整合了大量社区贡献的内容，主要包含以下几类内容："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:164(para)
 msgid ""
 "Migrating from other operating systems, such as Microsoft Windows and Red Hat"
 msgstr ""
+"从其他操作系统迁移，例如 Microsoft Windows 和 Redhat。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:169(para)
 msgid "Post-installation configuration for a variety of tasks such as"
-msgstr ""
+msgstr "为诸如以下情况进行安装前配置："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:174(para)
 msgid "Maintaining your computer"
-msgstr ""
+msgstr "维护您的计算机"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:178(para)
 msgid "Connecting and configuring hardware"
-msgstr ""
+msgstr "连接和配置硬件"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:184(para)
 msgid ""
 "The following screenshot displays the information available in the community "
 "documentation:"
 msgstr ""
-
+"以下是社区文档的一个网页截图："
 #: chapter9/Ubuntu_Help_and_Support.xml:188(title)
 msgid "Community Documentation"
-msgstr ""
+msgstr "社区文档"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:197(para)
 msgid ""
@@ -591,6 +626,10 @@ msgid ""
 "a full <emphasis role=\"strong\">Text</emphasis> search may find the right "
 "page."
 msgstr ""
+"同官方文档类似，社区文档也被分为多个类别。您可以在页面右侧的分类索引中选择要访问的类别。"
+"还可以使用页面右上角的 <emphasis role=\"strong\">搜索</emphasis> 来进行信息检索。"
+"请记住 <emphasis role=\"strong\">标题</emphasis> 选项将使您只搜索文档的标题，如果由此"
+"没有获得有用的结果，请尝试使用  <emphasis role=\"strong\">全文</emphasis> 搜索。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:206(para)
 msgid ""
@@ -600,16 +639,19 @@ msgid ""
 "role=\"strong\">Common Questions</emphasis> link on the community "
 "documentation page."
 msgstr ""
+"您还可以在 <emphasis role=\"strong\">CommonQuestions</emphasis> 页面寻找需要的信息。"
+"可以点击社区文档页上的 <emphasis role=\"strong\">常见问题</emphasis> 链接进行访问。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:209(para)
 msgid ""
 "The following screenshot displays the <emphasis "
 "role=\"strong\">CommonQuestions</emphasis> page on the Ubuntu Web site:"
 msgstr ""
+"以下是 Ubuntu 网站上 <emphasis role=\"strong\">CommonQuestions</emphasis> 页面的截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:213(title)
 msgid "The CommonQuestions Page"
-msgstr ""
+msgstr "CommonQuestions"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:222(para)
 msgid ""
@@ -1404,11 +1446,11 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1030(title)
 msgid "Lesson Summary"
-msgstr ""
+msgstr "课堂小结"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1032(para)
 msgid "In this lesson, you learned:"
-msgstr ""
+msgstr "在本课中，您已经学习了："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1036(para)
 msgid ""
@@ -1456,7 +1498,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1078(title)
 msgid "Review Exercise"
-msgstr ""
+msgstr "复习测验"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1083(para)
 msgid "Name the major sources of help and support for Ubuntu."

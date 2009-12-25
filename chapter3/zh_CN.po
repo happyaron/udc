@@ -2473,6 +2473,8 @@ msgid ""
 "role=\"strong\">Preferences</emphasis> on the <emphasis "
 "role=\"strong\">Edit</emphasis> menu in the Ekiga window."
 msgstr ""
+"安装 Ekiga 后，如果您要修改配置，您可以通过 <emphasis role=\"strong\">编辑</emphasis> "
+"菜单中的 <emphasis role=\"strong\">首选项</emphasis> 再次运行配置向导。"
 
 #: chapter3/Using_Internet.xml:2000(para)
 msgid ""
@@ -2487,6 +2489,7 @@ msgid ""
 "The Ekiga window will be displayed. It is the default softphone application "
 "available on Ubuntu."
 msgstr ""
+""
 
 #: chapter3/Using_Internet.xml:2008(title)
 msgid "Ekiga Window"
@@ -2494,11 +2497,11 @@ msgstr "Ekiga 窗口"
 
 #: chapter3/Using_Internet.xml:2021(title)
 msgid "Making Calls Using Ekiga"
-msgstr ""
+msgstr "使用 Ekiga 拨打电话"
 
 #: chapter3/Using_Internet.xml:2023(term)
 msgid "From Computer to Computer"
-msgstr ""
+msgstr "从电脑到电脑"
 
 #: chapter3/Using_Internet.xml:2025(para)
 msgid ""
@@ -2515,7 +2518,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2040(term)
 msgid "From Computer to Regular Phones"
-msgstr ""
+msgstr "从电脑到电话"
 
 #: chapter3/Using_Internet.xml:2042(para)
 msgid ""
@@ -2532,7 +2535,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2058(term)
 msgid "From Real Phones to Computer"
-msgstr ""
+msgstr "从电话到电脑"
 
 #: chapter3/Using_Internet.xml:2060(para)
 msgid ""
@@ -2548,6 +2551,9 @@ msgid ""
 "url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?r"
 "ub=3</ulink>."
 msgstr ""
+"要了解更多关于使用 Ekiga 拨打电话的信息，参见 <ulink "
+"url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?r"
+"ub=3</ulink>。"
 
 #: chapter3/Using_Internet.xml:2079(title)
 msgid "Skype"
@@ -2564,6 +2570,9 @@ msgid ""
 "end-to-end so that others cannot listen in. We will not go into detail over "
 "Skype communication here."
 msgstr ""
+"Skype 是另一个可用于 Ubuntu 的软电话软件。Skype 的源代码是私有的，但是对于用户使用是免费的。"
+"您的呼叫会经由分布式部署的服务器群传递，Skype 使用了它私有的点对点的去中心技术。Skype 使用的网络连接"
+"是经过加密的，它可以保证您和别人的通话不被窃听。在这里我们不会对 Skype 进行更深入的探讨。"
 
 #: chapter3/Using_Internet.xml:2096(title)
 msgid "Lesson Summary"
@@ -2619,6 +2628,7 @@ msgid ""
 "platform instant messenger that supports multiple popular IM network "
 "protocols."
 msgstr ""
+"Ubuntu 上的默认即时通讯程序是 Pidgin。它支持多种流行的即时通讯网络协议。"
 
 #: chapter3/Using_Internet.xml:2140(para)
 msgid "Ekiga is the default open source softphone application for Ubuntu."
@@ -2630,13 +2640,14 @@ msgstr "复习测验"
 
 #: chapter3/Using_Internet.xml:2152(para)
 msgid "What are the three main ways to connect to the Internet?"
-msgstr ""
+msgstr "连接到互联网的三种主要方式分别是什么？"
 
 #: chapter3/Using_Internet.xml:2157(para)
 msgid ""
 "The three main ways to connect to the Internet are through cable, wireless "
 "and dial-up connections."
 msgstr ""
+"这三种主要方式分别是通过电缆、无线和拨号接入。"
 
 #: chapter3/Using_Internet.xml:2164(para)
 msgid "Which tool is used to identify a modem on Ubuntu?"
@@ -2658,12 +2669,12 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2186(para)
 msgid "What is a feed?"
-msgstr ""
+msgstr "什么是网络 Feed？"
 
 #: chapter3/Using_Internet.xml:2190(para)
 msgid ""
 "A feed is an XML Web page that contains a list of links to other Web pages."
-msgstr ""
+msgstr "网络 Feed 是一个 XML 页，其中包含了一个到其他网页的链接列表。"
 
 #: chapter3/Using_Internet.xml:2197(para)
 msgid "Match the following:"
@@ -2715,7 +2726,7 @@ msgid ""
 "You can get an SIP address from <ulink "
 "url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink>."
 msgstr ""
-"您可以在 <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink>"
+"您可以在 <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink> "
 "获得一个 SIP 地址。"
 
 #: chapter3/Using_Internet.xml:2248(para)
@@ -2738,19 +2749,19 @@ msgstr "下列哪个是 RSS 阅读器？"
 
 #: chapter3/Using_Internet.xml:2262(para)
 msgid "A. Ekiga"
-msgstr "A. Ekiga"
+msgstr " A. Ekiga"
 
 #: chapter3/Using_Internet.xml:2264(para) chapter3/Using_Internet.xml:2272(para)
 msgid "B. Liferea"
-msgstr "B. Liferea"
+msgstr " B. Liferea"
 
 #: chapter3/Using_Internet.xml:2266(para)
 msgid "C. Pan"
-msgstr "C. Pan"
+msgstr " C. Pan"
 
 #: chapter3/Using_Internet.xml:2268(para)
 msgid "D. Skype"
-msgstr "D. Skype"
+msgstr " D. Skype"
 
 #: chapter3/Using_Internet.xml:2278(para)
 msgid "Which of the following is proprietary software?"
@@ -2758,19 +2769,19 @@ msgstr "下列哪个是专利软件？"
 
 #: chapter3/Using_Internet.xml:2280(para) chapter3/Using_Internet.xml:2290(para)
 msgid "A. Skype"
-msgstr "A. Skype"
+msgstr " A. Skype"
 
 #: chapter3/Using_Internet.xml:2282(para)
 msgid "B. Ekiga"
-msgstr "B. Ekiga"
+msgstr " B. Ekiga"
 
 #: chapter3/Using_Internet.xml:2284(para)
 msgid "C. Liferea"
-msgstr "C. Liferea"
+msgstr " C. Liferea"
 
 #: chapter3/Using_Internet.xml:2286(para)
 msgid "D. Firefox"
-msgstr "D. Firefox"
+msgstr " D. Firefox"
 
 #: chapter3/Using_Internet.xml:2297(title)
 msgid "Lab Exercise"
@@ -2787,6 +2798,8 @@ msgid ""
 "url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. Now, "
 "you want to configure Liferea for the latest updates from this Web site."
 msgstr ""
+"假设您使用 Liferea 作为新闻阅读器。最近您的一位朋友告诉您 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink> "
+"提供 RSS。现在您希望配置 Liferea 接收该网站的最新头条。"
 
 #: chapter3/Using_Internet.xml:2312(para)
 msgid ""
@@ -2794,6 +2807,8 @@ msgid ""
 "url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. This "
 "site offers RSS feeds."
 msgstr ""
+"打开 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>，"
+"此站点提供 RSS。"
 
 #: chapter3/Using_Internet.xml:2318(para)
 msgid ""
@@ -2807,7 +2822,7 @@ msgstr ""
 
 #: chapter3/Using_Internet.xml:2328(para)
 msgid "Open Liferea."
-msgstr ""
+msgstr "打开 Liferea。"
 
 #: chapter3/Using_Internet.xml:2332(para)
 msgid ""
@@ -2816,6 +2831,8 @@ msgid ""
 "Subscription</emphasis>. The <emphasis role=\"strong\">New "
 "Subscription</emphasis> dialogue box is displayed."
 msgstr ""
+"右击左侧面板，鼠标指向 <emphasis role=\"strong\">新建</emphasis> 并点击 "
+"<emphasis role=\"strong\">New Subscription</emphasis>"
 
 #: chapter3/Using_Internet.xml:2339(para)
 msgid ""
