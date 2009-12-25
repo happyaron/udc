@@ -2628,7 +2628,7 @@ msgid ""
 "platform instant messenger that supports multiple popular IM network "
 "protocols."
 msgstr ""
-"Ubuntu 上的默认即时通讯程序是 Pidgin。它支持多种流行的即时通讯网络协议。"
+"Ubuntu 上的默认即时通讯程序是 Empathy。它支持多种流行的即时通讯网络协议。"
 
 #: chapter3/Using_Internet.xml:2140(para)
 msgid "Ekiga is the default open source softphone application for Ubuntu."
@@ -2892,7 +2892,7 @@ msgstr "您已连接至 GTalk 服务器"
 #: chapter3/Using_Internet.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-"Aron Xu <happyaron.xu@gmail.com>, 2009.\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2009\n"
 "\n"
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"

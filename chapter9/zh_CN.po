@@ -669,10 +669,11 @@ msgid ""
 "The following is an example of a screenshot from a video on installing "
 "applications:"
 msgstr ""
+"以下是一个关于安装应用程序的录像的截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:234(title)
 msgid "The Screencasts Page"
-msgstr ""
+msgstr "Screencasts"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:244(title) chapter9/Ubuntu_Help_and_Support.xml:419(title) chapter9/Ubuntu_Help_and_Support.xml:494(title) chapter9/Ubuntu_Help_and_Support.xml:612(title) chapter9/Ubuntu_Help_and_Support.xml:651(title) chapter9/Ubuntu_Help_and_Support.xml:854(title) chapter9/Ubuntu_Help_and_Support.xml:883(title) chapter9/Ubuntu_Help_and_Support.xml:901(title) chapter9/Ubuntu_Help_and_Support.xml:998(title) chapter9/Ubuntu_Help_and_Support.xml:1019(title)
 msgid "Note:"
@@ -684,6 +685,8 @@ msgid ""
 "Share Alike 3.0 License. You are free to modify, share, sell or distribute "
 "these screencasts as long as the attribution to Ubuntu is intact."
 msgstr ""
+"这些屏幕录像都是以 Creative Commons Attributions-Share Alike 3.0 许可发布的。您可以"
+"自由修改、分享、销售或者重新分发，但必须同时注明它们来自于 Ubuntu。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:254(title)
 msgid "Community Support"
@@ -728,6 +731,7 @@ msgid ""
 "through e-mail to the relevant mailing list and you will get a quick "
 "response from the team."
 msgstr ""
+"要针对一个特定的问题获得帮助，您只需向相关的邮件列表发送一份电子邮件，随后您将会得到快速的响应。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:289(para)
 msgid ""
@@ -737,12 +741,16 @@ msgid ""
 "<emphasis role=\"strong\">Mailing Lists</emphasis> page displays all the "
 "public mailing lists to which you can subscribe and their topic."
 msgstr ""
+"您首先需要访问位于 <ulink url=\"https://lists.ubuntu.com/\">https://lists.ubuntu.com/"
+"</ulink> 的 <emphasis role=\"strong\">邮件列表</emphasis> 网站，其中显示了所有您可以订阅的"
+"邮件列表和它们各自的内容主题。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:294(para)
 msgid ""
 "The following screenshot displays the <emphasis role=\"strong\">Mailing "
 "Lists</emphasis> page:"
 msgstr ""
+"以下截图展示了 <emphasis role=\"strong\">邮件列表</emphasis> 页面："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:297(title)
 msgid "The Mailing Lists Page"
@@ -755,10 +763,13 @@ msgid ""
 "role=\"strong\">ubuntu-users</emphasis> mailing list. This will take you to "
 "a page like the following:"
 msgstr ""
+"要获得 Ubuntu 桌面相关的帮助，您应当前往 <emphasis role=\"strong\">社区支持</emphasis> "
+"一节，然后选择 <emphasis role=\"strong\">ubuntu-users</emphasis>(英语) 或 "
+"<emphasis role=\"strong\">ubuntu-zh</emphasis>(中文) 邮件列表。这样您将看到一个这样的页面："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:312(title)
 msgid "Subscribing to Ubuntu-users Mailing List"
-msgstr ""
+msgstr "订阅 ubuntu-zh 邮件列表"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:321(para)
 msgid ""
@@ -766,6 +777,8 @@ msgid ""
 "appropriate boxes and then click the <emphasis "
 "role=\"strong\">Subscribe</emphasis> button."
 msgstr ""
+"您需要在相应的栏内提供您的电子邮件地址、名字和您要设置的订阅管理密码，然后点击 <emphasis "
+"role=\"strong\">订阅</emphasis> 按钮。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:324(para)
 msgid ""
@@ -923,6 +936,7 @@ msgid ""
 "The IRC channels are a form of real-time Internet chat that enable users to "
 "talk directly (and immediately) with one another."
 msgstr ""
+"IRC 频道是一种即时互联网聊天工具，它使不同的人可以直接、即时地进行交流。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:486(para)
 msgid ""
@@ -948,7 +962,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:505(title)
 msgid "Once in Pidgin, you can access various IRC channels by:"
-msgstr ""
+msgstr "当您使用 Empathy 时，可以通过以下步骤访问各种 IRC 频道："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:508(para)
 msgid ""
@@ -991,10 +1005,12 @@ msgid ""
 "at the bottom of the window to type your messages, and press <emphasis "
 "role=\"strong\">Enter</emphasis> to send them."
 msgstr ""
+"至此您已经进入 Ubuntu 用户 IRC 频道。您可以在窗口下方的栏内输入您要发送的信息，并按下 <emphasis "
+"role=\"strong\">回车</emphasis> 进行发送。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:562(title)
 msgid "IRC Channel for Ubuntu Users"
-msgstr ""
+msgstr "Ubuntu 用户 IRC 频道"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:577(para)
 msgid ""
@@ -1036,6 +1052,11 @@ msgid ""
 "url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeam"
 "List</ulink>."
 msgstr ""
+"如果您希望创建或加入一个本地社区团队，请前往：<ulink "
+"url=\"https://wiki.ubuntu.com/LoCoTeams\">https://wiki.ubuntu.com/LoCoTeams</"
+"ulink>。要查看现有本地社区团队的列表，请访问 <ulink "
+"url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeam"
+"List</ulink>"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:623(para)
 msgid ""
@@ -1045,10 +1066,13 @@ msgid ""
 "can be accessed at <ulink "
 "url=\"https://wiki.ubuntu.com/\">https://wiki.ubuntu.com/</ulink>."
 msgstr ""
+"Ubuntu 团队 Wiki 是提供 Ubuntu 相关的信息和支持的中心站点，其页面不断地由 Ubuntu 社区"
+"成员进行更新。您可以通过 <ulink "
+"url=\"https://wiki.ubuntu.com/\">https://wiki.ubuntu.com/</ulink> 访问。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:628(para)
 msgid "The following is a screenshot of the Ubuntu Team Wiki home page:"
-msgstr ""
+msgstr "以下是 Ubuntu 团队 Wiki 页面的截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:641(para)
 msgid ""
@@ -1056,6 +1080,8 @@ msgid ""
 "of the pages on this site. However, you must observe the Ubuntu code of "
 "conduct while editing any content."
 msgstr ""
+"作为一位 Ubuntu 用户，您可以编辑站点上的任意页面并对内容做出贡献。然而，编辑的过程中您必须遵守"
+"Ubuntu 品行准则(Code of Conduct, CoC)。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:645(para)
 msgid ""
@@ -1066,6 +1092,8 @@ msgid ""
 "url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeam"
 "List</ulink>."
 msgstr ""
+"尽管 Ubuntu 官方 Wiki 只有英文版本，许多本地社区网站都提供各自语言的 Wiki。例如，简体中文 Wiki 的"
+"地址是 <ulink url=\"http://wiki.ubuntu.org.cn\">http://wiki.ubuntu.org.cn</ulink>"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:653(para)
 msgid ""
@@ -1073,6 +1101,9 @@ msgid ""
 "url=\"https://wiki.ubuntu.com/HelpOnEditing\">https://wiki.ubuntu.com/HelpOnE"
 "diting</ulink>."
 msgstr ""
+"更多关于编辑 Ubuntu Wiki 的信息，请访问 <ulink "
+"url=\"https://wiki.ubuntu.com/HelpOnEditing\">https://wiki.ubuntu.com/HelpOnE"
+"diting</ulink>"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:659(title)
 msgid "Launchpad"
@@ -1095,6 +1126,9 @@ msgid ""
 "url=\"https://launchpad.net\">https://launchpad.net</ulink>. The following "
 "screenshot displays the home page of the Launchpad site:"
 msgstr ""
+"您可以通过 <ulink "
+"url=\"https://launchpad.net\">https://launchpad.net</ulink> 访问 Launchpad。"
+"以下是 Launchpad 首页的截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:673(title)
 msgid "The Launchpad Page"
@@ -1323,20 +1357,25 @@ msgid ""
 "family can exhibit its best work for everyone to see, along with the "
 "requisite jokes, reminders, invitations, news clippings and photos."
 msgstr ""
+"Fridge 新闻站是 Ubuntu 社区的信息中心，同时提供了新闻、基层营销、宣传、团队协作和许多原创内容。"
+"它就像您家中的冰箱，这是 Ubuntu 大家庭中展示作品给其他人的场所，其中还必不可少地包含了各种提醒"
+"邀请、新闻剪辑、照片和更多有趣的故事。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:903(para)
 msgid ""
 "Visit The Fridge at <ulink "
 "url=\"http://fridge.ubuntu.com/\">http://fridge.ubuntu.com/</ulink>."
 msgstr ""
+"访问 Fridge 新闻站： <ulink "
+"url=\"http://fridge.ubuntu.com/\">http://fridge.ubuntu.com/</ulink>"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:906(para)
 msgid "The following is a screenshot of The Fridge home page:"
-msgstr ""
+msgstr "以下是 Fridge 新闻站的首页截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:920(title)
 msgid "Paid For Commercial Services"
-msgstr ""
+msgstr "购买商业服务"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:922(para)
 msgid ""
@@ -1350,7 +1389,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:929(title)
 msgid "Professional Support Services from Canonical"
-msgstr ""
+msgstr "Canonical 提供的专业支持服务"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:931(para)
 msgid ""
@@ -1502,7 +1541,7 @@ msgstr "复习测验"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1083(para)
 msgid "Name the major sources of help and support for Ubuntu."
-msgstr ""
+msgstr "Ubuntu 的主要帮助和支持资源的名称各是哪些？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1087(para)
 msgid ""
@@ -1510,11 +1549,13 @@ msgid ""
 "documentation, commercial support, community support, Launchpad and the "
 "Fridge."
 msgstr ""
+"Ubuntu 的主要帮助和支持资源有系统和在线文档、社区支持、商业支持、Launchpad 和 Fridge 新闻站。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1095(para)
 msgid ""
 "What types of documentation is available on the documentation site of Ubuntu?"
 msgstr ""
+"Ubuntu 文档网站上有哪些类型的文档？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1100(para)
 msgid ""
@@ -1522,10 +1563,12 @@ msgid ""
 "These are the Ubuntu official documentation, community documentation, common "
 "questions and Ubuntu screencasts."
 msgstr ""
+"Ubuntu 文档网站上共有四种类型的文档，它们分别是："
+"Ubuntu 官方文档、社区文档、常见问题和 Ubuntu 屏幕录像。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1109(para)
 msgid "What are the options for obtaining commercial support for Ubuntu?"
-msgstr ""
+msgstr "要获得 Ubuntu 的商业支持有哪些选择？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1114(para)
 msgid ""
@@ -1540,42 +1583,45 @@ msgid ""
 "What are the different platforms through which the Ubuntu community extends "
 "its help and support?"
 msgstr ""
+"Ubuntu 社区通过哪些平台来扩展其帮助和支持？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1128(para)
 msgid ""
 "The different platforms through which the Ubuntu community extends its help "
 "and support are:"
 msgstr ""
+"Ubuntu 社区通过以下平台扩展其帮助和支持："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1137(para)
 msgid "Web forums"
-msgstr ""
+msgstr "网络论坛"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1141(para)
 msgid "IRC channels"
-msgstr ""
+msgstr "IRC 频道"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1145(para)
 msgid "LoCo teams"
-msgstr ""
+msgstr "本地社区团队"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1149(para)
 msgid "The Ubuntu wiki"
-msgstr ""
+msgstr "Ubuntu Wiki"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1157(para)
 msgid "What are IRC channels?"
-msgstr ""
+msgstr "什么是 IRC 频道？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1161(para)
 msgid ""
 "IRC channels are a form of real-time Internet chat that allows users to talk "
 "directly to one another."
 msgstr ""
+"IRC 频道是一种即时互联网聊天工具，它使不同的人可以直接、即时地进行交流。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1168(para)
 msgid "What help and support do the LoCo teams provide to Ubuntu users?"
-msgstr ""
+msgstr "本地社区团队为 Ubuntu 用户提供哪些帮助和支持？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1173(para)
 msgid ""
@@ -1584,10 +1630,12 @@ msgid ""
 "Ubuntu. Simultaneously, these teams are actively engaged in providing non-"
 "English support to the Ubuntu users."
 msgstr ""
+"本地社区团队主要提供免费的本地支持，例如一对一的错误处理、进行关于 Ubuntu 的演讲和聚会。"
+"同时，这些团队都积极地参与对非英语用户提供支持。"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1182(para)
 msgid "What is Launchpad?"
-msgstr ""
+msgstr "什么是 Launchpad？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1186(para)
 msgid ""
@@ -1598,17 +1646,17 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1195(para)
 msgid "What is the name of the bug-tracking tool available with Launchpad?"
-msgstr ""
+msgstr "Launchpad 提供的错误跟踪工具的名字是什么？"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1200(para)
 msgid "Malone is the bug-tracking tool available with Launchpad."
-msgstr ""
+msgstr "Malone 是 Launchpad 所提供的错误跟踪工具。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: chapter9/Ubuntu_Help_and_Support.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-"Aron Xu <happyaron.xu@gmail.com>, 2009.\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2009\n"
 "\n"
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"

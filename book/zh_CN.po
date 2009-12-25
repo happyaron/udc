@@ -1,16 +1,27 @@
 # Simplified Chinese translation for ubuntu-desktop-course
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2009 Canonical Ltd and translation contributors:
-#     Hunt Xu <huntxu@live.cn>, 2009.
+#   Translation Group 1: 
+#     Aron Xu <happyaron.xu@gmail.com>, 2009.
+#     Eleanor Chen <chenyueg@gmail.com>, 2009.
+#   Translation Group 2: 
+#     YunQiang Su <wzssyqa@gmail.com>, 2009.
+#     Yvonne <feidaozhanchen@gmail.com>, 2009.
+#   Translation Group 3: 
+#     Nihui <shuizhuyuanluo@126.com>, 2009.
+#     Carlos Gong <bfsugxy@gmail.com>, 2009.
+#   Review:
+#     HuntXu <mhuntxu@gmail.com>, 2009.
+#   Graphics:
+#     JimHu <jimhuyiwei@gmail.com>, 2009.
 #
-
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course\n"
+"Project-Id-Version: ubuntu-desktop-course book\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 19:36+0800\n"
-"Last-Translator: Hunt Xu <huntxu@live.cn>\n"
+"PO-Revision-Date: 2009-12-26 00:57+0800\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,3 +35,11 @@ msgstr "Ubuntu 桌面培训"
 #: book/xinclude.xml:0(None)
 msgid "translator-credits"
 msgstr ""
+"Aron Xu <happyaron.xu@gmail.com>, 2009\n"
+"Eleanor Chen <chenyueg@gmail.com>, 2009\n"
+"YunQiang Su <wzssyqa@gmail.com>, 2009\n"
+"Yvonne <feidaozhanchen@gmail.com>, 2009\n"
+"Nihui <shuizhuyuanluo@126.com>, 2009\n"
+"Carlos Gong <bfsugxy@gmail.com>, 2009\n"
+"HuntXu <mhuntxu@gmail.com>, 2009\n"
+"JimHu <jimhuyiwei@gmail.com>, 2009"
