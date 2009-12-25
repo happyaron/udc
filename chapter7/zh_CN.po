@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 00:42+0800\n"
+"PO-Revision-Date: 2009-12-25 14:13+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -308,51 +308,51 @@ msgstr "Blender："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:139(para)
 msgid "An open-source 3D content creation suite. You can create 3D models and animations, add post-production effects or use it as a graphics editor to define interactive behaviour without programming. Blender has a distinctive user interface that is implemented entirely in Open GL and designed for speed. Python bindings for scripting and import/export features for popular file formats such as 3D Studio are available in Blender. Blender can output still images, animations, models for games or other third party engines and interactive content in the form of standalone binaries or web plug-ins. Visit the Web site <ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink> for more information on Blender."
-msgstr "是一款开源的3D内容创建软件。可以进行3D建模和动画制作，"
+msgstr "是一款开源的3D内容创建软件。可以进行3D建模、动画制作和后期效果制作，它可作为一款图形编辑器，在无需编程的环境下定义互动行为。Blender有一个独特的用户界面，它完全在Open GL下实现且优化了运行速度。利用Blender可以获得Python绑定脚本，并针对常用的文件格式实现了导入/导出功能，例如3D Studio。Blender还可以生成图像、动画和模型，供给游戏或其他第三方引擎使用，它以独立的二进制文件或网页插件的形式提供互动内容。想获得关于Blender的更多信息，可登录网站<ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink>进行查看。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:163(title)
 msgid "Dia:"
-msgstr ""
+msgstr "Dia："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:165(para)
 msgid "A diagram editor similar to Microsoft Visio. Dia offers the capability to produce precise and professional-level graphics. You can draw entity relationship diagrams, flowcharts and network diagrams and export them to various formats, including EPS, SVG, XFIG, WMF and PNG. You can also print diagrams spanning multiple pages. Visit the Web site <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> for more information."
-msgstr ""
+msgstr "一款类似于Microsoft Visio的图标编辑器。Dia能够制作精密的专业水平的图表。您可以绘制实体关系图、流程图和网络图，并以多种格式导出，包括EPS、SVG、XFIG、WMF和PNG等。您还可以跨越多也面进行图标打印。您可以登录网站 <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> 获得更多相关信息。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:185(title)
 msgid "Gcolor2:"
-msgstr ""
+msgstr "Gcolor2："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:187(para)
 msgid "A simple colour selector and picker that facilitates quick and easy selection of colours. It also enables you to save new colours and delete existing ones. Visit the Web site <ulink url=\"http://gcolor2.sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink> for more information."
-msgstr ""
+msgstr "一款简单的颜色选择器，您可以用它快速简单地进行颜色设定。您还可以使用它来保存新的颜色信息或者删除已有的颜色信息。登录 <ulink url=\"http://gcolor2.sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink>可获得更多信息。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:204(title)
 msgid "GNU paint:"
-msgstr ""
+msgstr "GNU paint："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:206(para)
 msgid "A user-friendly painting programme for GNOME. It offers easy-to-use drawing tools to perform various image-processing operations. Visit the Web site <ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/</ulink> for more information."
-msgstr ""
+msgstr "为GNOME提供的用户友好的绘图方案。它提供易于使用的绘图工具来执行各种图像处理操作。可访问网站<ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/</ulink> 获得更多相关信息。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:103(para)
 msgid "Some of the graphics applications are available in Ubuntu software repositories: <placeholder-1/>"
-msgstr ""
+msgstr "一些图形应用程序可在Ubuntu软件库中获得：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:215(para)
 msgid "In addition, several third-party applications, such as Picasa, a free software download from Google, are compatible with Ubuntu."
-msgstr ""
+msgstr "此外，一些第三方应用，如Google上下载的自由软件Picasa，也能与Ubuntu兼容。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:218(para)
 msgid "Picasa enables you to locate and organise all the photos on your computer, edit and add effects to your photos and share your photos through e-mail and print and post images on the Web. You can download Picasa from the following Web site <ulink url=\"http://picasa.google.com/linux/download.html\">http://picasa.google.com/linux/download.html</ulink>."
-msgstr ""
+msgstr "利用Picasa您可以查找和组织您的计算机上的所有照片，对其进行编辑或者添加效果，您可以通过电子邮件、打印或者在网络上贴图的形式共享您的照片。您可以通过以下网址下载Picasa：<ulink url=\"http://picasa.google.com/linux/download.html\">http://picasa.google.com/linux/download.html</ulink>."
 
 #: chapter7/Managing_Graphics_and_Photos.xml:224(para)
 msgid "The following section outlines the features of some of these graphics applications and how to use them."
-msgstr ""
+msgstr "下面一节将概述一下这些图形应用程序的特点和使用方法。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:230(title)
 msgid "Viewing and Managing Photos with F-Spot"
-msgstr ""
+msgstr "利用F-Spot浏览和管理照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:235(para)
 msgid "After a brief explanation of F-Spot and its features, refrain from lengthy explanation of the tasks. Perform a brief demo of the tasks covered in the lesson and ask students to follow."
