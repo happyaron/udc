@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-24 22:59+0800\n"
+"PO-Revision-Date: 2009-12-25 17:32+0800\n"
 "Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
 "Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -1633,6 +1633,9 @@ msgid ""
 "up to date. Keeping track of all the programmes that have been installed and "
 "keeping all those programmes updated is largely up to you."
 msgstr ""
+"Ubuntu 与其它操作系统间最大的区别之一是您安装和卸载应用程序的方式。在 Microsoft Windows "
+"中，大多数应用程序提供其自己的安装和删除方式。有些应用程序提供一种保持更新的途径，而另外一些则没有，它们无法确保您计算机上的所有东西都是最新的。跟踪已安装"
+"程序并保持更新很大程度上都需要您自己完成。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1081(para)
 msgid ""
@@ -1644,6 +1647,9 @@ msgid ""
 "and then use a <emphasis role=\"strong\">package manager</emphasis> to tell "
 "Ubuntu to install them."
 msgstr ""
+"Ubuntu 拥有尖端的<emphasis role=\"strong\">软件包管理框架</emphasis>"
+"，它能跟踪所有已安装的软件、自动化进行安装和删除应用程序、以及确保所有软件都保持更新以获得最新的增强功能和错误修复。您所做的仅仅是决定您想安装哪个应用程序"
+"，然后使用<emphasis role=\"strong\">软件包管理器</emphasis>来告诉 Ubuntu 去安装它们。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1090(title)
 msgid "Types of Package Managers"
@@ -1656,16 +1662,17 @@ msgid ""
 "achieve. This course covers Add/Remove applications utility and the Synaptic "
 "Package Manager."
 msgstr ""
+"Ubuntu 默认包含了一些软件包管理器，使用哪一个取决于您所要完成软件包管理任务的复杂和精细程度。本课程涵盖添加/删除应用程序工具和新立得软件包管理器。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1100(para)
 msgid ""
 "If you open more than one package manager at the same time, they may not "
 "work. Close all the package managers and open just one."
-msgstr ""
+msgstr "如果您同时打开超过一个软件包管理器，它们可能无法正常工作。请关闭所有软件包管理器后再打开其中一个。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1107(title)
 msgid "Using Add/Remove Applications"
-msgstr ""
+msgstr "使用添加/删除应用程序"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1109(para)
 msgid ""
@@ -1675,6 +1682,8 @@ msgid ""
 "looking through the given categories, selecting applications and choosing "
 "\"Apply\" to start the installation."
 msgstr ""
+"添加/删除工具是最容易使用的，它能让您安装和卸载许多流行软件包。您可以简单地搜索如“电子邮件”这种关键字来搜索您想安装的软件包，或浏览给出的分类，选择应用"
+"程序，然后按下“应用”启动软件包安装。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1118(para)
 msgid ""
@@ -1682,21 +1691,25 @@ msgid ""
 "for your user name at the prompt. This means that applications can not be "
 "added / removed from your computer without your knowledge (and password)."
 msgstr ""
+"您使用任何软件包管理器都需要管理员权限。请在提示框内输入您用户名对应的密码。这意味着在您不知情(及不知道密码)的情况下，将无法在您的计算机中添加/删除应用"
+"程序。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1125(title)
 msgid ""
 "The procedure to add or remove software by using Add/Remove Applications is:"
-msgstr ""
+msgstr "使用添加/删除应用程序来添加或删除软件的步骤为："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1129(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, click "
 "<emphasis role=\"strong\">Add/Remove</emphasis>."
 msgstr ""
+"在<emphasis role=\"strong\">应用程序</emphasis>菜单中点击<emphasis role=\"strong\">"
+"添加/删除</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1133(title)
 msgid "Launching Add/Remove Applications"
-msgstr ""
+msgstr "启动添加/删除应用程序"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1145(para)
 msgid ""
@@ -1704,16 +1717,18 @@ msgid ""
 "box displays a list of applications. The check boxes against the "
 "applications that are already installed are pre-selected."
 msgstr ""
+"<emphasis role=\"strong\">添加/删除应用程序</emphasis>"
+"对话框显示应用程序列表。已安装的应用程序所对应的复选框会自动勾选。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1152(para)
 msgid ""
 "Many package names in Ubuntu are quite obscure, so the package manager will "
 "also look at the package description when searching."
-msgstr ""
+msgstr "Ubuntu 中的很多软件包名称都十分难以理解，所以软件包管理器还会在搜索时查找软件包描述。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1158(title)
 msgid "Add/Remove Applications Window"
-msgstr ""
+msgstr "添加/删除应用程序窗口"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1170(para)
 msgid ""
@@ -1722,53 +1737,55 @@ msgid ""
 "click the appropriate software category in the left pane and select the "
 "check box next to the required package in the right pane."
 msgstr ""
+"如果您知道要安装的软件包名称，您可以在<emphasis role=\"strong\">搜索</emphasis>"
+"框中输入名称。否则，您可以在左侧面板中点击恰当的软件分类并在右侧面板中选择需要的软件包。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1179(para)
 msgid ""
 "For more details about a package, click the package and view the bottom pane."
-msgstr ""
+msgstr "想要获取更多软件包细节，可点击软件包并查看下方的面板。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1184(title)
 msgid "Searching for a Package in All Available Applications"
-msgstr ""
+msgstr "在全部可用应用程序中搜索软件包"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1196(para)
 msgid ""
 "When you have finished selecting the packages to be installed or removed, "
 "click <emphasis role=\"strong\">Apply Changes</emphasis>."
-msgstr ""
+msgstr "当您选好要安装或删除的软件包后，请点击<emphasis role=\"strong\">应用更改</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1201(title)
 msgid "Applying Changes to the Package List"
-msgstr ""
+msgstr "对软件包列表应用更改"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1213(para)
 msgid ""
 "You are prompted to confirm your selection. Click <emphasis "
 "role=\"strong\">Apply</emphasis> to proceed."
-msgstr ""
+msgstr "您会被提示确认您的选择。点击<emphasis role=\"strong\">应用</emphasis>继续。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1217(title)
 msgid "Confirming Changes"
-msgstr ""
+msgstr "确认更改"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1229(para)
 msgid ""
 "The progress indicator shows the status of the package being installed or "
 "removed."
-msgstr ""
+msgstr "进度条指示器显示正在安装或删除的软件包状态。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1233(title)
 msgid "Installing Selected Package from Repositories"
-msgstr ""
+msgstr "从仓库安装所选的软件包"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1245(para)
 msgid "After the changes are applied successfully, the package is installed."
-msgstr ""
+msgstr "成功应用更改后，软件包安装完成。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1249(title) chapter6/Customising_the_Desktop_and_Applications.xml:1465(title)
 msgid "Installation Confirmation"
-msgstr ""
+msgstr "安装确认"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1261(para)
 msgid ""
@@ -1780,20 +1797,24 @@ msgid ""
 "shows <emphasis role=\"strong\">Atomix</emphasis>, which has been installed "
 "by performing this procedure."
 msgstr ""
+"双击软件包启动应用程序。如果您想安装或删除更多应用程序，请点击<emphasis role=\"strong\">添加/删除更多应用程序<"
+"/emphasis>或者点击<emphasis role=\"strong\">新应用程序已安装</emphasis>对话框中的<emphasis "
+"role=\"strong\">关闭</emphasis>。下图展示了 <emphasis role=\"strong\">Atomix<"
+"/emphasis>，它就是通过本过程安装的。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1270(title)
 msgid "Launching the Installed Application - Atomix"
-msgstr ""
+msgstr "启动安装的应用程序 - Atomix"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1283(para)
 msgid ""
 "After installing a package, you can open it by using a particular menu based "
 "on its category."
-msgstr ""
+msgstr "安装软件包后，您可按其分类，使用特定的菜单项打开它。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1291(title)
 msgid "Using Synaptic Package Manager"
-msgstr ""
+msgstr "使用新立得软件包管理器"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1293(para)
 msgid ""
@@ -1801,6 +1822,7 @@ msgid ""
 "advanced packages, such as the Apache web server, the PHP programming "
 "language or Scribe. In such cases, use Synaptic Package Manager."
 msgstr ""
+"添加/删除应用程序无法让您安装和删除某些更高级的软件包，比如 Apache 网络服务、PHP 编程语言或 Scribus。这时，就得用新立得软件包管理器。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1298(para)
 msgid ""
@@ -1812,10 +1834,12 @@ msgid ""
 "packages that are already installed on your system. In addition, it presents "
 "more information such as package status, origin and filters."
 msgstr ""
+"您可以安装、删除、配置或升级软件包，浏览、排序和搜索可用软件包列表，管理仓库或升级整个系统。您可以在执行更改前将一系列动作加入操作队列。新立得会通知您安装"
+"您所选软件包需要的额外软件包，以及与您计算机上已安装软件包之间的冲突。除此之外，它还展示更多诸如软件包状态、来源和过滤器信息。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1308(title)
 msgid "To add and remove any package using Synaptic Packager Manager:"
-msgstr ""
+msgstr "使用新立得添加和删除软件包步骤："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1312(para)
 msgid ""
@@ -1823,10 +1847,12 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and then click <emphasis "
 "role=\"strong\">Synaptic Package Manager</emphasis>."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">管理<"
+"/emphasis>，然后点击<emphasis role=\"strong\">新立得软件包管理器</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1317(title)
 msgid "Launching Synaptic Package Manager"
-msgstr ""
+msgstr "启动新立得软件包管理器"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1329(para)
 msgid ""
@@ -1837,6 +1863,9 @@ msgid ""
 "of packages. You can then select the check box next to the required package "
 "in the right pane."
 msgstr ""
+"在<emphasis role=\"strong\">新立得软件包管理器</emphasis>"
+"对话框中，您可以选择您需要的软件包。左侧面板列出的是分类，右侧面板列出的是软件包。如果您不清楚软件包的名称，选择左侧面板中的分类来过滤软件包列表，然后在右"
+"侧面板中勾选所需软件包旁的复选框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1340(para)
 msgid ""
@@ -1846,10 +1875,13 @@ msgid ""
 "role=\"strong\">Custom Filters</emphasis> if you want to know the whether a "
 "package is broken or can be upgraded."
 msgstr ""
+"如果您想要查看已安装和已卸载的软件包，点击<emphasis role=\"strong\">状态</emphasis>。要了解软件包来源仓库，请点击<"
+"emphasis role=\"strong\">来源</emphasis>。如果您想要知道某个软件包是否已损坏或能够升级，请点击<emphasis "
+"role=\"strong\">自定义过滤器</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1349(title)
 msgid "Synaptic Package Manager Window"
-msgstr ""
+msgstr "新立得软件包管理器窗口"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1361(para)
 msgid ""
@@ -1859,6 +1891,9 @@ msgid ""
 "package in the <emphasis role=\"strong\">Search</emphasis> field and click "
 "<emphasis role=\"strong\">Search</emphasis>."
 msgstr ""
+"如果您知道软件包的名称，点击<emphasis role=\"strong\">搜索</emphasis>，将弹出<emphasis "
+"role=\"strong\">查找</emphasis>对话框。在<emphasis role=\"strong\">搜索</emphasis>"
+"字段中输入软件包的名称并点击<emphasis role=\"strong\">搜索</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1370(para)
 msgid ""
@@ -1866,10 +1901,12 @@ msgid ""
 "<emphasis role=\"strong\">Search</emphasis>, click <emphasis "
 "role=\"strong\">Sections</emphasis>."
 msgstr ""
+"使用<emphasis role=\"strong\">搜索</emphasis>功能搜索软件包后要返回分类列表，请点击<emphasis "
+"role=\"strong\">组别</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1376(title)
 msgid "Searching a Package to Install"
-msgstr ""
+msgstr "搜索要安装的软件包"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1388(para)
 msgid ""
@@ -1879,10 +1916,13 @@ msgid ""
 "Removal</emphasis> check box to remove it. If you change your mind, select "
 "the <emphasis role=\"strong\">Unmark</emphasis> check box."
 msgstr ""
+"选择所选软件包要进行的动作。选择<emphasis role=\"strong\">标记以便安装</emphasis>复选框来安装软件包，或选择<"
+"emphasis role=\"strong\">标记以便删除</emphasis>复选框来删除它。如果您想改变主意，选择<emphasis "
+"role=\"strong\">取消标记</emphasis>复选框。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1396(title)
 msgid "Marking the Package for Installation"
-msgstr ""
+msgstr "标记软件包以便安装"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1408(para)
 msgid ""
@@ -1890,20 +1930,22 @@ msgid ""
 "packages, you will be notified about the dependencies. To continue making "
 "changes, click <emphasis role=\"strong\">Mark</emphasis>."
 msgstr ""
+"如果您选择删除或安装的软件包依赖于其它软件包，您将得到依赖关系的通知。点击<emphasis role=\"strong\">标记</emphasis>"
+"以继续作出更改。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1414(title)
 msgid "Confirming Additional Changes"
-msgstr ""
+msgstr "确认附加的更改"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1426(para)
 msgid ""
 "To confirm that you want to make the marked changes, click <emphasis "
 "role=\"strong\">Apply</emphasis>."
-msgstr ""
+msgstr "要确认您想要进行标记的更改，请点击<emphasis role=\"strong\">应用</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1430(title)
 msgid "Applying Changes to Update Software Information"
-msgstr ""
+msgstr "应用更新软件信息的更改"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1442(para)
 msgid ""
@@ -1911,10 +1953,12 @@ msgid ""
 "prompting you for a final check before making the marked changes. Click "
 "<emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
 msgstr ""
+"弹出<emphasis role=\"strong\">摘要</emphasis>对话框，提示您在应用标记的更改之前进行最后一次确认。点击<"
+"emphasis role=\"strong\">应用</emphasis>以继续作出更改。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1448(title)
 msgid "Final Confirmation to Install the Package"
-msgstr ""
+msgstr "最后确认安装软件包"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1460(para)
 msgid ""
@@ -1922,6 +1966,8 @@ msgid ""
 "applied. Click <emphasis role=\"strong\">Close</emphasis> to close Synaptic "
 "Package Manager."
 msgstr ""
+"当所有标记的更改完成后，您将得到有关更改已实施的通知。点击<emphasis role=\"strong\">关闭</emphasis>"
+"以关闭新立得软件包管理器。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1475(para)
 msgid ""
@@ -1930,14 +1976,16 @@ msgid ""
 "particular menu, depending on the category of the package. The following "
 "figure shows Abiword, which has been installed using this procedure."
 msgstr ""
+"使用新立得软件包管理器安装软件包的过程在这步完成。您可以选择软件包相应分类的特定菜单访问已安装的软件包。下图展示了 "
+"Abiword，它就是使用本过程安装的。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1482(title)
 msgid "Launching the Installed Application - Abiword"
-msgstr ""
+msgstr "启动安装的应用程序 - Abiword"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1496(title)
 msgid "Installing a Single Package File"
-msgstr ""
+msgstr "安装单个软件包文件"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1498(para)
 msgid ""
