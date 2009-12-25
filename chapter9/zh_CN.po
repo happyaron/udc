@@ -3,6 +3,9 @@
 # Copyright (C) 2009 Canonical Ltd and translation contributors:
 #     Aron Xu <happyaron.xu@gmail.com>, 2009.
 #
+# Changes:
+#    1) Need to adapt some links from offical site to China LoCo site.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-help-and-support\n"
@@ -701,7 +704,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:297(title)
 msgid "The Mailing Lists Page"
-msgstr ""
+msgstr "邮件列表"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:306(para)
 msgid ""
@@ -732,7 +735,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:330(title)
 msgid "Confirmation Mail"
-msgstr ""
+msgstr "确认邮件"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:339(para)
 msgid ""
@@ -970,7 +973,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:588(title)
 msgid "The LoCo Teams Page"
-msgstr ""
+msgstr "本地团队"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:597(para)
 msgid ""
@@ -981,7 +984,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:602(title)
 msgid "Non-English Support Page"
-msgstr ""
+msgstr "非英语支持"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:614(para)
 msgid ""
@@ -1031,7 +1034,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:659(title)
 msgid "Launchpad"
-msgstr ""
+msgstr "Launchpad"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:661(para)
 msgid ""
@@ -1053,7 +1056,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:673(title)
 msgid "The Launchpad Page"
-msgstr ""
+msgstr "Launchpad"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:682(para)
 msgid ""
@@ -1071,7 +1074,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:692(title)
 msgid "Registration Page"
-msgstr ""
+msgstr "注册"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:701(para)
 msgid ""
@@ -1083,7 +1086,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:707(title)
 msgid "Launchpad Technical Answers"
-msgstr ""
+msgstr "Launchpad 技术问答"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:709(para)
 msgid ""
@@ -1098,7 +1101,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:717(title)
 msgid "Nice to Know"
-msgstr ""
+msgstr "小提示"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:719(para)
 msgid ""
@@ -1159,7 +1162,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:786(title)
 msgid "Launchpad Bug Tracker: Malone"
-msgstr ""
+msgstr "Launchpad 错误跟踪系统：Malone"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:788(para)
 msgid ""
@@ -1188,7 +1191,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:806(title)
 msgid "The Bug Tracking Page"
-msgstr "错误跟踪页"
+msgstr "错误跟踪"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:815(para)
 msgid ""
@@ -1207,7 +1210,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:821(title)
 msgid "Report a Bug Page"
-msgstr "错误报告页"
+msgstr "错误报告"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:830(para)
 msgid ""
@@ -1236,6 +1239,7 @@ msgid ""
 "Visit Malone at <ulink "
 "url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>."
 msgstr ""
+"访问 Malone：<ulink url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:861(title)
 msgid "Shipit"
@@ -1252,21 +1256,22 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:870(para)
 msgid "The following screenshot displays the Shipit site:"
-msgstr ""
+msgstr "以下是 Shipit 站点的截图："
 
 #: chapter9/Ubuntu_Help_and_Support.xml:873(title)
 msgid "The Shipit Page"
-msgstr "Shipit 页"
+msgstr "Shipit"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:885(para)
 msgid ""
 "Visit Shipit at <ulink "
 "url=\"http://Shipit.ubuntu.com\">http://Shipit.ubuntu.com</ulink>."
 msgstr ""
+"访问 Shipit：<ulink url=\"http://Shipit.ubuntu.com\">http://Shipit.ubuntu.com</ulink>"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:891(title) chapter9/Ubuntu_Help_and_Support.xml:909(title)
 msgid "The Fridge"
-msgstr ""
+msgstr "Fridge 新闻站"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:893(para)
 msgid ""
@@ -1343,7 +1348,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:964(title)
 msgid "About Us Page"
-msgstr ""
+msgstr "关于我们"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:973(para)
 msgid ""
@@ -1386,7 +1391,7 @@ msgstr ""
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1009(title)
 msgid "Local Support Services Page"
-msgstr ""
+msgstr "本地支持服务"
 
 #: chapter9/Ubuntu_Help_and_Support.xml:1021(para)
 msgid ""
