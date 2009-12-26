@@ -1297,7 +1297,7 @@ msgid ""
 "to automatically apply correct formatting to the text or insert special "
 "characters by recognizing particular character usage."
 msgstr ""
-"<emphasis role=\"strong\"> 自动更正:</emphasis> OpenOffice 的自动更正功能"
+"<emphasis role=\"strong\"> 自动更正:</emphasis> OpenOffice.org 的自动更正功能"
 "可以自动纠正常见的拼写错误和输入错误"
 "从而使你的输入工作变得更加轻松。此外，自动更正功能还可以"
 "使你自动应用正确的文档格式，并在识别出"
@@ -2465,7 +2465,7 @@ msgid ""
 "Clicking the Function button inserts an equals sign into the current cell as "
 "well as in the input line, making it ready to accept a formula."
 msgstr ""
-"按下函数，就可以在当前单元格和输入行中插入一个等号，便于接下来的表达式计算。"
+"按下函数，就可以在当前单元格和输入行中插入一个等号，便于接下来的公式计算。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1226(para)
 msgid ""
@@ -2603,8 +2603,8 @@ msgid ""
 "and, in some cases, other data such as format details. The formulae may also "
 "contain arithmetic operators, logic operators or function starts."
 msgstr ""
-"表达式是一种表格中函数，需要与参数一起输入到单元格中。所有的表达式都以一个等号开始，并"
-"包含有数字，文本以及其他一些类型的数据。表达式也会含有算术运算符，逻辑运算符以及函数头。"
+"公式是一种包含参数的函数。所有的公式都以一个等号开始，并"
+"包含有数字，文本以及其他一些类型的数据。公式有时也会含有算术运算符，逻辑运算符以及函数头。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1378(para)
 msgid "This table lists some examples of OpenOffice.org formulae:"
@@ -2612,11 +2612,11 @@ msgstr "本表格列出了一些 OpenOffice.org 所使用的表达式示例。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1383(title)
 msgid "Calc Formulae"
-msgstr "Calc 常用表达式"
+msgstr "Calc 常用公式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1392(emphasis)
 msgid "Formulae"
-msgstr "表达式"
+msgstr "公式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1395(emphasis)
 msgid "Description"
@@ -2664,12 +2664,12 @@ msgid ""
 "Formula bar. You can also use the Function wizard, which helps you "
 "interactively create formulae."
 msgstr ""
-"输入表达式最快捷的方式是在单元格中或输入行中键入表达式。你也可以"
-"使用函数创建向导来交互式地创建表达式。"
+"输入公式最快捷的方式是在单元格中或输入行中直接键入。你也可以"
+"使用函数创建向导来交互式地创建公式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1440(title)
 msgid "To enter a formula using the Function wizard:"
-msgstr "使用函数向导创建表达式："
+msgstr "使用函数向导创建公式："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1443(para)
 msgid ""
@@ -2680,8 +2680,8 @@ msgid ""
 "This opens the <emphasis role=\"strong\">Function Wizard</emphasis> dialogue "
 "box."
 msgstr ""
-"在表格中选定需要插入表达式的位置，"
-"要使用函数向导来创建和应用表达式，在<emphasis role=\"strong\">表达式"
+"在表格中选定需要插入公式的位置，"
+"要使用函数向导来创建和应用公式，请在<emphasis role=\"strong\">公式"
 "栏</emphasis>，单击<emphasis role=\"strong\">函数向导</emphasis>。"
 "即可打开<emphasis role=\"strong\">函数向导</emphasis>对话框。"
 
@@ -2702,26 +2702,36 @@ msgid ""
 "<emphasis role=\"strong\">Next</emphasis> to proceed with the task of "
 "entering a formula."
 msgstr ""
+"你可以在<emphasis "
+"role=\"strong\">函数</emphasis>列表框中看到所有的函数，你也可以在下拉菜单中选择一个"
+"类别来查看该类别下面的所有函数。"
+"从<emphasis "
+"role=\"strong\">函数</emphasis>列表中找出你所需要的那一个，单击来选定它，"
+"就能在<emphasis role=\"strong\">函数向导</emphasis>对话框的右侧"
+"看到所选定的函数的信息。单击"
+"<emphasis role=\"strong\">继续</emphasis>按钮开始创建公式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1476(title)
 msgid "Selecting a Function"
-msgstr ""
+msgstr "选定一个函数"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1488(para)
 msgid ""
 "Now, you need to specify the numbers to which you want to apply the formula. "
 "To select the numbers, you need to go back to the worksheet."
 msgstr ""
+"现在你可以设置需要填入表达式的数字。你可以回到工作表中选择你所需要的数字。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1492(para)
 msgid ""
 "Click the <emphasis role=\"strong\">Shrink</emphasis> button to shrink this "
 "dialogue box and return to the worksheet."
 msgstr ""
+"单击<emphasis role=\"strong\">选择</emphasis>按钮来收缩对话框并回到工作表"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1496(title)
 msgid "Shrinking the Function Wizard Dialogue Box"
-msgstr ""
+msgstr "收缩函数向导对话框"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1508(para)
 msgid ""
@@ -2730,16 +2740,19 @@ msgid ""
 "down the <emphasis role=\"strong\">SHIFT</emphasis> key and use the mouse to "
 "select the cell range containing the desired numbers."
 msgstr ""
+"<emphasis role=\"strong\">函数向导</emphasis>对话框会收缩以便于你查看工作表，要选定单元格，按住"
+"<emphasis role=\"strong\">SHIFT</emphasis>键，同时使用鼠标选定你需要的单元格区域。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1514(para)
 msgid ""
 "After selecting the cells, you can go back to the Function wizard by "
 "clicking the <emphasis role=\"strong\">Maximize</emphasis> button."
 msgstr ""
+"选定单元格之后，你就可以按下<emphasis role=\"strong\">最大化</emphasis>按钮来回到函数向导。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1519(title)
 msgid "Selecting the Cell Range"
-msgstr ""
+msgstr "选定单元格区域。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1531(para)
 msgid ""
@@ -2750,22 +2763,27 @@ msgid ""
 "complete the task of entering a formula, click <emphasis "
 "role=\"strong\">OK</emphasis>."
 msgstr ""
+"选定的单元格区域范围会自动出现在"
+"<emphasis role=\"strong\">number 1</emphasis>输入框中，填入参数的相应公式会出现在"
+"对话框底部的<emphasis "
+"role=\"strong\">公式</emphasis>输入框中。要完成公式的创建过程，单击"
+"<emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1539(title)
 msgid "Applying the Formula"
-msgstr ""
+msgstr "应用公式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1551(para)
 msgid "The solution appears in the cell where you had applied the formula."
-msgstr ""
+msgstr "相应的计算结果会出现在单元格里。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1555(title)
 msgid "Final Output"
-msgstr ""
+msgstr "最终输出结果"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1568(title)
 msgid "Inserting Charts"
-msgstr ""
+msgstr "插入图表"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1570(para)
 msgid ""
@@ -2773,10 +2791,12 @@ msgid ""
 "data series visually and view trends in the data. Calc offers you a number "
 "of ways to represent spreadsheet data graphically."
 msgstr ""
+"你可以将数据以图表或者图像的形式展示，以对数据进行直观比较和趋势判定。"
+"在 Calc 中，你有多种方法来以图像方式显示数据。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1577(title)
 msgid "To insert a chart in your spreadsheet:"
-msgstr ""
+msgstr "在电子表格中插入图表"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1580(para)
 msgid ""
@@ -2786,16 +2806,22 @@ msgid ""
 "role=\"strong\">Chart</emphasis>. The <emphasis role=\"strong\">Chart "
 "Wizard</emphasis> dialogue box appears."
 msgstr ""
+"打开一个带有包含多行多列数据的电子表格，选定需要用图表展现的数据，"
+"然后在<emphasis "
+"role=\"strong\">插入</emphasis>菜单中选择<emphasis "
+"role=\"strong\">图表</emphasis>。会出现<emphasis role=\"strong\">图表向导"
+"</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1587(title)
 msgid "Launching the Chart Wizard"
-msgstr ""
+msgstr "运行图表向导"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1600(para)
 msgid ""
 "Advise students about the alternate way to insert a chart using the Insert "
 "Chart icon from the Standard toolbar."
 msgstr ""
+"请建议学生们使用标准工具栏上的图表按钮来插入图标。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1606(para)
 msgid ""
@@ -2806,24 +2832,31 @@ msgid ""
 "role=\"strong\">Next</emphasis> or you can click <emphasis "
 "role=\"strong\">Finish</emphasis> to insert a chart in your document."
 msgstr ""
+"在<emphasis role=\"strong\">图表向导</emphasis>的第一页，"
+"你可以选择图表类型并预览起输出效果。Calc 为你提供了多种二维和三维图表类型。"
+"你可以通过点击<emphasis "
+"role=\"strong\">继续</emphasis>按钮来根据指导一步步创建图表，也可以直接点击<emphasis "
+"role=\"strong\">完成</emphasis>来在文档中插入图表。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1615(title)
 msgid "Selecting the Chart Type"
-msgstr ""
+msgstr "选择图表类型"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1627(para)
 msgid ""
 "The chart is inserted at the specified location in your spreadsheet. You can "
 "now move and resize the chart and edit it further to suit your requirements."
 msgstr ""
+"在文档的选定位置插入图表以后，你可以"
+"根据自己的需要移动图表的位置和调整大小。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1632(title)
 msgid "The Inserted Chart"
-msgstr ""
+msgstr "插入的图表"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1645(title)
 msgid "Exporting Spreadsheets to PDF"
-msgstr ""
+msgstr "导出电子表格为 PDF 文件"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1647(para)
 msgid ""
@@ -2831,10 +2864,12 @@ msgid ""
 "from Calc as PDF files. With OpenOffice.org you do not need any additional "
 "third party software to convert your documents into PDF format."
 msgstr ""
+"和其他 OpenOffice.org 应用程序一样，你可以把你的电子表格导出为 PDF 文档。"
+"在 OpenOffice.org 中你无须借助任何第三方软件即可将文档导出为 PDF。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1654(title)
 msgid "To export your spreadsheet as a PDF:"
-msgstr ""
+msgstr "要将电子表格导出为 PDF："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1657(para)
 msgid ""
@@ -2842,10 +2877,13 @@ msgid ""
 "role=\"strong\">Export as PDF</emphasis>. The <emphasis "
 "role=\"strong\">Export</emphasis> dialogue box appears."
 msgstr ""
+"在<emphasis role=\"strong\">文件</emphasis>菜单中单击<emphasis "
+"role=\"strong\">输出成 PDF</emphasis>。会出现<emphasis "
+"role=\"strong\">PDF 选项</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1662(title)
 msgid "Exporting Spreadsheet as PDF"
-msgstr ""
+msgstr "将电子表格导出为 PDF 文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1674(para)
 msgid ""
@@ -2855,10 +2893,14 @@ msgid ""
 "specifications, click <emphasis role=\"strong\">Export</emphasis> to "
 "continue."
 msgstr ""
+"你可以在对话框里的五个标签页中"
+"设定所需的选项，比如需要输出为 PDF 文档的页码，压缩方式以及"
+"文档的安全性设置等。设置完成后，"
+"单击<emphasis role=\"strong\">导出</emphasis>按钮以继续。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1681(title)
 msgid "Defining PDF Options"
-msgstr ""
+msgstr "设定 PDF 导出选项"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1693(para)
 msgid ""
@@ -2866,10 +2908,12 @@ msgid ""
 "you want to save it. Click <emphasis role=\"strong\">Save</emphasis> to "
 "export the spreadsheet as a PDF file."
 msgstr ""
+"设定电子表格的文件名，选定文件的保存路径。"
+"单击<emphasis role=\"strong\">保存</emphasis>来将电子表格输出为 PDF 文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1699(title)
 msgid "Saving as PDF"
-msgstr ""
+msgstr "保存为 PDF 文件"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1712(para)
 msgid ""
@@ -2877,18 +2921,21 @@ msgid ""
 "of your spreadsheet, type <emphasis role=\"strong\">= "
 "GAME(\"StarWars\")</emphasis> and start playing right away."
 msgstr ""
+"Calc 程序中隐藏了一个彩蛋，单击电子表格中的任意一个单元格，"
+"输入<emphasis role=\"strong\">= "
+"GAME(\"StarWars\")</emphasis>即可打开小游戏。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1720(para)
 msgid "Your spreadsheet is now displayed as a PDF file."
-msgstr ""
+msgstr "你的电子表格现在已经显示为 PDF 文档了。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1723(title)
 msgid "The PDF file"
-msgstr ""
+msgstr "输出后的 PDF 文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1738(title)
 msgid "Using OpenOffice.org Impress"
-msgstr ""
+msgstr "使用 OpenOffice.org 演示"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1740(para)
 msgid ""
@@ -2897,6 +2944,9 @@ msgid ""
 "by creating 2D and 3D clip art and images. It also allows you to create "
 "special effects and animations by using high-impact drawing tools."
 msgstr ""
+"Impress 是 OpenOffice.org 办公套件的一部分，是一个功能完善的演示工具。你可以使用 Impress 来"
+"创建二维和三维的剪贴画和图片，从而制作出效果丰富的多媒体演示文稿。同时你也可以使用其强大的绘图工具"
+"来创建特殊效果和动画。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1746(para)
 msgid ""
@@ -2906,18 +2956,21 @@ msgid ""
 "Flash (SWF) files. This enables you to run the output on any computer that "
 "has a Flash player installed."
 msgstr ""
+"OpenOffice.org Impress 与 Microsoft PowerPoint 的功能非常接近。不仅如此，它"
+"还使你能够非常容易地将幻灯片导出为 PDF 文件。你可以将幻灯片输出为 ShockWave Flash（SWF）文件，从而在"
+"任何一台安装了 Flash 播放器的电脑上使用。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1753(title)
 msgid "Key Features of OpenOffice.org Impress"
-msgstr ""
+msgstr "OpenOffice.org Impress 的主要功能"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1755(para)
 msgid "Some of the many useful features of Impress are:"
-msgstr ""
+msgstr "OpenOffice.org Impress 拥有以下一些实用功能："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1758(title)
 msgid "Creating Vector Graphics:"
-msgstr ""
+msgstr "创建矢量图："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1760(para)
 msgid ""
@@ -2926,10 +2979,13 @@ msgid ""
 "graphics to bitmap pictures and, inversely, convert bitmap pictures into "
 "vector graphics."
 msgstr ""
+"Impress 含有多种绘图工具，使你能够在程序内创建矢量图像。你可以"
+"将矢量图导出为位图图像，也可以将"
+"位图转换为矢量图。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1767(title)
 msgid "Creating Slides:"
-msgstr ""
+msgstr "创建幻灯片："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1769(para)
 msgid ""
@@ -2937,12 +2993,15 @@ msgid ""
 "jazz up your slides. Master view adds the elements that you want to appear "
 "on all slides of your presentation."
 msgstr ""
+"你可以从预设模板中选择套用，或使用绘图和制表工具来制作更好的幻灯片。"
+"你也可以使用母版视图来向演示文稿中的所有幻灯片添加元素。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1774(para)
 msgid ""
 "Further, Impress users have the option to install the Open ClipArt library, "
 "which contains a huge selection of images for free use."
 msgstr ""
+"另外，Impress 用户可以选择安装 Open ClipArt library，里面有大量可供免费使用的图像。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1777(para)
 msgid ""
@@ -2950,10 +3009,12 @@ msgid ""
 "stunning 2D and 3D effects to your text using Fontwork, which lets you "
 "create life-like 3D images easily."
 msgstr ""
+"动画和特效可以为你的演示文稿增色不少。你可以使用艺术字库功能来为你的文字添加精美的二维和三维效果，创建"
+"栩栩如生的三维图像也是易如反掌。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1782(title)
 msgid "Publishing Presentations:"
-msgstr ""
+msgstr "出版演示文稿"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1784(para)
 msgid ""
@@ -2961,10 +3022,12 @@ msgid ""
 "PDF files, convert them into SWF files and publish them as HTML documents. "
 "This enables you to access your presentation from a variety of platforms."
 msgstr ""
+"你能够将演示文稿出版为传单，导出为 PDF 文档，转化为 SWF 文件和输出为 HTML 文档。"
+"这些功能使你可以在各种不同平台上使用所制作的演示文稿。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1791(title)
 msgid "Saving Presentation in Other Formats:"
-msgstr ""
+msgstr "以其它格式保存演示文稿："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1793(para)
 msgid ""
@@ -2972,18 +3035,20 @@ msgid ""
 "international OpenDocument format. It also allows you to save your work in "
 "other formats such as PowerPoint."
 msgstr ""
+"和其他 OpenOffice.Org 程序一样，在 Impress 中你可以把文件保存为开放文档格式，同时你也可以保存为其他"
+"格式，例如 PowerPoint 格式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1800(title)
 msgid "Creating Multi-Media Presentations"
-msgstr ""
+msgstr "创建多媒体演示文稿"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1803(title)
 msgid "Creating, Viewing and Printing a Presentation"
-msgstr ""
+msgstr "创建，查看和打印演示文稿"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1805(para)
 msgid "To create and view presentations using OpenOffice.org Impress:"
-msgstr ""
+msgstr "要使用 OpenOffice.org Impress 创建和查看演示文稿："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1809(para) chapter4/Using_OpenOffice_Applications.xml:4465(para)
 msgid ""
@@ -2991,10 +3056,13 @@ msgid ""
 "<emphasis role=\"strong\">Office</emphasis> and then click <emphasis "
 "role=\"strong\">OpenOffice.org Presentation</emphasis>."
 msgstr ""
+"在<emphasis role=\"strong\">应用程序</emphasis>菜单中指向"
+"<emphasis role=\"strong\">办公</emphasis>，然后单击<emphasis "
+"role=\"strong\">OpenOffice.org 演示</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1815(emphasis)
 msgid "Launching Impress"
-msgstr ""
+msgstr "运行 Impress"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1828(para)
 msgid ""
@@ -3005,16 +3073,22 @@ msgid ""
 "Presentation Wizard or immediately create a new blank presentation by "
 "clicking <emphasis role=\"strong\">Create</emphasis>."
 msgstr ""
+"首先出现的是<emphasis role=\"strong\">演示文稿向导</emphasis>对话框。"
+"你可以在<emphasis role=\"strong\">演示文稿向导</emphasis>中"
+"通过三个步骤自定义演示文稿的基本结构。"
+"你可以在向导的指引下继续设置演示文稿，也可以直接单击"
+"<emphasis role=\"strong\">创建</emphasis>来建立一个空白的新演示文稿。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1837(emphasis)
 msgid "Using the Presentation Wizard"
-msgstr ""
+msgstr "使用演示文稿向导"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1851(para)
 msgid ""
 "To be able to preview the slide template, slide design and slide transition "
 "effects, leave the Preview check box selected."
 msgstr ""
+"要预览幻灯片模板，设计和切换效果，请确保“预览”选项处于勾上状态。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1858(para)
 msgid ""
@@ -3022,10 +3096,13 @@ msgid ""
 "the <emphasis role=\"strong\">Task</emphasis> pane on the left, you can "
 "select a layout for your current slide."
 msgstr ""
+"这幅图片显示的就是打开新空白演示文稿后的 Impress 主窗口状态。在"
+"左侧的<emphasis role=\"strong\">任务</emphasis>面板中，你可以为当前"
+"幻灯片页选择一种版式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1863(emphasis)
 msgid "The Impress Window"
-msgstr ""
+msgstr "Impress 主窗口"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1876(para)
 msgid ""
@@ -3035,16 +3112,21 @@ msgid ""
 "each slide or simply select a pre-defined template from the <emphasis "
 "role=\"strong\">Master Pages</emphasis> panel."
 msgstr ""
+"在文本框中输入文本来创建第一张幻灯片。要使你的幻灯片看起来更加专业和引人注目，你可以"
+"为每张幻灯片设置背景，字号和字体颜色，或者从"
+"role=\"strong\">母版</emphasis>面板中选择一个预设模板。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1883(para)
 msgid ""
 "Click <emphasis role=\"strong\">Master Pages</emphasis> to open the "
 "<emphasis role=\"strong\">Master Pages</emphasis> panel."
 msgstr ""
+"单击<emphasis role=\"strong\">母版</emphasis>来打开"
+"<emphasis role=\"strong\">母版</emphasis>面板。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1887(emphasis)
 msgid "Opening the Master Pages Panel"
-msgstr ""
+msgstr "打开母版面板"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1900(para)
 msgid ""
@@ -3055,6 +3137,11 @@ msgid ""
 "images, from the <emphasis role=\"strong\">Insert</emphasis> menu. "
 "Alternatively, you can start adding new slides to the presentation."
 msgstr ""
+"在<emphasis role=\"strong\">母版</emphasis>面板中有很多种模板，"
+"选择一种即可对整个演示文稿"
+"的外观做出改变。你可以通过添加一些元素来进一步美化演示文稿的外观。比如"
+"通过<emphasis role=\"strong\">插入菜单</emphasis>来加入对象，图片和动画。"
+"此外，你也可以开始向演示文稿中添加新的幻灯片了。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1908(para)
 msgid ""
@@ -3064,10 +3151,15 @@ msgid ""
 "role=\"strong\">Slide</emphasis> on the <emphasis "
 "role=\"strong\">Insert</emphasis> menu."
 msgstr ""
+"你可以单击<emphasis "
+"role=\"strong\">标准工具栏</emphasis>中的<emphasis "
+"role=\"strong\">幻灯片</emphasis>按钮来加入新的幻灯片，也可以单击<emphasis "
+"role=\"strong\">插入</emphasis>菜单中的<emphasis "
+"role=\"strong\">幻灯片</emphasis>按钮。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1915(emphasis)
 msgid "Selecting a Slide Template"
-msgstr ""
+msgstr "选择幻灯片模板"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1928(para)
 msgid ""
@@ -3080,10 +3172,15 @@ msgid ""
 "provided text boxes, then double-click the house icon to insert a graphic in "
 "the provided placeholder."
 msgstr ""
+"根据所选择的版式，插入的幻灯片也是整个演示文稿的第一章幻灯片。"
+"根据你的幻灯片制作要求，你可以从<emphasis "
+"role=\"strong\">版式</emphasis>面板中选择一种新的格式。新版式"
+"包括两栏，一栏放置文本，一栏放置图片。这样你就可以将文本和相关的图片在同一张幻灯片里展示出来了。"
+"在幻灯片里的文本框输入文本，然后双击左侧图标来在指定位置插入一幅图片。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1939(emphasis)
 msgid "Selecting a Slide Layout"
-msgstr ""
+msgstr "选择幻灯片版式"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1952(para)
 msgid ""
@@ -3091,10 +3188,13 @@ msgid ""
 "select the desired image and click <emphasis role=\"strong\">Open</emphasis> "
 "to insert it into your slide."
 msgstr ""
+"在<emphasis role=\"strong\">插入图片</emphasis>对话框中，选择"
+"所需图片，然后单击<emphasis role=\"strong\">打开</emphasis>"
+"将图片插入到幻灯片中。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1957(emphasis)
 msgid "Inserting Picture in a Slide"
-msgstr ""
+msgstr "在幻灯片中插入图片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1970(para)
 msgid ""
@@ -3105,6 +3205,12 @@ msgid ""
 "not automatically resized, but you can move and resize it as needed. You can "
 "insert new slides in a similar fashion."
 msgstr ""
+"请注意被插入的图片会自动调整尺寸来适应空间大小。你也可以"
+"通过单击<emphasis "
+"role=\"strong\">插入</emphasis>菜单中的<emphasis "
+"role=\"strong\">图片</emphasis>选项来插入图片。"
+"通过这种方式插入的图片不会自动调整大小，但是你可以根据需要进行移动并调整大小。"
+"你也可以以类似的方式插入新的幻灯片。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1978(para)
 msgid ""
@@ -3113,10 +3219,14 @@ msgid ""
 "role=\"strong\">Slide Show Settings</emphasis> from the <emphasis "
 "role=\"strong\">Slide Show</emphasis> menu."
 msgstr ""
+"现在你已经可以放映你的演示文稿了。要设置基本的放映选项，"
+"在<emphasis "
+"role=\"strong\">演示文稿</emphasis>菜单中选择<emphasis "
+"role=\"strong\">幻灯片放映设置</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1984(emphasis)
 msgid "Setting up a Slide Show"
-msgstr ""
+msgstr "幻灯片放映设置"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1997(para)
 msgid ""
@@ -3128,16 +3238,25 @@ msgid ""
 "slides. Similarly, the <emphasis role=\"strong\">Options</emphasis> section "
 "allows you to define various other settings for your presentation."
 msgstr ""
+"通过<emphasis role=\"strong\">幻灯片放映</emphasis>对话框，你可以"
+"自定义幻灯片放映的基本设置。在<emphasis "
+"role=\"strong\">范围</emphasis>区块中，你可以设置需要放映的"
+"幻灯片及它们的先后顺序。在<emphasis "
+"role=\"strong\">类型</emphasis>区块中，你可以设置幻灯片的放映方式。"
+"类似的，在<emphasis role=\"strong\">选项</emphasis>区块中，"
+"你可以设定很多其他的选项。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2006(para)
 msgid ""
 "After selecting the desired options, click <emphasis "
 "role=\"strong\">OK</emphasis> to apply the settings."
 msgstr ""
+"设定完相关选项后，单击<emphasis "
+"role=\"strong\">确定</emphasis>来应用这些设置。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2010(emphasis)
 msgid "Configuring the Slide Show Settings"
-msgstr ""
+msgstr "设置幻灯片放映选项"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2023(para)
 msgid ""
@@ -3145,10 +3264,13 @@ msgid ""
 "Show</emphasis> from the <emphasis role=\"strong\">Slide Show</emphasis> "
 "menu or press <emphasis role=\"strong\">F5</emphasis>."
 msgstr ""
+"要开始放映幻灯片，在<emphasis role=\"strong\">演示文稿"
+"</emphasis>菜单中选择<emphasis role=\"strong\">幻灯片放映</emphasis>"
+"或按下快捷键<emphasis role=\"strong\">F5</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2029(emphasis)
 msgid "Starting the Slide Show"
-msgstr ""
+msgstr "开始放映幻灯片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2042(para)
 msgid ""
@@ -3157,6 +3279,9 @@ msgid ""
 "clicking once. However, you can exit a slide show at any point of time by "
 "pressing <emphasis role=\"strong\">ESC</emphasis>."
 msgstr ""
+"演示的过程也就是放映幻灯片的过程，当放映到最后一张幻灯片时，你可以"
+"单击左键退出放映。另外，你可以在放映过程中的任何地方按下"
+"<emphasis role=\"strong\">ESC</emphasis>键来退出放映。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2050(para)
 msgid ""
@@ -3165,10 +3290,14 @@ msgid ""
 "role=\"strong\">Print</emphasis> from the <emphasis "
 "role=\"strong\">File</emphasis> menu."
 msgstr ""
+"你可以用大纲形式打印幻灯片，可以带有页码，日期，时间和其他信息。只需在"
+"<emphasis "
+"role=\"strong\">文件</emphasis>菜单中单击<emphasis "
+"role=\"strong\">打印</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2056(emphasis)
 msgid "Printing the Presentation"
-msgstr ""
+msgstr "打印演示文稿"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2069(para)
 msgid ""
@@ -3176,18 +3305,21 @@ msgid ""
 "further define printer settings or accept the default settings, and click "
 "<emphasis role=\"strong\">OK</emphasis> to start printing your presentation."
 msgstr ""
+"你可以在<emphasis role=\"strong\">打印</emphasis>对话框中"
+"对打印机选项进行进一步设置，或者使用默认设置。设置完成后，"
+"按下<emphasis role=\"strong\">确定</emphasis>按钮开始打印。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2075(emphasis)
 msgid "Defining Printer Settings"
-msgstr ""
+msgstr "设定打印机选项"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2089(title)
 msgid "Animating Objects and 3D Objects"
-msgstr ""
+msgstr "动画对象和三维对象"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2091(para)
 msgid "To create a presentation with 3D effects and animations:"
-msgstr ""
+msgstr "要创建带有三维和动画效果的演示文稿："
 
 #: chapter4/Using_OpenOffice_Applications.xml:2094(para)
 msgid ""
@@ -3196,6 +3328,9 @@ msgid ""
 "start adding elements to your presentation to spice it up. Begin with "
 "placing the title of your presentation on the first slide."
 msgstr ""
+"打开一个需要使用三维和动画效果的演示文稿，选择一个合适的，从母版面板中"
+"选择一个合适的模板。现在你可以开始向演示文稿中加入元素了。先把"
+"演示文稿标题放在第一张幻灯片上。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2100(para)
 msgid ""
@@ -3206,20 +3341,27 @@ msgid ""
 "the <emphasis role=\"strong\">Fontwork Gallery</emphasis> button. The "
 "<emphasis role=\"strong\">Fontwork Gallery</emphasis> window appears."
 msgstr ""
+"Impress 提供了大量文本修饰工具来创造吸引眼球的标题显示效果。"
+"其中一种是“艺术字库”，你可以用它来为文本创建特殊的三维效果。要使用"
+"艺术字库，请在<emphasis role=\"strong\">绘图</emphasis>工具栏上单"
+"击<emphasis role=\"strong\">艺术字库</emphasis>按钮。你会看到一个"
+"<emphasis role=\"strong\">艺术字图片库</emphasis>窗口。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2109(emphasis)
 msgid "Opening Fontwork Gallery"
-msgstr ""
+msgstr "打开艺术字图片库"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2122(para)
 msgid ""
 "Select the style in which you want the title text to be displayed, and click "
 "<emphasis role=\"strong\">OK.</emphasis>"
 msgstr ""
+"选择你所喜欢的标题显示风格，然后按下"
+"<emphasis role=\"strong\">确定</emphasis>按钮。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2126(emphasis)
 msgid "Selecting a Fontwork Style"
-msgstr ""
+msgstr "选择一种艺术字风格"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2139(para)
 msgid ""
@@ -3230,20 +3372,26 @@ msgid ""
 "appears over the object. Click outside the object's selected area to exit "
 "the <emphasis role=\"strong\">Fontwork</emphasis> edit mode."
 msgstr ""
+"你会看到<emphasis role=\"strong\">Fontwork</emphasis>这个对象以你选定的风格形式"
+"出现在幻灯片上。要用自己的标题文本替换 "
+"<emphasis role=\"strong\">Fontwork</emphasis> 这个单词，请双击"
+"这个对象，并在 Fontwork 单词的位置输入自己的标题文本。然后在该对象范围之外双击"
+"以退出 <emphasis role=\"strong\">Fontwork</emphasis> 编辑模式。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2148(emphasis)
 msgid "Editing the Fontwork Object"
-msgstr ""
+msgstr "编辑艺术字对象"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2161(para)
 msgid ""
 "You can go ahead and do the same on the other slides too by inserting 3D "
 "images and animating them."
 msgstr ""
+"你可以用同样的方法为其他幻灯片插入三维图像并添加动画效果。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2165(emphasis)
 msgid "The 3D Text"
-msgstr ""
+msgstr "三维文本"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2177(para)
 msgid ""
@@ -3254,10 +3402,16 @@ msgid ""
 "role=\"strong\">Toolbars</emphasis> and then click <emphasis "
 "role=\"strong\">3D-Objects</emphasis>."
 msgstr ""
+"你可以从三维对象工具栏为演示文稿插入三维图形对象。"
+"默认情况下这个工具栏不会出现在绘图工具栏里。"
+"要使用这个工具栏，在<emphasis "
+"role=\"strong\">视图</emphasis>菜单中指向<emphasis "
+"role=\"strong\">工具栏</emphasis>然后单击<emphasis "
+"role=\"strong\">三维对象</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2185(emphasis)
 msgid "Inserting 3D Graphics"
-msgstr ""
+msgstr "插入三维图形"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2199(para)
 msgid ""
@@ -3265,6 +3419,8 @@ msgid ""
 "the end of the Drawing toolbar and selecting it from the Visible Buttons "
 "list."
 msgstr ""
+"另一种显示三维对象工具栏的方法是，按下绘图工具栏最后的小箭头，然后在“可视按钮”列表中"
+"进行选择。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2206(para)
 msgid ""
@@ -3274,10 +3430,14 @@ msgid ""
 "Objects toolbar</emphasis>, drag the title bar of the toolbar to the desired "
 "location and release the mouse button."
 msgstr ""
+"<emphasis role=\"strong\">三维对象工具栏</emphasis>是作为一个浮动"
+"工具栏出现的。如果你不喜欢浮动工具栏，你可以将它放在"
+"任意一个已有工具栏上面。要固定<emphasis role=\"strong\">三维"
+"对象工具栏</emphasis>，把它的标题栏拖曳到合适地点后松开鼠标按键。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2214(emphasis)
 msgid "The 3D-Objects Toolbar"
-msgstr ""
+msgstr "三维对象工具栏"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2227(para)
 msgid ""
@@ -3291,10 +3451,16 @@ msgid ""
 "mouse to insert the object on the slide. The selected 3D object appears on "
 "the slide."
 msgstr ""
+"现在<emphasis role=\"strong\">三维对象工具栏</emphasis>已经固定到"
+"<emphasis role=\"strong\">线条和填充工具栏</emphasis>边上。你可以"
+"从工具栏中找到合适的对象并把它们插入到幻灯片中。要在当前幻灯片中插入三维对象，单击"
+"<emphasis role=\"strong\">三维对象工具栏</emphasis>中合适的对象。然后把"
+"鼠标移动到你想插入该对象的位置。你可以看到鼠标指针尖端出现了一个加号。按住"
+"鼠标左键，通过拖曳鼠标即可在幻灯片上加入这个对象。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2239(emphasis)
 msgid "Inserting a 3D Object"
-msgstr ""
+msgstr "插入三维对象"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2252(para)
 msgid ""
@@ -3306,10 +3472,16 @@ msgid ""
 "Effects</emphasis>. The <emphasis role=\"strong\">3D Effects</emphasis> "
 "dialogue box opens."
 msgstr ""
+"你可以通过对象边缘的绿色手柄来调整对象的比例和大小。"
+"此外，Impress 还提供了一系列工具来为对象添加三维效果。你可以用这些工具来"
+"根据需求修饰对象的外观和质感。要在插入的图像上应用三维效果，右键单击对象，在"
+"快捷菜单中选择<emphasis role=\"strong\">三维"
+"效果</emphasis>。打开<emphasis role=\"strong\">三维效果</emphasis> "
+"对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2262(emphasis)
 msgid "Applying 3D Effects"
-msgstr ""
+msgstr "应用三维效果"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2275(para)
 msgid ""
@@ -3321,6 +3493,10 @@ msgid ""
 "object. Alternatively, you can simply drag the white dot in the graphic at "
 "the bottom of the dialogue box and move it to get the desired effect."
 msgstr ""
+"你可以通过设定对话框中各个按钮下的不同选项来修改对象的外观和质感。"
+"单击<emphasis role=\"strong\">照明</emphasis>按钮来改善对象的照明效果。你可以"
+"通过下拉菜单中的合适选项来取得所需的照明效果。你也可以拖曳对话框底部"
+"图形上的小白点来获得所需的效果。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2286(para)
 msgid ""
@@ -3330,10 +3506,15 @@ msgid ""
 "role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">3D "
 "Effects</emphasis> dialogue box."
 msgstr ""
+"设置完所需选项后，单击对话框右上部的<emphasis "
+"role=\"strong\">指定</emphasis>图标来应用所作的设置。"
+"然后单击<emphasis "
+"role=\"strong\">关闭</emphasis>来退出<emphasis role=\"strong\">三维"
+"效果</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2293(emphasis)
 msgid "Defining 3D Effects"
-msgstr ""
+msgstr "设置三维效果"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2307(emphasis)
 msgid ""
@@ -3341,6 +3522,7 @@ msgid ""
 "converting 2D objects into 3D objects and applying the finer 3D effects to "
 "it."
 msgstr ""
+"如果你有足够的时间，你也可以演示一下将二维对象转化为三维对象并对它应用更好的三维效果。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2314(para)
 msgid ""
@@ -3352,16 +3534,21 @@ msgid ""
 "on the <emphasis role=\"strong\">Slide Show</emphasis> menu, click <emphasis "
 "role=\"strong\">Custom Animation</emphasis>."
 msgstr ""
+"你看，经过鼠标的几次点击，三维对象的外观已经大为改善。通过同样的方式，你可以为演示文稿添加大量的"
+"三维和二维元素，并通过应用各种三维效果来加以改善。Impress 同时还提供了一些动画功能，来使你的"
+"演示富有动感气息。要显示 Impress 中可用的动画选项，请在<emphasis role=\"strong\">演示文稿</emphasis>"
+"菜单中选择<emphasis role=\"strong\">自定义动画</emphasis>。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2323(para)
 msgid ""
 "The <emphasis role=\"strong\">Custom Animations</emphasis> panel now appears "
 "on the right edge of the presentation window."
 msgstr ""
+"<emphasis role=\"strong\">自定义动画</emphasis>面板就会出现在演示文稿窗口的右侧边缘。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2327(emphasis)
 msgid "Applying Custom Animation"
-msgstr ""
+msgstr "使用自定义动画"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2340(para)
 msgid ""
@@ -3370,10 +3557,13 @@ msgid ""
 "on the <emphasis role=\"strong\">Custom Animation</emphasis> panel. The "
 "Custom Animation dialogue box opens."
 msgstr ""
+"要对幻灯片中的某个单一元素应用动画效果，选定该元素，然后单击"
+"<emphasis role=\"strong\">自定义动画</emphasis>面板中的<emphasis role=\"strong\">添加</emphasis>按钮，"
+"打开自定义动画对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2347(emphasis)
 msgid "Animating Objects"
-msgstr ""
+msgstr "为对象添加动画"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2360(para)
 msgid ""
@@ -3382,16 +3572,20 @@ msgid ""
 "Similarly, you can specify animation effects for other elements on the "
 "slides."
 msgstr ""
+"现在你可以对选定的对象添加各种动画效果了。为对象设置"
+"进入和退出动画，并设定运动轨迹。通过类似的方法，你可以为"
+"幻灯片中的其他元素加入动画效果。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2365(para)
 msgid ""
 "After defining all the desired settings for the object, click <emphasis "
 "role=\"strong\">OK </emphasis> to apply the animation effects."
 msgstr ""
+"设置完毕后，单击<emphasis role=\"strong\">确定</emphasis>来应用动画效果。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2370(emphasis)
 msgid "Customising Animation Effects"
-msgstr ""
+msgstr "自定义动画效果"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2383(para)
 msgid ""
@@ -3400,22 +3594,25 @@ msgid ""
 "animation effects in a slide show. Click the <emphasis role=\"strong\">Slide "
 "Show</emphasis> button to view the presentation as a slide show."
 msgstr ""
+"所设定动画效果可以在<emphasis role=\"strong\">自定义动画</emphasis>面板的底部查看。"
+"现在你可以在幻灯片放映中看到动画效果了。单击<emphasis role=\"strong\">幻灯片放映</emphasis>"
+"按钮来查看带有动画效果的演示文稿。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2390(emphasis)
 msgid "Launching a Slide Show"
-msgstr ""
+msgstr "放映幻灯片"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2403(para)
 msgid "Your presentation runs as a spectacular and lively slide show."
-msgstr ""
+msgstr "现在你的演示文稿变得充满活力，令人惊叹。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2407(emphasis)
 msgid "The spectacular Slide Show"
-msgstr ""
+msgstr "令人惊叹的幻灯片放映"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2421(title) chapter4/Using_OpenOffice_Applications.xml:2438(title)
 msgid "Exporting a Presentation"
-msgstr ""
+msgstr "导出演示文稿"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2423(para)
 msgid ""
@@ -3424,10 +3621,12 @@ msgid ""
 "other file formats. As a result, Impress allows you to export your slide "
 "shows directly as Flash (SWF) files."
 msgstr ""
+"我们前面提到过，Impress 的另一个实用特性是，它可以将演示文稿直接导出为其他一些文件格式。"
+"你可以直接把幻灯片导出为 Flash（SWF）文件。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2430(title)
 msgid "To export your presentation as an SWF file:"
-msgstr ""
+msgstr "要将演示文稿导出为 SWF 文件："
 
 #: chapter4/Using_OpenOffice_Applications.xml:2433(para)
 msgid ""
@@ -3435,6 +3634,8 @@ msgid ""
 "role=\"strong\">Export.</emphasis> This opens the <emphasis "
 "role=\"strong\">Export</emphasis> dialogue box."
 msgstr ""
+"在<emphasis role=\"strong\">文件</emphasis>菜单中，单击<emphasis role=\"strong\">导出</emphasis>"
+"按钮，打开<emphasis role=\"strong\">导出</emphasis>对话框。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2450(para)
 msgid ""
@@ -3446,10 +3647,14 @@ msgid ""
 "role=\"strong\">Save</emphasis>. The file is exported to the indicated "
 "location. You can now view the presentation as a Flash file."
 msgstr ""
+"在<emphasis role=\"strong\">名称</emphasis>输入框中键入一个文件名，然后选定导出文件"
+"存放的路径。要将演示文稿导出为 Flash 文件，在文件类型下拉菜单中选择"
+"<emphasis role=\"strong\">Macromedia Flash（SWF）</emphasis>，然后单击<emphasis role=\"strong\">保存</emphasis>"
+"来将文件保存到预定位置。现在你可以以 Flash 文件形式查看演示文稿了。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2460(title)
 msgid "Exporting Presentation as a Flash File"
-msgstr ""
+msgstr "将演示文稿导出为 Flash 文件"
 
 #: chapter4/Using_OpenOffice_Applications.xml:2475(title)
 msgid "Using OpenOffice.org Draw"
