@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-26 14:17+0800\n"
+"PO-Revision-Date: 2009-12-26 14:31+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: chapter8/xinclude.xml:1159(para)
 msgid "The check box corresponding to the recently installed software package has changed to green, indicating that the software has been installed successfully. You can repeat the same procedure to install all the multimedia codecs required for playing proprietary multimedia formats."
-msgstr ""
+msgstr "最近安装的软件包对应的复选框已经变为了绿色，说明此软件已经成功安装。可以重复同样的操作安装所有播放私有多媒体格式需要的需要的多媒体编解码器。"
 
 #: chapter8/xinclude.xml:1166(title)
 msgid "Software Successfully Installed"
@@ -1382,7 +1382,7 @@ msgstr "要使用 iPod 播放音乐："
 
 #: chapter8/xinclude.xml:1193(para)
 msgid "Plug your iPod into one of your computer's USB ports. Ubuntu automatically mounts it and places it as an icon on your desktop. Simultaneously, the iPod device opens in the Rhythmbox Music Player window. You can view all the files loaded on your iPod device in the lower right pane of the Rhythmbox window. To play a music track from your iPod, just select the track from the list and click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr ""
+msgstr "向计算机的 USB 接口插入 iPod。Ubuntu 自动挂载并以一个图标放置它在桌面上。同时，iPod 设备在 Rhythmbox 音乐播放器窗口中打开。可以在 Rhythmbox 窗口的右下嵌板查看所有加载到 iPod 设备的文件。要从 iPod 播放音乐曲目，只需从列表中选择曲目并点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:1202(title)
 msgid "Plugging in an iPod"
@@ -1390,7 +1390,7 @@ msgstr "插入 iPod"
 
 #: chapter8/xinclude.xml:1213(para)
 msgid "The song starts playing in the Rhythmbox Music Player. However, if the format of the music file is not supported by the Rhythmbox Music Player, you may not be able to play the file and you will receive an error message. In this case, you will need to follow the procedure described in the previous section to download all the necessary software codecs from the Ubuntu repositories."
-msgstr ""
+msgstr "在 Rhythmbox 音乐播放器窗口中开始播放歌曲。然而，如果音乐格式不被 Rhythmbox 音乐播放器所支持，将不能播放此文件并将收到一条错误信息。此时，需要安装前边章节描述的步骤从 Ubuntu 软件库下载所有需要的软件编解码器。"
 
 #: chapter8/xinclude.xml:1221(title)
 msgid "Playing Music from iPod"
