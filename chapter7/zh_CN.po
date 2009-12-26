@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 22:49+0800\n"
+"PO-Revision-Date: 2009-12-26 14:50+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -417,186 +417,186 @@ msgstr "还可以通过单击 <emphasis role=\"strong\">照片</emphasis>菜单�
 
 #: chapter7/Managing_Graphics_and_Photos.xml:307(para)
 msgid "In the <emphasis role=\"strong\">Import Source</emphasis> box, the <emphasis role=\"strong\">Select Folder</emphasis> option is selected by default. Retain the option, navigate to the folder that contains the photographs and click <emphasis role=\"strong\">Open</emphasis>."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">导入源</emphasis>对话框中，<emphasis role=\"strong\">选择文件夹</emphasis> 选项是设置的默认路径。保留这个选项，单击导航到包含照片的文件夹，单击<emphasis role=\"strong\">打开</emphasis>按钮，选择需要的照片单击<emphasis role=\"strong\">打开</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:314(emphasis)
 #: chapter7/Managing_Graphics_and_Photos.xml:396(emphasis)
 msgid "Selecting Photo Import Source"
-msgstr ""
+msgstr "选择需要导入的照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:326(emphasis)
 msgid "Displaying Images to Import"
-msgstr ""
+msgstr "显示可导入的照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:339(para)
 msgid "Click <emphasis role=\"strong\">Import</emphasis> in the <emphasis role=\"strong\">Import</emphasis> dialogue box."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">I导入</emphasis>对话框下的<emphasis role=\"strong\">I导入</emphasis> 按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:353(para)
 msgid "The photographs are listed as thumbnails in the <emphasis role=\"strong\">F-Spot</emphasis> window. Notice that the timeline slider is positioned according to the dates on which the images were saved on the hard disk of your computer."
-msgstr ""
+msgstr "照片以缩略图的形式显示在<emphasis role=\"strong\">F-Spot</emphasis>窗口内。需要注意的是，时间滑块定位根据的是图像在当前计算机硬盘上保存的日期。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:359(emphasis)
 #: chapter7/Managing_Graphics_and_Photos.xml:455(title)
 msgid "Browsing Photos"
-msgstr ""
+msgstr "浏览照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:372(para)
 msgid "The photographs listed in the F-Spot window are not associated with any category or parent tag."
-msgstr ""
+msgstr "F-Spot窗口下的图像列表不与任何类别或父标记关联。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:379(title)
 msgid "Importing Photographs from a Digital Camera"
-msgstr ""
+msgstr "从数码相机中导入相片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:381(para)
 msgid "To import photographs into F-Spot from a digital camera:"
-msgstr ""
+msgstr "从数码相机中向F-Spot导入相片："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:390(para)
 msgid "Click the <emphasis role=\"strong\">Import Source</emphasis> box. Plug the camera on the computer. F-Spot detects the camera and displays the model and type of the camera in the <emphasis role=\"strong\">Import Source</emphasis> box."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">导入源</emphasis> 按钮。将相机连接到电脑上。F-Spot将检测到相机，并在<emphasis role=\"strong\">导入源</emphasis> 对话框中显示相机图标和相机类型。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:409(para)
 msgid "Click the camera as the source for the photographs. The <emphasis role=\"strong\">Select Photos to Copy From Camera</emphasis> dialogue box opens, which lists all the photos in the camera. Select the photos you want to import and click <emphasis role=\"strong\">Copy</emphasis>."
-msgstr ""
+msgstr "单击选定相机作为照片源。将打开<emphasis role=\"strong\">从相机选择并复制相片</emphasis>对话框，其下列出了相机内的所有照片。选择需要导入到照片单击<emphasis role=\"strong\">复制</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:416(emphasis)
 msgid "Selecting Images to Copy"
-msgstr ""
+msgstr "选择并复制照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:429(para)
 msgid "F-Spot copies the photographs to the specified location and displays the copied photographs in the right pane of the <emphasis role=\"strong\">F-Spot</emphasis> window."
-msgstr ""
+msgstr "F-Spot将相片复制到指定位置，并在<emphasis role=\"strong\">F-Spot</emphasis>窗体的右侧窗格中显示所复制的相片。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:437(title)
 msgid "Viewing Photos"
-msgstr ""
+msgstr "浏览照片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:443(para)
 msgid "Double-clicking each thumbnail to enlarge the view"
-msgstr ""
+msgstr "双击每个小图标可以对其进行放大浏览"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:447(para)
 msgid "Select a thumbnail and click <emphasis role=\"strong\">Fullscreen</emphasis> on the toolbar"
-msgstr ""
+msgstr "选定一个小图标并单击工具条上的<emphasis role=\"strong\">全屏显示</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:439(para)
 msgid "After importing, you can view all the photographs as thumbnails in the right pane of the <emphasis role=\"strong\">F-Spot</emphasis> window. You can view photographs in F-Spot by: <placeholder-1/>"
-msgstr ""
+msgstr "导入成功后，所有的照片将在<emphasis role=\"strong\">F-Spot</emphasis> 窗体的右侧窗格中以缩略图的形式显示。你可以通过 <placeholder-1/>在F-Spot下浏览相片。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:452(para)
 msgid "The image opens in fullscreen mode."
-msgstr ""
+msgstr "图像将以全屏模式打开。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:466(title)
 msgid "Viewing Photos in Full Screen Mode"
-msgstr ""
+msgstr "全屏模式下浏览相片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:476(para)
 msgid "Click <emphasis role=\"strong\">Exit fullscreen</emphasis> to return to the <emphasis role=\"strong\">F-Spot</emphasis> window."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">退出全屏</emphasis> 回到 <emphasis role=\"strong\">F-Spot</emphasis> 窗口中。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:481(title)
 msgid "Organising Photos"
-msgstr ""
+msgstr "组织相片"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:483(para)
 msgid "By default, F-Spot organises photographs based on the dates in which they were saved on the computer. You can view photographs for a specific date and time by clicking the corresponding year on the timeline slider or moving the slider along the timeline. For example, assume that there are 100 images in the right pane, 50 of which were saved in 2004 and 50 in 2007. To view the images for 2004, position the slider on the timeline at the 2004 mark."
-msgstr ""
+msgstr "默认情况下，F-Spot是基于图片在计算机上存储的日期来组织相片。用户可以通过点击时间轴上的相应年份或者沿着时间轴滑动时间滑块来浏览特点时间和日期下的照片。举个例子，假设右侧窗体中有100张图片，有50张存储于2004年，另外50张存储于2007年，想要浏览2004年的图片，只要将滑块放到时间轴上的2004标记点这个位置。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:491(para)
 msgid "To organise the photographs differently, you can attach a tag or a label to each photo and categorise them. You can then view photographs based on these categories."
-msgstr ""
+msgstr "用户可以通过为照片添加标签来对其进行分类，进而对不同的照片进行管理。用户可以基于这些分类浏览照片。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:495(para)
 msgid "Some categories are already predefined and visible in the left pane of the <emphasis role=\"strong\">F-Spot</emphasis> window. You can group your photos under these tags."
-msgstr ""
+msgstr "软件自身已经定义了一些分类标准，它们被显示在<emphasis role=\"strong\">F-Spot</emphasis>的左侧窗体中。用户可以利用这些标签对照片进行分组。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:501(para)
 msgid "In the <emphasis role=\"strong\">F-Spot</emphasis> window, right-click a photograph, point to <emphasis role=\"strong\">Attach a Tag</emphasis> and click the tag with which you want to associate the photograph. The tag is displayed at the bottom of the photograph."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">F-Spot</emphasis> 窗体中，右击某一照片，在<emphasis role=\"strong\">附加标记</emphasis>项下选择所需的分类项。分类标记将显示在图片的底部。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:508(title)
 msgid "Tagging an Image"
-msgstr ""
+msgstr "对图像进行标记"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:519(title)
 msgid "Viewing Tagged Images"
-msgstr ""
+msgstr "浏览标记的图像"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:529(para)
 msgid "The tagged image is now displayed under the tagged category."
-msgstr ""
+msgstr "标记过的图像将在对应的标记类下显示。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:499(para)
 msgid "To add a tag to a photograph: <placeholder-1/>"
-msgstr ""
+msgstr "为照片添加标记：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:535(title)
 #: chapter7/Managing_Graphics_and_Photos.xml:566(title)
 msgid "Removing Red Eye"
-msgstr ""
+msgstr "去除红眼"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:537(para)
 msgid "In some cameras, the proximity of the flash to the lens causes the light from the flash to reflect from the subject's retina to the lens, leaving a red eye mark on the image. Referred to as a red eye, the size of the mark depends on the amount of light reflected. F-Spot Photo Manager software can be used to remove the red eye from images."
-msgstr ""
+msgstr "一些相机，由于闪光灯太接近镜头，导致由闪光灯发出的光线通过对象的视网膜反射回镜头，因而在图像上留下了一个红色眼睛的记号。对于这所谓的红眼，其大小取决于光线的反射量。F-Spot照片管理器可以用来去除图像上的红眼。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:544(title)
 msgid "Image with a Red Eye"
-msgstr ""
+msgstr "带红眼的图像"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:555(title)
 msgid "To remove red eye from an image:"
-msgstr ""
+msgstr "从图像上去除红眼："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:558(para)
 msgid "In the <emphasis role=\"strong\">F-spot Photo Manager</emphasis> window, click the thumbnail of the image that has a red eye. Click the <emphasis role=\"strong\">Edit</emphasis> button in the navigation toolbar. Use your mouse to select the area you wish to correct on the image. You can zoom in on the area by using the slider bar in the bottom of the work area."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">F-spot 照片管理器</emphasis>窗口下，选中待处理图像的图标。点击导航工具条上的<emphasis role=\"strong\">编辑图像</emphasis>按钮。用鼠标在图像上选定预更正的区域。可以利用工作区域右下角的滑条对改选定区域进行放大。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:578(para)
 msgid "Click the <emphasis role=\"strong\">Redeye Removal</emphasis> icon underneath the image. F-spot automatically corrects the image."
-msgstr ""
+msgstr "单击编辑工具栏下的<emphasis role=\"strong\">降低红眼</emphasis>按钮。F-Spot将自动对影像进行修正。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:584(para)
 msgid "The edited image also replaces the image stored on your computer. Ensure that you save a copy of the image before editing it."
-msgstr ""
+msgstr "编辑后的图像将自动取代计算机上的原始图像。在编辑之前请确保已经对图像进行备份。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:594(title)
 msgid "The GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:596(para)
 msgid "GNU Image Manipulation Programme (GIMP) is the default graphic application in Ubuntu, licensed under the GNU General Public License. It is an open-source multi-platform image manipulation tool, available in many languages. You can use GIMP to re-touch photos, compose and create images, re-size, crop, manipulate colours and convert image formats."
-msgstr ""
+msgstr "GNU 图像处理程序 (GIMP)是Ubuntu自带的一款图形应用程序，根据GNU共用公共许可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过GIMP修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格式。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:605(para)
 msgid "A full suite of painting tools, including brushes, a pencil and an airbrush"
-msgstr ""
+msgstr "全套的涂画工具，包括油漆桶填充、铅笔和喷枪等"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:610(para)
 msgid "Selection tools such as rectangle, ellipse, free, fuzzy and bezier"
-msgstr ""
+msgstr "选择工具包括矩形选择、椭圆选择、自由选择、前景选择和模糊选择等"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:615(para)
 msgid "Transformation tools such as rotate, scale, shear and flip"
-msgstr ""
+msgstr "变换工具包括旋转、缩放、剪切和翻转等"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:620(para)
 msgid "Tile-based memory management so that the image size is limited only by available disk space"
-msgstr ""
+msgstr "基于平铺的内存管理，使图像的大小只受限于可用磁盘空间"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:625(para)
 msgid "Multiple undo/re-do operations limited only by disk space"
-msgstr ""
+msgstr "撤销和重做命令的可执行性也只受限于磁盘空间"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:630(para)
 msgid "Advanced scripting capabilities"
-msgstr ""
+msgstr "先进的脚本功能"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:634(para)
 msgid "Layers and channels for complex drawings"
-msgstr ""
+msgstr "用于复杂绘图的图层和渠道"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:638(para)
 msgid "Sub-pixel sampling for all paint tools to minimise distortion while representing high-resolution images in lower resolution or stretched mode"
@@ -1027,5 +1027,5 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: chapter7/Managing_Graphics_and_Photos.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 
