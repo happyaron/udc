@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-26 14:31+0800\n"
+"PO-Revision-Date: 2009-12-26 15:08+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1398,7 +1398,7 @@ msgstr "从 iPod 播放音乐"
 
 #: chapter8/xinclude.xml:1232(para)
 msgid "Ubuntu also allows you to transfer music files to and from the iPod device. However, this is not possible using Rhythmbox. You will need to install the <emphasis role=\"strong\">gtkpod</emphasis> software to be able to transfer music file between your computer and the iPod device. You can easily download this software from the Universe repository using the Synaptic Package Manager."
-msgstr ""
+msgstr "Ubuntu 允许向和从 iPod 设备传送音乐文件。但是，不能使用 Rhythmbox。需要安装 <emphasis role=\"strong\">gtkpod</emphasis> 软件以可以在计算机和 iPod 设备之间传送文件。可以容易的使用新立得软件包管理器从 Universe 仓库下载此软件。"
 
 #: chapter8/xinclude.xml:1239(para)
 msgid "To access gtkpod, after it is successfully installed on your computer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">gtkpod</emphasis>. The <emphasis role=\"strong\">gtkpod</emphasis> window opens."
