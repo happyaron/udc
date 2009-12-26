@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-26 14:50+0800\n"
+"PO-Revision-Date: 2009-12-26 15:04+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -596,7 +596,7 @@ msgstr "先进的脚本功能"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:634(para)
 msgid "Layers and channels for complex drawings"
-msgstr "用于复杂绘图的图层和渠道"
+msgstr "图层和用于复杂绘图的通道"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:638(para)
 msgid "Sub-pixel sampling for all paint tools to minimise distortion while representing high-resolution images in lower resolution or stretched mode"
