@@ -1,73 +1,68 @@
+# Simplified Chinese translation for ubuntu-desktop-course CHAPTER
+# This file is distributed under the same license as the ubuntu-desktop-course package.
+# Copyright (C) 2009 Canonical Ltd and translation contributors:
+#     JimHu <jimhuyiwei@gmail.com>, 2009.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-23 20:29+0800\n"
-"Last-Translator: syq <wzssyqa@gmail.com>\n"
-"Language-Team: Chinese (simplified)\n"
+"Project-Id-Version: ubuntu-desktop-course CHAPTER\n"
+"Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
+"POT-Creation-Date: 2009-08-06 12:43+0200\n"
+"PO-Revision-Date: 2009-10-30 17:23+0000\n"
+"Last-Translator: Name <email@address>\n"
+"Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+
 #: legal/xinclude.xml:4(para)
-msgid ""
-"Written by and attributed to Canonical Ltd. and the Ubuntu Training "
-"community 2008-2009."
-msgstr ""
+msgid "Written by and attributed to Canonical Ltd. and the Ubuntu Training community 2008-2009."
+msgstr "撰写并且归因于 Canonical 有限公司和 Ubuntu 培训社区 2008-2009。"
 
 #: legal/xinclude.xml:6(para)
 msgid "This license is bound by the Creative Commons: CC by NC SA"
-msgstr ""
+msgstr "这个协议受到知识共享署名-非商业性使用-相同方式共享的约束"
 
 #: legal/xinclude.xml:8(para)
 msgid "Under this license, you are free:"
-msgstr ""
+msgstr "基于这个协议，您可以自由："
 
 #: legal/xinclude.xml:11(para)
 msgid "to Share - to copy, distribute and transmit the work"
-msgstr ""
+msgstr "复制、发行、展览、表演、放映、广播或通过信息网络传播本作品"
 
 #: legal/xinclude.xml:15(para)
 msgid "to Remix - to adapt the work"
-msgstr ""
+msgstr "创作演绎作品"
 
 #: legal/xinclude.xml:18(para)
 msgid "Under the following conditions:"
-msgstr ""
+msgstr "惟须遵守下列条件："
 
 #: legal/xinclude.xml:21(para)
-msgid ""
-"Attribution. You must attribute the work in the manner specified by the "
-"author or licensor (but not in any way that suggests that they endorse you "
-"or your use of the work)."
-msgstr ""
+msgid "Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)."
+msgstr "署名。您必须按照作者或者许可人指定的方式对作品进行署名（但是不得以任何方式暗示它们支持您或者您做品的使用）。"
 
 #: legal/xinclude.xml:27(para)
 msgid "Non-commercial. You may not use this work for commercial purposes."
-msgstr ""
+msgstr "非商业性使用。您不得将本作品用于商业目的。"
 
 #: legal/xinclude.xml:31(para)
-msgid ""
-"Share Alike. If you alter, transform, or build upon this work, you may "
-"distribute the resulting work only under the same or similar license to this "
-"one."
-msgstr ""
+msgid "Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one."
+msgstr "相同方式共享。如果您改变、转换本作品或者以本作品为基础进行创作，您只能采用与本协议相同的许可协议发布基于本作品的演绎作品。"
 
 #: legal/xinclude.xml:36(para)
-msgid ""
-"For any reuse or distribution, you must make clear to others the license "
-"terms of this work. Any of the above conditions can be waived if you get "
-"permission from the copyright holder. Nothing in this license impairs or "
-"restricts the author's moral rights."
-msgstr ""
+msgid "For any reuse or distribution, you must make clear to others the license terms of this work. Any of the above conditions can be waived if you get permission from the copyright holder. Nothing in this license impairs or restricts the author's moral rights."
+msgstr "对于任何的再使用或者分发，您必须让他人清除了解到本作品所适用的协议条款。若您获得著作权人的许可，上述任何条件都可以免除。该协议的任何部分都不削弱或者限制作者的人格权利。"
 
 #: legal/xinclude.xml:42(para)
-msgid ""
-"For more information on this Copyright, please refer to: http://"
-"creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
-msgstr ""
+msgid "For more information on this Copyright, please refer to: http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
+msgstr "关于这个著作权协议的更多信息，请参阅：http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: legal/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr 
+"JimHu <jimhuyiwei@gmail.com>"
+
