@@ -1,36 +1,19 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2009-12-26 03:44+0800\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-# Chinese (Simplified) translation for ubuntu-desktop-course
-# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# Simplified Chinese translation for ubuntu-desktop-course chapter2 exploring-the-ubuntu-desktop
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Copyright (C) 2009 Canonical Ltd and translation contributors:
+#     Eleanor Chen  <chenyueg@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course\n"
-"Report-Msgid-Bugs-To: Eleanor Chen <chenyueg@gmail.com>\n"
-"POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-11-10 08:00+0000\n"
+"Project-Id-Version: ubuntu-desktop-course using-internet\n"
+"Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
+"POT-Creation-Date: 2009-12-26 16:26+0800\n"
+"PO-Revision-Date: 2009-12-27 00:45+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2009-11-11 04:32+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
