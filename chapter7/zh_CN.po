@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-26 15:04+0800\n"
-"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
+"PO-Revision-Date: 2009-12-26 15:11+0800\n"
+"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -608,7 +608,7 @@ msgstr ""
 
 #: chapter7/Managing_Graphics_and_Photos.xml:649(para)
 msgid "Support for multiple file formats, including GIF, JPEG, PNG, XPM, TIFF, TGA, MPEG, PS, PDF, PCX and BMP"
-msgstr ""
+msgstr "支持多种文件格式，包括 GIF、 JPEG、 PNG、 XPM、 TIFF, TGA、 MPEG、 PS、 PDF、 PCX 和 BMP"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:603(para)
 msgid "GIMP has a number of useful features: <placeholder-1/>"
@@ -616,7 +616,7 @@ msgstr ""
 
 #: chapter7/Managing_Graphics_and_Photos.xml:655(title)
 msgid "To launch GIMP from the desktop:"
-msgstr ""
+msgstr "要从桌面启动 GIMP："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:658(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">GIMP Image Editor</emphasis>. The <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt is displayed. Click <emphasis role=\"strong\">Close</emphasis> on the <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt. The <emphasis role=\"strong\">GIMP</emphasis> window opens."
@@ -641,7 +641,7 @@ msgstr ""
 
 #: chapter7/Managing_Graphics_and_Photos.xml:694(title)
 msgid "Opening an Image for Editing"
-msgstr ""
+msgstr "打开图像以便编辑"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:706(para)
 msgid "The selected image opens in the <emphasis role=\"strong\">Image</emphasis> window."
