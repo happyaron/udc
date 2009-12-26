@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-26 15:11+0800\n"
-"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
+"PO-Revision-Date: 2009-12-27 00:20+0800\n"
+"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -600,11 +600,12 @@ msgstr "图层和用于复杂绘图的通道"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:638(para)
 msgid "Sub-pixel sampling for all paint tools to minimise distortion while representing high-resolution images in lower resolution or stretched mode"
-msgstr ""
+msgstr "所有绘图工具中都有子像素取样，它能够降低在低分辨率手段显示高分辨率影像时或者在拉伸过程中发生的变形"
 
+# 待推究
 #: chapter7/Managing_Graphics_and_Photos.xml:644(para)
 msgid "Full alpha channel support to simulate transparency in images"
-msgstr ""
+msgstr "全Alpha通道可以支持模拟图像的透明度"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:649(para)
 msgid "Support for multiple file formats, including GIF, JPEG, PNG, XPM, TIFF, TGA, MPEG, PS, PDF, PCX and BMP"
@@ -612,32 +613,34 @@ msgstr "支持多种文件格式，包括 GIF、 JPEG、 PNG、 XPM、 TIFF, TGA
 
 #: chapter7/Managing_Graphics_and_Photos.xml:603(para)
 msgid "GIMP has a number of useful features: <placeholder-1/>"
-msgstr ""
+msgstr "GIMP有很多有用的功能：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:655(title)
 msgid "To launch GIMP from the desktop:"
-msgstr "要从桌面启动 GIMP："
+msgstr "从桌面启动 GIMP："
 
+# GIMP TIp of the Day
 #: chapter7/Managing_Graphics_and_Photos.xml:658(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">GIMP Image Editor</emphasis>. The <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt is displayed. Click <emphasis role=\"strong\">Close</emphasis> on the <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt. The <emphasis role=\"strong\">GIMP</emphasis> window opens."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">应用程序</emphasis> 菜单下，指向<emphasis role=\"strong\">图形</emphasis>下的 <emphasis role=\"strong\">GIMP图片编辑器</emphasis>并单击打开。此时将显示<emphasis role=\"strong\">GIMP Tip of the Day</emphasis>对话框。单击<emphasis role=\"strong\">GIMP Tip of the Day</emphasis>对话框上的<emphasis role=\"strong\">关闭</emphasis> 按钮。于是打开<emphasis role=\"strong\">GIMP</emphasis>窗体。"
 
+# 仍然不知道
 #: chapter7/Managing_Graphics_and_Photos.xml:667(title)
 msgid "GIMP Tip of the Day Dialogue Box"
-msgstr ""
+msgstr "GIMP对话框"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:678(title)
 #: chapter7/Managing_Graphics_and_Photos.xml:724(title)
 msgid "Nice to Know:"
-msgstr ""
+msgstr "温馨提示："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:680(para)
 msgid "The GIMP mascot is a coyote named Wilber. He provides useful tips while you use the application. If you do not want to see the tips, clear the <emphasis role=\"strong\">Show tip next time GIMP starts</emphasis> check box."
-msgstr ""
+msgstr "GIMP的吉祥物是一只名为威尔伯的狼。在您使用该应用程序的过程中，他将为您提供一些有用的提示消息。如果您不希望看到这些提示，取消<emphasis role=\"strong\">Show tip next time GIMP</emphasis>复选框。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:688(para)
 msgid "To open an image for modification, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open</emphasis> and select the image you want to modify."
-msgstr ""
+msgstr "打开预修改图像，在<emphasis role=\"strong\">文件</emphasis>菜单下，单击<emphasis role=\"strong\">打开</emphasis>按钮，选中预编辑图像打开。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:694(title)
 msgid "Opening an Image for Editing"
@@ -645,123 +648,123 @@ msgstr "打开图像以便编辑"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:706(para)
 msgid "The selected image opens in the <emphasis role=\"strong\">Image</emphasis> window."
-msgstr ""
+msgstr "所选择的图像将在<emphasis role=\"strong\">图像</emphasis>窗口中打开。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:710(title)
 msgid "Editing Image"
-msgstr ""
+msgstr "编辑图像"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:720(para)
 msgid "You can now modify the image by using the tools available in the <emphasis role=\"strong\">GIMP</emphasis> window."
-msgstr ""
+msgstr "现在您可以使用<emphasis role=\"strong\">GIMP</emphasis>窗口下的工具对图像进行修改。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:726(para)
 msgid "You can drag and drop a colour from the toolbox or from a colour palette onto an image. This fills the current image or selection with the selected colour."
-msgstr ""
+msgstr "可以从工具箱或者调色板里拖放一个颜色到图像上。它将用指定的颜色填充当前图像或者选定的区域。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:734(para)
 msgid "If time permits, allow students to familiarise themselves with GIMP. Ask students to open an image and perform basic operations such as cropping the image, inserting text into the image, rotating the layer and smudging the image by using the available tools."
-msgstr ""
+msgstr "时间允许的话，可以让同学们自己熟悉GIMP。要求同学们打开一张图像，并对其执行一些基本操作包括使用工具裁剪图像、插入文字、旋转和涂抹图像等。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:746(title)
 msgid "Drawing with Inkscape"
-msgstr ""
+msgstr "使用Inkscape绘图"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:748(para)
 msgid "Inkscape helps you draw illustrations for the Web, graphics for mobile phones, simple line drawings, cartoons, complex works of art, figures for chapters and books or organization charts."
-msgstr ""
+msgstr "Inkscape能够绘制用于网络或者移动手机的图形，可以是简单的线画图、漫画、复杂的艺术作品、图表或者是组织结构图。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:752(para)
 msgid "Inkscape is a high-end graphic tool with capabilities similar to Illustrator, CorelDraw or Xara X. It is multi-platform software that is freely available for the Linux, Microsoft Windows, Solaris and Mac OS X operating systems."
-msgstr ""
+msgstr "Inkscape 是一款高端的图形工具，其功能类似于 Illustrator、CorelDraw 和 Xara X。它是一款多平台软件，可以在Linux、 Microsoft Windows、Solaris 和 Mac OS X 操作系统上运行。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:757(para)
 msgid "You can use it to rotate, re-size, skew, proportion, fill and stroke objects with a high level of precision. Advanced visual effects such as gradient and transparency are also available."
-msgstr ""
+msgstr "可用它进行高精度的旋转、设定大小、倾斜、设置比例、填充和绘制对象。还可以设置梯度和透明度等高级视觉效果。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:761(para)
 msgid "Inkscape is not part of the default graphics package in Ubuntu however, you can install this package from repositories."
-msgstr ""
+msgstr "Inkscape 不是Ubuntu下默认的图形应用程序，但是用户可以从软件库中下载得到。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:765(title)
 msgid "Installing Inkscape"
-msgstr ""
+msgstr "Inkscape的安装"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:767(para)
 msgid "There are two ways to install Inkscape. You can install this application from the repositories by using Synaptic Package Manager or from the Command Line Interface (CLI)."
-msgstr ""
+msgstr "可以有两种方法安装Inkscape。用户可以通过新立得软件包管理器在软件库中查找安装也可以通过命令终端（CLI）进行安装。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:774(para)
 msgid "Your computer must be connected to the Internet while installing the application from the repositories."
-msgstr ""
+msgstr "在软件库中查找安装应用程序时电脑必须处于Internet连接状态。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:779(title)
 msgid "Installing Inkscape by Using Synaptic Package Manager"
-msgstr ""
+msgstr "通过新立得软件包管理器安装Inkscape"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:782(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">系统</emphasis>菜单下，指向<emphasis role=\"strong\">系统管理</emphasis>下的 <emphasis role=\"strong\">新立得软件包管理器</emphasis>。单击打开<emphasis role=\"strong\">新立得软件包管理器</emphasis>窗口。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:789(emphasis)
 msgid "Launching Synaptic Package Manager"
-msgstr ""
+msgstr "启动新立得软件包管理器"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:802(para)
 msgid "In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window, the left pane lists the categories of software and the right pane lists the packages in a category. Click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role=\"strong\">Find</emphasis> dialogue box opens. Type <emphasis role=\"strong\">Inkscape</emphasis> in the <emphasis role=\"strong\">Search</emphasis> field and click <emphasis role=\"strong\">Search</emphasis>."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">新立得软件包管理</emphasis>窗体中，左窗格中列出了软件的类别，右边窗格中列出了对应类别的软件包。点击<emphasis role=\"strong\">搜索</emphasis>按钮。将弹出<emphasis role=\"strong\">查找</emphasis>对话框。在<emphasis role=\"strong\">搜索</emphasis>栏中输入<emphasis role=\"strong\"> Inkscape</emphasis>，点击<emphasis role=\"strong\">搜索</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:814(para)
 msgid "To view installed and uninstalled packages, click <emphasis role=\"strong\">Status</emphasis>. For the source repository of the package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis role=\"strong\">Custom Filters</emphasis> to determine whether a package is broken or upgradeable. To return to the list of categories after searching the packages, click <emphasis role=\"strong\">Sections</emphasis>."
-msgstr ""
+msgstr "要浏览已安装或已卸载的软件包，可单击<emphasis role=\"strong\">状态</emphasis>按钮。欲获得软件包的资源库可单击<emphasis role=\"strong\">源自</emphasis>按钮。 单击<emphasis role=\"strong\">自定义过滤器</emphasis>可确定安装包是否损坏或可否升级。单击<emphasis role=\"strong\">搜索结果</emphasis>可见软件包搜索结果返回到项目列表中。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:824(emphasis)
 msgid "Searching Inkscape"
-msgstr ""
+msgstr "搜索Inkscape"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:837(para)
 msgid "The <emphasis role=\"strong\">Search</emphasis> results are displayed in the right pane of the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window. Right-click <emphasis role=\"strong\">Inkscape</emphasis> and select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box."
-msgstr ""
+msgstr "<emphasis role=\"strong\">搜索</emphasis>结果将显示在<emphasis role=\"strong\">新立得软件包管理器</emphasis>窗体的右侧。右击<emphasis role=\"strong\">Inkscape</emphasis>选择<emphasis role=\"strong\">标记以便安装</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:844(emphasis)
 msgid "Marking Inkscape for Installation"
-msgstr ""
+msgstr "标记 Inkscape 以便安装"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:857(para)
 msgid "Click <emphasis role=\"strong\">Apply</emphasis> on the toolbar to begin the installation process. A <emphasis role=\"strong\">Summary</emphasis> dialogue box is displayed, which prompts you to confirm the changes. Click <emphasis role=\"strong\">Apply</emphasis> to proceed with the installation."
-msgstr ""
+msgstr "单击工具条上的<emphasis role=\"strong\">应用</emphasis>开始安装进程。此时将弹出<emphasis role=\"strong\">摘要</emphasis>对话框提示是否应用该变更。点击<emphasis role=\"strong\">应用</emphasis>继续该安装。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:865(emphasis)
 msgid "Confirming Changes"
-msgstr ""
+msgstr "应用变更"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:878(para)
 msgid "After the installation is complete, click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">Changes applied</emphasis> dialogue box."
-msgstr ""
+msgstr "安装结束后，单击<emphasis role=\"strong\">应用变更</emphasis>下的<emphasis role=\"strong\">关闭</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:883(emphasis)
 msgid "Changes Applied Confirmation"
-msgstr ""
+msgstr "应用更改确认"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:896(para)
 msgid "To launch Inkscape, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">Inkscape Vector illustrator</emphasis>."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">应用程序</emphasis>菜单下，指向<emphasis role=\"strong\">图形</emphasis>下的<emphasis role=\"strong\">Inkscape 矢量插图</emphasis>启动Inkscape。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:903(title)
 msgid "Creating Vector Graphic Images Using InkScape"
-msgstr ""
+msgstr "使用Inkscape创建矢量图形"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:908(para)
 msgid "To utilise the full potential of this application requires some hands-on experience on similar applications. This topic introduces students to Inkscape and covers the basic concepts. To engage students with some prior experience, use an example from the help manual and make them perform the steps given in the manual."
-msgstr ""
+msgstr "想要充分利用好这个应用程序，要求有一些在相似应用程序上的实践经验。本节内容向同学们介绍了Inkscape及其基本概念。为了满足一些有经验学者的需要，下面将使用一个帮助手册里的例子并按手册里的步骤进行操作。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:916(title)
 msgid "Page:"
-msgstr ""
+msgstr "画布："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:918(para)
 msgid "This area enables you to specify various options for the output. For example, you can specify the Page dimensions for printing on A4 size paper. The Page adjusts accordingly and you can adjust the proportion the drawing relative to the Page."
-msgstr ""
+msgstr "在这里可以对文件输出进行多选项设置。例如，"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:925(title)
 msgid "Menu Bar:"
@@ -809,27 +812,27 @@ msgstr ""
 
 #: chapter7/Managing_Graphics_and_Photos.xml:974(title)
 msgid "Creating and Saving Objects"
-msgstr ""
+msgstr "创建并保存图形"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:976(para)
 msgid "Creating a new object in Inkscape requires extensive use of the Drawing toolbar. However, the options in this toolbar help you to create basic shapes. To create complex objects, you need to further edit, combine and manipulate these shapes."
-msgstr ""
+msgstr "在 Inkscape 中创建图形需要广泛的使用绘图工具条上的工具。然而，工具条上的这些工具只能创建一些简单的图形。想要创建复杂的图形，需要进行进一步编辑，例如对这些图形进行合并处理。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:983(title)
 msgid "To create an object by using the Drawing toolbar:"
-msgstr ""
+msgstr "利用绘图工具条创建图形："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:986(para)
 msgid "Click the object button associated with the shape you want to draw. Point anywhere in the page where you want to start drawing the object."
-msgstr ""
+msgstr "根据想要绘制的图形单击相应的图形按钮。在画布上任意指定所画图形对象的起始位置。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:992(para)
 msgid "Drag the cursor to the desired size of the object. The object is displayed in the page."
-msgstr ""
+msgstr "拖动光标设置图像的大小。图像显示在画布上。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:996(title)
 msgid "Drawing an Object"
-msgstr ""
+msgstr "绘制图形"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1006(para)
 msgid "The Tools Control Bar displays options to create the object. For example, if you are creating a rectangle, the toolbar provides the option to specify the height and the width of the rectangle."
@@ -913,116 +916,116 @@ msgstr ""
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1146(title)
 msgid "Lesson Summary"
-msgstr ""
+msgstr "课程总结"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1150(para)
 msgid "View and organise your photo collection by using the default Ubuntu graphic applications:"
-msgstr ""
+msgstr "使用Ubuntu下默认的图形应用程序浏览和管理照片集："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1155(para)
 msgid "The <emphasis role=\"strong\">F-Spot Photo Manager</emphasis> enables you to import pictures, organise your photos using tags, create a photo CD, display photos as a slide show and create albums of your photo collection for the Web."
-msgstr ""
+msgstr "使用<emphasis role=\"strong\">F-Spot 照片管理器</emphasis>可以导入图像、利用标签管理图像、创建照片CD、制作照片幻灯片并且制作基于网页的相册。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1164(para)
 msgid "Use GIMP for advanced image manipulation and creation."
-msgstr ""
+msgstr "使用GIMP进行高级图像处理和制作。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1168(para)
 msgid "Create graphics in the SVG format by using the Inkscape vector graphics editor."
-msgstr ""
+msgstr "利用 Inkscape 矢量图形编辑器制作SVG格式的图形。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1173(para)
 msgid "Scan your images and save them in various formats by using XSane Image Scanner."
-msgstr ""
+msgstr "使用XSane影像扫描仪扫描图像并将其保存成多种格式。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1148(para)
 msgid "In this lesson, you learned how to: <placeholder-1/>"
-msgstr ""
+msgstr "本节可你将学到：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1180(title)
 msgid "Review Exercise"
-msgstr ""
+msgstr "复习题"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1185(para)
 msgid "Which of the default graphics applications provides the option to display only a category of images from a randomly stored pool of images?."
-msgstr ""
+msgstr "以下哪个图形应用程序提供了将图像进行分类显示的默认选项？"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1189(para)
 msgid "a) Inkscape"
-msgstr ""
+msgstr "a) Inkscape"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1191(para)
 #: chapter7/Managing_Graphics_and_Photos.xml:1199(para)
 msgid "b) F-Spot"
-msgstr ""
+msgstr "b) F-Spot"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1193(para)
 msgid "c) Xsane"
-msgstr ""
+msgstr "c) Xsane"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1195(para)
 msgid "d) GIMP"
-msgstr ""
+msgstr "d) GIMP"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1205(para)
 msgid "Which default graphics application in Ubuntu facilitates photo sharing over the Internet?"
-msgstr ""
+msgstr "Ubuntu 下的哪个图形应用程序促进了基于 Internet 的相片共享？"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1210(para)
 msgid "The F-Spot Photo Manager"
-msgstr ""
+msgstr "F-Spot 照片管理器"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1216(para)
 msgid "Is there any additional software required to import images from a digital camera?"
-msgstr ""
+msgstr "从数码相机中导出图片是否需要额外的软件？"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1221(para)
 msgid "No, Ubuntu automatically identifies plug-and-play devices. F-Spot Photo Manager can identify the connected device and enable you to import images directly from the application interface."
-msgstr ""
+msgstr "不需要，Ubuntu 将自动识别插件和播放设备。F-Spot 照片管理器能够识别出所连接的设备并且可以通过应用程序接口直接导出图像。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1230(title)
 msgid "Lab Exercise"
-msgstr ""
+msgstr "动手练习"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1233(title)
 msgid "Exercise 1: Creating a Web Album by using F-Spot"
-msgstr ""
+msgstr "练习1：使用 F-Spot 创建网络相册"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1235(para)
 msgid "You have just returned from a vacation with your friends. You decide to write about this experience on your blog and post some photographs of the trip. However, uploading images one by one to the Web site involves a lot of effort and time. You want to find a more convenient way to do this."
-msgstr ""
+msgstr "假设您和您的朋友刚旅行归来。您想要在您的博客上写下这一经历并放置一些旅游照片。然而将图片一张张上传到网站将花费大量的时间和经历。您想要找到一个更方便快捷的实现方法。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1243(title)
 msgid "To perform the required task:"
-msgstr ""
+msgstr "执行所需任务："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1246(para)
 msgid "Launch <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The default window is displayed."
-msgstr ""
+msgstr "启动<emphasis role=\"strong\">F-Spot 照片管理器</emphasis>，出现其默认窗口。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1251(para)
 msgid "Click <emphasis role=\"strong\">Import</emphasis> on the navigation bar. Navigate to the folder containing the photos <emphasis role=\"strong\">Open</emphasis>. The workspace displays all the images available in the folder."
-msgstr ""
+msgstr "单击导航工具条上的<emphasis role=\"strong\">导入</emphasis>按钮。导航到照片所在文件夹单击<emphasis role=\"strong\">打开</emphasis>按钮。工作空间中将显示该文件夹下的所有图片。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1257(para)
 msgid "Select the images you want to include in the Web album."
-msgstr ""
+msgstr "选择用于制作网络相册的照片。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1261(para)
 msgid "Click <emphasis role=\"strong\">Copy</emphasis> to import the selected photos. F-Spot displays the photos in the preview window."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">复制</emphasis>按钮导入选中的照片，此时 F-Spot 的预览窗口下将显示这些照片。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1266(para)
 msgid "In the preview window,select the photos you want include or use <emphasis role=\"strong\">Select All</emphasis> from the <emphasis role=\"strong\">Edit</emphasis> menu."
-msgstr ""
+msgstr "在预览窗口下选择所需照片或者利用<emphasis role=\"strong\">编辑</emphasis>菜单下的<emphasis role=\"strong\">选中所有</emphasis>命令进行选择。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1272(para)
 msgid "In the <emphasis role=\"strong\">Photo menu</emphasis>, select the <emphasis role=\"strong\">Export to</emphasis> and then <emphasis role=\"strong\">Web Gallery</emphasis>."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">照片</emphasis> 菜单下，选择<emphasis role=\"strong\">导出到</emphasis>命令下的<emphasis role=\"strong\">网络图库</emphasis>。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1278(para)
 msgid "You will need to enter the name of the Gallery, as well as the URL and log-in information for the site. F-Spot will then upload the selected items to the website."
-msgstr ""
+msgstr "用户需要键入图库名称、网址和网站登录信息。F-Spot 将把选中的项目上传到网站上。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: chapter7/Managing_Graphics_and_Photos.xml:0(None)
