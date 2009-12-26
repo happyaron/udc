@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-26 15:08+0800\n"
+"PO-Revision-Date: 2009-12-26 16:37+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1095,7 +1095,7 @@ msgstr "编辑音频配置文件"
 
 #: chapter8/xinclude.xml:663(para)
 msgid "The <emphasis role=\"strong\">Editing profile</emphasis> dialogue box for the selected audio profile is displayed. You can edit the audio profile according to your requirements and the click <emphasis role=\"strong\">Close</emphasis> to exit."
-msgstr ""
+msgstr "显示对选中的音频配置文件的 <emphasis role=\"strong\">编辑配置文件</emphasis> 对话框。可以根据要求编辑音频配置文件并点击 <emphasis role=\"strong\">关闭</emphasis> 退出。"
 
 #: chapter8/xinclude.xml:669(title)
 msgid "Customising Audio Profile"
@@ -1354,7 +1354,7 @@ msgstr "确认软件包的安装"
 
 #: chapter8/xinclude.xml:1143(para)
 msgid "After all the marked software packages are downloaded and installed, the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box is displayed. Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box."
-msgstr ""
+msgstr "所有标记的软件包都下载并安装之后，显示 <emphasis role=\"strong\">更改已应用</emphasis> 对话框。点击  <emphasis role=\"strong\">Close</emphasis>关闭<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1148(title)
 msgid "Changes Applied Notification"
@@ -1402,7 +1402,7 @@ msgstr "Ubuntu 允许向和从 iPod 设备传送音乐文件。但是，不能�
 
 #: chapter8/xinclude.xml:1239(para)
 msgid "To access gtkpod, after it is successfully installed on your computer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">gtkpod</emphasis>. The <emphasis role=\"strong\">gtkpod</emphasis> window opens."
-msgstr ""
+msgstr "要在 gtkpod 安装到计算机之后访问它，在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">gtkpod</emphasis>。将打开 <emphasis role=\"strong\">gtkpod</emphasis> 窗口。"
 
 #: chapter8/xinclude.xml:1246(title)
 msgid "Launching gtkpod"
@@ -1410,19 +1410,20 @@ msgstr "启动 gtkpod"
 
 #: chapter8/xinclude.xml:1257(para)
 msgid "You can view all the music files stored on the iPod device in this gtkpod window. Notice that in the gtkpod interface, your music files have automatically been categorised based on artists, album and genre. This categorisation helps you quickly browse through your collection and select."
-msgstr ""
+msgstr "可以在 gtkpod 窗口中查看存储在 iPod 设备中的音乐文件。注意，在 gtkpod 界面中，您的音乐文件已经自动根据艺人、专辑和流派进行了分类。此分类帮助您快速浏览收藏并选择。"
 
 #: chapter8/xinclude.xml:1263(para)
 msgid "You can use the gtkpod interface to manage the files on your iPod in multiple ways. You can create and edit playlists, normalize the volume on single tracks or multiple tracks at a time. You can also use the gtkpod interface to add more files in your iPod or transfer files from your iPod onto your computer. To add files from your computer to your iPod device, click <emphasis role=\"strong\">Files</emphasis>. This displays the <emphasis role=\"strong\">Add Files to 'device name'</emphasis> dialogue box."
-msgstr ""
+msgstr "可以使用 gtkpod 界面以多种方式管理 iPod 上的文件。可以创建和编辑播放列表，一次调整单个或多个曲目的音量到正常水平。也可以使用 gtkpod 界面向 iPod 添加更多文件或从 iPod 向计算机传输文件。要从计算机向 iPod 设备添加文件，点击 <emphasis role=\"strong\">文件</emphasis>。此操作显示 <emphasis role=\"strong\">向 '设备名' 添加文件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1272(title)
 msgid "Using gtkpod to transfer files to iPod"
 msgstr "使用 gtkpod 向 iPod 传输文件"
 
+# . again?
 #: chapter8/xinclude.xml:1283(para)
 msgid "In the <emphasis role=\"strong\">Add Files to 'device name'</emphasis> dialogue box, navigate down to the folder from which you want to add the files to your iPod. Depending on your preferences you may either add a single file at a time or an entire directory. Select the tracks that you want added and click <emphasis role=\"strong\">Open.</emphasis>"
-msgstr ""
+msgstr "<emphasis role=\"strong\">向 '设备名' 添加文件</emphasis> 对话框中，导航到要从中向 iPod 中添加文件的文件夹下。根据喜好，可以一次添加一个文件或整个目录。选择要添加的曲目并点击 <emphasis role=\"strong\">打开</emphasis>。"
 
 #: chapter8/xinclude.xml:1290(title)
 msgid "Selecting the Files to Transfer"
@@ -1621,7 +1622,7 @@ msgstr "选择要编辑的音频部分"
 
 #: chapter8/xinclude.xml:1659(para)
 msgid "You can now cut the area if you wish to remove this part of the audio file otherwise, edit this portion by applying various sound effects to it. The Effect menu contains all the digital audio effects that you can apply on an audio file. Some of these are:"
-msgstr ""
+msgstr "现在，如果想移除音频文件的此部分，可以截去此区域，否则，通过向此部分应用多种声音效果来编辑它。效果菜单包含可以应用到音频文件的所有数字音频效果。其中的某些是："
 
 #: chapter8/xinclude.xml:1667(para)
 msgid "Amplify - Increases or decreases volume without altering sound quality"
@@ -1949,9 +1950,10 @@ msgstr "Ubuntu 提供了直接播放互联网上可用视频和音乐的工具�
 msgid "Watching Videos in a Web Browser"
 msgstr "在网页浏览器中观看视频"
 
+# youtube 需要换掉吗？
 #: chapter8/xinclude.xml:2185(para)
 msgid "You can play many of the videos available on the Internet directly from within your browser. For example, You can watch the Google videos and the You Tube videos directly in your FireFox window without installing any special player or additional browser plugins. The following screenshot displays a video being played inside the Firefox window:"
-msgstr ""
+msgstr "可以在浏览器内直接播放很多可以从网络上得到的视频。例如，可以观看直接在 Firefox 窗口中观看 Google 视频和 the You Tube 视频，而不用安装任何专用播放器或附加浏览器组件。如下截图显示一个正在 Firefox 窗口中播放的视频。"
 
 #: chapter8/xinclude.xml:2193(title)
 msgid "Watching Video in a Web Browser"
@@ -2075,7 +2077,7 @@ msgstr "RealPlayer 窗口"
 
 #: chapter8/xinclude.xml:2392(para)
 msgid "To start viewing the online video of your choice, launch Firefox and navigate to the Web page from which you want to view the streaming media."
-msgstr ""
+msgstr "要根据选择开始观看在线视频，打开 Firefox 并导航到要从中观看流媒体的网页。"
 
 #: chapter8/xinclude.xml:2398(para)
 msgid "On the Web page, click the link to open the video of your choice."
@@ -2087,7 +2089,7 @@ msgstr "选择到在线视频的链接"
 
 #: chapter8/xinclude.xml:2414(para)
 msgid "You are asked to specify whether you want to open the linked file in RealPlayer or save it to your computer. To view the video as online streaming media, accept the default selection and click <emphasis role=\"strong\">OK</emphasis>."
-msgstr ""
+msgstr "询问指定是在 RealPlayer 中打开链接还是保存到计算机。要以在线流媒体的方式观看视频，接受默认选择并点击 <emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter8/xinclude.xml:2420(emphasis)
 msgid "Viewing Video as Streaming Media"
@@ -2095,7 +2097,7 @@ msgstr "以流媒体观看视频"
 
 #: chapter8/xinclude.xml:2432(para)
 msgid "The <emphasis role=\"strong\">Downloads</emphasis> dialogue box displays the progress of the download. After the file is downloaded to your temporary Internet folder, the video starts playing in the <emphasis role=\"strong\"> RealPlayer</emphasis> window."
-msgstr ""
+msgstr "<emphasis role=\"strong\">下载</emphasis> 对话框显示下载的进度。文件下载到临时网络文件夹后，开始在 <emphasis role=\"strong\"> RealPlayer</emphasis> 窗口中播放视频。"
 
 #: chapter8/xinclude.xml:2438(emphasis)
 msgid "Watching Online Video in RealPlayer"
@@ -2103,7 +2105,7 @@ msgstr "在 RealPlayer 中观看在线视频"
 
 #: chapter8/xinclude.xml:2450(para)
 msgid "You can add the link to your <emphasis role=\"strong\">Favorites</emphasis> list to be able to view the video again without searching for it on the Internet. To save the video as a <emphasis role=\"strong\">Favorite,</emphasis> on the the <emphasis role=\"strong\">Favorites</emphasis> menu, click <emphasis role=\"strong\">Add to Favorite</emphasis>."
-msgstr ""
+msgstr "可以添加链接到 <emphasis role=\"strong\">搜藏</emphasis> 列表，以便不用从互联网上搜索就可以再此观看此视频。要作为 <emphasis role=\"strong\">收藏</emphasis> 保存，在 <emphasis role=\"strong\">收藏</emphasis> 菜单，点击 <emphasis role=\"strong\">添加到收藏</emphasis>。"
 
 #: chapter8/xinclude.xml:2455(emphasis)
 msgid "Saving a Video as Favourite"
@@ -2111,7 +2113,7 @@ msgstr "保存视频为收藏"
 
 #: chapter8/xinclude.xml:2467(para)
 msgid "The video is now saved as your favorite. In future, you can view this video directly from inside your RealPlayer by selecting the link from the <emphasis role=\"strong\">Favorites</emphasis> menu. You can also play an online video directly from inside the RealPlayer by specifying the location of the video. To do so, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open Location</emphasis>."
-msgstr ""
+msgstr "视频现在已经作为保存为了收藏。以后，可以直接在 RealPlayer 内通过从 <emphasis role=\"strong\">Favorites</emphasis> 菜单中选择观看此视频。也可以通过指定视频的位置来直接在 RealPlayer 内播放视频。要做到这，在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开位置</emphasis>。"
 
 #: chapter8/xinclude.xml:2475(emphasis)
 msgid "Viewing Online Video Directly from RealPlayer"
@@ -2119,7 +2121,7 @@ msgstr "直接从 RealPlayer 观看在线视频"
 
 #: chapter8/xinclude.xml:2487(para)
 msgid "Type the URL or the file path of the video in the <emphasis role=\"strong\">Open Location</emphasis> dialogue box and click <emphasis role=\"strong\">OK</emphasis> to start playing the online streaming video."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">打开位置</emphasis> 对话框中输入 URL 或文件路径并点击 <emphasis role=\"strong\">确定</emphasis> 开始播放在线流视频。"
 
 #: chapter8/xinclude.xml:2492(emphasis)
 msgid "Specifying Video Location"
@@ -2131,43 +2133,48 @@ msgstr "编辑视频"
 
 #: chapter8/xinclude.xml:2509(para)
 msgid "In addition to viewing movies and videos, Ubuntu also provides you tools to help you edit a video. The tools available with Ubuntu include:"
-msgstr ""
+msgstr "除了观看电影和视频，Ubuntu 也提供帮助编辑视频的程序。Ubuntu 中可用的工具包括："
 
+# 编辑决定列表???
 #: chapter8/xinclude.xml:2513(para)
 msgid "<emphasis role=\"strong\">Kino:</emphasis> An advanced video editor, Kino captures video to disk in Raw DV and AVI format. It allows you to load multiple video clips, cut and paste portions of video, and save it to an edit decision list in SMIL and XML formats."
-msgstr ""
+msgstr "<emphasis role=\"strong\">Kino：</emphasis> 一个高级视频编辑器，Kino 以 Raw DV 和 AVI 格式捕获视频。它可以加载多个视频剪辑，剪切和粘贴视频片段并以 SMIL 和 XML 格式保存它到编辑决定列表。"
 
 #: chapter8/xinclude.xml:2518(para)
 msgid "<emphasis role=\"strong\">Stopmotion:</emphasis> Stopmotion is a free application for creating stop-motion animation movies. It enables you to create stop-motions from pictures imported from a camera or from the harddrive, add sound effects and export the animation to different video formats such as mpeg or avi."
-msgstr ""
+msgstr "<emphasis role=\"strong\">Stopmotion：</emphasis> Stopmotion 是一个创建定格动画电影的自由应用程序。它可以从摄像机或硬盘导入的图片创建定格动画，添加声音效果并导出动画到不同格式，如 mpeg 或 avi。"
 
 #: chapter8/xinclude.xml:2524(para)
 msgid "<emphasis role=\"strong\">Subtitle Editor:</emphasis> Subtitle Editor is a GTK+2 tool to edit subtitles for movies and videos. you can use it for creating new subtitles or to transform, edit, correct and refine existing subtitles. This programme also shows sound waves, which makes it easier to synchronise subtitles to voices."
-msgstr ""
+msgstr "<emphasis role=\"strong\">字幕编辑器(Subtitle Editor)：</emphasis> 字幕编辑器是一款为电影和视频编辑字幕的 GTK+2 工具。可以使用它创建新字幕或传输、编辑、校对和完善已有字幕。此程序也显示声波，以容易地同步字幕和声音。"
 
 #: chapter8/xinclude.xml:2530(para)
 msgid "<emphasis role=\"strong\">Pitivi Video Editor:</emphasis> Pitivi Video Editor is a non-linear editor, which allows you to easily edit audio and video projects. Using Pitivi, you can capture audio and video, mix, resize, cut, and apply effects to audio and video sources. It also allows you to save the projects in any format supported by the GStreamer framework."
-msgstr ""
+msgstr "<emphasis role=\"strong\">Pitivi 视频编辑器：</emphasis> Pitivi 视频编辑器是一个非线性编辑器，可以容易地编辑音频和视频项目。使用 Pitivi，可以捕获音频和视频，组合、调整大小、切割、应用效果到音频和视频源。它允许保存项目到 GStreamer 框架支持的任何格式。"
 
 #: chapter8/xinclude.xml:2538(title)
 msgid "Editing Videos Using Pitivi Video Editor"
 msgstr "使用 Pitivi 视频编辑器编辑视频"
 
+# 此软件 10.04 已默认安装！！
 #: chapter8/xinclude.xml:2540(para)
+#, fuzzy
 msgid "Pitivi Video Editor is not included in Ubuntu by default. It is available in the Universe repository of Ubuntu. You can install Pitivi using Synaptic Package Manager."
-msgstr ""
+msgstr "Pitivi Video Editor is not included in Ubuntu by default. It is available in the Universe repository of Ubuntu. You can install Pitivi using Synaptic Package Manager."
 
 #: chapter8/xinclude.xml:2545(title)
 msgid "To edit video using Pitivi Video Editor:"
 msgstr "要使用 Pitivi 视频编辑器编辑视频："
 
+# 此处有版本号
 #: chapter8/xinclude.xml:2548(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Pitivi Video Editor</emphasis>. The <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> window opens."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Pitivi 视频编辑器</emphasis>。将打开 <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> 窗口。"
 
+# task bar 疑为 tool bar
 #: chapter8/xinclude.xml:2556(para)
 msgid "The main Pitivi interface is divided into a number of panes. You can use the various buttons on the task bar to perform tasks such as opening, importing, adding, viewing and saving video clips. To edit a video clip, first import the clip in the Pitivi Video editor by clicking the <emphasis role=\"strong\">Import Clips</emphasis> button."
-msgstr ""
+msgstr "Pitivi 界面被分为了多个嵌板。可以使用工具栏多个按钮来执行例如打开、导入、添加、查看和保存视频剪辑等任务。要编辑一个视频剪辑，首先通过点击 <emphasis role=\"strong\">Import Clips</emphasis> 按钮向 Piviti 视频编辑器中导入剪辑。"
 
 #: chapter8/xinclude.xml:2564(title)
 msgid "The Pitivi Interface"
@@ -2175,7 +2182,7 @@ msgstr "Pitivi 界面"
 
 #: chapter8/xinclude.xml:2575(para)
 msgid "In the Import a clip dialogue box, navigate to the folder from where you want to import the video clip, select the single or multiple clips to be edited and click <emphasis role=\"strong\">Add</emphasis> to import it in the <emphasis role=\"strong\">Pitivi</emphasis> window."
-msgstr ""
+msgstr "在导入剪辑对话框中，导航到要从中导入视频剪辑的文件夹，选择单个或多个剪辑以编辑，并点击 <emphasis role=\"strong\">添加</emphasis> 以导入到 <emphasis role=\"strong\">Pitivi</emphasis> 窗口。"
 
 #: chapter8/xinclude.xml:2580(title)
 msgid "Importing Video Clips in Pitivi"
@@ -2207,7 +2214,7 @@ msgstr "设定编辑首选项"
 
 #: chapter8/xinclude.xml:2649(para)
 msgid "You return to the Pitivi window. To start applying your specifications on the selected video clip, click the <emphasis role=\"strong\">Render project</emphasis> button. This displays the <emphasis role=\"strong\">Render project</emphasis> dialogue box. You can use the <emphasis role=\"strong\">Modify</emphasis> button on the <emphasis role=\"strong\">Render project</emphasis> dialogue box to further modify your specifications for the video clip. Otherwise, click the <emphasis role=\"strong\">Choose file</emphasis> button to specify a file name for the edited video clip."
-msgstr ""
+msgstr "返回到 Pitivi 窗口。要开始向选定的视频剪辑应用设定，点击 <emphasis role=\"strong\">渲染项目</emphasis> 按钮。显示 <emphasis role=\"strong\">渲染项目</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染项目</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮进一步修改对视频剪辑的修改。否则，点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
 
 #: chapter8/xinclude.xml:2659(title)
 msgid "Specifying the Output File"

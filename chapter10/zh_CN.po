@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-26 14:18+0800\n"
+"PO-Revision-Date: 2009-12-26 16:32+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -357,6 +357,7 @@ msgstr "命令行：命令行比 GParted 更快更强。当在文件系统中导
 msgid "If the hard disk drive that you want to format is blank and unformatted, you can use either of the following tools to partition it: <placeholder-1/>"
 msgstr "如果您想格式化的硬盘驱动器是空的且没有格式化过，您可以使用下列工具之一来对其进行分区：<placeholder-1/>"
 
+# 此处可能需要修改，添加/删除程序 估计已经废弃
 #: chapter10/Partitioning_and_Booting.xml:308(para)
 msgid "If you want to create a partition using GParted, you need to first install GParted by using <emphasis role=\"strong\">Add/Remove Applications</emphasis> or <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
 msgstr "如果您想使用 GParted 创建一个新分区，您需要首先使用 <emphasis role=\"strong\">添加/删除应用程序</emphasis> 或 <emphasis role=\"strong\">新立得包管理器</emphasis> 安装 GParted。"
