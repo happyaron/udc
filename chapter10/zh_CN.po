@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 21:11+0800\n"
+"PO-Revision-Date: 2009-12-26 09:35+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -921,7 +921,7 @@ msgstr "在 <emphasis role=\"strong\">创建为</emphasis>框中，选择 <empha
 
 #: chapter10/Partitioning_and_Booting.xml:1204(para)
 msgid "Next, specify the file system. Select ntfs."
-msgstr "下一不，指定文件系统，选择 ntfs。"
+msgstr "下一步，指定文件系统，选择 ntfs。"
 
 #: chapter10/Partitioning_and_Booting.xml:1208(para)
 msgid "Click <emphasis role=\"strong\">Add</emphasis> to compute the partition. The graphical display updates to show a new partition on the disk."
