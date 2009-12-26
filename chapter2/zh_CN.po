@@ -1,3 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2009-12-26 03:44+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 # Chinese (Simplified) translation for ubuntu-desktop-course
 # Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
 # This file is distributed under the same license as the ubuntu-desktop-course package.
@@ -6,10 +21,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: Eleanor Chen <chenyueg@gmail.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
 "PO-Revision-Date: 2009-11-10 08:00+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -381,23 +396,23 @@ msgstr "在本课程中，您将了解到："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:13(para)
 msgid "The highlights of Ubuntu desktop"
-msgstr ""
+msgstr "Ubuntu桌面最精彩之处"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:17(para)
 msgid "How to change the default language"
-msgstr ""
+msgstr "如何更改默认语言"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:21(para)
 msgid "How to create a new user account and take advantage of user switching"
-msgstr ""
+msgstr "如何创建一个新用户和使用用户切换"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:25(para)
 msgid "To add and remove applications"
-msgstr ""
+msgstr "添加和删除应用程序"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:29(para)
 msgid "How to enable 3D Desktop effects"
-msgstr ""
+msgstr "如何启用3D桌面效果"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:34(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:51(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:80(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:627(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:795(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:866(title)
 msgid "Instructor Notes:"
@@ -408,25 +423,25 @@ msgid ""
 "All the topics in this lesson are mandatory. To familiarise the students "
 "with the basic features of the new desktop, this lesson should primarily be "
 "a hands on session."
-msgstr ""
+msgstr "这堂课里所涉及的内容都是学生必须掌握的。为了加强学生对新系统的基本功能的认识，这堂课应该作为第一堂上机课程。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:43(para)
 msgid ""
 "This section serves as a quick tour of the Ubuntu desktop. The course will "
 "go into more detail in later lessons, but this will give you a taste of "
 "what's ahead."
-msgstr ""
+msgstr "这一节是对Ubuntu的桌面的一个简要介绍，在后面会更加详细的讲解。通过这节的内容，你可以对我们将要学习的有一个大概了解。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:48(title)
 msgid "Ubuntu Desktop Components"
-msgstr ""
+msgstr "Ubuntu桌面的组成"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:53(emphasis)
 msgid ""
 "Highlight the fact that unlike other operating systems, Ubuntu comes with a "
 "completely clean desktop, by default. Users are free to add icons and files "
 "on the desktop according to their preferences."
-msgstr ""
+msgstr "Ubuntu和其他操作系统最大的一点区别，就是它的默认桌面是绝对干净的。用户可以根据他们的喜好自由的在桌面上添加文件和程序图标。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:59(para)
 msgid ""
@@ -441,11 +456,11 @@ msgid ""
 "multiple languages. (Reference: <ulink "
 "url=\"http://en.wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME"
 "</ulink>)"
-msgstr ""
+msgstr "GNOME是Ubuntu默认的桌面环境。GNOME（GNU网络对象模型环境，GNU Network Object Model Environment）是一个国际性的项目，旨在创造一个完整的，由自由软件组成的桌面环境——即图形用户界面，计算机系统中最外层的软件。这个目标包括创建软件开发框架，选择桌面应用程序，编写负责引导应用软件的程序，文件句柄，窗口和任务管理器等。来自世界各地的社区成员们将GNOME翻译到各种语言当中，让使用不同的语言的人们都能享用GNOME。（参考：<ulink url=\\\"http://en.wikipedia.org/wiki/GNOME\\\">http://en.wikipedia.org/wiki/GNOME</ulink>）"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:71(title)
 msgid "Key Desktop Components on Ubuntu"
-msgstr ""
+msgstr "Ubuntu桌面的重要组成部分"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:73(para)
 msgid ""
@@ -453,17 +468,17 @@ msgid ""
 "logon screen, where you type your user name and password. The next screen "
 "displayed is the Ubuntu desktop. Ubuntu comes with a completely clean "
 "desktop background, free of icons by default."
-msgstr ""
+msgstr "当你启动电脑进入Ubuntu的时候，首先出现的是登录界面。你需要输入你的用户名和密码，然后就可以进入Ubuntu桌面了。默认的Ubuntu桌面是完全干净的，没有任何图标，只有一张壁纸。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:82(para)
 msgid ""
 "Ensure that you browse through each element very quickly because more "
 "details will be covered in the subsequent lessons."
-msgstr ""
+msgstr "把桌面上的每一个东西都看一遍，因为接下来的课程将细致的讲解他们。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:87(title)
 msgid "Default Ubuntu Desktop"
-msgstr ""
+msgstr "默认Ubuntu桌面"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:97(para)
 msgid ""
@@ -471,47 +486,47 @@ msgid ""
 "CD, hard disk or any other external device is connected to your computer, "
 "Ubuntu automatically displays its icon on the desktop to allow easy access "
 "to the device."
-msgstr ""
+msgstr "如果你想快速访问某些应用程序或者文件，你就可以把他们放在桌面上。如果你把一张光盘插入电脑，或者是其他的外部设备，如优盘，Ubuntu会自动把他们的图标显示在桌面上，方便用户访问它们。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:103(title)
 msgid "Desktop Icons"
-msgstr ""
+msgstr "桌面图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:113(para)
 msgid "At the top and bottom of the desktop are two bars, called panels."
-msgstr ""
+msgstr "在桌面的顶部和底部有两个长条形区域，叫做面板。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:117(title)
 msgid "Desktop Panels"
-msgstr ""
+msgstr "桌面面板"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:131(title)
 msgid "Applications:"
-msgstr ""
+msgstr "“应用程序”："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:133(para)
 msgid ""
 "This menu contains all the applications installed on your computer such as "
 "games, music players, Web browsers and e-mail clients."
-msgstr ""
+msgstr "这个菜单里是已经安装了的程序，比如游戏，音乐播放器，网页浏览器和邮件客户端。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:139(title)
 msgid "The Application Menu"
-msgstr ""
+msgstr "应用程序菜单"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:152(title)
 msgid "Places:"
-msgstr ""
+msgstr "位置"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:154(para)
 msgid ""
 "This menu provides access to your home directory, external devices and "
 "network on your computer."
-msgstr ""
+msgstr "在这个菜单里，你可以访问你的主目录，外部设备和网络。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:159(title)
 msgid "The Places Menu"
-msgstr ""
+msgstr "位置菜单"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:170(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:245(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:319(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:504(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:726(title)
 msgid "Note:"
@@ -522,53 +537,53 @@ msgid ""
 "The Home directory is created by default for every user and automatically "
 "takes the username. It contains all user-specific files. In a multi-user "
 "system, every user stores personal data in a sub-directory of this directory."
-msgstr ""
+msgstr "默认情况下，系统将自动为每个用户创建以用户名命名的主目录，里面存储了所有的用户配置文件。在一个多用户系统中，每个用户都把他的个人数据存储在这个文件夹中。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:181(title)
 msgid "System:"
-msgstr ""
+msgstr "“系统”："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:183(para)
 msgid ""
 "This menu enables you to change the computer settings. You can also access "
 "the Ubuntu help system and turn off your computer here."
-msgstr ""
+msgstr "这个菜单里你可以修改计算机设置、访问Ubuntu帮助系统和关闭你的电脑。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:189(title)
 msgid "The System Menu"
-msgstr ""
+msgstr "系统菜单"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:127(para)
 msgid ""
 "There are three main menus in the left pane of the top panel: Applications, "
 "Places and System. <placeholder-1/>"
-msgstr ""
+msgstr "在顶部面板的左边部分，有三个菜单：应用程序，位置和系统。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:201(para)
 msgid ""
 "By default, there are three shortcut icons next to the menus on the top "
 "panel: Mozilla Firefox, Evolution and Help. You can create additional "
 "shortcuts to any applications and place them here for quick access."
-msgstr ""
+msgstr "默认这些菜单的右边有三个快捷方式：Mozilla Firefox网页浏览器，Evolution邮件客户端和帮助。你可以创建更多的快捷图标，指向任何位置、文件、应用程序均可。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:206(title)
 msgid "The Shortcut Icons"
-msgstr ""
+msgstr "快捷图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:217(title)
 msgid "To add a new shortcut icon to the desktop panel:"
-msgstr ""
+msgstr "在桌面面板中创建一个新的快捷图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:220(para)
 msgid ""
 "Right-click the blank area of the top panel and click <emphasis "
 "role=\"strong\">Add to Panel</emphasis>. The <emphasis role=\"strong\">Add "
 "to Panel</emphasis> dialogue box appears."
-msgstr ""
+msgstr "右击顶部面板的空白区域，选择<emphasis roole=\\\"strong\">添加到面板</emphasis>，出现<emphasis role=\\\"strong\\\">添加到面板</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:225(title)
 msgid "Adding a Shortcut Icon"
-msgstr ""
+msgstr "添加一个快捷图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:237(para)
 msgid ""
@@ -578,35 +593,35 @@ msgid ""
 "of the desktop. If you want to launch the programmes available on the "
 "<emphasis role=\"strong\">Applications</emphasis> menu, click <emphasis "
 "role=\"strong\">Application Launcher</emphasis>."
-msgstr ""
+msgstr "<emphasis role=\\\"strong\\\">添加到面板</emphasis>对话框里显示了你的计算机上可供使用的应用程序。选择你需要的，然后单击<emphasis role=\\\"strong\\\">添加</emphasis>来把它添加到面板上。如果你想添加一个可以启动<emphasis role=\\\"strong\\\">应用程序</emphasis>菜单中的程序的图标，单击<emphasis role=\\\"strong\\\">应用程序启动器</emphasis>。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:247(para)
 msgid ""
 "Alternatively, you can drag an application icon from the Add to Panel "
 "dialogue box and drop the icon on the panel to create a short cut to the "
 "application."
-msgstr ""
+msgstr "还有另外一种方法，把“添加到面板”中的图标拖到面板上就可以了。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:253(title) chapter2/Exploring_the_Ubuntu_Desktop.xml:285(title)
 msgid "Adding Application Launchers"
-msgstr ""
+msgstr "添加应用程序启动器"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:265(para)
 msgid ""
 "The applications grouped in a category similar to the <emphasis "
 "role=\"strong\">Applications</emphasis> menu appears. Select an application "
 "from the available list, and click <emphasis role=\"strong\">Add</emphasis>."
-msgstr ""
+msgstr "接着将出现一个类似于“应用程序”的菜单，选择一个程序然后单击<emphasis role=\\\"strong\">添加</emphasis>。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:271(title)
 msgid "Selecting Applications"
-msgstr ""
+msgstr "选择应用程序"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:281(para)
 msgid ""
 "The icon of the selected application will be displayed on the blank area of "
 "the top panel."
-msgstr ""
+msgstr "被选择的应用程序的图标将会出现在顶部面板的空白区域。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:297(para)
 msgid ""
@@ -614,11 +629,11 @@ msgid ""
 "clicking it and selecting <emphasis role=\"strong\">Move</emphasis>. Move "
 "the icon anywhere on the top panel and left-click the icon to freeze its "
 "location."
-msgstr ""
+msgstr "你可以改变新创建的快捷图标的在面板上位置，右击它，选择<emphasis role=\\\"strong\\\">移动</emphasis>。移动它到你喜欢的位置后左键单击，它就被放置在那里了。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:303(title)
 msgid "Moving Shortcut Icons"
-msgstr ""
+msgstr "移动快捷图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:313(para)
 msgid ""
@@ -626,40 +641,40 @@ msgid ""
 "the application) is the fast user switch icon. This icon shows the current "
 "user of your computer. You can click the icon to view other users on the "
 "computer and switch to another user."
-msgstr ""
+msgstr "顶部面板的空白区域（你添加快捷图标的地方）的旁边是快速用户切换图标。这个图标上显示有当前的用户名。单击这个图标，你可以看到和切换到这台电脑上的其他用户。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:321(para)
 msgid ""
 "You will learn more about fast user switching in the <emphasis "
 "role=\"strong\">Fast User Switching</emphasis> topic of this lesson."
-msgstr ""
+msgstr "快速用户切换将在<emphasis role=\\\"strong\\\">快速用户切换</emphasis>这一节详细讲解。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:327(title)
 msgid "The Fast User Switch Icon"
-msgstr ""
+msgstr "快速用户切换图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:337(para)
 msgid ""
 "The System tray contains the network and sound icons for quick access to "
 "network and sound settings. You can check the network configuration of the "
 "computer and adjust the volume of your computer's speaker."
-msgstr ""
+msgstr "系统托盘里有网络和声音图标，方便你进行网络和声音设置，例如你可以检查网络设置或者调节音量。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:342(para)
 msgid ""
 "The current date and time is displayed next to the System tray. If you click "
 "the date and time, a calendar is displayed."
-msgstr ""
+msgstr "系统托盘的旁边是当前时间和日期。单击时间和日期会出现日历。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:345(para)
 msgid ""
 "The last icon on the top panel shuts down, restarts, hibernates, locks your "
 "computer and places it on standby."
-msgstr ""
+msgstr "顶部面板的最后一个图标用于关机，重启，休眠，锁屏幕，待机。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:349(title)
 msgid "Top Panel Icons"
-msgstr ""
+msgstr "顶部面板的图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:359(para)
 msgid ""
@@ -667,11 +682,11 @@ msgid ""
 "multiple windows are open on your desktop and you would like to minimise all "
 "of them together, click this icon. Clicking again will display your windows "
 "in their original state, before you minimised them."
-msgstr ""
+msgstr "底部面板上从左到右第一个图标是显示桌面。如果你打开了很多个窗口，想要把它们全部最小化，只需要单击这个图标。再次单击它会恢复窗口到原来的样子。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:366(title)
 msgid "Show the Desktop"
-msgstr ""
+msgstr "显示桌面"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:376(para)
 msgid ""
@@ -679,11 +694,11 @@ msgid ""
 "list of open application windows appears, similar to the taskbar in Windows. "
 "When you open an application, it's listed on this area for easy access, as "
 "shown in the bottom panel of the following screen:"
-msgstr ""
+msgstr "在显示桌面图标右边的空白区域中会显示当前打开的应用程序，像Windows中的任务栏。当你打开一个应用程序时，它就会出现在这个地方，来方便用户访问它，像下面这样："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:382(title)
 msgid "Open Applications"
-msgstr ""
+msgstr "打开的应用程序"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:392(para)
 msgid ""
@@ -692,17 +707,17 @@ msgid ""
 "workspaces by pressing and holding down the CTRL+ALT keys, and then pressing "
 "either the left or the right arrow key. This reduces the clutter on your "
 "desktop and eases navigation between windows."
-msgstr ""
+msgstr "下一个图标是工作区，你可以将窗口放到不同的工作区里。按住CTRL+ALT和左/右方向键可以方便的在各个工作区之间移动。使用工作区可以减少桌面的杂乱，让你更方便的在窗口间切换。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:398(para)
 msgid ""
 "For example, you might have the Firefox window, an OpenOffice application, a "
 "search window and a calculator window open on the desktop."
-msgstr ""
+msgstr "比如，你打开了一个Firefox，一个Openoffice，一个搜索程序和一个计算器程序。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:403(title)
 msgid "The Workspace Icon"
-msgstr ""
+msgstr "工作区图标"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:413(para)
 msgid ""
@@ -711,22 +726,22 @@ msgid ""
 "arrow key. Two workspaces will be displayed in the bottom-right corner of "
 "the desktop - one workspace with the Firefox window and the original "
 "workspace with the other windows."
-msgstr ""
+msgstr "你可以按下CTRL+ALT+SHIFT和左/右方向键把Firefox移动到另一个工作区。桌面的右下角会显示两个工作区——一个有firefox，另一个是原来的工作区，有其他的窗口。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:420(title)
 msgid "Switching Workspaces"
-msgstr ""
+msgstr "切换工作区"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:430(para)
 msgid ""
 "Now, you have two separate workspaces. Notice that the Firefox window has "
 "shifted to the original workspace. So, depending on the task you perform, "
 "you can split the windows into different workspaces."
-msgstr ""
+msgstr "现在，你拥有两个独立的工作区了。注意Firefox已经被移动到新的工作区了，所以根据你的需要，你可以把窗口放到不同的工作区里。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:435(title)
 msgid "Splitting Windows into Workspaces"
-msgstr ""
+msgstr "把窗口放到不同的工作区里"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:445(para)
 msgid ""
@@ -736,11 +751,11 @@ msgid ""
 "role=\"strong\">Preferences</emphasis>. The <emphasis "
 "role=\"strong\">Workspace Switcher Preferences</emphasis> dialogue box "
 "appears."
-msgstr ""
+msgstr "Ubuntu默认提供两个工作区。如果你想要创建更多的工作区，右击工作区图标，选择<emphasis role=\\\"strong\\\">首选项</emphasis>，弹出<emphasis role=\\\"strong\\\">首选项</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:453(title)
 msgid "Creating New Workspaces"
-msgstr ""
+msgstr "创建新工作区"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:463(para)
 msgid ""
@@ -748,17 +763,17 @@ msgid ""
 "dialogue box, type or select the number of workspaces from the <emphasis "
 "role=\"strong\">Number of workspaces</emphasis> list and click <emphasis "
 "role=\"strong\">Close</emphasis>."
-msgstr ""
+msgstr "<emphasis role=\\\"strong\\\">工作区首选项</emphasis>对话框中，在<emphasis role=\\\"strong\\\">工作区数量</emphasis>中输入或者选择你想要的工作区数量，然后点击<emphasis role=\\\"strong\\\">关闭</emphasis>。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:470(title)
 msgid "Workspace Switcher Preferences"
-msgstr ""
+msgstr "工作区首选项"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:480(para)
 msgid ""
 "The specified number of workspaces will be displayed in the bottom-right "
 "corner of the desktop."
-msgstr ""
+msgstr "指定数量的工作器会被显示在桌面的右下角。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:483(para)
 msgid ""
@@ -766,54 +781,54 @@ msgid ""
 "basket</emphasis>. It contains the files you deleted from your computer. "
 "Right-click the icon and click <emphasis role=\"strong\">Open</emphasis> to "
 "open the <emphasis role=\"strong\">Trash</emphasis> window."
-msgstr ""
+msgstr "底部面板的最后一个按钮是<emphasis role=\\\"strong\\\">废纸篓</emphasis>，里面存放了被删除的文件。右击该图标，选择<emphasis role=\\\"strong\\\">打开</emphasis>来打开<emphasis role=\\\"strong\\\">回收站</emphasis>窗口。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:490(title)
 msgid "The Waste Basket Icon and Menu"
-msgstr ""
+msgstr "废纸篓图标和菜单"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:500(para)
 msgid ""
 "You can delete an item permanently from the computer by pressing the DELETE "
 "key."
-msgstr ""
+msgstr "按下DELETE键将永久删除你选中的文件。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:506(para)
 msgid ""
 "Alternatively, you can right-click the item and click <emphasis "
 "role=\"strong\">Delete from Trash</emphasis> to permanently delete it from "
 "the computer."
-msgstr ""
+msgstr "你也可以右击要删除的文件，选择<emphasis role=\\\"strong\\\">从回收站删除</emphasis>来永久的删除这些文件。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:511(para)
 msgid ""
 "If you want to restore the deleted item to the desktop, drag that item to "
 "the desktop from the <emphasis role=\"strong\">Trash</emphasis> window."
-msgstr ""
+msgstr "如果你想把回收站里的文件恢复到桌面上，只需要把那些文件从<emphasis role=\\\"strong\\\">回收站</emphasis>窗口拖到桌面上。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:516(title)
 msgid "Deleting Items from Trash"
-msgstr ""
+msgstr "从回收站中删除文件"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:528(title)
 msgid "Changing the Default Language"
-msgstr ""
+msgstr "改变默认语言"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:530(para)
 msgid ""
 "Ubuntu supports more than 100 languages. You can set the default language of "
 "your computer either during the installation of Ubuntu or at a later stage."
-msgstr ""
+msgstr "Ubuntu支持超过100种语言。你可以在安装或之后的任何时候更改默认的语言。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:534(para)
 msgid ""
 "To change the default language during the installation, select the required "
 "language when prompted."
-msgstr ""
+msgstr "在安装时会提示你选择默认语言，选择你需要的即可。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:538(title)
 msgid "To change the default language at a later stage:"
-msgstr ""
+msgstr "之后要更改默认语言："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:541(para)
 msgid ""
@@ -821,22 +836,22 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and click <emphasis "
 "role=\"strong\">Language Support</emphasis>. The system prompts you to "
 "install language support if updates are available for your selected language."
-msgstr ""
+msgstr "在<emphasis role=\\\"strong\\\">系统</emphasis>菜单中，用鼠标指向<emphasis role=\\\"strong\\\">管理</emphasis>，单击<emphasis role=\\\"strong\\\">语言支持</emphasis>。如果你选择的语言有更新，系统会提示你安装它们。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:548(title)
 msgid "Configuring Language Support"
-msgstr ""
+msgstr "配置语言支持"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:560(para)
 msgid ""
 "Click <emphasis role=\"strong\">Install</emphasis> to continue. On "
 "completing the updates, the <emphasis role=\"strong\">Language "
 "Support</emphasis> dialogue box opens."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">安装</emphasis>继续。升级完成后，弹出<emphasis role=\"strong\">语言支持</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:565(title)
 msgid "Installing Language Support Updates"
-msgstr ""
+msgstr "安装语言支持更新"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:577(para)
 msgid ""
@@ -844,11 +859,11 @@ msgid ""
 "from the <emphasis role=\"strong\">Supported Languages</emphasis> section, "
 "select the check box for the language you want to use for support functions "
 "in Ubuntu."
-msgstr ""
+msgstr "<emphasis role=\"strong\">语言支持</emphasis>对话框中，从<emphasis role=\"strong\">支持的语言</emphasis>中选择你需要Ubuntu支持的语言。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:583(title)
 msgid "Installing Default Language Support"
-msgstr ""
+msgstr "安装默认语言支持"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:595(para)
 msgid ""
@@ -856,32 +871,32 @@ msgid ""
 "role=\"strong\">OK</emphasis>. Ubuntu downloads and installs the necessary "
 "packages on your computer. The language you selected will now appear in the "
 "<emphasis role=\"strong\">Default Language</emphasis> box."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">应用</emphasis>，然后单击<emphasis role=\"strong\">OK</emphasis>。Ubuntu会自动下载和安装需要的包。安装完成后，你选择的语言会出现在<emphasis role=\"strong\">默认语言</emphasis>下拉菜单中。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:603(para)
 msgid ""
 "Select the language that you want set as default, and click <emphasis "
 "role=\"strong\">OK</emphasis>."
-msgstr ""
+msgstr "选择你想要设置成默认的语言，单击<emphasis role=\"strong\">OK</emphasis>。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:608(para)
 msgid "For the changes to take effect, log off and then log on again."
-msgstr ""
+msgstr "需要注销然后重新登录使更改生效。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:614(title)
 msgid "Nice to Know:"
-msgstr ""
+msgstr "提示："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:616(para)
 msgid ""
 "You can change the language as many times as you would like and this can "
 "depend on your location. For example, changing the language to Russian may "
 "be a nice touch when presenting in Russia during a business trip."
-msgstr ""
+msgstr "你可以任意的改变语言设置，也许根据你现在所处的地区来选择用哪一种语言。比如到向俄罗斯客户展示产品的时候，把语言换成俄语是一个不错的点缀。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:624(title)
 msgid "Creating a User Account and Fast User Switching"
-msgstr ""
+msgstr "创建一个用户账户和快速用户切换"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:629(para)
 msgid ""
@@ -889,7 +904,7 @@ msgid ""
 "need to have more than one user account on their computer. Walk the students "
 "through creating a new user on their computer, and then move on to the "
 "concept of fast user switching."
-msgstr ""
+msgstr "建议学生，如果要理解快速用户切换的概念，他们需要至少两个账户。指导学生在他们的电脑上创建新用户，然后再讲解快速用户缺陷。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:635(para)
 msgid ""
@@ -900,11 +915,11 @@ msgid ""
 "account with personalised user settings. For example, it is useful to give "
 "children their own accounts on the computer to prevent then from changing "
 "your settings or accessing unsuitable files and applications.."
-msgstr ""
+msgstr "也许你的电脑有许多个用户。这种情况下会有数据被其他用户修改或损坏的风险。为了防止这一类事情的发生，你可以为每一个想要使用你电脑的人单独创建一个用户账户。让每个人都有自己的账户和相互独立的用户设置。比如，给儿童设置一个账户是很有用的，可以阻止他们更改你的设置或者访问一些不适合的文件和程序。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:645(title)
 msgid "To create a new user account on Ubuntu:"
-msgstr ""
+msgstr "在Ubuntu中创建一个新的用户账户："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:648(para)
 msgid ""
@@ -912,11 +927,11 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and click <emphasis "
 "role=\"strong\">Users and Groups</emphasis>. The <emphasis "
 "role=\"strong\">User settings</emphasis> dialogue box appears."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">管理</emphasis>菜单中，用鼠标指向<emphasis role=\"strong\">管理</emphasis>，然后单击<emphasis role=\"strong\">用户和用户组</emphasis>，弹出<emphasis role=\"strong\">用户设置</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:654(title)
 msgid "Adding/Removing Users"
-msgstr ""
+msgstr "添加/删除用户"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:666(para)
 msgid ""
@@ -924,95 +939,95 @@ msgid ""
 "click <emphasis role=\"strong\">Add User</emphasis> to add a new user "
 "account on your computer. The <emphasis role=\"strong\">New user "
 "account</emphasis> dialogue box opens."
-msgstr ""
+msgstr "<emphasis role=\"strong\">用户设置</emphasis>对话框中，单击<emphasis role=\"strong\">添加用户</emphasis>在你的电脑上添加一个新用户账户，弹出<emphasis role=\"strong\">新用户账户</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:672(title)
 msgid "Adding a User"
-msgstr ""
+msgstr "添加一个新用户"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:684(para)
 msgid ""
 "Specify the user accounts' basic settings, contact information and password "
 "information in the <emphasis role=\"strong\">New user account</emphasis> "
 "dialogue box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">新用户账户</emphasis>对话框中指定新用户账户的基本设置，联系信息和密码。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:690(para)
 msgid ""
 "Type the name with which you want to log on to your computer in the "
 "<emphasis role=\"strong\">Username</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">用户名</emphasis>中输入想要的登录名。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:695(para)
 msgid ""
 "Type your full name in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">真实姓名</emphasis>里输入全名。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:700(para)
 msgid ""
 "Select your user type from the <emphasis role=\"strong\">Profile</emphasis> "
 "box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">用户类型</emphasis>中选择用户类型。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:705(para)
 msgid ""
 "Type your office location in the <emphasis role=\"strong\">Office "
 "location</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">公司地址</emphasis>中输入公司地址。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:710(para)
 msgid ""
 "Type your work phone number in the <emphasis role=\"strong\">Work "
 "phone</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">工作电话</emphasis>中输入工作时的电话。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:715(para)
 msgid ""
 "Type your home phone number in the <emphasis role=\"strong\">Home "
 "phone</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">住宅电话</emphasis>中输入家里的电话。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:720(para)
 msgid ""
 "Type the password for your user account in the <emphasis "
 "role=\"strong\">User password</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">用户密码</emphasis>文本框中输入新用户账户的密码。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:728(para)
 msgid ""
 "This information is for record keeping only, and other users cannot view it."
-msgstr ""
+msgstr "这些信息只是用来做记录的，其他用户无法看到它们。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:732(para) chapter2/Exploring_the_Ubuntu_Desktop.xml:1078(para)
 msgid ""
 "Click <emphasis role=\"strong\">Close</emphasis> to save the settings."
-msgstr ""
+msgstr "单击<emphasis role=\"strong\">关闭</emphasis>保存设置。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:736(title)
 msgid "Configuring New User Account"
-msgstr ""
+msgstr "配置新用户账户"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:748(para)
 msgid ""
 "A new user account will be displayed in the User settings dialogue box. This "
 "dialogue box displays the new user's full name and login name. It also tells "
 "you the location of the new user account created."
-msgstr ""
+msgstr "用户设置对话框中就会显示这个新用户账户了，包括他的全名、登录名和地区。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:754(title)
 msgid "The New User Account"
-msgstr ""
+msgstr "一个新用户账户"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:766(para)
 msgid ""
 "Now, if you click the fast user switch icon, there will be two users "
 "displayed and the current user logged on to the computer will be marked."
-msgstr ""
+msgstr "现在，单击快速用户切换图标，你就会看到两个用户了，被标记了的是当前的用户。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:771(title)
 msgid "Switching Users"
-msgstr ""
+msgstr "切换用户"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:781(para)
 msgid ""
@@ -1023,18 +1038,18 @@ msgid ""
 "logon screen. Type the user name and password, and you will be on a desktop "
 "of the new user. When you switch to another user, the previous user screen "
 "is locked by default, so the other person cannot make any profile changes."
-msgstr ""
+msgstr "这个功能让你不再需要频繁的登录和注销来使用不同的账户，而可以保持登录状态的同时在不同的账户之间切换。点击快速用户切换图标将显示用户名列表。选择你要切换到的用户名，然后你会被转向登录界面。输入用户名和密码后新用户的桌面将呈现在你的眼前。当你切换到其他用户时，当前用户的屏幕会自动锁定，所以其他人不能对它做任何改动。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:792(title)
 msgid "Adding/Removing Applications"
-msgstr ""
+msgstr "添加/删除应用程序"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:797(para)
 msgid ""
 "Advise students that you will cover this topic in detail while teaching the "
 "<emphasis role=\"strong\">Customising Ubuntu and Applications</emphasis> "
 "lesson of this course. This topic is just an introduction."
-msgstr ""
+msgstr "建议学生，你会在讲解本课程的<emphasis role=\"strong\">自定义Ubuntu和应用程序</emphasis>中详细这个内容，这里只是一个介绍。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:802(para)
 msgid ""
@@ -1042,19 +1057,19 @@ msgid ""
 "the <emphasis role=\"strong\">Customising the Desktop and "
 "Application</emphasis> lesson of this course. This topic is just an "
 "introduction."
-msgstr ""
+msgstr "告诉学生，你会在讲解本课程的<emphasis role=\"strong\">自定义Ubuntu和应用程序</emphasis>中详细这个内容，这里只是一个介绍。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:809(title)
 msgid "Use the Add/Remove applications when you need to:"
-msgstr ""
+msgstr "当你遇到以下情况时，使用添加/删除应用程序："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:812(para)
 msgid "Use software not provided as a default application on Ubuntu."
-msgstr ""
+msgstr "需要使用Ubuntu默认没有提供的软件。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:817(para)
 msgid "Try an alternative application to the one already installed"
-msgstr ""
+msgstr "你已经安装了你需要的软件，但有另外的软件和它提供相同或类似的功能，并且你想尝试一下。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:822(para)
 msgid ""
@@ -1064,11 +1079,11 @@ msgid ""
 "access the Add/Remove application, on the <emphasis "
 "role=\"strong\">Applications</emphasis> menu, click <emphasis "
 "role=\"strong\">Add/Remove</emphasis>."
-msgstr ""
+msgstr "Ubuntu包含了很多安装方便的预封装软件包。你可以用”添加删除应用程序“或者”新立得软件包管理器“来安装它们。在<emphasis role=\"strong\">应用程序</emphasis>菜单，单击<emphasis role=strong>添加/删除</emphasis>启动”添加/删除应用程序“。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:830(title)
 msgid "Launching Add/Remove Applications"
-msgstr ""
+msgstr "启动”添加/删除应用程度“"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:840(para)
 msgid ""
@@ -1076,28 +1091,28 @@ msgid ""
 "role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and click <emphasis "
 "role=\"strong\">Synaptic Package Manager</emphasis>."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">系统</emphasis>菜单中，用鼠标指向<emphasis role=\"strong\">管理</emphasis>，然后单击<emphasis role=\"strong\">新立得软件包管理器</emphasis>启动”新立得软件包管理器“。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:846(title)
 msgid "Launching Synaptic Package Manager"
-msgstr ""
+msgstr "启动”新立得让软件包管理器“"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:856(para)
 msgid ""
 "Synaptic offers an advanced way of installing packages. If you do not find a "
 "software programme in the Add/Remove tool, you can search for it in "
 "Synaptic. It searches all software in the available repositories on Ubuntu."
-msgstr ""
+msgstr "新立得提供了一种安装包的高级方式。如果你在”添加/删除“工具里没有找到你想要的软件，你可以在新立得里搜索它，它会搜索Ubuntu上仓库提供的所有软件。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:863(title)
 msgid "Desktop Effects - Compiz Fusion"
-msgstr ""
+msgstr "桌面效果——Compiz Fusion"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:868(para)
 msgid ""
 "Advise students that to view desktop effects, computers must have a 3D-"
 "enabled graphic card."
-msgstr ""
+msgstr "提醒学生，要使用桌面效果的话，显卡必须支持3D。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:872(para)
 msgid ""
@@ -1107,7 +1122,7 @@ msgid ""
 "intuitive, as well as easier and more fun to use. For example, you can place "
 "workspaces on a cube, which enables you to move from one workspace to "
 "another easily."
-msgstr ""
+msgstr "Compiz Fusion是一个3D窗口管理器。它需要支持3D加速的显卡。现在绝大部分的桌面电脑和笔记本的显卡都支持。它提供了许多的视觉效果，使Linux桌面更加强大﹑直观﹑易用和有趣。比如，你可以把桌面变成一个立方体，快速地在不同工作区间移动。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:879(para)
 msgid ""
@@ -1115,11 +1130,11 @@ msgid ""
 "graphics cards. It enables the 3D desktop visual effects that improve the "
 "usability and visual appeal of the system. You really have to see and play "
 "with this application to appreciate the benefits."
-msgstr ""
+msgstr "在Ubuntu 8.04 LTS中，Compiz Fusion是默认开启的。它带来了3D桌面视觉特效，提高了用户体验和系统视觉外观。你一定要试试这个软件，感受下它的好处。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:885(title)
 msgid "To view the visual effects on Ubuntu:"
-msgstr ""
+msgstr "在Ubuntu上开启视觉效果："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:888(para)
 msgid ""
@@ -1127,22 +1142,22 @@ msgid ""
 "role=\"strong\">Preferences</emphasis> and click <emphasis "
 "role=\"strong\">Appearance</emphasis>. The <emphasis "
 "role=\"strong\">Appearance Preferences</emphasis> dialogue box appears."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">系统</strong>菜单中，用鼠标指向<emphasis role=\"strong\">首选项</emphasis>，然后单击<emphasis role=\"strong\">外观</emphasis>，弹出<emphasis role=\"strong\">外观首选项</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:895(title)
 msgid "Opening the Appearance Preferences Dialogue Box"
-msgstr ""
+msgstr "打开”外观首选项“对话框"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:907(para)
 msgid ""
 "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
 "box, there are three pre-configured levels of special effects settings: No "
 "effects, Normal effects and Extra effects. You can select any one of them:"
-msgstr ""
+msgstr "<emphasis rote=\"strong\">外观首选项</emphasis>对话框中，有三个预定义的特效级别：没有特效，一般特效，增强特效，你可以从其中选择一个。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:913(title)
 msgid "Configuring Visual Effects"
-msgstr ""
+msgstr "配置视觉效果"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:925(para)
 msgid ""
@@ -1155,85 +1170,85 @@ msgid ""
 "update to complete or an e-mail client to import e-mail messages, you can "
 "turn on the Wobbly effect. The windows will start dancing and displaying the "
 "3D effects. Play with it a little, it's fun!"
-msgstr ""
+msgstr "如果你想要一个没有任何特效的普通桌面，选择<emphasis role=\"strong\">无</emphasis>。如果你想要一个在性能和外观之间平衡的桌面，选择<emphasis role=\"strong\">普通</emphasis>。如果你想要很多桌面效果，比如窗口抖动、桌面立方体等等，选择<emphasis role=\"strong\">增强</emphasis>。比如说窗口抖动这个效果，在你等待更新完成或者邮件客户端收取邮件的时候，你可以打开窗口抖动特效，那些窗口就会开始舞动和出现3D效果。和它们玩玩是件有趣的事情！"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:937(title)
 msgid "Lesson Summary"
-msgstr ""
+msgstr "课程小结"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:939(para)
 msgid "In this lesson, you learned that:"
-msgstr ""
+msgstr "在这一课，你学到了："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:942(para)
 msgid "Ubuntu utilises the GNOME desktop by default"
-msgstr ""
+msgstr "Ubuntu默认的GNOME桌面环境"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:946(para)
 msgid ""
 "You can set the default language of your computer either during the "
 "installation of Ubuntu or at a later stage"
-msgstr ""
+msgstr "你可以在安装或之后的任何时候更改默认的语言。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:951(para)
 msgid ""
 "Fast user switching enables you to share your computer with other users "
 "without sharing your files"
-msgstr ""
+msgstr "通过快速用户切换，你可以和别人共享你的电脑，而且自己的文件不会被其他人看到。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:956(para)
 msgid ""
 "You can install software by using the Add/Remove application or the Synaptic "
 "Package Manager utility of Ubuntu"
-msgstr ""
+msgstr "使用“添加/删除程序”和“新立得软件包管理器”给Ubuntu安装新的程序。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:961(para)
 msgid ""
 "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D "
 "desktop visual effects"
-msgstr ""
+msgstr "Compiz Fusion在Ubuntu 8.04 LTS里默认启用，它能带给你有趣的3D桌面效果。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:969(title)
 msgid "Review Exercise"
-msgstr ""
+msgstr "复习题"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:974(para)
 msgid ""
 "At the top and bottom of the desktop, you have two bars, called "
 "_________________."
-msgstr ""
+msgstr "在桌面的顶部和底部各有一个长条形的区域，叫做_________________。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:979(para)
 msgid ""
 "At the top and bottom of the desktop, you have two bars, called panels."
-msgstr ""
+msgstr "在桌面的顶部和底部各有一个长条形的区域，叫做面板。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:986(para)
 msgid "Which are the three shortcut icons already present on the top panel?"
-msgstr ""
+msgstr "在顶部的面板上默认的三个快捷图标为？"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:991(para)
 msgid "Mozilla Firefox, Evolution e-mail client and Ubuntu help."
-msgstr ""
+msgstr "Mozilla Firefox网页浏览器，Evolution邮件客户端，Ubuntu帮助。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:998(para)
 msgid "What is fast user switching?"
-msgstr ""
+msgstr "什么是快速用户切换？"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1002(para)
 msgid ""
 "Fast user switching is a feature that avoids you having to log off and log "
 "on all the time to switch users. It enables multiple users to switch quickly "
 "while staying"
-msgstr ""
+msgstr "快速用户切换使你可以随时在不同用户之间进行切换，而不用频繁的登录注销。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1012(title)
 msgid "Lab Exercise"
-msgstr ""
+msgstr "上机练习"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1015(title)
 msgid "Exercise:"
-msgstr ""
+msgstr "练习："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1017(para)
 msgid ""
@@ -1241,7 +1256,7 @@ msgid ""
 "access to it. Your friend wants to use your computer for some time. To "
 "handle this situation, create a new user account for your friend and use the "
 "fast user switch feature."
-msgstr ""
+msgstr "你的电脑上存储有你的银行信息，你不想让他人看到他们，但你的朋友想用一用你的电脑。为你的朋友创建一个新用户并且使用快速用户切换来解决这个问题。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1026(para)
 msgid ""
@@ -1249,80 +1264,80 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and click <emphasis "
 "role=\"strong\">Users and Groups</emphasis>. The <emphasis "
 "role=\"strong\">User settings</emphasis> dialogue box opens."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">系统</emphasis>菜单里，用鼠标指向<emphasis role=\"strong\">管理</emphasis>，然后单击<emphasis role=\"strong\">用户和用户组</emphasis>，弹出<emphasis role=\"strong\">用户设置</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1033(para)
 msgid ""
 "In the <emphasis role=\"strong\">User settings</emphasis> dialogue box, "
 "click <emphasis role=\"strong\">Add User.</emphasis> The <emphasis "
 "role=\"strong\">New user account</emphasis> dialogue box appears."
-msgstr ""
+msgstr "<emphasis role=\"strong\">用户设置</emphasis>对话框中，单击<emphasis role=\"strong\">添加用户</emphasis>，弹出<emphasis role=\"strong\">新用户账户</emphasis>对话框。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1039(para)
 msgid "In the dialogue box, specify the following information:"
-msgstr ""
+msgstr "在对话框中指定下列信息："
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1043(para)
 msgid ""
 "Type charles in the <emphasis role=\"strong\">Username</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">用户名</emphasis>文本框中输入”charles“。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1048(para)
 msgid ""
 "Select Desktop user from the <emphasis role=\"strong\">Profile</emphasis> "
 "box."
-msgstr ""
+msgstr "从<emphasis role=\"strong\">用户类型</emphasis>下拉列表中选择”桌面用户“。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1053(para)
 msgid ""
 "Type charles windsor in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">真实姓名</emphasis>文本框中输入“charles windsor”。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1058(para)
 msgid ""
 "Type England in the <emphasis role=\"strong\">Office location</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">公司地址</emphasis>文本框中输入“England”。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1063(para)
 msgid ""
 "Type 111111 in the <emphasis role=\"strong\">Work phone</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">工作电话</emphasis>文本框中输入“111111”。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1068(para)
 msgid ""
 "Type 99999 in the <emphasis role=\"strong\">Home phone</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">住宅电话</emphasis>文本框中输入“99999”。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1073(para)
 msgid ""
 "Type password@1 in the <emphasis role=\"strong\">User password</emphasis> "
 "box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">用户密码</emphasis>文本框中输入“password@1”。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1087(para)
 msgid ""
 "Click the fast user switch icon on the top panel. Click charles. The logon "
 "screen appears."
-msgstr ""
+msgstr "单击屏幕顶部面板的“快速用户切换”图标，再单击“charles”，出现登陆界面。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1092(para)
 msgid ""
 "Type charles in the <emphasis role=\"strong\">Username</emphasis> box and "
 "password@1 in the <emphasis role=\"strong\">Password</emphasis> box."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">用户名</emphasis>文本框中输入“charles”，<emphasis role=\"strong\">密码</emphasis>文本框中输入“password@1”。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1098(para)
 msgid "Your friend can now work on this desktop."
-msgstr ""
+msgstr "你的朋友现在可以在这个桌面上工作了。"
 
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:1102(para)
 msgid ""
 "Your friend cannot access your user account because the computer will ask "
 "for your password to log on to the account. So, your personal data is safe."
-msgstr ""
+msgstr "他访问属于你的文件的时候会被提示输入密码。所以，你的个人信息是安全的。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: chapter2/Exploring_the_Ubuntu_Desktop.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "Eleanor Chen <cehnyueg@gmail.com>, 2009"
