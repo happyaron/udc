@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-26 16:26+0800\n"
-"PO-Revision-Date: 2009-12-27 00:45+0800\n"
+"PO-Revision-Date: 2009-12-27 11:32+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -157,10 +157,10 @@ msgid ""
 "source, which is the underlying foundation of Ubuntu. Briefly explain the "
 "dictionary meaning of 'open source' in general and move on to establishing "
 "how the open source ideology developed in the context of Linux. Present this "
-"as a story spread over different phases: Free Software Movemenhttp://github.com/happyaron/udc/blob/master/chapter1/zh_CN.pot, Open Source "
+"as a story spread over different phases: Free Software Movement, Open Source "
 "Movement initiation and its formal launch. Explain the Ubuntu release "
 "schedule, naming convention and Ubuntu promise in detail."
-msgstr "本课重点旨在帮助学生理解作为Ubuntu基础的开源的概念。简而言之，简要解释“开源”的含义并开始将开源思想于Linux中付诸实践。我们将把它作为一个故事并分成若干段来讲：讲解自由软件运动的起源以及它的正式启动；详细讲解Ubuntu的发布日程安排，命名规则以及Ubuntu承诺。"
+msgstr "本课重点是帮助学生理解作为Ubuntu基础的开源的概念。简而言之，简要解释“开源”的含义，和开源思想如何在Linux中付诸实践。分段讲解自由软件运动和开源运动的起源以及正式开始。详细讲解Ubuntu的发布日程安排，命名规则以及Ubuntu的承诺。"
 
 
 #: chapter1/Introducing_Ubuntu.xml:50(para)
@@ -174,14 +174,14 @@ msgid ""
 "their specific requirement or collaboratively to improve the software. Both "
 "open source and Linux have transitioned through various phases to reach "
 "their present form."
-msgstr "Ubuntu是一个基于Linux的开源操作系统。开源可以促进知识被充分利用，推动产品设计和生产技术发展。它即是理论，也是具体的实践。开源被广泛用于软件源代码，用户可以获得它们，并且在知识产权限制很少甚至没有。这也就允许了用户对软件进行修改，或者利用其代码创建和发布新的软件来满足自身的需要，或者互相协作改进开源软件。开源和Linux都是在逐步变化的过程中，形成今天的样子的。"
+msgstr "Ubuntu是一个基于Linux的开源操作系统。开源可以促进知识被充分利用，推动产品设计和生产技术发展。它即是理论，也是具体的实践。开源被广泛用于软件源代码，用户可以获得它们，并且知识产权限制很少甚至没有。这允许用户对软件进行修改，或者利用其代码创建和发布新的软件来满足自身的需要，以及互相协作改进开源软件。开源和Linux都是在逐步变化的过程中，形成今天的样子的。"
 
 #: chapter1/Introducing_Ubuntu.xml:61(para)
 msgid ""
 "The idea behind openly distributed source code is to encourage the "
 "voluntary, collaborative development of software. Users continuously enhance "
 "the software, fix bugs, develop new features and share it with others."
-msgstr "自由分发的源代码的想法是为了鼓励志愿地、共同地开发软件。用户不断的增强软件，修正缺陷，开发新功能并且和其他人分享。"
+msgstr "自由分发的源代码的想法是为了鼓励志愿地、共同地开发软件。用户不断地增强软件，修正缺陷，开发新功能并且和其他人分享。"
 
 #: chapter1/Introducing_Ubuntu.xml:65(para)
 msgid ""
@@ -190,14 +190,14 @@ msgid ""
 "quality and performance than proprietary alternatives. Users are encouraged "
 "to customise the software to their own personal requirements, which in "
 "itself is a huge step away from the 'one size fits all' philosophy."
-msgstr "大量的程序员参与到软件协作开发之中，用户可以获得质量和性能相对于专有软件来说更好的开源软件。开源软件鼓励用户自定义，让软件满足他们自身的需要。这是一个巨大的进步，软件不再是一成不变。"
+msgstr "大量的程序员参与到软件协作开发之中，用户可以获得质量和性能比专有软件更好的开源软件。开源软件鼓励用户自定义，让软件满足自身需要。这是一个巨大的进步，软件不再是一成不变。"
 
 #: chapter1/Introducing_Ubuntu.xml:72(para)
 msgid ""
 "Open source projects call on the talents of many people with skills other "
 "than programming. Many projects involve artists, musicians, user-interface "
 "designers and documentation authors to create a complete product."
-msgstr "开源项目寻求各个领域的人才，不只是程序员。许多的项目还需要艺术家、音乐家、用户界面设计者和文档撰写者一起来做出一个完整的产品。"
+msgstr "开源项目寻求各个领域的人才，不只是程序员。许多的项目还需要艺术家、音乐家、用户界面设计者和文档撰写者，一起做出完整的产品。"
 
 #: chapter1/Introducing_Ubuntu.xml:78(title)
 msgid "Free Software Movement, Open Source and Linux"
@@ -208,7 +208,7 @@ msgid ""
 "There is often confusion between open source, free software and Linux. While "
 "all three are inter-linked, there are distinct differences which are made "
 "clearer when looking at their evolution."
-msgstr "开源、自由软件和Linux是三个容易混淆的概念。他们互相都有联系，但发展过程有着明显的差异。"
+msgstr "开源、自由软件和Linux是三个容易混淆的概念。他们互有联系，但发展过程有着明显的不同。"
 
 #: chapter1/Introducing_Ubuntu.xml:84(title)
 msgid "The Free Software Movement"
@@ -224,7 +224,7 @@ msgid ""
 "source software. However, as hardware became cheaper and profit margins "
 "eroded in the 1970s, manufacturers looked to software to provide additional "
 "revenue streams."
-msgstr "二十世纪六十年代的时候，像IBM这些公司发布出来的软件基本上都是自由的。那个时候这些公司的商业模式都是以硬件为中心，软件被看作是使硬件工作的东西。他们提供软件的同时也提供源代码，这样软件就可以被修改和改进，这可以看作是开源软件的雏形。但是，随着硬件价格的不断下跌，销售硬件的利润率也逐渐减小，制造商期望软件能带来额外的收入。"
+msgstr "二十世纪六十年代，像IBM这样的公司发布出来的软件基本上都是自由的。那个时候的商业模式都是以硬件为中心，软件只是被看作使硬件工作的东西。他们提供软件的同时也提供源代码，这样软件就可以被修改和改进，便是开源软件的雏形。但是，随着硬件价格的不断下跌，销售硬件的利润率也逐渐减小，制造商开始期望软件带来额外的收入。越来越多的厂商开始单独销售软件，源代码也不再被提供。"
 
 #: chapter1/Introducing_Ubuntu.xml:95(para)
 msgid ""
@@ -235,7 +235,7 @@ msgid ""
 "computers. Developer constraint, as opposed to freedom was prevalent. With "
 "the launch of the GNU project, Stallman started the Free Software Movement "
 "and in October 1985, set up the Free Software Foundation."
-msgstr "1983年的春天，Richard Matthew Stallman，曾经是MIT人工智能实验室的程序员，发起了GNU项目，旨在创造一个类Unix的操作系统。他为专业软件的膨胀和随之而来的用户不再能够修改他们电脑上的程序忧心忡忡。软件开发者被限制，追求软件自由的潮流也愈演愈烈。GNU工程的项目，标志了自由软件运动的开始。1985年10月，Richard创立了自由软件基金会。"
+msgstr "1983年的春天，Richard Matthew Stallman，曾经是MIT人工智能实验室的程序员，发起了GNU项目，旨在开发一个自由的类Unix的操作系统。他为专业软件的膨胀和随之而来的用户不再能够修改他们电脑上的程序而忧心忡忡。软件开发者被束缚，追求软件自由的潮流也愈演愈烈。GNU项目的创立，标志了自由软件运动的开始。1985年10月，Richard创立了自由软件基金会（Free Software Foundation）。"
 
 #: chapter1/Introducing_Ubuntu.xml:104(para)
 msgid ""
@@ -255,14 +255,14 @@ msgid ""
 "following URL: <ulink "
 "url=\"http://en.wikipedia.org/wiki/Richard_stallman\">http://en.wikipedia.org"
 "/wiki/Richard_stallman</ulink>."
-msgstr "更多关于Richard Stallman和GNU项目的信息，请访问：<ulink url=http://en.wikipedia.org/wiki/Richard_stallman\">http://en.wikipedia.org/wiki/Richard_stallman</ulink>。"
+msgstr "更多关于Richard Stallman和GNU项目的内容，请访问：<ulink url=http://en.wikipedia.org/wiki/Richard_stallman\">http://en.wikipedia.org/wiki/Richard_stallman</ulink>。"
 
 #: chapter1/Introducing_Ubuntu.xml:115(para)
 msgid ""
 "By 1991, a number of GNU tools, including the powerful GNU compiler "
 "collection (GCC), had been created. However, a free kernel was not yet "
 "available to build a free OS that would use these tools."
-msgstr "到了1991年，很多GNU工具都被开发了出来，包括强大的GNU编译套件（GNU compiler collection, GCC）。但是，创造一个自由的使用这些工具的操作系统的必不可少的部分——自由的内核，却还没有开发出来。"
+msgstr "到了1991年，很多GNU工具都被开发了出来，包括强大的GNU编译套件（GNU compiler collection, GCC）。软件运行在操作系统之上，但是，创造一个自由的操作系统的必不可少的部分——自由的内核，却还没有开发出来。"
 
 #: chapter1/Introducing_Ubuntu.xml:121(title)
 msgid "The Open Source Movement and Linux"
@@ -274,7 +274,7 @@ msgid ""
 "difference between a social movement (free software) and a development "
 "methodology (open source). Linux refers to the kernel, or the backbones of "
 "the open source architecture."
-msgstr "自由软件和开源之间的区别可以认为是社会运动（自由软件）和软件开发方法（开源）之间的区别。Linux则是内核，或者说是开源体系的支柱。"
+msgstr "自由软件和开源之间的区别可以理解成社会运动（自由软件）和软件开发方法（开源）之间的区别。Linux则是一个内核，开源体系中很重要的软件。"
 
 #: chapter1/Introducing_Ubuntu.xml:127(para)
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 "provided a Command Line Interface (CLI) first; the adaptation of the X "
 "Window System made a graphical user interface (GUI) available at a later "
 "stage."
-msgstr "Linus Torvalds 最初想把 Linux 设计成一个类 Minix 的能在自己家用计算机上跑的操作系统。在九月中旬时，Torvald 发布了第一个 Linux 内核 0.01 版本。在 1994 年，Linux 内核 1.0 版本在 GNU GPL 下发布。这个免费的内核加上 GNU 工具给爱好者提供了一个富有潜力的环境。为了与所发源的 UNIX 保持相近，Linux 首先提供了一个命令行界面；之后的阶段里 X 窗口系统的加入使图形用户界面成为可能。"
+msgstr "Linus Torvalds 最初想把 Linux 设计成一个类 Minix 的能在自己的家用计算机上跑的操作系统。在九月中旬时，Torvald 发布了第一个版本——Linux 0.01。1994 年，采用了GNU公共许可证（GPL）的Linux 1.0发布。这个自由的内核加上 GNU 工具集给爱好者提供了一个富有潜力的环境。为了和 UNIX 保持相似，Linux首先提供了一个命令行界面；之后，X窗口系统的加入使图形用户界面成为可能。"
 
 #: chapter1/Introducing_Ubuntu.xml:159(para)
 msgid ""
@@ -337,7 +337,7 @@ msgid ""
 "user friendly. This has resulted in the launch of hundreds of commercial and "
 "non-commercial distribution versions, designed for everyday application use "
 "which are now available."
-msgstr "最开始，Linux的技术性很强，是一个硬核的开源编程工具。成千上万的开发者为它的发展做出过贡献，使它更加的用户友好，于是现在有数百种商业或非商业的为日常使用设计的发行版。"
+msgstr "最开始，Linux的技术性很强，是一个硬核的开源编程工具，这意味着它只能在特定的计算机上运行，并且不怎么好用，但成千上万的开发者参与到改进它的行列中，为它的发展做出过贡献，使它更加的用户友好。于是现在有数百种商业和非商业的为日常使用设计的发行版。"
 
 #: chapter1/Introducing_Ubuntu.xml:184(para)
 msgid ""
@@ -346,7 +346,7 @@ msgid ""
 "software exclusively on the basis of technical excellence."
 msgstr ""
 "1998 年，Jon \"maddog\" Hall、Larry Augustin、 Eric S、Raymond、Bruce Perens et al "
-"正式启动了开放源码运动(Open Source Movement)。他们在技术专业基础之外促进了开源软件的发展。"
+"正式开始了开放源码运动(Open Source Movement)。他们在技术专业基础之外促进了开源软件的发展。"
 
 #: chapter1/Introducing_Ubuntu.xml:189(title)
 msgid "Founders of the Open Source Movement"
@@ -362,10 +362,7 @@ msgid ""
 "viable alternative to expensive proprietary software. Its momentum has "
 "strengthened since with the availability of many easy to use applications."
 msgstr ""
-"开放源码运动和 1990 年代末的 dot.com(互联网) 的兴起一起，导致了 Linux 的流行和很多支持开源的公司，如Corel (Corel "
-"Linux)、Sun Microsystems (OpenOffice.org)、 IBM (OpenAFS) 等的变革。在 21世纪初，当 "
-"dot.com "
-"在顶峰时崩溃时(互联网泡沫破碎)，开源软件作为昂贵的专有软件的可行替换品被摆到一个重要的位置上。大量易用应用程序的出现更加巩固了它的发展力量。"
+"开放源码运动和 1990 年代末的互联网的兴起一起造就了 Linux 的流行，出现了很多支持开源的公司，如Corel (Corel Linux)、Sun Microsystems (OpenOffice.org)、 IBM (OpenAFS) 等的变革。在21世纪初，互联网泡沫破碎，开源软件作为昂贵的专有软件的可行替换品被摆到重要的位置上。大量易用的应用程序的出现更加增强了它的发展力量。"
 
 #: chapter1/Introducing_Ubuntu.xml:205(para)
 msgid ""
@@ -374,7 +371,7 @@ msgid ""
 "investment and enhanced usability features, Linux is now rooted as a viable "
 "option for enterprises and home users."
 msgstr ""
-"就这样，开始的一个想法变成了一种变革这个专利和授权的行业的激情。在投资上显著的价格优势和增强的使用特色使 Linux 已经成为商业和家庭用户的可行选择。"
+"就这样，一个想法变成了变革这个充满专利和授权的行业的激情。在投资上显著的价格优势和更强大的功能使 Linux 已经成为商业和家庭用户的可行选择。"
 
 #: chapter1/Introducing_Ubuntu.xml:213(title)
 msgid "About Ubuntu"
@@ -520,7 +517,7 @@ msgstr "4.10版本的早期测试社区被称做Sounder——warthogs（疣猪�
 
 #: chapter1/Introducing_Ubuntu.xml:342(title)
 msgid "Ubuntu 5.04 (Hoary Hedgehog)"
-msgstr ""
+msgstr "Ubuntu 5.04 (Hoary Hedgehog)"
 
 #: chapter1/Introducing_Ubuntu.xml:343(para)
 msgid "Released in April 2005; supported until October 2006."
@@ -528,7 +525,7 @@ msgstr "2005年4月发布，支持到2006年10月。"
 
 #: chapter1/Introducing_Ubuntu.xml:349(title)
 msgid "Ubuntu 5.10 (Breezy Badger)"
-msgstr ""
+msgstr "Ubuntu 5.10 (Breezy Badger)"
 
 #: chapter1/Introducing_Ubuntu.xml:350(para)
 msgid "Released in October 2005; supported until April 2007."
@@ -536,7 +533,7 @@ msgstr "2005年10月发布，支持到2007年4月。"
 
 #: chapter1/Introducing_Ubuntu.xml:356(title)
 msgid "Ubuntu 6.06 LTS (Dapper Drake)"
-msgstr ""
+msgstr "Ubuntu 6.06 LTS (Dapper Drake)"
 
 #: chapter1/Introducing_Ubuntu.xml:357(para)
 msgid ""
@@ -551,7 +548,7 @@ msgstr "这是第一个长期支持版本，发布于2006年6月。长期支持�
 
 #: chapter1/Introducing_Ubuntu.xml:370(title)
 msgid "Ubuntu 6.10 (Edgy Eft)"
-msgstr ""
+msgstr "Ubuntu 6.10 (Edgy Eft)"
 
 #: chapter1/Introducing_Ubuntu.xml:371(para)
 msgid ""
@@ -561,7 +558,7 @@ msgstr "2006年10月发布。这个版本保证了健全的启动过程，支持
 
 #: chapter1/Introducing_Ubuntu.xml:377(title)
 msgid "Ubuntu 7.04 (Feisty Fawn)"
-msgstr ""
+msgstr "Ubuntu 7.04 (Feisty Fawn)"
 
 #: chapter1/Introducing_Ubuntu.xml:378(para)
 msgid ""
@@ -571,7 +568,7 @@ msgstr "2007年4月发布，重点改进了网间漫游，支持到2008年10月�
 
 #: chapter1/Introducing_Ubuntu.xml:385(title)
 msgid "Ubuntu 7.10 (Gutsy Gibbon)"
-msgstr ""
+msgstr "Ubuntu 7.10 (Gutsy Gibbon)"
 
 #: chapter1/Introducing_Ubuntu.xml:386(para)
 msgid ""
@@ -582,7 +579,7 @@ msgstr "2007年10月发布。主要特性包括：默认支持绚丽的视觉效
 
 #: chapter1/Introducing_Ubuntu.xml:395(title)
 msgid "Ubuntu 8.04 LTS (Hardy Heron)"
-msgstr ""
+msgstr "Ubuntu 8.04 LTS (Hardy Heron)"
 
 #: chapter1/Introducing_Ubuntu.xml:396(para)
 msgid ""
@@ -593,7 +590,7 @@ msgstr "2008年4月发布，是Ubuntu的第二个长期支持版本。桌面支�
 
 #: chapter1/Introducing_Ubuntu.xml:404(title)
 msgid "Ubuntu 8.10 (Intrepid Ibex)"
-msgstr ""
+msgstr "Ubuntu 8.10 (Intrepid Ibex)"
 
 #: chapter1/Introducing_Ubuntu.xml:405(para)
 msgid ""
@@ -603,7 +600,7 @@ msgstr "2008年10月发布，包括上百项改进和完整的3G支持。支持�
 
 #: chapter1/Introducing_Ubuntu.xml:412(title)
 msgid "Ubuntu 9.04 (Jaunty Jackalope)"
-msgstr ""
+msgstr "Ubuntu 9.04 (Jaunty Jackalope)"
 
 #: chapter1/Introducing_Ubuntu.xml:413(para)
 msgid ""
@@ -614,7 +611,7 @@ msgstr "2009年4月发布。将云计算带到了Ubuntu社区。支持到2010年
 
 #: chapter1/Introducing_Ubuntu.xml:420(title)
 msgid "Ubuntu 9.10 (Karmic Koala)"
-msgstr ""
+msgstr "Ubuntu 9.10 (Karmic Koala)"
 
 #: chapter1/Introducing_Ubuntu.xml:421(para)
 msgid ""
@@ -684,14 +681,14 @@ msgstr "开发者聚集在这里，他们开发和打包软件，修正缺陷，
 
 #: chapter1/Introducing_Ubuntu.xml:472(title)
 msgid "Idea Pool"
-msgstr ""
+msgstr "头脑风暴"
 
 #: chapter1/Introducing_Ubuntu.xml:473(para)
 msgid ""
 "If you have ideas for projects, proposals and enhancements but do not "
 "necessarily want to implement them, you can add the ideas into the idea pool "
 "available at https://wiki.ubuntu.com/IdeaPool."
-msgstr "如果你有什么好的想法和建议，不一定要去实现他们，你也可以把他们加入到idea pool里面，地址：https://wiki.ubuntu.com/IdeaPool。"
+msgstr "如果你有什么好的想法和建议，不一定要去实现他们，也可以提交到Ubuntu头脑风暴：http://brainstorm.ubuntu.com/"
 
 #: chapter1/Introducing_Ubuntu.xml:479(title)
 msgid "Technical Users"
@@ -748,7 +745,7 @@ msgstr "翻译和本地化"
 
 #: chapter1/Introducing_Ubuntu.xml:521(para)
 msgid "Writing and updating documentation and training materials"
-msgstr "撰写、更新文档和教学材料"
+msgstr "撰写、更新文档和培训材料"
 
 #: chapter1/Introducing_Ubuntu.xml:524(para)
 msgid "Advocacy"
@@ -773,7 +770,7 @@ msgid ""
 "deploy Ubuntu and show desktop users (such as yourselves) how to use and get "
 "the most out of it. For more information on Ubuntu course availability and "
 "certifications, please refer to http://www.ubuntu.com/training."
-msgstr "Canonical的一项重要工作就是让尽可能多的计算机和服务器使用Ubuntu，让Ubuntu遍布世界的每一个角落。培训可以推动人们选择Ubuntu。严格来讲，课程的内容包括Ubuntu认证专家，协助合作伙伴部署Ubuntu，像桌面用户（比如你）展示如何使用Ubuntu并让它发挥最大的功效。更多关于Ubuntu课程的优势和认证的内容，请访问：http://www.ubuntu.com/training。"
+msgstr "Canonical的一项重要工作就是让尽可能多的计算机和服务器安装上Ubuntu，让Ubuntu遍布世界的每一个角落。培训可以推动人们选择Ubuntu。严格来讲，课程的内容包括Ubuntu专家认证，协助合作伙伴部署Ubuntu，向桌面用户（比如您）展示如何使用Ubuntu并让它发挥最大的效能。更多关于Ubuntu培训和认证的内容，请访问：http://www.ubuntu.com/training。"
 
 #: chapter1/Introducing_Ubuntu.xml:541(para)
 msgid ""
@@ -835,11 +832,11 @@ msgstr "要素"
 
 #: chapter1/Introducing_Ubuntu.xml:652(emphasis) chapter1/Introducing_Ubuntu.xml:927(emphasis) chapter1/Introducing_Ubuntu.xml:1081(emphasis)
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: chapter1/Introducing_Ubuntu.xml:657(emphasis) chapter1/Introducing_Ubuntu.xml:932(emphasis) chapter1/Introducing_Ubuntu.xml:1086(emphasis)
 msgid "Microsoft Windows"
-msgstr ""
+msgstr "Microsoft Windows"
 
 #: chapter1/Introducing_Ubuntu.xml:667(emphasis)
 msgid "Costs"
@@ -1247,7 +1244,7 @@ msgstr "字处理"
 
 #: chapter1/Introducing_Ubuntu.xml:1258(emphasis)
 msgid "OpenOffice.org Writer"
-msgstr ""
+msgstr "Openoffice.org Writer"
 
 #: chapter1/Introducing_Ubuntu.xml:1251(para)
 msgid ""
@@ -1311,7 +1308,7 @@ msgstr "Ubuntu提供的GIMP是一个强大的类Photoshop图像编辑软件。Mi
 
 #: chapter1/Introducing_Ubuntu.xml:1301(title)
 msgid "GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #: chapter1/Introducing_Ubuntu.xml:1311(title)
 msgid "Lesson Summary"
@@ -1394,35 +1391,35 @@ msgstr "连线：Ubuntu版本和它们发布的日期。"
 
 #: chapter1/Introducing_Ubuntu.xml:1414(para) chapter1/Introducing_Ubuntu.xml:1456(para)
 msgid "1) 7.04"
-msgstr ""
+msgstr "1) 7.04"
 
 #: chapter1/Introducing_Ubuntu.xml:1417(para) chapter1/Introducing_Ubuntu.xml:1475(para)
 msgid "a) June 2006"
-msgstr ""
+msgstr "a) June 2006"
 
 #: chapter1/Introducing_Ubuntu.xml:1422(para) chapter1/Introducing_Ubuntu.xml:1464(para)
 msgid "2) 4.10"
-msgstr ""
+msgstr "2) 4.10"
 
 #: chapter1/Introducing_Ubuntu.xml:1425(para) chapter1/Introducing_Ubuntu.xml:1483(para)
 msgid "b) October 2007"
-msgstr ""
+msgstr "b) October 2007"
 
 #: chapter1/Introducing_Ubuntu.xml:1430(para) chapter1/Introducing_Ubuntu.xml:1472(para)
 msgid "3) 6.06"
-msgstr ""
+msgstr "3) 6.06"
 
 #: chapter1/Introducing_Ubuntu.xml:1433(para) chapter1/Introducing_Ubuntu.xml:1459(para)
 msgid "c) April 2007"
-msgstr ""
+msgstr "c) April 2007"
 
 #: chapter1/Introducing_Ubuntu.xml:1438(para) chapter1/Introducing_Ubuntu.xml:1480(para)
 msgid "4) 7.10"
-msgstr ""
+msgstr "4) 7.10"
 
 #: chapter1/Introducing_Ubuntu.xml:1441(para) chapter1/Introducing_Ubuntu.xml:1467(para)
 msgid "d) October 2004"
-msgstr ""
+msgstr "d) October 2004"
 
 #: chapter1/Introducing_Ubuntu.xml:1493(para)
 msgid ""
