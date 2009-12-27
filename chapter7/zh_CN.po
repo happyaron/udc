@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-27 12:54+0800\n"
+"PO-Revision-Date: 2009-12-27 15:27+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -252,7 +252,7 @@ msgstr "三维效果"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:44(para)
 msgid "Try and take photographs of the class (students) before this session and then demonstrate the applications using those photographs. This lesson should be very hands on as opposed to just a demonstration."
-msgstr "本节开始之前不妨给同学们照几张照片，然后用这些照片来演示应用。这节课的实践性很强，而非简单的一个示范。"
+msgstr "本节开始之前不妨给班级(学生们)照几张照片，然后用这些照片来演示应用。这节课的实践性很强，而非简单的一个示范。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:52(para)
 msgid "Graphics applications form an integral part of Ubuntu. They enable you to organise your photo collection, create and edit photos and images, scan and send objects and more."
@@ -260,7 +260,7 @@ msgstr "图形应用程序是 Ubuntu 的一个组成部分。他们可以用来�
 
 #: chapter7/Managing_Graphics_and_Photos.xml:56(para)
 msgid "In this lesson, you will learn about the various graphics applications available on Ubuntu and which one to use when. These graphics applications are available either with the Ubuntu installation or in repositories (those libraries we mentioned earlier)."
-msgstr "本次课程中，你将学习在 Ubuntu 上的多种图形应用程序，并在特定的时间针对性的使用他们。这些图形应用程序可以是 Ubuntu 自带的或者在库文件中获取(这些库文件之前提到过)。"
+msgstr "本节课中，你将学习在 Ubuntu 上的多种图形应用程序，并在特定的时间针对性的使用他们。这些图形应用程序可以是 Ubuntu 自带的或者在软件库中获取(这些软件库之前提到过)。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:62(title)
 msgid "Applications Available with the Ubuntu Installation"
@@ -272,11 +272,11 @@ msgstr "<emphasis role=\"strong\">GIMP 图像编辑器:</emphasis> 这款图像�
 
 #: chapter7/Managing_Graphics_and_Photos.xml:73(para)
 msgid "<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager used to organise and manage photos. F-Spot enables you to tag (label), categorise and sort photos."
-msgstr "<emphasis role=\"strong\">F-Spot 照片管理器:</emphasis>可用来组织和管理照片。可以利用 F-Spot 对照片进行标记（添加标签）、分类和排序。"
+msgstr "<emphasis role=\"strong\">F-Spot 照片管理器：</emphasis> 一个管理和组织照片的照片管理程序。可以利用 F-Spot 对照片进行标记(添加标签)、分类和排序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:79(para)
 msgid "<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner which also enables you to photocopy documents and fax or e-mail scanned images."
-msgstr "<emphasis role=\"strong\">XSane 图像扫描仪:</emphasis>可以用来影印文件，以传真或者电子邮件的形式发送扫描图像。"
+msgstr "<emphasis role=\"strong\">XSane 图像扫描仪：</emphasis> 用来影印文件并以传真或者电子邮件的形式发送扫描图像的图像扫描器，。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:64(para)
 msgid "The following applications are included in the Ubuntu installation package: <placeholder-1/>"
@@ -296,7 +296,7 @@ msgstr "存储库中有成千上万的应用程序；本文只涉及到了其中
 
 #: chapter7/Managing_Graphics_and_Photos.xml:114(title)
 msgid "Agave:"
-msgstr "Agave:"
+msgstr "Agave："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:116(para)
 msgid "A colour scheme designer. After you select a base colour, Agave suggests the appropriate complementary colours or shades of the same base colour. You can also drag and drop a colour from another application, such as GIMP. Whether you are designing a Web page or a pamphlet or painting your house, this programme enables you to identify the appropriate colour scheme. Visit the Web site <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink> for more information on Agave."
@@ -666,7 +666,7 @@ msgstr "可以从工具箱或者调色板里拖放一个颜色到图像上。它
 
 #: chapter7/Managing_Graphics_and_Photos.xml:734(para)
 msgid "If time permits, allow students to familiarise themselves with GIMP. Ask students to open an image and perform basic operations such as cropping the image, inserting text into the image, rotating the layer and smudging the image by using the available tools."
-msgstr "时间允许的话，可以让同学们自己熟悉 GIMP。要求同学们打开一张图像，并对其执行一些基本操作包括使用工具裁剪图像、插入文字、旋转和涂抹图像等。"
+msgstr "时间允许的话，可以让学生们自己熟悉 GIMP。要求同学们打开一张图像，并对其执行一些基本操作包括使用工具裁剪图像、插入文字、旋转和涂抹图像等。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:746(title)
 msgid "Drawing with Inkscape"
@@ -985,7 +985,7 @@ msgstr "从数码相机中导出图片是否需要额外的软件？"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1221(para)
 msgid "No, Ubuntu automatically identifies plug-and-play devices. F-Spot Photo Manager can identify the connected device and enable you to import images directly from the application interface."
-msgstr "不需要，Ubuntu 将自动识别插件和播放设备。F-Spot 照片管理器能够识别出所连接的设备并且可以通过应用程序接口直接导出图像。"
+msgstr "不需要，Ubuntu 将自动识别即插即用设备。F-Spot 照片管理器能够识别出所连接的设备并且可以通过应用程序接口直接导出图像。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1230(title)
 msgid "Lab Exercise"

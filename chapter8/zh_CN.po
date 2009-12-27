@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-27 12:44+0800\n"
+"PO-Revision-Date: 2009-12-27 15:52+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -740,7 +740,7 @@ msgstr "播放在线媒体"
 
 #: chapter8/xinclude.xml:35(para)
 msgid "Ubuntu fully supports playback of music, videos and DVDs available in free and unrestricted formats. A number of multimedia formats are restricted by licenses and software patents in some jurisdictions. Ubuntu does not offer this capability by default for these formats but it easy to enable playing a variety of proprietary formats. This section will guide you through the patent and copyright restriction considerations for using proprietary file formats."
-msgstr "Ubuntu 完全支持回放自由和非限制格式的音乐、视频和 DVD。一些多媒体格式在某些司法管辖区是由许可证和软件专利限制的。Ubuntu 默认不提供播放这些格式的能力，但是可以非常容易的启用播放大量私有格式的能力。此节将指导您越过对专利和版权限制的考虑，以使用私有文件格式。"
+msgstr "Ubuntu 完全支持播放自由和非限制格式的音乐、视频和 DVD。一些多媒体格式在某些司法管辖区是被许可证和软件专利限制的。Ubuntu 默认不提供播放这些格式的能力，但是可以非常容易的启用播放大量私有格式的能力。此节将指导您越过对专利和版权限制的考虑，以使用私有文件格式。"
 
 #: chapter8/xinclude.xml:43(para)
 msgid "The license of the format is different from the license of the content itself. For example a video's content can be licensed under a Creative Commons license, and be available as MPEG file. While the content can be distributed freely, the format is proprietary and a software for playback may need to be licensed in some jurisdictions."
@@ -748,7 +748,7 @@ msgstr "格式的许可是不同于内容的许可的。例如一个视频的内
 
 #: chapter8/xinclude.xml:49(para)
 msgid "To understand the legal issues associated with the use of proprietary formats, you first need to understand the difference between free and non-free or proprietary formats."
-msgstr "要理解关于使用私有格式的法律问题，您首先需要理解自由和非自由或自由格式间的区别。"
+msgstr "要理解使用私有格式的法律问题，首先需要理解自由和非自由或自由格式间的区别。"
 
 #: chapter8/xinclude.xml:55(title)
 msgid "Playing Music Files"
@@ -979,7 +979,7 @@ msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利、开源
 
 #: chapter8/xinclude.xml:473(para)
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
-msgstr "WAV：WAV 是 Waveform Audio Format(波形音频格式)的缩写。它是一种非压缩格式，通常用于声音和语音记录的短片段。"
+msgstr "WAV：WAV 是 Waveform Audio Format (波形音频格式)的缩写。它是一种非压缩格式，通常用于声音和语音记录的短片段。"
 
 #: chapter8/xinclude.xml:449(para)
 msgid "Sound Juicer is the default application available in Ubuntu for playing and extracting audio compact discs (CDs). It is an easy-to-use CD player and ripping tool that requires minimal user intervention in playing and extracting audio CDs. Using Sound Juicer, you can play audio tracks directly from the CD and extract audio tracks and convert them into audio files. Sound Juicer allows you to extract audio files into the following three formats: <placeholder-1/>"
@@ -1023,7 +1023,7 @@ msgstr "要顺序的播放所有曲目，可以简单的点击 <emphasis role=\"
 
 #: chapter8/xinclude.xml:529(para)
 msgid "MusicBrainz.org is a community-maintained online database, which contains data on over 360,000 published albums."
-msgstr "MusicBrainz.org 是一个社区维护的在线数据库，其包含超过 360,000 个发行的专辑的数据。"
+msgstr "MusicBrainz.org 是一个社区维护的在线数据库，其包含超过 360,000 个已发行的专辑的数据。"
 
 #: chapter8/xinclude.xml:534(title)
 msgid "Playing Audio CD"
@@ -1133,7 +1133,7 @@ msgstr "查看复制的曲目"
 #: chapter8/xinclude.xml:738(para)
 #: chapter8/xinclude.xml:3159(para)
 msgid "The CD audio tracks are now copied as audio files on your hard disk. You can listen to these tracks by simply double-clicking them."
-msgstr "CD 音频曲目现在复制为了一个您硬盘上的音频文件。您可以通过简单的双击它们来欣赏这些曲目。"
+msgstr "CD 音频曲目现在复制为了一个硬盘上的音频文件。可以通过简单的双击它们来欣赏这些曲目。"
 
 #: chapter8/xinclude.xml:743(title)
 msgid "The Copied Tracks"
@@ -1145,7 +1145,7 @@ msgstr "刻录音频 CD"
 
 #: chapter8/xinclude.xml:759(para)
 msgid "Besides copying audio tracks from a CD to your computer, Ubuntu also enables you to copy music files from your computer onto a CD or DVD. Brasero is the CD/DVD burner application that comes bundled with Ubuntu, by default. It is an easy-to-use application that also allows CD/DVD data disc creation, CD/DVD copying and burning of existing images to CD/DVD."
-msgstr "除了从 CD 复制音乐曲目到计算机，Ubuntu 也支持允许您从计算机复制音乐文件到光盘。Brasero是 Ubuntu 默认捆绑的光盘刻录程序。它是一个易用的程序，也允许数据光盘创建、光盘复制和刻录已有镜像到光盘。"
+msgstr "除了从 CD 复制音乐曲目到计算机，Ubuntu 也支持允许您从计算机复制音乐文件到光盘。Brasero 是 Ubuntu 默认捆绑的光盘刻录程序。它是一个易用的程序，也允许数据光盘创建、光盘复制和刻录已有镜像到光盘。"
 
 #: chapter8/xinclude.xml:766(title)
 #: chapter8/xinclude.xml:3176(title)
@@ -1163,7 +1163,7 @@ msgstr "启动 Brasero"
 # 怀疑此处原文有错
 #: chapter8/xinclude.xml:786(para)
 msgid "The <emphasis role=\"strong\">Brasero Window</emphasis> displays. Click the <emphasis role=\"strong\">Audio Project</emphasis> button. You will need to navigate to the folder containing the audio tracks you wish to add to the new CD project."
-msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。您将需要导航到包含想要添加到新 CD 项目音频曲目的文件夹。"
+msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。将需要导航到包含想要添加到新 CD 项目音频曲目的文件夹。"
 
 #: chapter8/xinclude.xml:792(title)
 msgid "Starting a new Audio Project"
@@ -1247,7 +1247,7 @@ msgstr "其它程序，如 VLC、MPlayer 和 Xine，不使用 Gstreamer 框架�
 
 #: chapter8/xinclude.xml:938(para)
 msgid "You can use the Synaptic Package Manager, or the Command Line Interface (CLI) to install these multimedia codecs available in the repositories."
-msgstr "您可以使用新立得软件包管理器或者命令行界面(CLI)来安装那些仓库中可用的多媒体解码器。"
+msgstr "可以使用新立得软件包管理器或者命令行界面(CLI)来安装那些仓库中可用的多媒体解码器。"
 
 #: chapter8/xinclude.xml:945(para)
 msgid "Codecs can be installed directly from the Movie Player. When Movie Player recognizes a format it cannot play, it checks if a Gstreamer plugin is available for this format. If it finds one, you can install the codec easily without following the lengthy solution presented below."
@@ -1304,7 +1304,7 @@ msgstr "提交更改"
 #: chapter8/xinclude.xml:1039(para)
 #: chapter8/xinclude.xml:3267(para)
 msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
-msgstr "点击 <emphasis role=\"strong\">Reload</emphasis> 按钮，系统开始检查软件仓库以获取新的、移除的或更新的软件包。"
+msgstr "点击 <emphasis role=\"strong\">Reload</emphasis> 按钮，系统开始检查软件仓库以获取新加入的、移除的或更新了版本的软件包。"
 
 #: chapter8/xinclude.xml:1044(title)
 msgid "Checking Package Information"
@@ -1312,7 +1312,7 @@ msgstr "检查软件包信息"
 
 #: chapter8/xinclude.xml:1055(para)
 msgid "After the Multiverse and Restricted repositories are added in the Ubuntu software sources, you can download and install additional multimedia codecs. To install a software package, you need to first locate the package in the Synaptic Package Manager window. You can either search for a specific software package manually or run a search using the search utility provided in the Synaptic Package Manager. To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>"
-msgstr "Multiverse 和 Restricted 仓库添加到 Ubuntu 软件源之后，您可以下载并安装附加的多媒体解码器。要安装一个软件包，您需要首先在新立得软件包管理器窗口中定位此包。您也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具运行一个搜索。要开始对一个指定包的搜索，点击 click <emphasis role=\"strong\">Search</emphasis>。"
+msgstr "Multiverse 和 Restricted 仓库添加到 Ubuntu 软件源之后，就可以下载并安装附加的多媒体解码器。要安装一个软件包，首先需要在新立得软件包管理器窗口中定位此包。也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具执行搜索。要开始对特定包的搜索，点击 <emphasis role=\"strong\">搜索</emphasis>。"
 
 #: chapter8/xinclude.xml:1064(title)
 msgid "Initiating Software Search"
@@ -1321,7 +1321,7 @@ msgstr "开始软件搜索"
 #: chapter8/xinclude.xml:1075(para)
 #: chapter8/xinclude.xml:3282(para)
 msgid "In the <emphasis role=\"strong\">Search</emphasis> field, enter the name of the software package that you are looking for. Click <emphasis role=\"strong\">Search</emphasis> to begin the search."
-msgstr "在 <emphasis role=\"strong\">搜索</emphasis> 域中，输入您要查找的软件包的名字。点击 <emphasis role=\"strong\">查找</emphasis> 开始搜索。"
+msgstr "在 <emphasis role=\"strong\">搜索</emphasis> 域中，输入要查找的软件包的名字。点击 <emphasis role=\"strong\">搜索</emphasis> 开始搜索。"
 
 #: chapter8/xinclude.xml:1080(title)
 msgid "Searching a Software Package"
@@ -1474,7 +1474,7 @@ msgstr "启动录音机(Sound Recorder)"
 
 #: chapter8/xinclude.xml:1368(para)
 msgid "Sound Recorder allows you to record and play .flac, .ogg, and .wav audio files. To start a recording session, you need to select an input device, such as a microphone, phone or line-in, from the <emphasis role=\"strong\">Record from input</emphasis> drop-down list. You can also select the audio quality from the Record as drop-down list."
-msgstr "录音机允许录制 .flac、.ogg 和 .wav 音频文件。要开始录音会话，需要从 <emphasis role=\"strong\">从输入录音</emphasis> 下拉列表中选择输入设备，例如话筒、电话或线路输入。可以从录音下拉列表中选择音频质量。"
+msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。要开始录音会话，需要从 <emphasis role=\"strong\">从输入录音</emphasis> 下拉列表中选择输入设备，例如话筒、电话或线路输入。可以从录音下拉列表中选择音频质量。"
 
 #: chapter8/xinclude.xml:1376(title)
 msgid "Selecting the Input Device"
@@ -1569,7 +1569,7 @@ msgstr "向 Audacity 导入音频文件"
 
 #: chapter8/xinclude.xml:1558(para)
 msgid "Select the audio file that you want to edit and click <emphasis role=\"strong\">Open</emphasis> to open the file in Audacity."
-msgstr "选择要编辑的音频文件并点击 <emphasis role=\"strong\">Open</emphasis> 以在 Audacity 中打开文件。 "
+msgstr "选择要编辑的音频文件并点击 <emphasis role=\"strong\">打开</emphasis> 以在 Audacity 中打开文件。 "
 
 #: chapter8/xinclude.xml:1574(para)
 msgid "The selected audio file opens in the Audacity interface. The audio file is represented as the blue waves in the lower part of the Audacity window. Now you can perform a whole range of tasks on this file.You can cut off some unwanted portion of the imported audio file, insert silence at some point, can add various audio effects on different sections of the file and may even export the file into an altogether different file format."
@@ -1681,7 +1681,7 @@ msgstr "验证编辑效果"
 
 #: chapter8/xinclude.xml:1749(para)
 msgid "After you are satisfied with all the edit effects, you can save the edited audio file. Because the default audio format of Audacity is not readily supported by many applications you should save the file in a more popular audio format, such as Ogg Vorbis or MP3."
-msgstr "对所有编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不容易被很多程序支持，应该以更流行的音频格式保存文件，例如 as Ogg Vorbis 或 MP3。"
+msgstr "对所有编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不容易被很多程序支持，应该以更流行的音频格式保存文件，例如 Ogg Vorbis 或 MP3。"
 
 #: chapter8/xinclude.xml:1755(para)
 msgid "To save the file in a different file format, click <emphasis role=\"strong\">Export</emphasis>."
@@ -1804,7 +1804,7 @@ msgstr "自定义显示设置"
 # 此处菜单条没有翻译
 #: chapter8/xinclude.xml:1945(para)
 msgid "When watching a DVD, you can use the various options provided in the <emphasis role=\"strong\">Go</emphasis> menu to navigate inside the DVD. To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
-msgstr "当您观看 DVD 时，您可以使用在 <emphasis role=\"strong\">Go</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一帧，在 <emphasis role=\"strong\">Go</emphasis> 菜单上，点击 click <emphasis role=\"strong\">Skip Forwards</emphasis>。"
+msgstr "当您观看 DVD 时，您可以使用在 <emphasis role=\"strong\">转到</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一帧，在 <emphasis role=\"strong\">转到</emphasis> 菜单上，点击 <emphasis role=\"strong\">Skip Forwards</emphasis>。"
 
 #: chapter8/xinclude.xml:1951(title)
 msgid "Navigating Inside a DVD"
@@ -1852,7 +1852,7 @@ msgstr "如果您有收集的旧且不容易查找的 DVD，您可能希望备�
 
 #: chapter8/xinclude.xml:2024(para)
 msgid "If the students want to know more about the above applications, advise them to visit the following Web pages: For dvd::rip- <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink> For K9copy- <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink> For HandBrake- <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>."
-msgstr "如果学生想知道关于以上程序的更多信息，建议他们访问如下网页：对 dvd::rip - <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink>  对 K9copy - <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink> 对 HandBrake - <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>。"
+msgstr "如果学生想知道关于以上程序的更多信息，建议他们访问如下网页：对 dvd::rip - <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink>   对 K9copy - <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink>   对 HandBrake - <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>。"
 
 #: chapter8/xinclude.xml:2031(title)
 msgid "Backing up DVDs Using Thoggen"
@@ -1890,9 +1890,10 @@ msgstr "基于 GStreamer 多媒体框架，这使他在未来相当容易地添�
 msgid "Thoggen includes certain key features: <placeholder-1/>"
 msgstr "Thoggen 包含特定关键特性：<placeholder-1/>"
 
+# 还是 beta 吗？
 #: chapter8/xinclude.xml:2073(para)
 msgid "Thoggen is still beta software, but should work fine nevertheless. It is advisable, however, to check the list of known issues at <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>."
-msgstr "Thoggen 仍然是公开测试版(beta)的软件，但是应该可以很好的工作。它是可取的，然而，要查看已知问题列表  <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>。"
+msgstr "Thoggen 仍然是公开测试版(beta)的软件，但是应该可以很好的工作。是值得推荐的，然而，要查看已知问题列表  <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>。"
 
 #: chapter8/xinclude.xml:2078(para)
 msgid "To be able to back up your DVD using Thoggen, you need to first install it. You can easily find this application in the Universe repository of Synaptic Package Manager and install it on your computer."
