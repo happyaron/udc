@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-26 16:32+0800\n"
+"PO-Revision-Date: 2009-12-27 23:04+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -173,7 +173,7 @@ msgstr "分区和启动是一个附加章节并且不是桌面课程的必需部
 
 #: chapter10/Partitioning_and_Booting.xml:17(title)
 msgid "Objectives"
-msgstr "对象"
+msgstr "目标"
 
 #: chapter10/Partitioning_and_Booting.xml:19(para)
 msgid "In this lesson, you will learn:"

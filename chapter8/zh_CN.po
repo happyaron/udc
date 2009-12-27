@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-27 15:52+0800\n"
+"PO-Revision-Date: 2009-12-27 23:03+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -693,7 +693,7 @@ msgstr "播放音乐和视频"
 
 #: chapter8/xinclude.xml:7(title)
 msgid "Objectives"
-msgstr "对象"
+msgstr "目标"
 
 #: chapter8/xinclude.xml:9(para)
 msgid "In this lesson, you will learn to:"
