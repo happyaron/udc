@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-27 00:20+0800\n"
+"PO-Revision-Date: 2009-12-27 08:29+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -876,43 +876,43 @@ msgstr ""
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1073(title)
 msgid "Scanning an Image"
-msgstr ""
+msgstr "扫描图像"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1075(para)
 msgid "You can scan an image by using the scanner interface or the scanning application XSane, which is available in Ubuntu."
-msgstr ""
+msgstr "用户可以通过扫描仪接口扫描图像，或者使用Ubuntu下自带的 XSane 图像扫描器进行。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1079(title)
 msgid "To scan an image by using XSane:"
-msgstr ""
+msgstr "使用XSane扫描图像："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1082(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">XSane Image Scanner</emphasis>. XSane automatically searches for a scanner attached to the computer. After your computer detects the scanner, the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box is displayed."
-msgstr ""
+msgstr "在<emphasis role=\"strong\">应用程序</emphasis>菜单下，单击<emphasis role=\"strong\">图形</emphasis>项下的 <emphasis role=\"strong\">XSane 图像扫描器</emphasis>。XSane 将自动搜索电脑上的扫描仪设备。当检测到扫描仪时，将自动打开<emphasis role=\"strong\">XSane 选项</emphasis>对话框。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1091(para)
 msgid "The <emphasis role=\"strong\">XSane Options</emphasis> dialogue box provides options to modify the default settings of the output. You can specify the number of copies to be scanned, the name of the output file, the output file type, and colour and contrast options. After you specify the properties of the output file, place the object on the scanner and click Scan to begin scanning the object."
-msgstr ""
+msgstr "<emphasis role=\"strong\">XSane 选项</emphasis>对话框中提供了一些选项来修改默认的输出设置。用户可以指定扫描的份数、输出文件名及文件类型，设置色彩和对比度等选项。在指定的输出文件的属性后，将扫描对象放入扫描仪，点击扫描开始扫描对象。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1100(title)
 msgid "Using XSane"
-msgstr ""
+msgstr "XSane的使用"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1112(para)
 msgid "After the object is scanned, a viewer window displays the output."
-msgstr ""
+msgstr "图像扫描完成以后，浏览窗口中将显示其扫描影像。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1116(title)
 msgid "Viewing Scanned Output"
-msgstr ""
+msgstr "查看扫描输出"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1129(para)
 msgid "Before beginning the scanning operation, check the compatibility of your scanner with Ubuntu. Sometimes, Ubuntu detects the scanner as hardware but fails to scan if the required driver is missing."
-msgstr ""
+msgstr "在开始扫描操作之前，请检查您的扫描仪与Ubuntu的的兼容性。有些情况下，即便Ubuntu检测到了扫描仪硬件，但如果没有扫描所需的驱动程序，扫描操作将不能进行。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1137(para)
 msgid "Continue to scan other images or close the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box to exit the application."
-msgstr ""
+msgstr "继续扫描其他图像或关闭<emphasis role=\"strong\">XSane选项</emphasis>对话框，退出应用程序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1146(title)
 msgid "Lesson Summary"
