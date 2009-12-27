@@ -6,14 +6,14 @@
 # Changes:
 #    1) Network Manager section need to be rewrite.
 #    2) Pidgin had been changed to Empathy.
-#  
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-26 16:26+0800\n"
-"PO-Revision-Date: 2009-12-26 17:05+0800\n"
-"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+"PO-Revision-Date: 2009-12-27 16:12+0800\n"
+"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,592 +22,356 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:97(None)
-msgid ""
-"@@image: 'images/Lesson04_images_001.png'; "
-"md5=d4b9be193d949947c9167b9a1540708c"
-msgstr ""
-"@@image: 'images/Lesson04_images_001.png'; "
-"md5=d4b9be193d949947c9167b9a1540708c"
+msgid "@@image: 'images/Lesson04_images_001.png'; md5=d4b9be193d949947c9167b9a1540708c"
+msgstr "@@image: 'images/Lesson04_images_001.png'; md5=d4b9be193d949947c9167b9a1540708c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:111(None)
-msgid ""
-"@@image: 'images/Lesson04_images_002.png'; "
-"md5=40caf7d7cf7b1e74d91fe31b65985314"
-msgstr ""
-"@@image: 'images/Lesson04_images_002.png'; "
-"md5=40caf7d7cf7b1e74d91fe31b65985314"
+msgid "@@image: 'images/Lesson04_images_002.png'; md5=40caf7d7cf7b1e74d91fe31b65985314"
+msgstr "@@image: 'images/Lesson04_images_002.png'; md5=40caf7d7cf7b1e74d91fe31b65985314"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:137(None)
-msgid ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
-msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+msgid "@@image: 'images/Lesson04_images_003.png'; md5=d8a423aec2107af7167da362700dfdf4"
+msgstr "@@image: 'images/Lesson04_images_003.png'; md5=d8a423aec2107af7167da362700dfdf4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:152(None)
-msgid ""
-"@@image: 'images/Lesson04_images_004.png'; "
-"md5=d8750abf1bde2b7adfbb50d527786646"
-msgstr ""
-"@@image: 'images/Lesson04_images_004.png'; "
-"md5=d8750abf1bde2b7adfbb50d527786646"
+msgid "@@image: 'images/Lesson04_images_004.png'; md5=d8750abf1bde2b7adfbb50d527786646"
+msgstr "@@image: 'images/Lesson04_images_004.png'; md5=d8750abf1bde2b7adfbb50d527786646"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:206(None)
-msgid ""
-"@@image: 'images/Lesson04_images_005.png'; "
-"md5=f90ddad622b7e1d9d450f84d37ba2691"
-msgstr ""
-"@@image: 'images/Lesson04_images_005.png'; "
-"md5=f90ddad622b7e1d9d450f84d37ba2691"
+msgid "@@image: 'images/Lesson04_images_005.png'; md5=f90ddad622b7e1d9d450f84d37ba2691"
+msgstr "@@image: 'images/Lesson04_images_005.png'; md5=f90ddad622b7e1d9d450f84d37ba2691"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:223(None)
-msgid ""
-"@@image: 'images/Lesson04_images_006.png'; "
-"md5=0c4ef52c58192df4a48f401fe4a9a800"
-msgstr ""
-"@@image: 'images/Lesson04_images_006.png'; "
-"md5=0c4ef52c58192df4a48f401fe4a9a800"
+msgid "@@image: 'images/Lesson04_images_006.png'; md5=0c4ef52c58192df4a48f401fe4a9a800"
+msgstr "@@image: 'images/Lesson04_images_006.png'; md5=0c4ef52c58192df4a48f401fe4a9a800"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:264(None)
-msgid ""
-"@@image: 'images/Lesson04_images_007.png'; "
-"md5=5fd75fdd4c45f196694b1a886cdb449f"
-msgstr ""
-"@@image: 'images/Lesson04_images_007.png'; "
-"md5=5fd75fdd4c45f196694b1a886cdb449f"
+msgid "@@image: 'images/Lesson04_images_007.png'; md5=5fd75fdd4c45f196694b1a886cdb449f"
+msgstr "@@image: 'images/Lesson04_images_007.png'; md5=5fd75fdd4c45f196694b1a886cdb449f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:349(None)
-msgid ""
-"@@image: 'images/Lesson04_images_009.png'; "
-"md5=bdd3d023838ec3db87180769e12a24ac"
-msgstr ""
-"@@image: 'images/Lesson04_images_009.png'; "
-"md5=bdd3d023838ec3db87180769e12a24ac"
+msgid "@@image: 'images/Lesson04_images_009.png'; md5=bdd3d023838ec3db87180769e12a24ac"
+msgstr "@@image: 'images/Lesson04_images_009.png'; md5=bdd3d023838ec3db87180769e12a24ac"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:418(None)
-msgid ""
-"@@image: 'images/Lesson04_images_010.png'; "
-"md5=3bb983caea9be44ab613cecff92574c6"
-msgstr ""
-"@@image: 'images/Lesson04_images_010.png'; "
-"md5=3bb983caea9be44ab613cecff92574c6"
+msgid "@@image: 'images/Lesson04_images_010.png'; md5=3bb983caea9be44ab613cecff92574c6"
+msgstr "@@image: 'images/Lesson04_images_010.png'; md5=3bb983caea9be44ab613cecff92574c6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:455(None)
-msgid ""
-"@@image: 'images/Lesson04_images_011.png'; "
-"md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
-msgstr ""
-"@@image: 'images/Lesson04_images_011.png'; "
-"md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
+msgid "@@image: 'images/Lesson04_images_011.png'; md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
+msgstr "@@image: 'images/Lesson04_images_011.png'; md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:486(None)
-msgid ""
-"@@image: 'images/Lesson04_images_012.png'; "
-"md5=eab8ec9a280b3b21e7a505051361f842"
-msgstr ""
-"@@image: 'images/Lesson04_images_012.png'; "
-"md5=eab8ec9a280b3b21e7a505051361f842"
+msgid "@@image: 'images/Lesson04_images_012.png'; md5=eab8ec9a280b3b21e7a505051361f842"
+msgstr "@@image: 'images/Lesson04_images_012.png'; md5=eab8ec9a280b3b21e7a505051361f842"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:514(None)
-msgid ""
-"@@image: 'images/Lesson04_images_013.png'; "
-"md5=bebf42a7ceaf3b6b015e7fdf60426267"
-msgstr ""
-"@@image: 'images/Lesson04_images_013.png'; "
-"md5=bebf42a7ceaf3b6b015e7fdf60426267"
+msgid "@@image: 'images/Lesson04_images_013.png'; md5=bebf42a7ceaf3b6b015e7fdf60426267"
+msgstr "@@image: 'images/Lesson04_images_013.png'; md5=bebf42a7ceaf3b6b015e7fdf60426267"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:591(None)
-msgid ""
-"@@image: 'images/Lesson04_images_017.png'; "
-"md5=b98f0f92235e06e4b06fc2f5e13836c3"
-msgstr ""
-"@@image: 'images/Lesson04_images_017.png'; "
-"md5=b98f0f92235e06e4b06fc2f5e13836c3"
+msgid "@@image: 'images/Lesson04_images_017.png'; md5=b98f0f92235e06e4b06fc2f5e13836c3"
+msgstr "@@image: 'images/Lesson04_images_017.png'; md5=b98f0f92235e06e4b06fc2f5e13836c3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:617(None)
-msgid ""
-"@@image: 'images/Lesson04_images_018.png'; "
-"md5=d0435acbbbff7c9bf70095223f12b622"
-msgstr ""
-"@@image: 'images/Lesson04_images_018.png'; "
-"md5=d0435acbbbff7c9bf70095223f12b622"
+msgid "@@image: 'images/Lesson04_images_018.png'; md5=d0435acbbbff7c9bf70095223f12b622"
+msgstr "@@image: 'images/Lesson04_images_018.png'; md5=d0435acbbbff7c9bf70095223f12b622"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:633(None)
-msgid ""
-"@@image: 'images/Lesson04_images_019.png'; "
-"md5=4e14a40f1f3403faeb3994e799262a90"
-msgstr ""
-"@@image: 'images/Lesson04_images_019.png'; "
-"md5=4e14a40f1f3403faeb3994e799262a90"
+msgid "@@image: 'images/Lesson04_images_019.png'; md5=4e14a40f1f3403faeb3994e799262a90"
+msgstr "@@image: 'images/Lesson04_images_019.png'; md5=4e14a40f1f3403faeb3994e799262a90"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:647(None)
-msgid ""
-"@@image: 'images/Lesson04_images_020.png'; "
-"md5=4949755a8bfc1cb6ce020f2354177a51"
-msgstr ""
-"@@image: 'images/Lesson04_images_020.png'; "
-"md5=4949755a8bfc1cb6ce020f2354177a51"
+msgid "@@image: 'images/Lesson04_images_020.png'; md5=4949755a8bfc1cb6ce020f2354177a51"
+msgstr "@@image: 'images/Lesson04_images_020.png'; md5=4949755a8bfc1cb6ce020f2354177a51"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:663(None)
-msgid ""
-"@@image: 'images/Lesson04_images_021.png'; "
-"md5=b782b7eeec4a4ff553b265befa41e57b"
-msgstr ""
-"@@image: 'images/Lesson04_images_021.png'; "
-"md5=b782b7eeec4a4ff553b265befa41e57b"
+msgid "@@image: 'images/Lesson04_images_021.png'; md5=b782b7eeec4a4ff553b265befa41e57b"
+msgstr "@@image: 'images/Lesson04_images_021.png'; md5=b782b7eeec4a4ff553b265befa41e57b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:679(None)
-msgid ""
-"@@image: 'images/Lesson04_images_022.png'; "
-"md5=91dfbb6b2a086a36221e81498a8e8581"
-msgstr ""
-"@@image: 'images/Lesson04_images_022.png'; "
-"md5=91dfbb6b2a086a36221e81498a8e8581"
+msgid "@@image: 'images/Lesson04_images_022.png'; md5=91dfbb6b2a086a36221e81498a8e8581"
+msgstr "@@image: 'images/Lesson04_images_022.png'; md5=91dfbb6b2a086a36221e81498a8e8581"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:691(None)
-msgid ""
-"@@image: 'images/Lesson04_images_023.png'; "
-"md5=8d682e3cb2b6e2c64de99206536e8a53"
-msgstr ""
-"@@image: 'images/Lesson04_images_023.png'; "
-"md5=8d682e3cb2b6e2c64de99206536e8a53"
+msgid "@@image: 'images/Lesson04_images_023.png'; md5=8d682e3cb2b6e2c64de99206536e8a53"
+msgstr "@@image: 'images/Lesson04_images_023.png'; md5=8d682e3cb2b6e2c64de99206536e8a53"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:761(None)
-msgid ""
-"@@image: 'images/Lesson04_images_033.png'; "
-"md5=03de1f5df797949eccb8f8eff28ac818"
-msgstr ""
-"@@image: 'images/Lesson04_images_033.png'; "
-"md5=03de1f5df797949eccb8f8eff28ac818"
+msgid "@@image: 'images/Lesson04_images_033.png'; md5=03de1f5df797949eccb8f8eff28ac818"
+msgstr "@@image: 'images/Lesson04_images_033.png'; md5=03de1f5df797949eccb8f8eff28ac818"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:787(None)
-msgid ""
-"@@image: 'images/Lesson04_images_034.png'; "
-"md5=437a2cddd755d263e8aec6aabb8de2d4"
-msgstr ""
-"@@image: 'images/Lesson04_images_034.png'; "
-"md5=437a2cddd755d263e8aec6aabb8de2d4"
+msgid "@@image: 'images/Lesson04_images_034.png'; md5=437a2cddd755d263e8aec6aabb8de2d4"
+msgstr "@@image: 'images/Lesson04_images_034.png'; md5=437a2cddd755d263e8aec6aabb8de2d4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:806(None)
-msgid ""
-"@@image: 'images/Lesson04_images_035.png'; "
-"md5=3345b54e883daebe553840e9cfe39a76"
-msgstr ""
-"@@image: 'images/Lesson04_images_035.png'; "
-"md5=3345b54e883daebe553840e9cfe39a76"
+msgid "@@image: 'images/Lesson04_images_035.png'; md5=3345b54e883daebe553840e9cfe39a76"
+msgstr "@@image: 'images/Lesson04_images_035.png'; md5=3345b54e883daebe553840e9cfe39a76"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:825(None)
-msgid ""
-"@@image: 'images/Lesson04_images_036.png'; "
-"md5=dfb83b07bce60222f1c1394d63742a18"
-msgstr ""
-"@@image: 'images/Lesson04_images_036.png'; "
-"md5=dfb83b07bce60222f1c1394d63742a18"
+msgid "@@image: 'images/Lesson04_images_036.png'; md5=dfb83b07bce60222f1c1394d63742a18"
+msgstr "@@image: 'images/Lesson04_images_036.png'; md5=dfb83b07bce60222f1c1394d63742a18"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:853(None)
-msgid ""
-"@@image: 'images/Lesson04_images_037.png'; "
-"md5=97ec38036bb8f12dd506c17f1e7e2280"
-msgstr ""
-"@@image: 'images/Lesson04_images_037.png'; "
-"md5=97ec38036bb8f12dd506c17f1e7e2280"
+msgid "@@image: 'images/Lesson04_images_037.png'; md5=97ec38036bb8f12dd506c17f1e7e2280"
+msgstr "@@image: 'images/Lesson04_images_037.png'; md5=97ec38036bb8f12dd506c17f1e7e2280"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:922(None)
-msgid ""
-"@@image: 'images/Lesson04_images_038.png'; "
-"md5=5f47a11060c391c25d36e4b2ed5dce1f"
-msgstr ""
-"@@image: 'images/Lesson04_images_038.png'; "
-"md5=5f47a11060c391c25d36e4b2ed5dce1f"
+msgid "@@image: 'images/Lesson04_images_038.png'; md5=5f47a11060c391c25d36e4b2ed5dce1f"
+msgstr "@@image: 'images/Lesson04_images_038.png'; md5=5f47a11060c391c25d36e4b2ed5dce1f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:964(None)
-msgid ""
-"@@image: 'images/Lesson04_images_039.png'; "
-"md5=a6d421f12ddf48a6ee0cfa08d8458f73"
-msgstr ""
-"@@image: 'images/Lesson04_images_039.png'; "
-"md5=a6d421f12ddf48a6ee0cfa08d8458f73"
+msgid "@@image: 'images/Lesson04_images_039.png'; md5=a6d421f12ddf48a6ee0cfa08d8458f73"
+msgstr "@@image: 'images/Lesson04_images_039.png'; md5=a6d421f12ddf48a6ee0cfa08d8458f73"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:993(None)
-msgid ""
-"@@image: 'images/Lesson04_images_040.png'; "
-"md5=2fd83aed2e712e85d8e644fbfe03b004"
-msgstr ""
-"@@image: 'images/Lesson04_images_040.png'; "
-"md5=2fd83aed2e712e85d8e644fbfe03b004"
+msgid "@@image: 'images/Lesson04_images_040.png'; md5=2fd83aed2e712e85d8e644fbfe03b004"
+msgstr "@@image: 'images/Lesson04_images_040.png'; md5=2fd83aed2e712e85d8e644fbfe03b004"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1042(None)
-msgid ""
-"@@image: 'images/Lesson04_images_041.png'; "
-"md5=28c66d356d722d70bddd790e4b3a5405"
-msgstr ""
-"@@image: 'images/Lesson04_images_041.png'; "
-"md5=28c66d356d722d70bddd790e4b3a5405"
+msgid "@@image: 'images/Lesson04_images_041.png'; md5=28c66d356d722d70bddd790e4b3a5405"
+msgstr "@@image: 'images/Lesson04_images_041.png'; md5=28c66d356d722d70bddd790e4b3a5405"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1058(None)
-msgid ""
-"@@image: 'images/Lesson04_images_042.png'; "
-"md5=c98e352cb573bc4baf00b6cbcd47c122"
-msgstr ""
-"@@image: 'images/Lesson04_images_042.png'; "
-"md5=c98e352cb573bc4baf00b6cbcd47c122"
+msgid "@@image: 'images/Lesson04_images_042.png'; md5=c98e352cb573bc4baf00b6cbcd47c122"
+msgstr "@@image: 'images/Lesson04_images_042.png'; md5=c98e352cb573bc4baf00b6cbcd47c122"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1073(None)
-msgid ""
-"@@image: 'images/Lesson04_images_043.png'; "
-"md5=ae0f9ea99f7e34c777bf523e69511a73"
-msgstr ""
-"@@image: 'images/Lesson04_images_043.png'; "
-"md5=ae0f9ea99f7e34c777bf523e69511a73"
+msgid "@@image: 'images/Lesson04_images_043.png'; md5=ae0f9ea99f7e34c777bf523e69511a73"
+msgstr "@@image: 'images/Lesson04_images_043.png'; md5=ae0f9ea99f7e34c777bf523e69511a73"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1127(None)
-msgid ""
-"@@image: 'images/Lesson04_images_044.png'; "
-"md5=84b66e8bb82b84532673d9ec301f8ce5"
-msgstr ""
-"@@image: 'images/Lesson04_images_044.png'; "
-"md5=84b66e8bb82b84532673d9ec301f8ce5"
+msgid "@@image: 'images/Lesson04_images_044.png'; md5=84b66e8bb82b84532673d9ec301f8ce5"
+msgstr "@@image: 'images/Lesson04_images_044.png'; md5=84b66e8bb82b84532673d9ec301f8ce5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1165(None)
-msgid ""
-"@@image: 'images/Lesson04_images_045.png'; "
-"md5=83a998f5092dbff5801950cb4e65bc06"
-msgstr ""
-"@@image: 'images/Lesson04_images_045.png'; "
-"md5=83a998f5092dbff5801950cb4e65bc06"
+msgid "@@image: 'images/Lesson04_images_045.png'; md5=83a998f5092dbff5801950cb4e65bc06"
+msgstr "@@image: 'images/Lesson04_images_045.png'; md5=83a998f5092dbff5801950cb4e65bc06"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1188(None)
-msgid ""
-"@@image: 'images/Lesson04_images_046.png'; "
-"md5=f4eed7931ec8afd949fa4ea1316c6d99"
-msgstr ""
-"@@image: 'images/Lesson04_images_046.png'; "
-"md5=f4eed7931ec8afd949fa4ea1316c6d99"
+msgid "@@image: 'images/Lesson04_images_046.png'; md5=f4eed7931ec8afd949fa4ea1316c6d99"
+msgstr "@@image: 'images/Lesson04_images_046.png'; md5=f4eed7931ec8afd949fa4ea1316c6d99"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1210(None)
-msgid ""
-"@@image: 'images/Lesson04_images_047.png'; "
-"md5=f9fe38e518e0dfc822d90b576a1aaf94"
-msgstr ""
-"@@image: 'images/Lesson04_images_047.png'; "
-"md5=f9fe38e518e0dfc822d90b576a1aaf94"
+msgid "@@image: 'images/Lesson04_images_047.png'; md5=f9fe38e518e0dfc822d90b576a1aaf94"
+msgstr "@@image: 'images/Lesson04_images_047.png'; md5=f9fe38e518e0dfc822d90b576a1aaf94"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1234(None)
-msgid ""
-"@@image: 'images/Lesson04_images_048.png'; "
-"md5=bad4d554f3eb6a0aec058e512e65aefe"
-msgstr ""
-"@@image: 'images/Lesson04_images_048.png'; "
-"md5=bad4d554f3eb6a0aec058e512e65aefe"
+msgid "@@image: 'images/Lesson04_images_048.png'; md5=bad4d554f3eb6a0aec058e512e65aefe"
+msgstr "@@image: 'images/Lesson04_images_048.png'; md5=bad4d554f3eb6a0aec058e512e65aefe"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1244(None)
-msgid ""
-"@@image: 'images/Lesson04_images_049.png'; "
-"md5=e05337e94949d316e7d33f04e8fdc7ef"
-msgstr ""
-"@@image: 'images/Lesson04_images_049.png'; "
-"md5=e05337e94949d316e7d33f04e8fdc7ef"
+msgid "@@image: 'images/Lesson04_images_049.png'; md5=e05337e94949d316e7d33f04e8fdc7ef"
+msgstr "@@image: 'images/Lesson04_images_049.png'; md5=e05337e94949d316e7d33f04e8fdc7ef"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1277(None)
-msgid ""
-"@@image: 'images/Lesson04_images_050.png'; "
-"md5=8167fd7d3643de94c0e796864c1166c7"
-msgstr ""
-"@@image: 'images/Lesson04_images_050.png'; "
-"md5=8167fd7d3643de94c0e796864c1166c7"
+msgid "@@image: 'images/Lesson04_images_050.png'; md5=8167fd7d3643de94c0e796864c1166c7"
+msgstr "@@image: 'images/Lesson04_images_050.png'; md5=8167fd7d3643de94c0e796864c1166c7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1314(None)
-msgid ""
-"@@image: 'images/Lesson04_images_051.png'; "
-"md5=3f28b42dd1fa02530ec17a348dd4a364"
-msgstr ""
-"@@image: 'images/Lesson04_images_051.png'; "
-"md5=3f28b42dd1fa02530ec17a348dd4a364"
+msgid "@@image: 'images/Lesson04_images_051.png'; md5=3f28b42dd1fa02530ec17a348dd4a364"
+msgstr "@@image: 'images/Lesson04_images_051.png'; md5=3f28b42dd1fa02530ec17a348dd4a364"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1332(None)
-msgid ""
-"@@image: 'images/Lesson04_images_052.png'; "
-"md5=fd2495b8d232ac53a24a0a7caf3879b4"
-msgstr ""
-"@@image: 'images/Lesson04_images_052.png'; "
-"md5=fd2495b8d232ac53a24a0a7caf3879b4"
+msgid "@@image: 'images/Lesson04_images_052.png'; md5=fd2495b8d232ac53a24a0a7caf3879b4"
+msgstr "@@image: 'images/Lesson04_images_052.png'; md5=fd2495b8d232ac53a24a0a7caf3879b4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1374(None)
-msgid ""
-"@@image: 'images/Lesson04_images_053.png'; "
-"md5=bbbddd956b3a2f0425e4232d843ee689"
-msgstr ""
-"@@image: 'images/Lesson04_images_053.png'; "
-"md5=bbbddd956b3a2f0425e4232d843ee689"
+msgid "@@image: 'images/Lesson04_images_053.png'; md5=bbbddd956b3a2f0425e4232d843ee689"
+msgstr "@@image: 'images/Lesson04_images_053.png'; md5=bbbddd956b3a2f0425e4232d843ee689"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1446(None)
-msgid ""
-"@@image: 'images/Lesson04_images_054.png'; "
-"md5=5eaf0d79120309afd3d6b747ce225a47"
-msgstr ""
-"@@image: 'images/Lesson04_images_054.png'; "
-"md5=5eaf0d79120309afd3d6b747ce225a47"
+msgid "@@image: 'images/Lesson04_images_054.png'; md5=5eaf0d79120309afd3d6b747ce225a47"
+msgstr "@@image: 'images/Lesson04_images_054.png'; md5=5eaf0d79120309afd3d6b747ce225a47"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1462(None)
-msgid ""
-"@@image: 'images/Lesson04_images_055.png'; "
-"md5=2ef5c7beec99566c262fa20e47c9b6b1"
-msgstr ""
-"@@image: 'images/Lesson04_images_055.png'; "
-"md5=2ef5c7beec99566c262fa20e47c9b6b1"
+msgid "@@image: 'images/Lesson04_images_055.png'; md5=2ef5c7beec99566c262fa20e47c9b6b1"
+msgstr "@@image: 'images/Lesson04_images_055.png'; md5=2ef5c7beec99566c262fa20e47c9b6b1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1483(None)
-msgid ""
-"@@image: 'images/Lesson04_images_056.png'; "
-"md5=439085aa024594823dc364c42985bc55"
-msgstr ""
-"@@image: 'images/Lesson04_images_056.png'; "
-"md5=439085aa024594823dc364c42985bc55"
+msgid "@@image: 'images/Lesson04_images_056.png'; md5=439085aa024594823dc364c42985bc55"
+msgstr "@@image: 'images/Lesson04_images_056.png'; md5=439085aa024594823dc364c42985bc55"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1498(None)
-msgid ""
-"@@image: 'images/Lesson04_images_057.png'; "
-"md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
-msgstr ""
-"@@image: 'images/Lesson04_images_057.png'; "
-"md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
+msgid "@@image: 'images/Lesson04_images_057.png'; md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
+msgstr "@@image: 'images/Lesson04_images_057.png'; md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1521(None)
-msgid ""
-"@@image: 'images/Lesson04_images_058.png'; "
-"md5=095e9d1a3bceb3597b6e23015c596dfa"
-msgstr ""
-"@@image: 'images/Lesson04_images_058.png'; "
-"md5=095e9d1a3bceb3597b6e23015c596dfa"
+msgid "@@image: 'images/Lesson04_images_058.png'; md5=095e9d1a3bceb3597b6e23015c596dfa"
+msgstr "@@image: 'images/Lesson04_images_058.png'; md5=095e9d1a3bceb3597b6e23015c596dfa"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1536(None)
-msgid ""
-"@@image: 'images/Lesson04_images_059.png'; "
-"md5=6448c43e3f7ef377d62dafad0aef2747"
-msgstr ""
-"@@image: 'images/Lesson04_images_059.png'; "
-"md5=6448c43e3f7ef377d62dafad0aef2747"
+msgid "@@image: 'images/Lesson04_images_059.png'; md5=6448c43e3f7ef377d62dafad0aef2747"
+msgstr "@@image: 'images/Lesson04_images_059.png'; md5=6448c43e3f7ef377d62dafad0aef2747"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1551(None)
-msgid ""
-"@@image: 'images/Lesson04_images_060.png'; "
-"md5=dc360984d5ed52de008cb8b70caa0690"
-msgstr ""
-"@@image: 'images/Lesson04_images_060.png'; "
-"md5=dc360984d5ed52de008cb8b70caa0690"
+msgid "@@image: 'images/Lesson04_images_060.png'; md5=dc360984d5ed52de008cb8b70caa0690"
+msgstr "@@image: 'images/Lesson04_images_060.png'; md5=dc360984d5ed52de008cb8b70caa0690"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1567(None)
-msgid ""
-"@@image: 'images/Lesson04_images_061.png'; "
-"md5=664bdf46e036d5cdba337719e3c0a094"
-msgstr ""
-"@@image: 'images/Lesson04_images_061.png'; "
-"md5=664bdf46e036d5cdba337719e3c0a094"
+msgid "@@image: 'images/Lesson04_images_061.png'; md5=664bdf46e036d5cdba337719e3c0a094"
+msgstr "@@image: 'images/Lesson04_images_061.png'; md5=664bdf46e036d5cdba337719e3c0a094"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1646(None)
-msgid ""
-"@@image: 'images/Lesson04_images_062.png'; "
-"md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
-msgstr ""
-"@@image: 'images/Lesson04_images_062.png'; "
-"md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
+msgid "@@image: 'images/Lesson04_images_062.png'; md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
+msgstr "@@image: 'images/Lesson04_images_062.png'; md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1664(None)
-msgid ""
-"@@image: 'images/Lesson04_images_063.png'; "
-"md5=5d22807688590b901e792f2ab5e0c30b"
-msgstr ""
-"@@image: 'images/Lesson04_images_063.png'; "
-"md5=5d22807688590b901e792f2ab5e0c30b"
+msgid "@@image: 'images/Lesson04_images_063.png'; md5=5d22807688590b901e792f2ab5e0c30b"
+msgstr "@@image: 'images/Lesson04_images_063.png'; md5=5d22807688590b901e792f2ab5e0c30b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1681(None)
-msgid ""
-"@@image: 'images/Lesson04_images_064.png'; "
-"md5=45f2616f137fb9560478644e2abb4684"
-msgstr ""
-"@@image: 'images/Lesson04_images_064.png'; "
-"md5=45f2616f137fb9560478644e2abb4684"
+msgid "@@image: 'images/Lesson04_images_064.png'; md5=45f2616f137fb9560478644e2abb4684"
+msgstr "@@image: 'images/Lesson04_images_064.png'; md5=45f2616f137fb9560478644e2abb4684"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1710(None)
-msgid ""
-"@@image: 'images/Lesson04_images_065.png'; "
-"md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
-msgstr ""
-"@@image: 'images/Lesson04_images_065.png'; "
-"md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
+msgid "@@image: 'images/Lesson04_images_065.png'; md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
+msgstr "@@image: 'images/Lesson04_images_065.png'; md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1729(None)
-msgid ""
-"@@image: 'images/Lesson04_images_066.png'; "
-"md5=df75e0a436644f427d999d8c74dbb2cd"
-msgstr ""
-"@@image: 'images/Lesson04_images_066.png'; "
-"md5=df75e0a436644f427d999d8c74dbb2cd"
+msgid "@@image: 'images/Lesson04_images_066.png'; md5=df75e0a436644f427d999d8c74dbb2cd"
+msgstr "@@image: 'images/Lesson04_images_066.png'; md5=df75e0a436644f427d999d8c74dbb2cd"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1756(None)
-msgid ""
-"@@image: 'images/Lesson04_images_067.png'; "
-"md5=e513272161d7a6fb819abe906f1f5301"
-msgstr ""
-"@@image: 'images/Lesson04_images_067.png'; "
-"md5=e513272161d7a6fb819abe906f1f5301"
+msgid "@@image: 'images/Lesson04_images_067.png'; md5=e513272161d7a6fb819abe906f1f5301"
+msgstr "@@image: 'images/Lesson04_images_067.png'; md5=e513272161d7a6fb819abe906f1f5301"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1776(None)
-msgid ""
-"@@image: 'images/Lesson04_images_068.png'; "
-"md5=23abfd38e1d159df3d6ebc2a45d96ec1"
-msgstr ""
-"@@image: 'images/Lesson04_images_068.png'; "
-"md5=23abfd38e1d159df3d6ebc2a45d96ec1"
+msgid "@@image: 'images/Lesson04_images_068.png'; md5=23abfd38e1d159df3d6ebc2a45d96ec1"
+msgstr "@@image: 'images/Lesson04_images_068.png'; md5=23abfd38e1d159df3d6ebc2a45d96ec1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1793(None)
-msgid ""
-"@@image: 'images/Lesson04_images_069.png'; "
-"md5=010459f31582a90ff71b5afb0b8063aa"
-msgstr ""
-"@@image: 'images/Lesson04_images_069.png'; "
-"md5=010459f31582a90ff71b5afb0b8063aa"
+msgid "@@image: 'images/Lesson04_images_069.png'; md5=010459f31582a90ff71b5afb0b8063aa"
+msgstr "@@image: 'images/Lesson04_images_069.png'; md5=010459f31582a90ff71b5afb0b8063aa"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1815(None)
-msgid ""
-"@@image: 'images/Lesson04_images_070.png'; "
-"md5=862522513b8247e4235c207e12c8ccba"
-msgstr ""
-"@@image: 'images/Lesson04_images_070.png'; "
-"md5=862522513b8247e4235c207e12c8ccba"
+msgid "@@image: 'images/Lesson04_images_070.png'; md5=862522513b8247e4235c207e12c8ccba"
+msgstr "@@image: 'images/Lesson04_images_070.png'; md5=862522513b8247e4235c207e12c8ccba"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1834(None)
-msgid ""
-"@@image: 'images/Lesson04_images_071.png'; "
-"md5=99d450295998789380b6f9f5bec71603"
-msgstr ""
-"@@image: 'images/Lesson04_images_071.png'; "
-"md5=99d450295998789380b6f9f5bec71603"
+msgid "@@image: 'images/Lesson04_images_071.png'; md5=99d450295998789380b6f9f5bec71603"
+msgstr "@@image: 'images/Lesson04_images_071.png'; md5=99d450295998789380b6f9f5bec71603"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1863(None)
-msgid ""
-"@@image: 'images/Lesson04_images_072.png'; "
-"md5=9830493cbd724855b623f26c3c2b9089"
-msgstr ""
-"@@image: 'images/Lesson04_images_072.png'; "
-"md5=9830493cbd724855b623f26c3c2b9089"
+msgid "@@image: 'images/Lesson04_images_072.png'; md5=9830493cbd724855b623f26c3c2b9089"
+msgstr "@@image: 'images/Lesson04_images_072.png'; md5=9830493cbd724855b623f26c3c2b9089"
 
 #: chapter3/xinclude.xml:4(title)
 msgid "Using the Internet"
@@ -645,121 +409,58 @@ msgstr "使用各种即时通讯工具"
 msgid "Make phone calls using Softphones"
 msgstr "使用软电话打电话"
 
-#: chapter3/xinclude.xml:37(title) chapter3/xinclude.xml:431(title)
-#: chapter3/xinclude.xml:465(title) chapter3/xinclude.xml:567(title)
-#: chapter3/xinclude.xml:723(title) chapter3/xinclude.xml:741(title)
+#: chapter3/xinclude.xml:37(title)
+#: chapter3/xinclude.xml:431(title)
+#: chapter3/xinclude.xml:465(title)
+#: chapter3/xinclude.xml:567(title)
+#: chapter3/xinclude.xml:723(title)
+#: chapter3/xinclude.xml:741(title)
 msgid "Instructor Notes:"
 msgstr "教师附注："
 
 #: chapter3/xinclude.xml:39(para)
-msgid ""
-"It is recommended to cover all the topics in this lesson. However, if you "
-"are running short on time, you can omit the following optional topics: Using "
-"Dial-up, Alternative E-mail Client."
-msgstr ""
-"推荐完整地学习本课程里所有的话题。不过，如果您时间有限，可以省略以下可选的话"
-"题：使用拨号终端，可选的 E-mail 客户端。"
+msgid "It is recommended to cover all the topics in this lesson. However, if you are running short on time, you can omit the following optional topics: Using Dial-up, Alternative E-mail Client."
+msgstr "推荐完整地学习本课程里所有的话题。不过，如果您时间有限，可以省略以下可选的话题：使用拨号终端，可选的 E-mail 客户端。"
 
 #: chapter3/xinclude.xml:45(title)
 msgid "Connecting to and Using the Internet"
 msgstr "连接和使用互联网"
 
 #: chapter3/xinclude.xml:47(para)
-msgid ""
-"The Internet is used by millions of people daily for work and entertainment. "
-"Searching for information all over the world, corresponding with friends and "
-"relatives, participating in discussion forums, reading the news, playing "
-"games, has never been easier... or more accessible."
-msgstr ""
-"每天，成千上万的人在互联网上工作和娱乐。在世界范围内搜索信息、与亲戚和朋友保"
-"持联系、参与论坛讨论、阅读新闻、玩游戏，一切从未如此简单方便。"
+msgid "The Internet is used by millions of people daily for work and entertainment. Searching for information all over the world, corresponding with friends and relatives, participating in discussion forums, reading the news, playing games, has never been easier... or more accessible."
+msgstr "每天，成千上万的人在互联网上工作和娱乐。在世界范围内搜索信息、与亲戚和朋友保持联系、参与论坛讨论、阅读新闻、玩游戏，一切从未如此简单方便。"
 
 #: chapter3/xinclude.xml:53(para)
-msgid ""
-"The means of connecting to the Internet is not always a choice and depends "
-"greatly on where you live and/or work and the surrounding infrastructure. "
-"The pre-requisites to connect to the Internet are an Internet Service "
-"Provider (ISP) subscription and a functional Internet connection in your "
-"area. Configuring the Internet connection requires minimal involvement from "
-"you. Ubuntu supports most connection types. This lesson will cover: "
-"Broadband (cable or ASDL), dial-up and direct access through Local Area "
-"Network (LAN)."
-msgstr ""
-"连接到互联网并不总是仅仅作一个选择，它很大程度上还依赖于您居住或工作的地方，"
-"以及其周围的基础设施。连接到互联网的前提是您向一个网络服务提供商(ISP)注册您所"
-"在区域内可用的一种网络连接方式。连接并不需要您过多的参与，Ubuntu 支持绝大部分"
-"的连接类型。本课将会涵盖：宽带(电缆或 ADSL)、拨号上网和通过本地局域网(LAN)直"
-"接访问。"
+msgid "The means of connecting to the Internet is not always a choice and depends greatly on where you live and/or work and the surrounding infrastructure. The pre-requisites to connect to the Internet are an Internet Service Provider (ISP) subscription and a functional Internet connection in your area. Configuring the Internet connection requires minimal involvement from you. Ubuntu supports most connection types. This lesson will cover: Broadband (cable or ASDL), dial-up and direct access through Local Area Network (LAN)."
+msgstr "连接到互联网并不总是仅仅作一个选择，它很大程度上还依赖于您居住或工作的地方，以及其周围的基础设施。连接到互联网的前提是您向一个网络服务提供商(ISP)注册您所在区域内可用的一种网络连接方式。连接并不需要您过多的参与，Ubuntu 支持绝大部分的连接类型。本课将会涵盖：宽带(电缆或 ADSL)、拨号上网和通过本地局域网(LAN)直接访问。"
 
 #: chapter3/xinclude.xml:62(para)
-msgid ""
-"Broadband connections are fast and reliable connections that users subscribe "
-"to for a monthly fee. Broadband companies offer packages with different "
-"speed specifications and bandwidth limits. If you travel and need Internet "
-"access, you can purchase a wireless Internet connection. If your computer "
-"does not have one pre-installed, you will need to install a wireless card. "
-"This connection is similar to a satellite connection, where data is "
-"transmitted through the airwaves."
-msgstr ""
-"宽带连接快速而可靠，开通的用户需要每月缴纳使用费。宽带公司提供具有各种网速规"
-"格和带宽限制的服务套餐。如果您旅行的时候需要接入互联网，可以订购无线互联网连"
-"接业务。如果计算机没有预装，您还要安装一个无线网卡。这种连接和卫星通讯相似，"
-"数据是通过电波传送的。"
+msgid "Broadband connections are fast and reliable connections that users subscribe to for a monthly fee. Broadband companies offer packages with different speed specifications and bandwidth limits. If you travel and need Internet access, you can purchase a wireless Internet connection. If your computer does not have one pre-installed, you will need to install a wireless card. This connection is similar to a satellite connection, where data is transmitted through the airwaves."
+msgstr "宽带连接快速而可靠，开通的用户需要每月缴纳使用费。宽带公司提供具有各种网速规格和带宽限制的服务套餐。如果您旅行的时候需要接入互联网，可以订购无线互联网连接业务。如果计算机没有预装，您还要安装一个无线网卡。这种连接和卫星通讯相似，数据是通过电波传送的。"
 
 #: chapter3/xinclude.xml:70(para)
-msgid ""
-"Dial-up access uses the same lines as your phone connection, except that the "
-"parties at the two ends are computers. This is a slow and cheap connection "
-"that uses a phone line to connect to a local server. Your computer dials a "
-"phone number that is provided by your ISP and connects to the server. "
-"Consequently, you cannot make phone calls while you are connected to the "
-"Internet. This is the oldest and slowest means of connecting; carrying out "
-"many functions using this mode can be very tedious and frustrating."
-msgstr ""
-"拨号上网使用和您电话连接相同的线路，语打电话不同的是它两端都是电脑。这是一种"
-"是您通过电话线连接到本地服务器的慢速和便宜的方案。您的电脑需要拨一个网络服务"
-"提供商指定的电话号码来连接到服务器。所以，您在上网的同时是不能打电话的。这是"
-"最古老最缓慢的连接方法，在这种方式下使用许多服务是很乏味的，甚至会有些难以忍"
-"受。"
+msgid "Dial-up access uses the same lines as your phone connection, except that the parties at the two ends are computers. This is a slow and cheap connection that uses a phone line to connect to a local server. Your computer dials a phone number that is provided by your ISP and connects to the server. Consequently, you cannot make phone calls while you are connected to the Internet. This is the oldest and slowest means of connecting; carrying out many functions using this mode can be very tedious and frustrating."
+msgstr "拨号上网使用和您电话连接相同的线路，语打电话不同的是它两端都是电脑。这是一种是您通过电话线连接到本地服务器的慢速和便宜的方案。您的电脑需要拨一个网络服务提供商指定的电话号码来连接到服务器。所以，您在上网的同时是不能打电话的。这是最古老最缓慢的连接方法，在这种方式下使用许多服务是很乏味的，甚至会有些难以忍受。"
 
-#: chapter3/xinclude.xml:80(title) chapter3/xinclude.xml:93(title)
+#: chapter3/xinclude.xml:80(title)
+#: chapter3/xinclude.xml:93(title)
 msgid "Network Manager"
 msgstr "网络管理器"
 
 #: chapter3/xinclude.xml:82(para)
-msgid ""
-"The Network Manager on Ubuntu is a simple to use and powerful utility to "
-"stay connected with wired and wireless adapters. It is located on the top "
-"menubar at the outer right corner. A left-click will reveal if your computer "
-"is already connected to a wired or wireless network. In case of a wireless "
-"network that is protected by a password, a dialogue will appear and ask for "
-"the password. The password can then be stored in your keyring, where it will "
-"automatically be used when needed. However, you may be asked for your "
-"keyring password if you have to log out."
-msgstr ""
-"Ubuntu 上的网络管理器是一个使用简单且功能强大的工具。它位于顶部菜单栏的右侧。"
-"用左键点击它就可以查看您的计算机是否已经连接到一个有线或无线的网络。如果是一"
-"个有密码保护的无线网络，则会弹出一个对话框要求您输入密码。这个密码可以存储在"
-"您的密钥环中，将来需要时会自动使用。然而，当您注销并再次登录时可能需要提供密"
-"钥环密码以对其解锁。"
+msgid "The Network Manager on Ubuntu is a simple to use and powerful utility to stay connected with wired and wireless adapters. It is located on the top menubar at the outer right corner. A left-click will reveal if your computer is already connected to a wired or wireless network. In case of a wireless network that is protected by a password, a dialogue will appear and ask for the password. The password can then be stored in your keyring, where it will automatically be used when needed. However, you may be asked for your keyring password if you have to log out."
+msgstr "Ubuntu 上的网络管理器是一个使用简单且功能强大的工具。它位于顶部菜单栏的右侧。用左键点击它就可以查看您的计算机是否已经连接到一个有线或无线的网络。如果是一个有密码保护的无线网络，则会弹出一个对话框要求您输入密码。这个密码可以存储在您的密钥环中，将来需要时会自动使用。然而，当您注销并再次登录时可能需要提供密钥环密码以对其解锁。"
 
 #: chapter3/xinclude.xml:102(para)
-msgid ""
-"You can also right-click on Network Manager to enable and disable wireless "
-"and wired connections. The connection information allows access to the "
-"network parameters currently used."
-msgstr ""
-"您也可以右击网络管理器来启用或禁用无线和有线连接。“连接信息”允许您查看当前使"
-"用网络的网络参数。"
+msgid "You can also right-click on Network Manager to enable and disable wireless and wired connections. The connection information allows access to the network parameters currently used."
+msgstr "您也可以右击网络管理器来启用或禁用无线和有线连接。“连接信息”允许您查看当前使用网络的网络参数。"
 
 #: chapter3/xinclude.xml:107(title)
 msgid "Network Manager Connection"
 msgstr "网络管理器连接"
 
 #: chapter3/xinclude.xml:116(para)
-msgid ""
-"If Network Manager does not automatically configure your network "
-"connections, you can fall back to manually configuring them."
+msgid "If Network Manager does not automatically configure your network connections, you can fall back to manually configuring them."
 msgstr "如果网络管理器没有自动配置好您的网络连接，您仍然可以手动配置它们。"
 
 #: chapter3/xinclude.xml:121(title)
@@ -771,102 +472,76 @@ msgid "To connect to the Internet using a cable connection:"
 msgstr "要使用电缆来连接到互联网："
 
 # Changes here.
-#: chapter3/xinclude.xml:127(para) chapter3/xinclude.xml:332(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong"
-"\">Network</emphasis>. The <emphasis role=\"strong\">Network Settings</"
-"emphasis> dialogue box will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单上，用鼠标指向 <emphasis "
-"role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络</"
-"emphasis>。<emphasis role=\"strong\">网络设置</emphasis> 对话框就会出现。"
+#: chapter3/xinclude.xml:127(para)
+#: chapter3/xinclude.xml:332(para)
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Network</emphasis>. The <emphasis role=\"strong\">Network Settings</emphasis> dialogue box will be displayed."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上，用鼠标指向 <emphasis role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络</emphasis>。<emphasis role=\"strong\">网络设置</emphasis> 对话框就会出现。"
 
 #: chapter3/xinclude.xml:133(title)
 msgid "Accessing Network Settings"
 msgstr "访问网络设置"
 
 #: chapter3/xinclude.xml:144(para)
-msgid ""
-"Click on the <emphasis role=\"strong\">Unlock</emphasis> button and enter "
-"your Administrator's password."
-msgstr ""
-"点击 <emphasis role=\"strong\">解锁</emphasis> 按钮然后输入您的管理员密码。"
+msgid "Click on the <emphasis role=\"strong\">Unlock</emphasis> button and enter your Administrator's password."
+msgstr "点击 <emphasis role=\"strong\">解锁</emphasis> 按钮然后输入您的管理员密码。"
 
-#: chapter3/xinclude.xml:148(title) chapter3/xinclude.xml:219(title)
+#: chapter3/xinclude.xml:148(title)
+#: chapter3/xinclude.xml:219(title)
 #: chapter3/xinclude.xml:345(title)
 msgid "Network Settings"
 msgstr "网络设置"
 
 #: chapter3/xinclude.xml:159(para)
-msgid ""
-"Clear the <emphasis role=\"strong\">Enable roaming mode</emphasis> check box "
-"to enable the connection."
-msgstr ""
-"选择 <emphasis role=\"strong\">IPv4 设置</emphasis> 来配置连接。"
+msgid "Clear the <emphasis role=\"strong\">Enable roaming mode</emphasis> check box to enable the connection."
+msgstr "选择 <emphasis role=\"strong\">IPv4 设置</emphasis> 来配置连接。"
 
-#: chapter3/xinclude.xml:163(title) chapter3/xinclude.xml:184(title)
-#: chapter3/xinclude.xml:195(title) chapter3/xinclude.xml:321(title)
-#: chapter3/xinclude.xml:533(title) chapter3/xinclude.xml:576(title)
-#: chapter3/xinclude.xml:599(title) chapter3/xinclude.xml:831(title)
-#: chapter3/xinclude.xml:859(title) chapter3/xinclude.xml:874(title)
-#: chapter3/xinclude.xml:905(title) chapter3/xinclude.xml:1081(title)
-#: chapter3/xinclude.xml:1171(title) chapter3/xinclude.xml:1504(title)
-#: chapter3/xinclude.xml:1687(title) chapter3/xinclude.xml:1735(title)
-#: chapter3/xinclude.xml:1842(title) chapter3/xinclude.xml:1915(title)
+#: chapter3/xinclude.xml:163(title)
+#: chapter3/xinclude.xml:184(title)
+#: chapter3/xinclude.xml:195(title)
+#: chapter3/xinclude.xml:321(title)
+#: chapter3/xinclude.xml:533(title)
+#: chapter3/xinclude.xml:576(title)
+#: chapter3/xinclude.xml:599(title)
+#: chapter3/xinclude.xml:831(title)
+#: chapter3/xinclude.xml:859(title)
+#: chapter3/xinclude.xml:874(title)
+#: chapter3/xinclude.xml:905(title)
+#: chapter3/xinclude.xml:1081(title)
+#: chapter3/xinclude.xml:1171(title)
+#: chapter3/xinclude.xml:1504(title)
+#: chapter3/xinclude.xml:1687(title)
+#: chapter3/xinclude.xml:1735(title)
+#: chapter3/xinclude.xml:1842(title)
+#: chapter3/xinclude.xml:1915(title)
 msgid "Note:"
 msgstr "注："
 
 #: chapter3/xinclude.xml:164(para)
-msgid ""
-"Most broadband providers will use Dynamic Host Control Protocol (DHCP) to "
-"provide you with an IP address. If a Static IP address is required, it will "
-"be provided by your network administrator. The following steps are for "
-"setting up a static IP address."
-msgstr ""
-"绝大多数宽带提供商会使用动态主机控制协议(DHCP)来提供给您一个 IP 地址。如果需"
-"要静态 IP 地址，那么它会由网络管理员提供。接下来的步骤用于设定一个静态 IP 地"
-"址。"
+msgid "Most broadband providers will use Dynamic Host Control Protocol (DHCP) to provide you with an IP address. If a Static IP address is required, it will be provided by your network administrator. The following steps are for setting up a static IP address."
+msgstr "绝大多数宽带提供商会使用动态主机控制协议(DHCP)来提供给您一个 IP 地址。如果需要静态 IP 地址，那么它会由网络管理员提供。接下来的步骤用于设定一个静态 IP 地址。"
 
 #: chapter3/xinclude.xml:169(para)
-msgid ""
-"In the <emphasis role=\"strong\">Configuration</emphasis> box, select the "
-"<emphasis role=\"strong\">Static IP address</emphasis> option."
-msgstr ""
-"在 <emphasis role=\"strong\">方法</emphasis> 复选框中，选择 <emphasis role="
-"\"strong\">手动</emphasis>，并在 <emphasis role=\"strong\">地址</emphasis> 右侧点击 <emphasis role=\"strong\">添加</emphasis>。"
+msgid "In the <emphasis role=\"strong\">Configuration</emphasis> box, select the <emphasis role=\"strong\">Static IP address</emphasis> option."
+msgstr "在 <emphasis role=\"strong\">方法</emphasis> 复选框中，选择 <emphasis role=\"strong\">手动</emphasis>，并在 <emphasis role=\"strong\">地址</emphasis> 右侧点击 <emphasis role=\"strong\">添加</emphasis>。"
 
 #: chapter3/xinclude.xml:175(para)
-msgid ""
-"Type the IP address of your computer in the <emphasis role=\"strong\">IP "
-"address</emphasis> box."
-msgstr ""
-"在 <emphasis role=\"strong\">地址</emphasis> 框中输入您计算机的 IP 地址。"
+msgid "Type the IP address of your computer in the <emphasis role=\"strong\">IP address</emphasis> box."
+msgstr "在 <emphasis role=\"strong\">地址</emphasis> 框中输入您计算机的 IP 地址。"
 
 #: chapter3/xinclude.xml:179(para)
-msgid ""
-"Type the subnetwork (subnet) mask of your computer's IP address in the "
-"<emphasis role=\"strong\">Subnet mask</emphasis> box."
-msgstr ""
-"在 <emphasis role=\"strong\">子网掩码</emphasis> 框中输入您计算机 IP 地址的子网掩码。"
+msgid "Type the subnetwork (subnet) mask of your computer's IP address in the <emphasis role=\"strong\">Subnet mask</emphasis> box."
+msgstr "在 <emphasis role=\"strong\">子网掩码</emphasis> 框中输入您计算机 IP 地址的子网掩码。"
 
 #: chapter3/xinclude.xml:186(para)
-msgid ""
-"A subnet mask divides a network of IP addresses into groups, which "
-"facilitates routing of data."
+msgid "A subnet mask divides a network of IP addresses into groups, which facilitates routing of data."
 msgstr "子网掩码将一个 IP 地址段的网络为多个组，从而有利于进行数据路由选择。"
 
 #: chapter3/xinclude.xml:192(para)
-msgid ""
-"Type the IP address of your ISP in the <emphasis role=\"strong\">Gateway "
-"address</emphasis> box."
-msgstr ""
-"在 <emphasis role=\"strong\">网关</emphasis> 框中输入您的服务商的 IP 地址。"
+msgid "Type the IP address of your ISP in the <emphasis role=\"strong\">Gateway address</emphasis> box."
+msgstr "在 <emphasis role=\"strong\">网关</emphasis> 框中输入您的服务商的 IP 地址。"
 
 #: chapter3/xinclude.xml:197(para)
-msgid ""
-"A gateway is a device that connects a user to the Internet. It is provided "
-"by the ISP."
+msgid "A gateway is a device that connects a user to the Internet. It is provided by the ISP."
 msgstr "网关是一个将用户与互联网相连接的设备。它由服务商提供。"
 
 #: chapter3/xinclude.xml:202(title)
@@ -874,9 +549,7 @@ msgid "eth0 Properties"
 msgstr "IPv4 设置"
 
 #: chapter3/xinclude.xml:215(para)
-msgid ""
-"Click <emphasis role=\"strong\">OK</emphasis> to complete the configuration "
-"for the cable connection."
+msgid "Click <emphasis role=\"strong\">OK</emphasis> to complete the configuration for the cable connection."
 msgstr "点击 <emphasis role=\"strong\">应用</emphasis> 来完成电缆连接的配置。"
 
 #: chapter3/xinclude.xml:228(para)
@@ -884,17 +557,8 @@ msgid "Now, you can connect to the Internet by using the cable."
 msgstr "现在，您可以用电缆来连接到互联网了。"
 
 #: chapter3/xinclude.xml:233(para)
-msgid ""
-"If your internet provider uses DHCP (Dynamic Host Connection Protocol) you "
-"simply need to select <emphasis role=\"strong\">Automatic Configuration "
-"(DHCP)</emphasis> from the <emphasis role=\"strong\">Configuration</"
-"emphasis> drop down menu."
-msgstr ""
-"如果您的互联网提供商使用DHCP(动态主机连接协议)，但您需要使用额外的 DNS 服务，那么您只需在 "
-"<emphasis role=\"strong\">IPv4 设置</emphasis> 的 <emphasis role=\"strong\">方法"
-"</emphasis> 拉菜单中选择 <emphasis role=\"strong\">自动配置(DHCP)仅地址</emphasis>，"
-"然后在 <emphasis role=\"strong\">DNS 服务器</emphasis> 一栏中依次输入服务器的地址，并用英文"
-"逗号分隔多个服务器地址即可。"
+msgid "If your internet provider uses DHCP (Dynamic Host Connection Protocol) you simply need to select <emphasis role=\"strong\">Automatic Configuration (DHCP)</emphasis> from the <emphasis role=\"strong\">Configuration</emphasis> drop down menu."
+msgstr "如果您的互联网提供商使用DHCP(动态主机连接协议)，但您需要使用额外的 DNS 服务，那么您只需在 <emphasis role=\"strong\">IPv4 设置</emphasis> 的 <emphasis role=\"strong\">方法</emphasis> 拉菜单中选择 <emphasis role=\"strong\">自动配置(DHCP)仅地址</emphasis>，然后在 <emphasis role=\"strong\">DNS 服务器</emphasis> 一栏中依次输入服务器的地址，并用英文逗号分隔多个服务器地址即可。"
 
 #: chapter3/xinclude.xml:237(title)
 msgid "Using a Wireless Card"
@@ -905,249 +569,114 @@ msgid "Ubuntu automatically detects support for various wireless cards."
 msgstr "Ubuntu 会自动检测各种无线网卡是否支持。"
 
 #: chapter3/xinclude.xml:243(title)
-msgid ""
-"To determine whether Ubuntu supports the wireless card on your computer:"
+msgid "To determine whether Ubuntu supports the wireless card on your computer:"
 msgstr "检测 Ubuntu 是否支持您计算机上的无线网卡。"
 
 #: chapter3/xinclude.xml:247(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and then click <emphasis role="
-"\"strong\">Network</emphasis>. The <emphasis role=\"strong\">Network "
-"Settings</emphasis> dialogue box will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，鼠标指向 <emphasis role="
-"\"strong\">系统管理</emphasis> 然后点击<emphasis role=\"strong\">网络</"
-"emphasis>。<emphasis role=\"strong\">网络设置</emphasis>对话框将会出现。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Network</emphasis>. The <emphasis role=\"strong\">Network Settings</emphasis> dialogue box will be displayed."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，鼠标指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击<emphasis role=\"strong\">网络</emphasis>。<emphasis role=\"strong\">网络设置</emphasis>对话框将会出现。"
 
 #: chapter3/xinclude.xml:254(para)
-msgid ""
-"If the wireless card on your computer is listed, you can use the same "
-"procedure as listed in the <emphasis role=\"strong\">Using Cable Connection</"
-"emphasis> section to connect to the Internet."
-msgstr ""
-"如果您计算机上的无线网卡已经被列出，那么您可以使用与 <emphasis role=\"strong"
-"\">使用电缆连接</emphasis> 一节中所列出的步骤相同的过程来连接到互联网。"
+msgid "If the wireless card on your computer is listed, you can use the same procedure as listed in the <emphasis role=\"strong\">Using Cable Connection</emphasis> section to connect to the Internet."
+msgstr "如果您计算机上的无线网卡已经被列出，那么您可以使用与 <emphasis role=\"strong\">使用电缆连接</emphasis> 一节中所列出的步骤相同的过程来连接到互联网。"
 
 #: chapter3/xinclude.xml:260(title)
 msgid "Choosing a Wireless Connection"
 msgstr "选择一个无线连接"
 
 #: chapter3/xinclude.xml:269(para)
-msgid ""
-"Alternatively, left-click on Network Manager and discover any detected "
-"wireless networks in range."
+msgid "Alternatively, left-click on Network Manager and discover any detected wireless networks in range."
 msgstr "作为选择，左键点击网络管理器然后查看范围内检测到的任何无线网络。"
 
-#: chapter3/xinclude.xml:275(title) chapter3/xinclude.xml:307(title)
-#: chapter3/xinclude.xml:767(title) chapter3/xinclude.xml:1099(title)
-#: chapter3/xinclude.xml:1144(title) chapter3/xinclude.xml:1573(title)
-#: chapter3/xinclude.xml:1609(title) chapter3/xinclude.xml:1850(title)
+#: chapter3/xinclude.xml:275(title)
+#: chapter3/xinclude.xml:307(title)
+#: chapter3/xinclude.xml:767(title)
+#: chapter3/xinclude.xml:1099(title)
+#: chapter3/xinclude.xml:1144(title)
+#: chapter3/xinclude.xml:1573(title)
+#: chapter3/xinclude.xml:1609(title)
+#: chapter3/xinclude.xml:1850(title)
 msgid "Nice to Know:"
 msgstr "小提示："
 
 #: chapter3/xinclude.xml:277(para)
-msgid ""
-"To view the complete list of wireless cards that work with Ubuntu, refer to: "
-"<ulink url=\"https://help.ubuntu.com/community/WifiDocs/"
-"WirelessCardsSupported\">https://help.ubuntu.com/community/WifiDocs/"
-"WirelessCardsSupported</ulink>."
-msgstr ""
-"要查看能在 Ubuntu 中正常工作的无线网卡的完整列表，请查阅：<ulink url="
-"\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported"
-"\">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>"
+msgid "To view the complete list of wireless cards that work with Ubuntu, refer to: <ulink url=\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported\">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>."
+msgstr "要查看能在 Ubuntu 中正常工作的无线网卡的完整列表，请查阅：<ulink url=\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported\">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>"
 
 #: chapter3/xinclude.xml:281(para)
-msgid ""
-"Some wireless cards are not listed on the Ubuntu Web site because open "
-"source drivers for these are not available. Therefore, these cards do not "
-"work automatically with Ubuntu. If your wireless network card does not have "
-"an open source driver, you can make it work by using <emphasis role=\"strong"
-"\">ndiswrapper</emphasis>."
-msgstr ""
-"一些无线网卡没有在 Ubuntu 网站上列出来是因为它们没有相应的开源驱动。因此，这"
-"些网卡在 Ubuntu 中不能自动工作。如果您的无线网卡没有开源驱动，可以使用 "
-"<emphasis role=\"strong\">ndiswrapper</emphasis> 来让它工作起来。"
+msgid "Some wireless cards are not listed on the Ubuntu Web site because open source drivers for these are not available. Therefore, these cards do not work automatically with Ubuntu. If your wireless network card does not have an open source driver, you can make it work by using <emphasis role=\"strong\">ndiswrapper</emphasis>."
+msgstr "一些无线网卡没有在 Ubuntu 网站上列出来是因为它们没有相应的开源驱动。因此，这些网卡在 Ubuntu 中不能自动工作。如果您的无线网卡没有开源驱动，可以使用 <emphasis role=\"strong\">ndiswrapper</emphasis> 来让它工作起来。"
 
 #: chapter3/xinclude.xml:288(title)
 msgid "Using Ndiswrapper with a Wireless Card"
 msgstr "用 Ndiswrapper 配合无线网卡工作"
 
 #: chapter3/xinclude.xml:290(para)
-msgid ""
-"Ndiswrapper is a Linux module that allows Ubuntu to use Microsoft Windows "
-"drivers for wireless cards. The utility to configure ndiswrapper can be "
-"installed comfortably via <emphasis role=\"strong\">Add/Remove Applications</"
-"emphasis>. The <emphasis role=\"strong\">Windows Wireless Drivers</emphasis> "
-"setup programme can be found in <emphasis role=\"strong\">System "
-"Administration</emphasis>."
-msgstr ""
-"Ndiswrapper 是一个 Linux 模块，它允许 Ubuntu 使用 Microsoft Windows 的无线网"
-"卡驱动。ndiswrapper 的配置工具可以很方便地通过<emphasis role=\"strong\">添加/"
-"删除 应用程序</emphasis> 安装。<emphasis role=\"strong\">Windows 无线网卡驱动"
-"</emphasis> 配置程序可以从<emphasis role=\"strong\">系统管理</emphasis> 中找"
-"到。"
+msgid "Ndiswrapper is a Linux module that allows Ubuntu to use Microsoft Windows drivers for wireless cards. The utility to configure ndiswrapper can be installed comfortably via <emphasis role=\"strong\">Add/Remove Applications</emphasis>. The <emphasis role=\"strong\">Windows Wireless Drivers</emphasis> setup programme can be found in <emphasis role=\"strong\">System Administration</emphasis>."
+msgstr "Ndiswrapper 是一个 Linux 模块，它允许 Ubuntu 使用 Microsoft Windows 的无线网卡驱动。ndiswrapper 的配置工具可以很方便地通过<emphasis role=\"strong\">添加/删除 应用程序</emphasis> 安装。<emphasis role=\"strong\">Windows 无线网卡驱动</emphasis> 配置程序可以从<emphasis role=\"strong\">系统管理</emphasis> 中找到。"
 
 #: chapter3/xinclude.xml:299(title)
 msgid "Using a Dial-up Connection"
 msgstr "使用拨号连接"
 
 #: chapter3/xinclude.xml:301(para)
-msgid ""
-"A dial-up connection uses a modem to connect to the Internet. You can use "
-"the ScanModem tool to identify the type of modem. This tool recognises the "
-"type of modem-whether it is a Peripheral Component Interconnect (PCI) or a "
-"Universal Serial Bus (USB) modem."
-msgstr ""
-"拨号连接使用一台调制解调器来连接互联网。您可以使用 ScanModem 工具来识别调制解"
-"调器的类型。这个工具可以检测出调制解调器是外设部件互联总线(PCI)类型的还是通用"
-"串行总线(USB)类型的。"
+msgid "A dial-up connection uses a modem to connect to the Internet. You can use the ScanModem tool to identify the type of modem. This tool recognises the type of modem-whether it is a Peripheral Component Interconnect (PCI) or a Universal Serial Bus (USB) modem."
+msgstr "拨号连接使用一台调制解调器来连接互联网。您可以使用 ScanModem 工具来识别调制解调器的类型。这个工具可以检测出调制解调器是外设部件互联总线(PCI)类型的还是通用串行总线(USB)类型的。"
 
 #: chapter3/xinclude.xml:309(para)
-msgid ""
-"To download the ScanModem tool, refer to: <ulink url=\"https://help.ubuntu."
-"com/community/DialupModemHowto/ScanModem\">https://help.ubuntu.com/community/"
-"DialupModemHowto/ScanModem</ulink>."
-msgstr ""
-"要下载 ScanModem 工具，请转到：<ulink url=\"https://help.ubuntu.com/"
-"community/DialupModemHowto/ScanModem\">https://help.ubuntu.com/community/"
-"DialupModemHowto/ScanModem</ulink>。"
+msgid "To download the ScanModem tool, refer to: <ulink url=\"https://help.ubuntu.com/community/DialupModemHowto/ScanModem\">https://help.ubuntu.com/community/DialupModemHowto/ScanModem</ulink>."
+msgstr "要下载 ScanModem 工具，请转到：<ulink url=\"https://help.ubuntu.com/community/DialupModemHowto/ScanModem\">https://help.ubuntu.com/community/DialupModemHowto/ScanModem</ulink>。"
 
 #: chapter3/xinclude.xml:313(title)
 msgid "To use a dial-up connection:"
 msgstr "要使用一个拨号连接："
 
 #: chapter3/xinclude.xml:316(para)
-msgid ""
-"Download, configure and install your modem's driver. If an open source "
-"driver is not available, contact your vendor for other options."
-msgstr ""
-"下载、配置和安装您的调制解调器的驱动。如果没有开源驱动，请联系您调制解调器的"
-"厂商了解其他方案。"
+msgid "Download, configure and install your modem's driver. If an open source driver is not available, contact your vendor for other options."
+msgstr "下载、配置和安装您的调制解调器的驱动。如果没有开源驱动，请联系您调制解调器的厂商了解其他方案。"
 
 #: chapter3/xinclude.xml:323(para)
-msgid ""
-"To download the open source driver, refer to <ulink url=\"www.modemdriver.com"
-"\">www.modemdriver.com</ulink>."
-msgstr ""
-"要下载开源驱动，请转到<ulink url=\"www.modemdriver.com\">www.modemdriver."
-"com</ulink>。"
+msgid "To download the open source driver, refer to <ulink url=\"www.modemdriver.com\">www.modemdriver.com</ulink>."
+msgstr "要下载开源驱动，请转到<ulink url=\"www.modemdriver.com\">www.modemdriver.com</ulink>。"
 
 #: chapter3/xinclude.xml:328(title)
 msgid "Configure the dial-up connection to your ISP:"
 msgstr "配置拨号来连接到您的ISP："
 
 #: chapter3/xinclude.xml:339(para)
-msgid ""
-"In the <emphasis role=\"strong\">Network Settings</emphasis> dialogue box, "
-"select <emphasis role=\"strong\">Modem connection</emphasis> and click "
-"<emphasis role=\"strong\">Properties.</emphasis> The <emphasis role=\"strong"
-"\">ppp0 Properties</emphasis> dialogue box will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">网络设置</emphasis> 对话框中，选择 <emphasis "
-"role=\"strong\">调制解调器连接</emphasis> 然后点击<emphasis role=\"strong\">"
-"属性</emphasis>。<emphasis role=\"strong\">ppp0 属性</emphasis> 对话框将会出"
-"现。"
+msgid "In the <emphasis role=\"strong\">Network Settings</emphasis> dialogue box, select <emphasis role=\"strong\">Modem connection</emphasis> and click <emphasis role=\"strong\">Properties.</emphasis> The <emphasis role=\"strong\">ppp0 Properties</emphasis> dialogue box will be displayed."
+msgstr "在 <emphasis role=\"strong\">网络设置</emphasis> 对话框中，选择 <emphasis role=\"strong\">调制解调器连接</emphasis> 然后点击<emphasis role=\"strong\">属性</emphasis>。<emphasis role=\"strong\">ppp0 属性</emphasis> 对话框将会出现。"
 
 #: chapter3/xinclude.xml:356(para)
-msgid ""
-"In the <emphasis role=\"strong\">ppp0 Properties</emphasis> dialogue box, "
-"select the <emphasis role=\"strong\">Enable this connection</emphasis> check "
-"box to activate the connection."
-msgstr ""
-"在 <emphasis role=\"strong\">ppp0 属性</emphasis> 对话框中，选择 <emphasis "
-"role=\"strong\">启用此连接</emphasis> 选择框来激活连接。"
+msgid "In the <emphasis role=\"strong\">ppp0 Properties</emphasis> dialogue box, select the <emphasis role=\"strong\">Enable this connection</emphasis> check box to activate the connection."
+msgstr "在 <emphasis role=\"strong\">ppp0 属性</emphasis> 对话框中，选择 <emphasis role=\"strong\">启用此连接</emphasis> 选择框来激活连接。"
 
 #: chapter3/xinclude.xml:363(para)
-msgid ""
-"Specify your ISP's information and your account information, which you can "
-"obtain form your ISP."
+msgid "Specify your ISP's information and your account information, which you can obtain form your ISP."
 msgstr "指定您 ISP 的信息和您的帐户信息，它们可以从您的 ISP 处获得。"
 
 #: chapter3/xinclude.xml:366(para)
-msgid ""
-"Type the phone number in the <emphasis role=\"strong\">Phone number</"
-"emphasis> and the dial prefix in the <emphasis role=\"strong\">Dial prefix</"
-"emphasis> box, which the modem uses to connect to the server. Type your dial-"
-"up account name in the <emphasis role=\"strong\">Username</emphasis> box and "
-"the password in the <emphasis role=\"strong\">Password</emphasis> box. The "
-"user name is the one that is registered with your ISP."
-msgstr ""
-"在 <emphasis role=\"strong\">电话号码</emphasis> 处输入电话号码，然后在 "
-"<emphasis role=\"strong\">拨号前缀</emphasis> 框中输入拨号的前缀，调制解调器"
-"将用它连接到服务器。在 <emphasis role=\"strong\">用户名</emphasis> 框中输入您"
-"的拨号帐户名，并在  <emphasis role=\"strong\">密码</emphasis> 框中输入密码。"
-"用户名就是您向 ISP 注册的那个。"
+msgid "Type the phone number in the <emphasis role=\"strong\">Phone number</emphasis> and the dial prefix in the <emphasis role=\"strong\">Dial prefix</emphasis> box, which the modem uses to connect to the server. Type your dial-up account name in the <emphasis role=\"strong\">Username</emphasis> box and the password in the <emphasis role=\"strong\">Password</emphasis> box. The user name is the one that is registered with your ISP."
+msgstr "在 <emphasis role=\"strong\">电话号码</emphasis> 处输入电话号码，然后在 <emphasis role=\"strong\">拨号前缀</emphasis> 框中输入拨号的前缀，调制解调器将用它连接到服务器。在 <emphasis role=\"strong\">用户名</emphasis> 框中输入您的拨号帐户名，并在  <emphasis role=\"strong\">密码</emphasis> 框中输入密码。用户名就是您向 ISP 注册的那个。"
 
 #: chapter3/xinclude.xml:375(para)
-msgid ""
-"Specify the modem setting on the Modem tabbed page. Click the <emphasis role="
-"\"strong\">Modem</emphasis> tab. Type or select the modem port in the "
-"<emphasis role=\"strong\">Modem port</emphasis> box. Select the dial type "
-"from the <emphasis role=\"strong\">Dial type</emphasis> box. You can select "
-"the types of phone dial used in the <emphasis role=\"strong\">Dial type</"
-"emphasis> box. Dial type depends on your phone company and may be <emphasis "
-"role=\"strong\">Tones</emphasis> or <emphasis role=\"strong\">Pulses</"
-"emphasis>. If you do not know which dial type to choose, contact your phone "
-"company. Irrespective of the dial type, the modem will make some noise while "
-"connecting to the ISP server. You can set the volume of this noise by "
-"selecting the appropriate volume options from the <emphasis role=\"strong"
-"\">Volume</emphasis> box-it is recommended that you select <emphasis role="
-"\"strong\">Off</emphasis> or <emphasis role=\"strong\">Low</emphasis>."
-msgstr ""
-"在 Modem 标签页指定调制解调器的设置。点击 <emphasis role=\"strong\">Modem</"
-"emphasis> 标签，在<emphasis role=\"strong\">Modem 端口</emphasis> 框中输入或"
-"选择 modem端口。从 <emphasis role=\"strong\">拨号类型</emphasis> 框中选择拨号"
-"的类型。您可以在 <emphasis role=\"strong\">拨号类型</emphasis> 框中选择使用的"
-"电话拨号类型。拨号类型依赖于您的电信公司，可能是 <emphasis role=\"strong\">音"
-"频</emphasis> 或 <emphasis role=\"strong\">脉冲</emphasis>。如果不知道该选择"
-"哪种类型，请联系您的电信公司。不管是哪种类型，modem 在连接到 ISP 服务器时都会"
-"发出一些杂音。您可以通过在 <emphasis role=\"strong\">音量</emphasis> 框中选择"
-"合适的声音选项来设置合适的音量，推荐您选择 <emphasis role=\"strong\">关闭</"
-"emphasis> 或 <emphasis role=\"strong\">低</emphasis>。"
+msgid "Specify the modem setting on the Modem tabbed page. Click the <emphasis role=\"strong\">Modem</emphasis> tab. Type or select the modem port in the <emphasis role=\"strong\">Modem port</emphasis> box. Select the dial type from the <emphasis role=\"strong\">Dial type</emphasis> box. You can select the types of phone dial used in the <emphasis role=\"strong\">Dial type</emphasis> box. Dial type depends on your phone company and may be <emphasis role=\"strong\">Tones</emphasis> or <emphasis role=\"strong\">Pulses</emphasis>. If you do not know which dial type to choose, contact your phone company. Irrespective of the dial type, the modem will make some noise while connecting to the ISP server. You can set the volume of this noise by selecting the appropriate volume options from the <emphasis role=\"strong\">Volume</emphasis> box-it is recommended that you select <emphasis role=\"strong\">Off</emphasis> or <emphasis role=\"strong\">Low</emphasis>."
+msgstr "在 Modem 标签页指定调制解调器的设置。点击 <emphasis role=\"strong\">Modem</emphasis> 标签，在<emphasis role=\"strong\">Modem 端口</emphasis> 框中输入或选择 modem端口。从 <emphasis role=\"strong\">拨号类型</emphasis> 框中选择拨号的类型。您可以在 <emphasis role=\"strong\">拨号类型</emphasis> 框中选择使用的电话拨号类型。拨号类型依赖于您的电信公司，可能是 <emphasis role=\"strong\">音频</emphasis> 或 <emphasis role=\"strong\">脉冲</emphasis>。如果不知道该选择哪种类型，请联系您的电信公司。不管是哪种类型，modem 在连接到 ISP 服务器时都会发出一些杂音。您可以通过在 <emphasis role=\"strong\">音量</emphasis> 框中选择合适的声音选项来设置合适的音量，推荐您选择 <emphasis role=\"strong\">关闭</emphasis> 或 <emphasis role=\"strong\">低</emphasis>。"
 
 #: chapter3/xinclude.xml:390(para)
-msgid ""
-"Specify the connection settings. Click the <emphasis role=\"strong"
-"\">Options</emphasis> tab and select the <emphasis role=\"strong\">Set modem "
-"as default route to Internet</emphasis> check box to specify the dial-up "
-"modem as the default Internet connection. If you use a laptop on a local "
-"area network (LAN), clear the <emphasis role=\"strong\">Set modem as default "
-"route to Internet</emphasis> check box. Select this option only if you use a "
-"dial-up connection."
-msgstr ""
-"指定连接设置。点击 <emphasis role=\"strong\">选项</emphasis> 标签并选择 "
-"<emphasis role=\"strong\">将 modem 设为连接互联网的默认路由</emphasis> 选择框"
-"来指定拨号 modem 为默认的互联网连接。如果您在本地局域网(LAN)中使用笔记本电"
-"脑，清除<emphasis role=\"strong\">将 modem 设为连接互联网的默认路由</"
-"emphasis> 选择框。只在使用拨号连接时选择这个选项。"
+msgid "Specify the connection settings. Click the <emphasis role=\"strong\">Options</emphasis> tab and select the <emphasis role=\"strong\">Set modem as default route to Internet</emphasis> check box to specify the dial-up modem as the default Internet connection. If you use a laptop on a local area network (LAN), clear the <emphasis role=\"strong\">Set modem as default route to Internet</emphasis> check box. Select this option only if you use a dial-up connection."
+msgstr "指定连接设置。点击 <emphasis role=\"strong\">选项</emphasis> 标签并选择 <emphasis role=\"strong\">将 modem 设为连接互联网的默认路由</emphasis> 选择框来指定拨号 modem 为默认的互联网连接。如果您在本地局域网(LAN)中使用笔记本电脑，清除<emphasis role=\"strong\">将 modem 设为连接互联网的默认路由</emphasis> 选择框。只在使用拨号连接时选择这个选项。"
 
 #: chapter3/xinclude.xml:397(para)
-msgid ""
-"As part of modem connection settings, you need to assign a host name to an "
-"IP node to identify it as a TCP/IP host. You can select your ISP server for "
-"this name resolution of hosts, which maps a host name to an IP address "
-"successfully. For this, select the <emphasis role=\"strong\">Use the "
-"Internet service provider nameservers</emphasis> check box."
-msgstr ""
-"作为 modem 连接设置的一部分，您需要分配一个主机名给一个 IP 结点来指定它为 "
-"TCP/IP 主机。您可以为这里的主机名解析选择您的 ISP 服务器，主机名解析可以将一"
-"个主机名成功映射到一个 IP 地址。为此，选择 <emphasis role=\"strong\">使用互联"
-"网服务提供商的域名服务器</emphasis> 选择框。"
+msgid "As part of modem connection settings, you need to assign a host name to an IP node to identify it as a TCP/IP host. You can select your ISP server for this name resolution of hosts, which maps a host name to an IP address successfully. For this, select the <emphasis role=\"strong\">Use the Internet service provider nameservers</emphasis> check box."
+msgstr "作为 modem 连接设置的一部分，您需要分配一个主机名给一个 IP 结点来指定它为 TCP/IP 主机。您可以为这里的主机名解析选择您的 ISP 服务器，主机名解析可以将一个主机名成功映射到一个 IP 地址。为此，选择 <emphasis role=\"strong\">使用互联网服务提供商的域名服务器</emphasis> 选择框。"
 
 #: chapter3/xinclude.xml:404(para)
-msgid ""
-"If the Internet connection breaks, your modem will automatically try "
-"reconnecting to the Internet if the <emphasis role=\"strong\">Retry if the "
-"connection breaks or fails to start</emphasis> check box is selected."
-msgstr ""
-"如果选中 <emphasis role=\"strong\">若连接中断或失败重试连接</emphasis> 选择"
-"框，一旦互联网连接中断，您的调制解调器会自动尝试重新连接到互联网。"
+msgid "If the Internet connection breaks, your modem will automatically try reconnecting to the Internet if the <emphasis role=\"strong\">Retry if the connection breaks or fails to start</emphasis> check box is selected."
+msgstr "如果选中 <emphasis role=\"strong\">若连接中断或失败重试连接</emphasis> 选择框，一旦互联网连接中断，您的调制解调器会自动尝试重新连接到互联网。"
 
 #: chapter3/xinclude.xml:410(para)
-msgid ""
-"Click <emphasis role=\"strong\">OK</emphasis> to complete the dial-up "
-"configuration."
+msgid "Click <emphasis role=\"strong\">OK</emphasis> to complete the dial-up configuration."
 msgstr "点击 <emphasis role=\"strong\">确定</emphasis> 来完成拨号配置。"
 
 #: chapter3/xinclude.xml:414(title)
@@ -1159,27 +688,12 @@ msgid "Now, you can connect to the Internet using a dial-up connection."
 msgstr "现在，您可以使用拨号连接到互联网了。"
 
 #: chapter3/xinclude.xml:433(para)
-msgid ""
-"If students need to connect to the Internet with the modem integrated into a "
-"mobile phone or configure Point-to-Point (PPP) dial-up through a Bluetooth-"
-"compatible mobile phone, refer to: <ulink url=\"https://help.ubuntu.com/"
-"community/BluetoothDialup\">https://help.ubuntu.com/community/"
-"BluetoothDialup</ulink>."
-msgstr ""
-"如果学员们需要通过一个移动电话中集成的调制解调器或一部兼容蓝牙的移动电话配置"
-"点对点(PPP)拨号来连接到互联网，请查阅：<ulink url=\"https://help.ubuntu.com/"
-"community/BluetoothDialup\">https://help.ubuntu.com/community/"
-"BluetoothDialup</ulink>。"
+msgid "If students need to connect to the Internet with the modem integrated into a mobile phone or configure Point-to-Point (PPP) dial-up through a Bluetooth-compatible mobile phone, refer to: <ulink url=\"https://help.ubuntu.com/community/BluetoothDialup\">https://help.ubuntu.com/community/BluetoothDialup</ulink>."
+msgstr "如果学员们需要通过一个移动电话中集成的调制解调器或一部兼容蓝牙的移动电话配置点对点(PPP)拨号来连接到互联网，请查阅：<ulink url=\"https://help.ubuntu.com/community/BluetoothDialup\">https://help.ubuntu.com/community/BluetoothDialup</ulink>。"
 
 #: chapter3/xinclude.xml:437(para)
-msgid ""
-"To connect to the Internet through a mobile phone over a USB cable, refer "
-"to: <ulink url=\"https://help.ubuntu.com/community/CableDialup\">https://"
-"help.ubuntu.com/community/CableDialup</ulink>."
-msgstr ""
-"要通过 USB 电缆连接的移动电话来连接到互联网，请查阅：<ulink url=\"https://"
-"help.ubuntu.com/community/CableDialup\">https://help.ubuntu.com/community/"
-"CableDialup</ulink>。"
+msgid "To connect to the Internet through a mobile phone over a USB cable, refer to: <ulink url=\"https://help.ubuntu.com/community/CableDialup\">https://help.ubuntu.com/community/CableDialup</ulink>."
+msgstr "要通过 USB 电缆连接的移动电话来连接到互联网，请查阅：<ulink url=\"https://help.ubuntu.com/community/CableDialup\">https://help.ubuntu.com/community/CableDialup</ulink>。"
 
 #: chapter3/xinclude.xml:444(title)
 msgid "Browsing the Web"
@@ -1190,26 +704,12 @@ msgid "Launching Firefox Web Browser"
 msgstr "启动 Firefox 网络浏览器"
 
 #: chapter3/xinclude.xml:446(para)
-msgid ""
-"Mozilla Firefox is the default web browser on Ubuntu. It is open sourced, "
-"developed by the Mozilla Corporation and many external contributors and is "
-"fully compatible with Ubuntu. To open a Firefox Web browser, on the "
-"<emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis "
-"role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong"
-"\">Firefox Web Browser</emphasis>. <placeholder-1/>"
-msgstr ""
-"Mozilla Firefox 是 Ubuntu 默认的网络浏览器。它是开源的，由 Mozilla 公司和许多"
-"社区贡献者共同开发并与 Ubuntu 完全兼容。要打开 Firefox 网络浏览器，请在 "
-"<emphasis role=\"strong\">应用程序</emphasis> 菜单中，使用鼠标指向 <emphasis "
-"role=\"strong\">Internet</emphasis> 然后点击 <emphasis role=\"strong"
-"\">Firefox Web Browser</emphasis>。<placeholder-1/>"
+msgid "Mozilla Firefox is the default web browser on Ubuntu. It is open sourced, developed by the Mozilla Corporation and many external contributors and is fully compatible with Ubuntu. To open a Firefox Web browser, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Firefox Web Browser</emphasis>. <placeholder-1/>"
+msgstr "Mozilla Firefox 是 Ubuntu 默认的网络浏览器。它是开源的，由 Mozilla 公司和许多社区贡献者共同开发并与 Ubuntu 完全兼容。要打开 Firefox 网络浏览器，请在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，使用鼠标指向 <emphasis role=\"strong\">Internet</emphasis> 然后点击 <emphasis role=\"strong\">Firefox Web Browser</emphasis>。<placeholder-1/>"
 
 #: chapter3/xinclude.xml:460(para)
-msgid ""
-"Firefox includes two powerful features that make your online experience more "
-"productive - an integrated search system and bookmarking."
-msgstr ""
-"Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
+msgid "Firefox includes two powerful features that make your online experience more productive - an integrated search system and bookmarking."
+msgstr "Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
 
 #: chapter3/xinclude.xml:467(para)
 msgid "Ask students to open this browser and try performing a search."
@@ -1224,47 +724,23 @@ msgid "Available Search Engines"
 msgstr "可用的搜索引擎"
 
 #: chapter3/xinclude.xml:474(para)
-msgid ""
-"This feature enables you to search for and find any information. The Search "
-"bar comes pre-loaded with search engines for Google, Yahoo!, Amazon, eBay, "
-"Answers.com and Creative Commons. You can enter a search term in the Search "
-"bar and receive immediate answers from the search engine you choose. You can "
-"select a new search engine from the Search bar menu at any time and add "
-"search engines from favourite Web sites. <placeholder-1/>"
-msgstr ""
-"这个特性允许您搜索并找到任何信息。搜索框预设了 Google、Yahoo!、Amazon、eBay、"
-"Answers.com 和 Creative Commons 提供的搜索引擎。您可以在搜索框中输入一个搜索"
-"项并很快得到所选择搜索引擎提供的结果。您可以在任何时候从搜索框菜单里选择一个"
-"新的搜索引擎或添加自己喜欢的网站所提供的搜索引擎。<placeholder-1/>"
+msgid "This feature enables you to search for and find any information. The Search bar comes pre-loaded with search engines for Google, Yahoo!, Amazon, eBay, Answers.com and Creative Commons. You can enter a search term in the Search bar and receive immediate answers from the search engine you choose. You can select a new search engine from the Search bar menu at any time and add search engines from favourite Web sites. <placeholder-1/>"
+msgstr "这个特性允许您搜索并找到任何信息。搜索框预设了 Google、Yahoo!、Amazon、eBay、Answers.com 和 Creative Commons 提供的搜索引擎。您可以在搜索框中输入一个搜索项并很快得到所选择搜索引擎提供的结果。您可以在任何时候从搜索框菜单里选择一个新的搜索引擎或添加自己喜欢的网站所提供的搜索引擎。<placeholder-1/>"
 
 #: chapter3/xinclude.xml:493(title)
 msgid "Search Suggestions"
 msgstr "搜索建议"
 
 #: chapter3/xinclude.xml:495(para)
-msgid ""
-"To further ease your search-related tasks, some search engines such as "
-"Google, Yahoo and Answers.com in Firefox, suggest search terms. Begin typing "
-"into the Search bar and a list of suggestions will appear."
-msgstr ""
-"为了使搜索相关的操作更轻松，一些搜索引擎，如 Firefox 中的 Google、Yahoo 和 "
-"Answers.com，提供搜索建议。当您在搜索条中进行输入时，一个建议列表会显示出来。"
+msgid "To further ease your search-related tasks, some search engines such as Google, Yahoo and Answers.com in Firefox, suggest search terms. Begin typing into the Search bar and a list of suggestions will appear."
+msgstr "为了使搜索相关的操作更轻松，一些搜索引擎，如 Firefox 中的 Google、Yahoo 和 Answers.com，提供搜索建议。当您在搜索条中进行输入时，一个建议列表会显示出来。"
 
 #: chapter3/xinclude.xml:501(para)
-msgid ""
-"For example, if you type <emphasis role=\"strong\">king</emphasis> in the "
-"Search bar, a list of suggestions to complete your search keyword is "
-"displayed. So instead of typing the complete term, you can select the "
-"required term from the list. This makes the search easy and quick."
-msgstr ""
-"例如，如果您在搜索框中输入 <emphasis role=\"strong\">king</emphasis>，一个自"
-"动完成您搜索关键词的建议列表会出现。您可以从列表中选择需要的检索项，而不必完"
-"整输入检索词。这个功能使搜索变得简单快捷。"
+msgid "For example, if you type <emphasis role=\"strong\">king</emphasis> in the Search bar, a list of suggestions to complete your search keyword is displayed. So instead of typing the complete term, you can select the required term from the list. This makes the search easy and quick."
+msgstr "例如，如果您在搜索框中输入 <emphasis role=\"strong\">king</emphasis>，一个自动完成您搜索关键词的建议列表会出现。您可以从列表中选择需要的检索项，而不必完整输入检索词。这个功能使搜索变得简单快捷。"
 
 #: chapter3/xinclude.xml:506(para)
-msgid ""
-"The following graphic shows a list of suggestions, when you start typing in "
-"the Search bar:"
+msgid "The following graphic shows a list of suggestions, when you start typing in the Search bar:"
 msgstr "下面的图显示了当您在搜索框中开始输入时的一个建议列表："
 
 #: chapter3/xinclude.xml:510(title)
@@ -1276,26 +752,11 @@ msgid "Bookmarks"
 msgstr "书签"
 
 #: chapter3/xinclude.xml:522(para)
-msgid ""
-"If you come across an interesting Web site over the Internet and would like "
-"to keep it for future reference, without trying to remember the URL, create "
-"a bookmark. The next time you are online, simply click the link to go to "
-"that Web page. You can view Web feeds such as news and blog headlines in the "
-"bookmarks toolbar or menu. A Web feed or feed is an XML Web page that "
-"contains a list of links to other Web pages. You can quickly review the "
-"latest headlines from your favourite sites and click to go directly to "
-"chapters of interest."
-msgstr ""
-"如果您在浏览互联网时碰巧发现了一个感兴趣的网站并希望把它保存下来以便将来访"
-"问，不用试着去记它的网址，建一个书签就可以了。下次只要点击书签链接就可以访问"
-"那个网页。您可以在书签工具栏或菜单里查看网络 Feed，如新闻和博客头条。网络 "
-"Feed 是一个 XML 页，其中包含了一个到其他网页的链接列表。您可以快速查看最喜欢"
-"的网站里的最新头条并通过点击直接访问您感兴趣的部分。"
+msgid "If you come across an interesting Web site over the Internet and would like to keep it for future reference, without trying to remember the URL, create a bookmark. The next time you are online, simply click the link to go to that Web page. You can view Web feeds such as news and blog headlines in the bookmarks toolbar or menu. A Web feed or feed is an XML Web page that contains a list of links to other Web pages. You can quickly review the latest headlines from your favourite sites and click to go directly to chapters of interest."
+msgstr "如果您在浏览互联网时碰巧发现了一个感兴趣的网站并希望把它保存下来以便将来访问，不用试着去记它的网址，建一个书签就可以了。下次只要点击书签链接就可以访问那个网页。您可以在书签工具栏或菜单里查看网络 Feed，如新闻和博客头条。网络 Feed 是一个 XML 页，其中包含了一个到其他网页的链接列表。您可以快速查看最喜欢的网站里的最新头条并通过点击直接访问您感兴趣的部分。"
 
 #: chapter3/xinclude.xml:535(para)
-msgid ""
-"A Bookmark in Firefox, similar to favourites in Internet Explorer, is a "
-"useful browser feature."
+msgid "A Bookmark in Firefox, similar to favourites in Internet Explorer, is a useful browser feature."
 msgstr "Firefox 中的书签，与 IE 中的收藏夹很相似，是一个有用的浏览器特性。"
 
 #: chapter3/xinclude.xml:540(title)
@@ -1303,46 +764,28 @@ msgid "To create a bookmark in Firefox:"
 msgstr "要在 Firefox 中建立书签："
 
 #: chapter3/xinclude.xml:543(para)
-msgid ""
-"Open the Firefox Web browser. On the <emphasis role=\"strong\">Bookmarks</"
-"emphasis> menu, click on <emphasis role=\"strong\">Bookmark this page</"
-"emphasis>."
-msgstr ""
-"打开 Firefox 浏览器。在 <emphasis role=\"strong\">书签</emphasis> 菜单上点击 "
-"<emphasis role=\"strong\">将此页加为书签</emphasis>。"
+msgid "Open the Firefox Web browser. On the <emphasis role=\"strong\">Bookmarks</emphasis> menu, click on <emphasis role=\"strong\">Bookmark this page</emphasis>."
+msgstr "打开 Firefox 浏览器。在 <emphasis role=\"strong\">书签</emphasis> 菜单上点击 <emphasis role=\"strong\">将此页加为书签</emphasis>。"
 
 #: chapter3/xinclude.xml:547(para)
-msgid ""
-"The Bookmarks dialog box will appear. Select a location to save the new "
-"bookmark and add any tags (keywords)."
-msgstr ""
-"书签对话框会出现。选择一个位置来保存这个新书签并添加任意的标签(关键词)。"
+msgid "The Bookmarks dialog box will appear. Select a location to save the new bookmark and add any tags (keywords)."
+msgstr "书签对话框会出现。选择一个位置来保存这个新书签并添加任意的标签(关键词)。"
 
 #: chapter3/xinclude.xml:551(para)
 msgid "Click <emphasis role=\"strong\">Done</emphasis> to save your bookmark."
 msgstr "点击 <emphasis role=\"strong\">完成</emphasis> 来保存您的书签。"
 
 #: chapter3/xinclude.xml:555(para)
-msgid ""
-"To sort your bookmarks and create new folders, or categories, select "
-"<emphasis role=\"strong\">Organize Bookmarks</emphasis> from the <emphasis "
-"role=\"strong\">Bookmarks</emphasis> menu."
-msgstr ""
-"要对您的书签排序和创建新的文件夹或分类，从 <emphasis role=\"strong\">书签</"
-"emphasis> 菜单里选择 <emphasis role=\"strong\">管理书签</emphasis>。"
+msgid "To sort your bookmarks and create new folders, or categories, select <emphasis role=\"strong\">Organize Bookmarks</emphasis> from the <emphasis role=\"strong\">Bookmarks</emphasis> menu."
+msgstr "要对您的书签排序和创建新的文件夹或分类，从 <emphasis role=\"strong\">书签</emphasis> 菜单里选择 <emphasis role=\"strong\">管理书签</emphasis>。"
 
 #: chapter3/xinclude.xml:559(title)
 msgid "Using an RSS feed reader"
 msgstr "使用 RSS 阅读器"
 
 #: chapter3/xinclude.xml:561(para)
-msgid ""
-"News feeds allow you to see when a Web site has added new content. You can "
-"get the latest headlines as soon as it is published without having to visit "
-"the website. These news feeds are known as RSS or Really Simple Syndication."
-msgstr ""
-"您可以在源中查看一个网站新添加的内容。最新头条一发布您就能获得它们而不需访问"
-"网站，这些新闻源称为 RSS。"
+msgid "News feeds allow you to see when a Web site has added new content. You can get the latest headlines as soon as it is published without having to visit the website. These news feeds are known as RSS or Really Simple Syndication."
+msgstr "您可以在源中查看一个网站新添加的内容。最新头条一发布您就能获得它们而不需访问网站，这些新闻源称为 RSS。"
 
 #: chapter3/xinclude.xml:564(title)
 msgid "Liferea Newsreader"
@@ -1353,26 +796,15 @@ msgid "While teaching, demonstrate how to access Liferea."
 msgstr "教学的时候请示范如何访问 Liferea。"
 
 #: chapter3/xinclude.xml:572(para)
-msgid ""
-"Liferea is an online RSS feed reader. It is a fast, easy-to-use and easy-to-"
-"install news accumulator for GTK/GNOME."
-msgstr ""
-"Liferea 是一个在线 RSS 阅读器。它是 GTK/GNOME 下的一个快速、易用和易安装的新"
-"闻聚合软件。"
+msgid "Liferea is an online RSS feed reader. It is a fast, easy-to-use and easy-to-install news accumulator for GTK/GNOME."
+msgstr "Liferea 是一个在线 RSS 阅读器。它是 GTK/GNOME 下的一个快速、易用和易安装的新闻聚合软件。"
 
 #: chapter3/xinclude.xml:578(para)
-msgid ""
-"You can install Liferea on Ubuntu using the Synaptic Package Manager by "
-"following the procedure described in <emphasis role=\"strong\">Using "
-"Alternative E-Mail Client</emphasis> section."
-msgstr ""
-"您可以按照接下来的 <emphasis role=\"strong\">使用其他可选的电子邮件客户端</"
-"emphasis> 一节里的步骤在 Ubuntu 上使用新立得软件包管理器安装 Liferea。"
+msgid "You can install Liferea on Ubuntu using the Synaptic Package Manager by following the procedure described in <emphasis role=\"strong\">Using Alternative E-Mail Client</emphasis> section."
+msgstr "您可以按照接下来的 <emphasis role=\"strong\">使用其他可选的电子邮件客户端</emphasis> 一节里的步骤在 Ubuntu 上使用新立得软件包管理器安装 Liferea。"
 
 #: chapter3/xinclude.xml:583(para)
-msgid ""
-"The Web sites that offer RSS feeds display an RSS feed symbol next to its "
-"URL."
+msgid "The Web sites that offer RSS feeds display an RSS feed symbol next to its URL."
 msgstr "提供 RSS 的网站的 URL 地址旁会显示一个 RSS 标志。"
 
 #: chapter3/xinclude.xml:587(title)
@@ -1384,13 +816,8 @@ msgid "Accessing Liferea"
 msgstr "访问 Liferea"
 
 #: chapter3/xinclude.xml:601(para)
-msgid ""
-"You have to search the Web site that offers RSS feeds to access Liferea. "
-"Look through the complete list of newsgroups on your server to search for "
-"the group that interests you."
-msgstr ""
-"您需要搜索提供 RSS 的网站来访问 Liferea。在您的服务器上浏览完整的新闻组列表来"
-"查找感兴趣的组。"
+msgid "You have to search the Web site that offers RSS feeds to access Liferea. Look through the complete list of newsgroups on your server to search for the group that interests you."
+msgstr "您需要搜索提供 RSS 的网站来访问 Liferea。在您的服务器上浏览完整的新闻组列表来查找感兴趣的组。"
 
 #: chapter3/xinclude.xml:607(title)
 msgid "To access Liferea:"
@@ -1405,56 +832,32 @@ msgid "Opening RSS Feed Web Page"
 msgstr "打开 RSS 源网页"
 
 #: chapter3/xinclude.xml:624(para)
-msgid ""
-"On this Web page, search for the link that offers RSS feed. Click the link "
-"and save the URL of that link. This URL will be the feed."
-msgstr ""
-"在这个网页上，搜索提供 RSS 的链接，点击链接并保存这个链接的网址。这个网址就"
-"是 Feed。"
+msgid "On this Web page, search for the link that offers RSS feed. Click the link and save the URL of that link. This URL will be the feed."
+msgstr "在这个网页上，搜索提供 RSS 的链接，点击链接并保存这个链接的网址。这个网址就是 Feed。"
 
 #: chapter3/xinclude.xml:629(title)
 msgid "Searching the Link"
 msgstr "搜索该连接"
 
 #: chapter3/xinclude.xml:640(para)
-msgid ""
-"Open Liferea. On the <emphasis role=\"strong\">Applications</emphasis> menu, "
-"point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis "
-"role=\"strong\">Liferea Feed Reader.</emphasis>"
-msgstr ""
-"打开 Liferea。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 "
-"<emphasis role=\"strong\">Internet</emphasis> 然后点击<emphasis role=\"strong"
-"\">Liferea Feed 阅读器</emphasis>"
+msgid "Open Liferea. On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Liferea Feed Reader.</emphasis>"
+msgstr "打开 Liferea。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">Internet</emphasis> 然后点击<emphasis role=\"strong\">Liferea Feed 阅读器</emphasis>"
 
 #: chapter3/xinclude.xml:643(title)
 msgid "Launching Liferea Feed Reader"
 msgstr "启动 Liferea Feed 阅读器"
 
 #: chapter3/xinclude.xml:654(para)
-msgid ""
-"To subscribe to the feed, right-click anywhere on the left-pane of the "
-"Liferea window, point to New and click <emphasis role=\"strong\">New "
-"Subscription</emphasis>. The <emphasis role=\"strong\">New Subscription</"
-"emphasis> dialogue box will be displayed."
-msgstr ""
-"要订阅源，在 Liferea 左侧窗格中任何地方右击鼠标，指向 新建 并点击 <emphasis "
-"role=\"strong\">新订阅</emphasis>，<emphasis role=\"strong\">新订阅</"
-"emphasis> 对话框将会显示。"
+msgid "To subscribe to the feed, right-click anywhere on the left-pane of the Liferea window, point to New and click <emphasis role=\"strong\">New Subscription</emphasis>. The <emphasis role=\"strong\">New Subscription</emphasis> dialogue box will be displayed."
+msgstr "要订阅源，在 Liferea 左侧窗格中任何地方右击鼠标，指向 新建 并点击 <emphasis role=\"strong\">新订阅</emphasis>，<emphasis role=\"strong\">新订阅</emphasis> 对话框将会显示。"
 
 #: chapter3/xinclude.xml:659(title)
 msgid "Subscribing to RSS Feeds"
 msgstr "订阅 RSS"
 
 #: chapter3/xinclude.xml:670(para)
-msgid ""
-"In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, "
-"paste the URL, which is the feed, and click <emphasis role=\"strong\">OK</"
-"emphasis>. You will see a new feed in the <emphasis role=\"strong\">Liferea</"
-"emphasis> window."
-msgstr ""
-"在 <emphasis role=\"strong\">新订阅</emphasis> 对话框中，粘贴订阅源的网址，并"
-"点击 <emphasis role=\"strong\">完成</emphasis>，您会在 <emphasis role="
-"\"strong\">Liferea</emphasis> 窗口中看到一个新的源。"
+msgid "In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, paste the URL, which is the feed, and click <emphasis role=\"strong\">OK</emphasis>. You will see a new feed in the <emphasis role=\"strong\">Liferea</emphasis> window."
+msgstr "在 <emphasis role=\"strong\">新订阅</emphasis> 对话框中，粘贴订阅源的网址，并点击 <emphasis role=\"strong\">完成</emphasis>，您会在 <emphasis role=\"strong\">Liferea</emphasis> 窗口中看到一个新的源。"
 
 #: chapter3/xinclude.xml:675(title)
 msgid "Entering Feed Source"
@@ -1477,15 +880,11 @@ msgid "Liferea Feed Reader has multiple RSS subscriptions by default."
 msgstr "Liferea Feed 阅读器默认带有多个 RSS 订阅。"
 
 #: chapter3/xinclude.xml:707(para)
-msgid ""
-"If you do not want a chapter to be deleted after some time, you can flag it "
-"and tag it as an important item."
+msgid "If you do not want a chapter to be deleted after some time, you can flag it and tag it as an important item."
 msgstr "如果您不想让某篇在一段时间之后被删除，可以将它标记为一个重要项。"
 
 #: chapter3/xinclude.xml:712(para)
-msgid ""
-"You can use the search function to search through the downloaded items to "
-"quickly access the information needed."
+msgid "You can use the search function to search through the downloaded items to quickly access the information needed."
 msgstr "您可以使用搜索功能在下载的项目中搜索来快速访问需要的信息。"
 
 #: chapter3/xinclude.xml:717(para)
@@ -1493,9 +892,7 @@ msgid "You can also use an online search engine to search for additional news."
 msgstr "您还可以使用在线搜索引擎以搜索附加新闻。"
 
 #: chapter3/xinclude.xml:725(para)
-msgid ""
-"The change in feeds properties is required if it needs HTTP authentication "
-"or other feed specific options."
+msgid "The change in feeds properties is required if it needs HTTP authentication or other feed specific options."
 msgstr "如果需要经过 HTTP 认证或设置其他选项，则需要更改 Feed 属性。"
 
 #: chapter3/xinclude.xml:732(title)
@@ -1503,203 +900,99 @@ msgid "Sending and Receiving E-Mail Messages"
 msgstr "发送和接收电子邮件"
 
 #: chapter3/xinclude.xml:734(para)
-msgid ""
-"Evolution is the default e-mail client for Ubuntu. It combines mail, "
-"calendar and tasks in one powerful application."
-msgstr ""
-"Evolution 是 Ubuntu 的默认电子邮件客户端，它是整合了邮件、日历和任务安排功能"
-"的强大应用程序。"
+msgid "Evolution is the default e-mail client for Ubuntu. It combines mail, calendar and tasks in one powerful application."
+msgstr "Evolution 是 Ubuntu 的默认电子邮件客户端，它是整合了邮件、日历和任务安排功能的强大应用程序。"
 
 #: chapter3/xinclude.xml:738(title)
 msgid "Using Evolution Mail"
 msgstr "使用 Evolution 电子邮件"
 
 #: chapter3/xinclude.xml:743(para)
-msgid ""
-"The focus of this section is to configure Evolution e-mail client with Post "
-"Office Protocol (POP) as the sending server. If the students want to learn "
-"more, they can refer to: <ulink url=\"https://help.ubuntu.com/community/"
-"EmailClients\">https://help.ubuntu.com/community/EmailClients</ulink>."
-msgstr ""
-"本节着重于为 Evolution 电子邮件客户端配置 POP 服务器。 如果学生希望了解更多内"
-"容，可以阅读：<ulink url=\"https://help.ubuntu.com/community/EmailClients"
-"\">https://help.ubuntu.com/community/EmailClients</ulink>。"
+msgid "The focus of this section is to configure Evolution e-mail client with Post Office Protocol (POP) as the sending server. If the students want to learn more, they can refer to: <ulink url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.com/community/EmailClients</ulink>."
+msgstr "本节着重于为 Evolution 电子邮件客户端配置 POP 服务器。 如果学生希望了解更多内容，可以阅读：<ulink url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.com/community/EmailClients</ulink>。"
 
 #: chapter3/xinclude.xml:749(title)
 msgid "To configure the Evolution e-mail client on Ubuntu:"
 msgstr "要在 Ubuntu 上配置 Evolution 电子邮件客户端："
 
 #: chapter3/xinclude.xml:752(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
-"\"strong\">Evolution Mail</emphasis>."
-msgstr ""
-"点击 <emphasis role=\"strong\">应用程序</emphasis> 菜单，然后将鼠标指向 "
-"<emphasis role=\"strong\">Internet</emphasis> 再点击 <emphasis role=\"strong"
-"\">Evolution 电子邮件</emphasis>。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Evolution Mail</emphasis>."
+msgstr "点击 <emphasis role=\"strong\">应用程序</emphasis> 菜单，然后将鼠标指向 <emphasis role=\"strong\">Internet</emphasis> 再点击 <emphasis role=\"strong\">Evolution 电子邮件</emphasis>。"
 
 #: chapter3/xinclude.xml:757(title)
 msgid "Launching Evolution Mail"
 msgstr "启动 Evolution 电子邮件"
 
 #: chapter3/xinclude.xml:769(para)
-msgid ""
-"The <emphasis role=\"strong\">.evolution</emphasis> directory is created in "
-"the home directory when you run Evolution for the first time. It saves its "
-"local data in this directory. Then, it opens a first-run assistant to help "
-"you set up the e-mail accounts. User specific settings for evolution are "
-"also stored in <emphasis role=\"strong\"> .gconf/apps/evolution</emphasis>."
-msgstr ""
-"Evolution 首次运行时会在您的主目录内创建 <emphasis role=\"strong\">.evolution</emphasis> "
-"目录，并使用它储存本地数据。接下来首次运行助手会协助您设置电子邮件帐户和位于 "
-"<emphasis role=\"strong\"> .gconf/apps/evolution</emphasis> 的其他用户设置。"
-
+msgid "The <emphasis role=\"strong\">.evolution</emphasis> directory is created in the home directory when you run Evolution for the first time. It saves its local data in this directory. Then, it opens a first-run assistant to help you set up the e-mail accounts. User specific settings for evolution are also stored in <emphasis role=\"strong\"> .gconf/apps/evolution</emphasis>."
+msgstr "Evolution 首次运行时会在您的主目录内创建 <emphasis role=\"strong\">.evolution</emphasis> 目录，并使用它储存本地数据。接下来首次运行助手会协助您设置电子邮件帐户和位于 <emphasis role=\"strong\"> .gconf/apps/evolution</emphasis> 的其他用户设置。"
 
 #: chapter3/xinclude.xml:777(para)
-msgid ""
-"The <emphasis role=\"strong\">Evolution Setup Assistant</emphasis> is "
-"displayed and guides you through various steps to enable Evolution to "
-"connect to your e-mail accounts and import files from other applications. "
-"Click <emphasis role=\"strong\">Forward</emphasis>."
-msgstr ""
-"<emphasis role=\"strong\">Evolution 帐户向导</emphasis> 将协助您在几步之内完"
-"成对 Evolution 的配置使其连接到您的电子邮件帐户并从其他应用程序导入文件。点"
-"击 <emphasis role=\"strong\">下一步</emphasis>。"
+msgid "The <emphasis role=\"strong\">Evolution Setup Assistant</emphasis> is displayed and guides you through various steps to enable Evolution to connect to your e-mail accounts and import files from other applications. Click <emphasis role=\"strong\">Forward</emphasis>."
+msgstr "<emphasis role=\"strong\">Evolution 帐户向导</emphasis> 将协助您在几步之内完成对 Evolution 的配置使其连接到您的电子邮件帐户并从其他应用程序导入文件。点击 <emphasis role=\"strong\">下一步</emphasis>。"
 
 #: chapter3/xinclude.xml:783(title)
 msgid "Configuring New E-mail Account"
 msgstr "配置新的电子邮件帐户"
 
 #: chapter3/xinclude.xml:794(para)
-msgid ""
-"Evolution offers an integrated backup system. If you migrate your Evolution "
-"data from one system to another, use this dialogue. On the <emphasis role="
-"\"strong\">Restore from backup</emphasis> page, you can restore the backup "
-"files such as, e-mails, memos, address book, personal files and many more "
-"from your older version of Evolution."
-msgstr ""
-"Evolution 提供了一个集成的备份系统。如果您将 Evolution 数据从一个系统迁移到另"
-"一个，请使用这个功能。在 <emphasis role=\"strong\">从备份恢复</emphasis> 页，"
-"您可以恢复电子邮件、备忘录、地址簿、个人文件和各种老版本 Evolution 所支持的数"
-"据。"
+msgid "Evolution offers an integrated backup system. If you migrate your Evolution data from one system to another, use this dialogue. On the <emphasis role=\"strong\">Restore from backup</emphasis> page, you can restore the backup files such as, e-mails, memos, address book, personal files and many more from your older version of Evolution."
+msgstr "Evolution 提供了一个集成的备份系统。如果您将 Evolution 数据从一个系统迁移到另一个，请使用这个功能。在 <emphasis role=\"strong\">从备份恢复</emphasis> 页，您可以恢复电子邮件、备忘录、地址簿、个人文件和各种老版本 Evolution 所支持的数据。"
 
 #: chapter3/xinclude.xml:802(title)
 msgid "Restoring Evolution"
 msgstr "从备份恢复"
 
 #: chapter3/xinclude.xml:813(para)
-msgid ""
-"On the <emphasis role=\"strong\">Identity</emphasis> page, type your full "
-"name in the <emphasis role=\"strong\">Full Name</emphasis> box and your e-"
-"mail address in the <emphasis role=\"strong\">E-mail Address</emphasis> box. "
-"This is the e-mail address that your ISP provides. Your Evolution account is "
-"configured with this information. Click <emphasis role=\"strong\">Forward</"
-"emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">标识</emphasis> 页上的 <emphasis role=\"strong"
-"\">您的姓名</emphasis> 栏输入您的全名，在 <emphasis role=\"strong\">电子邮件地址</"
-"emphasis> 栏输入您的邮件服务商提供的电子邮件地址。完成后点击 <emphasis role="
-"\"strong\">下一步</emphasis>。"
+msgid "On the <emphasis role=\"strong\">Identity</emphasis> page, type your full name in the <emphasis role=\"strong\">Full Name</emphasis> box and your e-mail address in the <emphasis role=\"strong\">E-mail Address</emphasis> box. This is the e-mail address that your ISP provides. Your Evolution account is configured with this information. Click <emphasis role=\"strong\">Forward</emphasis>."
+msgstr "在 <emphasis role=\"strong\">标识</emphasis> 页上的 <emphasis role=\"strong\">您的姓名</emphasis> 栏输入您的全名，在 <emphasis role=\"strong\">电子邮件地址</emphasis> 栏输入您的邮件服务商提供的电子邮件地址。完成后点击 <emphasis role=\"strong\">下一步</emphasis>。"
 
 #: chapter3/xinclude.xml:821(title)
 msgid "Setting up Account Identity"
 msgstr "设置帐户认证"
 
 #: chapter3/xinclude.xml:833(para)
-msgid ""
-"You can skip the information in the <emphasis role=\"strong\">Optional "
-"Information</emphasis> section. You are required to type the information in "
-"the <emphasis role=\"strong\">Reply-To</emphasis> and <emphasis role=\"strong"
-"\">Organisation</emphasis> boxes, only if you want to include this in the e-"
-"mail messages you send. In <emphasis role=\"strong\">Reply-To</emphasis> "
-"box, you can type your name, favourite quotes or any other information and, "
-"in the <emphasis role=\"strong\">Organisation</emphasis> box, type any name "
-"such as that of your organisation, school or college."
-msgstr ""
-"您可以跳过 <emphasis role=\"strong\">可选信息</emphasis> 一节中的内容。如果需要，您还应填写 "
-"<emphasis role=\"strong\">回复</emphasis> 和 <emphasis role=\"strong"
-"\">组织</emphasis> 两处内容。在 <emphasis role=\"strong\">回复</emphasis> "
-"栏中您可以填写您的名字、最喜欢的名言或其他信息，在 <emphasis role=\"strong\">组织</emphasis> "
-"一栏可以填写您的组织或学校名。"
+msgid "You can skip the information in the <emphasis role=\"strong\">Optional Information</emphasis> section. You are required to type the information in the <emphasis role=\"strong\">Reply-To</emphasis> and <emphasis role=\"strong\">Organisation</emphasis> boxes, only if you want to include this in the e-mail messages you send. In <emphasis role=\"strong\">Reply-To</emphasis> box, you can type your name, favourite quotes or any other information and, in the <emphasis role=\"strong\">Organisation</emphasis> box, type any name such as that of your organisation, school or college."
+msgstr "您可以跳过 <emphasis role=\"strong\">可选信息</emphasis> 一节中的内容。如果需要，您还应填写 <emphasis role=\"strong\">回复</emphasis> 和 <emphasis role=\"strong\">组织</emphasis> 两处内容。在 <emphasis role=\"strong\">回复</emphasis> 栏中您可以填写您的名字、最喜欢的名言或其他信息，在 <emphasis role=\"strong\">组织</emphasis> 一栏可以填写您的组织或学校名。"
 
 #: chapter3/xinclude.xml:842(para)
-msgid ""
-"On the <emphasis role=\"strong\">Receiving E-mail</emphasis> page, in the "
-"<emphasis role=\"strong\">Server Type</emphasis> box select the type of "
-"server your ISP provides. Evolution is compatible with numerous server "
-"types, but POP is commonly used to receive e-mail messages."
-msgstr ""
-"On the <emphasis role=\"strong\">Receiving E-mail</emphasis> page, in the "
-"<emphasis role=\"strong\">Server Type</emphasis> box select the type of "
-"server your ISP provides. Evolution is compatible with numerous server "
-"types, but POP is commonly used to receive e-mail messages."
+msgid "On the <emphasis role=\"strong\">Receiving E-mail</emphasis> page, in the <emphasis role=\"strong\">Server Type</emphasis> box select the type of server your ISP provides. Evolution is compatible with numerous server types, but POP is commonly used to receive e-mail messages."
+msgstr "On the <emphasis role=\"strong\">Receiving E-mail</emphasis> page, in the <emphasis role=\"strong\">Server Type</emphasis> box select the type of server your ISP provides. Evolution is compatible with numerous server types, but POP is commonly used to receive e-mail messages."
 
 #: chapter3/xinclude.xml:849(title)
 msgid "Selecting Server Type for Receiving E-Mail"
 msgstr "为接收邮件选择服务器类型"
 
 #: chapter3/xinclude.xml:861(para)
-msgid ""
-"If you do not know the server information, you should contact your system "
-"administrator or ISP."
+msgid "If you do not know the server information, you should contact your system administrator or ISP."
 msgstr "如果您不知道服务器的信息，您应当联系系统管理员或者服务提供商。"
 
 #: chapter3/xinclude.xml:867(para)
-msgid ""
-"Select <emphasis role=\"strong\">POP</emphasis> from the <emphasis role="
-"\"strong\">Server Type</emphasis> box to connect to and download mail from "
-"POP servers. The Receiving E-mail page will further prompt you for the "
-"configuration information."
-msgstr ""
-"在 <emphasis role=\"strong\">服务器类型</emphasis> 中选择 <emphasis role="
-"\"strong\">POP</emphasis> 以连接到服务器并下载全部邮件。 稍后接收邮件页会提示"
-"您输入配置信息。"
+msgid "Select <emphasis role=\"strong\">POP</emphasis> from the <emphasis role=\"strong\">Server Type</emphasis> box to connect to and download mail from POP servers. The Receiving E-mail page will further prompt you for the configuration information."
+msgstr "在 <emphasis role=\"strong\">服务器类型</emphasis> 中选择 <emphasis role=\"strong\">POP</emphasis> 以连接到服务器并下载全部邮件。 稍后接收邮件页会提示您输入配置信息。"
 
 #: chapter3/xinclude.xml:876(para)
-msgid ""
-"For more information about server types, refer to: <ulink url=\"https://help."
-"ubuntu.com/community/EmailClients\">https://help.ubuntu.com/community/"
-"EmailClients</ulink>."
-msgstr ""
-"关于服务器类型的更多信息，参见：<ulink url=\"https://help.ubuntu.com/"
-"community/EmailClients\">https://help.ubuntu.com/community/EmailClients</"
-"ulink>"
+msgid "For more information about server types, refer to: <ulink url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.com/community/EmailClients</ulink>."
+msgstr "关于服务器类型的更多信息，参见：<ulink url=\"https://help.ubuntu.com/community/EmailClients\">https://help.ubuntu.com/community/EmailClients</ulink>"
 
 #: chapter3/xinclude.xml:882(para)
-msgid ""
-"Type the receiving e-mail server name in the <emphasis role=\"strong"
-"\">Server</emphasis> box and your account user name in the <emphasis role="
-"\"strong\">Username</emphasis> box. This is not your login name to your PC "
-"but your login name to your ISP's e-mail account."
-msgstr ""
+msgid "Type the receiving e-mail server name in the <emphasis role=\"strong\">Server</emphasis> box and your account user name in the <emphasis role=\"strong\">Username</emphasis> box. This is not your login name to your PC but your login name to your ISP's e-mail account."
+msgstr "在 <emphasis role=\"strong\">Server</emphasis> 框中输入邮件接收服务器并且在 <emphasis role=\"strong\">Username</emphasis> 框中输入账户的用户名。这不是自己计算机上的登录名，而是服务商提供的电子邮件账户。"
 
 #: chapter3/xinclude.xml:889(para)
-msgid ""
-"In the <emphasis role=\"strong\">Security</emphasis> section, you can select "
-"<emphasis role=\"strong\">Encryption</emphasis> or <emphasis role=\"strong"
-"\">No encryption</emphasis> in the <emphasis role=\"strong\">Use Secure "
-"Connection</emphasis> box. Encryption makes the message unreadable by anyone "
-"other than the intended recipient."
-msgstr ""
+msgid "In the <emphasis role=\"strong\">Security</emphasis> section, you can select <emphasis role=\"strong\">Encryption</emphasis> or <emphasis role=\"strong\">No encryption</emphasis> in the <emphasis role=\"strong\">Use Secure Connection</emphasis> box. Encryption makes the message unreadable by anyone other than the intended recipient."
+msgstr "在 <emphasis role=\"strong\">Security</emphasis> 节中，可以 在 <emphasis role=\"strong\">Use Secure Connection</emphasis> 框中选择 <emphasis role=\"strong\">Encryption</emphasis> 或 <emphasis role=\"strong\">No encryption</emphasis>。加密使此消息对除了希望的接收者之外的人不可读。"
 
 #: chapter3/xinclude.xml:896(para)
-msgid ""
-"Select <emphasis role=\"strong\">Password</emphasis> in the <emphasis role="
-"\"strong\">Authentication Type</emphasis> box or click <emphasis role="
-"\"strong\">Check for Supported Types</emphasis> to have Evolution check for "
-"supported authentication types. The crossed out authentication types are not "
-"supported. Generally, the password is the way you authenticate with the "
-"server."
-msgstr ""
+msgid "Select <emphasis role=\"strong\">Password</emphasis> in the <emphasis role=\"strong\">Authentication Type</emphasis> box or click <emphasis role=\"strong\">Check for Supported Types</emphasis> to have Evolution check for supported authentication types. The crossed out authentication types are not supported. Generally, the password is the way you authenticate with the server."
+msgstr "在 <emphasis role=\"strong\">认证类型</emphasis> 框中选择 <emphasis role=\"strong\">口令</emphasis> 或点击 <emphasis role=\"strong\">检查支持的类型</emphasis> 让 Evolution 检查支持的认证类型。划掉的认证类型不被支持。一般来说，口令是认证到服务器的方法。"
 
 #: chapter3/xinclude.xml:907(para)
-msgid ""
-"Contact your system administrator or ISP to know about the authentication "
-"type supported."
+msgid "Contact your system administrator or ISP to know about the authentication type supported."
 msgstr "联系您的系统管理员或服务商以了解支持的认证类型。"
 
-#: chapter3/xinclude.xml:913(para) chapter3/xinclude.xml:955(para)
+#: chapter3/xinclude.xml:913(para)
+#: chapter3/xinclude.xml:955(para)
 msgid "Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr "点击 <emphasis role=\"strong\">前进</emphasis>。"
 
@@ -1708,53 +1001,31 @@ msgid "Providing POP Server Information"
 msgstr "提供 POP 服务器信息"
 
 #: chapter3/xinclude.xml:929(para)
-msgid ""
-"On the <emphasis role=\"strong\">Receiving Options</emphasis> page , select "
-"the following options, if required:"
-msgstr ""
-"如果需要请在 <emphasis role=\"strong\">接收选项</emphasis> 页选择以下选项："
+msgid "On the <emphasis role=\"strong\">Receiving Options</emphasis> page , select the following options, if required:"
+msgstr "如果需要请在 <emphasis role=\"strong\">接收选项</emphasis> 页选择以下选项："
 
 #: chapter3/xinclude.xml:934(para)
-msgid ""
-"To automatically check e-mail messages after a particular interval of time, "
-"select <emphasis role=\"strong\">Automatically check for new mail every</"
-"emphasis> check box. Specify the duration of the interval in the <emphasis "
-"role=\"strong\"> minutes</emphasis> list."
-msgstr ""
+msgid "To automatically check e-mail messages after a particular interval of time, select <emphasis role=\"strong\">Automatically check for new mail every</emphasis> check box. Specify the duration of the interval in the <emphasis role=\"strong\"> minutes</emphasis> list."
+msgstr "要特定的时间间隔后自动检查电子邮件消息，选择 <emphasis role=\"strong\">Automatically check for new mail every</emphasis> 复选框。在 <emphasis role=\"strong\"> minutes</emphasis> 列表中选择间隔的长度。"
 
 #: chapter3/xinclude.xml:942(para)
-msgid ""
-"In the <emphasis role=\"strong\">Message storage</emphasis> section, select "
-"<emphasis role=\"strong\">Leave message on server</emphasis> check box "
-"<emphasis role=\"strong\">,</emphasis> if you want to leave a message on the "
-"server."
+msgid "In the <emphasis role=\"strong\">Message storage</emphasis> section, select <emphasis role=\"strong\">Leave message on server</emphasis> check box <emphasis role=\"strong\">,</emphasis> if you want to leave a message on the server."
 msgstr ""
 
 #: chapter3/xinclude.xml:949(para)
-msgid ""
-"Select <emphasis role=\"strong\">Disable support for all POP3 extensions</"
-"emphasis> check box, if you want to disable POP3."
-msgstr ""
-"如果您要禁用 POP3，请选中 <emphasis role=\"strong\">禁用所有 POP3 扩展支持</"
-"emphasis>。"
+msgid "Select <emphasis role=\"strong\">Disable support for all POP3 extensions</emphasis> check box, if you want to disable POP3."
+msgstr "如果您要禁用 POP3，请选中 <emphasis role=\"strong\">禁用所有 POP3 扩展支持</emphasis>。"
 
 #: chapter3/xinclude.xml:960(title)
 msgid "Specifying Mail Checking and Storage Options"
 msgstr "指定邮件检查和储存选项"
 
 #: chapter3/xinclude.xml:971(para)
-msgid ""
-"On the Sending E-mail page, specify the information according to the way you "
-"want to send e-mail messages. Select the outbound mail server in the "
-"<emphasis role=\"strong\">Server Type</emphasis> box."
+msgid "On the Sending E-mail page, specify the information according to the way you want to send e-mail messages. Select the outbound mail server in the <emphasis role=\"strong\">Server Type</emphasis> box."
 msgstr ""
 
 #: chapter3/xinclude.xml:978(para)
-msgid ""
-"There are two methods you can use to send e-mail messages, SMTP and "
-"Programmes Send Mails. SMTP is the common method that is used to send e-mail "
-"messages. Select <emphasis role=\"strong\">SMTP</emphasis> as your outbound "
-"mail server type in the <emphasis role=\"strong\">Server Type</emphasis> box."
+msgid "There are two methods you can use to send e-mail messages, SMTP and Programmes Send Mails. SMTP is the common method that is used to send e-mail messages. Select <emphasis role=\"strong\">SMTP</emphasis> as your outbound mail server type in the <emphasis role=\"strong\">Server Type</emphasis> box."
 msgstr ""
 
 #: chapter3/xinclude.xml:986(para)
@@ -1766,42 +1037,23 @@ msgid "Providing SMTP Server Information"
 msgstr "提供 SMTP 服务器信息"
 
 #: chapter3/xinclude.xml:1000(para)
-msgid ""
-"Type the host address in the <emphasis role=\"strong\">Server</emphasis> "
-"box. This is the address of the outbound server that your ISP provides."
+msgid "Type the host address in the <emphasis role=\"strong\">Server</emphasis> box. This is the address of the outbound server that your ISP provides."
 msgstr ""
 
 #: chapter3/xinclude.xml:1005(para)
-msgid ""
-"Specify how you want the server to authenticate. Select <emphasis role="
-"\"strong\">Server requires authentication</emphasis> check box, if your "
-"server requires authentication. You will be asked to select your "
-"authentication type in the <emphasis role=\"strong\">Type</emphasis> box. "
-"You can also click <emphasis role=\"strong\">Check for Supported Types</"
-"emphasis> to have evolution check for supported types."
+msgid "Specify how you want the server to authenticate. Select <emphasis role=\"strong\">Server requires authentication</emphasis> check box, if your server requires authentication. You will be asked to select your authentication type in the <emphasis role=\"strong\">Type</emphasis> box. You can also click <emphasis role=\"strong\">Check for Supported Types</emphasis> to have evolution check for supported types."
 msgstr ""
 
 #: chapter3/xinclude.xml:1015(para)
-msgid ""
-"Type the evolution account user name in the <emphasis role=\"strong\"> "
-"Username</emphasis> box."
+msgid "Type the evolution account user name in the <emphasis role=\"strong\"> Username</emphasis> box."
 msgstr ""
 
 #: chapter3/xinclude.xml:1019(para)
-msgid ""
-"Select <emphasis role=\"strong\">Remember Password</emphasis> check box, if "
-"you want evolution to remember your password. Then, click <emphasis role="
-"\"strong\">Forward</emphasis>. The <emphasis role=\"strong\">Account "
-"Management</emphasis> page is displayed."
+msgid "Select <emphasis role=\"strong\">Remember Password</emphasis> check box, if you want evolution to remember your password. Then, click <emphasis role=\"strong\">Forward</emphasis>. The <emphasis role=\"strong\">Account Management</emphasis> page is displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1030(para)
-msgid ""
-"It is possible for Evolution to access multiple e-mail providers. To "
-"differentiate between them, you can give each e-mail provider a name. Type a "
-"name for this configuration or your account in the <emphasis role=\"strong"
-"\">Name</emphasis> box. You can type any name you prefer as this is only for "
-"your reference. Then, click <emphasis role=\"strong\">Forward</emphasis>."
+msgid "It is possible for Evolution to access multiple e-mail providers. To differentiate between them, you can give each e-mail provider a name. Type a name for this configuration or your account in the <emphasis role=\"strong\">Name</emphasis> box. You can type any name you prefer as this is only for your reference. Then, click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1038(title)
@@ -1809,84 +1061,47 @@ msgid "Providing Account Information"
 msgstr "提供帐户信息"
 
 #: chapter3/xinclude.xml:1049(para)
-msgid ""
-"On the <emphasis role=\"strong\">Timezone</emphasis> page, select the time "
-"zone you are in, either on the map or from the <emphasis role=\"strong"
-"\">Selection</emphasis> list. Click <emphasis role=\"strong\">Forward</"
-"emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">时区</emphasis> 页选择您所在的时区，既可以在地图"
-"上选择也可以在 <emphasis role=\"strong\">选择</emphasis> 列表里设置。完成后点"
-"击 <emphasis role=\"strong\">前进</emphasis>。"
+msgid "On the <emphasis role=\"strong\">Timezone</emphasis> page, select the time zone you are in, either on the map or from the <emphasis role=\"strong\">Selection</emphasis> list. Click <emphasis role=\"strong\">Forward</emphasis>."
+msgstr "在 <emphasis role=\"strong\">时区</emphasis> 页选择您所在的时区，既可以在地图上选择也可以在 <emphasis role=\"strong\">选择</emphasis> 列表里设置。完成后点击 <emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/xinclude.xml:1054(title)
 msgid "Specifying Timezone"
 msgstr "指定时区"
 
 #: chapter3/xinclude.xml:1065(para)
-msgid ""
-"Configuration is done. Click <emphasis role=\"strong\">Apply</emphasis> to "
-"save your settings. The Evolution window will be displayed."
-msgstr ""
-"配置到此结束，点击 <emphasis role=\"strong\">应用</emphasis> 保存您的设置。"
-"Evolution 窗口将会出现。"
+msgid "Configuration is done. Click <emphasis role=\"strong\">Apply</emphasis> to save your settings. The Evolution window will be displayed."
+msgstr "配置到此结束，点击 <emphasis role=\"strong\">应用</emphasis> 保存您的设置。Evolution 窗口将会出现。"
 
 #: chapter3/xinclude.xml:1069(title)
 msgid "Evolution"
 msgstr "Evolution"
 
 #: chapter3/xinclude.xml:1083(para)
-msgid ""
-"For more information on how to use the Evolution e-mail client, refer to: "
-"<ulink url=\"https://help.ubuntu.com/8.04/internet/C/email.html\">https://"
-"help.ubuntu.com/8.04/internet/C/email.html</ulink>."
-msgstr ""
-"更多关于如何使用 Evolution 电子邮件客户端的信息，参见：<ulink url=\"https://"
-"help.ubuntu.com/9.10/internet/C/email.html\">https://help.ubuntu.com/9.10/"
-"internet/C/email.html</ulink>"
+msgid "For more information on how to use the Evolution e-mail client, refer to: <ulink url=\"https://help.ubuntu.com/8.04/internet/C/email.html\">https://help.ubuntu.com/8.04/internet/C/email.html</ulink>."
+msgstr "更多关于如何使用 Evolution 电子邮件客户端的信息，参见：<ulink url=\"https://help.ubuntu.com/9.10/internet/C/email.html\">https://help.ubuntu.com/9.10/internet/C/email.html</ulink>"
 
 #: chapter3/xinclude.xml:1089(title)
 msgid "Using an Alternative E-Mail Client"
 msgstr "使用其他电子邮件客户端"
 
 #: chapter3/xinclude.xml:1091(para)
-msgid ""
-"In addition to Evolution, you can use many other e-mail clients, such as "
-"Mozilla Thunderbird, Balsa and Pine. If you have been using the Mozilla "
-"Suite, you may prefer to use Thunderbird which is very similar. Try them "
-"both and see which you prefer. Mozilla Thunderbird is an e-mail application "
-"developed by Mozilla Foundation. It is a free, cross-platform e-mail and "
-"news application."
-msgstr ""
-"除 Evolution 外，您还有很多可选的电子邮件客户端，例如 Mozilla Thunderbird，"
-"Balsa 和 Pine。如果您曾经使用过 Mozilla 套装，那么您将觉得 Thunderbird 非常熟"
-"悉。您可以尝试他们从中选择一个您所喜欢的。Mozilla Thunderbird 由 Mozilla 基金"
-"会开发，它是一个自由的、跨平台的电子邮件和新闻组应用程序。"
+msgid "In addition to Evolution, you can use many other e-mail clients, such as Mozilla Thunderbird, Balsa and Pine. If you have been using the Mozilla Suite, you may prefer to use Thunderbird which is very similar. Try them both and see which you prefer. Mozilla Thunderbird is an e-mail application developed by Mozilla Foundation. It is a free, cross-platform e-mail and news application."
+msgstr "除 Evolution 外，您还有很多可选的电子邮件客户端，例如 Mozilla Thunderbird，Balsa 和 Pine。如果您曾经使用过 Mozilla 套装，那么您将觉得 Thunderbird 非常熟悉。您可以尝试他们从中选择一个您所喜欢的。Mozilla Thunderbird 由 Mozilla 基金会开发，它是一个自由的、跨平台的电子邮件和新闻组应用程序。"
 
 #: chapter3/xinclude.xml:1101(para)
-msgid ""
-"Mozilla Suite is a cohesive collection of integrated Internet applications, "
-"including a Web browser, e-mail and newsgroup client, Internet Relay Chat "
-"(IRC) chat client, address book organizer and Web page creation utility."
+msgid "Mozilla Suite is a cohesive collection of integrated Internet applications, including a Web browser, e-mail and newsgroup client, Internet Relay Chat (IRC) chat client, address book organizer and Web page creation utility."
 msgstr ""
 
 #: chapter3/xinclude.xml:1107(para)
-msgid ""
-"The Thunderbird e-mail application is available in the Universe repository "
-"and can be installed on your computer from the Synaptic Package Manager."
-msgstr ""
-"Thunderbird 处在 Universe 仓库中，您可以使用新立得软件包管理器进行安装。"
+msgid "The Thunderbird e-mail application is available in the Universe repository and can be installed on your computer from the Synaptic Package Manager."
+msgstr "Thunderbird 处在 Universe 仓库中，您可以使用新立得软件包管理器进行安装。"
 
 #: chapter3/xinclude.xml:1112(title)
 msgid "To install Thunderbird on Ubuntu, perform the following steps:"
 msgstr "要在 Ubuntu 上安装 Thunderbird，请按照以下步骤操作："
 
 #: chapter3/xinclude.xml:1116(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and select <emphasis role=\"strong"
-"\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong"
-"\">Synaptic Package Manager</emphasis> window will be displayed."
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and select <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window will be displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1123(title)
@@ -1894,34 +1109,15 @@ msgid "Launching Synaptic Package Manager"
 msgstr "启动新立得软件包管理器"
 
 #: chapter3/xinclude.xml:1134(para)
-msgid ""
-"In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
-"dialogue box, you can select the package you need. The left pane lists the "
-"categories, and the right pane lists the packages. You can search for the "
-"package by clicking Search and specifying its name. If you do not know the "
-"name of the package, select the category in the left pane to filter the list "
-"of packages. You can then select the check box next to the required package "
-"in the right pane."
+msgid "In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> dialogue box, you can select the package you need. The left pane lists the categories, and the right pane lists the packages. You can search for the package by clicking Search and specifying its name. If you do not know the name of the package, select the category in the left pane to filter the list of packages. You can then select the check box next to the required package in the right pane."
 msgstr ""
 
 #: chapter3/xinclude.xml:1146(para)
-msgid ""
-"If you want to view the installed and uninstalled packages, click <emphasis "
-"role=\"strong\">Status</emphasis>. To know the source repository of the "
-"package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis "
-"role=\"strong\">Custom Filters</emphasis> if you want to know whether a "
-"package is broken or can be upgraded."
+msgid "If you want to view the installed and uninstalled packages, click <emphasis role=\"strong\">Status</emphasis>. To know the source repository of the package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis role=\"strong\">Custom Filters</emphasis> if you want to know whether a package is broken or can be upgraded."
 msgstr ""
 
 #: chapter3/xinclude.xml:1154(para)
-msgid ""
-"Click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role="
-"\"strong\">Find</emphasis> dialogue box opens. Type the name of the package, "
-"<emphasis role=\"strong\">Thunderbird</emphasis>, in the <emphasis role="
-"\"strong\">Search</emphasis> field and click <emphasis role=\"strong"
-"\">Search</emphasis>. The Mozilla Thunderbird package displays in the right "
-"pane of the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
-"window."
+msgid "Click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role=\"strong\">Find</emphasis> dialogue box opens. Type the name of the package, <emphasis role=\"strong\">Thunderbird</emphasis>, in the <emphasis role=\"strong\">Search</emphasis> field and click <emphasis role=\"strong\">Search</emphasis>. The Mozilla Thunderbird package displays in the right pane of the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window."
 msgstr ""
 
 #: chapter3/xinclude.xml:1161(title)
@@ -1929,16 +1125,11 @@ msgid "Searching Thunderbird"
 msgstr "搜索 Thunderbird"
 
 #: chapter3/xinclude.xml:1173(para)
-msgid ""
-"To return to the list of categories after searching the packages using "
-"<emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong"
-"\">Sections</emphasis>."
+msgid "To return to the list of categories after searching the packages using <emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong\">Sections</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1180(para)
-msgid ""
-"Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check "
-"box to install the package."
+msgid "Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box to install the package."
 msgstr ""
 
 #: chapter3/xinclude.xml:1184(title)
@@ -1946,39 +1137,23 @@ msgid "Marking Thunderbird for Installation"
 msgstr "标记 Thunderbird 以安装"
 
 #: chapter3/xinclude.xml:1195(para)
-msgid ""
-"The package that you choose to install may depend on other packages. In this "
-"case, you are notified about the dependencies. To continue making the "
-"changes required to resolve the dependencies, click <emphasis role=\"strong"
-"\">Mark</emphasis>."
+msgid "The package that you choose to install may depend on other packages. In this case, you are notified about the dependencies. To continue making the changes required to resolve the dependencies, click <emphasis role=\"strong\">Mark</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1202(para)
-msgid ""
-"To confirm that you want to make the marked changes, click <emphasis role="
-"\"strong\">Apply.</emphasis>"
-msgstr ""
-"要确认您要执行已标记的变更，请点击 <emphasis role=\"strong\">应用</"
-"emphasis>。"
+msgid "To confirm that you want to make the marked changes, click <emphasis role=\"strong\">Apply.</emphasis>"
+msgstr "要确认您要执行已标记的变更，请点击 <emphasis role=\"strong\">应用</emphasis>。"
 
 #: chapter3/xinclude.xml:1206(title)
 msgid "Confirming Changes"
 msgstr "确认变更"
 
 #: chapter3/xinclude.xml:1217(para)
-msgid ""
-"The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, "
-"prompting you for a final check before making the marked changes. Click "
-"<emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
+msgid "The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, prompting you for a final check before making the marked changes. Click <emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
 msgstr ""
 
 #: chapter3/xinclude.xml:1222(para)
-msgid ""
-"This completes the procedure of installing Thunderbird by using Synaptic "
-"Package Manager. To access Thunderbird, on the <emphasis role=\"strong"
-"\">Applications</emphasis> menu, point to <emphasis role=\"strong"
-"\">Internet</emphasis> and click <emphasis role=\"strong\">Mozilla "
-"Thunderbird Mail/News</emphasis>."
+msgid "This completes the procedure of installing Thunderbird by using Synaptic Package Manager. To access Thunderbird, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Mozilla Thunderbird Mail/News</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1227(para)
@@ -1998,9 +1173,7 @@ msgid "Features of Thunderbird"
 msgstr "Thunderbird 的特性"
 
 #: chapter3/xinclude.xml:1254(para)
-msgid ""
-"Thunderbird features many enhancements to help you better manage your inbox, "
-"send emails and organise your correspondence."
+msgid "Thunderbird features many enhancements to help you better manage your inbox, send emails and organise your correspondence."
 msgstr "Thunderbird 特性能帮助您更好地管理收件箱、发送和组织信件。"
 
 #: chapter3/xinclude.xml:1258(para)
@@ -2012,12 +1185,7 @@ msgid "Stop Junk Mail"
 msgstr "阻止垃圾邮件"
 
 #: chapter3/xinclude.xml:1265(para)
-msgid ""
-"If you are tired of spam and annoying advertising in your Inbox, Mozilla "
-"Thunderbird provides effective tools for detecting junk mail. These tools "
-"analyse your e-mail message and identify those that are most likely to be "
-"junk. Your junk mail can be automatically deleted or placed in a specific "
-"folder."
+msgid "If you are tired of spam and annoying advertising in your Inbox, Mozilla Thunderbird provides effective tools for detecting junk mail. These tools analyse your e-mail message and identify those that are most likely to be junk. Your junk mail can be automatically deleted or placed in a specific folder."
 msgstr ""
 
 #: chapter3/xinclude.xml:1273(title)
@@ -2029,20 +1197,11 @@ msgid "To activate the junk mail filters in Thunderbird:"
 msgstr "要在 Thunderbird 中激活垃圾邮件过滤器："
 
 #: chapter3/xinclude.xml:1286(para)
-msgid ""
-"On the <emphasis role=\"strong\">Tools</emphasis> menu, click <emphasis role="
-"\"strong\">Junk Mail Controls</emphasis>. The <emphasis role=\"strong\">Junk "
-"Mail Controls</emphasis> window will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">工具</emphasis> 菜单中点击 <emphasis role="
-"\"strong\">对文件夹运行垃圾邮件控制</emphasis>，<emphasis role=\"strong\">垃"
-"圾邮件控制</emphasis> 窗口就会出现。"
+msgid "On the <emphasis role=\"strong\">Tools</emphasis> menu, click <emphasis role=\"strong\">Junk Mail Controls</emphasis>. The <emphasis role=\"strong\">Junk Mail Controls</emphasis> window will be displayed."
+msgstr "在 <emphasis role=\"strong\">工具</emphasis> 菜单中点击 <emphasis role=\"strong\">对文件夹运行垃圾邮件控制</emphasis>，<emphasis role=\"strong\">垃圾邮件控制</emphasis> 窗口就会出现。"
 
 #: chapter3/xinclude.xml:1293(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Adaptive Filter</emphasis> tab. Select "
-"the <emphasis role=\"strong\">Enable adaptive junk mail detection</emphasis> "
-"check box and click <emphasis role=\"strong\">OK</emphasis>"
+msgid "Click the <emphasis role=\"strong\">Adaptive Filter</emphasis> tab. Select the <emphasis role=\"strong\">Enable adaptive junk mail detection</emphasis> check box and click <emphasis role=\"strong\">OK</emphasis>"
 msgstr ""
 
 #: chapter3/xinclude.xml:1303(title)
@@ -2050,9 +1209,7 @@ msgid "Customise your mail"
 msgstr "定制外观"
 
 #: chapter3/xinclude.xml:1305(para)
-msgid ""
-"You have three column views to access you e-mail messages: Classic, Wide and "
-"Vertical view."
+msgid "You have three column views to access you e-mail messages: Classic, Wide and Vertical view."
 msgstr "您有三种可选的视图用以查看您的电子邮件：经典视图、宽视图和直视图。"
 
 #: chapter3/xinclude.xml:1310(title)
@@ -2064,11 +1221,8 @@ msgid "Built-in Spell Checker"
 msgstr "内建拼写检查器"
 
 #: chapter3/xinclude.xml:1324(para)
-msgid ""
-"To check for correct spelling, click <emphasis role=\"strong\">Spell</"
-"emphasis> on the toolbar."
-msgstr ""
-"要检查拼写，点击工具栏上的 <emphasis role=\"strong\">拼写</emphasis> 按钮。"
+msgid "To check for correct spelling, click <emphasis role=\"strong\">Spell</emphasis> on the toolbar."
+msgstr "要检查拼写，点击工具栏上的 <emphasis role=\"strong\">拼写</emphasis> 按钮。"
 
 #: chapter3/xinclude.xml:1328(title)
 msgid "Spell Checker"
@@ -2079,10 +1233,7 @@ msgid "Security"
 msgstr "安全"
 
 #: chapter3/xinclude.xml:1342(para)
-msgid ""
-"Thunderbird provides enhanced security features, which is equivalent to "
-"enterprise and government-grade security. It offers built-in support for "
-"Secure/Multipurpose Internet Mail Extensions (S/MIME) secure e-mail message."
+msgid "Thunderbird provides enhanced security features, which is equivalent to enterprise and government-grade security. It offers built-in support for Secure/Multipurpose Internet Mail Extensions (S/MIME) secure e-mail message."
 msgstr ""
 
 #: chapter3/xinclude.xml:1351(title)
@@ -2090,10 +1241,7 @@ msgid "Extensions"
 msgstr "扩展"
 
 #: chapter3/xinclude.xml:1353(para)
-msgid ""
-"Extensions are powerful tools to help you build a mail client that meets "
-"your specific needs. Mozilla Thunderbird has several features, such as quick "
-"search, a smart address book, advanced message filtering and more."
+msgid "Extensions are powerful tools to help you build a mail client that meets your specific needs. Mozilla Thunderbird has several features, such as quick search, a smart address book, advanced message filtering and more."
 msgstr ""
 
 #: chapter3/xinclude.xml:1362(title)
@@ -2101,9 +1249,7 @@ msgid "News Reader"
 msgstr "新闻阅读器"
 
 #: chapter3/xinclude.xml:1364(para)
-msgid ""
-"Mozilla Thunderbird makes it easier to subscribe to your favourite "
-"newsgroups, downloading headers and messages and offline support."
+msgid "Mozilla Thunderbird makes it easier to subscribe to your favourite newsgroups, downloading headers and messages and offline support."
 msgstr ""
 
 #: chapter3/xinclude.xml:1370(title)
@@ -2115,10 +1261,7 @@ msgid "Themes"
 msgstr "主题"
 
 #: chapter3/xinclude.xml:1384(para)
-msgid ""
-"As with most elements on Ubuntu, you can personalise the themes to change "
-"the look and feel of Mozilla Thunderbird. A theme can change the toolbar "
-"icons or the complete appearance of an application."
+msgid "As with most elements on Ubuntu, you can personalise the themes to change the look and feel of Mozilla Thunderbird. A theme can change the toolbar icons or the complete appearance of an application."
 msgstr ""
 
 #: chapter3/xinclude.xml:1393(title)
@@ -2126,58 +1269,27 @@ msgid "Cross-Platform Support"
 msgstr "跨平台支持"
 
 #: chapter3/xinclude.xml:1395(para)
-msgid ""
-"Thunderbird is used on various platforms, such as Ubuntu, Microsoft Windows, "
-"Mac OS X and Unix-based operating systems."
-msgstr ""
-"Thunderbird 支持包括 Ubuntu 在内的 Linux 系统，Microsoft Windows，Mac OS X 及"
-"众多 Unix和类 Unix 操作系统。"
+msgid "Thunderbird is used on various platforms, such as Ubuntu, Microsoft Windows, Mac OS X and Unix-based operating systems."
+msgstr "Thunderbird 支持包括 Ubuntu 在内的 Linux 系统，Microsoft Windows，Mac OS X 及众多 Unix和类 Unix 操作系统。"
 
 #: chapter3/xinclude.xml:1405(title)
 msgid "Instant Messaging"
 msgstr "即时消息"
 
 #: chapter3/xinclude.xml:1407(para)
-msgid ""
-"E-mail message is not expected to be real-time, which means you can respond "
-"to it when time allows. But when 'Immediacy' is required, instant messaging "
-"(IM) is the way to go. Using IM over the Internet can bring down costs of "
-"long distance phone calls when you want to stay in contact with friends. "
-"While in office, if you want an answer to a simple question, IM facilitates "
-"quick and easy communication and reduces the amount of e-mail messages sent "
-"and received in a day. IM also enables you to view a person using Web-cams "
-"or talk over the Internet for free."
+msgid "E-mail message is not expected to be real-time, which means you can respond to it when time allows. But when 'Immediacy' is required, instant messaging (IM) is the way to go. Using IM over the Internet can bring down costs of long distance phone calls when you want to stay in contact with friends. While in office, if you want an answer to a simple question, IM facilitates quick and easy communication and reduces the amount of e-mail messages sent and received in a day. IM also enables you to view a person using Web-cams or talk over the Internet for free."
 msgstr ""
 
 #: chapter3/xinclude.xml:1416(para)
-msgid ""
-"The default instant messenger client on Ubuntu is Pidgin, a cross-platform "
-"instant messenger that supports various popular IM network protocols. Using "
-"Pidgin, you can communicate with people who use America Online (AOL) Instant "
-"Messenger (AIM/ICQ), Gadu-Gadu, GroupWise, IRC, Jabber, MSN, Napster and "
-"Yahoo. It allows you to list all your friends in one window. Pidgin users "
-"can log on to multiple accounts on multiple IM networks simultaneously. This "
-"means that you can chat with friends on AIM, talk to a friend on Yahoo "
-"Messenger, and sit in an IRC channel, all at the same time. Pidgin supports "
-"many features of the various networks, such as file transfer, away messages, "
-"typing notification, and MSN window closing notification. A few popular "
-"features are Buddy Pounces, which give the ability to notify you, send a "
-"message, play a sound or run a programme when a specific buddy goes away, "
-"signs online or returns from idle."
+msgid "The default instant messenger client on Ubuntu is Pidgin, a cross-platform instant messenger that supports various popular IM network protocols. Using Pidgin, you can communicate with people who use America Online (AOL) Instant Messenger (AIM/ICQ), Gadu-Gadu, GroupWise, IRC, Jabber, MSN, Napster and Yahoo. It allows you to list all your friends in one window. Pidgin users can log on to multiple accounts on multiple IM networks simultaneously. This means that you can chat with friends on AIM, talk to a friend on Yahoo Messenger, and sit in an IRC channel, all at the same time. Pidgin supports many features of the various networks, such as file transfer, away messages, typing notification, and MSN window closing notification. A few popular features are Buddy Pounces, which give the ability to notify you, send a message, play a sound or run a programme when a specific buddy goes away, signs online or returns from idle."
 msgstr ""
 
 #: chapter3/xinclude.xml:1431(title)
-msgid ""
-"To connect to an existing e-mail account using the Pidgin instant messenger, "
-"perform the following steps:"
+msgid "To connect to an existing e-mail account using the Pidgin instant messenger, perform the following steps:"
 msgstr ""
 
 #: chapter3/xinclude.xml:1435(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
-"\"strong\">Pidgin Internet Messenger</emphasis>. The <emphasis role=\"strong"
-"\">Accounts</emphasis> dialogue box with a welcome message will be displayed."
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Pidgin Internet Messenger</emphasis>. The <emphasis role=\"strong\">Accounts</emphasis> dialogue box with a welcome message will be displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1442(title)
@@ -2185,10 +1297,7 @@ msgid "Launching Pidgin Internet Messenger"
 msgstr "启动 Pidgin 互联网通讯程序"
 
 #: chapter3/xinclude.xml:1453(para)
-msgid ""
-"Click <emphasis role=\"strong\">Add</emphasis> to configure your any "
-"existing e-mail account on Pidgin. The <emphasis role=\"strong\">Add "
-"Account</emphasis> dialogue box will be displayed."
+msgid "Click <emphasis role=\"strong\">Add</emphasis> to configure your any existing e-mail account on Pidgin. The <emphasis role=\"strong\">Add Account</emphasis> dialogue box will be displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1458(title)
@@ -2196,16 +1305,7 @@ msgid "Adding a New IM Account"
 msgstr ""
 
 #: chapter3/xinclude.xml:1469(para)
-msgid ""
-"In the <emphasis role=\"strong\">Add Account</emphasis> dialogue box, select "
-"the protocol, which is your e-mail account server name from the <emphasis "
-"role=\"strong\">Protocol</emphasis> box. The protocol is the name of the "
-"server you want to use for chat. Type your selected protocol's e-mail ID in "
-"the <emphasis role=\"strong\">Screen name</emphasis> box and the "
-"corresponding password. Type your nick name that you would like to be known "
-"by while chatting in the <emphasis role=\"strong\">Local alias</emphasis> "
-"box. Click <emphasis role=\"strong\">Save</emphasis> to create the account. "
-"The <emphasis role=\"strong\">Accounts</emphasis> window will be displayed."
+msgid "In the <emphasis role=\"strong\">Add Account</emphasis> dialogue box, select the protocol, which is your e-mail account server name from the <emphasis role=\"strong\">Protocol</emphasis> box. The protocol is the name of the server you want to use for chat. Type your selected protocol's e-mail ID in the <emphasis role=\"strong\">Screen name</emphasis> box and the corresponding password. Type your nick name that you would like to be known by while chatting in the <emphasis role=\"strong\">Local alias</emphasis> box. Click <emphasis role=\"strong\">Save</emphasis> to create the account. The <emphasis role=\"strong\">Accounts</emphasis> window will be displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1479(title)
@@ -2213,10 +1313,7 @@ msgid "Providing Basic Account Information"
 msgstr "提供基本帐户信息"
 
 #: chapter3/xinclude.xml:1490(para)
-msgid ""
-"You can see the newly created account with a check mark indicating that it "
-"is active in the <emphasis role=\"strong\">Accounts</emphasis> window. Click "
-"<emphasis role=\"strong\">Close</emphasis>."
+msgid "You can see the newly created account with a check mark indicating that it is active in the <emphasis role=\"strong\">Accounts</emphasis> window. Click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1494(title)
@@ -2224,17 +1321,11 @@ msgid "Viewing Added Accounts"
 msgstr "查看已添加的帐户"
 
 #: chapter3/xinclude.xml:1506(para)
-msgid ""
-"If you want to add another e-mail account, click <emphasis role=\"strong"
-"\">Add</emphasis> in the <emphasis role=\"strong\">Accounts</emphasis> "
-"window and perform steps 1-4."
+msgid "If you want to add another e-mail account, click <emphasis role=\"strong\">Add</emphasis> in the <emphasis role=\"strong\">Accounts</emphasis> window and perform steps 1-4."
 msgstr ""
 
 #: chapter3/xinclude.xml:1512(para)
-msgid ""
-"Now, click the <emphasis role=\"strong\">Pidgin</emphasis> icon on the top "
-"panel of the desktop to view the <emphasis role=\"strong\">Buddy List</"
-"emphasis> window for your current account."
+msgid "Now, click the <emphasis role=\"strong\">Pidgin</emphasis> icon on the top panel of the desktop to view the <emphasis role=\"strong\">Buddy List</emphasis> window for your current account."
 msgstr ""
 
 #: chapter3/xinclude.xml:1517(title)
@@ -2242,11 +1333,7 @@ msgid "Viewing Buddy List"
 msgstr ""
 
 #: chapter3/xinclude.xml:1528(para)
-msgid ""
-"To start using Pidgin, on the <emphasis role=\"strong\">Buddies</emphasis> "
-"menu, click <emphasis role=\"strong\">New Instant Message</emphasis>. The "
-"<emphasis role=\"strong\">New Instant Message</emphasis> window will be "
-"displayed."
+msgid "To start using Pidgin, on the <emphasis role=\"strong\">Buddies</emphasis> menu, click <emphasis role=\"strong\">New Instant Message</emphasis>. The <emphasis role=\"strong\">New Instant Message</emphasis> window will be displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1532(title)
@@ -2254,11 +1341,7 @@ msgid "New Instant Message"
 msgstr ""
 
 #: chapter3/xinclude.xml:1543(para)
-msgid ""
-"To interact with other users, type the screen name or alias of the person "
-"you would like to chat with in the <emphasis role=\"strong\">Name</emphasis> "
-"box and click <emphasis role=\"strong\">OK</emphasis>. An IM window will be "
-"displayed."
+msgid "To interact with other users, type the screen name or alias of the person you would like to chat with in the <emphasis role=\"strong\">Name</emphasis> box and click <emphasis role=\"strong\">OK</emphasis>. An IM window will be displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:1547(title)
@@ -2266,9 +1349,7 @@ msgid "Specifying Buddy Name"
 msgstr ""
 
 #: chapter3/xinclude.xml:1558(para)
-msgid ""
-"You can use the box at the bottom of the window to type your messages and "
-"press Enter to send them. This is how you can start your conversation."
+msgid "You can use the box at the bottom of the window to type your messages and press Enter to send them. This is how you can start your conversation."
 msgstr ""
 
 #: chapter3/xinclude.xml:1563(title)
@@ -2276,13 +1357,7 @@ msgid "IM Window"
 msgstr ""
 
 #: chapter3/xinclude.xml:1575(para)
-msgid ""
-"You can change the appearance of Pidgin by adding additional features, such "
-"as changing its graphical interface and theme to it. The packages required "
-"to do this are Pidgin-guifications, Pidgin-libnotify and Pidgin-themes. You "
-"can install these packages from Synaptic Package Manager by following the "
-"procedure listed in the <emphasis role=\"strong\">Using Alternative E-Mail "
-"Client</emphasis> section."
+msgid "You can change the appearance of Pidgin by adding additional features, such as changing its graphical interface and theme to it. The packages required to do this are Pidgin-guifications, Pidgin-libnotify and Pidgin-themes. You can install these packages from Synaptic Package Manager by following the procedure listed in the <emphasis role=\"strong\">Using Alternative E-Mail Client</emphasis> section."
 msgstr ""
 
 #: chapter3/xinclude.xml:1588(title)
@@ -2290,34 +1365,15 @@ msgid "Making Phone Calls Using Softphones"
 msgstr "使用软电话拨打电话"
 
 #: chapter3/xinclude.xml:1590(para)
-msgid ""
-"A softphone is a software programme that is used to make telephone calls "
-"over the Internet using a computer instead of using a regular phone. Your "
-"service provider may offer computer-to-computer calls for free, but PC-to-"
-"phone and phone-to-PC calls usually are charged. You need to have the same "
-"communication protocol and use a common audio codec to communicate with "
-"another person. The audio codec defines how voice is translated into digital "
-"signals. Examples of SIP softphones are Ekiga, SIP Express Router and many "
-"more."
+msgid "A softphone is a software programme that is used to make telephone calls over the Internet using a computer instead of using a regular phone. Your service provider may offer computer-to-computer calls for free, but PC-to-phone and phone-to-PC calls usually are charged. You need to have the same communication protocol and use a common audio codec to communicate with another person. The audio codec defines how voice is translated into digital signals. Examples of SIP softphones are Ekiga, SIP Express Router and many more."
 msgstr ""
 
 #: chapter3/xinclude.xml:1599(para)
-msgid ""
-"You use a softphone with a headset connected to the computer or with a USB "
-"phone. The features of softphone include all standard telephony features, "
-"such as mute, flash, hold and transfer. It also includes new features, such "
-"as presence, video, wideband audio and many more. The softphone requirements "
-"to make voice calls over the Internet are a computer with a microphone and "
-"speaker, a headset or USB phone, Internet connectivity and an account with "
-"an Internet telephony service provider."
+msgid "You use a softphone with a headset connected to the computer or with a USB phone. The features of softphone include all standard telephony features, such as mute, flash, hold and transfer. It also includes new features, such as presence, video, wideband audio and many more. The softphone requirements to make voice calls over the Internet are a computer with a microphone and speaker, a headset or USB phone, Internet connectivity and an account with an Internet telephony service provider."
 msgstr ""
 
 #: chapter3/xinclude.xml:1611(para)
-msgid ""
-"Skype, Google Talk and Vonage are Internet telephony service providers whose "
-"software you would need to install on your computer. But these three "
-"providers are not interoperable, and you cannot place a direct call between "
-"them."
+msgid "Skype, Google Talk and Vonage are Internet telephony service providers whose software you would need to install on your computer. But these three providers are not interoperable, and you cannot place a direct call between them."
 msgstr ""
 
 #: chapter3/xinclude.xml:1617(para)
@@ -2329,18 +1385,11 @@ msgid "Using Ekiga"
 msgstr "使用 Ekiga"
 
 #: chapter3/xinclude.xml:1623(para)
-msgid ""
-"Ekiga is an open source softphone application for Ubuntu. It is a free Voice "
-"over IP (VoIP) and video conferencing application. VoIP routes voice "
-"conversations over the Internet or through any other IP-based network. You "
-"can use Ekiga to call, send instant messages and be contacted by other Ekiga "
-"users."
+msgid "Ekiga is an open source softphone application for Ubuntu. It is a free Voice over IP (VoIP) and video conferencing application. VoIP routes voice conversations over the Internet or through any other IP-based network. You can use Ekiga to call, send instant messages and be contacted by other Ekiga users."
 msgstr ""
 
 #: chapter3/xinclude.xml:1629(para)
-msgid ""
-"The First Time Configuration Assistant helps you configure Ekiga. It appears "
-"automatically when you open Ekiga for the first time."
+msgid "The First Time Configuration Assistant helps you configure Ekiga. It appears automatically when you open Ekiga for the first time."
 msgstr ""
 
 #: chapter3/xinclude.xml:1633(title)
@@ -2348,12 +1397,7 @@ msgid "To configure Ekiga on Ubuntu:"
 msgstr "要在 Ubuntu 上配置 Ekiga："
 
 #: chapter3/xinclude.xml:1636(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
-"\"strong\">Ekiga</emphasis>. The <emphasis role=\"strong\">Configuration "
-"Assistant</emphasis> page will be displayed. Click <emphasis role=\"strong"
-"\">Forward</emphasis>."
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Ekiga</emphasis>. The <emphasis role=\"strong\">Configuration Assistant</emphasis> page will be displayed. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1642(title)
@@ -2361,12 +1405,7 @@ msgid "Launching Ekiga Softphone"
 msgstr "启动 Ekiga 软电话"
 
 #: chapter3/xinclude.xml:1653(para)
-msgid ""
-"On the <emphasis role=\"strong\">Personal Information</emphasis> page, type "
-"your full name in the <emphasis role=\"strong\">Please enter your first name "
-"and your surname</emphasis> box. The name that you specify is used for "
-"display purposes when you connect to other audio or video applications. "
-"Click <emphasis role=\"strong\">Forward</emphasis>."
+msgid "On the <emphasis role=\"strong\">Personal Information</emphasis> page, type your full name in the <emphasis role=\"strong\">Please enter your first name and your surname</emphasis> box. The name that you specify is used for display purposes when you connect to other audio or video applications. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1660(title)
@@ -2374,11 +1413,7 @@ msgid "Specifying Display Name"
 msgstr "指定显示名称"
 
 #: chapter3/xinclude.xml:1671(para)
-msgid ""
-"On the <emphasis role=\"strong\">ekiga.net Account</emphasis> page, type "
-"your Ekiga's account user name and password that you use to log in to your "
-"existing Ekiga account. You will get this detail from the ekiga.net free SIP "
-"service. Click <emphasis role=\"strong\">Forward</emphasis>."
+msgid "On the <emphasis role=\"strong\">ekiga.net Account</emphasis> page, type your Ekiga's account user name and password that you use to log in to your existing Ekiga account. You will get this detail from the ekiga.net free SIP service. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1677(title)
@@ -2386,23 +1421,11 @@ msgid "Specifying ekiga.net Account Username and Password"
 msgstr "指定 ekiga.net 帐户名和密码"
 
 #: chapter3/xinclude.xml:1689(para)
-msgid ""
-"If you do not have an SIP account, you can click the link <emphasis role="
-"\"strong\">Get an ekiga.net SIP account</emphasis> on the page to create an "
-"SIP account on ekiga.net."
-msgstr ""
-"如果您没有 SIP 帐户，可以点击页面上的 <emphasis role=\"strong\">获得 ekiga."
-"net SIP 帐户</emphasis> 以创建一个帐户。"
+msgid "If you do not have an SIP account, you can click the link <emphasis role=\"strong\">Get an ekiga.net SIP account</emphasis> on the page to create an SIP account on ekiga.net."
+msgstr "如果您没有 SIP 帐户，可以点击页面上的 <emphasis role=\"strong\">获得 ekiga.net SIP 帐户</emphasis> 以创建一个帐户。"
 
 #: chapter3/xinclude.xml:1696(para)
-msgid ""
-"On the <emphasis role=\"strong\">Connection Type</emphasis> page, select the "
-"type of Internet connection you are using on your computer from the "
-"<emphasis role=\"strong\">Please choose your connection type</emphasis> box. "
-"This connection type determines the best quality settings that Ekiga will "
-"use during calls. If you do not know the connection type, contact your "
-"system administrator. Click <emphasis role=\"strong\">Forward</emphasis>. "
-"You can change these settings later."
+msgid "On the <emphasis role=\"strong\">Connection Type</emphasis> page, select the type of Internet connection you are using on your computer from the <emphasis role=\"strong\">Please choose your connection type</emphasis> box. This connection type determines the best quality settings that Ekiga will use during calls. If you do not know the connection type, contact your system administrator. Click <emphasis role=\"strong\">Forward</emphasis>. You can change these settings later."
 msgstr ""
 
 #: chapter3/xinclude.xml:1706(title)
@@ -2410,13 +1433,7 @@ msgid "Selecting Connection Type"
 msgstr "选择连接类型"
 
 #: chapter3/xinclude.xml:1717(para)
-msgid ""
-"On the <emphasis role=\"strong\">NAT Type</emphasis> page, click <emphasis "
-"role=\"strong\">Detect NAT Type</emphasis>. It informs you which Network "
-"Address Translation (NAT) type was detected and automatically configures "
-"Ekiga to transparently cross your router. So, NAT avoids all the problems "
-"associated with reserving IP addresses. Click <emphasis role=\"strong"
-"\">Forward</emphasis>."
+msgid "On the <emphasis role=\"strong\">NAT Type</emphasis> page, click <emphasis role=\"strong\">Detect NAT Type</emphasis>. It informs you which Network Address Translation (NAT) type was detected and automatically configures Ekiga to transparently cross your router. So, NAT avoids all the problems associated with reserving IP addresses. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1725(title)
@@ -2424,22 +1441,11 @@ msgid "Selecting NAT Type"
 msgstr "选择 NAT 类型"
 
 #: chapter3/xinclude.xml:1737(para)
-msgid ""
-"To learn more about NAT, refer to: <ulink url=\"http://en.wikipedia.org/wiki/"
-"Network_address_translation\">http://en.wikipedia.org/wiki/"
-"Network_address_translation</ulink>."
+msgid "To learn more about NAT, refer to: <ulink url=\"http://en.wikipedia.org/wiki/Network_address_translation\">http://en.wikipedia.org/wiki/Network_address_translation</ulink>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1742(para)
-msgid ""
-"On the <emphasis role=\"strong\">Audio Manager</emphasis> page, select the "
-"audio manager, which is the plug-in, according to the sound card of your "
-"computer. The audio manager is a plug-in that manages your audio device and "
-"is dependant on the operating system on your computer. Though it is "
-"recommended to use ALSA, you should check with your your system "
-"administrator to identify the appropriate audio manager for the audio device "
-"that you want to use. Then, click <emphasis role=\"strong\">Forward</"
-"emphasis>."
+msgid "On the <emphasis role=\"strong\">Audio Manager</emphasis> page, select the audio manager, which is the plug-in, according to the sound card of your computer. The audio manager is a plug-in that manages your audio device and is dependant on the operating system on your computer. Though it is recommended to use ALSA, you should check with your your system administrator to identify the appropriate audio manager for the audio device that you want to use. Then, click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1752(title)
@@ -2447,15 +1453,7 @@ msgid "Selecting Audio Manager"
 msgstr "选择声音管理器"
 
 #: chapter3/xinclude.xml:1763(para)
-msgid ""
-"Ekiga requires audio output and input devices to play and record sound "
-"files. The audio output device is used to play audio and audio input device "
-"to record your voice. So, on the <emphasis role=\"strong\">Audio Devices</"
-"emphasis> page, select the audio output and input devices. For example, "
-"headset or speakers are the output device and your microphone the audio "
-"input device. Now, click <emphasis role=\"strong\">Test Settings</emphasis> "
-"to check the functionality of audio devices and the click <emphasis role="
-"\"strong\">Forward</emphasis>."
+msgid "Ekiga requires audio output and input devices to play and record sound files. The audio output device is used to play audio and audio input device to record your voice. So, on the <emphasis role=\"strong\">Audio Devices</emphasis> page, select the audio output and input devices. For example, headset or speakers are the output device and your microphone the audio input device. Now, click <emphasis role=\"strong\">Test Settings</emphasis> to check the functionality of audio devices and the click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1772(title)
@@ -2463,32 +1461,19 @@ msgid "Selecting Audio Devices"
 msgstr "选择声音设备"
 
 #: chapter3/xinclude.xml:1783(para)
-msgid ""
-"On the <emphasis role=\"strong\">Video Manager</emphasis> page, select the "
-"video manager, which is the plug-in used to manage your video devices. You "
-"can select Video4Linux to manage Webcams or AVC / DC for Firewire cameras. "
-"Click <emphasis role=\"strong\">Forward</emphasis>."
+msgid "On the <emphasis role=\"strong\">Video Manager</emphasis> page, select the video manager, which is the plug-in used to manage your video devices. You can select Video4Linux to manage Webcams or AVC / DC for Firewire cameras. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1789(title)
 msgid "Selecting Video Manager"
-msgstr ""
+msgstr "选择视频管理器"
 
 #: chapter3/xinclude.xml:1800(para)
-msgid ""
-"On the <emphasis role=\"strong\">Video Devices</emphasis> page, select the "
-"video input device from the <emphasis role=\"strong\">Please choose the "
-"video input device</emphasis> box. The video input device is the device "
-"managed by the video manager that will be used to capture video. If you do "
-"not want to do video conferencing or if you do not have a video device, you "
-"may skip this page."
+msgid "On the <emphasis role=\"strong\">Video Devices</emphasis> page, select the video input device from the <emphasis role=\"strong\">Please choose the video input device</emphasis> box. The video input device is the device managed by the video manager that will be used to capture video. If you do not want to do video conferencing or if you do not have a video device, you may skip this page."
 msgstr ""
 
 #: chapter3/xinclude.xml:1807(para)
-msgid ""
-"Click <emphasis role=\"strong\">Test Settings</emphasis> to ensure that your "
-"video device works with Ekiga. Click <emphasis role=\"strong\">Forward</"
-"emphasis>."
+msgid "Click <emphasis role=\"strong\">Test Settings</emphasis> to ensure that your video device works with Ekiga. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1811(title)
@@ -2496,13 +1481,7 @@ msgid "Selecting Video Devices"
 msgstr "选择视频设备"
 
 #: chapter3/xinclude.xml:1822(para)
-msgid ""
-"The configuration of Ekiga is now complete. This window displays a "
-"configuration summary of the settings you have selected. You can verify your "
-"settings here. If you want to make any modification, navigate to the "
-"required page by using <emphasis role=\"strong\">Back</emphasis> and "
-"<emphasis role=\"strong\">Next</emphasis> and make appropriate changes. "
-"Click <emphasis role=\"strong\">Apply</emphasis> to save the configuration."
+msgid "The configuration of Ekiga is now complete. This window displays a configuration summary of the settings you have selected. You can verify your settings here. If you want to make any modification, navigate to the required page by using <emphasis role=\"strong\">Back</emphasis> and <emphasis role=\"strong\">Next</emphasis> and make appropriate changes. Click <emphasis role=\"strong\">Apply</emphasis> to save the configuration."
 msgstr ""
 
 #: chapter3/xinclude.xml:1830(title)
@@ -2514,28 +1493,15 @@ msgid "The Configuration Assistant will close."
 msgstr "配置助手将会关闭。"
 
 #: chapter3/xinclude.xml:1844(para)
-msgid ""
-"After installing Ekiga, if you want to modify any configuration, you can run "
-"the configuration assistant again by <emphasis role=\"strong\">Preferences</"
-"emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu in the Ekiga "
-"window."
-msgstr ""
-"安装 Ekiga 后，如果您要修改配置，您可以通过 <emphasis role=\"strong\">编辑</"
-"emphasis> 菜单中的 <emphasis role=\"strong\">首选项</emphasis> 再次运行配置向"
-"导。"
+msgid "After installing Ekiga, if you want to modify any configuration, you can run the configuration assistant again by <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu in the Ekiga window."
+msgstr "安装 Ekiga 后，如果您要修改配置，您可以通过 <emphasis role=\"strong\">编辑</emphasis> 菜单中的 <emphasis role=\"strong\">首选项</emphasis> 再次运行配置向导。"
 
 #: chapter3/xinclude.xml:1852(para)
-msgid ""
-"For more information on Ekiga, refer to <ulink url=\"http://www.ekiga.org"
-"\">http://www.ekiga.org</ulink>."
-msgstr ""
-"关于 Ekiga 的更多信息，参见 <ulink url=\"http://www.ekiga.org\">http://www."
-"ekiga.org</ulink>"
+msgid "For more information on Ekiga, refer to <ulink url=\"http://www.ekiga.org\">http://www.ekiga.org</ulink>."
+msgstr "关于 Ekiga 的更多信息，参见 <ulink url=\"http://www.ekiga.org\">http://www.ekiga.org</ulink>"
 
 #: chapter3/xinclude.xml:1855(para)
-msgid ""
-"The Ekiga window will be displayed. It is the default softphone application "
-"available on Ubuntu."
+msgid "The Ekiga window will be displayed. It is the default softphone application available on Ubuntu."
 msgstr ""
 
 #: chapter3/xinclude.xml:1859(title)
@@ -2551,16 +1517,7 @@ msgid "From Computer to Computer"
 msgstr "从电脑到电脑"
 
 #: chapter3/xinclude.xml:1875(para)
-msgid ""
-"Using Ekiga, you can call anyone who is registered to the public SIP "
-"provider and uses SIP software or hardware. You can use the online address "
-"book of Ekiga to find the SIP addresses of other Ekiga users. It is of "
-"course possible to call non-Ekiga users, registered to any public SIP "
-"provider. To make calls, type the URL address of the user you wish to call "
-"in the <emphasis role=\"strong\">sip:</emphasis> : input box and click the "
-"connect icon on the right of the text box. With the default setup, you can "
-"simply type <emphasis role=\"strong\">sip:foo</emphasis> to call user "
-"<emphasis role=\"strong\">foo@ekiga.net</emphasis>."
+msgid "Using Ekiga, you can call anyone who is registered to the public SIP provider and uses SIP software or hardware. You can use the online address book of Ekiga to find the SIP addresses of other Ekiga users. It is of course possible to call non-Ekiga users, registered to any public SIP provider. To make calls, type the URL address of the user you wish to call in the <emphasis role=\"strong\">sip:</emphasis> : input box and click the connect icon on the right of the text box. With the default setup, you can simply type <emphasis role=\"strong\">sip:foo</emphasis> to call user <emphasis role=\"strong\">foo@ekiga.net</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:1887(term)
@@ -2568,16 +1525,7 @@ msgid "From Computer to Regular Phones"
 msgstr "从电脑到电话"
 
 #: chapter3/xinclude.xml:1889(para)
-msgid ""
-"You can use Ekiga with multiple ISPs. There is a charge for this service so "
-"you will need to create an account with the provider first. After the "
-"account is created, you will receive a login and a password by e-mail. "
-"Simply enter them in the Ekiga dialogue box, select <emphasis role=\"strong"
-"\">Use PC-To-Phone service</emphasis> and you are ready to call regular "
-"phones using Ekiga. With the default setup, you can simply use <emphasis "
-"role=\"strong\">sip:00911129535955</emphasis> to call the real phone number "
-"003210444555, 00 is the international dialling code, 91 is the country code "
-"and 1129535955 is the number to call."
+msgid "You can use Ekiga with multiple ISPs. There is a charge for this service so you will need to create an account with the provider first. After the account is created, you will receive a login and a password by e-mail. Simply enter them in the Ekiga dialogue box, select <emphasis role=\"strong\">Use PC-To-Phone service</emphasis> and you are ready to call regular phones using Ekiga. With the default setup, you can simply use <emphasis role=\"strong\">sip:00911129535955</emphasis> to call the real phone number 003210444555, 00 is the international dialling code, 91 is the country code and 1129535955 is the number to call."
 msgstr ""
 
 #: chapter3/xinclude.xml:1904(term)
@@ -2585,41 +1533,20 @@ msgid "From Real Phones to Computer"
 msgstr "从电话到电脑"
 
 #: chapter3/xinclude.xml:1906(para)
-msgid ""
-"You can also use Ekiga to receive incoming calls from regular phones. For "
-"this, you have to login to <emphasis role=\"strong\">PC-To-Phone</emphasis> "
-"account and purchase a phone number. Ekiga then rings, when people call you "
-"at that phone number."
+msgid "You can also use Ekiga to receive incoming calls from regular phones. For this, you have to login to <emphasis role=\"strong\">PC-To-Phone</emphasis> account and purchase a phone number. Ekiga then rings, when people call you at that phone number."
 msgstr ""
 
 #: chapter3/xinclude.xml:1917(para)
-msgid ""
-"To learn more about making phone calls by using Ekiga, refer to <ulink url="
-"\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?"
-"rub=3</ulink>."
-msgstr ""
-"要了解更多关于使用 Ekiga 拨打电话的信息，参见 <ulink url=\"http://www.ekiga."
-"org/index.php?rub=3\">http://www.ekiga.org/index.php?rub=3</ulink>。"
+msgid "To learn more about making phone calls by using Ekiga, refer to <ulink url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?rub=3</ulink>."
+msgstr "要了解更多关于使用 Ekiga 拨打电话的信息，参见 <ulink url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?rub=3</ulink>。"
 
 #: chapter3/xinclude.xml:1924(title)
 msgid "Skype"
 msgstr "Skype"
 
 #: chapter3/xinclude.xml:1926(para)
-msgid ""
-"Skype is another softphone that can be used on Ubuntu to make calls over the "
-"Internet. The source code of Skype is proprietary, but the software is free "
-"to use. Your calls go through distributed servers and not through a central "
-"server. To accomplish this, Skype uses a decentralized peer-to-peer "
-"technologies and its own proprietary communication protocol. Skype uses "
-"encrypted communication, which means all communications are encrypted from "
-"end-to-end so that others cannot listen in. We will not go into detail over "
-"Skype communication here."
-msgstr ""
-"Skype 是另一个可用于 Ubuntu 的软电话软件。Skype 的源代码是私有的，但是对于用"
-"户使用是免费的。您的呼叫会经由分布式部署的服务器群传递，Skype 使用了它私有的"
-"点对点的去中心技术。Skype 使用的网络连接是经过加密的，它可以保证您和别人的通"
-"话不被窃听。在这里我们不会对 Skype 进行更深入的探讨。"
+msgid "Skype is another softphone that can be used on Ubuntu to make calls over the Internet. The source code of Skype is proprietary, but the software is free to use. Your calls go through distributed servers and not through a central server. To accomplish this, Skype uses a decentralized peer-to-peer technologies and its own proprietary communication protocol. Skype uses encrypted communication, which means all communications are encrypted from end-to-end so that others cannot listen in. We will not go into detail over Skype communication here."
+msgstr "Skype 是另一个可用于 Ubuntu 的软电话软件。Skype 的源代码是私有的，但是对于用户使用是免费的。您的呼叫会经由分布式部署的服务器群传递，Skype 使用了它私有的点对点的去中心技术。Skype 使用的网络连接是经过加密的，它可以保证您和别人的通话不被窃听。在这里我们不会对 Skype 进行更深入的探讨。"
 
 #: chapter3/xinclude.xml:1941(title)
 msgid "Lesson Summary"
@@ -2630,30 +1557,19 @@ msgid "In this lesson, you learned that:"
 msgstr "在本课中，您已经学习了："
 
 #: chapter3/xinclude.xml:1947(para)
-msgid ""
-"You can connect a computer to the Internet using cable, wireless and dial-up "
-"connections."
+msgid "You can connect a computer to the Internet using cable, wireless and dial-up connections."
 msgstr "您可以使用电缆、无线和拨号方式连接至互联网。"
 
 #: chapter3/xinclude.xml:1952(para)
-msgid ""
-"Mozilla Firefox is an open source, powerful and secure Web browser. It is "
-"available for free and is the default browser on Ubuntu."
-msgstr ""
-"Mozilla Firefox 是一个开源的、强大且安全的网页浏览器。它可以自由获得，并且是 "
-"Ubuntu 的默认浏览器。"
+msgid "Mozilla Firefox is an open source, powerful and secure Web browser. It is available for free and is the default browser on Ubuntu."
+msgstr "Mozilla Firefox 是一个开源的、强大且安全的网页浏览器。它可以自由获得，并且是 Ubuntu 的默认浏览器。"
 
 #: chapter3/xinclude.xml:1958(para)
-msgid ""
-"Firefox includes two powerful features that make your online experience "
-"better and more productive -integrated search system and bookmarking."
-msgstr ""
-"Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
+msgid "Firefox includes two powerful features that make your online experience better and more productive -integrated search system and bookmarking."
+msgstr "Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
 
 #: chapter3/xinclude.xml:1964(para)
-msgid ""
-"Liferea is an RSS feed reader, which offers useful features to manage your "
-"newsgroup subscription."
+msgid "Liferea is an RSS feed reader, which offers useful features to manage your newsgroup subscription."
 msgstr "Liferea 是一个 RSS 阅读器，提供了方便您订阅新闻组的诸多实用特性。"
 
 #: chapter3/xinclude.xml:1969(para)
@@ -2661,20 +1577,12 @@ msgid "Evolution is the default e-mail client for Ubuntu."
 msgstr "Evolution 是 Ubuntu 默认的电子邮件客户端程序。"
 
 #: chapter3/xinclude.xml:1973(para)
-msgid ""
-"Mozilla Thunderbird is the e-mail application developed by Mozilla "
-"Foundation. It is a free, cross-platform e-mail and news client."
-msgstr ""
-"Mozilla Thunderbird 由 Mozilla 基金会开发，它是一个自由的、跨平台的电子邮件和"
-"新闻组应用程序。"
+msgid "Mozilla Thunderbird is the e-mail application developed by Mozilla Foundation. It is a free, cross-platform e-mail and news client."
+msgstr "Mozilla Thunderbird 由 Mozilla 基金会开发，它是一个自由的、跨平台的电子邮件和新闻组应用程序。"
 
 #: chapter3/xinclude.xml:1979(para)
-msgid ""
-"The default instant messenger client on Ubuntu is Pidgin. It is a cross-"
-"platform instant messenger that supports multiple popular IM network "
-"protocols."
-msgstr ""
-"Ubuntu 上的默认即时通讯程序是 Empathy。它支持多种流行的即时通讯网络协议。"
+msgid "The default instant messenger client on Ubuntu is Pidgin. It is a cross-platform instant messenger that supports multiple popular IM network protocols."
+msgstr "Ubuntu 上的默认即时通讯程序是 Empathy。它支持多种流行的即时通讯网络协议。"
 
 #: chapter3/xinclude.xml:1985(para)
 msgid "Ekiga is the default open source softphone application for Ubuntu."
@@ -2689,9 +1597,7 @@ msgid "What are the three main ways to connect to the Internet?"
 msgstr "连接到互联网的三种主要方式分别是什么？"
 
 #: chapter3/xinclude.xml:2002(para)
-msgid ""
-"The three main ways to connect to the Internet are through cable, wireless "
-"and dial-up connections."
+msgid "The three main ways to connect to the Internet are through cable, wireless and dial-up connections."
 msgstr "这三种主要方式分别是通过电缆、无线和拨号接入。"
 
 #: chapter3/xinclude.xml:2009(para)
@@ -2707,8 +1613,7 @@ msgid "Why do you require a bookmark in Firefox?"
 msgstr "为什么需要在 Firefox 中使用书签？"
 
 #: chapter3/xinclude.xml:2024(para)
-msgid ""
-"Mozilla Firefox uses a bookmark for quick access to saved Web addresses."
+msgid "Mozilla Firefox uses a bookmark for quick access to saved Web addresses."
 msgstr "Mozilla Firefox 使用书签来加速访问已保存的网页地址。"
 
 #: chapter3/xinclude.xml:2031(para)
@@ -2716,8 +1621,7 @@ msgid "What is a feed?"
 msgstr "什么是网络 Feed？"
 
 #: chapter3/xinclude.xml:2035(para)
-msgid ""
-"A feed is an XML Web page that contains a list of links to other Web pages."
+msgid "A feed is an XML Web page that contains a list of links to other Web pages."
 msgstr "网络 Feed 是一个 XML 页，其中包含了一个到其他网页的链接列表。"
 
 #: chapter3/xinclude.xml:2042(para)
@@ -2765,25 +1669,15 @@ msgid "You can get an SIP address from _____________________."
 msgstr "您可以在 _____________________ 获得一个 SIP 地址。"
 
 #: chapter3/xinclude.xml:2086(para)
-msgid ""
-"You can get an SIP address from <ulink url=\"http://www.ekiga.net\">http://"
-"www.ekiga.net</ulink>."
-msgstr ""
-"您可以在 <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink> 获"
-"得一个 SIP 地址。"
+msgid "You can get an SIP address from <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink>."
+msgstr "您可以在 <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink> 获得一个 SIP 地址。"
 
 #: chapter3/xinclude.xml:2092(para)
-msgid ""
-"The source code of Skype software is _____________________, but the software "
-"is _____________________to use."
-msgstr ""
-"Skype 的源代码是 _____________________ 的，但软件对于使用者是 "
-"_____________________ 的。"
+msgid "The source code of Skype software is _____________________, but the software is _____________________to use."
+msgstr "Skype 的源代码是 _____________________ 的，但软件对于使用者是 _____________________ 的。"
 
 #: chapter3/xinclude.xml:2097(para)
-msgid ""
-"The source code of Skype software is proprietary, but the software is free "
-"to use."
+msgid "The source code of Skype software is proprietary, but the software is free to use."
 msgstr "Skype 的源代码是具有专利的，但软件对于使用者是免费的。"
 
 #: chapter3/xinclude.xml:2104(para)
@@ -2794,7 +1688,8 @@ msgstr "下列哪个是 RSS 阅读器？"
 msgid "A. Ekiga"
 msgstr " A. Ekiga"
 
-#: chapter3/xinclude.xml:2108(para) chapter3/xinclude.xml:2116(para)
+#: chapter3/xinclude.xml:2108(para)
+#: chapter3/xinclude.xml:2116(para)
 msgid "B. Liferea"
 msgstr " B. Liferea"
 
@@ -2810,7 +1705,8 @@ msgstr " D. Skype"
 msgid "Which of the following is proprietary software?"
 msgstr "下列哪个是专利软件？"
 
-#: chapter3/xinclude.xml:2124(para) chapter3/xinclude.xml:2134(para)
+#: chapter3/xinclude.xml:2124(para)
+#: chapter3/xinclude.xml:2134(para)
 msgid "A. Skype"
 msgstr " A. Skype"
 
@@ -2835,31 +1731,15 @@ msgid "Exercise 1"
 msgstr "练习 1"
 
 #: chapter3/xinclude.xml:2145(para)
-msgid ""
-"You use Liferea as a newsreader on your computer. Recently, you met a friend "
-"who informed you about a Web site that offers RSS feeds, <ulink url=\"http://"
-"www.lifehacker.com\">http://www.lifehacker.com</ulink>. Now, you want to "
-"configure Liferea for the latest updates from this Web site."
-msgstr ""
-"假设您使用 Liferea 作为新闻阅读器。最近您的一位朋友告诉您 <ulink url="
-"\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink> 提供 RSS。现"
-"在您希望配置 Liferea 接收该网站的最新头条。"
+msgid "You use Liferea as a newsreader on your computer. Recently, you met a friend who informed you about a Web site that offers RSS feeds, <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. Now, you want to configure Liferea for the latest updates from this Web site."
+msgstr "假设您使用 Liferea 作为新闻阅读器。最近您的一位朋友告诉您 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink> 提供 RSS。现在您希望配置 Liferea 接收该网站的最新头条。"
 
 #: chapter3/xinclude.xml:2154(para)
-msgid ""
-"Open the following Web site <ulink url=\"http://www.lifehacker.com\">http://"
-"www.lifehacker.com</ulink>. This site offers RSS feeds."
-msgstr ""
-"打开 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</"
-"ulink>，此站点提供 RSS。"
+msgid "Open the following Web site <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. This site offers RSS feeds."
+msgstr "打开 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>，此站点提供 RSS。"
 
 #: chapter3/xinclude.xml:2159(para)
-msgid ""
-"In the left pane, under <emphasis role=\"strong\">syndication</emphasis>, "
-"click <emphasis role=\"strong\">Full content (with ads).</emphasis> Save the "
-"URL in the <emphasis role=\"strong\">Address bar</emphasis> of Mozilla "
-"Firefox. This URL, <ulink url=\"http://feeds.gawker.com/lifehacker/full"
-"\">http://feeds.gawker.com/lifehacker/full</ulink>, is the feed."
+msgid "In the left pane, under <emphasis role=\"strong\">syndication</emphasis>, click <emphasis role=\"strong\">Full content (with ads).</emphasis> Save the URL in the <emphasis role=\"strong\">Address bar</emphasis> of Mozilla Firefox. This URL, <ulink url=\"http://feeds.gawker.com/lifehacker/full\">http://feeds.gawker.com/lifehacker/full</ulink>, is the feed."
 msgstr ""
 
 #: chapter3/xinclude.xml:2166(para)
@@ -2867,20 +1747,11 @@ msgid "Open Liferea."
 msgstr "打开 Liferea。"
 
 #: chapter3/xinclude.xml:2170(para)
-msgid ""
-"Right-click in the left pane, point to <emphasis role=\"strong\">New</"
-"emphasis> and click <emphasis role=\"strong\">New Subscription</emphasis>. "
-"The <emphasis role=\"strong\">New Subscription</emphasis> dialogue box is "
-"displayed."
-msgstr ""
-"右击左侧面板，鼠标指向 <emphasis role=\"strong\">新建</emphasis> 并点击 "
-"<emphasis role=\"strong\">New Subscription</emphasis>"
+msgid "Right-click in the left pane, point to <emphasis role=\"strong\">New</emphasis> and click <emphasis role=\"strong\">New Subscription</emphasis>. The <emphasis role=\"strong\">New Subscription</emphasis> dialogue box is displayed."
+msgstr "右击左侧面板，鼠标指向 <emphasis role=\"strong\">新建</emphasis> 并点击 <emphasis role=\"strong\">New Subscription</emphasis>"
 
 #: chapter3/xinclude.xml:2176(para)
-msgid ""
-"In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, "
-"type the saved URL <ulink url=\"http://feeds.gawker.com/lifehacker/full"
-"\">http://feeds.gawker.com/lifehacker/full</ulink> and click OK."
+msgid "In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, type the saved URL <ulink url=\"http://feeds.gawker.com/lifehacker/full\">http://feeds.gawker.com/lifehacker/full</ulink> and click OK."
 msgstr ""
 
 #: chapter3/xinclude.xml:2183(title)
@@ -2888,41 +1759,23 @@ msgid "Exercise 2"
 msgstr "练习 2"
 
 #: chapter3/xinclude.xml:2185(para)
-msgid ""
-"You want to chat with your friend, who uses Google talk (gtalk). Configure "
-"Pidgin to chat using gtalk."
+msgid "You want to chat with your friend, who uses Google talk (gtalk). Configure Pidgin to chat using gtalk."
 msgstr ""
 
 #: chapter3/xinclude.xml:2191(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
-"\"strong\">Pidgin Internet Messenger</emphasis>."
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Pidgin Internet Messenger</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:2197(para)
-msgid ""
-"On the <emphasis role=\"strong\">Accounts</emphasis> menu, click <emphasis "
-"role=\"strong\">Add/Edit</emphasis>. The <emphasis role=\"strong\">Accounts</"
-"emphasis> window is displayed."
+msgid "On the <emphasis role=\"strong\">Accounts</emphasis> menu, click <emphasis role=\"strong\">Add/Edit</emphasis>. The <emphasis role=\"strong\">Accounts</emphasis> window is displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:2202(para)
-msgid ""
-"In the <emphasis role=\"strong\">Accounts</emphasis> window, click <emphasis "
-"role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add Account</"
-"emphasis> window is displayed."
+msgid "In the <emphasis role=\"strong\">Accounts</emphasis> window, click <emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add Account</emphasis> window is displayed."
 msgstr ""
 
 #: chapter3/xinclude.xml:2207(para)
-msgid ""
-"In the <emphasis role=\"strong\">Add Account</emphasis> window, select "
-"<emphasis role=\"strong\">xmpp</emphasis> from the <emphasis role=\"strong"
-"\">Protocol</emphasis> box, type your gtalk e-mail id in the <emphasis role="
-"\"strong\">Screen name</emphasis> box, your account password in the "
-"<emphasis role=\"strong\">Password</emphasis> box and your nickname in the "
-"<emphasis role=\"strong\">Local alias</emphasis> box. Click <emphasis role="
-"\"strong\">Save</emphasis>."
+msgid "In the <emphasis role=\"strong\">Add Account</emphasis> window, select <emphasis role=\"strong\">xmpp</emphasis> from the <emphasis role=\"strong\">Protocol</emphasis> box, type your gtalk e-mail id in the <emphasis role=\"strong\">Screen name</emphasis> box, your account password in the <emphasis role=\"strong\">Password</emphasis> box and your nickname in the <emphasis role=\"strong\">Local alias</emphasis> box. Click <emphasis role=\"strong\">Save</emphasis>."
 msgstr ""
 
 #: chapter3/xinclude.xml:2216(para)
@@ -2948,3 +1801,4 @@ msgstr ""
 #~ "在 <emphasis role=\"strong\">连接</emphasis> 页面，选择要使用的连接。点击 "
 #~ "<emphasis role=\"strong\">属性</emphasis>。<emphasis role=\"strong\">eth0 "
 #~ "属性</emphasis>对话框就会出现。"
+
