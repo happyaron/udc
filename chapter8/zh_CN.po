@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-27 12:03+0800\n"
+"PO-Revision-Date: 2009-12-27 12:44+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1353,11 +1353,11 @@ msgstr "确认软件包的安装"
 
 #: chapter8/xinclude.xml:1143(para)
 msgid "After all the marked software packages are downloaded and installed, the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box is displayed. Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box."
-msgstr "所有标记的软件包都下载并安装之后，显示 <emphasis role=\"strong\">更改已应用</emphasis> 对话框。点击  <emphasis role=\"strong\">Close</emphasis>关闭<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
+msgstr "所有标记的软件包都下载并安装之后，显示 <emphasis role=\"strong\">更改已应用</emphasis> 对话框。点击  <emphasis role=\"strong\">关闭</emphasis>关闭<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1148(title)
 msgid "Changes Applied Notification"
-msgstr ""
+msgstr "应用已变更通知"
 
 #: chapter8/xinclude.xml:1159(para)
 msgid "The check box corresponding to the recently installed software package has changed to green, indicating that the software has been installed successfully. You can repeat the same procedure to install all the multimedia codecs required for playing proprietary multimedia formats."
