@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-27 08:29+0800\n"
+"PO-Revision-Date: 2009-12-27 09:17+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -768,47 +768,48 @@ msgstr "在这里可以对文件输出进行多选项设置。例如，"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:925(title)
 msgid "Menu Bar:"
-msgstr ""
+msgstr "菜单栏："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:927(para)
 msgid "This toolbar provides menus such as file save and zoom. You can perform all operations in Inkscape by using the options listed on these menus."
-msgstr ""
+msgstr "此工具条提供了诸如文件保存和缩放的菜单。可以通过使用其上列出的操作选项完成 Inkscape 下的所有操作。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:933(title)
 msgid "Command Bar:"
-msgstr ""
+msgstr "命令栏："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:935(para)
 msgid "This toolbar provides shortcuts to major operations on the menu bar."
-msgstr ""
+msgstr "此工具栏条列出了菜单栏上主要操作命令的快捷方式。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:940(title)
 msgid "Drawing Toolbar:"
-msgstr ""
+msgstr "绘图工具条："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:942(para)
 msgid "This toolbar provides options to perform drawing operations. You can create basic shapes such as a rectangle, a square or an ellipse."
-msgstr ""
+msgstr "此工具栏提供了一些选项来执行绘图操作，可以创建诸如矩形、正方形或椭圆等基本的形状。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:948(title)
 msgid "Tools Control Bar:"
-msgstr ""
+msgstr "工具控制栏："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:950(para)
 msgid "This toolbar provides options specific to a tool on the Drawing toolbar. For example, if you select the polygon tool from the Drawing toolbar, the Tools Control Bar displays options to set the corners in the polygon."
-msgstr ""
+msgstr "此工具条能够提供对应于绘图工具条上不同绘图命令的相关选项。举个例子，当选定了绘图工具条上的绘制多边形命令，工具控制栏上将显示设置多边形顶点的相关选项。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:957(title)
 msgid "Status Bar:"
-msgstr ""
+msgstr "状态栏："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:959(para)
 msgid "This toolbar indicates the status of objects such as dimensions and layers. For example, when you roll the mouse over the window, the Status Bar indicates the position of the cursor relative to the window."
-msgstr ""
+msgstr "此工具栏显示对象的大小及所在层等信息。例如，当在窗口内滚动鼠标，状态栏上将显示光标相对于窗口的位置。"
 
+# 模糊
 #: chapter7/Managing_Graphics_and_Photos.xml:968(para)
 msgid "Vector drawing software uses standard notation to refer to shapes such as simple lines, rectangles and complicated shapes as objects."
-msgstr ""
+msgstr "矢量绘图软件使用标准的符号指代不同的形状，例如简单的线条、矩形或者复杂的形状。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:974(title)
 msgid "Creating and Saving Objects"
@@ -836,43 +837,43 @@ msgstr "绘制图形"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1006(para)
 msgid "The Tools Control Bar displays options to create the object. For example, if you are creating a rectangle, the toolbar provides the option to specify the height and the width of the rectangle."
-msgstr ""
+msgstr "工具控制栏能够显示创建图形的相关选项。举个例子，在绘制矩形时，工具控制栏提供了指定矩形长和宽的相关选项。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1013(para)
 msgid "After creating the shape, click <emphasis role=\"strong\">Save</emphasis> on the Command Bar. The <emphasis role=\"strong\">Select file to Save to</emphasis> dialogue box is displayed. Type the name of the file in the <emphasis role=\"strong\">Name</emphasis> text box, specify the location where you want to save the file and click <emphasis role=\"strong\">Save</emphasis>."
-msgstr ""
+msgstr "创建完图形后，单击命令栏上的<emphasis role=\"strong\">保存文档</emphasis>按钮。此时将弹出<emphasis role=\"strong\">选择打开的文件</emphasis>对话框。<emphasis role=\"strong\">名称(N)</emphasis>文本框中键入文件名并指定保存路径后单击<emphasis role=\"strong\">保存</emphasis>按钮。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1022(title)
 msgid "Saving an Object"
-msgstr ""
+msgstr "保存图像"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1035(para)
 msgid "Inkscape saves images as vector graphics. You can resize a vector image without affecting the resolution of the image."
-msgstr ""
+msgstr "Inkscape 将图像保存为矢量图形。用户可以改变图像大小而不影响其分辨率。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1044(title)
 msgid "Using a Scanner"
-msgstr ""
+msgstr "扫描仪的使用"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1046(para)
 msgid "Scanning an object in Ubuntu is simple. If you have a USB scanner, plug the scanner directly into your computer. Most plug-and-play devices are compatible with Ubuntu, if however, the computer fails to detect the scanner, you will need to check its compatibility with Ubuntu."
-msgstr ""
+msgstr "在 Ubuntu 下使用扫描仪非常简单。如果您有一台 USB 接口的扫描仪设备，可将其直接连接到电脑上。大多数插件和播放设备都能与 Ubuntu 兼容。所以如果电脑未能检测到扫描仪设备，您很可能需要检查其与 Ubuntu 系统的兼容性。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1052(title)
 msgid "Checking Scanner Compatibility"
-msgstr ""
+msgstr "检查扫描仪的兼容性"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1057(para)
 msgid "Visit this Web site for the list of scanners and drivers compatible with Ubuntu: <ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink>."
-msgstr ""
+msgstr "<ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink>网站下列出了所有与 Ubuntu 兼容的扫描仪及驱动设备。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1063(para)
 msgid "Check the status of your scanner at the following Web site: <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink>. This site lists the drivers distributed with sane-backends-1.0.18 and supported hardware and software."
-msgstr ""
+msgstr "您可在<ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink>站点检查您的扫描仪状态。该站点列出了sane-backends-1.0.18 下的驱动程序以及所支持的软硬件。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1054(para)
 msgid "You can check the compatibility of your scanner with Ubuntu in one of two ways: <placeholder-1/>"
-msgstr ""
+msgstr "用户可以通过下列两种方法检查扫描仪与 Ubuntu 的兼容性：<placeholder-1/>"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1073(title)
 msgid "Scanning an Image"
