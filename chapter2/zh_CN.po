@@ -227,7 +227,7 @@ msgstr "@@image: 'images/Lesson03_images_036.png'; md5=5979adf62f7ef6352f97c8f34
 
 #: chapter2/xinclude.xml:4(title)
 msgid "Exploring the Ubuntu Desktop"
-msgstr "探索Ubuntu桌面"
+msgstr "探索 Ubuntu 桌面"
 
 #: chapter2/xinclude.xml:7(title)
 msgid "Objectives"
@@ -239,7 +239,7 @@ msgstr "在本课程中，您将了解到："
 
 #: chapter2/xinclude.xml:12(para)
 msgid "The highlights of Ubuntu desktop"
-msgstr "Ubuntu桌面最精彩之处"
+msgstr "Ubuntu 桌面最精彩之处"
 
 #: chapter2/xinclude.xml:16(para)
 msgid "How to change the default language"
@@ -255,7 +255,7 @@ msgstr "添加和删除应用程序"
 
 #: chapter2/xinclude.xml:28(para)
 msgid "How to enable 3D Desktop effects"
-msgstr "如何启用3D桌面效果"
+msgstr "如何启用 3D 桌面效果"
 
 #: chapter2/xinclude.xml:33(title) chapter2/xinclude.xml:50(title)
 #: chapter2/xinclude.xml:78(title) chapter2/xinclude.xml:587(title)
@@ -269,27 +269,27 @@ msgstr "本堂课里的内容都是必须掌握的基础知识。为了加强学
 
 #: chapter2/xinclude.xml:42(para)
 msgid "This section serves as a quick tour of the Ubuntu desktop. The course will go into more detail in later lessons, but this will give you a taste of what's ahead."
-msgstr "本节是对Ubuntu桌面各种特性的快速浏览，后面的课程会详细讲解每项内容。"
+msgstr "本节是对 Ubuntu 桌面各种特性的快速浏览，后面的课程会详细讲解每项内容。"
 
 #: chapter2/xinclude.xml:47(title)
 msgid "Ubuntu Desktop Components"
-msgstr "Ubuntu桌面组成"
+msgstr "Ubuntu 桌面组成"
 
 #: chapter2/xinclude.xml:52(emphasis)
 msgid "Highlight the fact that unlike other operating systems, Ubuntu comes with a completely clean desktop, by default. Users are free to add icons and files on the desktop according to their preferences."
-msgstr "强调Ubuntu和其他操作系统不同，默认桌面是绝对干净的。用户可以根据喜好自由地在桌面上添加文件和程序图标。"
+msgstr "强调 Ubuntu 和其他操作系统不同，默认桌面是绝对干净的。用户可以根据喜好自由地在桌面上添加文件和程序图标。"
 
 #: chapter2/xinclude.xml:58(para)
-msgid "GNOME is the default desktop environment for Ubuntu. GNOME (GNU Network Object Model Environment) is an international effort to build a complete desktop environment—the graphical user interface, which sits on top of a computer operating system—entirely from free software. This goal includes creating software development frameworks, selecting application software for the desktop and working on the programmes which manage application launching, file handling and window and task management. Community members worldwide contribute to the translation and accessibility of the desktop in multiple languages. (Reference: <ulink url=\"http://en.wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME</ulink>)"
-msgstr "GNOME是Ubuntu的默认桌面环境。GNOME（GNU网络对象模型环境，GNU Network Object Model Environment）是一个国际性的项目，为开发完整的，由自由软件组成的桌面环境而努力。桌面系统，即图形用户界面，是计算机系统中最外层的软件。这个目标包括创建软件开发框架，选择桌面应用程序，编写负责引导应用软件的程序，文件句柄，窗口和任务管理器等。来自世界各地的社区成员将GNOME翻译到各种语言中，让使用不同的语言的人们都能享用GNOME。（参考：<ulink url=\"http://en.wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME</ulink>）"
+msgid "GNOME is the default desktop environment for Ubuntu. GNOME (GNU Network Object Model Environment) is an international effort to build a complete desktop environment — the graphical user interface, which sits on top of a computer operating system — entirely from free software. This goal includes creating software development frameworks, selecting application software for the desktop and working on the programmes which manage application launching, file handling and window and task management. Community members worldwide contribute to the translation and accessibility of the desktop in multiple languages. (Reference: <ulink url=\"http://en.wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME</ulink>)"
+msgstr "GNOME 是 Ubuntu 的默认桌面环境。 GNOME （ GNU 网络对象模型环境， GNU Network Object Model Environment ）是一个国际性的项目，为开发完整的，由自由软件组成的桌面环境而努力。桌面系统，即图形用户界面，是计算机系统中最外层的软件。这个目标包括创建软件开发框架，选择桌面应用程序，编写负责引导应用软件的程序，文件句柄，窗口和任务管理器等。来自世界各地的社区成员将 GNOME 翻译到各种语言中，让使用不同的语言的人们都能享用 GNOME 。（参考：<ulink url=\"http://en.wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME</ulink>）"
 
 #: chapter2/xinclude.xml:69(title)
 msgid "Key Desktop Components on Ubuntu"
-msgstr "Ubuntu桌面的重要组成部分"
+msgstr "Ubuntu 桌面的重要组成部分"
 
 #: chapter2/xinclude.xml:71(para)
 msgid "When you start your computer, the first screen displayed on Ubuntu is the logon screen, where you type your user name and password. The next screen displayed is the Ubuntu desktop. Ubuntu comes with a completely clean desktop background, free of icons by default."
-msgstr "当启动Ubuntu时，首先出现的是登录界面。进入Ubuntu桌面之前，您需要输入您的用户名和密码。默认的Ubuntu桌面是很干净的，没有任何图标，只有一张壁纸。"
+msgstr "当启动 Ubuntu 时，首先出现的是登录界面。进入 Ubuntu 桌面之前，您需要输入您的用户名和密码。默认的 Ubuntu 桌面是很干净的，没有任何图标，只有一张壁纸。"
 
 #: chapter2/xinclude.xml:80(para)
 msgid "Ensure that you browse through each element very quickly because more details will be covered in the subsequent lessons."
@@ -297,11 +297,11 @@ msgstr "快速浏览桌面上的每一个元素，接下来的课程讲详细的
 
 #: chapter2/xinclude.xml:85(title)
 msgid "Default Ubuntu Desktop"
-msgstr "默认Ubuntu桌面"
+msgstr "默认 Ubuntu 桌面"
 
 #: chapter2/xinclude.xml:94(para)
 msgid "You can arrange icons and files on the desktop to access them quickly. If a CD, hard disk or any other external device is connected to your computer, Ubuntu automatically displays its icon on the desktop to allow easy access to the device."
-msgstr "如果想快速访问某些应用程序或者文件，您可以把它们放在桌面上。当您把光盘、U盘等外部设备插入计算机时，Ubuntu会自动把它们的图标显示在桌面上，方便您访问它们。"
+msgstr "如果想快速访问某些应用程序或者文件，您可以把它们放在桌面上。当您把光盘、 U 盘等外部设备插入计算机时， Ubuntu 会自动把它们的图标显示在桌面上，方便您访问它们。"
 
 #: chapter2/xinclude.xml:100(title)
 msgid "Desktop Icons"
@@ -355,7 +355,7 @@ msgstr "系统："
 
 #: chapter2/xinclude.xml:176(para)
 msgid "This menu enables you to change the computer settings. You can also access the Ubuntu help system and turn off your computer here."
-msgstr "此菜单供修改计算机设置、访问Ubuntu帮助系统和关闭计算机。"
+msgstr "此菜单供修改计算机设置、访问 Ubuntu 帮助系统和关闭计算机。"
 
 #: chapter2/xinclude.xml:182(title)
 msgid "The System Menu"
@@ -367,7 +367,7 @@ msgstr "顶部面板的左端是三个主菜单：应用程序，位置和系统
 
 #: chapter2/xinclude.xml:193(para)
 msgid "By default, there are three shortcut icons next to the menus on the top panel: Mozilla Firefox, Evolution and Help. You can create additional shortcuts to any applications and place them here for quick access."
-msgstr "主菜单的右边是两个默认快捷图标：Mozilla Firefox网页浏览器和Ubuntu帮助。我们可以创建更多的快捷图标，指向任何位置、文件、应用程序均可。"
+msgstr "主菜单的右边是两个默认快捷图标： Mozilla Firefox 网页浏览器和 Ubuntu 帮助。我们可以创建更多的快捷图标，指向任何位置、文件、应用程序均可。"
 
 #: chapter2/xinclude.xml:198(title)
 msgid "The Shortcut Icons"
@@ -455,7 +455,7 @@ msgstr "显示桌面"
 
 #: chapter2/xinclude.xml:355(para)
 msgid "Next to the icon used to minimise the windows is a blank area in which the list of open application windows appears, similar to the taskbar in Windows. When you open an application, it's listed on this area for easy access, as shown in the bottom panel of the following screen:"
-msgstr "在显示桌面图标右边的空白区域中会显示当前打开的应用程序，像Windows中的任务栏。当打开一个应用程序时，它就会出现在这里，方便用户访问，像下面这样："
+msgstr "在显示桌面图标右边的空白区域中会显示当前打开的应用程序，像 Windows 中的任务栏。当打开一个应用程序时，它就会出现在这里，方便用户访问，像下面这样："
 
 #: chapter2/xinclude.xml:361(title)
 msgid "Open Applications"
@@ -463,11 +463,11 @@ msgstr "打开的应用程序"
 
 #: chapter2/xinclude.xml:370(para)
 msgid "The next icon, workspace, enables you to split the windows that are open on your desktop into multiple workspaces. You can then navigate among the workspaces by pressing and holding down the CTRL+ALT keys, and then pressing either the left or the right arrow key. This reduces the clutter on your desktop and eases navigation between windows."
-msgstr "下一个图标是工作区切换器，窗口可以被放到不同的工作区里。按住CTRL+ALT和左/右方向键可以方便的在各个工作区之间移动。使用工作区可以减少桌面的杂乱，更方便地在窗口间切换。"
+msgstr "下一个图标是工作区切换器，窗口可以被放到不同的工作区里。按住 CTRL+ALT 和左/右方向键可以方便的在各个工作区之间移动。使用工作区可以减少桌面的杂乱，更方便地在窗口间切换。"
 
 #: chapter2/xinclude.xml:376(para)
 msgid "For example, you might have the Firefox window, an OpenOffice application, a search window and a calculator window open on the desktop."
-msgstr "比如，你打开了一个Firefox，一个Openoffice，一个搜索程序和一个计算器程序。"
+msgstr "比如，你打开了一个 Firefox ，一个 Openoffice ，一个搜索程序和一个计算器程序。"
 
 #: chapter2/xinclude.xml:381(title)
 msgid "The Workspace Icon"
@@ -475,7 +475,7 @@ msgstr "工作区切换器图标"
 
 #: chapter2/xinclude.xml:390(para)
 msgid "You can move the Firefox window to a separate workspace by pressing and holding down the CTRL+ALT+SHIFT keys and then pressing the left or the right arrow key. Two workspaces will be displayed in the bottom-right corner of the desktop - one workspace with the Firefox window and the original workspace with the other windows."
-msgstr "你可以按下CTRL+ALT+SHIFT和左/右方向键把Firefox移动到另一个工作区。桌面的右下角会显示两个工作区——一个有firefox，另一个是原来的工作区，有其他的窗口。"
+msgstr "你可以按下 CTRL+ALT+SHIFT 和左/右方向键把 Firefox 移动到另一个工作区。桌面的右下角会显示两个工作区——一个有 firefox ，另一个是原来的工作区，有其他的窗口。"
 
 #: chapter2/xinclude.xml:397(title)
 msgid "Switching Workspaces"
@@ -483,7 +483,7 @@ msgstr "切换工作区"
 
 #: chapter2/xinclude.xml:406(para)
 msgid "Now, you have two separate workspaces. Notice that the Firefox window has shifted to the original workspace. So, depending on the task you perform, you can split the windows into different workspaces."
-msgstr "现在，你拥有两个独立的工作区了。注意Firefox已经被移动到新的工作区了，所以根据你的需要，你可以把窗口放到不同的工作区里。"
+msgstr "现在，你拥有两个独立的工作区了。注意 Firefox 已经被移动到新的工作区了，所以根据你的需要，你可以把窗口放到不同的工作区里。"
 
 #: chapter2/xinclude.xml:411(title)
 msgid "Splitting Windows into Workspaces"
@@ -491,7 +491,7 @@ msgstr "把窗口放到不同的工作区里"
 
 #: chapter2/xinclude.xml:420(para)
 msgid "By default, Ubuntu provides two workspaces. If you want to split the windows into more workspaces, you have to add the workspace to the desktop by right-clicking the workspace icon and then clicking <emphasis role=\"strong\">Preferences</emphasis>. The <emphasis role=\"strong\">Workspace Switcher Preferences</emphasis> dialogue box appears."
-msgstr "Ubuntu默认提供两个工作区。如果想要创建更多的，右击工作区图标，选择<emphasis role=\"strong\">首选项</emphasis>，弹出<emphasis role=\"strong\">工作区切换器首选项</emphasis>对话框。"
+msgstr "Ubuntu 默认提供两个工作区。如果想要创建更多的，右击工作区图标，选择<emphasis role=\"strong\">首选项</emphasis>，弹出<emphasis role=\"strong\">工作区切换器首选项</emphasis>对话框。"
 
 #: chapter2/xinclude.xml:426(title)
 msgid "Creating New Workspaces"
@@ -519,7 +519,7 @@ msgstr "回收站图标和菜单"
 
 #: chapter2/xinclude.xml:466(para)
 msgid "You can delete an item permanently from the computer by pressing the DELETE key."
-msgstr "按下DELETE键将永久删除你选中的文件。"
+msgstr "按下 DELETE 键将永久删除你选中的文件。"
 
 #: chapter2/xinclude.xml:472(para)
 msgid "Alternatively, you can right-click the item and click <emphasis role=\"strong\">Delete from Trash</emphasis> to permanently delete it from the computer."
@@ -539,7 +539,7 @@ msgstr "改变默认语言"
 
 #: chapter2/xinclude.xml:494(para)
 msgid "Ubuntu supports more than 100 languages. You can set the default language of your computer either during the installation of Ubuntu or at a later stage."
-msgstr "Ubuntu支持超过100种语言。安装或是之后的任何时候都可以更改默认语言。"
+msgstr "Ubuntu 支持超过100种语言。安装或是之后的任何时候都可以更改默认语言。"
 
 #: chapter2/xinclude.xml:498(para)
 msgid "To change the default language during the installation, select the required language when prompted."
@@ -575,7 +575,7 @@ msgstr "安装默认语言支持"
 
 #: chapter2/xinclude.xml:555(para)
 msgid "Click <emphasis role=\"strong\">Apply</emphasis> and then click <emphasis role=\"strong\">OK</emphasis>. Ubuntu downloads and installs the necessary packages on your computer. The language you selected will now appear in the <emphasis role=\"strong\">Default Language</emphasis> box."
-msgstr "单击<emphasis role=\"strong\">应用变更</emphasis>，系统会提示输入当前用户密码。接着Ubuntu会自动下载和安装需要的包。安装完成后，新装的语言就会出现在<emphasis role=\"strong\">语言</emphasis>对话框的下拉列表中。"
+msgstr "单击<emphasis role=\"strong\">应用变更</emphasis>，系统会提示输入当前用户密码。接着 Ubuntu 会自动下载和安装需要的包。安装完成后，新装的语言就会出现在<emphasis role=\"strong\">语言</emphasis>对话框的下拉列表中。"
 
 #: chapter2/xinclude.xml:563(para)
 msgid "Select the language that you want set as default, and click <emphasis role=\"strong\">OK</emphasis>."
@@ -607,7 +607,7 @@ msgstr "也许您的计算机有许多个用户。这种情况下会有数据被
 
 #: chapter2/xinclude.xml:605(title)
 msgid "To create a new user account on Ubuntu:"
-msgstr "在Ubuntu中创建一个新的用户账户："
+msgstr "在 Ubuntu 中创建一个新的用户账户："
 
 #: chapter2/xinclude.xml:608(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Users and Groups</emphasis>. The <emphasis role=\"strong\">User settings</emphasis> dialogue box appears."
@@ -695,7 +695,7 @@ msgstr "添加/删除应用程序"
 
 #: chapter2/xinclude.xml:745(para)
 msgid "Advise students that you will cover this topic in detail while teaching the <emphasis role=\"strong\">Customising Ubuntu and Applications</emphasis> lesson of this course. This topic is just an introduction."
-msgstr "告诉学生，本课程的<emphasis role=\"strong\">自定义Ubuntu和应用程序</emphasis>会详细讲解本节内容，这里只是一个介绍。"
+msgstr "告诉学生，本课程的<emphasis role=\"strong\">自定义 Ubuntu 和应用程序</emphasis>会详细讲解本节内容，这里只是一个介绍。"
 
 #: chapter2/xinclude.xml:750(para)
 msgid "Tell the students that you will cover this topic in detail while teaching the <emphasis role=\"strong\">Customising the Desktop and Application</emphasis> lesson of this course. This topic is just an introduction."
@@ -707,7 +707,7 @@ msgstr "当你遇到以下情况时，需要添加/删除应用程序："
 
 #: chapter2/xinclude.xml:760(para)
 msgid "Use software not provided as a default application on Ubuntu."
-msgstr "Ubuntu默认没有提供你需要的软件。"
+msgstr "Ubuntu 默认没有提供你需要的软件。"
 
 #: chapter2/xinclude.xml:765(para)
 msgid "Try an alternative application to the one already installed"
@@ -715,11 +715,11 @@ msgstr "你已经安装了你需要的软件，但有另外的软件和它提供
 
 #: chapter2/xinclude.xml:770(para)
 msgid "Ubuntu contains pre-loaded software that you can easily install on your computer when required. You can install this software by using the Add/Remove application or the Synaptic Package Manager utility of Ubuntu. To access the Add/Remove application, on the <emphasis role=\"strong\">Applications</emphasis> menu, click <emphasis role=\"strong\">Add/Remove</emphasis>."
-msgstr "Ubuntu包含了很多安装方便的预封装软件包。你可以用”Ubuntu软件中心“或者”新立得软件包管理器“来安装它们。在<emphasis role=\"strong\">应用程序</emphasis>菜单，单击<emphasis role=strong>Ubuntu软件中心</emphasis>启动”Ubuntu软件中心“。"
+msgstr "Ubuntu 包含了很多安装方便的预封装软件包。你可以用” Ubuntu 软件中心“或者”新立得软件包管理器“来安装它们。在<emphasis role=\"strong\">应用程序</emphasis>菜单，单击<emphasis role=strong>Ubuntu 软件中心</emphasis>启动” Ubuntu 软件中心“。"
 
 #: chapter2/xinclude.xml:776(title)
 msgid "Launching Add/Remove Applications"
-msgstr "启动”Ubuntu软件中心“"
+msgstr "启动” Ubuntu 软件中心“"
 
 #: chapter2/xinclude.xml:785(para)
 msgid "To access Synaptic Package Manager, on the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
@@ -731,27 +731,27 @@ msgstr "启动”新立得让软件包管理器“"
 
 #: chapter2/xinclude.xml:797(para)
 msgid "Synaptic offers an advanced way of installing packages. If you do not find a software programme in the Add/Remove tool, you can search for it in Synaptic. It searches all software in the available repositories on Ubuntu."
-msgstr "新立得提供了一种安装包的高级方式。如果在”Ubuntu软件中心“里没有找到想要的软件，可以在新立得里搜索它，它会检索Ubuntu上仓库提供的所有软件。"
+msgstr "新立得提供了一种安装包的高级方式。如果在” Ubuntu 软件中心“里没有找到想要的软件，可以在新立得里搜索它，它会检索 Ubuntu 上仓库提供的所有软件。"
 
 #: chapter2/xinclude.xml:804(title)
 msgid "Desktop Effects - Compiz Fusion"
-msgstr "桌面效果——Compiz Fusion"
+msgstr "桌面效果—— Compiz Fusion"
 
 #: chapter2/xinclude.xml:809(para)
 msgid "Advise students that to view desktop effects, computers must have a 3D-enabled graphic card."
-msgstr "提醒学生，要使用桌面效果的话，显卡必须支持3D。"
+msgstr "提醒学生，要使用桌面效果的话，显卡必须支持 3D 。"
 
 #: chapter2/xinclude.xml:813(para)
 msgid "Compiz Fusion is a 3D window manager that makes use of 3D accelerated graphics cards found today on many desktops and laptops. It provides a number of visual effects that makes the Linux desktop more powerful and intuitive, as well as easier and more fun to use. For example, you can place workspaces on a cube, which enables you to move from one workspace to another easily."
-msgstr "Compiz Fusion是一个3D窗口管理器。它需要支持3D加速的显卡。现在绝大部分的桌面电脑和笔记本的显卡都支持。它提供了许多的视觉效果，使Linux桌面更加强大﹑直观﹑易用和有趣。比如，你可以把桌面变成一个立方体，快速地在不同工作区间移动。"
+msgstr "Compiz Fusion 是一个 3D 窗口管理器。它需要支持 3D 加速的显卡。现在绝大部分的桌面电脑和笔记本的显卡都支持。它提供了许多的视觉效果，使 Linux 桌面更加强大﹑直观﹑易用和有趣。比如，你可以把桌面变成一个立方体，快速地在不同工作区间移动。"
 
 #: chapter2/xinclude.xml:820(para)
 msgid "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS with appropriate graphics cards. It enables the 3D desktop visual effects that improve the usability and visual appeal of the system. You really have to see and play with this application to appreciate the benefits."
-msgstr "在Ubuntu 8.04 LTS中，Compiz Fusion是默认开启的。它带来了3D桌面视觉特效，提高了用户体验和系统视觉外观。你一定要试试这个软件，感受下它的好处。"
+msgstr "在 Ubuntu 8.04 LTS 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特效，提高了用户体验和系统视觉外观。你一定要试试这个软件，感受下它的好处。"
 
 #: chapter2/xinclude.xml:826(title)
 msgid "To view the visual effects on Ubuntu:"
-msgstr "在Ubuntu上开启视觉效果："
+msgstr "在 Ubuntu 上开启视觉效果："
 
 #: chapter2/xinclude.xml:829(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box appears."
@@ -771,7 +771,7 @@ msgstr "配置视觉效果"
 
 #: chapter2/xinclude.xml:862(para)
 msgid "If you want a simple desktop without any special effects, select <emphasis role=\"strong\">None</emphasis>. If you want a desktop with a balance of attractiveness and average performance, select <emphasis role=\"strong\">Normal</emphasis>. If you want various desktop effects, such as wobbly windows, desktop cube and many more, select <emphasis role=\"strong\">Extra</emphasis>. For example, while you are waiting for an update to complete or an e-mail client to import e-mail messages, you can turn on the Wobbly effect. The windows will start dancing and displaying the 3D effects. Play with it a little, it's fun!"
-msgstr "如果你想要一个没有任何特效的普通桌面，选择<emphasis role=\"strong\">无</emphasis>。如果你想要一个在性能和外观之间平衡的桌面，选择<emphasis role=\"strong\">普通</emphasis>。如果你想要很多桌面效果，比如窗口抖动、桌面立方体等等，选择<emphasis role=\"strong\">增强</emphasis>。比如说窗口抖动这个效果，在你等待更新完成或者邮件客户端收取邮件的时候，你可以打开窗口抖动特效，那些窗口就会开始舞动和出现3D效果。和它们玩玩是件有趣的事情！"
+msgstr "如果你想要一个没有任何特效的普通桌面，选择<emphasis role=\"strong\">无</emphasis>。如果你想要一个在性能和外观之间平衡的桌面，选择<emphasis role=\"strong\">普通</emphasis>。如果你想要很多桌面效果，比如窗口抖动、桌面立方体等等，选择<emphasis role=\"strong\">增强</emphasis>。比如说窗口抖动这个效果，在你等待更新完成或者邮件客户端收取邮件的时候，你可以打开窗口抖动特效，那些窗口就会开始舞动和出现 3D 效果。和它们玩玩是件有趣的事情！"
 
 #: chapter2/xinclude.xml:872(title)
 msgid "Lesson Summary"
@@ -783,7 +783,7 @@ msgstr "在这一课，你学到了："
 
 #: chapter2/xinclude.xml:877(para)
 msgid "Ubuntu utilises the GNOME desktop by default"
-msgstr "Ubuntu默认的GNOME桌面环境"
+msgstr "Ubuntu 默认的 GNOME 桌面环境"
 
 #: chapter2/xinclude.xml:881(para)
 msgid "You can set the default language of your computer either during the installation of Ubuntu or at a later stage"
@@ -795,11 +795,11 @@ msgstr "通过快速用户切换，你可以和别人共享你的电脑，而且
 
 #: chapter2/xinclude.xml:891(para)
 msgid "You can install software by using the Add/Remove application or the Synaptic Package Manager utility of Ubuntu"
-msgstr "使用“添加/删除程序”和“新立得软件包管理器”给Ubuntu安装新的程序。"
+msgstr "使用“添加/删除程序”和“新立得软件包管理器”给 Ubuntu 安装新的程序。"
 
 #: chapter2/xinclude.xml:896(para)
 msgid "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D desktop visual effects"
-msgstr "Compiz Fusion在Ubuntu 8.04 LTS里默认启用，它能带给你有趣的3D桌面效果。"
+msgstr "Compiz Fusion 在 Ubuntu 8.04 LTS 里默认启用，它能带给你有趣的 3D 桌面效果。"
 
 #: chapter2/xinclude.xml:904(title)
 msgid "Review Exercise"
@@ -819,7 +819,7 @@ msgstr "在顶部的面板上默认的三个快捷图标为？"
 
 #: chapter2/xinclude.xml:926(para)
 msgid "Mozilla Firefox, Evolution e-mail client and Ubuntu help."
-msgstr "Mozilla Firefox网页浏览器，Evolution邮件客户端，Ubuntu帮助。"
+msgstr "Mozilla Firefox 网页浏览器， Evolution 邮件客户端， Ubuntu 帮助。"
 
 #: chapter2/xinclude.xml:933(para)
 msgid "What is fast user switching?"
@@ -856,7 +856,7 @@ msgstr "在对话框中指定下列信息："
 
 #: chapter2/xinclude.xml:974(para)
 msgid "Type charles in the <emphasis role=\"strong\">Username</emphasis> box."
-msgstr "在<emphasis role=\"strong\">用户名</emphasis>框中输入”charles“。"
+msgstr "在<emphasis role=\"strong\">用户名</emphasis>框中输入 charles 。"
 
 #: chapter2/xinclude.xml:978(para)
 msgid "Select Desktop user from the <emphasis role=\"strong\">Profile</emphasis> box."
@@ -864,7 +864,7 @@ msgstr "从<emphasis role=\"strong\">配置文件</emphasis>下拉列表中选�
 
 #: chapter2/xinclude.xml:982(para)
 msgid "Type charles windsor in the <emphasis role=\"strong\">Real name</emphasis> box."
-msgstr "在<emphasis role=\"strong\">真实姓名</emphasis>框中输入“charles windsor”。"
+msgstr "在<emphasis role=\"strong\">真实姓名</emphasis>框中输入 charles windsor 。"
 
 #: chapter2/xinclude.xml:987(para)
 msgid "Type England in the <emphasis role=\"strong\">Office location</emphasis> box."
@@ -880,7 +880,7 @@ msgstr "(should be deleted)"
 
 #: chapter2/xinclude.xml:1002(para)
 msgid "Type password@1 in the <emphasis role=\"strong\">User password</emphasis> box."
-msgstr "在<emphasis role=\"strong\">用户密码</emphasis>框和<emphasis role=\"strong\">确认</emphasis>框中输入“password@1”。"
+msgstr "在<emphasis role=\"strong\">用户密码</emphasis>框和<emphasis role=\"strong\">确认</emphasis>框中输入 password@1。"
 
 #: chapter2/xinclude.xml:1016(para)
 msgid "Click the fast user switch icon on the top panel. Click charles. The logon screen appears."
@@ -888,7 +888,7 @@ msgstr "单击屏幕顶部面板最右端的图标，选择“切换用户”，
 
 #: chapter2/xinclude.xml:1021(para)
 msgid "Type charles in the <emphasis role=\"strong\">Username</emphasis> box and password@1 in the <emphasis role=\"strong\">Password</emphasis> box."
-msgstr "在<emphasis role=\"strong\">用户名</emphasis>文本框中输入“charles”，<emphasis role=\"strong\">密码</emphasis>文本框中输入“password@1”。"
+msgstr "在<emphasis role=\"strong\">用户名</emphasis>文本框中输入 charles ，<emphasis role=\"strong\">密码</emphasis>文本框中输入 password@1。"
 
 #: chapter2/xinclude.xml:1027(para)
 msgid "Your friend can now work on this desktop."
