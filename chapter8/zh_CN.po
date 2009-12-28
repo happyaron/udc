@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-28 13:09+0800\n"
+"PO-Revision-Date: 2009-12-28 22:42+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -756,11 +756,11 @@ msgstr "播放音乐文件"
 
 #: chapter8/xinclude.xml:57(para)
 msgid "Ubuntu comes with the Rhythmbox Music Player to play and organise music files. Similar to iTunes in its interface, this music player is a free software application designed to work in the GNOME desktop environment. Using Rhythmbox, you can play your music files, listen to Internet radio, import music from CDs and organise your music files. Rhythmbox offers comprehensive audio support for a large number of audio formats and contains various useful features that make playing music easy and enjoyable."
-msgstr "Ubuntu 自带 Rhythmbox 音乐播放器播放和组织音乐文件。是专为 GNOME 桌面环境设计的一款自由软件，其界面类似于 iTunes。通过 Rhythmbox，您可以播放音乐文件，收听网络电台，从 CD 中导入导入并组织音乐文件。Rhythmbox 提供对大量音频格式的广泛支持并且包含很多使播放音乐变得更简单和享受的有用功能。"
+msgstr "Ubuntu 自带 Rhythmbox 音乐播放器播放和组织音乐文件。是专为 GNOME 桌面环境设计的一款自由软件，其界面类似于 iTunes。通过 Rhythmbox，您可以播放音乐文件，收听网络电台，或者从 CD 中导入并组织音乐文件。Rhythmbox 提供对大量音频格式的广泛支持，它还包含了很多有用的功能，使播放音乐变得更简单和愉快。"
 
 #: chapter8/xinclude.xml:69(para)
 msgid "You need to demonstrate and let the students play fully with at least 1 music, 1 DVD playback and 1 audio recording."
-msgstr "您需要演示并且让学生完整播放至少一首音乐，一张 DVD 和一条音频录音。"
+msgstr "这里需要演示播放音乐、DVD 和音频录音，学生应该跟着完整操作至少一首音乐、一张 DVD 和一条音频录音。"
 
 #: chapter8/xinclude.xml:74(title)
 msgid "Playing Music using Rhythmbox"
@@ -768,11 +768,11 @@ msgstr "使用 Rhythmbox 播放音乐"
 
 #: chapter8/xinclude.xml:77(title)
 msgid "To play music using Rhythmbox:"
-msgstr "要使用 Rhythmbox 播放音乐："
+msgstr "使用 Rhythmbox 播放音乐："
 
 #: chapter8/xinclude.xml:80(para)
 msgid "On the <emphasis role=\"strong\">Application</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Rhythmbox Music Player</emphasis>. A welcome screen is displayed."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis> 并点击 <emphasis role=\"strong\">Rhythmbox 音乐播放器</emphasis>。将显示一个欢迎屏幕。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Rhythmbox 音乐播放器</emphasis>。将显示一个欢迎界面。"
 
 #: chapter8/xinclude.xml:86(title)
 msgid "Launching Rhythmbox"
@@ -780,7 +780,7 @@ msgstr "启动 Rhythmbox"
 
 #: chapter8/xinclude.xml:97(para)
 msgid "The main window of the Rhythmbox Music Player opens. Now, you will be able to organise your favourite music using this window."
-msgstr "Rhythmbox 音乐播放器主窗口将打开。现在，您将可以使用这个窗口组织您的音乐收藏。"
+msgstr "于是打开了 Rhythmbox 音乐播放器主窗口。您将使用这个窗口组织您的喜爱的音乐。"
 
 #: chapter8/xinclude.xml:102(title)
 msgid "The Rhythmbox Music Player"
@@ -788,11 +788,11 @@ msgstr "Rhythmbox 音乐播放器"
 
 #: chapter8/xinclude.xml:113(para)
 msgid "To start playing music in Rhythmbox, you need to first select the music source from the <emphasis role=\"strong\">Source</emphasis> list. By default <emphasis role=\"strong\">Library</emphasis> is selected as the source when you open Rhythmbox for the first time."
-msgstr "要开始在 Rhythmbox 中播放音乐，您需要首先选择从 <emphasis role=\"strong\">源</emphasis> 列表中选择音乐源。默认，第一次打开 Rhythmbox 时 <emphasis role=\"strong\">音乐库</emphasis> 被选中作为源。"
+msgstr "在 Rhythmbox 中播放音乐，首先需要从 <emphasis role=\"strong\">源</emphasis> 列表中选择音乐源。首次打开 Rhythmbox 时，<emphasis role=\"strong\">音乐库</emphasis> 将被默认选中作为源。"
 
 #: chapter8/xinclude.xml:119(para)
 msgid "Library is the main source available in Rhythmbox. You can import all your music files into the Rhythmbox library and can start playing immediately. You also use the music files in your library to create smart customised playlists and play-queues. To start importing individual music files, right-click <emphasis role=\"strong\">Music</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>. It displays the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box."
-msgstr "音乐库是 Rhythmbox 中可用的主要源。您可以向 Rhythmbox 音乐库导入任何音乐文件并且可以立即开始播放。您也可以使用音乐库中的音乐文件创建小的自定义播放列表和播放队列。要开始导入单独的音乐文件，右键点击 <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>。它显示 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框。"
+msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击 <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。于是弹出 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:127(title)
 msgid "Importing Music Files"
@@ -800,7 +800,7 @@ msgstr "导入音乐文件"
 
 #: chapter8/xinclude.xml:138(para)
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files. Select the files that you want to import and click <emphasis role=\"strong\">Open</emphasis>."
-msgstr "在 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框中，导航到要导入文件所在的文件夹。选择要导入的文件夹并点击 <emphasis role=\"strong\">打开</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框中，导航到预导入文件所在的文件夹，选中并点击 <emphasis role=\"strong\">打开</emphasis>按钮。"
 
 #: chapter8/xinclude.xml:144(title)
 #: chapter8/xinclude.xml:1563(title)
@@ -815,11 +815,11 @@ msgstr "小技巧："
 
 #: chapter8/xinclude.xml:156(para)
 msgid "While importing music files from your music collection, Rhythmbox also imports the metadata tags associated with the files. These tags are used by Rhythmbox to categorise the music files by genre, artist, album, title, and track number."
-msgstr "从音乐集导入文件时，Rhythmbox 也导入与文件相关联的元数据标签。这些标签被 Rhythmbox 用于根据流派(genre)、艺人(artist)、专辑(album)、标题(title)和音轨(track number)对音乐文件进行分类。"
+msgstr "从音乐集中导入文件时，Rhythmbox 也将导入与文件相关联的元数据标签。这些标签被 Rhythmbox 用于对音乐文件进行分类，包括流派(genre)、艺人(artist)、专辑(album)、标题(title)和音轨(track number)等。"
 
 #: chapter8/xinclude.xml:164(para)
 msgid "The selected music files are imported into the library and displayed in the the Rhythmbox window. You will notice that the main Rhythmbox window is split into various panes. Each pane displays different details about your music collection. To play music from the library, you can use the <emphasis role=\"strong\">Artist, Album</emphasis> and <emphasis role=\"strong\">Track</emphasis> panes to select the music tracks that you want to play and then use the playback controls to start playing the music tracks. Click the <emphasis role=\"strong\">Play</emphasis> button to start playing the selected track."
-msgstr "选中的音乐文件导入到音乐库中并在 Rhythmbox 窗口中显示。您将注意到 Rhythmbox 主窗口被分为多个嵌板。每个嵌板显示关于音乐集的不同细节。要从音乐库中播放音乐，您可以使用 <emphasis role=\"strong\">艺人，专辑</emphasis> 和 <emphasis role=\"strong\">曲目</emphasis> 嵌板选择要播放的音乐曲目然后使用播放控制开始播放此音乐曲目。"
+msgstr "选中的音乐文件导入到音乐库中并在 Rhythmbox 窗口中显示。此时您将注意到 Rhythmbox 主窗口被分为多个嵌板。每个嵌板显示关于音乐集的不同细节。要从音乐库中播放音乐，您可以通过 <emphasis role=\"strong\">艺人，专辑</emphasis> 和 <emphasis role=\"strong\">曲目</emphasis> 嵌板选择要播放的音乐曲目然后使用播放控制开始播放。"
 
 #: chapter8/xinclude.xml:176(title)
 msgid "The Rhythmbox Window"
@@ -827,27 +827,27 @@ msgstr "Rhythmbox 窗口"
 
 #: chapter8/xinclude.xml:187(para)
 msgid "If you click the <emphasis role=\"strong\">Play</emphasis> button without selecting any track, Rhythmbox will start playing the first track from your current view. You can use the <emphasis role=\"strong\">Shuffle</emphasis> button to play tracks randomly. You can also create a play list by right-clicking a music track and selecting <emphasis role=\"strong\">Add to Playlist</emphasis>. To stop or pause a track, click the <emphasis role=\"strong\">Play</emphasis> button again."
-msgstr "如果没有选择任何曲目的点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">乱序</emphasis> 按钮随机播放曲目。您也可以通过在一个曲目上点右键并选择 <emphasis role=\"strong\">添加到播放列表</emphasis>。要停止或暂停一个曲目，请再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
+msgstr "如果没有选择任何曲目却点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">随机</emphasis> 按钮随机播放曲目。也可以通过右击某一曲目选择 <emphasis role=\"strong\">添加到播放列表</emphasis>将曲目添加到播放列表。当再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮则将停止或暂停播放。"
 
 #: chapter8/xinclude.xml:195(title)
 msgid "Creating New Playlist"
-msgstr "创建新播放列表"
+msgstr "新建播放列表"
 
 #: chapter8/xinclude.xml:206(para)
 msgid "Rhythmbox offers many additional useful features in the form of various plugins. Some of these plugins are not turned on by default. To access these plugins, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Plugins.</emphasis> The <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box opens."
-msgstr "Rhythmbox 以多种插件的形式提供很多附加的有用功能。某些插件默认没有打开。要使用这些插件，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件.</emphasis>，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
+msgstr "Rhythmbox 以插件的形式提供附加功能。默认情况下，某些插件没有打开。要使用这些插件，可在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件.</emphasis>按钮，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:212(title)
 msgid "Accessing Plugins"
-msgstr "访问插件"
+msgstr "安装插件"
 
 #: chapter8/xinclude.xml:223(para)
 msgid "You can view all the available plugins in the left pane of the <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box. Selecting a plugin displays its details in the right pane of the dialogue box."
-msgstr "您可以从 <emphasis role=\"strong\">配置插件</emphasis> 对话框的左嵌板内查看所有可用插件。选择一个插件在对话框右嵌板内显示它的细节。"
+msgstr "您可以从 <emphasis role=\"strong\">配置插件</emphasis> 对话框的左嵌板内查看所有可用插件。选中一个插件在对话框右嵌板内将显示其对应细节。"
 
 #: chapter8/xinclude.xml:230(para)
 msgid "Depending on your requirements and preferences, you can activate these plugins to get extra functionality in your Rhythmbox. For example, the <emphasis role=\"strong\">Magnatune Store</emphasis> plugin enables iTunes-style song previews and paid downloads. Activating <emphasis role=\"strong\">Visualization</emphasis> renders a real-time visualization of the music on the screen while you listen to a song track. Similarly, if you want to automatically retrieve the lyrics of the song being played, activate <emphasis role=\"strong\">Song Lyrics</emphasis> by selecting the corresponding check box and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box."
-msgstr "根据要求和设置，可以在 Rhythmbox 中激活这些插件以获得额外功能。例如，<emphasis role=\"strong\">Magnatune 商店</emphasis> 启用 iTunes 型的歌曲试听和付费下载。激活 <emphasis role=\"strong\">视觉效果</emphasis> ，听歌时，在屏幕上渲染一个音乐的实时形象。类似地，如果自动检索正在播放的歌曲的歌词，通过选择对应的复选框以激活 <emphasis role=\"strong\">歌词</emphasis> 然后点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
+msgstr "根据要求和设置，可以在 Rhythmbox 中激活这些插件来添加相应功能。例如，安装 <emphasis role=\"strong\">Magnatune 商店</emphasis> 插件可以试听 iTunes 型的歌曲并付费下载。激活 <emphasis role=\"strong\">视觉效果</emphasis> 时，屏幕上将实时显示音乐播放轨迹。类似地，如果希望自动检索当前播放歌曲的歌词，可选中<emphasis role=\"strong\">歌词</emphasis>复选框以激活插件。点击 <emphasis role=\"strong\">关闭</emphasis> 按钮退出 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:242(title)
 msgid "Activating Plugins"
@@ -855,7 +855,7 @@ msgstr "激活插件"
 
 #: chapter8/xinclude.xml:253(para)
 msgid "You are returned to the main Rhythmbox interface. To start retrieving the song lyrics, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Song Lyrics</emphasis>."
-msgstr "您回到了 Rhythmbox 主界面。要开始检索歌词，在 <emphasis role=\"strong\">编辑</emphasis> 菜单，点击 <emphasis role=\"strong\">歌词</emphasis>。"
+msgstr "此时回到了 Rhythmbox 主界面。要检索歌词，可在 <emphasis role=\"strong\">编辑</emphasis> 菜单下点击 <emphasis role=\"strong\">歌词</emphasis>项。"
 
 #: chapter8/xinclude.xml:257(title)
 msgid "Retrieving Song Lyrics"
@@ -871,7 +871,7 @@ msgstr "已检索到歌词"
 
 #: chapter8/xinclude.xml:283(para)
 msgid "Similarly, if you wish to view animations while listening to a song, click the <emphasis role=\"strong\"> Visualization</emphasis> button."
-msgstr "类似地，如果您希望在听歌时观看动画，点击 <emphasis role=\"strong\">可视化</emphasis> 按钮"
+msgstr "类似地，如果想听歌的同时观看动画，可点击 <emphasis role=\"strong\">可视化</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:288(title)
 msgid "Activating Visualisation"
@@ -879,7 +879,7 @@ msgstr "激活可视化"
 
 #: chapter8/xinclude.xml:299(para)
 msgid "You can view animations while playing a song."
-msgstr "当播放一首歌时您可以观看动画。"
+msgstr "可在听歌的同时播放动画。"
 
 #: chapter8/xinclude.xml:302(title)
 msgid "Viewing Animations"
@@ -887,12 +887,12 @@ msgstr "观看动画"
 
 #: chapter8/xinclude.xml:313(para)
 msgid "Rhythmbox also enables you to listen to music from a variety of sources, such as Internet radio stations and podcasts."
-msgstr "Rhythmbox 也允许您从多种来源收听音乐，例如网络电台和播客。"
+msgstr "Rhythmbox 也支持通过其他来源收听音乐，如网络电台和播客等。"
 
 #: chapter8/xinclude.xml:316(para)
 #: chapter8/xinclude.xml:3026(para)
 msgid "To play music from a podcast of your choice, right-click the <emphasis role=\"strong\">Podcast</emphasis> option in the <emphasis role=\"strong\">Source</emphasis> list and select <emphasis role=\"strong\">New Podcast Feed</emphasis>."
-msgstr "要从您选择的一个播客播放音乐，在 <emphasis role=\"strong\">源</emphasis> 列表右键点击 <emphasis role=\"strong\">播客</emphasis> 选项并选择 <emphasis role=\"strong\">新播客订阅</emphasis>。"
+msgstr "要从播客播放音乐，可右击 <emphasis role=\"strong\">源</emphasis> 项选择 <emphasis role=\"strong\">播客</emphasis> 选项下的 <emphasis role=\"strong\">新播客订阅</emphasis>。"
 
 #: chapter8/xinclude.xml:320(title)
 msgid "Adding New Podcast Feed"
