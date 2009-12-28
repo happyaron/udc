@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-12-07 15:34-0500\n"
+"POT-Creation-Date: 2009-12-29 00:11+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,133 +89,133 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:334(None)
+#: chapter2/xinclude.xml:331(None)
 msgid "@@image: 'images/Lesson03_images_015.png'; md5=78a5263f5507a514cf6224f87843e66f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:350(None)
+#: chapter2/xinclude.xml:347(None)
 msgid "@@image: 'images/Lesson03_images_016.png'; md5=fa4c917c0a840acdd414e26f6a4e2353"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:365(None)
+#: chapter2/xinclude.xml:362(None)
 msgid "@@image: 'images/Lesson03_images_017.png'; md5=3307736ba5389f5f19cc37332f51abb7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:385(None)
+#: chapter2/xinclude.xml:382(None)
 msgid "@@image: 'images/Lesson03_images_018.png'; md5=4f48d01c0a3f31bb98a5671b5969f768"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:401(None)
+#: chapter2/xinclude.xml:398(None)
 msgid "@@image: 'images/Lesson03_images_019.png'; md5=5c00f46ed9353fa890c816953e546dad"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:415(None)
+#: chapter2/xinclude.xml:412(None)
 msgid "@@image: 'images/Lesson03_images_020.png'; md5=4f5343184ab4f949f3cf7ced7dc7edcf"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:430(None)
+#: chapter2/xinclude.xml:427(None)
 msgid "@@image: 'images/Lesson03_images_021.png'; md5=252b3e1ea5cc5550d0e71373131f2510"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:445(None)
+#: chapter2/xinclude.xml:442(None)
 msgid "@@image: 'images/Lesson03_images_022.png'; md5=a1b626d9c0e65d31a92f7e1ecc977417"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:461(None)
+#: chapter2/xinclude.xml:458(None)
 msgid "@@image: 'images/Lesson03_images_023.png'; md5=fec762bb56757cd0a9380dc4d545055a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:485(None)
+#: chapter2/xinclude.xml:482(None)
 msgid "@@image: 'images/Lesson03_images_024.png'; md5=108ad2283ebfd6174e2c0e1a682e2c31"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:515(None)
+#: chapter2/xinclude.xml:512(None)
 msgid "@@image: 'images/Lesson03_images_025.png'; md5=e3e408cc3b09dd85ea0d961a9a18fded"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:531(None)
+#: chapter2/xinclude.xml:528(None)
 msgid "@@image: 'images/Lesson03_images_026.png'; md5=e80a8f72d70568f4289d6e39daf3e9f8"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:548(None)
+#: chapter2/xinclude.xml:545(None)
 msgid "@@image: 'images/Lesson03_images_027.png'; md5=44500bc9ffbda54de6ef6176ec727738"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:616(None)
+#: chapter2/xinclude.xml:613(None)
 msgid "@@image: 'images/Lesson03_images_028.png'; md5=86edaab488f4c85fe308a7ef23c4a025"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:633(None)
+#: chapter2/xinclude.xml:630(None)
 msgid "@@image: 'images/Lesson03_images_029.png'; md5=7f55155277f9f457c1a7f4f13ae92da2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:691(None)
+#: chapter2/xinclude.xml:669(None)
 msgid "@@image: 'images/Lesson03_images_030.png'; md5=4ef58140609e512aa37489bfdb594c2b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:708(None)
+#: chapter2/xinclude.xml:686(None)
 msgid "@@image: 'images/Lesson03_images_031.png'; md5=e4d913cb1b0557f4baef9267ab3b3cab"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:724(None)
+#: chapter2/xinclude.xml:702(None)
 msgid "@@image: 'images/Lesson03_images_032.png'; md5=c0409804a1fc8a9bcdd9009f34649cc0"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:780(None)
+#: chapter2/xinclude.xml:754(None)
 msgid "@@image: 'images/Lesson03_images_033.png'; md5=26ad6647d0dd3c6e7c18b46f8955983f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:792(None)
+#: chapter2/xinclude.xml:766(None)
 msgid "@@image: 'images/Lesson03_images_034.png'; md5=626428fbcea23e5c0ac7eb6b3c3d5b55"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:838(None)
+#: chapter2/xinclude.xml:812(None)
 msgid "@@image: 'images/Lesson03_images_035.png'; md5=c6e6c9ffef9c99ddef5430bd4dc4de2d"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:855(None)
+#: chapter2/xinclude.xml:829(None)
 msgid "@@image: 'images/Lesson03_images_036.png'; md5=5979adf62f7ef6352f97c8f3449bc630"
 msgstr ""
 
@@ -251,7 +251,7 @@ msgstr ""
 msgid "How to enable 3D Desktop effects"
 msgstr ""
 
-#: chapter2/xinclude.xml:33(title) chapter2/xinclude.xml:50(title) chapter2/xinclude.xml:78(title) chapter2/xinclude.xml:587(title) chapter2/xinclude.xml:743(title) chapter2/xinclude.xml:807(title)
+#: chapter2/xinclude.xml:33(title) chapter2/xinclude.xml:50(title) chapter2/xinclude.xml:78(title) chapter2/xinclude.xml:584(title) chapter2/xinclude.xml:721(title) chapter2/xinclude.xml:781(title)
 msgid "Instructor Notes:"
 msgstr ""
 
@@ -331,7 +331,7 @@ msgstr ""
 msgid "The Places Menu"
 msgstr ""
 
-#: chapter2/xinclude.xml:163(title) chapter2/xinclude.xml:234(title) chapter2/xinclude.xml:302(title) chapter2/xinclude.xml:470(title) chapter2/xinclude.xml:677(title)
+#: chapter2/xinclude.xml:163(title) chapter2/xinclude.xml:234(title) chapter2/xinclude.xml:302(title) chapter2/xinclude.xml:467(title)
 msgid "Note:"
 msgstr ""
 
@@ -427,463 +427,427 @@ msgstr ""
 msgid "The current date and time is displayed next to the System tray. If you click the date and time, a calendar is displayed."
 msgstr ""
 
-#: chapter2/xinclude.xml:326(para)
-msgid "The last icon on the top panel shuts down, restarts, hibernates, locks your computer and places it on standby."
-msgstr ""
-
-#: chapter2/xinclude.xml:330(title)
+#: chapter2/xinclude.xml:327(title)
 msgid "Top Panel Icons"
 msgstr ""
 
-#: chapter2/xinclude.xml:339(para)
+#: chapter2/xinclude.xml:336(para)
 msgid "The first icon on the bottom panel provides quick access to the desktop. If multiple windows are open on your desktop and you would like to minimise all of them together, click this icon. Clicking again will display your windows in their original state, before you minimised them."
 msgstr ""
 
-#: chapter2/xinclude.xml:346(title)
+#: chapter2/xinclude.xml:343(title)
 msgid "Show the Desktop"
 msgstr ""
 
-#: chapter2/xinclude.xml:355(para)
+#: chapter2/xinclude.xml:352(para)
 msgid "Next to the icon used to minimise the windows is a blank area in which the list of open application windows appears, similar to the taskbar in Windows. When you open an application, it's listed on this area for easy access, as shown in the bottom panel of the following screen:"
 msgstr ""
 
-#: chapter2/xinclude.xml:361(title)
+#: chapter2/xinclude.xml:358(title)
 msgid "Open Applications"
 msgstr ""
 
-#: chapter2/xinclude.xml:370(para)
+#: chapter2/xinclude.xml:367(para)
 msgid "The next icon, workspace, enables you to split the windows that are open on your desktop into multiple workspaces. You can then navigate among the workspaces by pressing and holding down the CTRL+ALT keys, and then pressing either the left or the right arrow key. This reduces the clutter on your desktop and eases navigation between windows."
 msgstr ""
 
-#: chapter2/xinclude.xml:376(para)
+#: chapter2/xinclude.xml:373(para)
 msgid "For example, you might have the Firefox window, an OpenOffice application, a search window and a calculator window open on the desktop."
 msgstr ""
 
-#: chapter2/xinclude.xml:381(title)
+#: chapter2/xinclude.xml:378(title)
 msgid "The Workspace Icon"
 msgstr ""
 
-#: chapter2/xinclude.xml:390(para)
+#: chapter2/xinclude.xml:387(para)
 msgid "You can move the Firefox window to a separate workspace by pressing and holding down the CTRL+ALT+SHIFT keys and then pressing the left or the right arrow key. Two workspaces will be displayed in the bottom-right corner of the desktop - one workspace with the Firefox window and the original workspace with the other windows."
 msgstr ""
 
-#: chapter2/xinclude.xml:397(title)
+#: chapter2/xinclude.xml:394(title)
 msgid "Switching Workspaces"
 msgstr ""
 
-#: chapter2/xinclude.xml:406(para)
+#: chapter2/xinclude.xml:403(para)
 msgid "Now, you have two separate workspaces. Notice that the Firefox window has shifted to the original workspace. So, depending on the task you perform, you can split the windows into different workspaces."
 msgstr ""
 
-#: chapter2/xinclude.xml:411(title)
+#: chapter2/xinclude.xml:408(title)
 msgid "Splitting Windows into Workspaces"
 msgstr ""
 
-#: chapter2/xinclude.xml:420(para)
+#: chapter2/xinclude.xml:417(para)
 msgid "By default, Ubuntu provides two workspaces. If you want to split the windows into more workspaces, you have to add the workspace to the desktop by right-clicking the workspace icon and then clicking <emphasis role=\"strong\">Preferences</emphasis>. The <emphasis role=\"strong\">Workspace Switcher Preferences</emphasis> dialogue box appears."
 msgstr ""
 
-#: chapter2/xinclude.xml:426(title)
+#: chapter2/xinclude.xml:423(title)
 msgid "Creating New Workspaces"
 msgstr ""
 
-#: chapter2/xinclude.xml:435(para)
+#: chapter2/xinclude.xml:432(para)
 msgid "In the <emphasis role=\"strong\">Workspace Switcher Preferences</emphasis> dialogue box, type or select the number of workspaces from the <emphasis role=\"strong\">Number of workspaces</emphasis> list and click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
 
-#: chapter2/xinclude.xml:441(title)
+#: chapter2/xinclude.xml:438(title)
 msgid "Workspace Switcher Preferences"
 msgstr ""
 
-#: chapter2/xinclude.xml:450(para)
+#: chapter2/xinclude.xml:447(para)
 msgid "The specified number of workspaces will be displayed in the bottom-right corner of the desktop."
 msgstr ""
 
-#: chapter2/xinclude.xml:453(para)
+#: chapter2/xinclude.xml:450(para)
 msgid "The last icon in the bottom panel is the <emphasis role=\"strong\">Waste basket</emphasis>. It contains the files you deleted from your computer. Right-click the icon and click <emphasis role=\"strong\">Open</emphasis> to open the <emphasis role=\"strong\">Trash</emphasis> window."
 msgstr ""
 
-#: chapter2/xinclude.xml:457(title)
+#: chapter2/xinclude.xml:454(title)
 msgid "The Waste Basket Icon and Menu"
 msgstr ""
 
-#: chapter2/xinclude.xml:466(para)
+#: chapter2/xinclude.xml:463(para)
 msgid "You can delete an item permanently from the computer by pressing the DELETE key."
 msgstr ""
 
-#: chapter2/xinclude.xml:472(para)
+#: chapter2/xinclude.xml:469(para)
 msgid "Alternatively, you can right-click the item and click <emphasis role=\"strong\">Delete from Trash</emphasis> to permanently delete it from the computer."
 msgstr ""
 
-#: chapter2/xinclude.xml:476(para)
+#: chapter2/xinclude.xml:473(para)
 msgid "If you want to restore the deleted item to the desktop, drag that item to the desktop from the <emphasis role=\"strong\">Trash</emphasis> window."
 msgstr ""
 
-#: chapter2/xinclude.xml:481(title)
+#: chapter2/xinclude.xml:478(title)
 msgid "Deleting Items from Trash"
 msgstr ""
 
-#: chapter2/xinclude.xml:492(title)
+#: chapter2/xinclude.xml:489(title)
 msgid "Changing the Default Language"
 msgstr ""
 
-#: chapter2/xinclude.xml:494(para)
+#: chapter2/xinclude.xml:491(para)
 msgid "Ubuntu supports more than 100 languages. You can set the default language of your computer either during the installation of Ubuntu or at a later stage."
 msgstr ""
 
-#: chapter2/xinclude.xml:498(para)
+#: chapter2/xinclude.xml:495(para)
 msgid "To change the default language during the installation, select the required language when prompted."
 msgstr ""
 
-#: chapter2/xinclude.xml:502(title)
+#: chapter2/xinclude.xml:499(title)
 msgid "To change the default language at a later stage:"
 msgstr ""
 
-#: chapter2/xinclude.xml:505(para)
+#: chapter2/xinclude.xml:502(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Language Support</emphasis>. The system prompts you to install language support if updates are available for your selected language."
 msgstr ""
 
-#: chapter2/xinclude.xml:511(title)
+#: chapter2/xinclude.xml:508(title)
 msgid "Configuring Language Support"
 msgstr ""
 
-#: chapter2/xinclude.xml:522(para)
+#: chapter2/xinclude.xml:519(para)
 msgid "Click <emphasis role=\"strong\">Install</emphasis> to continue. On completing the updates, the <emphasis role=\"strong\">Language Support</emphasis> dialogue box opens."
 msgstr ""
 
-#: chapter2/xinclude.xml:527(title)
+#: chapter2/xinclude.xml:524(title)
 msgid "Installing Language Support Updates"
 msgstr ""
 
-#: chapter2/xinclude.xml:538(para)
+#: chapter2/xinclude.xml:535(para)
 msgid "In the <emphasis role=\"strong\">Language Support</emphasis> dialogue box, from the <emphasis role=\"strong\">Supported Languages</emphasis> section, select the check box for the language you want to use for support functions in Ubuntu."
 msgstr ""
 
-#: chapter2/xinclude.xml:544(title)
+#: chapter2/xinclude.xml:541(title)
 msgid "Installing Default Language Support"
 msgstr ""
 
-#: chapter2/xinclude.xml:555(para)
+#: chapter2/xinclude.xml:552(para)
 msgid "Click <emphasis role=\"strong\">Apply</emphasis> and then click <emphasis role=\"strong\">OK</emphasis>. Ubuntu downloads and installs the necessary packages on your computer. The language you selected will now appear in the <emphasis role=\"strong\">Default Language</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:563(para)
+#: chapter2/xinclude.xml:560(para)
 msgid "Select the language that you want set as default, and click <emphasis role=\"strong\">OK</emphasis>."
 msgstr ""
 
-#: chapter2/xinclude.xml:568(para)
+#: chapter2/xinclude.xml:565(para)
 msgid "For the changes to take effect, log off and then log on again."
 msgstr ""
 
-#: chapter2/xinclude.xml:574(title)
+#: chapter2/xinclude.xml:571(title)
 msgid "Nice to Know:"
 msgstr ""
 
-#: chapter2/xinclude.xml:576(para)
+#: chapter2/xinclude.xml:573(para)
 msgid "You can change the language as many times as you would like and this can depend on your location. For example, changing the language to Russian may be a nice touch when presenting in Russia during a business trip."
 msgstr ""
 
-#: chapter2/xinclude.xml:584(title)
+#: chapter2/xinclude.xml:581(title)
 msgid "Creating a User Account and Fast User Switching"
 msgstr ""
 
-#: chapter2/xinclude.xml:589(para)
+#: chapter2/xinclude.xml:586(para)
 msgid "Advise students that to understand the concept of fast user switching, they need to have more than one user account on their computer. Walk the students through creating a new user on their computer, and then move on to the concept of fast user switching."
 msgstr ""
 
-#: chapter2/xinclude.xml:595(para)
+#: chapter2/xinclude.xml:592(para)
 msgid "You may have multiple users who want to access your system. In this case, there is a risk of data being manipulated or corrupted by other users. To prevent this from happening, you can create user accounts for each individual who wants to use your computer, giving each user an individual account with personalised user settings. For example, it is useful to give children their own accounts on the computer to prevent then from changing your settings or accessing unsuitable files and applications.."
 msgstr ""
 
-#: chapter2/xinclude.xml:605(title)
+#: chapter2/xinclude.xml:602(title)
 msgid "To create a new user account on Ubuntu:"
 msgstr ""
 
-#: chapter2/xinclude.xml:608(para)
+#: chapter2/xinclude.xml:605(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Users and Groups</emphasis>. The <emphasis role=\"strong\">User settings</emphasis> dialogue box appears."
 msgstr ""
 
-#: chapter2/xinclude.xml:612(title)
+#: chapter2/xinclude.xml:609(title)
 msgid "Adding/Removing Users"
 msgstr ""
 
-#: chapter2/xinclude.xml:623(para)
+#: chapter2/xinclude.xml:620(para)
 msgid "In the <emphasis role=\"strong\">User settings</emphasis> dialogue box, click <emphasis role=\"strong\">Add User</emphasis> to add a new user account on your computer. The <emphasis role=\"strong\">New user account</emphasis> dialogue box opens."
 msgstr ""
 
-#: chapter2/xinclude.xml:629(title)
+#: chapter2/xinclude.xml:626(title)
 msgid "Adding a User"
 msgstr ""
 
-#: chapter2/xinclude.xml:640(para)
+#: chapter2/xinclude.xml:637(para)
 msgid "Specify the user accounts' basic settings, contact information and password information in the <emphasis role=\"strong\">New user account</emphasis> dialogue box."
 msgstr ""
 
-#: chapter2/xinclude.xml:646(para)
+#: chapter2/xinclude.xml:643(para)
 msgid "Type the name with which you want to log on to your computer in the <emphasis role=\"strong\">Username</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:651(para)
+#: chapter2/xinclude.xml:648(para)
 msgid "Type your full name in the <emphasis role=\"strong\">Real name</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:656(para)
+#: chapter2/xinclude.xml:653(para)
 msgid "Select your user type from the <emphasis role=\"strong\">Profile</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:660(para)
-msgid "Type your office location in the <emphasis role=\"strong\">Office location</emphasis> box."
-msgstr ""
-
-#: chapter2/xinclude.xml:664(para)
-msgid "Type your work phone number in the <emphasis role=\"strong\">Work phone</emphasis> box."
-msgstr ""
-
-#: chapter2/xinclude.xml:668(para)
-msgid "Type your home phone number in the <emphasis role=\"strong\">Home phone</emphasis> box."
-msgstr ""
-
-#: chapter2/xinclude.xml:672(para)
+#: chapter2/xinclude.xml:657(para)
 msgid "Type the password for your user account in the <emphasis role=\"strong\">User password</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:679(para)
-msgid "This information is for record keeping only, and other users cannot view it."
-msgstr ""
-
-#: chapter2/xinclude.xml:683(para) chapter2/xinclude.xml:1007(para)
+#: chapter2/xinclude.xml:661(para) chapter2/xinclude.xml:966(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis> to save the settings."
 msgstr ""
 
-#: chapter2/xinclude.xml:687(title)
+#: chapter2/xinclude.xml:665(title)
 msgid "Configuring New User Account"
 msgstr ""
 
-#: chapter2/xinclude.xml:698(para)
+#: chapter2/xinclude.xml:676(para)
 msgid "A new user account will be displayed in the User settings dialogue box. This dialogue box displays the new user's full name and login name. It also tells you the location of the new user account created."
 msgstr ""
 
-#: chapter2/xinclude.xml:704(title)
+#: chapter2/xinclude.xml:682(title)
 msgid "The New User Account"
 msgstr ""
 
-#: chapter2/xinclude.xml:715(para)
+#: chapter2/xinclude.xml:693(para)
 msgid "Now, if you click the fast user switch icon, there will be two users displayed and the current user logged on to the computer will be marked."
 msgstr ""
 
-#: chapter2/xinclude.xml:720(title)
+#: chapter2/xinclude.xml:698(title)
 msgid "Switching Users"
 msgstr ""
 
-#: chapter2/xinclude.xml:729(para)
+#: chapter2/xinclude.xml:707(para)
 msgid "This feature prevents you from logging off and logging on all the time to switch users. It allows multiple users to switch quickly while staying logged on. By simply clicking the fast user switching icon, a list of the user names appears. Select the user name and you will be directed to the logon screen. Type the user name and password, and you will be on a desktop of the new user. When you switch to another user, the previous user screen is locked by default, so the other person cannot make any profile changes."
 msgstr ""
 
-#: chapter2/xinclude.xml:740(title)
+#: chapter2/xinclude.xml:718(title)
 msgid "Adding/Removing Applications"
 msgstr ""
 
-#: chapter2/xinclude.xml:745(para)
+#: chapter2/xinclude.xml:723(para)
 msgid "Advise students that you will cover this topic in detail while teaching the <emphasis role=\"strong\">Customising Ubuntu and Applications</emphasis> lesson of this course. This topic is just an introduction."
 msgstr ""
 
-#: chapter2/xinclude.xml:750(para)
-msgid "Tell the students that you will cover this topic in detail while teaching the <emphasis role=\"strong\">Customising the Desktop and Application</emphasis> lesson of this course. This topic is just an introduction."
-msgstr ""
-
-#: chapter2/xinclude.xml:757(title)
+#: chapter2/xinclude.xml:731(title)
 msgid "Use the Add/Remove applications when you need to:"
 msgstr ""
 
-#: chapter2/xinclude.xml:760(para)
+#: chapter2/xinclude.xml:734(para)
 msgid "Use software not provided as a default application on Ubuntu."
 msgstr ""
 
-#: chapter2/xinclude.xml:765(para)
+#: chapter2/xinclude.xml:739(para)
 msgid "Try an alternative application to the one already installed"
 msgstr ""
 
-#: chapter2/xinclude.xml:770(para)
+#: chapter2/xinclude.xml:744(para)
 msgid "Ubuntu contains pre-loaded software that you can easily install on your computer when required. You can install this software by using the Add/Remove application or the Synaptic Package Manager utility of Ubuntu. To access the Add/Remove application, on the <emphasis role=\"strong\">Applications</emphasis> menu, click <emphasis role=\"strong\">Add/Remove</emphasis>."
 msgstr ""
 
-#: chapter2/xinclude.xml:776(title)
+#: chapter2/xinclude.xml:750(title)
 msgid "Launching Add/Remove Applications"
 msgstr ""
 
-#: chapter2/xinclude.xml:785(para)
+#: chapter2/xinclude.xml:759(para)
 msgid "To access Synaptic Package Manager, on the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
 msgstr ""
 
-#: chapter2/xinclude.xml:788(title)
+#: chapter2/xinclude.xml:762(title)
 msgid "Launching Synaptic Package Manager"
 msgstr ""
 
-#: chapter2/xinclude.xml:797(para)
+#: chapter2/xinclude.xml:771(para)
 msgid "Synaptic offers an advanced way of installing packages. If you do not find a software programme in the Add/Remove tool, you can search for it in Synaptic. It searches all software in the available repositories on Ubuntu."
 msgstr ""
 
-#: chapter2/xinclude.xml:804(title)
+#: chapter2/xinclude.xml:778(title)
 msgid "Desktop Effects - Compiz Fusion"
 msgstr ""
 
-#: chapter2/xinclude.xml:809(para)
+#: chapter2/xinclude.xml:783(para)
 msgid "Advise students that to view desktop effects, computers must have a 3D-enabled graphic card."
 msgstr ""
 
-#: chapter2/xinclude.xml:813(para)
+#: chapter2/xinclude.xml:787(para)
 msgid "Compiz Fusion is a 3D window manager that makes use of 3D accelerated graphics cards found today on many desktops and laptops. It provides a number of visual effects that makes the Linux desktop more powerful and intuitive, as well as easier and more fun to use. For example, you can place workspaces on a cube, which enables you to move from one workspace to another easily."
 msgstr ""
 
-#: chapter2/xinclude.xml:820(para)
+#: chapter2/xinclude.xml:794(para)
 msgid "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS with appropriate graphics cards. It enables the 3D desktop visual effects that improve the usability and visual appeal of the system. You really have to see and play with this application to appreciate the benefits."
 msgstr ""
 
-#: chapter2/xinclude.xml:826(title)
+#: chapter2/xinclude.xml:800(title)
 msgid "To view the visual effects on Ubuntu:"
 msgstr ""
 
-#: chapter2/xinclude.xml:829(para)
+#: chapter2/xinclude.xml:803(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box appears."
 msgstr ""
 
-#: chapter2/xinclude.xml:834(title)
+#: chapter2/xinclude.xml:808(title)
 msgid "Opening the Appearance Preferences Dialogue Box"
 msgstr ""
 
-#: chapter2/xinclude.xml:845(para)
+#: chapter2/xinclude.xml:819(para)
 msgid "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box, there are three pre-configured levels of special effects settings: No effects, Normal effects and Extra effects. You can select any one of them:"
 msgstr ""
 
-#: chapter2/xinclude.xml:851(title)
+#: chapter2/xinclude.xml:825(title)
 msgid "Configuring Visual Effects"
 msgstr ""
 
-#: chapter2/xinclude.xml:862(para)
+#: chapter2/xinclude.xml:836(para)
 msgid "If you want a simple desktop without any special effects, select <emphasis role=\"strong\">None</emphasis>. If you want a desktop with a balance of attractiveness and average performance, select <emphasis role=\"strong\">Normal</emphasis>. If you want various desktop effects, such as wobbly windows, desktop cube and many more, select <emphasis role=\"strong\">Extra</emphasis>. For example, while you are waiting for an update to complete or an e-mail client to import e-mail messages, you can turn on the Wobbly effect. The windows will start dancing and displaying the 3D effects. Play with it a little, it's fun!"
 msgstr ""
 
-#: chapter2/xinclude.xml:872(title)
+#: chapter2/xinclude.xml:846(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter2/xinclude.xml:874(para)
+#: chapter2/xinclude.xml:848(para)
 msgid "In this lesson, you learned that:"
 msgstr ""
 
-#: chapter2/xinclude.xml:877(para)
+#: chapter2/xinclude.xml:851(para)
 msgid "Ubuntu utilises the GNOME desktop by default"
 msgstr ""
 
-#: chapter2/xinclude.xml:881(para)
+#: chapter2/xinclude.xml:855(para)
 msgid "You can set the default language of your computer either during the installation of Ubuntu or at a later stage"
 msgstr ""
 
-#: chapter2/xinclude.xml:886(para)
+#: chapter2/xinclude.xml:860(para)
 msgid "Fast user switching enables you to share your computer with other users without sharing your files"
 msgstr ""
 
-#: chapter2/xinclude.xml:891(para)
+#: chapter2/xinclude.xml:865(para)
 msgid "You can install software by using the Add/Remove application or the Synaptic Package Manager utility of Ubuntu"
 msgstr ""
 
-#: chapter2/xinclude.xml:896(para)
+#: chapter2/xinclude.xml:870(para)
 msgid "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D desktop visual effects"
 msgstr ""
 
-#: chapter2/xinclude.xml:904(title)
+#: chapter2/xinclude.xml:878(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter2/xinclude.xml:909(para)
+#: chapter2/xinclude.xml:883(para)
 msgid "At the top and bottom of the desktop, you have two bars, called _________________."
 msgstr ""
 
-#: chapter2/xinclude.xml:914(para)
+#: chapter2/xinclude.xml:888(para)
 msgid "At the top and bottom of the desktop, you have two bars, called panels."
 msgstr ""
 
-#: chapter2/xinclude.xml:921(para)
+#: chapter2/xinclude.xml:895(para)
 msgid "Which are the three shortcut icons already present on the top panel?"
 msgstr ""
 
-#: chapter2/xinclude.xml:926(para)
+#: chapter2/xinclude.xml:900(para)
 msgid "Mozilla Firefox, Evolution e-mail client and Ubuntu help."
 msgstr ""
 
-#: chapter2/xinclude.xml:933(para)
+#: chapter2/xinclude.xml:907(para)
 msgid "What is fast user switching?"
 msgstr ""
 
-#: chapter2/xinclude.xml:937(para)
+#: chapter2/xinclude.xml:911(para)
 msgid "Fast user switching is a feature that avoids you having to log off and log on all the time to switch users. It enables multiple users to switch quickly while staying"
 msgstr ""
 
-#: chapter2/xinclude.xml:947(title)
+#: chapter2/xinclude.xml:921(title)
 msgid "Lab Exercise"
 msgstr ""
 
-#: chapter2/xinclude.xml:950(title)
+#: chapter2/xinclude.xml:924(title)
 msgid "Exercise:"
 msgstr ""
 
-#: chapter2/xinclude.xml:952(para)
+#: chapter2/xinclude.xml:926(para)
 msgid "You have bank-related information on your computer and want to block others' access to it. Your friend wants to use your computer for some time. To handle this situation, create a new user account for your friend and use the fast user switch feature."
 msgstr ""
 
-#: chapter2/xinclude.xml:960(para)
+#: chapter2/xinclude.xml:934(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Users and Groups</emphasis>. The <emphasis role=\"strong\">User settings</emphasis> dialogue box opens."
 msgstr ""
 
-#: chapter2/xinclude.xml:965(para)
+#: chapter2/xinclude.xml:939(para)
 msgid "In the <emphasis role=\"strong\">User settings</emphasis> dialogue box, click <emphasis role=\"strong\">Add User.</emphasis> The <emphasis role=\"strong\">New user account</emphasis> dialogue box appears."
 msgstr ""
 
-#: chapter2/xinclude.xml:970(para)
+#: chapter2/xinclude.xml:944(para)
 msgid "In the dialogue box, specify the following information:"
 msgstr ""
 
-#: chapter2/xinclude.xml:974(para)
+#: chapter2/xinclude.xml:948(para)
 msgid "Type charles in the <emphasis role=\"strong\">Username</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:978(para)
+#: chapter2/xinclude.xml:952(para)
 msgid "Select Desktop user from the <emphasis role=\"strong\">Profile</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:982(para)
+#: chapter2/xinclude.xml:956(para)
 msgid "Type charles windsor in the <emphasis role=\"strong\">Real name</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:987(para)
-msgid "Type England in the <emphasis role=\"strong\">Office location</emphasis> box."
-msgstr ""
-
-#: chapter2/xinclude.xml:992(para)
-msgid "Type 111111 in the <emphasis role=\"strong\">Work phone</emphasis> box."
-msgstr ""
-
-#: chapter2/xinclude.xml:997(para)
-msgid "Type 99999 in the <emphasis role=\"strong\">Home phone</emphasis> box."
-msgstr ""
-
-#: chapter2/xinclude.xml:1002(para)
+#: chapter2/xinclude.xml:961(para)
 msgid "Type password@1 in the <emphasis role=\"strong\">User password</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:1016(para)
+#: chapter2/xinclude.xml:975(para)
 msgid "Click the fast user switch icon on the top panel. Click charles. The logon screen appears."
 msgstr ""
 
-#: chapter2/xinclude.xml:1021(para)
+#: chapter2/xinclude.xml:980(para)
 msgid "Type charles in the <emphasis role=\"strong\">Username</emphasis> box and password@1 in the <emphasis role=\"strong\">Password</emphasis> box."
 msgstr ""
 
-#: chapter2/xinclude.xml:1027(para)
+#: chapter2/xinclude.xml:986(para)
 msgid "Your friend can now work on this desktop."
 msgstr ""
 
-#: chapter2/xinclude.xml:1031(para)
+#: chapter2/xinclude.xml:990(para)
 msgid "Your friend cannot access your user account because the computer will ask for your password to log on to the account. So, your personal data is safe."
 msgstr ""
 

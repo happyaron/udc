@@ -342,9 +342,6 @@
     <para>The current date and time is displayed next to the System tray. If
     you click the date and time, a calendar is displayed.</para>
 
-    <para>The last icon on the top panel shuts down, restarts, hibernates,
-    locks your computer and places it on standby.</para>
-
     <figure float="0">
       <title>Top Panel Icons</title>
 
@@ -702,32 +699,10 @@
           </step>
 
           <step performance="required">
-            <para>Type your office location in the <emphasis
-            role="strong">Office location</emphasis> box.</para>
-          </step>
-
-          <step performance="required">
-            <para>Type your work phone number in the <emphasis
-            role="strong">Work phone</emphasis> box.</para>
-          </step>
-
-          <step performance="required">
-            <para>Type your home phone number in the <emphasis
-            role="strong">Home phone</emphasis> box.</para>
-          </step>
-
-          <step performance="required">
             <para>Type the password for your user account in the <emphasis
             role="strong">User password</emphasis> box.</para>
           </step>
         </substeps>
-
-        <note>
-          <title>Note:</title>
-
-          <para>This information is for record keeping only, and other users
-          cannot view it.</para>
-        </note>
 
         <para>Click <emphasis role="strong">Close</emphasis> to save the
         settings.</para>
@@ -799,10 +774,6 @@
       Applications</emphasis> lesson of this course. This topic is just an
       introduction.</para>
 
-      <para>Tell the students that you will cover this topic in detail while
-      teaching the <emphasis role="strong">Customising the Desktop and
-      Application</emphasis> lesson of this course. This topic is just an
-      introduction.</para>
     </note>
 
     <itemizedlist>
@@ -1052,21 +1023,6 @@
               <step performance="required">
                 <para>Type charles windsor in the <emphasis role="strong">Real
                 name</emphasis> box.</para>
-              </step>
-
-              <step performance="required">
-                <para>Type England in the <emphasis role="strong">Office
-                location</emphasis> box.</para>
-              </step>
-
-              <step performance="required">
-                <para>Type 111111 in the <emphasis role="strong">Work
-                phone</emphasis> box.</para>
-              </step>
-
-              <step performance="required">
-                <para>Type 99999 in the <emphasis role="strong">Home
-                phone</emphasis> box.</para>
               </step>
 
               <step performance="required">
