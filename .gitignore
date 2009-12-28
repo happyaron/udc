@@ -1,3 +1,4 @@
 # ignore bakup files
 *~
 *.sw[po]
+*.mo
