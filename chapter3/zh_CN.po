@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-26 16:26+0800\n"
-"PO-Revision-Date: 2009-12-27 16:12+0800\n"
+"PO-Revision-Date: 2009-12-28 11:45+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -1008,9 +1008,10 @@ msgstr "如果需要请在 <emphasis role=\"strong\">接收选项</emphasis> 页
 msgid "To automatically check e-mail messages after a particular interval of time, select <emphasis role=\"strong\">Automatically check for new mail every</emphasis> check box. Specify the duration of the interval in the <emphasis role=\"strong\"> minutes</emphasis> list."
 msgstr "要特定的时间间隔后自动检查电子邮件消息，选择 <emphasis role=\"strong\">Automatically check for new mail every</emphasis> 复选框。在 <emphasis role=\"strong\"> minutes</emphasis> 列表中选择间隔的长度。"
 
+# 此处菜单项可能翻译有误
 #: chapter3/xinclude.xml:942(para)
 msgid "In the <emphasis role=\"strong\">Message storage</emphasis> section, select <emphasis role=\"strong\">Leave message on server</emphasis> check box <emphasis role=\"strong\">,</emphasis> if you want to leave a message on the server."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">消息存储</emphasis> 节中，如果想在服务器上保留消息，选中 <emphasis role=\"strong\">在服务器上保留消息</emphasis> 复选框。"
 
 #: chapter3/xinclude.xml:949(para)
 msgid "Select <emphasis role=\"strong\">Disable support for all POP3 extensions</emphasis> check box, if you want to disable POP3."
@@ -1020,13 +1021,15 @@ msgstr "如果您要禁用 POP3，请选中 <emphasis role=\"strong\">禁用所�
 msgid "Specifying Mail Checking and Storage Options"
 msgstr "指定邮件检查和储存选项"
 
+# outbound mail server
 #: chapter3/xinclude.xml:971(para)
 msgid "On the Sending E-mail page, specify the information according to the way you want to send e-mail messages. Select the outbound mail server in the <emphasis role=\"strong\">Server Type</emphasis> box."
-msgstr ""
+msgstr "在发送邮件页，根据发送邮件消息想使用的方法指定信息。在 <emphasis role=\"strong\">Server Type</emphasis> 框中选择后台邮件服务器。"
 
+# Programmes Send Mails
 #: chapter3/xinclude.xml:978(para)
 msgid "There are two methods you can use to send e-mail messages, SMTP and Programmes Send Mails. SMTP is the common method that is used to send e-mail messages. Select <emphasis role=\"strong\">SMTP</emphasis> as your outbound mail server type in the <emphasis role=\"strong\">Server Type</emphasis> box."
-msgstr ""
+msgstr "有两种可以使用的发送邮件消息的方法，SMTP 和 Programmes Send Mails。SMTP 是发送邮件消息的常用方法。就像在 <emphasis role=\"strong\">服务器类型</emphasis> 框中指定后台邮件服务器类型那样选择 <emphasis role=\"strong\">SMTP</emphasis>。"
 
 #: chapter3/xinclude.xml:986(para)
 msgid "Specify the outbound server configuration:"
@@ -1038,23 +1041,24 @@ msgstr "提供 SMTP 服务器信息"
 
 #: chapter3/xinclude.xml:1000(para)
 msgid "Type the host address in the <emphasis role=\"strong\">Server</emphasis> box. This is the address of the outbound server that your ISP provides."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">Server</emphasis> 框中输入主机地址。这是服务商提供的后台服务器的地址。"
 
 #: chapter3/xinclude.xml:1005(para)
 msgid "Specify how you want the server to authenticate. Select <emphasis role=\"strong\">Server requires authentication</emphasis> check box, if your server requires authentication. You will be asked to select your authentication type in the <emphasis role=\"strong\">Type</emphasis> box. You can also click <emphasis role=\"strong\">Check for Supported Types</emphasis> to have evolution check for supported types."
-msgstr ""
+msgstr "指定认证到服务器的方法。如果服务器要求认证，选中 <emphasis role=\"strong\">服务器要求认证</emphasis> 复选框。将要求在 <emphasis role=\"strong\">类型</emphasis> 框中选择认证类型。"
 
 #: chapter3/xinclude.xml:1015(para)
 msgid "Type the evolution account user name in the <emphasis role=\"strong\"> Username</emphasis> box."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 evolution 账户的用户名。"
 
 #: chapter3/xinclude.xml:1019(para)
 msgid "Select <emphasis role=\"strong\">Remember Password</emphasis> check box, if you want evolution to remember your password. Then, click <emphasis role=\"strong\">Forward</emphasis>. The <emphasis role=\"strong\">Account Management</emphasis> page is displayed."
-msgstr ""
+msgstr "如果想让 evolution 记住口令，选中 <emphasis role=\"strong\">记住口令</emphasis> 复选框。然后点击 <emphasis role=\"strong\">前进</emphasis>。将显示 <emphasis role=\"strong\">账户管理</emphasis> 页。"
 
+# 参考？
 #: chapter3/xinclude.xml:1030(para)
 msgid "It is possible for Evolution to access multiple e-mail providers. To differentiate between them, you can give each e-mail provider a name. Type a name for this configuration or your account in the <emphasis role=\"strong\">Name</emphasis> box. You can type any name you prefer as this is only for your reference. Then, click <emphasis role=\"strong\">Forward</emphasis>."
-msgstr ""
+msgstr "Evolution 可以访问多个邮件账户。为了区分它们，可以为每个账户提供一个名字。在 <emphasis role=\"strong\">名字</emphasis> 框中为此配置输入一个名字或您的账户。可以输入任何喜欢的名字，因为这只是作为参考。然后点击 <emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/xinclude.xml:1038(title)
 msgid "Providing Account Information"
@@ -1090,7 +1094,7 @@ msgstr "除 Evolution 外，您还有很多可选的电子邮件客户端，例�
 
 #: chapter3/xinclude.xml:1101(para)
 msgid "Mozilla Suite is a cohesive collection of integrated Internet applications, including a Web browser, e-mail and newsgroup client, Internet Relay Chat (IRC) chat client, address book organizer and Web page creation utility."
-msgstr ""
+msgstr "Mozilla 软件组合是一个集成的互联网程序集合，包括网页浏览器，电子邮件和新闻组客户端，互联网中继聊天(Internet Relay Chat IRC)客户端，地址簿管理器和网页创建工具。"
 
 #: chapter3/xinclude.xml:1107(para)
 msgid "The Thunderbird e-mail application is available in the Universe repository and can be installed on your computer from the Synaptic Package Manager."
@@ -1102,35 +1106,37 @@ msgstr "要在 Ubuntu 上安装 Thunderbird，请按照以下步骤操作："
 
 #: chapter3/xinclude.xml:1116(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and select <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window will be displayed."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上，指向 <emphasis role=\"strong\">系统管理</emphasis> 并选择 <emphasis role=\"strong\">新立得软件包管理器</emphasis>。将显示 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口。"
 
 #: chapter3/xinclude.xml:1123(title)
 msgid "Launching Synaptic Package Manager"
 msgstr "启动新立得软件包管理器"
 
+# 原文是对话框，似乎不合适
 #: chapter3/xinclude.xml:1134(para)
 msgid "In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> dialogue box, you can select the package you need. The left pane lists the categories, and the right pane lists the packages. You can search for the package by clicking Search and specifying its name. If you do not know the name of the package, select the category in the left pane to filter the list of packages. You can then select the check box next to the required package in the right pane."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口中，可以选择需要的包。左嵌板列出了分类，右嵌板列出了软件包。可以通过点击搜索并指定名字进行搜索。如果不知道软件的名字，在左嵌板中选择分类以过滤软件列表。然后可以在右嵌板选择需要的包前边的复选框。"
 
 #: chapter3/xinclude.xml:1146(para)
 msgid "If you want to view the installed and uninstalled packages, click <emphasis role=\"strong\">Status</emphasis>. To know the source repository of the package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis role=\"strong\">Custom Filters</emphasis> if you want to know whether a package is broken or can be upgraded."
-msgstr ""
+msgstr "如果想查看已安装的和未安装软件包，点击 <emphasis role=\"strong\">状态</emphasis>。要了解包所在的软件仓库，点击 <emphasis role=\"strong\">源自</emphasis>。如果想知道一个软件包是否损坏或可升级，点击 <emphasis role=\"strong\">自定义过滤器</emphasis>。"
 
 #: chapter3/xinclude.xml:1154(para)
 msgid "Click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role=\"strong\">Find</emphasis> dialogue box opens. Type the name of the package, <emphasis role=\"strong\">Thunderbird</emphasis>, in the <emphasis role=\"strong\">Search</emphasis> field and click <emphasis role=\"strong\">Search</emphasis>. The Mozilla Thunderbird package displays in the right pane of the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window."
-msgstr ""
+msgstr "点击 <emphasis role=\"strong\">搜索</emphasis>，打开 <emphasis role=\"strong\">查找</emphasis> 对话框。在 <emphasis role=\"strong\">搜索</emphasis> 域中输入包的名字，<emphasis role=\"strong\">Thunderbird</emphasis>，然后点击 <emphasis role=\"strong\">搜索</emphasis>。Mozilla Thunderbird 软件包显示在了 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口的右嵌板中。"
 
 #: chapter3/xinclude.xml:1161(title)
 msgid "Searching Thunderbird"
 msgstr "搜索 Thunderbird"
 
+# 此 section 为何？
 #: chapter3/xinclude.xml:1173(para)
 msgid "To return to the list of categories after searching the packages using <emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong\">Sections</emphasis>."
-msgstr ""
+msgstr "要在使用 <emphasis role=\"strong\">搜索</emphasis> 之后返回到组别列表，点击 <emphasis role=\"strong\">Sections</emphasis>。"
 
 #: chapter3/xinclude.xml:1180(para)
 msgid "Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box to install the package."
-msgstr ""
+msgstr "选择 <emphasis role=\"strong\">标记以便安装</emphasis> 以安装此包。"
 
 #: chapter3/xinclude.xml:1184(title)
 msgid "Marking Thunderbird for Installation"
@@ -1138,7 +1144,7 @@ msgstr "标记 Thunderbird 以安装"
 
 #: chapter3/xinclude.xml:1195(para)
 msgid "The package that you choose to install may depend on other packages. In this case, you are notified about the dependencies. To continue making the changes required to resolve the dependencies, click <emphasis role=\"strong\">Mark</emphasis>."
-msgstr ""
+msgstr "选择以安装的包可能依赖于其它包。此时，提示您此依赖关系。要继续今昔此更改要求解决此依赖关系，点击 <emphasis role=\"strong\">标记</emphasis>。"
 
 #: chapter3/xinclude.xml:1202(para)
 msgid "To confirm that you want to make the marked changes, click <emphasis role=\"strong\">Apply.</emphasis>"
@@ -1150,11 +1156,11 @@ msgstr "确认变更"
 
 #: chapter3/xinclude.xml:1217(para)
 msgid "The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, prompting you for a final check before making the marked changes. Click <emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
-msgstr ""
+msgstr "将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框，在最后进行标记的更改之前进行提示。点击 <emphasis role=\"strong\">提交</emphasis> 继续此更改。"
 
 #: chapter3/xinclude.xml:1222(para)
 msgid "This completes the procedure of installing Thunderbird by using Synaptic Package Manager. To access Thunderbird, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Mozilla Thunderbird Mail/News</emphasis>."
-msgstr ""
+msgstr "这完成是使用新立得软件包管理器安装 Thunderbird 的操作。要访问 Thunderbird，在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">Internet</emphasis> 并点击 <emphasis role=\"strong\">Mozilla Thunderbird Mail/News</emphasis>。 "
 
 #: chapter3/xinclude.xml:1227(para)
 msgid "This displays the Thunderbird window."
@@ -1186,7 +1192,7 @@ msgstr "阻止垃圾邮件"
 
 #: chapter3/xinclude.xml:1265(para)
 msgid "If you are tired of spam and annoying advertising in your Inbox, Mozilla Thunderbird provides effective tools for detecting junk mail. These tools analyse your e-mail message and identify those that are most likely to be junk. Your junk mail can be automatically deleted or placed in a specific folder."
-msgstr ""
+msgstr "如果收件箱中的垃圾邮件和烦人的广告使您感到疲劳，Mozilla Thunderbird 提供了探测垃圾邮件的高效工具。这些工具分析邮件消息并识别出那些最可能是垃圾邮件的。垃圾邮件可以自动探测出来并放置到一个特定的文件夹中。"
 
 #: chapter3/xinclude.xml:1273(title)
 msgid "Stopping Junk Mail"
@@ -1234,7 +1240,7 @@ msgstr "安全"
 
 #: chapter3/xinclude.xml:1342(para)
 msgid "Thunderbird provides enhanced security features, which is equivalent to enterprise and government-grade security. It offers built-in support for Secure/Multipurpose Internet Mail Extensions (S/MIME) secure e-mail message."
-msgstr ""
+msgstr "Thunderbird 提供增强的安全功能，其等同于企业级和政府级安全性能。它提供内建的对安全多功能互联网邮件扩展(Secure/Multipurpose Internet Mail Extensions ,S/MIME) 安全邮件的支持。"
 
 #: chapter3/xinclude.xml:1351(title)
 msgid "Extensions"
@@ -1250,11 +1256,11 @@ msgstr "新闻阅读器"
 
 #: chapter3/xinclude.xml:1364(para)
 msgid "Mozilla Thunderbird makes it easier to subscribe to your favourite newsgroups, downloading headers and messages and offline support."
-msgstr ""
+msgstr "Mozilla Thunderbird 是定义您喜爱的新闻组更加容易，下载头和消息以及离线支持。"
 
 #: chapter3/xinclude.xml:1370(title)
 msgid "Thunderbird as a Newsgroup"
-msgstr ""
+msgstr "Thunderbird 作为新闻组使用"
 
 #: chapter3/xinclude.xml:1382(title)
 msgid "Themes"
