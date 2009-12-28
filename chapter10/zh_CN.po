@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-28 18:10+0800\n"
+"PO-Revision-Date: 2009-12-28 22:49+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -205,11 +205,11 @@ msgstr ""
 
 #: chapter10/Partitioning_and_Booting.xml:53(para)
 msgid "So, a partition is a logical chunk of space allocated out of the entire disk. Depending on how a system is configured at installation time, there may be one or more partitions on a disk. In some instances, it is also possible to modify the layout, number and size of partitions, but this is often considered an expert's function."
-msgstr "于是，分区是一个由从整个磁盘分配的空间组成的逻辑块。依赖于系统在安装时是如何配置的，在磁盘上可能有一个或多个分区。在某些实例中，也可能可以修改布局、分区数目，但是这通常被认为是专家级的功能。"
+msgstr "于是，分区是一个由从整个磁盘分配的空间组成的逻辑块。依赖于系统在安装时是如何配置的，在磁盘上可能有一个或多个分区。在某些情况下，也有可能可以修改布局、分区数目，但是这通常被认为是专家级的功能。"
 
 #: chapter10/Partitioning_and_Booting.xml:59(para)
 msgid "Many Microsoft Windows users will have just one large partition - often known as \"C: drive\", however it is also common for Microsoft Windows users to have multiple partitions which are labelled with successive alphabetic characters (D:, E: and so on)."
-msgstr "很多 Microsoft Windows 用户只有一个大的分区 - 通常被称为“C: 盘”，但是对微软 Windows 用户来说，拥有多个分区带有连续字母(D:，E: 等)标志的分区也是常见的。"
+msgstr "很多 Microsoft Windows 用户只有一个大的分区 - 通常被称为“C: 盘”，但是对 Microsoft Windows 用户来说，拥有多个带有连续字母(D:，E: 等)标志的分区也是常见的。"
 
 #: chapter10/Partitioning_and_Booting.xml:64(para)
 msgid "Similarly, with Ubuntu it's possible to install the system in exactly one partition on the disk, or spread data and applications over multiple partitions."
@@ -221,7 +221,7 @@ msgstr "分区"
 
 #: chapter10/Partitioning_and_Booting.xml:78(para)
 msgid "There are valid arguments for both scenarios. Having one single partition with all applications, libraries and data will result in a simple to manage system. It also provides flexibility as installing applications or adding data will use space from a common \"pool\"."
-msgstr "对于两种情景都有合适的理由。使用单个分区包含所有程序、库和数据可以产生易管理的系统。它也可以提供灵活性因为安装程序或者添加数据将使用从一个通用的总集(pool)使用空间。"
+msgstr "对于两种方案都有合适的理由。使用单个分区包含所有程序、库和数据可以使系统易于管理，也可以提供灵活性，因为安装程序或者添加数据都将从一个共用的总集(pool)使用空间。"
 
 #: chapter10/Partitioning_and_Booting.xml:86(para)
 msgid "If you accept all the defaults when installing Ubuntu, you will end up with a system separated into two partitions on the disk. One contains all files, the other is known as \"swap\" which can be thought of as an extension to your computer's internal memory."
@@ -246,7 +246,7 @@ msgstr "关于文件系统"
 # ext4
 #: chapter10/Partitioning_and_Booting.xml:118(para)
 msgid "Partitioning a disk is only the beginning. Once the disk has been divided up, those partitions need to be formatted so that the operating system can place files on the disk in a structured manner. There are many different filesystem types, each with their own advantages. With Microsoft Windows the two main filesystems are FAT (File Allocation Table) and NTFS (New Technology File System). With Ubuntu there are many options including ext2, ext3, reiserfs, xfs and many others. The Ubuntu installer chooses ext3 by default, but of course it is possible to override this."
-msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以以结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于 Microsoft Windows 最主要的两种文件系统是 FAT(文件分配表 File Allocation Table)和 NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，reiserfs，xfs 已经很多其它。Ubuntu 安装程序默认选择 ext3，但是当然也可以更换掉此项。"
+msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以以结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于 Microsoft Windows 最主要的两种文件系统是 FAT(文件分配表 File Allocation Table)和 NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，ext4，reiserfs，xfs 已经很多其它。Ubuntu 安装程序默认选择 ext4，但是当然也可以更换掉此项。"
 
 #: chapter10/Partitioning_and_Booting.xml:130(title)
 #: chapter10/Partitioning_and_Booting.xml:150(title)
@@ -259,7 +259,7 @@ msgstr "小技巧"
 # ext4
 #: chapter10/Partitioning_and_Booting.xml:132(para)
 msgid "ext3 is a great general purpose journalling filesystem. It handles most tasks well however, xfs is sometimes chosen instead on media-centre systems as it performs better when handling very large files - such as music and video files."
-msgstr "ext3 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs 因为它在除了非常大的文件 - 例如音乐和视频文件时表现更好。"
+msgstr "ext4 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs 因为它在除了非常大的文件 - 例如音乐和视频文件时表现更好。"
 
 #: chapter10/Partitioning_and_Booting.xml:139(title)
 msgid "Mount points"
@@ -366,7 +366,7 @@ msgstr "如果您想格式化的硬盘驱动器是空的且没有格式化过，
 # 此处可能需要修改，添加/删除程序 估计已经废弃
 #: chapter10/Partitioning_and_Booting.xml:308(para)
 msgid "If you want to create a partition using GParted, you need to first install GParted by using <emphasis role=\"strong\">Add/Remove Applications</emphasis> or <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
-msgstr "如果您想使用 GParted 创建一个新分区，您需要首先使用 <emphasis role=\"strong\">添加/删除应用程序</emphasis> 或 <emphasis role=\"strong\">新立得包管理器</emphasis> 安装 GParted。"
+msgstr "如果您想使用 GParted 创建一个新分区，您需要首先使用 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 或 <emphasis role=\"strong\">新立得包管理器</emphasis> 安装 GParted。"
 
 #: chapter10/Partitioning_and_Booting.xml:314(title)
 msgid "Installing GParted by Using Synaptic Package Manager"
@@ -374,7 +374,7 @@ msgstr "使用新立得包管理器安装 GParted"
 
 #: chapter10/Partitioning_and_Booting.xml:317(title)
 msgid "To install GParted by using Synaptic Package Manager:"
-msgstr "要使用新立得软件包管理器安装 GParted："
+msgstr "使用新立得软件包管理器安装 GParted："
 
 #: chapter10/Partitioning_and_Booting.xml:320(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens."
@@ -421,7 +421,7 @@ msgstr "<emphasis role=\"strong\">摘要</emphasis> 对话框提示在进行标�
 #: chapter10/Partitioning_and_Booting.xml:379(para)
 #: chapter10/Partitioning_and_Booting.xml:476(para)
 msgid "Wait for all the required files to download. After all the required files in the package are downloaded, the <emphasis role=\"strong\">Changes applied</emphasis> dialogue box appears."
-msgstr "等待所有需要的文件下载完成。所有需要的文件下载完成后，显示<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
+msgstr "等待所有需要的文件下载完成。所有需要的文件下载并安装完成后，显示<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
 
 #: chapter10/Partitioning_and_Booting.xml:383(para)
 #: chapter10/Partitioning_and_Booting.xml:492(para)
@@ -454,7 +454,7 @@ msgstr "更改已应用对话框"
 
 #: chapter10/Partitioning_and_Booting.xml:498(title)
 msgid "Synaptic Package Manager after Installation"
-msgstr "安装完成后的新立得软件包管理器"
+msgstr "安装 GParted 后的新立得软件包管理器"
 
 #: chapter10/Partitioning_and_Booting.xml:509(para)
 msgid "The partition editor is installed on your computer. You can now partition the hard disk drive."
@@ -470,7 +470,7 @@ msgstr "使用 GParted 进行分区"
 
 #: chapter10/Partitioning_and_Booting.xml:529(title)
 msgid "To partition the hard drive by using GParted:"
-msgstr "通过使用 GParted 硬盘驱动器进行分区："
+msgstr "使用 GParted 硬盘驱动器进行分区："
 
 #: chapter10/Partitioning_and_Booting.xml:532(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Partition Editor</emphasis>. The <emphasis role=\"strong\">GParted</emphasis> window opens."
@@ -484,6 +484,7 @@ msgstr "GParted 也可以从 Live CD 中使用。"
 msgid "GParted Window"
 msgstr "GParted 窗口"
 
+# 此句需要推究
 #: chapter10/Partitioning_and_Booting.xml:554(para)
 msgid "In the top-right corner of the <emphasis role=\"strong\">GParted</emphasis> window is the drive drop-down box. You can use this box to select the hard drive that you need to partition by specifying the logical name you noted earlier. The Gparted window refreshes and shows you a representation of the selected drive."
 msgstr "在 <emphasis role=\"strong\">GParted</emphasis> 窗口的右上角是驱动器下拉框。您可以使用此框通过指定先前记下的逻辑名选择需要分区的硬盘驱动器。GParted 窗口刷新并显示选中驱动器的代表。"
@@ -501,7 +502,7 @@ msgstr "教师注意："
 
 #: chapter10/Partitioning_and_Booting.xml:568(para)
 msgid "Explain how to read the specifications of the current partitions and file systems."
-msgstr "解释怎样读取当前分区和文件系统的参数。"
+msgstr "解释怎样获取当前分区和文件系统的参数。"
 
 #: chapter10/Partitioning_and_Booting.xml:572(para)
 #: chapter10/Partitioning_and_Booting.xml:606(para)
@@ -516,7 +517,7 @@ msgstr "要在一个未分配的磁盘空间创建一个新分区，右键点击
 # ext3 默认
 #: chapter10/Partitioning_and_Booting.xml:583(para)
 msgid "The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box enables you to select specifications for the new partition. Apart from defining the size of the new partition, you can also select the partition type, whether primary or logical, for the new partition. In addition, you can even define the file system to be used on the new partition. By default, Ubuntu uses the ext3 partitions. However, if you want the new drive to be readable by both Microsoft Windows and Ubuntu without installing anything extra, you can format it as Fat 32."
-msgstr "<emphasis role=\"strong\">创建新分区</emphasis> 对话框使您可以为新分区选择规格。除了定义新分区的大小，您也可以选择分区类型，可以是主分区或逻辑分区。另外，您也甚至可以定义在新分区上使用的文件系统。默认的，Ubuntu 使用 ext3 文件系统。但是，如果您希望新分区可以为微软 Windows 和不安装任何额外部件的 Ubuntu 可读，您可以格式化它为 Fat 32。"
+msgstr "<emphasis role=\"strong\">创建新分区</emphasis> 对话框使您可以为新分区选择规格。除了定义新分区的大小，您也可以选择分区类型，可以是主分区或逻辑分区。另外，您也甚至可以定义在新分区上使用的文件系统。默认的，Ubuntu 使用 ext4 文件系统。但是，如果您希望新分区可以为微软 Windows 和不安装任何额外部件的 Ubuntu 可读，您可以格式化它为 Fat 32。"
 
 #: chapter10/Partitioning_and_Booting.xml:595(title)
 msgid "Creating a New Partition"
@@ -529,7 +530,7 @@ msgstr "创建新分区对话框"
 # ext3 again
 #: chapter10/Partitioning_and_Booting.xml:629(para)
 msgid "The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box allows you to select specifications for the new partition. Apart from defining the size of the new partition, you can also select the partition type, whether primary or logical, for the new partition. In addition, you can even define the file system to be used on the new partition. By default, Ubuntu uses the ext3 partitions. However, if you want the new drive to be readable by both Microsoft Windows and Ubuntu without installing anything extra, you can format it as Fat 32."
-msgstr "<emphasis role=\"strong\">创建新分区</emphasis> 对话框中可以为新分区选择规格。除了定义新分区的大小外，也可以为新分区选择分区类型，主分区还是逻辑分区。另外，甚至可以定义要在新分区上使用的文件系统。默认上，Ubuntu 使用 ext3 分区。但是，如果您希望新驱动器可以同时为微软 Windows 和不安装任何额外组建的 Ubuntu 可读，您可以格式化它为 Fat 32。"
+msgstr "<emphasis role=\"strong\">创建新分区</emphasis> 对话框中可以为新分区选择规格。除了定义新分区的大小外，也可以为新分区选择分区类型，主分区还是逻辑分区。另外，甚至可以定义要在新分区上使用的文件系统。默认上，Ubuntu 使用 ext4 分区。但是，如果您希望新驱动器可以同时为微软 Windows 和不安装任何额外组建的 Ubuntu 可读，您可以格式化它为 Fat 32。"
 
 # 原文有误
 #: chapter10/Partitioning_and_Booting.xml:642(para)
@@ -574,7 +575,7 @@ msgstr "<emphasis role=\"strong\">提交更改到硬盘</emphasis> 对话框推�
 
 #: chapter10/Partitioning_and_Booting.xml:710(title)
 msgid "GParted with New Partition"
-msgstr ""
+msgstr "GParted 及其中显示的新分区"
 
 #: chapter10/Partitioning_and_Booting.xml:721(para)
 msgid "The system starts applying the changes to the hard disk. The duration of the operation will depend on the size of the new partition. You can click the <emphasis role=\"strong\">Details</emphasis> button to view more information about where and how changes are being made, whilst the operation is running."
@@ -603,7 +604,7 @@ msgstr "可移动驱动器和媒体首选项对话框"
 # 此处好像是 卸载？而不是 卸载 卷
 #: chapter10/Partitioning_and_Booting.xml:776(para)
 msgid "When you no longer want to access the new partitions, you can unmount them by right-clicking the <emphasis role=\"strong\">disk</emphasis> icon on the desktop and selecting the <emphasis role=\"strong\">Unmount Volume</emphasis> option from the short-cut menu."
-msgstr "当不再想访问此新分区，可以通过在桌面上 <emphasis role=\"strong\">磁盘</emphasis> 图标上点击右键并且从快捷菜单中选择 <emphasis role=\"strong\">卸载卷</emphasis> 选项卸载它们。"
+msgstr "当不再想访问此新分区，可以通过在桌面上 <emphasis role=\"strong\">磁盘</emphasis> 图标上点击右键并且从快捷菜单中选择 <emphasis role=\"strong\">卸载</emphasis> 选项卸载它们。"
 
 #: chapter10/Partitioning_and_Booting.xml:782(title)
 msgid "RC.Local File"
@@ -619,7 +620,7 @@ msgstr "引导是将操作系统加载到计算机的主存储器或随机访问
 
 #: chapter10/Partitioning_and_Booting.xml:808(para)
 msgid "Only after all system files have been loaded into the main memory, is the operating system given control of the computer. The operating system performs the requested initial commands and then waits for the first interactive user input."
-msgstr "只要所有的系统文件都加载到主存后，操作系统才接管计算机。操作系统执行要求的初始化命令然后等待地一个交互式输入。"
+msgstr "只有所有的系统文件都加载到主存后，操作系统才接管计算机。操作系统执行要求的初始化命令然后等待地一个交互式输入。"
 
 #: chapter10/Partitioning_and_Booting.xml:813(para)
 msgid "However, as a superuser or user with administrative privileges, it is possible for you to change the boot-up configuration to define the computer's boot order, change the default operating system to boot-up or make a system command run automatically at boot-up."
@@ -627,7 +628,7 @@ msgstr "但是，作为一个超级用户或有管理特权的用户，您可以
 
 #: chapter10/Partitioning_and_Booting.xml:818(para)
 msgid "One way to change or check your BIOS setting is to restart your computer, and press a key to enter the setup function before it starts to load any operating system. Generally, you can do this by pressing F1, F2, ESC or DELETE. Once you are inside the BIOS setup, you can make the desired changes by following the instructions for using the setup. However, you need to be very cautious when making any changes in the BIOS settings because a wrong setting can prevent your computer from booting-up properly."
-msgstr "更改或检查 BIOS 设置的一种方法是重启计算机在其开始加载任何操作系统之前按下某个键进入设置功能。一般的，可以通过按 F1、F2、ESC 或 DELETE 做到。进入 BIOS 设置后，可以通过跟随用于设置的指导进行希望的更改。然而，当在 BIOS 设置中进行任何更改时需要非常谨慎，因为一项错误的设置可能使计算机不能正常引导。"
+msgstr "更改或检查 BIOS 设置的一种方法是重启计算机，在其开始加载任何操作系统之前按下某个键进入设置功能。一般的，可以通过按 F1、F2、ESC 或 DELETE 做到。进入 BIOS 设置后，可以通过跟随用于设置的指导进行希望的更改。然而，当在 BIOS 设置中进行任何更改时需要非常谨慎，因为一项错误的设置可能使计算机不能正常引导。"
 
 #: chapter10/Partitioning_and_Booting.xml:827(para)
 msgid "You can also perform these configuration changes by using a command line on your computer's terminal."
@@ -692,7 +693,7 @@ msgstr "输入完想要在启动时执行的命令之后，按 CTRL+X 保存并�
 # 话说 910 里没有此项
 #: chapter10/Partitioning_and_Booting.xml:887(title)
 msgid "Services Window"
-msgstr "服务窗口"
+msgstr "启动应用程序"
 
 #: chapter10/Partitioning_and_Booting.xml:898(para)
 msgid "When you reboot the system, the rc.local file executes. If you want to display the output of the above command, type the following command in the Terminal:"
@@ -714,13 +715,13 @@ msgstr "更改引导时的默认操作系统"
 # grub2?
 #: chapter10/Partitioning_and_Booting.xml:913(para)
 msgid "When multiple operating systems are installed on a computer, this is referred to as a multi-boot configuration. Typically, the operating system that is listed on top in the configuration file is loaded on the computer. To choose the operating system that starts when you turn on your computer, edit the grub configuration file."
-msgstr "当多个操作系统安装到同一台计算机上时，被称为多启动配置。一般地，在配置文件顶端列出的操作系统被加载到计算机。要选择打开计算机时启动的操作系统，请编辑 grub 配置文件。"
+msgstr "当多个操作系统安装到同一台计算机上时，被称为多启动配置。一般地，在配置文件顶端列出的操作系统被加载到计算机。要选择打开计算机时启动的操作系统，请编辑 grub2 配置文件。"
 
 #: chapter10/Partitioning_and_Booting.xml:921(para)
 msgid "Back up the configuration file, and open it in a text editor, as follows:"
 msgstr "备份配置文件，并且打开在文本编辑器中打开它，就像下边这样："
 
-# grub2?
+# 根据 grub2 进行了改写，感谢小苹果
 #: chapter10/Partitioning_and_Booting.xml:924(screen)
 #, no-wrap
 msgid ""
@@ -729,76 +730,83 @@ msgid ""
 "          gedit /boot/grub/menu.lst"
 msgstr ""
 "$ sudo cp\n"
-"          /boot/grub/menu.lst /boot/grub/menu.lst_backup $ sudo\n"
-"          gedit /boot/grub/menu.lst"
+"          /etc/default/grub /etc/default/grub_backup $ sudo\n"
+"          gedit /boot/grub/grub.cfg"
 
 #: chapter10/Partitioning_and_Booting.xml:930(para)
 msgid "Find the line written below to change the default sequence:"
-msgstr ""
+msgstr "找到下边的行以修改默认的顺序："
 
-# 这是什么东东？
+# 根据 grub2 进行了改写
 #: chapter10/Partitioning_and_Booting.xml:933(screen)
 #, no-wrap
 msgid "... default 0 ..."
-msgstr "... default 0 ..."
+msgstr "GRUB_DEFAULT=0"
 
 #: chapter10/Partitioning_and_Booting.xml:935(para)
 msgid "Replace this line with the following line:"
 msgstr "使用如下行替代此行："
 
+# 根据grub2 进行了改写
 #: chapter10/Partitioning_and_Booting.xml:937(screen)
 #, no-wrap
 msgid "default X"
-msgstr "默认的 X"
+msgstr "GRUB_DEFAULT=X"
 
 # 此处为grub的内容
 #: chapter10/Partitioning_and_Booting.xml:939(para)
 msgid "Replace X with a number based on the order in which your operating systems appear in the configuration file. You should start counting from 0. For example, if you wish the default operating system to be the first in the list, replace X with 0; and if you wish the default operating system to be the second in the list, replace X with 1."
-msgstr ""
+msgstr "根据操作系统在配置文件中显示的顺序，将 X 替换为一个数字。从 0 开始计数。例如，如果希望默认启动的操作系统是列表中的第一个，用 0 替换 X；如果希望默认启动的操作系统是列表中的第二个，使用 1 替换 X。"
 
+# 根据 grub2 进行了修改
 #: chapter10/Partitioning_and_Booting.xml:948(para)
 msgid "Point to saved and save default to reboot the last OS chosen."
-msgstr ""
+msgstr "点击保存此文件，并运行 sudo update-grub 命令，重启系统就可以看到已经修改了默认的操作系统。"
 
 #: chapter10/Partitioning_and_Booting.xml:955(title)
 msgid "Configuring Start-Up Services"
-msgstr "配置启动服务"
+msgstr "配置启动应用程序"
 
+# 根据 9.10 进行了修改
 #: chapter10/Partitioning_and_Booting.xml:957(para)
 msgid "When Ubuntu starts up, many services are started for your convenience. Some services are mandatory for Ubuntu to work properly on your computer. Others are services that you'll probably never need, either because you just do not want them (for example, ntpdate, which sets your system time from a time server) or you simply don't have the device (for example, the HP printing and scanning system, which is of no use if you don't own an HP device)."
-msgstr "当 Ubuntu 启动时，为了您的方便，启动了很多服务。一些服务是对 Ubuntu 正常工作是必需的。其它是一些您可能永远不需要的服务，或者可能仅仅是因为您不想要它们(例如 ntpdate，它从时间服务器设置您的系统同时间)或者就是您没有此设备(例如 HP 打印和扫描系统，如果您没有 HP 设备它就没用)。"
+msgstr "当 Ubuntu 启动时，为了您的方便，启动了很多服务。一些服务是对 Ubuntu 正常工作是必需的，取消会造成系统不能正常启动或运行。其它一些是可以取消的，取消了不会造成影响或仅仅会造成不便。这些可取消服务的中的一些您可能永远不需要，可能仅仅是因为您不想要它们(例如用户文件夹更新，它在更改系统的登录语言时更新用户主目录中的几个文件夹的名字)或者就是您没有此设备(例如蓝牙管理器，如果您没有蓝牙设备它就没用)。"
 
 #: chapter10/Partitioning_and_Booting.xml:965(para)
 msgid "Although these services are harmless, they increase your computer's start-up time. By de-activating some of these services, you should get a slightly faster start-up time."
-msgstr "虽然这些服务无害，它们增加您系统的启动时间。通过取消这些服务中的一部分，您可能获得稍微快一点的启动时间。"
+msgstr "虽然这些自启动应用程序无害，它们增加您系统的启动时间，增加系统符合。通过取消这些自启动程序中的一部分，您可能获得稍微快一点的启动时间，更低的资源占用。"
 
 #: chapter10/Partitioning_and_Booting.xml:972(para)
 msgid "Read the service information before you disable any service because disabling some services may stop your system from booting-up or running properly."
-msgstr "禁用任何服务之前阅读服务信息因为禁用某些服务将使您的系统不能引导或正常运行。"
+msgstr "禁用自动启动的应用程序之前阅读程序信息因为禁用某些自启动应用程序可能会给您造成不便或对系统性能及稳定性等产生一定影响。"
 
+# 根据 9.10 进行了更改
 #: chapter10/Partitioning_and_Booting.xml:977(para)
 msgid "To configure the start-up services, you need to have administrative privileges. Then, perform the following steps:"
-msgstr "要配置启动时服务，需要有管理特权。然后执行如下步骤："
+msgstr "要配置自动启动的应用程序，请执行如下步骤："
 
+# 为910进行了更改
 #: chapter10/Partitioning_and_Booting.xml:982(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Services</emphasis>."
-msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上。指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">服务</emphasis>."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上。指向 <emphasis role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">启动应用程序</emphasis>."
 
+# 为9.10进行了更改
 #: chapter10/Partitioning_and_Booting.xml:988(para)
 msgid "Type your administrative password. The <emphasis role=\"strong\">Services settings</emphasis> window opens."
-msgstr "输入您的管理口令。将打开 <emphasis role=\"strong\">服务设置</emphasis> 窗口。"
+msgstr "将打开 <emphasis role=\"strong\">启动应用程序首选项</emphasis> 窗口。"
 
 #: chapter10/Partitioning_and_Booting.xml:992(para)
 msgid "Select the services you want running by selecting or clearing the respective check boxes and click <emphasis role=\"strong\">OK</emphasis>."
-msgstr "通过选择或清除对应的选择框选择您想运行的服务并且点击 <emphasis role=\"strong\">确定</emphasis>。"
+msgstr "通过选择或清除对应的选择框选择您想运行的服务并且点击 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter10/Partitioning_and_Booting.xml:996(title)
 msgid "Services Settings Window"
-msgstr "服务设置窗口"
+msgstr "启动应用程序首选项窗口"
 
+# 根据 9.10 进行了更改
 #: chapter10/Partitioning_and_Booting.xml:1010(para)
 msgid "If you want greater control over the boot-up services, install Boot-up Manager (bum). You can install bum from the Universe repository. You need to click the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Boot-up Manager</emphasis>."
-msgstr "如果想要对引导时服务有更大的控制，安装引导时管理器(bum)。可以从 Universe 库安装 bum。需要点击 <emphasis role=\"strong\">系统</emphasis> 菜单，指向 <emphasis role=\"strong\">系统管理</emphasis> 并且点击 <emphasis role=\"strong\">启动时管理器</emphasis>。"
+msgstr "如果想在向列表中添加一个新条目可以选择右侧的 <emphasis role=\"strong\">添加</emphasis> 按钮；如果想要从列表中删除一项，也可以选中此项并点击右侧的 <emphasis role=\"strong\">删除</emphasis> 按钮。如果想要下次登录时自动打开本次注销时打开着的程序，请选中 <emphasis role=\"strong\">选项</emphasis> 标签页中的 <emphasis role=\"strong\">注销时自动记住正在运行的应用程序</emphasis> 复选框。"
 
 #: chapter10/Partitioning_and_Booting.xml:1018(title)
 msgid "Lesson Summary"
@@ -880,20 +888,20 @@ msgstr "ubuntu 默认使用这些文件系统中的哪一个？"
 # 原文前边竟然没有编号，或许我需要给它加上
 #: chapter10/Partitioning_and_Booting.xml:1115(para)
 msgid "Fat 32"
-msgstr "Fat 32"
+msgstr "a) Fat 32"
 
 #: chapter10/Partitioning_and_Booting.xml:1119(para)
 msgid "NTFS"
-msgstr "NTFS"
+msgstr "b) NTFS"
 
 #: chapter10/Partitioning_and_Booting.xml:1123(para)
 msgid "Ext3"
-msgstr "Ext3"
+msgstr "c) Ext4"
 
 # o,ext3 again
 #: chapter10/Partitioning_and_Booting.xml:1129(para)
 msgid "c) Ext3"
-msgstr "c) Ext3"
+msgstr "c) Ext4"
 
 #: chapter10/Partitioning_and_Booting.xml:1135(para)
 msgid "If you want to run a system command automatically at start-up, where should you add the command?"
@@ -905,11 +913,11 @@ msgstr "此命令需要添加到 /etc/rc.local 文件。"
 
 #: chapter10/Partitioning_and_Booting.xml:1147(para)
 msgid "Is it possible to disable all the start-up services? Why?"
-msgstr "可以禁用所有的启动服务吗？为什么？"
+msgstr "可以禁用所有的自启动的应用程序吗？为什么？"
 
 #: chapter10/Partitioning_and_Booting.xml:1152(para)
 msgid "No, it is not possible to disable all start-up services because disabling some services will stop your system from booting-up or running properly."
-msgstr "不，禁用所有的启动服务是不可行的，因为禁用某些服务将会造成不能引导或正常运行。"
+msgstr "可以，可以禁用启动应用程序中列出的所有条目，但是禁用某些选项会系统缺少某些功能，甚至是对桌面用户很重要的功能，如上网；因此一定要慎重。"
 
 #: chapter10/Partitioning_and_Booting.xml:1161(title)
 msgid "Lab Exercise"

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-28 12:53+0800\n"
+"PO-Revision-Date: 2009-12-28 22:52+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -765,7 +765,7 @@ msgstr "想要充分利用好这个应用程序，要求有一些在相似应用
 # 不确定
 #: chapter7/Managing_Graphics_and_Photos.xml:916(title)
 msgid "Page:"
-msgstr "画布："
+msgstr "纸张："
 
 # 非常不确定
 #: chapter7/Managing_Graphics_and_Photos.xml:918(para)
