@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-28 22:42+0800\n"
+"PO-Revision-Date: 2009-12-29 00:29+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -908,17 +908,18 @@ msgstr "添加新播客订阅"
 msgid "Note:"
 msgstr "注意："
 
+# mohu
 #: chapter8/xinclude.xml:332(para)
 msgid "Podcasts are audio shows broadcast over the Internet that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
-msgstr "播客是网可以订阅的通过互联的音频秀广播。订阅一个播客使您可以从订阅的播客源下载音频的每个新版本。"
+msgstr "播客是通过订阅在 Internet 播放音频文件的网站。您可以从所订阅的播客源下载音频文件的新版本。"
 
 #: chapter8/xinclude.xml:341(para)
 msgid "If the students want to know more about podcasts, advise them to read the Wikipedia article on podcasting: <ulink url=\"http://en.wikipedia.org/wiki/Podcasting\">http://en.wikipedia.org/wiki/Podcasting</ulink>."
-msgstr "如果学生想更多地了解播客，建议他们阅读维基百科上关于播客的文章：<ulink url=\"http://zh.wikipedia.org/zh-cn/播客\">http://zh.wikipedia.org/zh-cn/播客</ulink>。"
+msgstr "想要了解更多关于播客的知识，建议阅读维基百科上关于播客的文章：<ulink url=\"http://zh.wikipedia.org/zh-cn/播客\">http://zh.wikipedia.org/zh-cn/播客</ulink>。"
 
 #: chapter8/xinclude.xml:347(para)
 msgid "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast Feed</emphasis> text box and click <emphasis role=\"strong\">Add</emphasis>."
-msgstr "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框输入播客订阅的 URL 并点击 <emphasis role=\"strong\">添加</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框中输入所订阅播客的 URL，点击 <emphasis role=\"strong\">添加</emphasis>。"
 
 #: chapter8/xinclude.xml:351(title)
 msgid "Entering Podcast Feed URL"
@@ -926,7 +927,7 @@ msgstr "输入播客订阅 URL"
 
 #: chapter8/xinclude.xml:362(para)
 msgid "Rhythmbox automatically looks for the latest podcasts and downloads them for you. To play a podcast episode, select the episode that you want to play and click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr "Rhythmbox 自动查看最新的播客并为您自动下载它们。要播放播客曲目，选择要播放的曲目并点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
+msgstr "Rhythmbox 自动查看并下载最新的播客。选择要播放的曲目并点击 <emphasis role=\"strong\">播放</emphasis> 按钮进行播放。"
 
 #: chapter8/xinclude.xml:367(title)
 msgid "Playing a Podcast"
@@ -934,7 +935,7 @@ msgstr "播放一个播客"
 
 #: chapter8/xinclude.xml:378(para)
 msgid "Rhythmbox also allows you to listen to radio streamed from Internet radio stations across the world. To listen to Internet radio, click the <emphasis role=\"strong\">Radio</emphasis> source in the <emphasis role=\"strong\">Source</emphasis> pane."
-msgstr "Rhythmbox 也允许您从全世界的网络电台收听广播流。要收听网络电台，在 <emphasis role=\"strong\">源</emphasis> 嵌板点击 <emphasis role=\"strong\">电台</emphasis> 源。"
+msgstr "Rhythmbox 还支持接收全世界范围的网络电台广播。要收听网络电台，在 <emphasis role=\"strong\">源</emphasis> 嵌板点击 <emphasis role=\"strong\">电台</emphasis> 选项。"
 
 #: chapter8/xinclude.xml:384(title)
 msgid "Playing Internet Radio"
@@ -942,7 +943,7 @@ msgstr "播放网络电台"
 
 #: chapter8/xinclude.xml:395(para)
 msgid "By default the <emphasis role=\"strong\">Radio</emphasis> source lists several radio stations, each of them broadcasting a different genre of music. Double-click on the radio station of your choice to listen to the streaming media."
-msgstr "默认上，<emphasis role=\"strong\">广播</emphasis> 源列出了多个广播电台，每个广播不同流派的音乐。双击您选择的广播电台以收听流媒体。"
+msgstr "默认情况下，<emphasis role=\"strong\">广播</emphasis> 源列出了多个广播电台，每个电台播放不同流派的音乐。双击该电台播放广播。"
 
 #: chapter8/xinclude.xml:401(title)
 msgid "Listening to a Radio Station"
@@ -950,11 +951,11 @@ msgstr "收听广播电台"
 
 #: chapter8/xinclude.xml:413(para)
 msgid "Advise students to read the Wikipedia article on Internet Radio if they want more background information: <ulink url=\"http://en.wikipedia.org/wiki/Internet_radio\">http://en.wikipedia.org/wiki/Internet_radio</ulink>."
-msgstr "如果学生们需要更多的背景资料建议他们阅读维基百科关于网络电台的文章：<ulink url=\"http://zh.wikipedia.org/zh-cn/网络电台\">http://zh.wikipedia.org/zh-cn/网络电台</ulink>。"
+msgstr "关于网络电台的更多背景资料可查阅维基百科相关文章：<ulink url=\"http://zh.wikipedia.org/zh-cn/网络电台\">http://zh.wikipedia.org/zh-cn/网络电台</ulink>。"
 
 #: chapter8/xinclude.xml:419(para)
 msgid "You can also add a new radio station to the existing list by clicking <emphasis role=\"strong\">New Internet Radio Station</emphasis> and pasting the URL of the new radio station in the <emphasis role=\"strong\">URL of Internet radio station</emphasis> text box. Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in the existing list."
-msgstr "您也可以通过点击 <emphasis role=\"strong\">新建网络电台</emphasis> 并向 <emphasis role=\"strong\">网络电台的 URL</emphasis> 文本框粘贴新电台的 URL 来向现有列表添加新电台。"
+msgstr "还可以通过点击 <emphasis role=\"strong\">新建网络电台</emphasis> 并向 <emphasis role=\"strong\">网络电台的 URL</emphasis> 文本框粘贴新电台的 URL 将新电台添加到当前列表。"
 
 #: chapter8/xinclude.xml:427(title)
 msgid "Adding New Radio Station"
@@ -963,27 +964,28 @@ msgstr "添加新广播台"
 #: chapter8/xinclude.xml:438(para)
 #: chapter8/xinclude.xml:3063(para)
 msgid "You can add many more Internet radio stations in the same way and listen to your favourite radio stations with just a click of your mouse."
-msgstr "您可以通过同样的方法添加更多的网络电台并通过仅仅点下鼠标来收听您最喜欢的电台。"
+msgstr "通过同样的方法添加其他网络电台，轻点鼠标便可收听您喜爱的电台。"
 
 #: chapter8/xinclude.xml:447(title)
 msgid "Playing and Extracting Audio CDs"
-msgstr "播放和提取音频 CD"
+msgstr "提取和播放 CD "
 
 #: chapter8/xinclude.xml:457(para)
 msgid "Ogg Vorbis: Ogg vorbis is a free, unpatented and open source alternative to the proprietary MP3 format. Like the MP3 format, it discards parts of the sound that humans cannot normally hear. An Ogg Vorbis file is typically a tenth of the size of a WAV format file containing the same content."
-msgstr "Ogg Vorbis：Ogg Vorbis 是专有 MP3 格式的一种自由、非专利和开源的替代品。就像 MP3 格式，其忽略了人们通常听不到的声音部分。Ogg Vorbis 文件通常是含有同样内容的 WAV 格式文件的十分之一。"
+msgstr "Ogg Vorbis：Ogg Vorbis 是一种自由、非专利和开源的文件格式，它可以替代 MP3 格式。和 MP3 格式一样，它忽略了人们不敏感的某些频率成分。同样的内容，Ogg Vorbis 文件文件的大小只有 WAV 文件的十分之一。"
 
+# mohu
 #: chapter8/xinclude.xml:465(para)
 msgid "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without discarding any information. A FLAC file is typically half the size of a WAV file containing the same content."
-msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利、开源的音频格式。不像 MP3 和 Ogg Vorbis，FLAC 不丢失任何信息地压缩音频。FLAC 文件通常是有同样内容的 WAV 文件大小的一半。"
+msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
 
 #: chapter8/xinclude.xml:473(para)
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
-msgstr "WAV：WAV 是 Waveform Audio Format (波形音频格式)的缩写。它是一种非压缩格式，通常用于声音和语音记录的短片段。"
+msgstr "WAV：WAV 是 Waveform Audio Format (波形音频格式)的缩写。它是非压缩格式，通常用于声音和语音记录的短片段。"
 
 #: chapter8/xinclude.xml:449(para)
 msgid "Sound Juicer is the default application available in Ubuntu for playing and extracting audio compact discs (CDs). It is an easy-to-use CD player and ripping tool that requires minimal user intervention in playing and extracting audio CDs. Using Sound Juicer, you can play audio tracks directly from the CD and extract audio tracks and convert them into audio files. Sound Juicer allows you to extract audio files into the following three formats: <placeholder-1/>"
-msgstr "音乐榨汁机(Sound Juicer)是 Ubuntu 默认的播放和提取音乐光盘的应用程序。它是一个在播放中需要很少用户交互的易用 CD 播放器和抓取工具。使用音乐榨汁机，您可以直接从 CD 播放音轨也可以提取音轨并转换到音频文件。音乐榨汁机允许您以如下三种格式提取音频文件：<placeholder-1/>"
+msgstr "音乐榨汁机(Sound Juicer)是 Ubuntu 默认的提取或播放 CD 的应用程序。它是一个易用的 CD 播放器和抓取工具，播放中很少需要用户交互。使用音乐榨汁机，您可以直接从 CD 播放音轨也可以提取音轨并转换成音频文件。音乐榨汁机允许您以如下三种格式提取音频文件：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:485(ulink)
 msgid "http://www.vorbis.com/faq/"
@@ -1003,11 +1005,11 @@ msgstr "播放音频 CD"
 
 #: chapter8/xinclude.xml:498(title)
 msgid "To play audio CDs using Sound Juicer"
-msgstr "要使用音乐榨汁机播放音频 CD。"
+msgstr "使用音乐榨汁机播放音频 CD。"
 
 #: chapter8/xinclude.xml:501(para)
 msgid "Insert an audio CD in the CD drive of your computer. The Sound Juicer CD player and ripper is launched automatically. To start Sound Juicer manually, click the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audio CD Extractor</emphasis>."
-msgstr "向计算机的 CD 驱动器插入音频 CD。音乐榨汁机 CD 播放器和提取器自动启动。要手动启动音乐榨汁机，点击 <emphasis role=\"strong\">应用程序</emphasis> 菜单，指向 <emphasis role=\"strong\">影音</emphasis> 并点击 <emphasis role=\"strong\">音频 CD 提取器</emphasis>。"
+msgstr "向计算机的 CD 驱动器插入 CD。音乐榨汁机 CD 播放器和提取器自动启动。要手动启动音乐榨汁机，可选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单，点击 <emphasis role=\"strong\">影音</emphasis> 项下的 <emphasis role=\"strong\">音频 CD 提取器</emphasis>。"
 
 #: chapter8/xinclude.xml:506(title)
 msgid "Launching Sound Juicer"
@@ -1015,15 +1017,15 @@ msgstr "启动音乐榨汁机"
 
 #: chapter8/xinclude.xml:517(para)
 msgid "Sound Juicer's main interface is displayed. When Sound Juicer detects a CD, it examines the CD and tries to search the Internet to locate information about the CD's content. If you are connected to the Internet, Sound Juicer will retrieve the CD artist, title, and track data from MusicBrainz.org."
-msgstr "已显示音乐榨汁机的主界面。当音乐榨汁机探测到 CD 时，其检查 CD 并尝试搜索互联网以定位关于此 CD 内容的信息。如果您您连接到了互联网，音乐榨汁机将从 MusicBrainz.org 检索 CD 艺人、标题和曲目信息。"
+msgstr "打开音乐榨汁机的主界面。当音乐榨汁机检测到 CD 时，将检查 CD 并尝试搜索互联网以定位关于此 CD 内容的信息。如果您您连接到了互联网，音乐榨汁机将从 MusicBrainz.org 检索 CD 艺人、标题和曲目等信息。"
 
 #: chapter8/xinclude.xml:523(para)
 msgid "To play all the tracks sequentially, you can simply click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr "要顺序的播放所有曲目，可以简单的点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
+msgstr "要顺序的播放所有曲目，只需点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:529(para)
 msgid "MusicBrainz.org is a community-maintained online database, which contains data on over 360,000 published albums."
-msgstr "MusicBrainz.org 是一个社区维护的在线数据库，其包含超过 360,000 个已发行的专辑的数据。"
+msgstr "MusicBrainz.org 是一个由社区维护的在线数据库，包含了 360,000 多个已发行的专辑的数据信息。"
 
 #: chapter8/xinclude.xml:534(title)
 msgid "Playing Audio CD"
@@ -1031,11 +1033,11 @@ msgstr "播放音频 CD"
 
 #: chapter8/xinclude.xml:543(para)
 msgid "Notice that Sound Juicer has fetched the track information from MusicBrainz.org. In the upper part of the Sound Juicer window, you can see the basic information about the disc, including title, artist, genre and total duration. The lower part of the window displays a list of tracks, each with its full title, artist and duration."
-msgstr "注意，音乐榨汁机已经从 MusicBrainz.org 取回了曲目信息。在音乐榨汁机窗口的上部，您可以查看此光盘的基本信息，包括标题、艺人、流派和总时间。窗口的下部显示曲目列表，每个带有其全标题、艺人和时间。"
+msgstr "注意到音乐榨汁机已经从 MusicBrainz.org 取回了曲目信息。可以在音乐榨汁机窗口的上部查看此光盘的基本信息，包括标题、艺人、流派和总时长等。窗口的下部显示曲目列表，包含了歌名、艺人和时间。"
 
 #: chapter8/xinclude.xml:552(para)
 msgid "To play only the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes and then click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr "要仅播放选定的曲目，通过选中对应的复选框来选择特定的曲目然后点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
+msgstr "要仅播放选定的曲目，可通过勾取对应的复选框来选定曲目，然后点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:557(title)
 msgid "Selecting the Song tracks"
@@ -1043,7 +1045,7 @@ msgstr "选择歌曲音轨"
 
 #: chapter8/xinclude.xml:568(para)
 msgid "You can now enjoy listening to your favourite music tracks."
-msgstr "您现在可以享受聆听收藏的音乐曲目了。"
+msgstr "现在可以享受你喜欢的音乐了。"
 
 #: chapter8/xinclude.xml:572(title)
 msgid "Playing the Selected Tracks"
