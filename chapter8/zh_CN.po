@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-27 23:03+0800\n"
-"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
+"PO-Revision-Date: 2009-12-28 13:09+0800\n"
+"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -701,7 +701,7 @@ msgstr "本节课中，您将学到："
 
 #: chapter8/xinclude.xml:11(para)
 msgid "Play, edit and organize music and video files."
-msgstr "播放、编辑和组织音乐视频文件"
+msgstr "播放、编辑和组织音乐视频文件。"
 
 #: chapter8/xinclude.xml:15(title)
 #: chapter8/xinclude.xml:67(title)
@@ -713,7 +713,7 @@ msgstr "教学参考："
 
 #: chapter8/xinclude.xml:17(emphasis)
 msgid "It is recommended to cover all the topics in this lesson. However,if you fall short of time then cover only the following topics:"
-msgstr "推荐学习本课中的所有主题，但是如果时间紧张，可以仅学习如下主题："
+msgstr "建议学习本课中的所有主题，但是如果时间紧张，可以仅学习以下主题："
 
 #: chapter8/xinclude.xml:21(emphasis)
 #: chapter8/xinclude.xml:33(title)
@@ -736,19 +736,19 @@ msgstr "观看 DVD"
 #: chapter8/xinclude.xml:29(emphasis)
 #: chapter8/xinclude.xml:2173(title)
 msgid "Playing Online Media"
-msgstr "播放在线媒体"
+msgstr "在线媒体播放"
 
 #: chapter8/xinclude.xml:35(para)
 msgid "Ubuntu fully supports playback of music, videos and DVDs available in free and unrestricted formats. A number of multimedia formats are restricted by licenses and software patents in some jurisdictions. Ubuntu does not offer this capability by default for these formats but it easy to enable playing a variety of proprietary formats. This section will guide you through the patent and copyright restriction considerations for using proprietary file formats."
-msgstr "Ubuntu 完全支持播放自由和非限制格式的音乐、视频和 DVD。一些多媒体格式在某些司法管辖区是被许可证和软件专利限制的。Ubuntu 默认不提供播放这些格式的能力，但是可以非常容易的启用播放大量私有格式的能力。此节将指导您越过对专利和版权限制的考虑，以使用私有文件格式。"
+msgstr "Ubuntu 支持播放所有自由和非限制格式的音乐、视频和 DVD。一些多媒体格式在某些司法管辖区会受到许可证或软件专利的限制。默认情况下，Ubuntu 不支持播放这些文件，但是用户可以非常容易地启用播放这些特殊格式的文件。本节将教会您成功播放这些格式的文件而无须考虑其版本或所有权。"
 
 #: chapter8/xinclude.xml:43(para)
 msgid "The license of the format is different from the license of the content itself. For example a video's content can be licensed under a Creative Commons license, and be available as MPEG file. While the content can be distributed freely, the format is proprietary and a software for playback may need to be licensed in some jurisdictions."
-msgstr "格式的许可是不同于内容的许可的。例如一个视频的内容可能以知识共享(Creative Commons)许可证发布，同时使用 MPEG 文件，因而内容可以自由分发，格式是私有的而且播放软件在某些司法管辖区可能需要许可证。"
+msgstr "格式的许可不同于内容的许可。例如，一个视频的内容可能以知识共享(Creative Commons)许可证发布，同时以 MPEG 文件格式得到。尽管其内容可以自由分发，但是该文件格式却是私有的且在一些地区使用支持该格式的播放软件可能需要许可证。"
 
 #: chapter8/xinclude.xml:49(para)
 msgid "To understand the legal issues associated with the use of proprietary formats, you first need to understand the difference between free and non-free or proprietary formats."
-msgstr "要理解使用私有格式的法律问题，首先需要理解自由和非自由或自由格式间的区别。"
+msgstr "要理解使用私有格式伴随的法律问题，首先需要理解自由和非自由或自由格式间的区别。"
 
 #: chapter8/xinclude.xml:55(title)
 msgid "Playing Music Files"
@@ -756,7 +756,7 @@ msgstr "播放音乐文件"
 
 #: chapter8/xinclude.xml:57(para)
 msgid "Ubuntu comes with the Rhythmbox Music Player to play and organise music files. Similar to iTunes in its interface, this music player is a free software application designed to work in the GNOME desktop environment. Using Rhythmbox, you can play your music files, listen to Internet radio, import music from CDs and organise your music files. Rhythmbox offers comprehensive audio support for a large number of audio formats and contains various useful features that make playing music easy and enjoyable."
-msgstr "Ubuntu 带有 Rhythmbox 音乐播放器播放和组织音乐文件。其界面类似于 iTunes，此音乐播放器是自由软件，设计为在 GNOME 桌面环境下工作。使用 Rhythmbox，您可以播放音乐文件，收听网络电台，从 CD 导入音乐并且组织您的音乐文件。Rhythmbox 提供对大量音频格式的广泛支持并且包含很多使播放音乐变得更简单和享受的有用功能。"
+msgstr "Ubuntu 自带 Rhythmbox 音乐播放器播放和组织音乐文件。是专为 GNOME 桌面环境设计的一款自由软件，其界面类似于 iTunes。通过 Rhythmbox，您可以播放音乐文件，收听网络电台，从 CD 中导入导入并组织音乐文件。Rhythmbox 提供对大量音频格式的广泛支持并且包含很多使播放音乐变得更简单和享受的有用功能。"
 
 #: chapter8/xinclude.xml:69(para)
 msgid "You need to demonstrate and let the students play fully with at least 1 music, 1 DVD playback and 1 audio recording."
@@ -1705,7 +1705,7 @@ msgstr "Audacity 开始以指定的文件格式导出文件。此操作将花费
 
 #: chapter8/xinclude.xml:1792(title)
 msgid "Export Progress Indicator"
-msgstr ""
+msgstr "导出进度指示器"
 
 #: chapter8/xinclude.xml:1801(para)
 msgid "The audio file is exported to the specified location. You can now close the Audacity window and listen to the edited audio file whenever you wish."
@@ -2309,7 +2309,7 @@ msgstr "本课中，您将学到：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2807(title)
 msgid "Review Exercise"
-msgstr ""
+msgstr "复习题"
 
 #: chapter8/xinclude.xml:2812(para)
 msgid "List the main features of a free software license."
@@ -2650,7 +2650,7 @@ msgstr "练习 5：播放 DVD"
 
 #: chapter8/xinclude.xml:3317(para)
 msgid "One of your friends has recently given you a DVD gift box set of your favourite movies of all times. Now, you want to play this DVD in your Ubuntu desktop and enjoy your favourite movies."
-msgstr ""
+msgstr "假设有朋友送了你一张DVD，上面刻录了你最爱看的电影。接下来，你想在 Ubuntu 下播放它，享受电影的乐趣。"
 
 #: chapter8/xinclude.xml:3323(title)
 msgid "To play the DVD in the Movie player:"
