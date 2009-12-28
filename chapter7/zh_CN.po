@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-28 22:52+0800\n"
+"PO-Revision-Date: 2009-12-29 00:19+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -235,7 +235,7 @@ msgstr "编者提示"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:26(emphasis)
 msgid "It is advisable to cover all the topics during the training. However, if you fall short of time then cover only the following topics:"
-msgstr "建议读者在训练过程中通读所有的内容。如果你没有时间，建议阅读以下内容："
+msgstr "建议教学过程中涉及所有的内容。如果时间紧张，建议涉及以下内容："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:31(emphasis)
 #: chapter7/Managing_Graphics_and_Photos.xml:50(title)
@@ -256,11 +256,12 @@ msgstr "本节开始之前不妨给班级(学生们)照几张照片，然后用�
 
 #: chapter7/Managing_Graphics_and_Photos.xml:52(para)
 msgid "Graphics applications form an integral part of Ubuntu. They enable you to organise your photo collection, create and edit photos and images, scan and send objects and more."
-msgstr "图形应用程序是 Ubuntu 的一个组成部分。他们可以用来管理您的相片集、创建或编辑照片和图像、扫描和发送图形对象等以及更多。"
+msgstr "图形应用程序是 Ubuntu 的一个组成部分。它们可以用来管理相片集、创建或编辑照片和图像、扫描和发送图形对象等以及更多。"
 
+# libraries 
 #: chapter7/Managing_Graphics_and_Photos.xml:56(para)
 msgid "In this lesson, you will learn about the various graphics applications available on Ubuntu and which one to use when. These graphics applications are available either with the Ubuntu installation or in repositories (those libraries we mentioned earlier)."
-msgstr "本节课中，你将学习在 Ubuntu 上的多种图形应用程序，并在特定的时间针对性的使用它们。这些图形应用程序可以是 Ubuntu 安装时自带的或者在软件库中获取(这些软件库之前提到过)。"
+msgstr "本节课中，将学到 Ubuntu 上的多种图形应用程序，并在特定的时间针对性的使用它们。这些图形应用程序可以是 Ubuntu 安装时自带的或者在软件库中获取(这些软件库之前提到过)。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:62(title)
 msgid "Applications Available with the Ubuntu Installation"
@@ -272,7 +273,7 @@ msgstr "<emphasis role=\"strong\">GIMP 图像编辑器：</emphasis> 这款图�
 
 #: chapter7/Managing_Graphics_and_Photos.xml:73(para)
 msgid "<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager used to organise and manage photos. F-Spot enables you to tag (label), categorise and sort photos."
-msgstr "<emphasis role=\"strong\">F-Spot 照片管理器：</emphasis> 一个管理和组织照片的照片管理程序。可以利用 F-Spot 对照片进行标记(添加标签)、分类和排序。"
+msgstr "<emphasis role=\"strong\">F-Spot 照片管理器：</emphasis> 一个管理和组织照片的程序。可以利用 F-Spot 对照片进行标记(添加标签)、分类和排序。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:79(para)
 msgid "<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner which also enables you to photocopy documents and fax or e-mail scanned images."
@@ -389,7 +390,7 @@ msgstr "从计算机硬盘上向 F-Spot 导入相片："
 
 #: chapter7/Managing_Graphics_and_Photos.xml:275(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The <emphasis role=\"strong\">F-Spot</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role=\"strong\">图形</emphasis> 并单击 <emphasis role=\"strong\">F-Spot 相片管理器</emphasis>. 将打开 <emphasis role=\"strong\">F-Spot</emphasis> 窗口。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role=\"strong\">图形</emphasis> 并单击 <emphasis role=\"strong\">F-Spot 照片管理器</emphasis>. 将打开 <emphasis role=\"strong\">F-Spot</emphasis> 窗口。"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:282(para)
 #: chapter7/Managing_Graphics_and_Photos.xml:384(para)
@@ -416,6 +417,7 @@ msgstr "提示："
 msgid "You can also click <emphasis role=\"strong\">Import</emphasis> on the <emphasis role=\"strong\">File</emphasis> menu to open the <emphasis role=\"strong\">Import</emphasis> dialogue box."
 msgstr "还可以通过单击 <emphasis role=\"strong\">照片</emphasis> 菜单下的 <emphasis role=\"strong\">导入</emphasis> 按钮来打开 <emphasis role=\"strong\">导入</emphasis> 对话框。"
 
+# 此处怀疑有误
 #: chapter7/Managing_Graphics_and_Photos.xml:307(para)
 msgid "In the <emphasis role=\"strong\">Import Source</emphasis> box, the <emphasis role=\"strong\">Select Folder</emphasis> option is selected by default. Retain the option, navigate to the folder that contains the photographs and click <emphasis role=\"strong\">Open</emphasis>."
 msgstr "在 <emphasis role=\"strong\">导入源</emphasis> 对话框中，<emphasis role=\"strong\">选择文件夹</emphasis> 选项是设置的默认路径。保留这个选项，单击导航到包含照片的文件夹，单击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择需要的照片单击 <emphasis role=\"strong\">打开</emphasis>按钮。"
@@ -423,7 +425,7 @@ msgstr "在 <emphasis role=\"strong\">导入源</emphasis> 对话框中，<empha
 #: chapter7/Managing_Graphics_and_Photos.xml:314(emphasis)
 #: chapter7/Managing_Graphics_and_Photos.xml:396(emphasis)
 msgid "Selecting Photo Import Source"
-msgstr "选择需要导入的照片"
+msgstr "选择照片导入来源"
 
 #: chapter7/Managing_Graphics_and_Photos.xml:326(emphasis)
 msgid "Displaying Images to Import"
@@ -624,6 +626,7 @@ msgstr "GIMP有很多有用的功能：<placeholder-1/>"
 msgid "To launch GIMP from the desktop:"
 msgstr "从桌面启动 GIMP："
 
+# 此处需要更新
 #: chapter7/Managing_Graphics_and_Photos.xml:658(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">GIMP Image Editor</emphasis>. The <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt is displayed. Click <emphasis role=\"strong\">Close</emphasis> on the <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt. The <emphasis role=\"strong\">GIMP</emphasis> window opens."
 msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，指向 <emphasis role=\"strong\">图形</emphasis> 下的 <emphasis role=\"strong\">GIMP 图片编辑器</emphasis> 并单击打开。此时将显示<emphasis role=\"strong\">GIMP 日积月累</emphasis> 对话框。单击 <emphasis role=\"strong\">GIMP 日积月累</emphasis> 对话框上的 <emphasis role=\"strong\">关闭</emphasis> 按钮。将打开 <emphasis role=\"strong\">GIMP</emphasis> 窗体。"
@@ -959,16 +962,16 @@ msgstr "以下哪个默认的图形应用程序提供了从随机存储的图像
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1189(para)
 msgid "a) Inkscape"
-msgstr "a) Inkscape"
+msgstr "a) Inkscape "
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1191(para)
 #: chapter7/Managing_Graphics_and_Photos.xml:1199(para)
 msgid "b) F-Spot"
-msgstr "b) F-Spot"
+msgstr "b) F-Spot "
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1193(para)
 msgid "c) Xsane"
-msgstr "c) Xsane"
+msgstr "c) Xsane "
 
 #: chapter7/Managing_Graphics_and_Photos.xml:1195(para)
 msgid "d) GIMP"
