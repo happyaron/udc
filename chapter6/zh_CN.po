@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 17:32+0800\n"
+"PO-Revision-Date: 2009-12-28 13:13+0800\n"
 "Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
 "Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -1995,25 +1995,27 @@ msgid ""
 "specific Linux distributions and are referred to as single package files. "
 "Examples are Debian package files-.deb files and tarballs-.tar files."
 msgstr ""
+"安装程序的首选方案是使用软件包管理器。如果某些软件包或文件不可用，您可以从网站上下载并安装它们。这些文件与特定 Linux "
+"发行版的软件包管理器相关，称之为单个软件包文件。例如 Debian 软件包 .deb 文件以及源码包 .tar 文件。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1508(para)
 msgid ""
 "You should download files that are not present in Ubuntu archives only from "
 "a safe source."
-msgstr ""
+msgstr "您应该只从安全的来源下载那些 Ubuntu 中不存在的文件。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1514(para)
 msgid ""
 "Debian Package files: These files are associated with Ubuntu and have the "
 ".deb suffix."
-msgstr ""
+msgstr "Debian 软件包文件：这些文件和 Ubuntu 有关，后缀名为 .deb。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1519(para)
 msgid ""
 "Tarballs: Zipped archive files that contain the source code of a programme. "
 "This source code needs to be compiled before use. Installing programmes by "
 "compiling them from source is not covered by this course."
-msgstr ""
+msgstr "源码包：包含程序源代码的 zip 压缩归档。使用前需要编译源代码。本课程不包括如何从源代码编译安装程序。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1526(para)
 msgid ""
@@ -2024,6 +2026,8 @@ msgid ""
 "determine the necessary dependencies and either install or compile them "
 "also. Compiling from tarball is therefore not covered on this course."
 msgstr ""
+"从源码包编译安装程序会使得出错时的调试变得十分复杂。源码包的结构简单，不明确指定需要那些依赖来正确编译。因此，确定到底有那些需要的依赖关系以及如何正确安装"
+"或编译都很费时费力。所以本课程不涉及从源码包编译。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1537(para)
 msgid ""
@@ -2032,10 +2036,12 @@ msgid ""
 "these files. Therefore, wherever possible use a native Ubuntu package of the "
 "application available through a package manager."
 msgstr ""
+"单个软件包文件不保证与您的系统兼容。而且，如果您安装这些文件，您不会收到这些程序的安全更新。所以，尽可能通过软件包管理器使用原生的 Ubuntu "
+"软件包来安装可用程序。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1545(title)
 msgid "Installing/Uninstalling Debian Packages"
-msgstr ""
+msgstr "安装/卸载 Debian 软件包"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1547(para)
 msgid ""
@@ -2045,16 +2051,18 @@ msgid ""
 "which are not in the Ubuntu repositories these will also need to be "
 "installed manually."
 msgstr ""
+"Debian 软件包使用图形安装器(gdebi)安装和卸载。gdebi 会尝试在 Ubuntu "
+"仓库中安装任何需要的依赖软件包，然而，如果软件包需要的额外依赖软件包不存在于 Ubuntu 仓库，那么您得手动安装它们。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1553(para)
 msgid ""
 "To install a Debian package, open the .deb file from the folder in which it "
 "resides."
-msgstr ""
+msgstr "要安装 Debian 软件包，请从其所处的文件夹中打开 .deb 文件。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1557(title)
 msgid "Installing a Debian package:"
-msgstr ""
+msgstr "安装 Debian 软件包："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1560(para)
 msgid ""
@@ -2064,6 +2072,9 @@ msgid ""
 "<ulink url=\"http://sourceforge.net/projects/xvidcap/\">http://sourceforge.ne"
 "t/projects/xvidcap/</ulink>."
 msgstr ""
+"下载软件包 XVidCap <emphasis role=\"strong\">xvidcap_1.1.6_i386.deb</emphasis>"
+"。由于这个软件包不在 Ubuntu 仓库，您需要从以下网站下载：<ulink url=\"http://sourceforge."
+"net/projects/xvidcap/\">http://sourceforge.net/projects/xvidcap/</ulink>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1568(para)
 msgid ""
@@ -2074,16 +2085,19 @@ msgid ""
 "dependencies cannot be resolved, an error message will be displayed and you "
 "will not be able to install the package until they are fulfilled."
 msgstr ""
+"一旦下载完毕，只需双击 .deb 文件，gdebi 安装器便会启动。它会检查您是否已安装了所有需要的依赖软件包，如果是的话，它会提供一个<"
+"emphasis role=\"strong\">安装</emphasis>"
+"按钮。简单地按下按钮以开始安装。要是无法解决依赖关系，将显示错误消息，您将无法安装软件包直到这些依赖关系被满足。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1578(para)
 msgid ""
 "To uninstall the package, simply use the Synaptic Package Manager, as "
 "outlined previously in this section."
-msgstr ""
+msgstr "要卸载软件包，只需使用新立得软件包管理器，就如前一章节所述的步骤。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1586(title)
 msgid "Software Repositories"
-msgstr ""
+msgstr "软件仓库"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1588(para)
 msgid ""
@@ -2092,17 +2106,19 @@ msgid ""
 "freely available packages for you to download and install. These packages "
 "have been specially built and selected for Ubuntu."
 msgstr ""
+"软件仓库是互联网上可用软件包(应用程序)的图书馆。Ubuntu 仓库包含数万个可供您自由下载和安装的可用软件包。这些软件包是专门为 Ubuntu "
+"构建和挑选的。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1598(title)
 msgid "Software Repository Categories"
-msgstr ""
+msgstr "软件仓库分类"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1600(para)
 msgid ""
 "Ubuntu repositories are categorised into four groups based on the level of "
 "support that software development teams provide for a programme and the "
 "level of compliance the programme has with the free software philosophy."
-msgstr ""
+msgstr "Ubuntu 仓库分为四个类别，每个类别对应于不同的等级，包括软件开发团队对某个程序的支持程度，以及程序与自由软件观念的符合性。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1607(emphasis)
 msgid "Main"
@@ -2165,13 +2181,13 @@ msgid ""
 "All the packages in this component are expected to work perfectly. However, "
 "there is no guarantee of security fixes and support for these packages. "
 "These packages are maintained by the community."
-msgstr ""
+msgstr "在此组件中的所有软件包都能完美地运行工作。不过，这些软件包不保证有安全修正和支持。这些软件包由社区维护。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1663(para)
 msgid ""
 "It could be considered risky to use packages from the Universe component, "
 "especially because the lack of guaranteed security updates."
-msgstr ""
+msgstr "使用 Universe 组件的软件包可以认为是有风险的，尤其是因为它们不保证有安全更新。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1669(title)
 msgid "The Multiverse Component"
@@ -2202,11 +2218,13 @@ msgid ""
 "third-party software. To use the packages present in third-party software, "
 "you need to add the software and the repositories."
 msgstr ""
+"很多软件包在默认的 Ubuntu 仓库中不可用。这些软件包可以从其它 Ubuntu "
+"仓库或第三方软件中安装。要安装第三方软件中存在的软件包，您需要添加该软件和其仓库。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1695(title)
 msgid ""
 "Perform the following steps to add the third-party software and repositories:"
-msgstr ""
+msgstr "添加第三方软件和仓库的步骤如下："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1699(para)
 msgid ""
@@ -2214,20 +2232,22 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and then click <emphasis "
 "role=\"strong\">Software Sources</emphasis>."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">管理<"
+"/emphasis>，然后点击<emphasis role=\"strong\">软件源</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1704(title)
 msgid "Launching Software Sources Dialogue Box"
-msgstr ""
+msgstr "启动软件源对话框"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1714(para)
 msgid ""
 "The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box "
 "opens. The software sources for Ubuntu are selected by default."
-msgstr ""
+msgstr "弹出<emphasis role=\"strong\">软件源</emphasis>对话框。默认已经选择了 Ubuntu 的软件源。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1719(title)
 msgid "Selecting the Required Sources"
-msgstr ""
+msgstr "选择需要的源"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1732(para)
 msgid ""
@@ -2236,6 +2256,8 @@ msgid ""
 "Manager to enable the repositories under the <emphasis "
 "role=\"strong\">Ubuntu Software</emphasis> tab."
 msgstr ""
+"您也可以使用软件中心或新立得软件包管理器打开<emphasis role=\"strong\">软件源</emphasis>。在<emphasis "
+"role=\"strong\">Ubuntu 软件</emphasis>标签页中启用仓库。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1741(para)
 msgid ""
@@ -2243,10 +2265,12 @@ msgid ""
 "role=\"strong\">Third-Party Software</emphasis> tab and then click <emphasis "
 "role=\"strong\">Add</emphasis>."
 msgstr ""
+"要添加第三方仓库，请点击<emphasis role=\"strong\">第三方软件</emphasis>标签，然后点击<emphasis "
+"role=\"strong\">添加</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1746(title)
 msgid "Adding a Third Party Software Source"
-msgstr ""
+msgstr "添加第三方软件源"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1758(para)
 msgid ""
@@ -2256,16 +2280,20 @@ msgid ""
 "main</emphasis> in the <emphasis role=\"strong\">APT line</emphasis> box. "
 "Click <emphasis role=\"strong\">Add Source</emphasis>."
 msgstr ""
+"在 APT 行中输入您想要添加为软件源的仓库。要访问 Debian main 仓库，请在<emphasis role=\"strong\">APT 行<"
+"/emphasis>框中输入<emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian."
+"org\">http://ftp.debian.org</ulink> sarge main</emphasis>。点击<emphasis "
+"role=\"strong\">添加源</emphasis>。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1768(para)
 msgid ""
 "The APT line should include the type, location and components of a "
 "repository."
-msgstr ""
+msgstr "APT 行应该包含类型、位置和仓库组件信息。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1773(title)
 msgid "Stating the Source APT Line"
-msgstr ""
+msgstr "填写软件源 APT 行"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1785(para)
 msgid ""
@@ -2273,27 +2301,28 @@ msgid ""
 "repository specified in the APT line is added to the third-party software "
 "box."
 msgstr ""
+"点击<emphasis role=\"strong\">关闭</emphasis>以保存更改。在 APT 行中指定的仓库会添加到第三方软件列表框中。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1790(title)
 msgid "Software Sources Dialogue Box Displaying the Added Source"
-msgstr ""
+msgstr "显示已添加软件源的软件源对话框"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1803(para)
 msgid ""
 "With the addition of an extra repository, you will be prompted to update "
 "information about available software. Click <emphasis "
 "role=\"strong\">Reload</emphasis> to do so."
-msgstr ""
+msgstr "添加额外的仓库后，会提示您更新可用软件的信息。点击<emphasis role=\"strong\">刷新</emphasis>更新。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1808(title)
 msgid "Reloading Available Software Information"
-msgstr ""
+msgstr "刷新可用软件信息"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1820(para)
 msgid ""
 "The progress indicator shows the status of package being installed or "
 "removed."
-msgstr ""
+msgstr "进度指示条显示正在安装或删除的软件包状态。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1823(para)
 msgid ""
@@ -2308,20 +2337,25 @@ msgid ""
 "step will end the process of adding extra repositories and updating package "
 "information."
 msgstr ""
+"您可以在<emphasis role=\"strong\">软件源</emphasis>对话框的<emphasis role=\"strong\">"
+"认证</emphasis>"
+"标签中对您的下载进行认证。如果您不认证下载，计算机可能会在下载软件包信息后显示如下的错误。此错误可以忽略。要认证下载流程，您需要导入 GPG "
+"公钥。每个仓库有不同的公钥。点击错误对话框中的<emphasis role=\"strong\">关闭</emphasis>"
+"。这步将完成添加额外仓库和更新软件包信息过程。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1835(title)
 msgid "Public Key Error"
-msgstr ""
+msgstr "公钥错误"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1853(title)
 msgid "Adding New Language Settings"
-msgstr ""
+msgstr "添加新语言设置"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1855(para)
 msgid ""
 "Ubuntu provides the option to enable numerous language settings for your "
 "desktop."
-msgstr ""
+msgstr "Ubuntu 为您的桌面提供了启用数种语言设置的选项。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1858(para)
 msgid ""
@@ -2337,11 +2371,11 @@ msgstr ""
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1869(title)
 msgid "Lesson Summary"
-msgstr ""
+msgstr "课程总结"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1871(para)
 msgid "In this lesson, you learned that:"
-msgstr ""
+msgstr "在本课程中，您学到了："
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1875(para)
 msgid ""
@@ -2350,6 +2384,8 @@ msgid ""
 "role=\"strong\">System</emphasis> menu to customise the Ubuntu desktop look "
 "and feel."
 msgstr ""
+"GNOME 是 Ubuntu 的默认桌面。您可以使用<emphasis role=\"strong\">系统</emphasis>菜单中的<"
+"emphasis role=\"strong\">首选项</emphasis>来自定义 Ubuntu 桌面的感观。"
 
 #: chapter6/Customising_the_Desktop_and_Applications.xml:1882(para)
 msgid ""
