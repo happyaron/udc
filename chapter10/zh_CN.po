@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-27 23:04+0800\n"
+"PO-Revision-Date: 2009-12-28 18:10+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -205,11 +205,11 @@ msgstr ""
 
 #: chapter10/Partitioning_and_Booting.xml:53(para)
 msgid "So, a partition is a logical chunk of space allocated out of the entire disk. Depending on how a system is configured at installation time, there may be one or more partitions on a disk. In some instances, it is also possible to modify the layout, number and size of partitions, but this is often considered an expert's function."
-msgstr "于是，分区是一个带有从整个磁盘分配的空间的逻辑块。依赖于系统在安装时是如何配置的，在磁盘上可能有一个或多个分区。在某些实例中，也可能可以修改布局、分区数目，但是这通常被认为是专家级的功能。"
+msgstr "于是，分区是一个由从整个磁盘分配的空间组成的逻辑块。依赖于系统在安装时是如何配置的，在磁盘上可能有一个或多个分区。在某些实例中，也可能可以修改布局、分区数目，但是这通常被认为是专家级的功能。"
 
 #: chapter10/Partitioning_and_Booting.xml:59(para)
 msgid "Many Microsoft Windows users will have just one large partition - often known as \"C: drive\", however it is also common for Microsoft Windows users to have multiple partitions which are labelled with successive alphabetic characters (D:, E: and so on)."
-msgstr "很多微软 Windows 用户只有一个大的分区 - 通常被称为“C: 盘”，但是对微软 Windows 用户来说，拥有多个分区带有连续字母(D:,E: 等)卷标的分区也是常见的。"
+msgstr "很多 Microsoft Windows 用户只有一个大的分区 - 通常被称为“C: 盘”，但是对微软 Windows 用户来说，拥有多个分区带有连续字母(D:，E: 等)标志的分区也是常见的。"
 
 #: chapter10/Partitioning_and_Booting.xml:64(para)
 msgid "Similarly, with Ubuntu it's possible to install the system in exactly one partition on the disk, or spread data and applications over multiple partitions."
@@ -229,23 +229,24 @@ msgstr "如果在安装 Ubuntu 是接受了所有的默认值，您将最后获�
 
 #: chapter10/Partitioning_and_Booting.xml:92(para)
 msgid "Alternatively, it is possible to create multiple partitions of differing sizes into which different types of applications, libraries and data can be placed. This is often used in a multi-user or server environment where user data is kept separate from system programmes, log files and configuration files. A significant benefit to this can be seen when there is a problem on the system and log files start to grow. The log files (in one partition) will not consume all available disk space in this scenario because they will be confined to their own (small) partition of the physical disk."
-msgstr "或者，可以创建不同大小的多个分区，不同类型的应用程序、库和数据可以放在其上。"
+msgstr "或者，可以创建不同大小的多个分区，不同类型的应用程序、库和数据可以放在其上。这经常用于多用户或服务器环境，此时用户数据和系统程序、日志文件及配置文件保持分离。这样做的一个显著好处可以在系统出错、日志文件开始增长时看到。这个案例中，日志文件(位于一个分区中)将消耗掉所有可用磁盘空间，因为它们将被限制在物理磁盘中它们自己的(小)分区中。"
 
 #: chapter10/Partitioning_and_Booting.xml:102(para)
 msgid "Which ever partitioning scheme has been chosen, this is not set in stone. It is possible to use a partition editing utility to resize partitions (subject to sufficient free space in each partition), however this is quite an advanced topic, and generally nto done while the system is in use."
-msgstr ""
+msgstr "分区方案选定以后，并不就是固定死了。还是可以使用分区编辑工具调整分区大小的(subject to sufficient free space in each partition)，然而，这是一个相当高级的主题并且通常不能在系统正在使用时处理。"
 
 #: chapter10/Partitioning_and_Booting.xml:110(para)
 msgid "Whilst it is possible to change the disk partitioning layout after the system has been installed, it is important to make backups before making any changes to the partitions."
-msgstr ""
+msgstr "虽然可以在系统安装后更改硬盘分区布局，但是在对分区进行更改之前备份数据仍然非常重要。"
 
 #: chapter10/Partitioning_and_Booting.xml:116(title)
 msgid "About filesystems"
 msgstr "关于文件系统"
 
+# ext4
 #: chapter10/Partitioning_and_Booting.xml:118(para)
 msgid "Partitioning a disk is only the beginning. Once the disk has been divided up, those partitions need to be formatted so that the operating system can place files on the disk in a structured manner. There are many different filesystem types, each with their own advantages. With Microsoft Windows the two main filesystems are FAT (File Allocation Table) and NTFS (New Technology File System). With Ubuntu there are many options including ext2, ext3, reiserfs, xfs and many others. The Ubuntu installer chooses ext3 by default, but of course it is possible to override this."
-msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以以结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于微软 Windows 最主要的来那个中文件系统是 FAT(文件分配表 File Allocation Table)和NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项包括 ext2，ext3，reiserfs，xfs 已经很多其它。Ubuntu 安装程序默认选择 ext3，但是当然也可以更换带哦此项。"
+msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以以结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于 Microsoft Windows 最主要的两种文件系统是 FAT(文件分配表 File Allocation Table)和 NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，reiserfs，xfs 已经很多其它。Ubuntu 安装程序默认选择 ext3，但是当然也可以更换掉此项。"
 
 #: chapter10/Partitioning_and_Booting.xml:130(title)
 #: chapter10/Partitioning_and_Booting.xml:150(title)
@@ -253,8 +254,9 @@ msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区
 #: chapter10/Partitioning_and_Booting.xml:265(title)
 #: chapter10/Partitioning_and_Booting.xml:537(title)
 msgid "Nice to Know:"
-msgstr ""
+msgstr "小技巧"
 
+# ext4
 #: chapter10/Partitioning_and_Booting.xml:132(para)
 msgid "ext3 is a great general purpose journalling filesystem. It handles most tasks well however, xfs is sometimes chosen instead on media-centre systems as it performs better when handling very large files - such as music and video files."
 msgstr "ext3 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs 因为它在除了非常大的文件 - 例如音乐和视频文件时表现更好。"
@@ -265,27 +267,29 @@ msgstr "挂载点"
 
 #: chapter10/Partitioning_and_Booting.xml:141(para)
 msgid "A mount point is a place in the directory hierarchy where a filesystem could be presented. There is no real Microsoft Windows equivalent to this. With Microsoft Windows the partitions C:, D: and so on, are seen as entirely separate entities so the operating system, applications and data is often referred to by a user as being \"on the C: drive\" or \"in a folder on the D: drive\"."
-msgstr "挂载点是文件系统可以显示的文件层次结构的一个位置。在微软 Windows 系统上没有实际对应的。对于微软 Windows，分区 C:、D: 等显示为完全分离的入口，于是操作系统、应用程序和数据经常被用户使用“在 C: 盘上”或“在 D: 盘的一个文件夹中”的方式提起。"
+msgstr "挂载点是文件层次结构中可以出现的文件系统位置。在微软 Windows 系统上没有实际对应的概念。对于微软 Windows，分区 C:、D: 等显示为完全分离的入口，于是操作系统、应用程序和数据经常被用户使用“在 C: 盘上”或“在 D: 盘的一个文件夹中”的方式提起。"
 
 #: chapter10/Partitioning_and_Booting.xml:152(para)
 msgid "\"Mount\" is the term used when referring to a filesystem being made available for access. CD and DVDs are usually automatically mounted when they are inserted. The same goes for USB connected devices such as memory sticks, hard disks and music players."
-msgstr "“挂载(mount)”是用于指使文件系统置为可为系统使用时的术语。光盘经常在插入是自动挂载。对于 USB 接口的设备，例如记忆棒，硬盘和音乐播放器也是同样。"
+msgstr "“挂载(mount)”是一个指设置文件系统可被系统使用时的术语。光盘通常插入时自动挂载。对于 USB 接口的设备，例如记忆棒，硬盘和音乐播放器也同样如此。"
 
 #: chapter10/Partitioning_and_Booting.xml:158(para)
 msgid "On Ubuntu, files and folders reside within a partition as they do with Microsoft Windows. However the partition is not normally referenced directly by the user. The user would typically say that files are \"in my home directory\" (when referring to /home/&lt; username&gt;), or \"in the root directory\" (when referring to / ) without specifying which partition on the disk those directories reside in."
-msgstr "在 Ubuntu 上，文件和文件夹存在于分区中，就像微软 Windows 那样。但是分区通常不直接由用户引用。典型地，用户说文件“在我的 home 目录”(提到 /home/&lt; 用户名&gt; 时)，或者“在根目录”(提到 / 时)而不用指定这些目录在磁盘的哪个分区上。"
+msgstr "在 Ubuntu 上，文件和文件夹存在于分区中，就像微软 Windows 那样。但是分区通常不直接由用户引用。用户一般会说文件“在我的 home 目录”(提到 /home/&lt; 用户名&gt; 时)，或者“在根目录”(提到 / 时)而不指出这些目录在磁盘的哪个分区上。"
 
+# 此处不理解
 #: chapter10/Partitioning_and_Booting.xml:165(para)
 msgid "Under most standard installations of Ubuntu there will be only one partition where all files and folders reside. However if a user plugs in an external USB-connected memory stick or USB hard disk, Ubuntu will mount the partition(s) on that device under mount point(s) within the directory tree. For example a USB attached memory stick or hard disk will usually appear under /media/disk (unless the device has partitions which are labelled, in which case they will appear under /media/&lt;labelname&gt; )"
-msgstr "在最标准的 Ubuntu 安装下将只有一个所有文件和文件夹都放在里边的分区。但是，如果用户插入外置的 USB 接口的记忆棒或 USB 硬盘，Ubuntu 将会挂在那些设备上的分区到目录树中的挂载点下。例如 USB 接口的记忆棒或应哦按通常出现在 /media/disk 下(除非这些设备有设置了卷标的分区，此时他们将出现在 /media/&lt;卷标&gt; 下)。"
+msgstr "在最标准的 Ubuntu 安装下将只有一个分区，所有文件和文件夹都放在这里边。然而，如果用户插入外置的 USB 接口的记忆棒或 USB 硬盘，Ubuntu 将会挂载那些设备上的分区到目录树中的挂载点下。例如 USB 接口的记忆棒或硬盘通常出现在 /media/disk 下(除非这些设备有设置了卷标的分区，此时他们将出现在 /media/&lt;卷标&gt; 下)。"
 
 #: chapter10/Partitioning_and_Booting.xml:175(title)
 msgid "Further considerations"
 msgstr ""
 
+# 没看懂呢
 #: chapter10/Partitioning_and_Booting.xml:177(para)
 msgid "As previously mentioned, resizing partitions is not a trivial task. Under most circumstances it requires that all filesystems involved are unmounted, this means they must not be in use. Typically then to resize partitions the system should be booted to an unused filesystem - such as a bootable Live CD. Considerable thought should therefor be given before partitioning a disk with regards to the number and sizes of partitions to be created to prevent later unnecessary resizing."
-msgstr ""
+msgstr "正如前边提到的，调整分区大小不是一个小任务。大多情况下，它要求卸载所有相关的文件系统，这意味着不能正在使用它们。一般地，要调整分区大小，系统要引导到一个未使用的文件系统 - 例如可引导的 Live CD。Considerable thought should therefor be given before partitioning a disk with regards to the number and sizes of partitions to be created to prevent later unnecessary resizing."
 
 #: chapter10/Partitioning_and_Booting.xml:187(title)
 #: chapter10/Partitioning_and_Booting.xml:282(title)
@@ -295,35 +299,37 @@ msgstr "小心："
 
 #: chapter10/Partitioning_and_Booting.xml:189(para)
 msgid "You may run out of hard drive space in your home partition due to the sub-division of the drive into fixed-size partitions. This may occur even if the other partitions have plenty of usable space. Good and logical partitioning requires you to predict how much space each partition needs."
-msgstr "您可能会用尽您 home 分区的磁盘空间因为将磁盘分割为了固定大小的分区。即使在其它分区有大量可用空间时也可能发生。好且符合逻辑的分区操作要求您估计每个分区需要的磁盘空间。"
+msgstr "有时可能会用尽 home 分区的磁盘空间，因为将磁盘分割为了固定大小的分区。这即使在其它分区有大量可用空间时也可能发生。优秀且符合逻辑的分区方案要求您估计每个分区需要的磁盘空间。"
 
 #: chapter10/Partitioning_and_Booting.xml:196(para)
 msgid "For new users, home users and other single-user set-ups, a single root (/) partition with a swap partition would be the easiest and the most convenient to create and use. However, for multi-user systems or computers with lots of disk space, it is best to have the /home, /tmp, /usr and /var directories as individual partitions separate from the root (/) partition."
-msgstr "对于新用户、家庭用户和其它单用户设置，一个单独的根(/)分区外加一个交换分区可能是最简单最方便的创建和使用方法。但是，对于多用户系统或者有大量磁盘空间的计算机，最好将 /home，/tmp，和/var 目录作为和根(/)分区分离的单独分区。"
+msgstr "对于新用户、家庭用户和其它单用户设置，一个单独的根(/)分区外加一个交换分区可能是最简单最方便的创建和使用方案。然而，对于多用户系统或者有大量磁盘空间的计算机，最好将 /home，/tmp，和/var 目录作为与根(/)分区分离的单独分区。"
 
 #: chapter10/Partitioning_and_Booting.xml:206(para)
 msgid "root: Also called the slash directory, it is the highest directory of the directory tree. When creating the root partition, you need to ensure that the root should contain the /etc, /bin, /sbin, /lib and /dev directories, otherwise you will not be able to boot-up the system. You also need to ensure that the root partition is allocated at least 150-250 MB of disk space."
-msgstr "根：也叫做斜线(/)目录，它是文件系统树的最高层目录。当创建根分区时，您需要确认根包含 /etc， /bin，/sbin，/lib 和 /dev 目录，否则您将不能启动系统。您也需要确保根分区至少分配了 150-250MB 的磁盘空间。"
+msgstr "根(root)：也叫做斜线(/)目录，它是目录树的最高层目录。创建根分区时，需要确认根应该包含 /etc， /bin，/sbin，/lib 和 /dev 目录，否则系统将不能引导。也需要确保根分区至少分配了 150-250MB 的磁盘空间。"
 
 #: chapter10/Partitioning_and_Booting.xml:215(para)
 msgid "/home: This directory contains all user-specific files and data. On a multi-user system, every user will store personal data in a sub-directory of this directory. The size of this directory would depend on the number of users using the system and the files they store in this directory. Ideally, you should plan the disk space for this partition based on your planned usage. In general, about 100-MB disk space can be allocated for each user. However, you may need to reserve a lot more space if you are planning to save a lot of multi-media files in your home directory."
-msgstr "/home：此目录包含所有用户特定的文件和数据。在多用户系统上，每个用户都存放个人数据到此目录的一个子目录中。此目录的大小依赖于系统的用户数以及他们在目录中存放的文件。理想地，您应该根据计划使用量计划好此分区的磁盘空间。通常，可以为每位用户分配大约 100-MB 磁盘空间。但是，如果您计划在您的 /home 目录存放很多多媒体文件，您可能需要预备多很多的空间。"
+msgstr "/home：此目录包含所有用户特定的文件和数据。在多用户系统上，每个用户都将个人数据存放到到此目录的一个子目录中。此目录的大小依赖于系统的用户数以及他们在目录中存放的文件。理想地，您应该根据计划使用量计划好此分区的磁盘空间。通常，可以为每位用户分配大约 100-MB 磁盘空间。然而，如果计划在的 /home 目录存放很多多媒体文件，可能需要预备更大量的空间。"
 
 #: chapter10/Partitioning_and_Booting.xml:228(para)
 msgid "It is good practice to have /home on a separate partition because it allows for a smoother transition from one distribution to another."
-msgstr "将 /home 放到单独的分区是个好做法，因为允许从一个发行版平滑地过渡到另外一个。"
+msgstr "将 /home 放到单独的分区是个好做法，因为这使从一个发行版平滑地过渡到另外一个成为可能。"
 
+# 安装所有，太夸张了
 #: chapter10/Partitioning_and_Booting.xml:233(para)
 msgid "/var: This directory contains variable data, such as news chapters, e-mails, Web sites, databases and the packaging system cache. The size of this directory also depends on system usage. Most probably, the size of this directory would be dictated by your usage of the Ubuntu package management utilities. If you plan to install all the packages that Ubuntu offers, you need to allocate 2 to 3 GB of space for the /var directory. However, if you want to save hard disk space and do not plan any major software updates, you can get by with as little as 30- or 40-MB disk space for the /var directory."
-msgstr "/var：此目录包含可变数据，例如新闻文章、电子邮件、网站、数据库和包管理系统缓存。此目录的大小也依赖于系统使用。最可能的，此目录的大小将由您使用 Ubuntu 包管理工具的情况决定。如果您打算安装Ubuntu 提供的所有软件包，你需要为 /var 目录分配 2 到 3 GB 的磁盘空间。但是如果您想要节省硬盘空间并且不打算任何大的软件更新，您可以 /var 目录分配最少至 30- 或 40- 的磁盘空间。"
+msgstr "/var：此目录包含可变数据，例如新闻文章、电子邮件、网站、数据库和包管理系统缓存。此目录的大小也依赖于系统使用。最可能的，此目录的大小将由使用 Ubuntu 包管理工具的情况决定。如果打算安装 Ubuntu 提供的所有软件包，你需要为 /var 目录分配 2 到 3 GB 的磁盘空间。但是如果想要节省硬盘空间并且不打算任何大的软件更新，您可以 /var 目录分配最少至 30- 或 40- MB 的磁盘空间。"
 
+# 怎么最后只有半句话？
 #: chapter10/Partitioning_and_Booting.xml:246(para)
 msgid "/tmp: This directory contains temporary data created by programmes. Some applications, including archive manipulators, CD/DVD authoring tools and multi-media software also use this directory to temporarily store image files. You need to plan space allocation for this directory based on your usage of these applications. for this directory."
-msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括包处理程序、光盘创作工具和多媒体软件也使用此目录来临时纯放图像文件。您需要根据您使用这些程序的情况计划好此目录的磁盘分配。对于此目录。"
+msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括包处理程序、光盘创作工具和多媒体软件也使用此目录来临时纯放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。对于此目录。"
 
 #: chapter10/Partitioning_and_Booting.xml:255(para)
 msgid "/usr: This directory contains all user programmes (binaries), their documentation and supporting libraries. This directory tends to use the maximum space on the hard disk. Therefore, you should provide at least 500-MB disk space for this directory. But, you need to increase this space depending on the number and types of software packages you plan to install. Based on your planned usage and the available disk space, you may allocate 1.5 to 6 GB of disk space for this directory."
-msgstr "/usr：此目录包含所有的用户程序(二进制)，它们的文档和支持库。此目录趋向使用硬盘上的最大空间。因此，您应该为此分区提供至少 500-MB 磁盘空间。但是，您需要根据打算安装的软件包的数量和类型增大此空间。根据您计划的使用和可用的磁盘空间，您可能需要为此目录分配 1.5 到 6 GB 的磁盘空间。"
+msgstr "/usr：此目录包含所有的用户程序(二进制)，它们的文档和支持库。此目录趋向使用硬盘上的最大空间。因此，应该为此分区提供至少 500-MB 磁盘空间。但是，需要根据打算安装的软件包的数量和类型增大此空间。根据计划的使用量和可用的磁盘空间，可能需要为此目录分配 1.5 到 6 GB 的磁盘空间。"
 
 #: chapter10/Partitioning_and_Booting.xml:267(para)
 msgid "The /usr partition is sometimes referred to as User System Resources and not user as was originally intended."
@@ -331,7 +337,7 @@ msgstr ""
 
 #: chapter10/Partitioning_and_Booting.xml:203(para)
 msgid "Before partitioning your hard drive, you should consider the following: <placeholder-1/><placeholder-2/><placeholder-3/><placeholder-4/>"
-msgstr "在对硬盘进行分区之前，您应该考虑如下事项：<placeholder-1/><placeholder-2/><placeholder-3/><placeholder-4/>"
+msgstr "在对硬盘进行分区之前，应该考虑如下事项：<placeholder-1/><placeholder-2/><placeholder-3/><placeholder-4/>"
 
 #: chapter10/Partitioning_and_Booting.xml:273(title)
 msgid "Creating a Partition"
@@ -343,15 +349,15 @@ msgstr "正如前边所提到的，多分区非常有用，尤其是当一个分
 
 #: chapter10/Partitioning_and_Booting.xml:284(para)
 msgid "The hard disk drive that you are formatting should not contain any data. If you have already formatted the drive and it contains data, skip the partitioning step and move to the next step - mounting."
-msgstr "您要格式化的磁盘不应该包含任何数据，如果您已经格式化过此驱动器，并且它包含数据，跳过分区这一步，并且移动到下一步 - 挂在。"
+msgstr "您要格式化的磁盘不应该包含任何数据，如果您已经格式化过此驱动器，并且它包含数据，跳过分区这一步，并且移动到下一步 - 挂载。"
 
 #: chapter10/Partitioning_and_Booting.xml:293(para)
 msgid "Partition Editor (GParted): GParted is useful for creating space for new operating systems, re-organising disk usage, copying data residing on hard disks and mirroring one partition with another (disk imaging)."
-msgstr "分区编辑器(GParted)：GParted 可用于为新操作系统创建磁盘空间、重新组织磁盘使用、复制硬盘上的数据和使用一个分区镜像另一个(磁盘映像)。"
+msgstr "分区编辑器(GParted)：GParted 可用于为新操作系统创建磁盘空间、重新组织磁盘使用、复制硬盘上的数据以及使用一个分区镜像另一个分区(磁盘映像)。"
 
 #: chapter10/Partitioning_and_Booting.xml:300(para)
 msgid "Command Line: The command line is faster and more powerful than GParted. When navigating through the file system, you can use the command line to jump from one directory to another in a split second. Use the command-line interface if you are comfortable using the Terminal."
-msgstr "命令行：命令行比 GParted 更快更强。当在文件系统中导航时，您可以使用命令行在不到一秒的时间内从一个目录跳转到另外一个。如果您对使用终端感到舒服，请使用命令行界面。"
+msgstr "命令行：命令行比 GParted 更快更强大。当在文件系统中导航时，可以使用命令行在不到一秒的时间内从一个目录跳转到另外一个。如果您对使用终端感到舒服，请使用命令行界面。"
 
 #: chapter10/Partitioning_and_Booting.xml:289(para)
 msgid "If the hard disk drive that you want to format is blank and unformatted, you can use either of the following tools to partition it: <placeholder-1/>"
@@ -372,7 +378,7 @@ msgstr "要使用新立得软件包管理器安装 GParted："
 
 #: chapter10/Partitioning_and_Booting.xml:320(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上, 指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">新立得包管理器</emphasis>。<emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口将打开。"
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上, 指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">新立得包管理器</emphasis>。将打开 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口。"
 
 #: chapter10/Partitioning_and_Booting.xml:327(title)
 msgid "Synaptic Package Manager Location"
@@ -380,7 +386,7 @@ msgstr "新立得包管理器位置"
 
 #: chapter10/Partitioning_and_Booting.xml:338(para)
 msgid "When the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens for the first time, it displays a list of all the software packages available in the Ubuntu software repositories. The left pane lists the various software categories. You can select a specific category to view the available software packages listed in that category. Alternatively, you can use the <emphasis role=\"strong\">Search</emphasis> functionality provided in the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> to locate specific software in the list."
-msgstr "当 <emphasis role=\"strong\">Synaptic Package Manager</emphasis> 窗口第一次打开时，它显示一个在 Ubuntu 软件仓库中所有可用软件包的的列表。左嵌板列出多个软件类别。您可以选择特定的分类以查看在这个分类中列出的可用的软件包。或者，您可以使用 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中提供的 <emphasis role=\"strong\">搜索</emphasis> 功能来定位列表中特定软件。"
+msgstr "当 <emphasis role=\"strong\">Synaptic Package Manager</emphasis> 窗口第一次打开时，它显示一个在 Ubuntu 软件仓库中所有可用软件包的的列表。左嵌板列出多个软件类别。可以选择特定的分类以查看在这个分类中列出的可用的软件包。或者，您可以使用 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中提供的 <emphasis role=\"strong\">搜索</emphasis> 功能来定位列表中特定软件。"
 
 #: chapter10/Partitioning_and_Booting.xml:348(para)
 msgid "Click the <emphasis role=\"strong\">Search</emphasis> button to search the package you want to install. The <emphasis role=\"strong\">Find</emphasis> dialogue box appears."
@@ -389,12 +395,12 @@ msgstr "点击 <emphasis role=\"strong\">搜索</emphasis> 按钮以查找您想
 #: chapter10/Partitioning_and_Booting.xml:351(para)
 #: chapter10/Partitioning_and_Booting.xml:400(para)
 msgid "In the <emphasis role=\"strong\">Search</emphasis> field of the <emphasis role=\"strong\">Find</emphasis> dialogue box, type the name of the package, <emphasis role=\"strong\">Partition Editor</emphasis>, and click the <emphasis role=\"strong\">Search</emphasis> button. The package, gparted, is now displayed in the right pane of the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window."
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">查找</emphasis> 对话框的 <emphasis role=\"strong\">搜索</emphasis> 域中，输入包的名字，<emphasis role=\"strong\">Partition Editor</emphasis>，然后点击 <emphasis role=\"strong\">搜索</emphasis> 按钮。此包 - gparted，就将显示在 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口的右嵌板中。"
 
 #: chapter10/Partitioning_and_Booting.xml:359(para)
 #: chapter10/Partitioning_and_Booting.xml:420(para)
 msgid "Right-click the package name to select an action that you want to perform on it. Notice that various options are available to perform a number of actions on the selected package. If the selected package is not installed currently, you can mark it for installation. If the selected package is already marked for installation, you can unmark it to clear the selection. Similarly, if the package is already installed, you may select <emphasis role=\"strong\">Upgrade</emphasis> to upgrade the package and <emphasis role=\"strong\">Mark for Removal</emphasis> or <emphasis role=\"strong\">Mark for Complete Removal</emphasis> to delete the package from your computer."
-msgstr "右键点击包名选择一个相对它执行的动作。注意，对选中的包有多个可用的选项以执行一定数量的操作。如果选中的包现在未安装，您可以标记它以便安装。如果选中的包已经标记以备安装，您可以取消标记它以清除选择。类似地，如果包已经安装，您可以选择 <emphasis role=\"strong\">升级</emphasis> 以升级此包和 <emphasis role=\"strong\">标记以便删除</emphasis> 或 <emphasis role=\"strong\">标记以便彻底删除</emphasis> 以从计算机删除此包。"
+msgstr "右键点击包名选择一个要对其执行的动作。注意，对选中的包有多个可用的选项以执行一些的操作。如果选中的包现在未安装，可以标记它以便安装。如果选中的包已经标记用以安装，可以取消标记它以清除选择。类似地，如果包已经安装，您可以选择 <emphasis role=\"strong\">升级</emphasis> 以升级此包，和 <emphasis role=\"strong\">标记以便删除</emphasis> 或 <emphasis role=\"strong\">标记以便彻底删除</emphasis> 以从计算机删除此包。"
 
 #: chapter10/Partitioning_and_Booting.xml:368(para)
 #: chapter10/Partitioning_and_Booting.xml:429(para)
@@ -404,22 +410,23 @@ msgstr "要安装包，选择 <emphasis role=\"strong\">标记以便安装</emph
 #: chapter10/Partitioning_and_Booting.xml:370(para)
 #: chapter10/Partitioning_and_Booting.xml:443(para)
 msgid "The gparted package is now selected for installation. To continue with the installation, click <emphasis role=\"strong\">Apply</emphasis>. This displays the <emphasis role=\"strong\">Summary</emphasis> dialogue box."
-msgstr "gparted 包现在已被选择用以安装。要继续这个安装，点击 <emphasis role=\"strong\">提交</emphasis>. 显示 <emphasis role=\"strong\">摘要</emphasis> 对话框。"
+msgstr "gparted 包现在已被选择用以安装。要继续这个安装，点击 <emphasis role=\"strong\">应用</emphasis>。显示 <emphasis role=\"strong\">摘要</emphasis> 对话框。"
 
 #: chapter10/Partitioning_and_Booting.xml:373(para)
 #: chapter10/Partitioning_and_Booting.xml:458(para)
 msgid "The <emphasis role=\"strong\">Summary</emphasis> dialogue box prompts you to perform a final check before implementing the marked changes. Click the <emphasis role=\"strong\">Apply</emphasis> button to apply the marked changes. The <emphasis role=\"strong\">Downloading package files</emphasis> window opens."
-msgstr ""
+msgstr "<emphasis role=\"strong\">摘要</emphasis> 对话框提示在进行标记的更改之前执行最后的检查。点击 <emphasis role=\"strong\">应用</emphasis> 按钮提交标记的操作。将打开 <emphasis role=\"strong\">正在下载包文件</emphasis> 窗口。"
 
+# 怀疑原文有误
 #: chapter10/Partitioning_and_Booting.xml:379(para)
 #: chapter10/Partitioning_and_Booting.xml:476(para)
 msgid "Wait for all the required files to download. After all the required files in the package are downloaded, the <emphasis role=\"strong\">Changes applied</emphasis> dialogue box appears."
-msgstr "等待所有需要的文件下载完成。所有需要的文件下载完成后，显示<emphasis role=\"strong\">提交更改</emphasis> 对话框。"
+msgstr "等待所有需要的文件下载完成。所有需要的文件下载完成后，显示<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
 
 #: chapter10/Partitioning_and_Booting.xml:383(para)
 #: chapter10/Partitioning_and_Booting.xml:492(para)
 msgid "The <emphasis role=\"strong\">Changes applied</emphasis> dialogue box notifies you that all the requested changes have been applied. Click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr "<emphasis role=\"strong\">更改已提交</emphasis> 对话框通知您所有要求的更改都已提交。点击  <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
+msgstr "<emphasis role=\"strong\">更改已应用</emphasis> 对话框通知要求的所有更改都已提交。点击  <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 #: chapter10/Partitioning_and_Booting.xml:389(title)
 msgid "Synaptic Package Manager"
@@ -435,19 +442,19 @@ msgstr "标记一个包以便安装"
 
 #: chapter10/Partitioning_and_Booting.xml:447(title)
 msgid "Summary Dialog Box"
-msgstr ""
+msgstr "摘要对话框"
 
 #: chapter10/Partitioning_and_Booting.xml:465(title)
 msgid "Applying Changes Box"
-msgstr "提交更改框"
+msgstr "正在应用更改对话框"
 
 #: chapter10/Partitioning_and_Booting.xml:481(title)
 msgid "Changes Applied Box"
-msgstr ""
+msgstr "更改已应用对话框"
 
 #: chapter10/Partitioning_and_Booting.xml:498(title)
 msgid "Synaptic Package Manager after Installation"
-msgstr ""
+msgstr "安装完成后的新立得软件包管理器"
 
 #: chapter10/Partitioning_and_Booting.xml:509(para)
 msgid "The partition editor is installed on your computer. You can now partition the hard disk drive."
@@ -467,7 +474,7 @@ msgstr "通过使用 GParted 硬盘驱动器进行分区："
 
 #: chapter10/Partitioning_and_Booting.xml:532(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Partition Editor</emphasis>. The <emphasis role=\"strong\">GParted</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">System</emphasis> 菜单上，指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">分区编辑器</emphasis>。<emphasis role=\"strong\">GParted</emphasis> 窗口将打开。"
+msgstr "在 <emphasis role=\"strong\">System</emphasis> 菜单上，指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">分区编辑器</emphasis>。将打开 <emphasis role=\"strong\">GParted</emphasis> 窗口。"
 
 #: chapter10/Partitioning_and_Booting.xml:539(para)
 msgid "GParted is also available from the Live CD."
@@ -479,20 +486,22 @@ msgstr "GParted 窗口"
 
 #: chapter10/Partitioning_and_Booting.xml:554(para)
 msgid "In the top-right corner of the <emphasis role=\"strong\">GParted</emphasis> window is the drive drop-down box. You can use this box to select the hard drive that you need to partition by specifying the logical name you noted earlier. The Gparted window refreshes and shows you a representation of the selected drive."
-msgstr "在 <emphasis role=\"strong\">GParted</emphasis> 窗口的右上角是驱动器下拉框。您可以使用此框通过指定先前注意到的逻辑名选择需要分区的硬盘驱动器。GParted 窗口刷新并显示选中驱动器的代表。"
+msgstr "在 <emphasis role=\"strong\">GParted</emphasis> 窗口的右上角是驱动器下拉框。您可以使用此框通过指定先前记下的逻辑名选择需要分区的硬盘驱动器。GParted 窗口刷新并显示选中驱动器的代表。"
 
+# 这句翻译的够恶心
 #: chapter10/Partitioning_and_Booting.xml:560(para)
 msgid "If the existing partitions on the drive have not yet been used, a white bar would run across the window. However, if the existing partitions contain some data, the data will be represented by a pale yellow area."
 msgstr "如果驱动器上存在的分区还未使用，一个白条将穿越窗口，如果现有的分区包含一些数据，这些数据将使用淡黄色区域表示。"
 
+# 到底该是啥？
 #: chapter10/Partitioning_and_Booting.xml:566(title)
 #: chapter10/Partitioning_and_Booting.xml:1008(title)
 msgid "Instructor Notes:"
-msgstr ""
+msgstr "教师注意："
 
 #: chapter10/Partitioning_and_Booting.xml:568(para)
 msgid "Explain how to read the specifications of the current partitions and file systems."
-msgstr "解释怎样读取当前分区和文件系统的规格。"
+msgstr "解释怎样读取当前分区和文件系统的参数。"
 
 #: chapter10/Partitioning_and_Booting.xml:572(para)
 #: chapter10/Partitioning_and_Booting.xml:606(para)
@@ -504,9 +513,10 @@ msgstr "您也可以调整现有分区的大小或者在未分配空间上创建
 msgid "To create a new partition in the unallocated drive space, right-click the area and select <emphasis role=\"strong\">New</emphasis> on the short-cut menu. The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box appears."
 msgstr "要在一个未分配的磁盘空间创建一个新分区，右键点击此区域并在快捷菜单中选择 <emphasis role=\"strong\">新建</emphasis>。显示 <emphasis role=\"strong\">创建新分区</emphasis> 对话框。"
 
+# ext3 默认
 #: chapter10/Partitioning_and_Booting.xml:583(para)
 msgid "The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box enables you to select specifications for the new partition. Apart from defining the size of the new partition, you can also select the partition type, whether primary or logical, for the new partition. In addition, you can even define the file system to be used on the new partition. By default, Ubuntu uses the ext3 partitions. However, if you want the new drive to be readable by both Microsoft Windows and Ubuntu without installing anything extra, you can format it as Fat 32."
-msgstr "<emphasis role=\"strong\">Create new Partition</emphasis> 对话框使您可以为新分区选择规格。除了定义新分区的大小，您也可以选择分区类型，可以是主分区或逻辑分区。另外，您也甚至可以定义在新分区上使用的文件系统。默认的，Ubuntu 使用 ext3 文件系统。但是，如果您希望新分区可以为微软 Windows 和不安装任何额外部件的 Ubuntu 可读，您可以格式化它为 Fat 32。"
+msgstr "<emphasis role=\"strong\">创建新分区</emphasis> 对话框使您可以为新分区选择规格。除了定义新分区的大小，您也可以选择分区类型，可以是主分区或逻辑分区。另外，您也甚至可以定义在新分区上使用的文件系统。默认的，Ubuntu 使用 ext3 文件系统。但是，如果您希望新分区可以为微软 Windows 和不安装任何额外部件的 Ubuntu 可读，您可以格式化它为 Fat 32。"
 
 #: chapter10/Partitioning_and_Booting.xml:595(title)
 msgid "Creating a New Partition"
@@ -514,19 +524,21 @@ msgstr "创建新分区"
 
 #: chapter10/Partitioning_and_Booting.xml:618(title)
 msgid "Create New Partition Box"
-msgstr "创建新分区框"
+msgstr "创建新分区对话框"
 
+# ext3 again
 #: chapter10/Partitioning_and_Booting.xml:629(para)
 msgid "The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box allows you to select specifications for the new partition. Apart from defining the size of the new partition, you can also select the partition type, whether primary or logical, for the new partition. In addition, you can even define the file system to be used on the new partition. By default, Ubuntu uses the ext3 partitions. However, if you want the new drive to be readable by both Microsoft Windows and Ubuntu without installing anything extra, you can format it as Fat 32."
-msgstr "<emphasis role=\"strong\">Create new Partition</emphasis> 对话框使您可以为新分区选择规格。除了定义新分区的大小外，您也可以为新分区选择分区类型，主分区或逻辑分区。另外，您甚至可以定义要在新分区上使用的文件系统。默认上，Ubuntu 使用 ext3 分区。但是，如果您希望新驱动器可以同时为微软 Windows 和不安装任何额外组建的 Ubuntu 可读，您可以格式化它为 Fat 32。"
+msgstr "<emphasis role=\"strong\">创建新分区</emphasis> 对话框中可以为新分区选择规格。除了定义新分区的大小外，也可以为新分区选择分区类型，主分区还是逻辑分区。另外，甚至可以定义要在新分区上使用的文件系统。默认上，Ubuntu 使用 ext3 分区。但是，如果您希望新驱动器可以同时为微软 Windows 和不安装任何额外组建的 Ubuntu 可读，您可以格式化它为 Fat 32。"
 
+# 原文有误
 #: chapter10/Partitioning_and_Booting.xml:642(para)
 msgid "If you are creating a partition on a new hard drive, select Primary Partition. An SCSI or S-ATA hard disk can have a maximum of 4 primary partitions and 11 logical partitions while an integrated development environment (IDE) hard drive can have up to 63 partitions overall. The primary partition used to house the logical partitions is called an extended partition. Unlike primary partitions, logical partitions must be contiguous: the blocks in the partition are following each other without any gap."
-msgstr "如果您正在硬盘驱动器上创建一个新分区，选择主分区。一个 SCSI 或 S-ATA 硬盘驱动器可以最多有 4 个主分区和 11 个逻辑分区而集成设备电路(IDE Integrated Device Electronics)硬盘驱动器可以最多总共拥有 63 个分区。用于放置逻辑分区的主分区称为扩展分区。不想主分区，逻辑分区必须是临近的：分区中的块没有缺口地一个跟一个。"
+msgstr "如果正在新硬盘驱动器上创建分区，选择主分区。一个 SCSI 或 S-ATA 硬盘驱动器可以最多有 4 个主分区和 11 个逻辑分区而集成设备电路(Integrated Device Electronics IDE)硬盘驱动器可以最多总共拥有 63 个分区。用于放置逻辑分区的主分区称为扩展分区。不像主分区，逻辑分区必须是相邻的：分区中的块没有缺口地一个跟一个相连。"
 
 #: chapter10/Partitioning_and_Booting.xml:653(title)
 msgid "Confirmation Box"
-msgstr "确认框"
+msgstr "确认对话框"
 
 #: chapter10/Partitioning_and_Booting.xml:664(para)
 msgid "In the <emphasis role=\"strong\">New Size (MiB)</emphasis> field, specify the size of the partition by using the up or down arrow key. You can also define the size by dragging the black bold arrows on the top white bar."
@@ -540,18 +552,22 @@ msgstr "从 <emphasis role=\"strong\">创建为</emphasis> 下拉列表中选择
 msgid "Next, specify the file system by selecting from the <emphasis role=\"strong\">Filesystem</emphasis> drop-down list."
 msgstr "下一步，通过从 <emphasis role=\"strong\">文件系统</emphasis> 下拉列表中选择来指定文件系统。"
 
+# 又见可恶的白条
 #: chapter10/Partitioning_and_Booting.xml:680(para)
 msgid "Click the <emphasis role=\"strong\">Add</emphasis> button to complete the partition. The white bar updates to show a new partition on the disk."
 msgstr "点击 <emphasis role=\"strong\">添加</emphasis> 添加按钮以按成此分区。白条更新以显示磁盘上的一个新分区。"
 
+# 此处的按钮 很可能有误
 #: chapter10/Partitioning_and_Booting.xml:686(para)
 msgid "You can create multiple partitions at this stage by following the above-mentioned procedure and then clicking <emphasis role=\"strong\">Apply</emphasis> to add them to the hard drive. The <emphasis role=\"strong\">Apply operations to hard disk</emphasis> dialogue box appears."
-msgstr ""
+msgstr "可以通过上述步骤在此步中创建多个分区，并点击 <emphasis role=\"strong\">提交</emphasis> 以添加到硬盘。显示 <emphasis role=\"strong\">向硬盘提交操作</emphasis> 对话框。"
 
+# 此处也有误
 #: chapter10/Partitioning_and_Booting.xml:692(title)
 msgid "Applying Pending Operations Box"
 msgstr "提交等待的操作框"
 
+# 有误
 #: chapter10/Partitioning_and_Booting.xml:703(para)
 msgid "The <emphasis role=\"strong\">Apply operations to hard disk</emphasis> dialogue box recommends that you back up data before performing the changes and seeks your final confirmation before applying the changes to the hard disk. Click the <emphasis role=\"strong\">Apply</emphasis> button to partition and format the hard disk according to your specifications."
 msgstr "<emphasis role=\"strong\">提交更改到硬盘</emphasis> 对话框推荐您在执行此更改之前备份数据并且在提交更改到硬盘时进行最后的确认。点击 <emphasis role=\"strong\">提交</emphasis> 按钮以按您指定的对硬盘进行分区和格式化。"
@@ -562,7 +578,7 @@ msgstr ""
 
 #: chapter10/Partitioning_and_Booting.xml:721(para)
 msgid "The system starts applying the changes to the hard disk. The duration of the operation will depend on the size of the new partition. You can click the <emphasis role=\"strong\">Details</emphasis> button to view more information about where and how changes are being made, whilst the operation is running."
-msgstr "系统开始提交更改到硬盘驱动器。操作的时间依赖于新分区的大小。在操作进行时，您可以点击 <emphasis role=\"strong\">细节</emphasis> 按钮来查看更多关于何处怎样更改的信息。"
+msgstr "系统开始提交更改到硬盘驱动器。操作的时间依赖于新分区的大小。在操作进行时，可以点击 <emphasis role=\"strong\">细节</emphasis> 按钮来查看更多关于何处怎样更改的信息。"
 
 #: chapter10/Partitioning_and_Booting.xml:728(title)
 msgid "Deleting a Partition"
@@ -570,7 +586,7 @@ msgstr "删除分区"
 
 #: chapter10/Partitioning_and_Booting.xml:739(para)
 msgid "Once you receive a message that all the specified operations have been successfully completed, you can safely close the window by clicking the <emphasis role=\"strong\">Close</emphasis> button. However, if something goes wrong and the process does not complete successfully, you can save the process output for future reference by clicking the <emphasis role=\"strong\">Save Details</emphasis> button."
-msgstr "一旦您接收到一条信息说所有的操作已经成功完成，您可以通过点击 <emphasis role=\"strong\">关闭</emphasis> 按钮安全的关闭窗口。但是，如果出了些错误并且此操作没有安全成功地完成，您可以通过点击 <emphasis role=\"strong\">保存细节</emphasis> 按钮为未来参考保存此处理的输出。"
+msgstr "您接收到一条说所有的操作已经成功完成的信息后，可以通过点击 <emphasis role=\"strong\">关闭</emphasis> 按钮安全的关闭窗口。但是，如果出了些错误并且此操作没有安全成功地完成，可以通过点击 <emphasis role=\"strong\">保存细节</emphasis> 按钮保存此处理的输出以备将来参考。"
 
 #: chapter10/Partitioning_and_Booting.xml:749(para)
 msgid "The newly created partition is now visible in the <emphasis role=\"strong\">GParted</emphasis> window. You will also notice that your system automounts the newly created partition."
@@ -578,15 +594,16 @@ msgstr "新创建的分区现在可以在 <emphasis role=\"strong\">GParted</emp
 
 #: chapter10/Partitioning_and_Booting.xml:752(para)
 msgid "Mounting refers to the process of attaching the newly created partition or drive to an existing directory to make it accessible. The directory where the new partition is attached is called the mount point. After the partition is mounted, you can access the files on that partition by accessing the mount point for the new partition. Early Linux distributions did not allow the auto-mounting of new partitions or drives. However, from Ubuntu 8.04 LTS, you can easily access the new partitions by auto-mounting the partitions. When you create a new partition, the new partition opens as a separate window and the partition appears as a disk icon on the desktop."
-msgstr ""
+msgstr "挂载是指连接新建的分区或驱动器到现有目录，使其可用的操作。新分区连接到的目录称为挂载点。分区挂载后，可以通过访问新分区的挂载点访问此分区上的文件。早期的 Linux 发行版不允许自动挂载新分区或磁盘。然而从 Ubuntu 8.04 LTS 开始，可以容易地通过自动挂载分区访问新分区。当创建一个新分区后，新分区作为一个另外的窗口打开并且此分区作为桌面上的一个图标显示。"
 
 #: chapter10/Partitioning_and_Booting.xml:765(title)
 msgid "Removable Drives and Media Preferences Dialogue Box"
 msgstr "可移动驱动器和媒体首选项对话框"
 
+# 此处好像是 卸载？而不是 卸载 卷
 #: chapter10/Partitioning_and_Booting.xml:776(para)
 msgid "When you no longer want to access the new partitions, you can unmount them by right-clicking the <emphasis role=\"strong\">disk</emphasis> icon on the desktop and selecting the <emphasis role=\"strong\">Unmount Volume</emphasis> option from the short-cut menu."
-msgstr "当您不再想访问此新分区，您可以通过在 <emphasis role=\"strong\">磁盘</emphasis> 图标上点击右键并且从快捷菜单中选择 <emphasis role=\"strong\">卸载卷</emphasis> 选项卸载它们。"
+msgstr "当不再想访问此新分区，可以通过在桌面上 <emphasis role=\"strong\">磁盘</emphasis> 图标上点击右键并且从快捷菜单中选择 <emphasis role=\"strong\">卸载卷</emphasis> 选项卸载它们。"
 
 #: chapter10/Partitioning_and_Booting.xml:782(title)
 msgid "RC.Local File"
@@ -598,11 +615,11 @@ msgstr "引导选项"
 
 #: chapter10/Partitioning_and_Booting.xml:798(para)
 msgid "Booting up is a process through which the operating system is loaded into the computer's main memory or random access memory (RAM). The boot-up process starts when you turn on your computer. During this process, the BIOS takes control of your computer and decides where to look for software on the computer and in which order.Your computer's BIOS settings determine whether your computer will first check the hard disk or a floppy disc, CD, DVD or flash memory to start the booting-up process. If you have multiple operating systems installed on your computer, the BIOS configuration determines which operating system will be loaded first at boot-up."
-msgstr "引导是将操作系统加载到计算机的主存储器或随机访问存储器(RAM)的处理过程。引导过程在您打开计算机的电源时开始。在这个过程中，BIOS 获取计算机的控制权并且决定何处寻找计算机上的软件以及以何种顺序。计算机的设置决定先计算机先检查硬盘还是软盘、光盘或闪存盘以启动此引导过程。如果有多个操作系统安装在您的计算机上，BIOS 配置决定引导时先加载哪个操作系统。"
+msgstr "引导是将操作系统加载到计算机的主存储器或随机访问存储器(RAM)的处理过程。引导过程在打开计算机的电源时开始。在这个过程中，BIOS 获取计算机的控制权并且决定何处寻找计算机上的软件以及以何种顺序。计算机的设置决定先计算机先检查硬盘还是软盘、光盘或闪存盘以启动此引导过程。如果有多个操作系统安装在您的计算机上，BIOS 配置决定引导时先加载哪个操作系统。"
 
 #: chapter10/Partitioning_and_Booting.xml:808(para)
 msgid "Only after all system files have been loaded into the main memory, is the operating system given control of the computer. The operating system performs the requested initial commands and then waits for the first interactive user input."
-msgstr "只要所有的系统文件都加载到主存，操作系统接管计算机。操作系统执行要求的 initial 命令然后等待地一个交互式输入。"
+msgstr "只要所有的系统文件都加载到主存后，操作系统才接管计算机。操作系统执行要求的初始化命令然后等待地一个交互式输入。"
 
 #: chapter10/Partitioning_and_Booting.xml:813(para)
 msgid "However, as a superuser or user with administrative privileges, it is possible for you to change the boot-up configuration to define the computer's boot order, change the default operating system to boot-up or make a system command run automatically at boot-up."
@@ -610,11 +627,11 @@ msgstr "但是，作为一个超级用户或有管理特权的用户，您可以
 
 #: chapter10/Partitioning_and_Booting.xml:818(para)
 msgid "One way to change or check your BIOS setting is to restart your computer, and press a key to enter the setup function before it starts to load any operating system. Generally, you can do this by pressing F1, F2, ESC or DELETE. Once you are inside the BIOS setup, you can make the desired changes by following the instructions for using the setup. However, you need to be very cautious when making any changes in the BIOS settings because a wrong setting can prevent your computer from booting-up properly."
-msgstr "更改或检查 BIOS 设置的一中方法是重启您的计算机在其开始加载任何操作系统之前按下某个键进入设置功能。一般的，你可以通过按 F1、F2、ESC 或 DELETE 做到。一旦进入 BIOS 设置，您可以通过跟随用于设置的指导进行希望的更改。但是，当在 BIOS 设置中进行任何更改时您需要非常谨慎，因为一项错误的设置可能使计算机不能正常引导。"
+msgstr "更改或检查 BIOS 设置的一种方法是重启计算机在其开始加载任何操作系统之前按下某个键进入设置功能。一般的，可以通过按 F1、F2、ESC 或 DELETE 做到。进入 BIOS 设置后，可以通过跟随用于设置的指导进行希望的更改。然而，当在 BIOS 设置中进行任何更改时需要非常谨慎，因为一项错误的设置可能使计算机不能正常引导。"
 
 #: chapter10/Partitioning_and_Booting.xml:827(para)
 msgid "You can also perform these configuration changes by using a command line on your computer's terminal."
-msgstr "您也可以通过使用计算机的终端中的命令行执行这些配置。"
+msgstr "也可以通过使用计算机的终端中的命令行来执行这些配置。"
 
 #: chapter10/Partitioning_and_Booting.xml:831(title)
 msgid "Running a System Command Automatically at Start-Up"
@@ -632,6 +649,7 @@ msgstr "在启动时自动运行系统命令："
 msgid "On the Terminal, type the following command to open the rc.local file:"
 msgstr "在终端中，输入如下命令以打开 rc.local 文件："
 
+# 为什么要换行？
 #: chapter10/Partitioning_and_Booting.xml:844(screen)
 #, no-wrap
 msgid ""
@@ -662,6 +680,7 @@ msgstr ""
 "$ date &gt;\n"
 "          /home/oem/newbackup"
 
+# 此为病句，我自己都看不懂
 #: chapter10/Partitioning_and_Booting.xml:872(title)
 msgid "Making Settings for rc.local File"
 msgstr "为 rc.local 文件进行设置"
@@ -670,6 +689,7 @@ msgstr "为 rc.local 文件进行设置"
 msgid "After you enter the command you want executed at system start-up, press CTRL+X to save and exit the edited file."
 msgstr "输入完想要在启动时执行的命令之后，按 CTRL+X 保存并退出编辑的文件。"
 
+# 话说 910 里没有此项
 #: chapter10/Partitioning_and_Booting.xml:887(title)
 msgid "Services Window"
 msgstr "服务窗口"
@@ -691,14 +711,16 @@ msgstr "如下图像显示了上边命令的输出："
 msgid "Changing the Default Operating System at Boot"
 msgstr "更改引导时的默认操作系统"
 
+# grub2?
 #: chapter10/Partitioning_and_Booting.xml:913(para)
 msgid "When multiple operating systems are installed on a computer, this is referred to as a multi-boot configuration. Typically, the operating system that is listed on top in the configuration file is loaded on the computer. To choose the operating system that starts when you turn on your computer, edit the grub configuration file."
-msgstr "当多个操作系统安装到同一台计算机上，这被称为多启动配置。典型的，在配置文件顶端列出的操作系统被加载到计算机。要选择打开计算机时打开的操作系统，请编辑 grub 配置文件。"
+msgstr "当多个操作系统安装到同一台计算机上时，被称为多启动配置。一般地，在配置文件顶端列出的操作系统被加载到计算机。要选择打开计算机时启动的操作系统，请编辑 grub 配置文件。"
 
 #: chapter10/Partitioning_and_Booting.xml:921(para)
 msgid "Back up the configuration file, and open it in a text editor, as follows:"
 msgstr "备份配置文件，并且打开在文本编辑器中打开它，就像下边这样："
 
+# grub2?
 #: chapter10/Partitioning_and_Booting.xml:924(screen)
 #, no-wrap
 msgid ""
@@ -714,10 +736,11 @@ msgstr ""
 msgid "Find the line written below to change the default sequence:"
 msgstr ""
 
+# 这是什么东东？
 #: chapter10/Partitioning_and_Booting.xml:933(screen)
 #, no-wrap
 msgid "... default 0 ..."
-msgstr "... 默认 0 ..."
+msgstr "... default 0 ..."
 
 #: chapter10/Partitioning_and_Booting.xml:935(para)
 msgid "Replace this line with the following line:"
@@ -728,6 +751,7 @@ msgstr "使用如下行替代此行："
 msgid "default X"
 msgstr "默认的 X"
 
+# 此处为grub的内容
 #: chapter10/Partitioning_and_Booting.xml:939(para)
 msgid "Replace X with a number based on the order in which your operating systems appear in the configuration file. You should start counting from 0. For example, if you wish the default operating system to be the first in the list, replace X with 0; and if you wish the default operating system to be the second in the list, replace X with 1."
 msgstr ""
@@ -742,7 +766,7 @@ msgstr "配置启动服务"
 
 #: chapter10/Partitioning_and_Booting.xml:957(para)
 msgid "When Ubuntu starts up, many services are started for your convenience. Some services are mandatory for Ubuntu to work properly on your computer. Others are services that you'll probably never need, either because you just do not want them (for example, ntpdate, which sets your system time from a time server) or you simply don't have the device (for example, the HP printing and scanning system, which is of no use if you don't own an HP device)."
-msgstr "当 Ubuntu 启动时，为了您的方便，启动了很多服务。一些服务是对 Ubuntu 正常工作是必需的。其它是一些您可能永远不需要的服务，可能仅仅是因为您不想要它们(例如 ntpdate，它从时间服务器设置您的系统同时间)或者就是您没有此设备(例如 HP 打印和扫描系统，如果您没有 HP 设备它就没用)。"
+msgstr "当 Ubuntu 启动时，为了您的方便，启动了很多服务。一些服务是对 Ubuntu 正常工作是必需的。其它是一些您可能永远不需要的服务，或者可能仅仅是因为您不想要它们(例如 ntpdate，它从时间服务器设置您的系统同时间)或者就是您没有此设备(例如 HP 打印和扫描系统，如果您没有 HP 设备它就没用)。"
 
 #: chapter10/Partitioning_and_Booting.xml:965(para)
 msgid "Although these services are harmless, they increase your computer's start-up time. By de-activating some of these services, you should get a slightly faster start-up time."
@@ -754,7 +778,7 @@ msgstr "禁用任何服务之前阅读服务信息因为禁用某些服务将使
 
 #: chapter10/Partitioning_and_Booting.xml:977(para)
 msgid "To configure the start-up services, you need to have administrative privileges. Then, perform the following steps:"
-msgstr "要配置启动时服务，您需要有管理特权。然后执行如下步骤："
+msgstr "要配置启动时服务，需要有管理特权。然后执行如下步骤："
 
 #: chapter10/Partitioning_and_Booting.xml:982(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Services</emphasis>."
@@ -762,7 +786,7 @@ msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上。指向 <emph
 
 #: chapter10/Partitioning_and_Booting.xml:988(para)
 msgid "Type your administrative password. The <emphasis role=\"strong\">Services settings</emphasis> window opens."
-msgstr "输入您的管理口令。<emphasis role=\"strong\">服务设置</emphasis> 窗口就打开了。"
+msgstr "输入您的管理口令。将打开 <emphasis role=\"strong\">服务设置</emphasis> 窗口。"
 
 #: chapter10/Partitioning_and_Booting.xml:992(para)
 msgid "Select the services you want running by selecting or clearing the respective check boxes and click <emphasis role=\"strong\">OK</emphasis>."
@@ -774,7 +798,7 @@ msgstr "服务设置窗口"
 
 #: chapter10/Partitioning_and_Booting.xml:1010(para)
 msgid "If you want greater control over the boot-up services, install Boot-up Manager (bum). You can install bum from the Universe repository. You need to click the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Boot-up Manager</emphasis>."
-msgstr "如果想要对引导时服务有更大的控制，安装 引导时管理器(bum)。您可以从 Universe 库安装 bum。您需要点击 <emphasis role=\"strong\">系统</emphasis> 菜单，指向 <emphasis role=\"strong\">系统管理</emphasis> 并且点击 <emphasis role=\"strong\">启动时管理器</emphasis>。"
+msgstr "如果想要对引导时服务有更大的控制，安装引导时管理器(bum)。可以从 Universe 库安装 bum。需要点击 <emphasis role=\"strong\">系统</emphasis> 菜单，指向 <emphasis role=\"strong\">系统管理</emphasis> 并且点击 <emphasis role=\"strong\">启动时管理器</emphasis>。"
 
 #: chapter10/Partitioning_and_Booting.xml:1018(title)
 msgid "Lesson Summary"
@@ -786,35 +810,35 @@ msgstr "对硬盘进行分区类似于使用墙将房子分割为房间。"
 
 #: chapter10/Partitioning_and_Booting.xml:1027(para)
 msgid "You can run Ubuntu on a single or multiple partitions or drives."
-msgstr "您可以在单个或多个分区或驱动器上运行 Ubuntu。"
+msgstr "可以在单个或多个分区或驱动器上运行 Ubuntu。"
 
 #: chapter10/Partitioning_and_Booting.xml:1032(para)
 msgid "Before partitioning the hard drive, you should make sure that there is no data on the hard drive. If the hard drive on which you are creating a partition contains data and you wish to preserve it, it will be safer to back up the data before proceeding."
-msgstr "在对硬盘驱动器格式化之前，您应该确定硬盘驱动器上没有数据。如果您要在上边创建分区的硬盘驱动器包含数据并且您希望保留它，在处理之前备份数据会更安全。"
+msgstr "在对硬盘驱动器分区之前，应该确定硬盘驱动器上没有数据。如果您要在上边创建分区的硬盘驱动器包含数据并且希望保留它，在处理之前备份数据会更安全。"
 
 #: chapter10/Partitioning_and_Booting.xml:1039(para)
 msgid "You can create a partition by using both the partition editor and the command-line interface."
-msgstr "您可以使用分区编辑器或命令行界面创建分区。"
+msgstr "可以使用分区编辑器或命令行界面创建分区。"
 
 #: chapter10/Partitioning_and_Booting.xml:1044(para)
 msgid "It is possible for you to change the boot-up configuration to define the computer's boot order, change the default operating system to boot or make a system command run automatically at boot-up."
-msgstr "您可以引导设置以决定计算机引导顺序，更改默认引导的操作系统或者使一个系统命令启动时自动运行。"
+msgstr "可以引导设置以决定计算机引导顺序，更改默认引导的操作系统或者使一个系统命令启动时自动运行。"
 
 #: chapter10/Partitioning_and_Booting.xml:1051(para)
 msgid "To run a set of commands each time the system boots up, you need to include the commands in the /etc/rc.local file so that the computer executes them automatically at every boot-up."
-msgstr "要在每次系统引导时运行一组命令，您需要包含这些命令到 /etc/rc.local 文件以使计算机在每次引导时执行它们。"
+msgstr "要在每次系统引导时运行一组命令，需要包含这些命令到 /etc/rc.local 文件以使计算机在每次引导时执行它们。"
 
 #: chapter10/Partitioning_and_Booting.xml:1057(para)
 msgid "You can change the default operating system at boot by making changes in the configuration file."
-msgstr "您可以通过修改配置文件来更改启动时的默认操作系统。"
+msgstr "可以通过修改配置文件来更改启动时的默认操作系统。"
 
 #: chapter10/Partitioning_and_Booting.xml:1062(para)
 msgid "You must read the service information before disabling any service because disabling some services may stop your system from booting-up or running properly."
-msgstr "禁用任何服务之前，您必须要阅读服务信息，因为禁用一些服务可能使系统不能引导或正常运行。"
+msgstr "禁用任何服务之前，必须要阅读服务信息，因为禁用一些服务可能使系统不能引导或正常运行。"
 
 #: chapter10/Partitioning_and_Booting.xml:1020(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
-msgstr "本节课您将学到：<placeholder-1/>"
+msgstr "本节课学到了：<placeholder-1/>"
 
 #: chapter10/Partitioning_and_Booting.xml:1070(title)
 msgid "Review Exercise"
@@ -828,6 +852,7 @@ msgstr "进行分区的好处是什么？"
 msgid "The following are the advantages of partitioning:"
 msgstr "下边是进行分区的好处："
 
+# 可恶的病句
 #: chapter10/Partitioning_and_Booting.xml:1083(para)
 msgid "Minimises data loss"
 msgstr "最下化数据丢失"
@@ -842,7 +867,7 @@ msgstr "增强性能"
 
 #: chapter10/Partitioning_and_Booting.xml:1099(para)
 msgid "Why do you need to use the sudo command?"
-msgstr "为什么使用 sudo 命令？"
+msgstr "为什么需要使用 sudo 命令？"
 
 #: chapter10/Partitioning_and_Booting.xml:1103(para)
 msgid "In Unix-based operating systems, you need to use the sudo command to run programmes that require administrative privileges."
@@ -852,6 +877,7 @@ msgstr "在基于 Unix 的操作系统中，需要使用 sudo 命令来运行需
 msgid "Which of these file systems does Ubuntu use by default?"
 msgstr "ubuntu 默认使用这些文件系统中的哪一个？"
 
+# 原文前边竟然没有编号，或许我需要给它加上
 #: chapter10/Partitioning_and_Booting.xml:1115(para)
 msgid "Fat 32"
 msgstr "Fat 32"
@@ -864,13 +890,14 @@ msgstr "NTFS"
 msgid "Ext3"
 msgstr "Ext3"
 
+# o,ext3 again
 #: chapter10/Partitioning_and_Booting.xml:1129(para)
 msgid "c) Ext3"
 msgstr "c) Ext3"
 
 #: chapter10/Partitioning_and_Booting.xml:1135(para)
 msgid "If you want to run a system command automatically at start-up, where should you add the command?"
-msgstr "如果您想在系统启动时自动运行一个系统命令，向何处添加此命令？"
+msgstr "如果想在系统启动时自动运行一个系统命令，向何处添加此命令？"
 
 #: chapter10/Partitioning_and_Booting.xml:1140(para)
 msgid "The command needs to be added to the /etc/rc.local file."
@@ -894,7 +921,7 @@ msgstr "练习 1"
 
 #: chapter10/Partitioning_and_Booting.xml:1166(para)
 msgid "As a previous Microsoft Windows user, you want to have a dual-boot configuration on your computer and create a separate partition to run Microsoft Windows on it. To perform this task, you need to create a 5-GB primary partition and format it with a Microsoft Windows-compatible file system."
-msgstr "作为一个先前的微软 Windows 用户，您可能想要在计算机上有双启动配置并且创建一个分离的分区以在上边运行微软 Windows 系统。要实现此任务，您需要创建一个 5-GB 的主分区并且格式化为微软 Windows 兼容的文件系统。"
+msgstr "作为一个先前的 Microsoft Windows 用户，您可能想要在计算机上有双启动配置并且创建一个分离的分区以在上边运行 Microsoft Windows 系统。要实现此任务，您需要创建一个 5-GB 的主分区并且格式化为Microsoft Windows 兼容的文件系统。"
 
 #: chapter10/Partitioning_and_Booting.xml:1174(title)
 msgid "Option a: To create a Partition using Partition Editor:"
@@ -908,9 +935,10 @@ msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上, 指向 <empha
 msgid "In the drive drop-down box, select the hard drive you need to partition by specifying its logical name. The window refreshes and shows you a representation of the drive."
 msgstr "在驱动器下拉框中，通过逻辑名选择需要进行分区的硬盘驱动器。窗口刷新并向您显示此驱动器的代表。"
 
+# 白条，白条鸡可不好
 #: chapter10/Partitioning_and_Booting.xml:1189(para)
 msgid "Right-click the white bar and click <emphasis role=\"strong\">New</emphasis> to create a new partition. The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box appears, in which you choose the specifications of the new partition."
-msgstr "右键点击白条并点击 <emphasis role=\"strong\">新建</emphasis> 以创建新分区。显示 <emphasis role=\"strong\">创建新分区</emphasis>对话框，在其上对此分区的指定。"
+msgstr "右键点击白条并点击 <emphasis role=\"strong\">新建</emphasis> 以创建新分区。显示 <emphasis role=\"strong\">创建新分区</emphasis>对话框，在其上选择此分区的参数。"
 
 #: chapter10/Partitioning_and_Booting.xml:1194(para)
 msgid "In the <emphasis role=\"strong\">New Size</emphasis> dialogue box, select the size of the new partition."
@@ -918,7 +946,7 @@ msgstr "<emphasis role=\"strong\">新大小</emphasis>对话框中，选择新�
 
 #: chapter10/Partitioning_and_Booting.xml:1199(para)
 msgid "In the <emphasis role=\"strong\">Create as</emphasis> box, select <emphasis role=\"strong\">Primary Partition</emphasis>."
-msgstr "在 <emphasis role=\"strong\">创建为</emphasis>框中，选择 <emphasis role=\"strong\">主分区</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">创建为</emphasis> 对话框中，选择 <emphasis role=\"strong\">主分区</emphasis>。"
 
 #: chapter10/Partitioning_and_Booting.xml:1204(para)
 msgid "Next, specify the file system. Select ntfs."
@@ -930,7 +958,7 @@ msgstr "点击 <emphasis role=\"strong\">添加</emphasis>以计算此分区。�
 
 #: chapter10/Partitioning_and_Booting.xml:1214(para)
 msgid "If you are sure about the specification of the new partition, click <emphasis role=\"strong\">Apply</emphasis>. The disk will be partitioned and formatted."
-msgstr "如果您确定新分区的规格，点击 <emphasis role=\"strong\">提交</emphasis>。磁盘将被分区和格式化。"
+msgstr "如果您确定新分区的参数，点击 <emphasis role=\"strong\">提交</emphasis>。磁盘将被分区和格式化。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: chapter10/Partitioning_and_Booting.xml:0(None)
