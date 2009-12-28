@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter 5\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-25 23:46+0800\n"
+"PO-Revision-Date: 2009-12-29 04:44+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -260,7 +260,7 @@ msgid ""
 "games, including Aisleriot, Solitaire, Gnometris and Mines. In addition, you "
 "can install many games from other repositories."
 msgstr ""
-"默认安装的 Ubuntu 9.10 有 17 个 Ubuntu 游戏，包括 Aisleriot、纸牌、Gnome 方块"
+"默认安装的 Ubuntu 9.10 有 16 个 Ubuntu 游戏，包括 Aisleriot、纸牌、Gnome 方块"
 "和扫雷等。另外，您还可以从其他的软件仓库中安装更多的游戏。"
 
 #: chapter5/Ubuntu_and_Games.xml:33(title) chapter5/Ubuntu_and_Games.xml:221(title) chapter5/Ubuntu_and_Games.xml:240(title) chapter5/Ubuntu_and_Games.xml:429(title) chapter5/Ubuntu_and_Games.xml:612(title) chapter5/Ubuntu_and_Games.xml:651(title)
@@ -303,10 +303,10 @@ msgid ""
 "role=\"strong\">Add/Remove Applications</emphasis> is the easiest way to "
 "install a game on your computer."
 msgstr ""
-"<emphasis role=\"strong\">添加/删除 应用程序</emphasis>&gt;和 "
+"<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 和 "
 "<emphasis role=\"strong\">新立得软件包管理器</emphasis> 是图形化用户界面(GUI)"
 "工具，允许您方便地安装 Ubuntu 软件仓库中的应用程序。但是在大多数情况下，在 "
-"Ubuntu 中使用 <emphasis role=\"strong\">添加/删除 应用程序</emphasis> 来安装"
+"Ubuntu 中使用 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 来安装"
 "一个游戏是最简单的方式。"
 
 #: chapter5/Ubuntu_and_Games.xml:60(title)
@@ -319,11 +319,11 @@ msgid ""
 "<emphasis role=\"strong\">Add/Remove</emphasis>."
 msgstr ""
 "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中选择 "
-"<emphasis role=\"strong\">添加/删除</emphasis>。"
+"<emphasis role=\"strong\">Ubuntu 软件中心</emphasis>。"
 
 #: chapter5/Ubuntu_and_Games.xml:67(title)
 msgid "Launching Add/Remove"
-msgstr "启动 添加/删除"
+msgstr "启动 Ubuntu 软件中心"
 
 #: chapter5/Ubuntu_and_Games.xml:79(para)
 msgid ""
@@ -333,13 +333,12 @@ msgid ""
 "along with the popularity of each game among users. The bottom section in "
 "the right pane displays a brief description of the game selected."
 msgstr ""
-"在 <emphasis role=\"strong\">添加/删除 应用程序</emphasis> 窗口的左边部分的"
-"软件分类选择 <emphasis role=\"strong\">游戏</emphasis> 将在窗口的右上方列出"
-"游戏，同时还将列出该游戏受欢迎的程度。窗口的右下方将给出所选游戏的简要描述。"
+"在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 窗口的右边部分的"
+"软件分类选择 <emphasis role=\"strong\">游戏</emphasis>，将前进到游戏列表。"
 
 #: chapter5/Ubuntu_and_Games.xml:88(title)
 msgid "Add/Remove Applications window"
-msgstr "添加/删除 应用程序窗口"
+msgstr "Ubuntu 软件中心窗口"
 
 #: chapter5/Ubuntu_and_Games.xml:100(para)
 msgid ""
@@ -348,13 +347,13 @@ msgid ""
 "role=\"strong\">Supported Applications</emphasis> and select the appropriate "
 "option from the drop-down list."
 msgstr ""
-"窗口右边部分默认情况下显示由 Canonical 公司所支持的游戏。要更改游戏列表，点击 "
-"<emphasis role=\"strong\">支持的应用程序</emphasis> 并从下拉菜单中选择相应的"
+"列表默认情况下显示全部应用程序。要更改游戏列表，在菜单栏中点击 "
+"<emphasis role=\"strong\">视图</emphasis> 并从下拉菜单中选择相应的"
 "选项。"
 
 #: chapter5/Ubuntu_and_Games.xml:106(title)
 msgid "Changing List Option"
-msgstr "改变排列选项"
+msgstr "改变列表选项"
 
 #: chapter5/Ubuntu_and_Games.xml:118(para)
 msgid ""
@@ -367,10 +366,10 @@ msgid ""
 "proceed with the installation."
 msgstr ""
 "您可以在游戏列表中查找或者使用名字来搜索一个游戏。要进行搜索，请在 "
-"<emphasis role=\"strong\">搜索</emphasis> 框中输入游戏的名字，然后按回车键。"
-"窗口的右上部分将会显示搜索结果。选中游戏旁边的复选框将其标记为待安装然后点击 "
-"<emphasis role=\"strong\">应用更改</emphasis>。然后将会出现一个要求您确认开始"
-"安装的对话框。"
+"<emphasis role=\"strong\">搜索</emphasis> 框中输入游戏的名字。"
+"会显示搜索结果。点击游戏名称右边的前进按钮，将进入游戏介绍"
+"页面，此页面将给出游戏截图和简要介绍，点击下方的 <emphasis role=\"strong\">"
+"安装</emphasis> 按钮。获得授权后即开始安装游戏。"
 
 #: chapter5/Ubuntu_and_Games.xml:128(title)
 msgid "Searching a Game"
@@ -383,9 +382,9 @@ msgid ""
 "Available Applications</emphasis> in the <emphasis "
 "role=\"strong\">Show</emphasis> drop-down list."
 msgstr ""
-"搜索结果的内容取决于您在上一步之中选择的显示模式。要扩大搜索范围，请在 "
-"<emphasis role=\"strong\">显示</emphasis> 下拉列表中选择 <emphasis "
-"role=\"strong\">所有可用的应用程序</emphasis>。"
+"搜索结果的内容取决于您在上一步之中选择的列表选项。要扩大搜索范围，请在 "
+"<emphasis role=\"strong\">视图</emphasis> 菜单中选择 <emphasis "
+"role=\"strong\">全部应用程序</emphasis>。"
 
 #: chapter5/Ubuntu_and_Games.xml:148(title)
 msgid "Nice to Know:"
@@ -396,10 +395,11 @@ msgid ""
 "To remove a game from your computer, clear the check box next to that game "
 "and click <emphasis role=\"strong\">Apply Changes</emphasis>."
 msgstr ""
-"要从系统中删除一个游戏，去除游戏旁边复选框的选中状态并点击 "
-"<emphasis role=\"strong\">应用更改</emphasis>。"
+"要从系统中删除一个游戏，在游戏介绍页面点击 <emphasis role=\"strong\">移除</"
+"emphasis>。"
 
 #: chapter5/Ubuntu_and_Games.xml:157(para)
+#, fuzzy
 msgid ""
 "In the confirmation dialogue box, click <emphasis "
 "role=\"strong\">Apply</emphasis> to proceed with the installation or click "
@@ -411,10 +411,12 @@ msgstr ""
 "role=\"strong\">添加/删除 应用程序</emphasis> 窗口。"
 
 #: chapter5/Ubuntu_and_Games.xml:164(title)
+#, fuzzy
 msgid "Confirming Changes"
 msgstr "确认更改"
 
 #: chapter5/Ubuntu_and_Games.xml:176(para)
+#, fuzzy
 msgid ""
 "After the installation is complete, a dialogue box confirms the installation "
 "and provides the option to start the installed game, return to the <emphasis "
@@ -426,6 +428,7 @@ msgstr ""
 "三个选项中进行选择。请根据您的需要在对话框中选择相应的选项。"
 
 #: chapter5/Ubuntu_and_Games.xml:183(title)
+#, fuzzy
 msgid "Dialogue Box Confirming Installation"
 msgstr "确认安装对话框"
 
@@ -665,7 +668,7 @@ msgstr ""
 
 #: chapter5/Ubuntu_and_Games.xml:438(title) chapter5/Ubuntu_and_Games.xml:583(title)
 msgid "Playing PlanetPenguin Racer"
-msgstr "玩 PlanetPenguin Racer"
+msgstr "玩 Extreme Tux Racer"
 
 #: chapter5/Ubuntu_and_Games.xml:440(para)
 msgid ""
@@ -674,20 +677,20 @@ msgid ""
 "Racer. The goal of the game is to slide down a snow and ice covered mountain "
 "as quickly as possible, avoiding the trees and rocks that will slow you down."
 msgstr ""
-"PlanetPenguin Racer，也叫做 ppracer，是一个以 Linux 吉祥物 Tux 为主人公的竞速"
+"Extreme Racer，是一个以 Linux 吉祥物 Tux 为主人公的竞速"
 "游戏。该游戏基于一款很受欢迎的 Linux 游戏 Tux Racer。游戏的目标时从一座被冰雪"
 "覆盖的山上往下尽快的滑行到终点，并避免撞到路上会使你减速的树木和石头。"
 
 #: chapter5/Ubuntu_and_Games.xml:447(title)
 msgid "To play PlanetPenguin Racer:"
-msgstr "要开始玩 PlanetPenguin Racer:"
+msgstr "要开始玩 Extreme Tux Racer:"
 
 #: chapter5/Ubuntu_and_Games.xml:450(para)
 msgid ""
 "Install the <emphasis role=\"strong\"> planetpenguin-racer</emphasis> "
 "package from the Universe repository."
 msgstr ""
-"从 Universe 软件仓库中安装 <emphasis role=\"strong\"> planetpenguin-racer</emphasis>。"
+"从 Universe 软件仓库中安装 <emphasis role=\"strong\">extremetuxracer</emphasis>。"
 
 #: chapter5/Ubuntu_and_Games.xml:456(para)
 msgid ""
@@ -697,11 +700,11 @@ msgid ""
 msgstr ""
 "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，选择 "
 "<emphasis role=\"strong\">游戏</emphasis> 然后点击 <emphasis "
-"role=\"strong\">Planet Penguin Racer</emphasis> 以启动游戏。"
+"role=\"strong\">Extreme Tux Racer</emphasis> 以启动游戏。"
 
 #: chapter5/Ubuntu_and_Games.xml:462(title)
 msgid "Launching PlanetPenguin Racer"
-msgstr "启动 PlanetPenguin Racer"
+msgstr "启动 Extreme Tux Racer"
 
 #: chapter5/Ubuntu_and_Games.xml:474(para)
 msgid "Press any key on the keyboard to proceed to the next window."
@@ -743,7 +746,6 @@ msgid "Configuration Options"
 msgstr "配置选项"
 
 #: chapter5/Ubuntu_and_Games.xml:530(para)
-#, need review 
 msgid ""
 "On the main menu, click <emphasis role=\"strong\">Enter an Event</emphasis>, "
 "select the event and the cup in which you want to participate and then click "
@@ -753,7 +755,6 @@ msgstr ""
 "你想要参加的比赛和锦标赛，然后点击 <emphasis role=\"strong\">继续</emphasis>。"
 
 #: chapter5/Ubuntu_and_Games.xml:536(title)
-#, need review 
 msgid "Selecting Event and Cup"
 msgstr "选择比赛和锦标赛"
 
@@ -764,7 +765,7 @@ msgid ""
 "<emphasis role=\"strong\">Needed to advance</emphasis> information to know "
 "the minimum requirement to qualify for the next round in the cup."
 msgstr ""
-"在下一个窗口选择一项比赛。刚开始，除了继续默认的比赛没有其他任何选择。请注意"
+"在下一个窗口选择赛道。刚开始，除了继续默认的赛道没有其他任何选择。请注意"
 "查看 <emphasis role=\"strong\">Needed to advance</emphasis> 的信息以了解获得"
 "参加锦标赛下一轮资格的最低要求。"
 

@@ -154,44 +154,6 @@
         </step>
 
         <step performance="required">
-          <para>In the confirmation dialogue box, click <emphasis
-          role="strong">Apply</emphasis> to proceed with the installation or
-          click <emphasis role="strong">Cancel</emphasis> to return to the
-          <emphasis role="strong">Add/Remove Applications</emphasis>
-          window.</para>
-
-          <figure float="0">
-            <title>Confirming Changes</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson06_images_005.png"
-                           format="PNG" width="6cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
-          <para>After the installation is complete, a dialogue box confirms
-          the installation and provides the option to start the installed
-          game, return to the <emphasis role="strong">Add/Remove
-          Applications</emphasis> window or close it. Select the appropriate
-          option in the dialogue box.</para>
-
-          <figure float="0">
-            <title>Dialogue Box Confirming Installation</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson06_images_006.png"
-                           format="PNG" width="6cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
           <para>To launch the installed game from the desktop, point to
           <emphasis role="strong">Games</emphasis> on the <emphasis
           role="strong">Applications</emphasis> menu and click the name of the
