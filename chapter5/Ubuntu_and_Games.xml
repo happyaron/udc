@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://docbook.org/xml/4.3/docbookx.dtd">
+<chapter id="lesson5">
+    <title>Ubuntu and Games</title>
+
+<itemizedlist>
+    <title>Objectives</title>
+
+    <para>In this lesson, you will learn how to:</para>
+    
+    <listitem>
+          <para>Find and install games on Ubuntu</para>
+        </listitem>
+
+        <listitem>
+          <para>Play some of the more popular Ubuntu games</para>
+        </listitem>
+
+        <listitem>
+          <para>Configure other games</para>
+        </listitem>
+</itemizedlist>
+
+  <sect1>
+    <title>Installing Games on Ubuntu</title>
+
+    <para>The default installation package of Ubuntu 8.04 LTS comes with 17 Ubuntu
+    games, including Aisleriot, Solitaire, Gnometris and Mines. In addition,
+    you can install many games from other repositories.</para>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>Understanding repositories is important because games are available for 
+      download from different locations. You may need to recap on the Lesson 1 topic of 
+      Enabling Repositories. You will also want to pre-install the two games covered 
+      in the lesson on every computer prior to starting the session otherwise this 
+      will take up much time during class.</para>
+    </note>
+
+    <note>
+      <title>Note:</title>
+
+      <para>Enabling a repository is a one-time task. You do not have to
+      enable the repositories every time before installing software.</para>
+    </note>
+
+    <sect2>
+      <title>Installing a Game from a Repository</title>
+
+      <para><emphasis role="strong">Add/Remove Applications</emphasis>&gt;and
+      <emphasis role="strong">Synaptic Package Manager</emphasis> are the
+      Graphical User Interfaces (GUI) that enables you to install applications
+      from the Ubuntu repositories. However, using <emphasis
+      role="strong">Add/Remove Applications</emphasis> is the easiest way to
+      install a game on your computer.</para>
+
+      <procedure>
+        <title>To install a game from a repository:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          select <emphasis role="strong">Add/Remove</emphasis>.</para>
+
+          <figure float="0">
+            <title>Launching Add/Remove</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_001.png"
+                           format="PNG" width="4cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Add/Remove
+          Applications</emphasis> window, select <emphasis
+          role="strong">Games</emphasis> from the left pane of the window to
+          display a list of games in the top section of the right pane, along
+          with the popularity of each game among users. The bottom section in
+          the right pane displays a brief description of the game
+          selected.</para>
+
+          <figure float="0">
+            <title>Add/Remove Applications window</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_002.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The right pane, by default, displays the games supported by
+          Canonical Limited. To change the list of games, click <emphasis
+          role="strong">Supported Applications</emphasis> and select the
+          appropriate option from the drop-down list.</para>
+
+          <figure float="0">
+            <title>Changing List Option</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_003.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can navigate through the list of games or search a game by
+          its name. To initiate a search, type the name of the game in the
+          <emphasis role="strong">Search</emphasis> box and press Enter. The
+          top section of the right pane displays the search results. Select
+          the check box next to the game to mark it for installation and click
+          <emphasis role="strong">Apply Changes</emphasis>. A dialogue box
+          opens, which requires confirmation to proceed with the
+          installation.</para>
+
+          <figure float="0">
+            <title>Searching a Game</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_004.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>The search result is dependent on the display mode selected
+            in the previous step. To widen the scope of search, select
+            <emphasis role="strong">All Available Applications</emphasis> in
+            the <emphasis role="strong">Show</emphasis> drop-down list.</para>
+          </note>
+
+          <tip>
+            <title>Nice to Know:</title>
+
+            <para>To remove a game from your computer, clear the check box
+            next to that game and click <emphasis role="strong">Apply
+            Changes</emphasis>.</para>
+          </tip>
+        </step>
+
+        <step performance="required">
+          <para>In the confirmation dialogue box, click <emphasis
+          role="strong">Apply</emphasis> to proceed with the installation or
+          click <emphasis role="strong">Cancel</emphasis> to return to the
+          <emphasis role="strong">Add/Remove Applications</emphasis>
+          window.</para>
+
+          <figure float="0">
+            <title>Confirming Changes</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_005.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After the installation is complete, a dialogue box confirms
+          the installation and provides the option to start the installed
+          game, return to the <emphasis role="strong">Add/Remove
+          Applications</emphasis> window or close it. Select the appropriate
+          option in the dialogue box.</para>
+
+          <figure float="0">
+            <title>Dialogue Box Confirming Installation</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_006.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To launch the installed game from the desktop, point to
+          <emphasis role="strong">Games</emphasis> on the <emphasis
+          role="strong">Applications</emphasis> menu and click the name of the
+          game.</para>
+
+          <figure float="0">
+            <title>Launching a Game</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_007.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <para>Let's play!</para>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Playing Ubuntu Games</title>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>Allow the students to play these games for about 10 - 15
+      minutes.</para>
+    </note>
+
+    <para>Playing a game on Ubuntu is no different than playing it on any
+    other Graphical User Interface (GUI)-based operating system. There are no
+    pre-requisites to play these games and the real fun is in exploring these
+    games yourself.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>Ensure that you have hardware-accelerated 3D drivers installed for
+      your video card.</para>
+    </note>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>To configure 3D acceleration on video cards see lesson 3 of this
+      course or visit the following Web site: <ulink
+      url="http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html">http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html</ulink>.</para>
+    </note>
+
+    <sect2>
+      <title>Playing Frozen-Bubble</title>
+
+      <para>In Frozen-Bubble, you attempt to shoot bubbles into groups of the
+      same colour to cause them to pop. Frozen-Bubble is a clone of the
+      popular Puzzle Bobble game and features 100 single-player levels,
+      two-player mode, music and striking graphics. You can play this game
+      with another player on your Local Area Network (LAN) or invite a player
+      on the Internet to play. Frozen-Bubble is not in the list of default
+      games so you should install it from the Universe repository.</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>This game does not have the option to turn off the sound.
+        Therefore, if you are playing this game at your workplace and do not
+        want other people to know, ensure that the speakers are turned off
+        before launching this game.</para>
+      </note>
+
+      <procedure>
+        <title>To play Frozen-Bubble:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Games</emphasis> and click
+          <emphasis role="strong">Frozen-Bubble</emphasis> to launch the
+          game.</para>
+
+          <figure float="0">
+            <title>Launching Frozen-Bubble</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_008.png"
+                           format="PNG" width="10.4cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Frozen-Bubble 2</emphasis> window
+          lists options to select the playing mode, customise the levels,
+          change the resolution of the graphics, specify the keys on your
+          keyboard with which you want to play this game or view the high
+          scores list.</para>
+
+          <figure float="0">
+            <title>Frozen-Bubble Main Menu</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_009.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To start playing the game in single player mode, select
+          <emphasis role="strong">START 1P GAMe</emphasis> and press <emphasis
+          role="strong">Enter</emphasis> to display the <emphasis
+          role="strong">Start 1- player game menu</emphasis>. Select <emphasis
+          role="strong">PLAY DEFAULT LEVEL SeT</emphasis> and press <emphasis
+          role="strong">Enter</emphasis> to launch Level 1 of the game.</para>
+
+          <figure float="0">
+            <title>Single Player Game Menu</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_010.png"
+                           format="PNG" width="2cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Use the up or down arrow keys to navigate through the
+            options.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>The aim of the game is to prevent the bubbles from reaching
+          the penguin next to the igloo. At the start of the game, you will
+          see an arrangement of coloured bubbles on the window, a bubble gun
+          that contains a bubble, and a pointer. Use the left and right arrow
+          keys to change the direction of the pointer and the space bar to
+          fire the bubble. To pop the bubbles, you should hit at least three
+          bubbles of the same colour. If the fired bubble hits a bubble of a
+          different colour, it sticks to that bubble and is added to the
+          arrangement.</para>
+
+          <figure float="0">
+            <title>Playing Window</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_011.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You have to fire the bubble from the bubble gun within seven
+          seconds of firing the previous one; otherwise, a <emphasis
+          role="strong">Hurry</emphasis> warning flashes three times and the
+          bubble gun fires the bubble automatically. The bubble appearing in
+          the igloo window is the next bubble to appear in the gun.</para>
+
+          <figure float="0">
+            <title>Flashing Hurry Warning</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_012.png"
+                           format="PNG" width="5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>To add to the plight of the poor penguin, FB-01 and FB-02 keep
+          pushing the plank towards the penguin, reducing the area for the
+          bubble arrangement.</para>
+        </step>
+
+        <step performance="required">
+          <para>If you succeed in popping all the bubbles, you win! You can
+          then press any key to proceed to the next level.</para>
+
+          <figure float="0">
+            <title>Displaying Level Results</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_013.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Press the <emphasis role="strong">ESC</emphasis> key to go
+            back to the previous window or close the application.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>If you leave the game after achieving a high score, type your
+          name in the window that opens and press <emphasis
+          role="strong">Enter</emphasis> to display the high score listings.
+          In the list, you can view the level you reached and the time taken
+          to reach that level. Press <emphasis role="strong">ESC</emphasis> to
+          return to the main menu.</para>
+
+          <figure float="0">
+            <title>High Score Windows</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_014.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <para>If you do not like the pre-defined arrangement of the bubbles, you
+      can create your own arrangement by selecting <emphasis
+      role="strong">Level editor</emphasis> from the main menu.</para>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>If time permits, ask the learners to use the level editor,
+        create some arrangements of their own and try the other options in the
+        window.</para>
+      </note>
+    </sect2>
+
+    <sect2>
+      <title>Playing PlanetPenguin Racer</title>
+
+      <para>PlanetPenguin Racer, also called ppracer, is a simple racing game
+      featuring Tux, the Linux mascot. This game is based on the popular Linux
+      game Tux Racer. The goal of the game is to slide down a snow and ice
+      covered mountain as quickly as possible, avoiding the trees and rocks
+      that will slow you down.</para>
+
+      <procedure>
+        <title>To play PlanetPenguin Racer:</title>
+
+        <step performance="required">
+          <para>Install the <emphasis role="strong">
+          planetpenguin-racer</emphasis> package from the Universe
+          repository.</para>
+        </step>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Games</emphasis> and click
+          <emphasis role="strong">Planet Penguin Racer</emphasis> to launch
+          the game.</para>
+
+          <figure float="0">
+            <title>Launching PlanetPenguin Racer</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_015.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Press any key on the keyboard to proceed to the next
+          window.</para>
+
+          <figure float="0">
+            <title>Starting Window</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_016.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The next window displays the main menu of the game. Click the
+          options on this menu to take part in a racing event, practise before
+          entering any event, configure the game settings, view credits and
+          quit the game.</para>
+
+          <figure float="0">
+            <title>Entering an Event</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_017.png"
+                           format="PNG" width="11.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can play this game by using a computer keyboard or a
+          joystick. On the main menu, click <emphasis
+          role="strong">Configuration</emphasis> and then click <emphasis
+          role="strong">Keyboard</emphasis> or <emphasis
+          role="strong">Joystick</emphasis> to know their default key
+          settings. You can also change the key settings according to your
+          preferences. Click <emphasis role="strong">Back</emphasis> to return
+          to the main menu.</para>
+
+          <figure float="0">
+            <title>Configuration Options</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_018.png"
+                           format="PNG" width="11.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>On the main menu, click <emphasis role="strong">Enter an
+          Event</emphasis>, select the event and the cup in which you want to
+          participate and then click <emphasis
+          role="strong">Continue</emphasis> to proceed.</para>
+
+          <figure float="0">
+            <title>Selecting Event and Cup</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_019.png"
+                           format="PNG" width="11.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The next window prompts you to select a race. As a beginner,
+          you do not have any option but to continue with the default race.
+          However, do read the <emphasis role="strong">Needed to
+          advance</emphasis> information to know the minimum requirement to
+          qualify for the next round in the cup.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Race!</emphasis> to start the
+          race.</para>
+
+          <figure float="0">
+            <title>Selecting a Race</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_020.png"
+                           format="PNG" width="11.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The next window starts the race. The intent of the game is to
+          make Tux reach the <emphasis role="strong">Finish</emphasis> line,
+          collecting herrings on the way. If you succeed in reaching the
+          <emphasis role="strong">Finish</emphasis> line within the parameters
+          mentioned in <emphasis role="strong">Needed to advance</emphasis>,
+          you proceed to the next round; otherwise, you have to play the round
+          again. There are four attempts or lives that you get to compete in
+          an event. If you fail to satisfy the wining criteria, one life is
+          deducted.</para>
+
+          <figure float="0">
+            <title>Playing PlanetPenguin Racer</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson06_images_021.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <para>You can win the cups only by practising and focusing on improving
+      your performance.</para>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Playing Other Popular Games</title>
+
+    <para>In addition to all the games available in Ubuntu, you can play games
+    created for Microsoft Windows. However, to do so, you need the ability to
+    run Windows applications in Ubuntu. One of the programmes that provides
+    this ability is named Wine.</para>
+
+    <sect2>
+      <title>Installing Wine</title>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>Before performing the following steps, ensure that all the
+        students have a Microsoft Windows game copied on their
+        computer.</para>
+      </note>
+
+      <procedure>
+        <title>To install and configure Wine:</title>
+
+        <step performance="required">
+          <para>Install the <emphasis role="strong">wine</emphasis> and
+          <emphasis role="strong">wine-dev</emphasis> packages from <emphasis
+          role="strong">Synaptic Package Manager</emphasis>.</para>
+        </step>
+
+        <step performance="required">
+          <para>The configuration of wine can be altered through <emphasis
+          role="strong">Applications</emphasis>, <emphasis
+          role="strong">Wine</emphasis>, <emphasis role="strong">Configure
+          Wine</emphasis>.</para>
+        </step>
+
+        <step performance="required">
+          <para>This window allows you to customise a variety of settings for
+          Wine, such as the Microsoft Windows version that is being simulated,
+          drive mappings, as well as application-specific settings. Click
+          <emphasis role="strong">OK</emphasis> to close the window.</para>
+        </step>
+      </procedure>
+
+      <para>Install the <emphasis role="strong">wine</emphasis> and <emphasis
+      role="strong">wine-dev</emphasis> packages from <emphasis
+      role="strong">Synaptic Package Manager</emphasis>.</para>
+
+      <para>Wine is configured on your computer with an artificial C: drive.
+      You can now access many Microsoft Windows application on Ubuntu.</para>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>The information included in this document is sufficient for the
+        students to start playing games. The most suitable and easy method is
+        chosen for illustration. However, performing other tasks, such as
+        adding CD and DVD drives to Wine or using Microsoft Windows themes in
+        Wine requires further configuration. If the students want to learn
+        more about configuring Wine, refer them to <ulink
+        url="https://help.ubuntu.com/community/Wine">https://help.ubuntu.com/community/Wine</ulink>.</para>
+      </note>
+    </sect2>
+
+    <sect2>
+      <title>Playing a Microsoft Windows Game on Ubuntu</title>
+
+      <para>A Microsoft Windows executable file can be started with Wine
+      through <emphasis role="strong">right-click</emphasis>, <emphasis
+      role="strong">Open with</emphasis> "<emphasis>Wine Windows
+      Emulator</emphasis>".</para>
+
+      <para>If you install a Microsoft Windows application with Wine, an icon
+      may be found in <emphasis role="strong">Applications</emphasis>,
+      <emphasis role="strong">Other</emphasis>.</para>
+    </sect2>
+  </sect1>
+
+  <?hard-pagebreak ?>
+
+  <sect1>
+    <title>Lesson Summary</title>
+
+
+      <para>In this lesson, you learned that:</para>
+    <itemizedlist>
+      <listitem>
+        <para>You can install and play many games available by default on
+        Ubuntu and in repositories.</para>
+      </listitem>
+
+      <listitem>
+        <para>You can install games by using the Add/Remove
+        Applications or Synaptic Package Manager.</para>
+      </listitem>
+
+      <listitem>
+        <para>You can play Microsoft Windows games on Ubuntu by installing a
+        programme that provides a Microsoft Windows environment, such as
+        Wine.</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1 role="questions">
+    <title>Review Exercise</title>
+
+    <para>Intentionally left blank.</para>
+  </sect1>
+
+  <sect1>
+    <title>Lab Exercise</title>
+
+    <formalpara>
+      <title>Exercise 1: Installing a game on Ubuntu</title>
+
+      <para>During a recent get together with your friends, you heard a lot of
+      good things about a game that they play on their Linux operating system.
+      You wish to play the same game, but you cannot find that game in the
+      games package that got installed with Ubuntu. What do you need to do in
+      order to play this game on your computer?</para>
+    </formalpara>
+
+    <procedure>
+      <title>To perform the required task:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">System</emphasis> menu, point to
+        <emphasis role="strong">Administration</emphasis> and click <emphasis
+        role="strong">Software Sources</emphasis> to display the <emphasis
+        role="strong">Software Sources</emphasis> dialogue box.</para>
+      </step>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">Software Sources</emphasis>
+        dialogue box, select the check boxes next to main and universe
+        options. Retain the <emphasis role="strong">Main server</emphasis>
+        option in the <emphasis role="strong">Download from</emphasis>
+        category and clear the <emphasis role="strong">CDrom</emphasis> check box.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Close</emphasis> to display a
+        prompt and then click <emphasis role="strong">Reload</emphasis> on the
+        prompt to update the list of applications available.</para>
+      </step>
+
+      <step performance="required">
+        <para>To install the game, select <emphasis
+        role="strong">Add/Remove</emphasis> on the <emphasis
+        role="strong">Applications</emphasis> menu to display the <emphasis
+        role="strong">Add/Remove Applications</emphasis> window.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select <emphasis role="strong">Games</emphasis> in the left pane
+        of the window, change the Show list option to <emphasis
+        role="strong">All Open Source Applications</emphasis>, type the name
+        of the game in the <emphasis role="strong">Search</emphasis> box and
+        press Enter.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the check box next to the game to mark it for
+        installation and click <emphasis role="strong">Apply
+        Changes</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>On the confirmation dialogue box, click <emphasis
+        role="strong">Apply</emphasis> to proceed.</para>
+      </step>
+
+      <step performance="required">
+        <para>After the installation of the game is complete, a dialogue box
+        confirms the installation and provides the option to launch the
+        installed game. Double-click the name of the game to launch it.
+        Alternatively, you can close this dialogue box and launch the game by
+        using the <emphasis role="strong">Applications</emphasis> menu on the
+        desktop.</para>
+      </step>
+    </procedure>
+
+    <formalpara>
+      <title>Exercise 2: Installing Wine and playing a Microsoft Windows game
+      on Ubuntu</title>
+
+      <para>You were browsing the Web one day and came across an interesting
+      game. You downloaded it and every thing seemed fine until you realise
+      that the game could be played only on Microsoft Windows, which is not
+      installed on your computer. You really liked the game, how do you play
+      this on Ubuntu?</para>
+    </formalpara>
+
+    <procedure>
+      <title>To play a Windows game on Ubuntu:</title>
+
+      <step performance="required">
+        <para>Install <emphasis role="strong">wine</emphasis> and <emphasis
+        role="strong">wine-dev</emphasis> packages from <emphasis
+        role="strong">Synaptic Package Manager</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>Open the games setup tool with Wine.</para>
+      </step>
+
+      <step performance="required">
+        <para>Start the games from the Applications menu.</para>
+      </step>
+    </procedure>
+  </sect1>
+</chapter>

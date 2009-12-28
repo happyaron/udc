@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://docbook.org/xml/4.3/docbookx.dtd">
+<chapter id="lesson7">
+  <title>Making The Most of Images and Photos</title>
+
+  <itemizedlist>
+    <title>Objectives</title>
+
+    <para>In this lesson, you will learn to:</para>
+        
+        <listitem>
+          <para>View and edit images</para>
+        </listitem>
+
+        <listitem>
+          <para>Scan and send images</para>
+        </listitem>
+       
+      </itemizedlist>
+  
+
+  <note userlevel="instructor">
+    <title>Instructor Notes:</title>
+
+    <para><emphasis role="italic">It is advisable to cover all the topics
+    during the training. However, if you fall short of time then cover only
+    the following topics:</emphasis> 
+    <itemizedlist>
+        <listitem>
+          <para><emphasis role="italic">Introducing Graphics
+          Applications</emphasis></para>
+        </listitem>
+		 <listitem>
+          <para><emphasis role="italic">Managing Photos with
+          F-Spot</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="italic">3D Effects</emphasis></para>
+        </listitem>
+      </itemizedlist></para>
+
+    <para>Try and take photographs of the class (students) before this session
+    and then demonstrate the applications using those photographs. This lesson
+    should be very hands on as opposed to just a demonstration.</para>
+  </note>
+
+  <sect1>
+    <title>Introducing Graphics Applications</title>
+
+    <para>Graphics applications form an integral part of Ubuntu. They enable
+    you to organise your photo collection, create and edit photos and images,
+    scan and send objects and more.</para>
+
+    <para>In this lesson, you will learn about the various graphics
+    applications available on Ubuntu and which one to use when. These graphics
+    applications are available either with the Ubuntu installation or in
+    repositories (those libraries we mentioned earlier).</para>
+
+    <formalpara>
+      <title>Applications Available with the Ubuntu Installation</title>
+
+      <para>The following applications are included in the Ubuntu installation
+      package: <itemizedlist>
+          <listitem>
+            <para><emphasis role="strong">GIMP Image Editor:</emphasis> An
+            image editor used for advanced image creation and editing such as
+            changing the contrast, colour or the texture of an image.</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="strong">F-Spot Photo Manager:</emphasis> A
+            photo manager used to organise and manage photos. F-Spot enables
+            you to tag (label), categorise and sort photos.</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="strong">XSane Image Scanner:</emphasis> An
+            image scanner which also enables you to photocopy documents and
+            fax or e-mail scanned images.</para>
+          </listitem>
+        </itemizedlist></para>
+    </formalpara>
+
+    <formalpara>
+      <title>Applications Available in Repositories</title>
+
+      <para>In addition to the default applications, you can search through
+      the repositories and install applications using the Synaptic Package
+      Manager or the Command Line Interface (CLI).</para>
+    </formalpara>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>Thousands of applications are available in the repositories; this
+      topic covers only a few of them. If students want more information about
+      a specific application, show them the way to view application details in
+      the Synaptic Package Manager.</para>
+    </note>
+
+    <para>Some of the graphics applications are available in Ubuntu software
+    repositories: <itemizedlist>
+        <listitem>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_001.png" format="PNG"
+                         width="1cm" />
+            </imageobject>
+          </mediaobject>
+
+          <formalpara>
+            <title>Agave:</title>
+
+            <para>A colour scheme designer. After you select a base colour,
+            Agave suggests the appropriate complementary colours or shades of
+            the same base colour. You can also drag and drop a colour from
+            another application, such as GIMP. Whether you are designing a Web
+            page or a pamphlet or painting your house, this programme enables
+            you to identify the appropriate colour scheme. Visit the Web site
+            <ulink
+            url="http://home.gna.org/colorscheme/">http://home.gna.org/colorscheme/</ulink>
+            for more information on Agave.</para>
+          </formalpara>
+        </listitem>
+
+        <listitem>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_002.png" format="PNG"
+                         width="1cm" />
+            </imageobject>
+          </mediaobject>
+
+          <formalpara>
+            <title>Blender:</title>
+
+            <para>An open-source 3D content creation suite. You can create 3D
+            models and animations, add post-production effects or use it as a
+            graphics editor to define interactive behaviour without
+            programming. Blender has a distinctive user interface that is
+            implemented entirely in Open GL and designed for speed. Python
+            bindings for scripting and import/export features for popular file
+            formats such as 3D Studio are available in Blender. Blender can
+            output still images, animations, models for games or other third
+            party engines and interactive content in the form of standalone
+            binaries or web plug-ins. Visit the Web site <ulink
+            url="http://www.blender.org/">http://www.blender.org/</ulink> for
+            more information on Blender.</para>
+          </formalpara>
+        </listitem>
+
+        <listitem>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_003.png" format="PNG"
+                         width="1cm" />
+            </imageobject>
+          </mediaobject>
+
+          <formalpara>
+            <title>Dia:</title>
+
+            <para>A diagram editor similar to Microsoft Visio. Dia offers the
+            capability to produce precise and professional-level graphics. You
+            can draw entity relationship diagrams, flowcharts and network
+            diagrams and export them to various formats, including EPS, SVG,
+            XFIG, WMF and PNG. You can also print diagrams spanning multiple
+            pages. Visit the Web site <ulink
+            url="http://live.gnome.org/Dia">http://live.gnome.org/Dia</ulink>
+            for more information.</para>
+          </formalpara>
+        </listitem>
+
+        <listitem>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_004.png" format="PNG"
+                         width="1cm" />
+            </imageobject>
+          </mediaobject>
+
+          <formalpara>
+            <title>Gcolor2:</title>
+
+            <para>A simple colour selector and picker that facilitates quick
+            and easy selection of colours. It also enables you to save new
+            colours and delete existing ones. Visit the Web site <ulink
+            url="http://gcolor2.sourceforge.net/">http://gcolor2.sourceforge.net/</ulink>
+            for more information.</para>
+          </formalpara>
+        </listitem>
+
+        <listitem>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_005.png" format="PNG"
+                         width="1cm" />
+            </imageobject>
+          </mediaobject>
+
+          <formalpara>
+            <title>GNU paint:</title>
+
+            <para>A user-friendly painting programme for GNOME. It offers
+            easy-to-use drawing tools to perform various image-processing
+            operations. Visit the Web site <ulink
+            url="http://gpaint.sourceforge.net/">http://gpaint.sourceforge.net/</ulink>
+            for more information.</para>
+          </formalpara>
+        </listitem>
+      </itemizedlist></para>
+
+    <para>In addition, several third-party applications, such as Picasa, a
+    free software download from Google, are compatible with Ubuntu.</para>
+
+    <para>Picasa enables you to locate and organise all the photos on your
+    computer, edit and add effects to your photos and share your photos
+    through e-mail and print and post images on the Web. You can download
+    Picasa from the following Web site <ulink
+    url="http://picasa.google.com/linux/download.html">http://picasa.google.com/linux/download.html</ulink>.</para>
+
+    <para>The following section outlines the features of some of these
+    graphics applications and how to use them.</para>
+  </sect1>
+
+  <sect1>  
+
+    <title>Viewing and Managing Photos with F-Spot</title>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>After a brief explanation of F-Spot and its features, refrain from
+      lengthy explanation of the tasks. Perform a brief demo of the tasks
+      covered in the lesson and ask students to follow.</para>
+    </note>
+
+    <para>F-Spot is a personal photo management application for the GNOME
+    desktop. You can import and view pictures from the hard disk on your
+    computer, digital camera or even the ipod. You can attach tags to your
+    photos and categorise them, build a photo CD, export photos over the
+    Internet and share them online or perform basic colour-correction and
+    editing. F-Spot supports 16 common file types, including JPEG, GIF, TIFF
+    and RAW.</para>
+
+    <para>The following graphic shows the elements in the F-Spot
+    interface:</para>
+
+    <figure float="0">
+      <title>F-Spot Window</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson08_images_020.png" format="PNG"
+                     width="12cm" />
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <sect2>
+      <title>Importing Photos in F-Spot</title>
+
+      <para>After importing the photographs, you can categorise and tag them
+      as you would to create a playlist in a music player.</para>
+
+      <procedure>
+        <title>Importing Photographs from the Hard Disk</title>
+
+        <para>To import photographs into F-Spot from the hard disk of your
+        computer:</para>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Graphics</emphasis> and click
+          <emphasis role="strong">F-Spot Photo Manager</emphasis>. The
+          <emphasis role="strong">F-Spot</emphasis> window opens.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Import</emphasis> button on
+          the toolbar. The <emphasis role="strong">Import</emphasis> dialogue
+          box opens.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Importing Photos</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_021.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>You can also click <emphasis role="strong">Import</emphasis>
+            on the <emphasis role="strong">File</emphasis> menu to open the
+            <emphasis role="strong">Import</emphasis> dialogue box.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Import Source</emphasis> box,
+          the <emphasis role="strong">Select Folder</emphasis> option is
+          selected by default. Retain the option, navigate to the folder that
+          contains the photographs and click <emphasis
+          role="strong">Open</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting Photo Import
+            Source</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_022.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <figure float="0">
+            <title><emphasis role="italic">Displaying Images to
+            Import</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_023.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Import</emphasis> in the
+          <emphasis role="strong">Import</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Importing Photos</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_024.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>The photographs are listed as thumbnails in the <emphasis
+          role="strong">F-Spot</emphasis> window. Notice that the timeline
+          slider is positioned according to the dates on which the images were
+          saved on the hard disk of your computer.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Browsing Photos</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_025.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>The photographs listed in the F-Spot window are not
+            associated with any category or parent tag.</para>
+          </note>
+        </step>
+      </procedure>
+
+      <procedure>
+        <title>Importing Photographs from a Digital Camera</title>
+
+        <para>To import photographs into F-Spot from a digital camera:</para>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Import</emphasis> button on
+          the toolbar. The <emphasis role="strong">Import</emphasis> dialogue
+          box opens.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Import Source</emphasis>
+          box. Plug the camera on the computer. F-Spot detects the camera and
+          displays the model and type of the camera in the <emphasis
+          role="strong">Import Source</emphasis> box.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting Photo Import
+            Source</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_026.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click the camera as the source for the photographs. The
+          <emphasis role="strong">Select Photos to Copy From Camera</emphasis>
+          dialogue box opens, which lists all the photos in the camera. Select
+          the photos you want to import and click <emphasis
+          role="strong">Copy</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting Images to
+            Copy</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_027.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>F-Spot copies the photographs to the specified location and
+          displays the copied photographs in the right pane of the <emphasis
+          role="strong">F-Spot</emphasis> window.</para>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2>
+      <title>Viewing Photos</title>
+
+      <para>After importing, you can view all the photographs as thumbnails in
+      the right pane of the <emphasis role="strong">F-Spot</emphasis> window.
+      You can view photographs in F-Spot by: <itemizedlist>
+          <listitem>
+            <para>Double-clicking each thumbnail to enlarge the view</para>
+          </listitem>
+
+          <listitem>
+            <para>Select a thumbnail and click <emphasis
+            role="strong">Fullscreen</emphasis> on the toolbar</para>
+          </listitem>
+        </itemizedlist></para>
+
+      <para>The image opens in fullscreen mode.</para>
+
+      <figure float="0">
+        <title>Browsing Photos</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson08_images_028.png" format="PNG"
+                       width="10cm" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <figure float="0">
+        <title>Viewing Photos in Full Screen Mode</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson08_images_029.png" format="PNG"
+                       width="11cm" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>Click <emphasis role="strong">Exit fullscreen</emphasis> to return
+      to the <emphasis role="strong">F-Spot</emphasis> window.</para>
+    </sect2>
+
+    <sect2>
+      <title>Organising Photos</title>
+
+      <para>By default, F-Spot organises photographs based on the dates in
+      which they were saved on the computer. You can view photographs for a
+      specific date and time by clicking the corresponding year on the
+      timeline slider or moving the slider along the timeline. For example,
+      assume that there are 100 images in the right pane, 50 of which were
+      saved in 2004 and 50 in 2007. To view the images for 2004, position the
+      slider on the timeline at the 2004 mark.</para>
+
+      <para>To organise the photographs differently, you can attach a tag or a
+      label to each photo and categorise them. You can then view photographs
+      based on these categories.</para>
+
+      <para>Some categories are already predefined and visible in the left
+      pane of the <emphasis role="strong">F-Spot</emphasis> window. You can
+      group your photos under these tags.</para>
+
+      <para>To add a tag to a photograph: <itemizedlist>
+          <listitem>
+            <para>In the <emphasis role="strong">F-Spot</emphasis> window,
+            right-click a photograph, point to <emphasis role="strong">Attach
+            a Tag</emphasis> and click the tag with which you want to
+            associate the photograph. The tag is displayed at the bottom of
+            the photograph.</para>
+
+            <figure float="0">
+              <title>Tagging an Image</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="images/Lesson08_images_030.png"
+                             format="PNG" width="11cm" />
+                </imageobject>
+              </mediaobject>
+            </figure>
+
+            <figure float="0">
+              <title>Viewing Tagged Images</title>
+
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="images/Lesson08_images_031.png"
+                             format="PNG" width="10cm" />
+                </imageobject>
+              </mediaobject>
+            </figure>
+
+            <para>The tagged image is now displayed under the tagged
+            category.</para>
+          </listitem>
+        </itemizedlist></para>
+    </sect2>
+    <sect2>
+      <title>Removing Red Eye</title>
+
+      <para>In some cameras, the proximity of the flash to the lens causes the
+      light from the flash to reflect from the subject's retina to the lens,
+      leaving a red eye mark on the image. Referred to as a red eye, the size
+      of the mark depends on the amount of light reflected. F-Spot Photo Manager
+      software can be used to remove the red eye from images.</para>
+      
+          <figure float="0">
+            <title>Image with a Red Eye</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_014.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+          
+      <procedure>
+        <title>To remove red eye from an image:</title>
+          
+        <step performance="required">
+          <para>In the <emphasis role="strong">F-spot Photo Manager</emphasis> window,
+          click the thumbnail of the image that has a red eye. Click the <emphasis
+          role="strong">Edit</emphasis> button in the navigation toolbar.  Use your mouse to select the area
+          you wish to correct on the image.  You can zoom in on the area by using the slider bar in the bottom 
+          of the work area.</para>
+
+
+          <figure float="0">
+            <title>Removing Red Eye</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_015.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+          </step>
+        
+        <step performance="required">
+          <para>Click the <emphasis
+          role="strong">Redeye Removal</emphasis> icon underneath the image. F-spot automatically corrects
+          the image.</para>
+          <note>
+            <title>Note:</title>
+
+            <para>The edited image also replaces the image stored on your
+            computer. Ensure that you save a copy of the image before editing
+            it.</para>
+          
+          </note>
+          </step>
+      </procedure>
+    </sect2>
+  </sect1>
+<sect1>
+    <title>The GIMP</title>
+
+    <para>GNU Image Manipulation Programme (GIMP) is the default graphic
+    application in Ubuntu, licensed under the GNU General Public License. It
+    is an open-source multi-platform image manipulation tool, available in
+    many languages. You can use GIMP to re-touch photos, compose and create
+    images, re-size, crop, manipulate colours and convert image
+    formats.</para>
+
+    <para>GIMP has a number of useful features: <itemizedlist>
+        <listitem>
+          <para>A full suite of painting tools, including brushes, a pencil
+          and an airbrush</para>
+        </listitem>
+
+        <listitem>
+          <para>Selection tools such as rectangle, ellipse, free, fuzzy and
+          bezier</para>
+        </listitem>
+
+        <listitem>
+          <para>Transformation tools such as rotate, scale, shear and
+          flip</para>
+        </listitem>
+
+        <listitem>
+          <para>Tile-based memory management so that the image size is limited
+          only by available disk space</para>
+        </listitem>
+
+        <listitem>
+          <para>Multiple undo/re-do operations limited only by disk
+          space</para>
+        </listitem>
+
+        <listitem>
+          <para>Advanced scripting capabilities</para>
+        </listitem>
+
+        <listitem>
+          <para>Layers and channels for complex drawings</para>
+        </listitem>
+
+        <listitem>
+          <para>Sub-pixel sampling for all paint tools to minimise distortion
+          while representing high-resolution images in lower resolution or
+          stretched mode</para>
+        </listitem>
+
+        <listitem>
+          <para>Full alpha channel support to simulate transparency in
+          images</para>
+        </listitem>
+
+        <listitem>
+          <para>Support for multiple file formats, including GIF, JPEG, PNG,
+          XPM, TIFF, TGA, MPEG, PS, PDF, PCX and BMP</para>
+        </listitem>
+      </itemizedlist></para>
+
+    <procedure>
+      <title>To launch GIMP from the desktop:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">Applications</emphasis> menu,
+        point to <emphasis role="strong">Graphics</emphasis> and click
+        <emphasis role="strong">GIMP Image Editor</emphasis>. The <emphasis
+        role="strong">GIMP Tip of the Day</emphasis> prompt is displayed.
+        Click <emphasis role="strong">Close</emphasis> on the <emphasis
+        role="strong">GIMP Tip of the Day</emphasis> prompt. The <emphasis
+        role="strong">GIMP</emphasis> window opens.</para>
+
+        <figure float="0">
+          <title>GIMP Tip of the Day Dialogue Box</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_017.png" format="PNG"
+                         width="6cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+
+        <tip>
+          <title>Nice to Know:</title>
+
+          <para>The GIMP mascot is a coyote named Wilber. He provides useful
+          tips while you use the application. If you do not want to see the
+          tips, clear the <emphasis role="strong">Show tip next time GIMP
+          starts</emphasis> check box.</para>
+        </tip>
+      </step>
+
+      <step performance="required">
+        <para>To open an image for modification, on the <emphasis
+        role="strong">File</emphasis> menu, click <emphasis
+        role="strong">Open</emphasis> and select the image you want to
+        modify.</para>
+
+        <figure float="0">
+          <title>Opening an Image for Editing</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_018.png" format="PNG"
+                         width="11cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The selected image opens in the <emphasis
+        role="strong">Image</emphasis> window.</para>
+
+        <figure float="0">
+          <title>Editing Image</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson08_images_019.png" format="PNG"
+                         width="11cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+
+        <para>You can now modify the image by using the tools available in the
+        <emphasis role="strong">GIMP</emphasis> window.</para>
+
+        <tip>
+          <title>Nice to Know:</title>
+
+          <para>You can drag and drop a colour from the toolbox or from a
+          colour palette onto an image. This fills the current image or
+          selection with the selected colour.</para>
+        </tip>
+
+        <note userlevel="instructor">
+          <title>Instructor Notes:</title>
+
+          <para>If time permits, allow students to familiarise themselves with
+          GIMP. Ask students to open an image and perform basic operations
+          such as cropping the image, inserting text into the image, rotating
+          the layer and smudging the image by using the available
+          tools.</para>
+        </note>
+      </step>
+    </procedure>
+  </sect1>
+
+ 
+  <sect1>
+    <title>Drawing with Inkscape</title>
+
+    <para>Inkscape helps you draw illustrations for the Web, graphics for
+    mobile phones, simple line drawings, cartoons, complex works of art,
+    figures for chapters and books or organization charts.</para>
+
+    <para>Inkscape is a high-end graphic tool with capabilities similar to
+    Illustrator, CorelDraw or Xara X. It is multi-platform software that is
+    freely available for the Linux, Microsoft Windows, Solaris and Mac OS X
+    operating systems.</para>
+
+    <para>You can use it to rotate, re-size, skew, proportion, fill and stroke
+    objects with a high level of precision. Advanced visual effects such as
+    gradient and transparency are also available.</para>
+
+    <para>Inkscape is not part of the default graphics package in Ubuntu
+    however, you can install this package from repositories.</para>
+
+    <sect2>
+      <title>Installing Inkscape</title>
+
+      <para>There are two ways to install Inkscape. You can install this
+      application from the repositories by using Synaptic Package Manager or
+      from the Command Line Interface (CLI).</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>Your computer must be connected to the Internet while
+        installing the application from the repositories.</para>
+      </note>
+
+      <procedure>
+        <title>Installing Inkscape by Using Synaptic Package Manager</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Administration</emphasis> and click
+          <emphasis role="strong">Synaptic Package Manager</emphasis>. The
+          <emphasis role="strong">Synaptic Package Manager</emphasis> window
+          opens.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Launching Synaptic Package
+            Manager</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_032.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Synaptic Package
+          Manager</emphasis> window, the left pane lists the categories of
+          software and the right pane lists the packages in a category. Click
+          <emphasis role="strong">Search</emphasis>. The <emphasis
+          role="strong">Find</emphasis> dialogue box opens. Type <emphasis
+          role="strong">Inkscape</emphasis> in the <emphasis
+          role="strong">Search</emphasis> field and click <emphasis
+          role="strong">Search</emphasis>.</para>
+
+          <note>
+            <title>Note:</title>
+
+            <para>To view installed and uninstalled packages, click <emphasis
+            role="strong">Status</emphasis>. For the source repository of the
+            package, click <emphasis role="strong">Origin</emphasis>. Click
+            <emphasis role="strong">Custom Filters</emphasis> to determine
+            whether a package is broken or upgradeable. To return to the list
+            of categories after searching the packages, click <emphasis
+            role="strong">Sections</emphasis>.</para>
+          </note>
+
+          <figure float="0">
+            <title><emphasis role="italic">Searching
+            Inkscape</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_033.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Search</emphasis> results are
+          displayed in the right pane of the <emphasis role="strong">Synaptic
+          Package Manager</emphasis> window. Right-click <emphasis
+          role="strong">Inkscape</emphasis> and select the <emphasis
+          role="strong">Mark for Installation</emphasis> check box.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Marking Inkscape for
+            Installation</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_034.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Apply</emphasis> on the toolbar
+          to begin the installation process. A <emphasis
+          role="strong">Summary</emphasis> dialogue box is displayed, which
+          prompts you to confirm the changes. Click <emphasis
+          role="strong">Apply</emphasis> to proceed with the
+          installation.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Confirming
+            Changes</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_035.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After the installation is complete, click <emphasis
+          role="strong">Close</emphasis> in the <emphasis
+          role="strong">Changes applied</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Changes Applied
+            Confirmation</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_036.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <para>To launch Inkscape, on the <emphasis
+      role="strong">Applications</emphasis> menu, point to <emphasis
+      role="strong">Graphics</emphasis> and click <emphasis
+      role="strong">Inkscape Vector illustrator</emphasis>.</para>
+    </sect2>
+
+    <sect2>
+      <title>Creating Vector Graphic Images Using InkScape</title>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>To utilise the full potential of this application requires some
+        hands-on experience on similar applications. This topic introduces
+        students to Inkscape and covers the basic concepts. To engage students
+        with some prior experience, use an example from the help manual and
+        make them perform the steps given in the manual.</para>
+      </note>
+
+      <formalpara>
+        <title>Page:</title>
+
+        <para>This area enables you to specify various options for the output.
+        For example, you can specify the Page dimensions for printing on A4
+        size paper. The Page adjusts accordingly and you can adjust the
+        proportion the drawing relative to the Page.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>Menu Bar:</title>
+
+        <para>This toolbar provides menus such as file save and zoom. You can
+        perform all operations in Inkscape by using the options listed on
+        these menus.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>Command Bar:</title>
+
+        <para>This toolbar provides shortcuts to major operations on the menu
+        bar.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>Drawing Toolbar:</title>
+
+        <para>This toolbar provides options to perform drawing operations. You
+        can create basic shapes such as a rectangle, a square or an
+        ellipse.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>Tools Control Bar:</title>
+
+        <para>This toolbar provides options specific to a tool on the Drawing
+        toolbar. For example, if you select the polygon tool from the Drawing
+        toolbar, the Tools Control Bar displays options to set the corners in
+        the polygon.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>Status Bar:</title>
+
+        <para>This toolbar indicates the status of objects such as dimensions
+        and layers. For example, when you roll the mouse over the window, the
+        Status Bar indicates the position of the cursor relative to the
+        window.</para>
+      </formalpara>
+
+      <note>
+        <title>Note:</title>
+
+        <para>Vector drawing software uses standard notation to refer to
+        shapes such as simple lines, rectangles and complicated shapes as
+        objects.</para>
+      </note>
+
+      <formalpara>
+        <title>Creating and Saving Objects</title>
+
+        <para>Creating a new object in Inkscape requires extensive use of the
+        Drawing toolbar. However, the options in this toolbar help you to
+        create basic shapes. To create complex objects, you need to further
+        edit, combine and manipulate these shapes.</para>
+      </formalpara>
+
+      <procedure>
+        <title>To create an object by using the Drawing toolbar:</title>
+
+        <step performance="required">
+          <para>Click the object button associated with the shape you want to
+          draw. Point anywhere in the page where you want to start drawing the
+          object.</para>
+        </step>
+
+        <step performance="required">
+          <para>Drag the cursor to the desired size of the object. The object
+          is displayed in the page.</para>
+
+          <figure float="0">
+            <title>Drawing an Object</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_038.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>The Tools Control Bar displays options to create the object.
+          For example, if you are creating a rectangle, the toolbar provides
+          the option to specify the height and the width of the
+          rectangle.</para>
+        </step>
+
+        <step performance="required">
+          <para>After creating the shape, click <emphasis
+          role="strong">Save</emphasis> on the Command Bar. The <emphasis
+          role="strong">Select file to Save to</emphasis> dialogue box is
+          displayed. Type the name of the file in the <emphasis
+          role="strong">Name</emphasis> text box, specify the location where
+          you want to save the file and click <emphasis
+          role="strong">Save</emphasis>.</para>
+
+          <figure float="0">
+            <title>Saving an Object</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_039.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Inkscape saves images as vector graphics. You can resize a
+            vector image without affecting the resolution of the image.</para>
+          </note>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Using a Scanner</title>
+
+    <para>Scanning an object in Ubuntu is simple. If you have a USB scanner,
+    plug the scanner directly into your computer. Most plug-and-play devices
+    are compatible with Ubuntu, if however, the computer fails to detect the
+    scanner, you will need to check its compatibility with Ubuntu.</para>
+
+    <sect2>
+      <title>Checking Scanner Compatibility</title>
+
+      <para>You can check the compatibility of your scanner with Ubuntu in one
+      of two ways: <itemizedlist>
+          <listitem>
+            <para>Visit this Web site for the list of scanners and drivers
+            compatible with Ubuntu: <ulink
+            url="https://wiki.ubuntu.com/HardwareSupportComponentsScanners">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink>.</para>
+          </listitem>
+
+          <listitem>
+            <para>Check the status of your scanner at the following Web site:
+            <ulink
+            url="http://www.sane-project.org/sane-backends.html">http://www.sane-project.org/sane-backends.html</ulink>.
+            This site lists the drivers distributed with sane-backends-1.0.18
+            and supported hardware and software.</para>
+          </listitem>
+        </itemizedlist></para>
+    </sect2>
+
+    <sect2>
+      <title>Scanning an Image</title>
+
+      <para>You can scan an image by using the scanner interface or the
+      scanning application XSane, which is available in Ubuntu.</para>
+
+      <procedure>
+        <title>To scan an image by using XSane:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Graphics</emphasis> and click
+          <emphasis role="strong">XSane Image Scanner</emphasis>. XSane
+          automatically searches for a scanner attached to the computer. After
+          your computer detects the scanner, the <emphasis role="strong">XSane
+          Options</emphasis> dialogue box is displayed.</para>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">XSane Options</emphasis> dialogue
+          box provides options to modify the default settings of the output.
+          You can specify the number of copies to be scanned, the name of the
+          output file, the output file type, and colour and contrast options.
+          After you specify the properties of the output file, place the
+          object on the scanner and click Scan to begin scanning the
+          object.</para>
+
+          <figure float="0">
+            <title>Using XSane</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_040.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After the object is scanned, a viewer window displays the
+          output.</para>
+
+          <figure float="0">
+            <title>Viewing Scanned Output</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson08_images_041.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Before beginning the scanning operation, check the
+            compatibility of your scanner with Ubuntu. Sometimes, Ubuntu
+            detects the scanner as hardware but fails to scan if the required
+            driver is missing.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>Continue to scan other images or close the <emphasis
+          role="strong">XSane Options</emphasis> dialogue box to exit the
+          application.</para>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Lesson Summary</title>
+
+    <para>In this lesson, you learned how to: <itemizedlist>
+        <listitem>
+          <para>View and organise your photo collection by using the default
+          Ubuntu graphic applications:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>The <emphasis role="strong">F-Spot Photo Manager</emphasis>
+              enables you to import pictures, organise your photos using tags, create a photo CD, display
+              photos as a slide show and create albums of your photo
+              collection for the Web.</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+
+        <listitem>
+          <para>Use GIMP for advanced image manipulation and creation.</para>
+        </listitem>
+
+        <listitem>
+          <para>Create graphics in the SVG format by using the Inkscape vector
+          graphics editor.</para>
+        </listitem>
+
+        <listitem>
+          <para>Scan your images and save them in various formats by using
+          XSane Image Scanner.</para>
+        </listitem>
+      </itemizedlist></para>
+  </sect1>
+
+  <sect1 role="questions">
+    <title>Review Exercise</title>
+
+    <qandaset>
+      <qandaentry>
+        <question>
+          <para>Which of the default graphics applications provides the option
+          to display only a category of images from a randomly stored pool of
+          images?.</para>
+
+          <para>a) Inkscape</para>
+
+          <para>b) F-Spot</para>
+
+          <para>c) Xsane</para>
+
+          <para>d) GIMP</para>
+        </question>
+
+        <answer>
+          <para>b) F-Spot</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Which default graphics application in Ubuntu facilitates photo
+          sharing over the Internet?</para>
+        </question>
+
+        <answer>
+          <para>The F-Spot Photo Manager</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Is there any additional software required to import images
+          from a digital camera?</para>
+        </question>
+
+        <answer>
+          <para>No, Ubuntu automatically identifies plug-and-play devices.
+          F-Spot Photo Manager can identify the connected device and enable you to
+          import images directly from the application interface.</para>
+        </answer>
+      </qandaentry>
+    </qandaset>
+  </sect1>
+
+  <sect1>
+    <title>Lab Exercise</title>
+
+    <formalpara>
+      <title>Exercise 1: Creating a Web Album by using F-Spot</title>
+
+      <para>You have just returned from a vacation with your friends. You
+      decide to write about this experience on your blog and post some
+      photographs of the trip. However, uploading images one by one to the Web
+      site involves a lot of effort and time. You want to find a more
+      convenient way to do this.</para>
+    </formalpara>
+
+    <procedure>
+      <title>To perform the required task:</title>
+
+      <step performance="required">
+        <para>Launch <emphasis role="strong">F-Spot Photo Manager</emphasis>. The default 
+        window is displayed.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Import</emphasis> on the
+        navigation bar. Navigate to the folder containing the photos <emphasis role="strong">Open</emphasis>. 
+        The workspace displays all the images available in the folder.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the images you want to include in the Web album.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Copy</emphasis> to import the selected photos. F-Spot 
+        displays the photos in the preview window.</para>
+      </step>
+
+      <step performance="required">
+        <para>In the preview window,select the photos you want include or use <emphasis
+        role="strong">Select All</emphasis> from the <emphasis
+        role="strong">Edit</emphasis> menu.</para>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis
+        role="strong">Photo menu</emphasis>, select the <emphasis
+        role="strong">Export to</emphasis> and then <emphasis
+        role="strong">Web Gallery</emphasis>. </para>
+      </step>
+      <step performance="required">
+        <para>You will need to enter the name of the Gallery, as well as the URL and log-in information for
+        the site. F-Spot will then upload the selected items to the website.</para>
+      </step>
+    </procedure>
+  </sect1>
+</chapter>

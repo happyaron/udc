@@ -1,0 +1,3625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://docbook.org/xml/4.3/docbookx.dtd">
+<chapter id="lesson8">
+  <title>Playing Music and Videos</title>
+  
+  <itemizedlist> 
+    <title>Objectives</title>
+
+	<para>In this lesson, you will learn to:</para>
+         <listitem>
+          <para>Play, edit and organize music and video files.</para>
+        </listitem>
+      </itemizedlist> 
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para><emphasis role="italic">It is recommended to cover all the
+        topics in this lesson. However,if you fall short of time then cover
+        only the following topics:</emphasis></para>
+
+        <para><emphasis role="italic">Legal Restrictions</emphasis></para>
+
+        <para><emphasis role="italic">Playing Audio Files</emphasis></para>
+
+        <para><emphasis role="italic">Using an iPod</emphasis></para>
+
+        <para><emphasis role="italic">Viewing DVDs</emphasis></para>
+
+        <para><emphasis role="italic">Playing Online Media</emphasis></para>
+      </note>
+
+  <sect1>
+    <title>Legal Restrictions</title>
+
+    <para>Ubuntu fully supports playback of music, videos and DVDs available
+    in free and unrestricted formats. A number of multimedia formats are
+    restricted by licenses and software patents in some jurisdictions. Ubuntu
+    does not offer this capability by default for these formats but it easy
+    to enable playing a variety of proprietary formats. This section will guide you
+    through the patent and copyright restriction considerations for using
+    proprietary file formats.</para>
+
+    <para>The license of the format is different from the license of the
+    content itself. For example a video's content can be licensed under a
+    Creative Commons license, and be available as MPEG file. While the content
+    can be distributed freely, the format is proprietary and a software for
+    playback may need to be licensed in some jurisdictions.</para>
+
+    <para>To understand the legal issues associated with the use of
+    proprietary formats, you first need to understand the difference between free
+    and non-free or proprietary formats.</para>
+  </sect1>
+
+  <sect1>
+    <title>Playing Music Files</title>
+
+    <para>Ubuntu comes with the Rhythmbox Music Player to play and organise
+    music files. Similar to iTunes in its interface, this music player is a
+    free software application designed to work in the GNOME desktop
+    environment. Using Rhythmbox, you can play your music files, listen to
+    Internet radio, import music from CDs and organise your music files.
+    Rhythmbox offers comprehensive audio support for a large number of audio
+    formats and contains various useful features that make playing music easy
+    and enjoyable.</para>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>You need to demonstrate and let the students play fully with at least
+      1 music, 1 DVD playback and 1 audio recording.</para>
+    </note>
+
+    <sect2>
+      <title>Playing Music using Rhythmbox</title>
+
+      <procedure>
+        <title>To play music using Rhythmbox:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Application</emphasis> menu,
+          point to <emphasis role="strong">Sound &amp; Video</emphasis> and
+          then click <emphasis role="strong">Rhythmbox Music
+          Player</emphasis>. A welcome screen is displayed.</para>
+
+          <figure float="0">
+            <title>Launching Rhythmbox</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_001.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The main window of the Rhythmbox Music Player opens. Now, you
+          will be able to organise your favourite music using this
+          window.</para>
+
+          <figure float="0">
+            <title>The Rhythmbox Music Player</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_002.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To start playing music in Rhythmbox, you need to first select
+          the music source from the <emphasis role="strong">Source</emphasis>
+          list. By default <emphasis role="strong">Library</emphasis> is
+          selected as the source when you open Rhythmbox for the first
+          time.</para>
+
+          <para>Library is the main source available in Rhythmbox. You can
+          import all your music files into the Rhythmbox library and can start
+          playing immediately. You also use the music files in your library to
+          create smart customised playlists and play-queues. To start
+          importing individual music files, right-click <emphasis
+          role="strong">Music</emphasis> and click <emphasis
+          role="strong">Import File</emphasis>. It displays the <emphasis
+          role="strong">Import File into Library</emphasis> dialogue
+          box.</para>
+
+          <figure float="0">
+            <title>Importing Music Files</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_003.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Import File into
+          Library</emphasis> dialogue box, navigate to the folder from which
+          you want to import the files. Select the files that you want to
+          import and click <emphasis role="strong">Open</emphasis>.</para>
+
+          <figure float="0">
+            <title>Selecting the Files to Import</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_004.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <tip>
+            <title>Nice to Know:</title>
+
+            <para>While importing music files from your music collection,
+            Rhythmbox also imports the metadata tags associated with the
+            files. These tags are used by Rhythmbox to categorise the music
+            files by genre, artist, album, title, and track number.</para>
+          </tip>
+        </step>
+
+        <step performance="required">
+          <para>The selected music files are imported into the library and
+          displayed in the the Rhythmbox window. You will notice that the main
+          Rhythmbox window is split into various panes. Each pane displays
+          different details about your music collection. To play music from
+          the library, you can use the <emphasis role="strong">Artist,
+          Album</emphasis> and <emphasis role="strong">Track</emphasis> panes
+          to select the music tracks that you want to play and then use the
+          playback controls to start playing the music tracks. Click the
+          <emphasis role="strong">Play</emphasis> button to start playing the
+          selected track.</para>
+
+          <figure float="0">
+            <title>The Rhythmbox Window</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_005.png"
+                           format="PNG" width="14cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>If you click the <emphasis role="strong">Play</emphasis>
+          button without selecting any track, Rhythmbox will start playing the
+          first track from your current view. You can use the <emphasis
+          role="strong">Shuffle</emphasis> button to play tracks randomly. You
+          can also create a play list by right-clicking a music track and
+          selecting <emphasis role="strong">Add to Playlist</emphasis>. To
+          stop or pause a track, click the <emphasis
+          role="strong">Play</emphasis> button again.</para>
+
+          <figure float="0">
+            <title>Creating New Playlist</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_006.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Rhythmbox offers many additional useful features in the form
+          of various plugins. Some of these plugins are not turned on by
+          default. To access these plugins, on the <emphasis
+          role="strong">Edit</emphasis> menu, click <emphasis
+          role="strong">Plugins.</emphasis> The <emphasis
+          role="strong">Configure Plugins</emphasis> dialogue box
+          opens.</para>
+
+          <figure float="0">
+            <title>Accessing Plugins</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_007.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can view all the available plugins in the left pane of the
+          <emphasis role="strong">Configure Plugins</emphasis> dialogue box.
+          Selecting a plugin displays its details in the right pane of the
+          dialogue box.</para>
+        </step>
+
+        <step performance="required">
+          <para>Depending on your requirements and preferences, you can
+          activate these plugins to get extra functionality in your Rhythmbox.
+          For example, the <emphasis role="strong">Magnatune
+          Store</emphasis> plugin enables iTunes-style song previews and paid
+          downloads. Activating <emphasis
+          role="strong">Visualization</emphasis> renders a real-time
+          visualization of the music on the screen while you listen to a song
+          track. Similarly, if you want to automatically retrieve the lyrics
+          of the song being played, activate <emphasis role="strong">Song
+          Lyrics</emphasis> by selecting the corresponding check box and click
+          <emphasis role="strong">Close</emphasis> to exit the <emphasis
+          role="strong">Configure Plugins</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title>Activating Plugins</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_008.png"
+                           format="PNG" vendor="" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You are returned to the main Rhythmbox interface. To start
+          retrieving the song lyrics, on the <emphasis
+          role="strong">View</emphasis> menu, click <emphasis
+          role="strong">Song Lyrics</emphasis>.</para>
+
+          <figure float="0">
+            <title>Retrieving Song Lyrics</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_009.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Amazingly, Rhythmbox retrieves the song lyrics for you. Now,
+          you can sing along while listening to your favourite song.</para>
+
+          <figure float="0">
+            <title>The Song Lyrics Retrieved</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_010.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Similarly, if you wish to view animations while listening to a
+          song, click the <emphasis role="strong"> Visualization</emphasis>
+          button.</para>
+
+          <figure float="0">
+            <title>Activating Visualisation</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_011.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can view animations while playing a song.</para>
+
+          <figure float="0">
+            <title>Viewing Animations</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_012.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Rhythmbox also enables you to listen to music from a variety
+          of sources, such as Internet radio stations and podcasts.</para>
+
+          <para>To play music from a podcast of your choice, right-click the
+          <emphasis role="strong">Podcast</emphasis> option in the <emphasis
+          role="strong">Source</emphasis> list and select <emphasis
+          role="strong">New Podcast Feed</emphasis>.</para>
+
+          <figure float="0">
+            <title>Adding New Podcast Feed</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_013.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Podcasts are audio shows broadcast over the Internet that
+            you can subscribe to. Subscribing to a podcast enables you to
+            download each new audio release from the subscribed podcast
+            source.</para>
+          </note>
+
+          <note userlevel="instructor">
+            <title>Instructor Notes:</title>
+
+            <para>If the students want to know more about podcasts, advise
+            them to read the Wikipedia article on podcasting: <ulink
+            url="http://en.wikipedia.org/wiki/Podcasting">http://en.wikipedia.org/wiki/Podcasting</ulink>.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>Enter the podcast feed URL in the <emphasis role="strong">New
+          Podcast Feed</emphasis> text box and click <emphasis
+          role="strong">Add</emphasis>.</para>
+
+          <figure float="0">
+            <title>Entering Podcast Feed URL</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_014.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Rhythmbox automatically looks for the latest podcasts and
+          downloads them for you. To play a podcast episode, select the
+          episode that you want to play and click the <emphasis
+          role="strong">Play</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Playing a Podcast</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_015.png"
+                           format="PNG" width="13.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Rhythmbox also allows you to listen to radio streamed from
+          Internet radio stations across the world. To listen to Internet
+          radio, click the <emphasis role="strong">Radio</emphasis> source in
+          the <emphasis role="strong">Source</emphasis> pane.</para>
+
+          <figure float="0">
+            <title>Playing Internet Radio</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_016.png"
+                           format="PNG" width="13.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>By default the <emphasis role="strong">Radio</emphasis> source
+          lists several radio stations, each of them broadcasting a different
+          genre of music. Double-click on the radio station of your choice to
+          listen to the streaming media.</para>
+
+          <figure float="0">
+            <title>Listening to a Radio Station</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_017.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note userlevel="instructor">
+            <title>Instructor Notes:</title>
+
+            <para>Advise students to read the Wikipedia article on Internet
+            Radio if they want more background information: <ulink
+            url="http://en.wikipedia.org/wiki/Internet_radio">http://en.wikipedia.org/wiki/Internet_radio</ulink>.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>You can also add a new radio station to the existing list by
+          clicking <emphasis role="strong">New Internet Radio
+          Station</emphasis> and pasting the URL of the new radio station in
+          the <emphasis role="strong">URL of Internet radio station</emphasis>
+          text box. Click <emphasis role="strong">Add</emphasis> to add the
+          radio station in the existing list.</para>
+
+          <figure float="0">
+            <title>Adding New Radio Station</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_018.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can add many more Internet radio stations in the same way
+          and listen to your favourite radio stations with just a click of
+          your mouse.</para>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Playing and Extracting Audio CDs</title>
+
+    <para>Sound Juicer is the default application available in Ubuntu for
+    playing and extracting audio compact discs (CDs). It is an easy-to-use CD
+    player and ripping tool that requires minimal user intervention in playing
+    and extracting audio CDs. Using Sound Juicer, you can play audio tracks
+    directly from the CD and extract audio tracks and convert them into audio
+    files. Sound Juicer allows you to extract audio files into the following
+    three formats: <itemizedlist>
+        <listitem>
+          <para>Ogg Vorbis: Ogg vorbis is a free, unpatented and open source
+          alternative to the proprietary MP3 format. Like the MP3 format, it
+          discards parts of the sound that humans cannot normally hear. An Ogg
+          Vorbis file is typically a tenth of the size of a WAV format file
+          containing the same content.</para>
+        </listitem>
+
+        <listitem>
+          <para>FLAC: FLAC stands for Free Lossless Audio Codec. It is an
+          unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC
+          compresses audio without discarding any information. A FLAC file is
+          typically half the size of a WAV file containing the same
+          content.</para>
+        </listitem>
+
+        <listitem>
+          <para>WAV: WAV is short for Waveform Audio Format. It is an
+          uncompressed format typically used for short snippets of sound and
+          voice recordings.</para>
+        </listitem>
+      </itemizedlist></para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>To know more about Ogg Vorbis and FLAC audio format, visit the
+      following Web sites: <itemizedlist>
+          <listitem>
+            <para><ulink
+            url="http://www.vorbis.com/faq/">http://www.vorbis.com/faq/</ulink></para>
+          </listitem>
+
+          <listitem>
+            <para><ulink
+            url="http://flac.sourceforge.net/">http://flac.sourceforge.net/</ulink></para>
+          </listitem>
+        </itemizedlist></para>
+    </note>
+
+    <sect2>
+      <title>Playing Audio CDs</title>
+
+      <procedure>
+        <title>To play audio CDs using Sound Juicer</title>
+
+        <step performance="required">
+          <para>Insert an audio CD in the CD drive of your computer. The Sound
+          Juicer CD player and ripper is launched automatically. To start
+          Sound Juicer manually, click the <emphasis
+          role="strong">Applications</emphasis> menu, point to <emphasis
+          role="strong">Sound &amp; Video</emphasis> and then click <emphasis
+          role="strong">Audio CD Extractor</emphasis>.</para>
+
+          <figure float="0">
+            <title>Launching Sound Juicer</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_019.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Sound Juicer's main interface is displayed. When Sound Juicer
+          detects a CD, it examines the CD and tries to search the Internet to
+          locate information about the CD's content. If you are connected to
+          the Internet, Sound Juicer will retrieve the CD artist, title, and
+          track data from MusicBrainz.org.</para>
+
+          <para>To play all the tracks sequentially, you can simply click the
+          <emphasis role="strong">Play</emphasis> button.</para>
+
+          <note>
+            <title>Note:</title>
+
+            <para>MusicBrainz.org is a community-maintained online database,
+            which contains data on over 360,000 published albums.</para>
+          </note>
+
+          <figure float="0">
+            <title>Playing Audio CD</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_020.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>Notice that Sound Juicer has fetched the track information
+          from MusicBrainz.org. In the upper part of the Sound Juicer window,
+          you can see the basic information about the disc, including title,
+          artist, genre and total duration. The lower part of the window
+          displays a list of tracks, each with its full title, artist and
+          duration.</para>
+        </step>
+
+        <step performance="required">
+          <para>To play only the tracks of your choice, select the particular
+          tracks by selecting the corresponding checkboxes and then click the
+          <emphasis role="strong">Play</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Selecting the Song tracks</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_021.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can now enjoy listening to your favourite music
+          tracks.</para>
+
+          <figure float="0">
+            <title>Playing the Selected Tracks</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_022.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2>
+      <title>Extracting Audio CDs</title>
+
+      <para>If you want to listen to your favourite music tracks without
+      needing to insert a CD every time, you can create a copy of the CD and
+      extract the music tracks on your computer.</para>
+
+      <procedure>
+        <title>To extract the audio CD:</title>
+
+        <step performance="required">
+          <para>Insert the audio CD and click the <emphasis
+          role="strong">Extract</emphasis> button. However, if you want to
+          define the audio quality, format and the location where the files
+          would be stored, click <emphasis
+          role="strong">Preferences</emphasis> on the <emphasis
+          role="strong">Edit</emphasis> menu. This displays the <emphasis
+          role="strong">Preferences</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title>Defining Preferences For Audio Files</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_023.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can use the <emphasis role="strong">Preferences</emphasis>
+          dialogue box to define a number of things such as how the folder
+          hierarchy should be saved, how the files should be named and whether
+          to eject the CD automatically after the tracks are extracted.</para>
+
+          <para>In the last section of the <emphasis
+          role="strong">Preferences</emphasis> dialogue box, you can define
+          the file format in which the tracks would be stored on your
+          computer. Based on your requirements, select any one format from the
+          <emphasis role="strong">Output Format</emphasis> drop-down
+          list.</para>
+
+          <tip>
+            <title>Nice to Know:</title>
+
+            <para>You can also extract CD audio files to the proprietary,
+            non-free MP3 format. Instructions for extracting audio files into
+            the MP3 format can be found in the help for Sound Juicer. Go to
+            <emphasis role="strong">Help&gt;Content</emphasis> and then
+            navigate to the Preferences section.</para>
+          </tip>
+
+          <figure float="0">
+            <title>Specifying Audio Format</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_024.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Each of these file format has its own customisable profile.
+          Depending on the type of the music track and the destination where
+          it has to be stored, you may need to customise these file formats.
+          Click the <emphasis role="strong">Edit Profiles</emphasis> button,
+          then select the desired profile and click the <emphasis
+          role="strong">Edit</emphasis> button to edit the profile of the
+          selected file format according to your needs.</para>
+
+          <figure float="0">
+            <title>Editing Audio Profile</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_025.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Editing profile</emphasis>
+          dialogue box for the selected audio profile is displayed. You can
+          edit the audio profile according to your requirements and the click
+          <emphasis role="strong">Close</emphasis> to exit.</para>
+
+          <figure float="0">
+            <title>Customising Audio Profile</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_026.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can also use the <emphasis
+          role="strong">Preferences</emphasis> dialogue box to define the
+          location where you want the audio files to be stored on your
+          computer. By default, Sound Juicer stores the audio files in the
+          Home directory. To define a location of your choice, select a
+          directory from the <emphasis role="strong">Music Folder</emphasis>
+          drop-down list and click <emphasis role="strong">Close</emphasis> to
+          exit the <emphasis role="strong">Preferences</emphasis> dialogue
+          box.</para>
+
+          <figure float="0">
+            <title>Specifying Audio File Location</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_027.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After configuring your preferences, you can go ahead and start
+          extracting all the tracks by clicking the <emphasis
+          role="strong">Extract</emphasis> button. However, if you want to
+          exclude some tracks, deselect them by clearing the corresponding
+          check boxes.</para>
+
+          <para>Depending on the speed of your computer, the extracting
+          process can take a long time. You can watch the total progress of
+          the process in the lower left section of the <emphasis
+          role="strong">Sound Juicer</emphasis> window.</para>
+
+          <figure float="0">
+            <title>Extracting Song Tracks</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_028.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Sound Juicer notifies you after the selected tracks are
+          extracted successfully. Click <emphasis
+          role="strong">Open</emphasis> to view the tracks copied on your hard
+          disk.</para>
+
+          <figure float="0">
+            <title>Viewing Copied Tracks</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_029.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The CD audio tracks are now copied as audio files on your hard
+          disk. You can listen to these tracks by simply double-clicking
+          them.</para>
+
+          <figure float="0">
+            <title>The Copied Tracks</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_030.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Burning Audio CDs</title>
+
+    <para>Besides copying audio tracks from a CD to your computer, Ubuntu also
+    enables you to copy music files from your computer onto a CD or DVD. Brasero
+    is the CD/DVD burner application that comes bundled with Ubuntu, by
+    default. It is an easy-to-use application that also allows CD/DVD data disc creation,
+    CD/DVD copying and burning of existing images to CD/DVD.</para>
+
+    <procedure>
+      <title>To burn an audio CD:</title>
+
+      <step performance="required">
+        <para>Launch Brasero by selecting the <emphasis role="strong">Applications</emphasis> menu,
+        point to <emphasis role="strong">Sound &amp; Video</emphasis> and then
+        click <emphasis role="strong">Brasero Disc Burning</emphasis>.
+        The Brasero window is displayed.</para>
+
+        <figure float="0">
+          <title>Launching Brasero</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_032.png" format="PNG"
+                         width="12cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The <emphasis role="strong">Brasero Window</emphasis>
+        displays. Click the <emphasis role="strong">Audio Project</emphasis>
+        button. You will need to navigate to the folder containing the audio tracks
+        you wish to add to the new CD project.</para>
+
+        <figure float="0">
+          <title>Starting a new Audio Project</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_033.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+    
+
+        <figure float="0">
+          <title>The New Audio Project window</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_034.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>Now you need to specify the files that you want to be copied onto
+        the blank CD. To start specifying the desired audio files, click the
+        <emphasis role="strong">Music</emphasis> folder. This displays the contents of any items 
+        previously imported. Double-click the title of the folder where the music files are located. 
+        The files are listed in the middle window. You can now add files to the project using any of
+        the methods described in the right side window.</para>
+
+        <figure float="0">
+          <title>Specifying Audio Files to Copy</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_035.png" format="PNG"
+                         width="11cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+
+      <step performance="required">
+        <para>The selected files now appear in the project window. You can
+        also view the estimated disc usage once these files are written to the
+        disc at the bottom of the project window. Based on this data, you may decide 
+        to add or delete some files from your current selection. Once you are sure of 
+        the files to be copied to the disc, click the <emphasis role="strong">Burn</emphasis> 
+        button to start writing the audio files from your
+        computer to the CD.</para>
+
+        <figure float="0">
+          <title>Writing Audio Files to Disc</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_037.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The Disc Burning Setup window allows you to change the Properties
+        of the project.  You can select the <emphasis role="strong">Options</emphasis>
+        checkbox to leave the disc open to add a data session later.
+        Click the <emphasis role="strong">Burn</emphasis> button to
+        begin writing the files to the disc.</para>
+
+        <figure float="0">
+          <title>Confirming the CD Writing</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_038.png" format="PNG"
+                         width="11cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>Brasero now starts writing the music files to the media disc.
+        You can view the progress in the <emphasis
+        role="strong">Burning Audio Disc</emphasis> dialogue box. This process
+        may take some time depending on the size of the files to be written to
+        disc. Once the process is complete, you have a new CD containing all
+        your favourite songs.</para>
+
+        <figure float="0">
+          <title>Writing an Audio CD</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_039.png" format="PNG"
+                         width="11cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+    </procedure>
+  </sect1>
+
+  <sect1>
+    <title>Playing Proprietary Multimedia Formats</title>
+
+    <para>As previously stated, due to the legal restrictions associated with
+    the use of proprietary formats, Ubuntu does not offer support for such
+    formats by default. If you wish to play proprietary formats, you will
+    need to install additional multimedia codecs. A multimedia codec is a
+    small piece of software that allows you to watch videos or listen to music
+    of a specific format. Although Ubuntu includes many codecs by default, you
+    may need to install more because there are many different multimedia
+    formats and it is unrealistic to provide them all.</para>
+
+    <para>Playback of multimedia files in Ubuntu is handled by the Gstreamer
+    multimedia framework. GStreamer by itself does not provide any multimedia
+    codecs, it relies on codecs that have been packaged into a <emphasis
+    role="strong">plugin</emphasis> that it uses to perform the actual
+    recording and playback. Typical plugins are: <itemizedlist>
+        <listitem>
+          <para>gstreamer0.10-plugins-ugly</para>
+        </listitem>
+
+        <listitem>
+          <para>gstreamer0.10-plugins-ugly-multiverse</para>
+        </listitem>
+
+        <listitem>
+          <para>gstreamer0.10-plugins-bad</para>
+        </listitem>
+
+        <listitem>
+          <para>gstreamer0.10-plugins-bad-multiverse</para>
+        </listitem>
+
+        <listitem>
+          <para>gstreamer0.10-ffmpeg</para>
+        </listitem>
+      </itemizedlist></para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>To know more about which Gstreamer package contains which plugins,
+      visit the following Web site: <ulink
+      url="http://gstreamer.freedesktop.org/documentation/plugins.html">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>.</para>
+    </note>
+
+    <para>Other applications, such as VLC, MPlayer and Xine, do not use the
+    Gstreamer framework.</para>
+
+    <para>You can use the Synaptic Package Manager, or the Command Line
+    Interface (CLI) to install these multimedia codecs available in the
+    repositories.</para>
+
+    <tip>
+      <title>Nice to Know:</title>
+
+      <para>Codecs can be installed directly from the Movie Player. When Movie
+      Player recognizes a format it cannot play, it checks if a Gstreamer
+      plugin is available for this format. If it finds one, you can install
+      the codec easily without following the lengthy solution presented
+      below.</para>
+    </tip>
+
+    <procedure>
+      <title>To install a codec plugin using Synaptic Package Manager:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">System</emphasis> menu, point to
+        <emphasis role="strong">Administration</emphasis> and then click
+        <emphasis role="strong">Synaptic Package Manager</emphasis>. The
+        <emphasis role="strong">Synaptic Package Manager</emphasis> window
+        opens.</para>
+
+        <figure float="0">
+          <title>Launching Synaptic Package Manager</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_040.png" format="PNG"
+                         width="11.5cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The <emphasis role="strong">Multiverse</emphasis> and <emphasis
+        role="strong">Restricted</emphasis> repositories are not activated by
+        default in Ubuntu. To install the additional multimedia codecs, you
+        need to first activate these repositories. On the <emphasis
+        role="strong">Settings</emphasis> menu, click <emphasis
+        role="strong">Repositories</emphasis>. The <emphasis
+        role="strong">Software</emphasis> <emphasis
+        role="strong">Sources</emphasis> dialogue box is displayed.</para>
+
+        <figure float="0">
+          <title>Displaying Software Sources</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_041.png" format="PNG"
+                         width="13cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>To enable the Multiverse and Restricted repositories, select the
+        third and fourth check boxes available on the <emphasis
+        role="strong">Ubuntu Software</emphasis> tabbed page, and click
+        <emphasis role="strong">Close</emphasis> to exit the dialogue
+        box.</para>
+
+        <figure float="0">
+          <title>Enabling Repositories</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_042.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>You may receive a notification that your repository information
+        has changed. Click <emphasis role="strong">Close</emphasis> to exit
+        this message.</para>
+
+        <figure float="0">
+          <title>Repositories Information Notification</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_043.png" format="PNG"
+                         width="8cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>Once you return to the Synaptic Package Manager window, you are
+        required to click the <emphasis role="strong">Reload</emphasis> button
+        to apply your changes.</para>
+
+        <figure float="0">
+          <title>Applying Changes</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_044.png" format="PNG"
+                         width="14cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>On clicking the <emphasis role="strong">Reload</emphasis>
+        button, the system starts checking the repositories for new, removed
+        or upgraded software packages.</para>
+
+        <figure float="0">
+          <title>Checking Package Information</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_045.png" format="PNG"
+                         width="5cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>After the Multiverse and Restricted repositories are added in
+        the Ubuntu software sources, you can download and install additional
+        multimedia codecs. To install a software package, you need to first
+        locate the package in the Synaptic Package Manager window. You can
+        either search for a specific software package manually or run a search
+        using the search utility provided in the Synaptic Package Manager. To
+        initiate a search for a specific package, click <emphasis
+        role="strong">Search.</emphasis></para>
+
+        <figure float="0">
+          <title>Initiating Software Search</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_046.png" format="PNG"
+                         width="15cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">Search</emphasis> field, enter
+        the name of the software package that you are looking for. Click
+        <emphasis role="strong">Search</emphasis> to begin the search.</para>
+
+        <figure float="0">
+          <title>Searching a Software Package</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_047.png" format="PNG"
+                         width="6cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The search results are displayed in the right pane of the
+        Synaptic package Manager window. Right-click the package to be
+        installed and select <emphasis role="strong">Mark for
+        Installation</emphasis>.</para>
+
+        <figure float="0">
+          <title>Marking Packages for Installation</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_048.png" format="PNG"
+                         width="13.5cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>You can mark multiple packages for installation by following the
+        same procedure. Once all the required packages are marked, click
+        <emphasis role="strong">Apply</emphasis> to start downloading the
+        packages. The <emphasis role="strong">Summary</emphasis> dialogue box
+        is displayed.</para>
+
+        <figure float="0">
+          <title>Initiating Package Download</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_049.png" format="PNG"
+                         width="13.5cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The <emphasis role="strong">Summary</emphasis> dialogue box
+        allows you to take a last look at all the software packages that you
+        have marked for installation. To go ahead with the marked
+        installations, click <emphasis role="strong">Apply.</emphasis></para>
+
+        <figure float="0">
+          <title>Conforming Package Installation</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_050.png" format="PNG"
+                         width="8cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>After all the marked software packages are downloaded and
+        installed, the <emphasis role="strong">Changes Applied</emphasis>
+        dialogue box is displayed. Click <emphasis
+        role="strong">Close</emphasis> to exit the <emphasis
+        role="strong">Changes Applied</emphasis> dialogue box.</para>
+
+        <figure float="0">
+          <title>Changes Applied Notification</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_051.png" format="PNG"
+                         width="7cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The check box corresponding to the recently installed software
+        package has changed to green, indicating that the software has been
+        installed successfully. You can repeat the same procedure to install
+        all the multimedia codecs required for playing proprietary multimedia
+        formats.</para>
+
+        <figure float="0">
+          <title>Software Successfully Installed</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/chapter9_image_052.png" format="PNG"
+                         width="15cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+    </procedure>
+  </sect1>
+
+  <sect1>
+    <title>Using an iPod</title>
+
+    <para>The iPod is a popular portable media player, designed and marketed
+    by Apple. You can play music in MP3 and AAC (Advanced Audio Coding) audio
+    file formats and store up to ten thousand songs on the device itself. The
+    iPod does not support free multimedia formats.</para>
+
+    <sect2>
+      <title>Playing Music Using an iPod</title>
+
+      <procedure>
+        <title>To play music using iPod:</title>
+
+        <step performance="required">
+          <para>Plug your iPod into one of your computer's USB ports. Ubuntu
+          automatically mounts it and places it as an icon on your desktop.
+          Simultaneously, the iPod device opens in the Rhythmbox Music Player
+          window. You can view all the files loaded on your iPod device in the
+          lower right pane of the Rhythmbox window. To play a music track from
+          your iPod, just select the track from the list and click the
+          <emphasis role="strong">Play</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Plugging in an iPod</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_053.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The song starts playing in the Rhythmbox Music Player.
+          However, if the format of the music file is not supported by the
+          Rhythmbox Music Player, you may not be able to play the file and you
+          will receive an error message. In this case, you will need to follow
+          the procedure described in the previous section to download all the
+          necessary software codecs from the Ubuntu repositories.</para>
+
+          <figure float="0">
+            <title>Playing Music from iPod</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_054.png"
+                           format="PNG" width="14cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Ubuntu also allows you to transfer music files to and from the
+          iPod device. However, this is not possible using Rhythmbox. You will
+          need to install the <emphasis role="strong">gtkpod</emphasis>
+          software to be able to transfer music file between your computer and
+          the iPod device. You can easily download this software from the
+          Universe repository using the Synaptic Package Manager.</para>
+
+          <para>To access gtkpod, after it is successfully installed on your
+          computer, on the <emphasis role="strong">Applications</emphasis>
+          menu, point to <emphasis role="strong">Sound &amp; Video</emphasis>
+          and then click <emphasis role="strong">gtkpod</emphasis>. The
+          <emphasis role="strong">gtkpod</emphasis> window opens.</para>
+
+          <figure float="0">
+            <title>Launching gtkpod</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_055.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can view all the music files stored on the iPod device in
+          this gtkpod window. Notice that in the gtkpod interface, your music
+          files have automatically been categorised based on artists, album
+          and genre. This categorisation helps you quickly browse through your
+          collection and select.</para>
+
+          <para>You can use the gtkpod interface to manage the files on your
+          iPod in multiple ways. You can create and edit playlists, normalize
+          the volume on single tracks or multiple tracks at a time. You can
+          also use the gtkpod interface to add more files in your iPod or
+          transfer files from your iPod onto your computer. To add files from
+          your computer to your iPod device, click <emphasis
+          role="strong">Files</emphasis>. This displays the <emphasis
+          role="strong">Add Files to 'device name'</emphasis> dialogue
+          box.</para>
+
+          <figure float="0">
+            <title>Using gtkpod to transfer files to iPod</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_056.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Add Files to 'device
+          name'</emphasis> dialogue box, navigate down to the folder from
+          which you want to add the files to your iPod. Depending on your
+          preferences you may either add a single file at a time or an entire
+          directory. Select the tracks that you want added and click <emphasis
+          role="strong">Open.</emphasis></para>
+
+          <figure float="0">
+            <title>Selecting the Files to Transfer</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_057.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Gtkpod starts adding the files to your iPod. When the process
+          is complete a message "Successfully added files" is quickly flashed
+          at the bottom of the gtkpod window. You can also view the recently
+          added files in the bottom pane of the gtkpod window.</para>
+
+          <para>You can repeat the aforementioned steps to add more files from
+          different folders. After you have added all the required files to
+          your iPod, click the <emphasis role="strong">Save Changes</emphasis>
+          button to load and save the files.</para>
+
+          <figure float="0">
+            <title>Updating the iPod</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_058.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>When you are done updating your iPod and want to disconnect
+          it, close down the Rhythmbox window. Right-click the iPod icon on
+          the desktop and then select <emphasis
+          role="strong">Eject</emphasis>. You now can safely remove your iPod
+          from the computer.</para>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Creating and Editing Audio Files</title>
+
+    <para>Ubuntu provides you with various tools to create your own music and
+    audio files. The default application available in Ubuntu for creation of
+    audio files is the GNOME Sound Recorder. Similarly, you can also edit
+    audio files using Audacity.</para>
+
+    <sect2>
+      <title>Creating Audio Files</title>
+
+      <para>Ubuntu provides you with tools to create new audio files using an
+      input device such as a microphone. Sound Recorder is the default
+      application available in Ubuntu for creating audio files.</para>
+
+      <procedure>
+        <title>To start recording audio using Sound Recorder:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Sound &amp; Video</emphasis> and
+          then click <emphasis role="strong">Sound Recorder</emphasis>.
+          </para>
+
+          <figure float="0">
+            <title>Launching Sound Recorder</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_059.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Sound Recorder allows you to record and play .flac, .ogg,
+          and .wav audio files. To start a recording session, you need to
+          select an input device, such as a microphone, phone or line-in, from
+          the <emphasis role="strong">Record from input</emphasis> drop-down
+          list. You can also select the audio quality from the Record as
+          drop-down list.</para>
+
+          <figure float="0">
+            <title>Selecting the Input Device</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_060.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Before starting the recording, it is advisable to configure
+          the volume control settings to derive quality audio output. To
+          access the volume controls, on the <emphasis
+          role="strong">File</emphasis> menu, click <emphasis
+          role="strong">Open Volume Control</emphasis>.</para>
+
+          <figure float="0">
+            <title>Accessing Volume Controls</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_061.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You use the slider buttons on the tracks to set the volume
+          control for all the audio input and output devices. To further
+          specify your volume preferences, click Preferences on the Edit menu.
+          This opens the <emphasis role="strong">Volume Control
+          Preferences</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title>Displaying Volume Preferences</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_062.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Volume Control
+          Preferences</emphasis> dialogue box allows you refine the sound
+          settings by selecting or clearing the various options. Click the
+          <emphasis role="strong">Close</emphasis> button to exit this
+          dialogue box.</para>
+
+          <figure float="0">
+            <title>Configuring Sound Settings</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_063.png"
+                           format="PNG" width="4cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>You are returned to the <emphasis role="strong">Sound
+          Recorder</emphasis> window. Now, you can start recording the audio
+          from the selected input device by clicking the <emphasis
+          role="strong">Record</emphasis> button. The recording starts.</para>
+
+          <figure float="0">
+            <title>Recording Sound</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_064.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After the recording is complete, you can play the recorded
+          sound file by clicking the <emphasis role="strong">Play</emphasis>
+          button. The progress indicator moves along the progress bar as the
+          sound file is playing. You can also view the duration of the
+          recorded file in minutes and seconds under the <emphasis
+          role="strong">File information</emphasis> section.</para>
+
+          <figure float="0">
+            <title>Playing Recorded Sound File</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_065.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2>
+      <title>Editing Audio Files</title>
+
+      <para>You can use Audacity for editing audio files. Audacity is
+      not included in the default installation of Ubuntu but it is a free and
+      open source software application, which can be installed easily from the
+      Universe repository of Ubuntu. You can install
+      Audacity using either the Add/Remove Applications or the Synaptic
+      Package Manger.</para>
+
+      <procedure>
+        <title>To edit audio files using Audacity:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Sound &amp; Video</emphasis> and
+          then click <emphasis role="strong">Audacity Sound
+          Editor</emphasis>.</para>
+
+          <figure float="0">
+            <title>Launching Audacity</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_066.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>When you access Audacity for the first time, it will ask you
+          to select a language to use with the application. Apart from
+          English, Audacity provides language support for more than 30
+          languages, including Arabic, Bulgarian, catalan, Czech, Danish,
+          Finnish and many more. Select your language preference from
+          the <emphasis role="strong">Choose Language for Audacity to
+          use</emphasis> drop-down list and click <emphasis
+          role="strong">OK</emphasis>.</para>
+
+          <figure float="0">
+            <title>Selecting Language for Audacity</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_067.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The Audacity main interface window is displayed. You can use
+          the various controls and tools to play,
+          create and edit audio files.</para>
+
+          <figure float="0">
+            <title>The Audacity Window</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_068.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can now start editing an existing audio file in Audacity.
+          To do so, you need to first import the audio file into Audacity. To
+          import an audio file, on the <emphasis role="strong">File</emphasis>
+          menu, point to <emphasis role="strong">Import</emphasis> and then
+          select <emphasis role="strong">Audio</emphasis>. The <emphasis
+          role="strong">Select one or more audio files</emphasis> dialogue box
+          opens.</para>
+
+          <figure float="0">
+            <title>Importing Audio Files into Audacity</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_069.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Select the audio file that you want to edit and click
+          <emphasis role="strong">Open</emphasis> to open the file in
+          Audacity.</para>
+
+          <figure float="0">
+            <title>Selecting the Files to Import</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_070.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The selected audio file opens in the Audacity interface. The
+          audio file is represented as the blue waves in the lower part of the
+          Audacity window. Now you can perform a whole range of tasks on this
+          file.You can cut off some unwanted portion of the imported audio
+          file, insert silence at some point, can add various audio effects on
+          different sections of the file and may even export the file into an
+          altogether different file format.</para>
+
+          <para>Audacity also allows you to play an audio file.
+          Click the <emphasis role="strong">Play</emphasis> button to start
+          playing the audio file.</para>
+
+          <figure float="0">
+            <title>Playing the Imported File</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_071.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The audio file starts playing in the Audacity audio editor.
+          You can use the various tools available with Audacity to start
+          editing the current audio file:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Magnifying tool: If you find that due to the length of the
+              current file, you are unable to view the portions that you want
+              to edit, you can use the Magnifying tool. This will let you zoom
+              in on a specific area.</para>
+            </listitem>
+
+            <listitem>
+              <para>Envelop tool: This enables you to change the volume of
+              specific selections of the sound file.</para>
+            </listitem>
+
+            <listitem>
+              <para>Time Shift tool: Allows you to move the entire sound file
+              in relation to time; helpful when you are working with multiple
+              tracks.</para>
+            </listitem>
+
+            <listitem>
+              <para>Selection tool: Enables you to highlight portions of the
+              sound file on which you want to work.</para>
+            </listitem>
+          </itemizedlist>
+
+          <para>To start editing a specific portion of the sound file,
+          activate the <emphasis role="strong">Selection</emphasis> tool by
+          clicking it.</para>
+
+          <figure float="0">
+            <title>Picking the Selection Tool</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_072.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Select the area you wish to edit by dragging across the area
+          while pressing the left mouse button. The selected area appears in a
+          shade of darker gray.</para>
+
+          <figure float="0">
+            <title>Selecting Audio Portion to Edit</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_073.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can now cut the area if you wish to remove this part of
+          the audio file otherwise, edit this portion by applying various
+          sound effects to it. The Effect menu contains all the digital audio
+          effects that you can apply on an audio file. Some of these
+          are:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Amplify - Increases or decreases volume without altering
+              sound quality</para>
+            </listitem>
+
+            <listitem>
+              <para>BassBoost - Increases the volume of a specific
+              frequency.</para>
+            </listitem>
+
+            <listitem>
+              <para>Echo - Allows you to add an echo specify the delay
+              time.</para>
+            </listitem>
+
+            <listitem>
+              <para>Fade in - Fades from silence to the present volume</para>
+            </listitem>
+
+            <listitem>
+              <para>Fade out - Fades from present volume to silence</para>
+            </listitem>
+
+            <listitem>
+              <para>Invert - Flips the audio samples upside down</para>
+            </listitem>
+
+            <listitem>
+              <para>Noise Removal-Allows you to remove background noise</para>
+            </listitem>
+
+            <listitem>
+              <para>Reverse - Allows you to play the selection backward</para>
+            </listitem>
+          </itemizedlist>
+
+          <para>To increase the volume of the selected portion, on the
+          <emphasis role="strong">Effect</emphasis> menu, select <emphasis
+          role="strong">Amplify</emphasis>. The <emphasis
+          role="strong">Amplify</emphasis> window opens.</para>
+
+          <figure float="0">
+            <title>Applying Sound Effects</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_074.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Amplify</emphasis> window, you
+          can use the slide bar to increase or decrease the amplification.
+          Click OK to apply the effect to the selected portion of the
+          audio.</para>
+
+          <figure float="0">
+            <title>Amplifying the Audio Clip</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_075.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Notice that the blue waves in the selected area have changed.
+          You can now listen to the changed audio by clicking the <emphasis
+          role="strong">Play</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Verifying the Edit Effects</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_076.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After you are satisfied with all the edit effects, you can
+          save the edited audio file. Because the default audio format of
+          Audacity is not readily supported by many applications you should
+          save the file in a more popular audio format, such as Ogg Vorbis or
+          MP3.</para>
+
+          <para>To save the file in a different file format, click <emphasis
+          role="strong">Export</emphasis>.</para>
+
+          <figure float="0">
+            <title>Exporting Audio File</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_077.png"
+                           format="PNG" width="7.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Export File</emphasis> dialogue
+          box, select the folder where you want to save the file. Then, select
+          the desired file format from the drop-down list and then click
+          <emphasis role="strong">Save</emphasis> to export the file in the
+          specified file format.</para>
+
+          <figure float="0">
+            <title>Exporting as MP3 File</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_078.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Audacity starts exporting the file in the specified file
+          format. This process may take up some time depending on the length
+          of the audio file.</para>
+
+          <figure float="0">
+            <title>Export Progress Indicator</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_079.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>The audio file is exported to the specified location. You can
+          now close the Audacity window and listen to the edited audio file
+          whenever you wish.</para>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Playing DVDs</title>
+
+    <para>Most commercial DVDs are encrypted with the Content Scrambling
+    System (CSS), which attempts to restrict the sotware that can play a DVD.
+    By default, Ubuntu is capable of playing DVDs that are not encrypted. 
+    Due to legal restrictions surrounding the CSS format, as well as
+    Ubuntu's commitment to free multimedia formats, some software
+    packages needed for encrypted DVD playback are not installed by default in
+    Ubuntu. You can install these packages from Ubuntu repositories to enable
+    the playback of encrypted DVDs.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>It is possible that the use of some of the following software to
+      play or copy DVDs is not permitted by law in some countries. Please
+      check your rights before proceeding.</para>
+    </note>
+
+    <para>You may also consider downloading the following additional
+    applications that are capable of playing certain formats by
+    default:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Mplayer movie player</para>
+      </listitem>
+
+      <listitem>
+        <para>VLC media player</para>
+      </listitem>
+
+      <listitem>
+        <para>Xine</para>
+      </listitem>
+
+      <listitem>
+        <para>Totem-xine</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Totem Movie Player, the default movie player included in Ubuntu can
+    automatically play a DVD when it is inserted into the DVD drive. However,
+    it will not provide access to the DVD menu. Other free software media
+    players like VLC, mplayer and xine do make the DVD menu available.</para>
+
+    <sect2>
+      <title>Playing DVDs in Totem Movie Player</title>
+
+      <para>After you have installed all the required software packages from
+      various Ubuntu repositories, you can play a DVD on your Totem movie
+      player.</para>
+
+      <procedure>
+        <title>To play a DVD on Totem:</title>
+
+        <step performance="required">
+          <para>Insert the DVD in the DVD drive of your computer. This will
+          automatically launch the Totem and the DVD will start
+          playing.</para>
+
+          <figure float="0">
+            <title>Playing a DVD in Totem</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_080.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To view the DVD in full screen mode, on the <emphasis
+          role="strong">View</emphasis> menu, click <emphasis
+          role="strong">Fullscreen</emphasis>. Alternatively, you can simply
+          press <emphasis role="strong">F</emphasis> on your keyboard.</para>
+
+          <figure float="0">
+            <title>Enabling the Full Screen View</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_081.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can enjoy the DVD in full screen mode or press <emphasis
+          role="strong">ESC</emphasis> and return to the Totem window.</para>
+
+          <figure float="0">
+            <title>Viewing DVD in Full Screen</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_082.png"
+                           format="PNG" width="13.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Totem also allows you to configure some settings to view the
+          DVD according to your preferences. To configure the preferences
+          settings, on the <emphasis role="strong">Edit</emphasis> menu, click
+          <emphasis role="strong">Preferences</emphasis>.</para>
+
+          <figure float="0">
+            <title>Displaying Totem Configuration</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_083.png"
+                           format="PNG" width="13.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can use the Preferences dialogue box to define various
+          display settings, such as the brightness, colour, hue and saturation
+          of the display. After specifying your preferences, click <emphasis
+          role="strong">Close</emphasis> to exit the dialogue box.</para>
+
+          <figure float="0">
+            <title>Customising Display Settings</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_084.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>When watching a DVD, you can use the various options provided
+          in the <emphasis role="strong">Go</emphasis> menu to navigate inside
+          the DVD. To skip to the next frame, on the <emphasis
+          role="strong">Go</emphasis> menu, click <emphasis role="strong">Skip
+          Forwards</emphasis>.</para>
+
+          <figure float="0">
+            <title>Navigating Inside a DVD</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_085.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You are taken to the next frame in the DVD. If you do not want
+          to view the side bar when playing the DVD, click the <emphasis
+          role="strong">Sidebar</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Hiding the Sidebar</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_086.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <figure float="0">
+            <title>Viewing the DVD</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_087.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>This hides the side bar and now you can view the DVD on a
+          larger space and simultaneously, have all the playback controls
+          right in front of you.</para>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2>
+      <title>Backing up DVDs</title>
+
+      <para>If you have a collection of old and not-so-easy-to-find DVDs, you
+      may wish to back up these on your computer or create extra copies of
+      them. You may even want to extract certain tracks from your DVD and
+      watch it later. To do so, Ubuntu provides you with a number of DVD
+      backup applications or DVD rippers. Although these applications are not
+      included in Ubuntu by default, you can download and install them from
+      the Ubuntu repositories. Some of these applications are: <itemizedlist>
+          <listitem>
+            <para>Thoggen</para>
+          </listitem>
+
+          <listitem>
+            <para>K9copy</para>
+          </listitem>
+
+          <listitem>
+            <para>dvd::rip</para>
+          </listitem>
+
+          <listitem>
+            <para>HandBrake</para>
+          </listitem>
+        </itemizedlist></para>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>If the students want to know more about the above applications,
+        advise them to visit the following Web pages: For dvd::rip- <ulink
+        url="http://www2.exit1.org/dvdrip/">http://www2.exit1.org/dvdrip/</ulink>
+        For K9copy- <ulink
+        url="http://k9copy.sourceforge.net/">http://k9copy.sourceforge.net/</ulink>
+        For HandBrake- <ulink
+        url="http://handbrake.m0k.org/?chapter=documentation">http://handbrake.m0k.org/?chapter=documentation</ulink>.</para>
+      </note>
+
+      <formalpara>
+        <title>Backing up DVDs Using Thoggen</title>
+
+        <para>Thoggen is a DVD backup utility for Linux, based on GStreamer
+        and Gtk+. This application is designed to be easy-to-use. Rather than
+        exposing the complexities of the DVD ripping process, which many other
+        applications tend to do, it tries to simplify the process for average
+        users by offering sensible default options.</para>
+      </formalpara>
+
+      <para>Thoggen includes certain key features: <itemizedlist>
+          <listitem>
+            <para>Is easy to use and has a nice graphical user interface
+            (GUI)</para>
+          </listitem>
+
+          <listitem>
+            <para>Supports title preview, picture cropping, and picture
+            resizing</para>
+          </listitem>
+
+          <listitem>
+            <para>Provides language Selection for audio track</para>
+          </listitem>
+
+          <listitem>
+            <para>Encodes into Ogg/Theora video</para>
+          </listitem>
+
+          <listitem>
+            <para>Can encode from local directory with video DVD files</para>
+          </listitem>
+
+          <listitem>
+            <para>Is based on the GStreamer multimedia framework, which makes
+            it fairly easy to add additional encoding formats/codecs in
+            future.</para>
+          </listitem>
+        </itemizedlist></para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>Thoggen is still beta software, but should work fine
+        nevertheless. It is advisable, however, to check the list of known
+        issues at <ulink
+        url="http://thoggen.net/download/">http://thoggen.net/download/</ulink>.</para>
+      </note>
+
+      <para>To be able to back up your DVD using Thoggen, you need to first
+      install it. You can easily find this application in the Universe
+      repository of Synaptic Package Manager and install it on your
+      computer.</para>
+
+      <figure float="0">
+        <title>Installing Thoggen</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/chapter9_image_088.png" format="PNG"
+                       width="100%" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <procedure>
+        <title>To start backing up your DVD using Thoggen:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Sound &amp; Video</emphasis> and
+          then click <emphasis role="strong">Thoggen DVD
+          Ripper</emphasis>.</para>
+
+          <figure float="0">
+            <title>Launching Thoggen</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_089.png"
+                           format="PNG" width="100%" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Thoggen</emphasis> window appears.
+          As a first step to backing up your DVD, it simply asks you to select
+          the specific tracks on the DVD that you want to back up. Specify the
+          tracks by selecting the corresponding check boxes and then click
+          <emphasis role="strong">OK</emphasis> to proceed.</para>
+
+          <figure float="0">
+            <title>Specifying the Tracks to Back up</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_090.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the next step of the backing up process, you are allowed to
+          view and configure some of the settings according to your
+          requirements. You can select the picture size from the corresponding
+          drop-down list and define the output crop, by clicking the <emphasis
+          role="strong">Configure Cropping</emphasis> button. Otherwise, you
+          cam simply click <emphasis role="strong">OK</emphasis> to accept the
+          default settings and continue with the process of backing up your
+          DVD.</para>
+
+          <figure float="0">
+            <title>Changing Default Settings</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_091.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The DVD backing process starts immediately. You can view the
+          progress of the current as well as the entire process in the
+          <emphasis role="strong">Progress</emphasis> section of the Thoggen
+          window. Thoggen takes quite long to backup a DVD. However, the final
+          output is of a very high quality.</para>
+
+          <figure float="0">
+            <title>Backing up DVD</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_092.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Playing Online Media</title>
+
+    <para>Ubuntu provides you with tools to directly play music and videos
+    available on the Internet. You can listen and watch online videos and
+    audios directly from within your browser but may require to install some
+    special player for this. Your ability to watch or listen to online media
+    depends on how the provider of the music and video has made them
+    available.</para>
+
+    <sect2>
+      <title>Watching Videos in a Web Browser</title>
+
+      <para>You can play many of the videos available on the Internet directly
+      from within your browser. For example, You can watch the Google videos
+      and the You Tube videos directly in your FireFox window without
+      installing any special player or additional browser plugins. The
+      following screenshot displays a video being played inside the Firefox
+      window:</para>
+
+      <figure float="0">
+        <title>Watching Video in a Web Browser</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/chapter9_image_093.png" format="PNG"
+                       width="12cm" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>However, depending on the format of the video that you want to
+      watch, you may also require to download and install certain additional
+      browser plugins. Some of the plugins available for the default Firefox
+      web browser are: <itemizedlist>
+          <listitem>
+            <formalpara>
+              <title>Totem Xine plugin:</title>
+
+              <para>Install the <emphasis role="strong">
+              totem-xine-firefox-plugin</emphasis> package from the "Universe"
+              repository.</para>
+            </formalpara>
+          </listitem>
+
+          <listitem>
+            <formalpara>
+              <title>Totem gstreamer plugin:</title>
+
+              <para>Install the <emphasis role="strong">
+              totem-gstreamer-firefox-plugin</emphasis> package from the
+              "Universe" repository.</para>
+            </formalpara>
+          </listitem>
+
+          <listitem>
+            <formalpara>
+              <title>Mplayer plugin:</title>
+
+              <para>Install the <emphasis role="strong">
+              mozilla-mplayer</emphasis> package from the Universe
+              repository</para>
+            </formalpara>
+          </listitem>
+
+          <listitem>
+            <formalpara>
+              <title>Flash plugin:</title>
+
+              <para>install the <emphasis role="strong">
+              flashplugin-nonfree</emphasis> package from the "Multiverse"
+              repository</para>
+            </formalpara>
+          </listitem>
+        </itemizedlist></para>
+
+      <para>The plugin installation process depends on the framework you use.
+      If you use Totem-gstreamer, the default movie player included in Ubuntu,
+      you need to install the totem-gstreamer-firefox-plugin package. However,
+      to enable playing streaming video in your browser, you need to first
+      install the Microsoft Windows codec and then install the totem
+      plugin.</para>
+
+      <para>You can even install an additional mediaplayer, such as RealPlayer
+      10, to watch online video streams in Realmedia formats. When you have
+      installed all the above mentioned plugins and codecs, you can watch
+      RealMedia files even with your default media player, such as Totem. But,
+      you may also want to install RealPlayer on your computer because
+      RealPlayer supports streaming RealMedia files slightly better than other
+      players.</para>
+
+      <para>The RealPlayer, developed by RealNetworks, supports a number of
+      audio and video codecs such as realaudio, realvideo 10, mp3, ogg vorbis
+      and theora, h263 and AAC. The RealPlayer for Linux is available in the
+      Canonical commercial repository and can also be freely downloaded from
+      the RealPlayer web site.</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>RealPlayer is a proprietary software and is not supported by the
+        Ubuntu community.</para>
+      </note>
+
+      <formalpara>
+        <title>Installing RealPlayer</title>
+
+        <para>As mentioned above, the realPlayer for Linux is available in the
+        Canonical commercial repository. Ubuntu does not include this
+        repository by default. Therefore, you will first need to add
+        Canonical's commercial repository to your system. Once the repository
+        is added, you can search for the Realplayer package and then install
+        it on your computer.</para>
+      </formalpara>
+
+      <procedure>
+        <title>Watching Online Videos Using RealPlayer</title>
+
+        <para></para>
+
+        <step performance="required">
+          <para>You can now access the realPlayer from the Applications menu.
+          To access RealPlayer, on the <emphasis
+          role="strong">Applications</emphasis> menu, point to <emphasis
+          role="strong">Sound &amp; Video</emphasis> and then click <emphasis
+          role="strong">RealPlayer 10</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Launching
+            RealPlayer</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_094.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">RealPlayer Setup
+          Assistant</emphasis> is displayed to guide you through the set up of
+          the RealPlayer. Click <emphasis role="strong">Forward</emphasis> to
+          start the set up process.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Initiating RealPlayer Set
+            up</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_095.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>After reviewing the release notes of the RealPlayer 10, click
+          <emphasis role="strong">Forward</emphasis> again to proceed.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Reviewing realPlayer Release
+            Notes</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_096.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Before installing the RealPlayer application on your computer,
+          you need to review the terms of the end user license agreement and
+          accept it to be able to proceed with the setup. Click <emphasis
+          role="strong">Accept.</emphasis></para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Accepting the License
+            Agreement</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_097.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You have reached the final screen of the Realplayer setup
+          Assistant. Specify the provided options and click <emphasis
+          role="strong">OK</emphasis> to complete the set up.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Completing the Set-up
+            Process</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_098.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">RealPlayer</emphasis> window is
+          displayed, indicating that the set up was successful. Now you can
+          watch online streaming media in the RealPlayer.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">The RealPlayer
+            Window</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_099.png"
+                           format="PNG" width="5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To start viewing the online video of your choice, launch
+          Firefox and navigate to the Web page from which you want to
+          view the streaming media.</para>
+        </step>
+
+        <step performance="required">
+          <para>On the Web page, click the link to open the video of your
+          choice.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting the Link to the Online
+            Video</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_101.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You are asked to specify whether you want to open the linked
+          file in RealPlayer or save it to your computer. To view the video as
+          online streaming media, accept the default selection and click
+          <emphasis role="strong">OK</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Viewing Video as Streaming
+            Media</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_102.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Downloads</emphasis> dialogue box
+          displays the progress of the download. After the file is downloaded
+          to your temporary Internet folder, the video starts playing in the
+          <emphasis role="strong"> RealPlayer</emphasis> window.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Watching Online Video in
+            RealPlayer</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_103.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can add the link to your <emphasis
+          role="strong">Favorites</emphasis> list to be able to view the video
+          again without searching for it on the Internet. To save the video as
+          a <emphasis role="strong">Favorite,</emphasis> on the the <emphasis
+          role="strong">Favorites</emphasis> menu, click <emphasis
+          role="strong">Add to Favorite</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Saving a Video as
+            Favourite</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_104.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The video is now saved as your favorite. In future, you can
+          view this video directly from inside your RealPlayer by selecting
+          the link from the <emphasis role="strong">Favorites</emphasis> menu.
+          You can also play an online video directly from inside the
+          RealPlayer by specifying the location of the video. To do so, on the
+          <emphasis role="strong">File</emphasis> menu, click <emphasis
+          role="strong">Open Location</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Viewing Online Video Directly from
+            RealPlayer</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_105.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Type the URL or the file path of the video in the <emphasis
+          role="strong">Open Location</emphasis> dialogue box and click
+          <emphasis role="strong">OK</emphasis> to start playing the online
+          streaming video.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Specifying Video
+            Location</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_106.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Editing Videos</title>
+
+    <para>In addition to viewing movies and videos, Ubuntu also provides you
+    tools to help you edit a video. The tools available with Ubuntu
+    include:</para>
+
+    <para><emphasis role="strong">Kino:</emphasis> An advanced video editor,
+    Kino captures video to disk in Raw DV and AVI format. It allows you to
+    load multiple video clips, cut and paste portions of video, and save it to
+    an edit decision list in SMIL and XML formats.</para>
+
+    <para><emphasis role="strong">Stopmotion:</emphasis> Stopmotion is a free
+    application for creating stop-motion animation movies. It enables you to
+    create stop-motions from pictures imported from a camera or from the
+    harddrive, add sound effects and export the animation to different video
+    formats such as mpeg or avi.</para>
+
+    <para><emphasis role="strong">Subtitle Editor:</emphasis> Subtitle Editor
+    is a GTK+2 tool to edit subtitles for movies and videos. you can use it
+    for creating new subtitles or to transform, edit, correct and refine
+    existing subtitles. This programme also shows sound waves, which makes it
+    easier to synchronise subtitles to voices.</para>
+
+    <para><emphasis role="strong">Pitivi Video Editor:</emphasis> Pitivi Video
+    Editor is a non-linear editor, which allows you to easily edit audio and
+    video projects. Using Pitivi, you can capture audio and video, mix,
+    resize, cut, and apply effects to audio and video sources. It also allows
+    you to save the projects in any format supported by the GStreamer
+    framework.</para>
+
+    <sect2>
+      <title>Editing Videos Using Pitivi Video Editor</title>
+
+      <para>Pitivi Video Editor is not included in Ubuntu by default. It is
+      available in the Universe repository of Ubuntu. You can install Pitivi
+      using Synaptic Package Manager.</para>
+
+      <procedure>
+        <title>To edit video using Pitivi Video Editor:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Applications</emphasis> menu,
+          point to <emphasis role="strong">Sound &amp; Video</emphasis> and
+          then click <emphasis role="strong">Pitivi Video Editor</emphasis>.
+          The <emphasis role="strong">Pitivi vo 11.1</emphasis> window
+          opens.</para>
+        </step>
+
+        <step performance="required">
+          <para>The main Pitivi interface is divided into a number of panes.
+          You can use the various buttons on the task bar to perform tasks
+          such as opening, importing, adding, viewing and saving video clips.
+          To edit a video clip, first import the clip in the Pitivi Video
+          editor by clicking the <emphasis role="strong">Import
+          Clips</emphasis> button.</para>
+
+          <figure float="0">
+            <title>The Pitivi Interface</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_107.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the Import a clip dialogue box, navigate to the folder from
+          where you want to import the video clip, select the single or
+          multiple clips to be edited and click <emphasis
+          role="strong">Add</emphasis> to import it in the <emphasis
+          role="strong">Pitivi</emphasis> window.</para>
+
+          <figure float="0">
+            <title>Importing Video Clips in Pitivi</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_108.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The selected video clip is now imported into the Pitivi Video
+          editor. You can double-click the video clip to view it in the right
+          pane. Click the <emphasis role="strong">Stop</emphasis> button on
+          the control bar to stop the playback.</para>
+
+          <figure float="0">
+            <title>Viewing the Imported Video</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_109.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To edit the imported video clip, you need to drag them to the
+          bottom pane to add them to the time line and then select the
+          <emphasis role="strong">Project Settings</emphasis> option from the
+          <emphasis role="strong">File</emphasis> menu. This opens the
+          <emphasis role="strong">Projects Settings</emphasis> dialogue
+          box.</para>
+
+          <figure float="0">
+            <title>Displaying the Project Settings Dialogue Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_110.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Projects Settings</emphasis>
+          dialogue box, you can edit the various aspects of the selected movie
+          clip by defining various specifications according to your
+          preferences. You can use the <emphasis role="strong">Video
+          Output</emphasis> section to define the height, width and the frame
+          rate of the video. Similarly, you can define the audio
+          specifications under the <emphasis role="strong">Audio
+          Output</emphasis> section. Click <emphasis
+          role="strong">OK</emphasis> after specifying your
+          preferences.</para>
+
+          <figure float="0">
+            <title>Specifying Edit Preferences</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_111.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You return to the Pitivi window. To start applying your
+          specifications on the selected video clip, click the <emphasis
+          role="strong">Render project</emphasis> button. This displays the
+          <emphasis role="strong">Render project</emphasis> dialogue box. You
+          can use the <emphasis role="strong">Modify</emphasis> button on the
+          <emphasis role="strong">Render project</emphasis> dialogue box to
+          further modify your specifications for the video clip. Otherwise,
+          click the <emphasis role="strong">Choose file</emphasis> button to
+          specify a file name for the edited video clip.</para>
+
+          <figure float="0">
+            <title>Specifying the Output File</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_112.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>This opens the <emphasis role="strong">Choose file to render
+          to</emphasis> dialogue box. Use this dialogue box to assign a name
+          for the edited video clip and specify the location where you want it
+          to be saved. After specifying these details, click <emphasis
+          role="strong">OK</emphasis> to continue.</para>
+
+          <figure float="0">
+            <title>Selecting the File to Render to</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_113.png"
+                           format="PNG" width="15cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The name of the file now appears on the <emphasis
+          role="strong">Output file</emphasis> button. Start editing the video
+          clip by clicking the <emphasis role="strong">Record</emphasis>
+          button.</para>
+
+          <figure float="0">
+            <title>Editing the Video File</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_114.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The Pitivi Video Editor has started rendering a new project
+          based on your specifications. You can view the progress of the
+          process in the progress bar. Once the rendering is complete, click
+          the Close button on the top-right corner to exit the <emphasis
+          role="strong">Render project</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title>Project Rendering Progress Indicator</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_115.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The newly edited video clip is now saved at the specified
+          location.</para>
+
+          <figure float="0">
+            <title>The Edited Video Clip</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/chapter9_image_116.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Lesson Summary</title>
+
+    <para>In this lesson, you learned that: <itemizedlist>
+        <listitem>
+          <para>Software usage and distribution is controlled by laws and
+          legislations unique to each country.</para>
+        </listitem>
+
+        <listitem>
+          <para>When using or redistributing proprietary media formats, you
+          should be aware of the associated patent or copyright laws.</para>
+        </listitem>
+
+        <listitem>
+          <para>You can use Rhythmbox to play and organise music, listen to
+          Internet radio and import music from CDs.</para>
+        </listitem>
+
+        <listitem>
+          <para>Using Sound Juicer, you can play audio tracks direct from the
+          CD, extract audio tracks and convert them into audio files in
+          various file formats. In addition, the default audio CD/DVD burner for
+          Ubuntu, Brasero, can be used to create audio and data CD/DVDs.</para>
+        </listitem>
+
+        <listitem>
+          <para>Playback of proprietary multimedia formats can be enabled in
+          Ubuntu by installing additional multimedia codecs from the
+          repositories.</para>
+        </listitem>
+
+        <listitem>
+          <para>Ubuntu offers you tools to play music from your iPod through
+          gtkpod.</para>
+        </listitem>
+
+        <listitem>
+          <para>Sound Recorder can be used to create audio files in
+          various formats.</para>
+        </listitem>
+
+        <listitem>
+          <para>Audacity enables you to record and edit audio files.</para>
+        </listitem>
+
+        <listitem>
+          <para>DVD playback in Totem Movie Player can be enabled by
+          installing the required software packages.</para>
+        </listitem>
+
+        <listitem>
+          <para>Thoggen is a DVD backup utility for Linux that can be used in
+          Ubuntu to copy DVDs.</para>
+        </listitem>
+
+        <listitem>
+          <para>Ubuntu provides you with tools to listen and watch online
+          videos and audios directly from within your browser or in a
+          mediaplayer such as RealPlayer.</para>
+        </listitem>
+
+        <listitem>
+          <para>Pitivi video Editor can be used to play and edit
+          videos.</para>
+        </listitem>
+      </itemizedlist></para>
+  </sect1>
+
+  <sect1 role="questions">
+    <title>Review Exercise</title>
+
+    <qandaset>
+      <qandaentry>
+        <question>
+          <para>List the main features of a free software license.</para>
+        </question>
+
+        <answer>
+          <para>A free software license include the following features:
+          <itemizedlist>
+              <listitem>
+                <para>Enables anyone to distribute or sell the software</para>
+              </listitem>
+
+              <listitem>
+                <para>Makes the source code of the software available</para>
+              </listitem>
+
+              <listitem>
+                <para>Allows users to make modifications and to produce
+                derived works</para>
+              </listitem>
+
+              <listitem>
+                <para>Does not restrict the use of other software</para>
+              </listitem>
+            </itemizedlist></para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Which is the default music player in Ubuntu?</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Totem</para>
+            </listitem>
+
+            <listitem>
+              <para>Rhythmbox</para>
+            </listitem>
+
+            <listitem>
+              <para>Audacity</para>
+            </listitem>
+
+            <listitem>
+              <para>gtkpod</para>
+            </listitem>
+          </itemizedlist>
+        </question>
+
+        <answer>
+          <para>b) Rhythmbox</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What are podcasts?</para>
+        </question>
+
+        <answer>
+          <para>Podcasts are audio shows, broadcasted over the Internet, that
+          you can subscribe to. Subscribing to a podcast enables you to
+          download each new audio release from the subscribed podcast
+          source.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Which application is available in Ubuntu by default to play
+          and extract audio compact discs?</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Xine</para>
+            </listitem>
+
+            <listitem>
+              <para>RealPlayer</para>
+            </listitem>
+
+            <listitem>
+              <para>Brasero</para>
+            </listitem>
+
+            <listitem>
+              <para>Sound Juicer</para>
+            </listitem>
+          </itemizedlist>
+        </question>
+
+        <answer>
+          <para>Sound Juicer</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>In which formats does Sound Juicer enable you to extract audio
+          files onto your computer?</para>
+        </question>
+
+        <answer>
+          <para>Sound Juicer enables you to extract audio files into the
+          following three formats:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Ogg Vorbis</para>
+            </listitem>
+
+            <listitem>
+              <para>FLAC</para>
+            </listitem>
+
+            <listitem>
+              <para>WAV</para>
+            </listitem>
+          </itemizedlist>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>From where does Sound Juicer retrieves retrieve the CD artist,
+          title, and track data?</para>
+        </question>
+
+        <answer>
+          <para>Sound Juicer will retrieve the CD artist, title, and track
+          data from MusicBrainz.org.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Name the default CD audio recording application available in
+          Ubuntu?</para>
+        </question>
+
+        <answer>
+          <para>Brasero is the audio CD burner application that comes
+          bundled with Ubuntu, by default.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Why do you need to install additional multimedia codecs in
+          Ubuntu?</para>
+        </question>
+
+        <answer>
+          <para>Due to the legal restrictions associated with the use of
+          proprietary formats, by default, Ubuntu does not offer support for
+          such formats. You need to install additional multimedia codecs to
+          enabling such proprietary media formats in Ubuntu.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>You can download and install multimedia codecs using the
+          ____________________.</para>
+        </question>
+
+        <answer>
+          <para>Synaptic Package Manager or Command Line Interface</para>
+        </answer>
+      </qandaentry>
+    </qandaset>
+  </sect1>
+
+  <sect1>
+    <title>Lab Exercise</title>
+
+    <formalpara>
+      <title>Exercise 1: Playing Music Using Rhythmbox</title>
+
+      <para>You have recently installed Ubuntu and want to play and organise
+      your music files, listen to music podcasts and Internet radio. List the
+      steps that you would take.</para>
+    </formalpara>
+
+    <orderedlist continuation="restarts" inheritnum="ignore"
+                 numeration="arabic">
+      <listitem>
+        <para>On the <emphasis role="strong">Application</emphasis> menu,
+        point to <emphasis role="strong">Sound &amp; Video</emphasis> and then
+        click <emphasis role="strong">Rhythmbox Music
+        Player</emphasis>.</para>
+      </listitem>
+
+      <listitem>
+        <para>To start importing individual music files into Rhythmbox,
+        right-click <emphasis role="strong">Library</emphasis> and click
+        <emphasis role="strong">Import File</emphasis>.</para>
+      </listitem>
+
+      <listitem>
+        <para>In the <emphasis role="strong">Import File into
+        Library</emphasis> dialogue box, navigate to the folder from which you
+        want to import the files.</para>
+      </listitem>
+
+      <listitem>
+        <para>Select the files that you want to import and click <emphasis
+        role="strong">Open.</emphasis></para>
+      </listitem>
+
+      <listitem>
+        <para>Select the music tracks that you want to play and the <emphasis
+        role="strong">Play</emphasis> button to start playing the selected
+        track.</para>
+      </listitem>
+
+      <listitem>
+        <para>To play music from a podcast of your choice, right-click the
+        <emphasis role="strong">Podcast</emphasis> option in the <emphasis
+        role="strong">Source</emphasis> list and select <emphasis
+        role="strong">New Podcast Feed</emphasis>.</para>
+      </listitem>
+
+      <listitem>
+        <para>Enter the podcast feed URL in the <emphasis role="strong">New
+        Podcast Feed</emphasis> text box and click <emphasis
+        role="strong">Add.</emphasis></para>
+      </listitem>
+
+      <listitem>
+        <para>To play a podcast episode, select the episode that you want to
+        play and click the <emphasis role="strong">Play</emphasis>
+        button.</para>
+      </listitem>
+
+      <listitem>
+        <para>To listen to Internet radio, click the <emphasis
+        role="strong">Radio</emphasis> source in the <emphasis
+        role="strong">Source</emphasis> pane.</para>
+      </listitem>
+
+      <listitem>
+        <para>Double-click on the radio station of your choice to listen to
+        the streaming media.</para>
+      </listitem>
+
+      <listitem>
+        <para>To add a new radio station to the existing list of stations,
+        click <emphasis role="strong">New Internet Radio Station</emphasis>
+        and paste the URL of the new radio station in the <emphasis
+        role="strong">URL of Internet radio station</emphasis> text
+        box.</para>
+      </listitem>
+
+      <listitem>
+        <para>Click <emphasis role="strong">Add</emphasis> to add the radio
+        station in the existing list.</para>
+      </listitem>
+
+      <listitem>
+        <para>You can add many more Internet radio stations in the same way
+        and listen to your favourite radio stations with just a click of your
+        mouse.</para>
+      </listitem>
+    </orderedlist>
+
+    <formalpara>
+      <title>Exercise 2: Playing and Extracting Audio CDs</title>
+
+      <para>You have built up an impressive CD collection over the years and
+      you would like to play these on your Ubuntu desktop, retrieve details
+      about the music tracks and extract your favourite music tracks onto your
+      computer in a compatible format to be able to play them later. List the
+      steps that you would need to perform to do all that you want.</para>
+    </formalpara>
+
+    <procedure>
+      <title>To play audio CDs:</title>
+
+      <para></para>
+
+      <step performance="required">
+        <para>Insert an audio CD in the CD drive of your computer. The
+        <emphasis role="strong">Sound Juicer</emphasis> CD player and ripper
+        is launched automatically.</para>
+      </step>
+
+      <step performance="required">
+        <para>Notice that <emphasis role="strong">Sound Juicer</emphasis> has
+        fetched the tracks' information from MusicBrainz.org.</para>
+      </step>
+
+      <step performance="required">
+        <para>To play the tracks of your choice, select the particular tracks
+        by selecting the corresponding checkboxes.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click the <emphasis role="strong">Play</emphasis> button to play
+        the tracks.</para>
+      </step>
+    </procedure>
+
+    <procedure>
+      <title>To extract an audio CD:</title>
+
+      <para></para>
+
+      <step performance="required">
+        <para>Insert the audio CD into your computer's CD drive.</para>
+      </step>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">Edit</emphasis> menu, click
+        <emphasis role="strong">Preferences.</emphasis></para>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">Preferences</emphasis> dialogue
+        box, click the <emphasis role="strong">Output Format</emphasis>
+        drop-down list.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the format of your choice from the <emphasis
+        role="strong">Output Format</emphasis> drop-down list.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the directory where you want to extract the files from
+        the <emphasis role="strong">Music Folder</emphasis> drop-down
+        list.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Close</emphasis> to exit the
+        <emphasis role="strong">Preferences</emphasis> dialogue box.</para>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">Sound Juicer</emphasis> window,
+        select the tracks that you want to extract by selecting the
+        corresponding check boxes.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click the <emphasis role="strong">Extract</emphasis> button to
+        start extracting the files.</para>
+      </step>
+
+      <step performance="required">
+        <para>Sound Juicer notifies you after the selected tracks are
+        extracted successfully. Click <emphasis role="strong">Open</emphasis>
+        to view the tracks copied on your hard disk.</para>
+      </step>
+
+      <step performance="required">
+        <para>The CD audio tracks are now copied as audio files on your hard
+        disk. You can listen to these tracks by simply double-clicking
+        them.</para>
+      </step>
+    </procedure>
+
+    <formalpara>
+      <title>Exercise 3: Burning Audio CDs</title>
+
+      <para>You have recently discovered a Web site from where you can freely
+      download hundreds of songs. You do not want these files to occupy the
+      precious space on your computer's hard drive. Therefore, you want to
+      copy these files on audio CDs, so that you can listen to them in future
+      without taking up space on the hard drive.</para>
+    </formalpara>
+
+    <procedure>
+      <title>To burn an audio CD:</title>
+
+      <step performance="required">
+        <para>Insert a blank (recordable) CD in the CD drive of your
+        computer.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click the click the <emphasis role="strong">Make Audio
+        CD</emphasis> button. This launches the <emphasis
+        role="strong">Brasero Disc Burning</emphasis> application.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click the 
+        <emphasis role="strong">New Audio Project</emphasis> button.</para>
+      </step>
+      
+      <step performance="required">
+        <para>Navigate to the desired folder with the files you wish to add
+        to display its contents.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the specific audio files that you want to be copied and
+        click the <emphasis role="strong">Add</emphasis> button or simply drag 
+        each file name to the Files area in the right side of the project window.</para>
+      </step>
+
+      <step performance="required">
+        <para>Once you are sure of the files to be copied to the disk, click
+        the <emphasis role="strong">Burn</emphasis> button to start
+        writing the audio files from your computer to the CD.</para>
+      </step>
+
+      <step performance="required">
+        <para>The Disc Burning Setup dialogue box displays.
+        Click <emphasis role="strong">Burn</emphasis> to
+        continue.</para>
+      </step>
+
+      <step performance="required">
+        <para>Brasero now starts writing the music files to the media disc.</para>
+      </step>
+    </procedure>
+
+    <formalpara>
+      <title>Exercise 4: Playing Proprietary Multimedia formats</title>
+
+      <para>You have a huge collection of music in MP3 format stored on your
+      computer and want to play these music files on your Ubuntu desktop. List
+      the steps that you will need to take to be able install the required
+      multimedia codecs.</para>
+    </formalpara>
+
+    <procedure>
+      <title>To Install a codec plugin using Synaptic Package Manager:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">System</emphasis> menu, point to
+        <emphasis role="strong">Administration</emphasis> and then click
+        <emphasis role="strong">Synaptic Package Manager</emphasis>. The
+        <emphasis role="strong">Synaptic Package Manager</emphasis> window
+        opens.</para>
+      </step>
+
+      <step performance="required">
+        <para>The Multiverse and Restricted repositories are not activated by
+        default in Ubuntu. To activate these repositories, on the <emphasis
+        role="strong">Settings</emphasis> menu, click <emphasis
+        role="strong">Repositories.</emphasis> The <emphasis
+        role="strong">Software Sources</emphasis> dialogue box is
+        displayed.</para>
+      </step>
+
+      <step performance="required">
+        <para>To enable the Multiverse and Restricted repositories, select the
+        third and fourth check boxes available on the <emphasis
+        role="strong">Ubuntu Software</emphasis> tabbed page, and click
+        <emphasis role="strong">Close</emphasis> to exit the dialogue
+        box.</para>
+      </step>
+
+      <step performance="required">
+        <para>You may receive a notification that your repository information
+        has changed. Click <emphasis role="strong">Close</emphasis> to exit
+        this message.</para>
+      </step>
+
+      <step performance="required">
+        <para>Once you return to the Synaptic Package Manager window, you are
+        required to click the <emphasis role="strong">Reload</emphasis> button
+        to apply your changes.</para>
+      </step>
+
+      <step performance="required">
+        <para>On clicking the <emphasis role="strong">Reload</emphasis>
+        button, the system starts checking the repositories for new, removed
+        or upgraded software packages.</para>
+      </step>
+
+      <step performance="required">
+        <para>To install a software package, you need to first locate the
+        package in the Synaptic Package Manager window.</para>
+      </step>
+
+      <step performance="required">
+        <para>To initiate a search for a specific package, click <emphasis
+        role="strong">Search.</emphasis></para>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">Search</emphasis> field, enter
+        the name of the software package that you are looking for. Click
+        <emphasis role="strong">Search</emphasis> to begin the search.</para>
+      </step>
+
+      <step performance="required">
+        <para>Right-click the package to be installed and select <emphasis
+        role="strong">Mark for Installation</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>Once all the required packages are marked, click <emphasis
+        role="strong">Apply</emphasis> to start downloading the packages. The
+        <emphasis role="strong">Summary</emphasis> dialogue box is
+        displayed.</para>
+      </step>
+
+      <step performance="required">
+        <para>To go ahead with the marked installations, click <emphasis
+        role="strong">Apply</emphasis> on the <emphasis
+        role="strong">Summary</emphasis> dialogue box.</para>
+      </step>
+
+      <step performance="required">
+        <para>After all the mark software packages are downloaded and
+        installed, the <emphasis role="strong">Changes Applied</emphasis>
+        dialogue box is displayed. Click <emphasis
+        role="strong">Close</emphasis> to exit the <emphasis
+        role="strong">Changes Applied</emphasis> dialogue box.</para>
+      </step>
+
+      <step performance="required">
+        <para>The check box corresponding to the recently installed software
+        package has changed to green, indicating that the software has been
+        installed successfully.</para>
+      </step>
+    </procedure>
+
+    <formalpara>
+      <title>Exercise 5: Playing DVDs</title>
+
+      <para>One of your friends has recently given you a DVD gift box set of
+      your favourite movies of all times. Now, you want to play this DVD in
+      your Ubuntu desktop and enjoy your favourite movies.</para>
+    </formalpara>
+
+    <procedure>
+      <title>To play the DVD in the Movie player:</title>
+
+      <step performance="required">
+        <para>Install the following software packages from the Universe and
+        Multiverse repositories using the Synaptic Package Manager.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>gxine</para>
+          </listitem>
+
+          <listitem>
+            <para>libdvdcss2</para>
+          </listitem>
+
+          <listitem>
+            <para>libdvdnav4</para>
+          </listitem>
+
+          <listitem>
+            <para>libdvdplay0</para>
+          </listitem>
+
+          <listitem>
+            <para>libdvdvread3</para>
+          </listitem>
+        </itemizedlist>
+      </step>
+
+      <step performance="required">
+        <para>Install the Ubuntu Restricted Extras software package from the
+        Ubuntu repository.</para>
+      </step>
+
+      <step performance="required">
+        <para>Insert the DVD into the DVD drive of your computer. This will
+        automatically launch the Totem and the DVD will start playing.</para>
+      </step>
+
+      <step performance="required">
+        <para>To view the DVD in full screen mode, on the View menu, click
+        Fullscreen. Alternatively, you can simply press F on your
+        keyboard.</para>
+      </step>
+
+      <step performance="required">
+        <para>You can enjoy the DVD in full screen mode. At any point of time,
+        while watching the DVD in fullscreen mode, you can press ESC and
+        return to the Totem window.</para>
+      </step>
+
+      <step performance="required">
+        <para>To configure the preferences settings, on the <emphasis
+        role="strong">Edit</emphasis> menu, click <emphasis
+        role="strong">Preferences.</emphasis></para>
+      </step>
+
+      <step performance="required">
+        <para>After specifying your preferences, click <emphasis
+        role="strong">Close</emphasis> to exit the dialogue box.</para>
+      </step>
+
+      <step performance="required">
+        <para>To skip to the next frame, on the <emphasis
+        role="strong">Go</emphasis> menu, click <emphasis role="strong">Skip
+        Forwards</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>You do not want to view the side bar when playing the DVD, click
+        the <emphasis role="strong">Sidebar</emphasis> button.</para>
+      </step>
+
+      <step performance="required">
+        <para>This hides the side bar and now you can view the DVD on a bigger
+        space and simultaneously, have all the playback controls right in
+        front of you.</para>
+      </step>
+    </procedure>
+    </sect1>
+</chapter>

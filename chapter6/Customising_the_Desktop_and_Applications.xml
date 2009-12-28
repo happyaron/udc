@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://docbook.org/xml/4.3/docbookx.dtd">
+<chapter id="lesson6">
+  <title>Customising the Desktop and Applications</title>
+
+<itemizedlist>
+    <title>Objectives</title>
+
+    <para>In this lesson, you will learn how to:</para>
+    
+    <listitem>
+      <para>Customise the look and feel of the Ubuntu desktop</para>
+    </listitem>
+
+    <listitem>
+      <para>Work with the Nautilus file manager</para>
+    </listitem>
+
+    <listitem>
+      <para>Add and remove applications</para>
+    </listitem>
+
+    <listitem>
+      <para>Identify the types of single package files and their use</para>
+    </listitem>
+
+    <listitem>
+      <para>Install and uninstall Debian packages</para>
+    </listitem>
+
+    <listitem>
+      <para>Identify the categories of software repositories</para>
+    </listitem>
+
+    <listitem>
+      <para>Add extra repositories</para>
+    </listitem>
+  </itemizedlist>
+
+  <sect1>
+    <title>Introduction</title>
+
+    <para>The Ubuntu desktop comes completely clean and free of pre-determined
+    icons and buttons. Customising your desktop allows you to add icons to
+    suit your work style.</para>
+
+    <para>In this lesson, you will learn about various ways to set up your
+    Ubuntu desktop to suit your requirements. You will also learn how to
+    install and uninstall various software applications.</para>
+  </sect1>
+
+  <sect1>
+    <title>Customising the Desktop</title>
+
+    <para>Ubuntu and its derivatives can be customised through a Graphical
+    User Interface or a Command Line Interface.</para>
+
+    <para>The graphical tools to customize the desktop are available as menu
+    options in the <emphasis role="strong">System</emphasis> menu. Point to
+    <emphasis role="strong">Preferences</emphasis> on the <emphasis
+    role="strong">System menu</emphasis> to view the tools.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>The System - Preferences menu enables users to customise their own
+      desktop environment but not that of other users on the same computer. In
+      contrast, applications on the System - Administration menu will make
+      changes to the computer that will affect all users.</para>
+    </note>
+
+    <sect2>
+      <title>Changing the Background</title>
+
+      <para>The desktop background is the image or colour applied to your
+      desktop.</para>
+
+      <procedure>
+        <title>To change the default Ubuntu background select:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System </emphasis> menu, point
+          to <emphasis role="strong">Preferences</emphasis> and then click
+          <emphasis role="strong">Appearance</emphasis>. The <emphasis
+          role="strong">Appearance Preferences</emphasis> dialogue box
+          opens.</para>
+
+          <figure float="0">
+            <title>Launching Appearance Preferences Dialogue Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_001.png"
+                           format="PNG" width="10.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <tip>
+            <title>Nice to Know:</title>
+
+            <para>You can also right-click the desktop and select <emphasis
+            role="strong">Change Desktop Background</emphasis> to open the
+            <emphasis role="strong">Appearance Preferences</emphasis> dialogue
+            box.</para>
+          </tip>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Appearance
+          Preferences</emphasis> dialogue box, select a desktop wallpaper from
+          the available wallpapers. The background changes immediately.</para>
+
+          <figure float="0">
+            <title>Changing the Desktop Wallpaper</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_002.png"
+                           format="PNG" vendor="" width="10.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <tip>
+            <title>Nice to Know:</title>
+
+            <para>To view the name of the wallpaper, move the pointer over its
+            name.</para>
+          </tip>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis> in the
+          <emphasis role="strong">Appearance Preferences</emphasis> dialogue
+          box to apply the changes.</para>
+
+          <figure float="0">
+            <title>Applying Preference Change</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_003.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <procedure>
+        <title>Adding a New Wallpaper</title>
+
+        <para>In addition to the wallpapers available with Ubuntu, you can
+        download wallpapers from other sources and add them to the available
+        wallpapers list in the <emphasis role="strong">Appearance
+        Preferences</emphasis> dialogue box. To do this:</para>
+
+        <step performance="required">
+          <para>Open the Web site <ulink
+          url="http://art.gnome.org/">http://art.gnome.org/</ulink> and click
+          <emphasis role="strong">Backgrounds</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Opening Wallpaper
+            Source</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_004.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Download the wallpaper of your choice. During the download,
+          you can view the screen resolutions available for the selected
+          wallpaper. You should download and save the version of your chosen
+          wallpaper that matches the screen resolution of your
+          computer.</para>
+        </step>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Preferences</emphasis> and then click
+          <emphasis role="strong">Appearance</emphasis>. The <emphasis
+          role="strong">Appearance Preferences</emphasis> dialogue box
+          opens.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Background</emphasis> tab
+          and then click <emphasis role="strong">Add</emphasis>. The <emphasis
+          role="strong">Add Wallpaper</emphasis> dialogue box opens.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Adding a New
+            Wallpaper</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_005.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Add Wallpaper</emphasis>
+          dialogue box, select the downloaded image and click <emphasis
+          role="strong">Open</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting Downloaded
+            Wallpaper</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_006.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>This step adds the image as new wallpaper.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis> in the
+          <emphasis role="strong">Appearance Preferences</emphasis> dialogue
+          box to accept the changes. You can now view the new desktop
+          background.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Added Wallpaper</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_007.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <tip>
+        <title>Nice to know:</title>
+
+        <para>You can, of course, use a picture from any other source to use
+        as your desktop background. Many popular online photo collaboration
+        sites allow visitors to download and use their content for personal
+        use. Many people also use their own digital photographs as
+        backgrounds.</para>
+      </tip>
+
+      <procedure>
+        <title>Changing the Colour of the Background</title>
+
+        <para>To change the colour of the background:</para>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Preferences</emphasis> and then click
+          <emphasis role="strong">Appearance</emphasis> to open the <emphasis
+          role="strong">Appearance Preferences</emphasis> dialogue box.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Background</emphasis> tab
+          and select the wallpaper <emphasis role="strong">No
+          Wallpaper</emphasis>. You can only view colours if you have not set
+          any desktop wallpaper.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Changing Background
+            Colour</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_008.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Colours</emphasis> box provides
+          three types of background: <emphasis role="strong">Solid colour,
+          Horizontal gradient</emphasis> and <emphasis role="strong">Vertical
+          gradient</emphasis>. Select the desktop colour of your choice and
+          then click the colour chip next to the <emphasis
+          role="strong">Colours</emphasis> box. The <emphasis
+          role="strong">Pick a Colour</emphasis> dialogue box opens.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting a colour
+            Option</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_009.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Select a colour or the attributes of a colour such as hue and
+          saturation to create a colour of your choice. Click <emphasis
+          role="strong">OK</emphasis>. The desktop reflects the new settings
+          immediately.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Specifying
+            Colour</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_010.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis> to close the
+          <emphasis role="strong">Appearance Preferences</emphasis> dialogue
+          box.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Changed Background
+            Colour</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_011.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2>
+      <title>Customising the Theme (Buttons &amp; icons etc)</title>
+
+      <para>The desktop theme controls the visual appearance of the buttons,
+      scroll bars, icons, panels, borders etc. A number of themes are provided
+      with Ubuntu.</para>
+
+      <procedure>
+        <title>To select a theme for your desktop:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Preferences</emphasis> and click
+          <emphasis role="strong">Appearance</emphasis>. The <emphasis
+          role="strong">Appearance Preferences</emphasis> dialogue box
+          opens.</para>
+        </step>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Theme</emphasis> tab, select
+          the theme of your choice. The desktop reflects the theme
+          automatically. To customise your theme further, click <emphasis
+          role="strong">Customise</emphasis>. The <emphasis
+          role="strong">Customise Theme</emphasis> dialogue box opens.</para>
+
+          <figure float="0">
+            <title>Customising Desktop Theme</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_012.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The default selection is <emphasis
+          role="strong">Controls</emphasis> tab. The setting on the <emphasis
+          role="strong">Controls</emphasis> tabbed page defines the visual
+          appearance of windows, panels and applets. Select a control from the
+          <emphasis role="strong">Controls</emphasis> list. You will see an
+          immediate change in the appearance of the open windows.</para>
+
+          <note>
+            <title>Note:</title>
+
+            <para>You can customise the following objects on the
+            screen:</para>
+
+            <formalpara>
+              <title>Window:</title>
+
+              <para>A rectangular area of the screen with a border and a title
+              bar at the top. All graphical applications run inside
+              windows.</para>
+            </formalpara>
+
+            <formalpara>
+              <title>Panel:</title>
+
+              <para>An area on the desktop from where you can access
+              information such as date and time. You can also launch
+              applications and add or remove objects from panels. The Ubuntu
+              desktop contains two panels, the top edge panel at the top of
+              the screen and the bottom edge panel at the bottom of the
+              screen.</para>
+            </formalpara>
+
+            <formalpara>
+              <title>Applet:</title>
+
+              <para>A small application whose user interface resides within a
+              panel.</para>
+            </formalpara>
+
+            <formalpara>
+              <title>Window Border:</title>
+
+              <para>The border that appears around windows. It has a frame at
+              the top of the window that contains the name of the application
+              and the edges that allow you to resize the window.</para>
+            </formalpara>
+
+            <formalpara>
+              <title>Icon:</title>
+
+              <para>A graphical symbol for the applications and options on the
+              panels and windows.</para>
+            </formalpara>
+          </note>
+
+          <para>Similarly, you can customise the background and text colour of
+          your windows, input boxes and selected items by configuring the
+          settings on the <emphasis role="strong">Colours</emphasis>
+          tab.</para>
+
+          <para>If you want to customise your window borders and icons, click
+          the <emphasis role="strong">Window Border</emphasis> and <emphasis
+          role="strong">Icons</emphasis> tabs in the <emphasis
+          role="strong">Customise Theme</emphasis> dialogue box.</para>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Ubuntu provides additional options to customise your themes.
+            You can download more controls, window borders and icons from the
+            Web site <ulink
+            url="http://art.gnome.org">http://art.gnome.org</ulink> and save
+            it at any location on your computer. While customising the theme,
+            click <emphasis role="strong">Install</emphasis> in the <emphasis
+            role="strong">Appearance Preferences</emphasis> dialogue box. The
+            <emphasis role="strong">Select Theme</emphasis> dialogue box
+            opens, and you can select the downloaded objects.</para>
+          </note>
+
+          <figure float="0">
+            <title>Selecting Theme Controls</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_013.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis> in the
+          <emphasis role="strong">Customise Theme</emphasis> dialogue box. To
+          save the theme, click <emphasis role="strong">Save As</emphasis> in
+          the <emphasis role="strong">Appearance Preferences</emphasis>
+          dialogue box. The <emphasis role="strong">Save Theme As</emphasis>
+          dialogue box opens.</para>
+
+          <figure float="0">
+            <title>Saving a Modified Theme</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_014.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Provide a name for the theme in the <emphasis
+          role="strong">Name </emphasis> box and a description, if you want,
+          in the <emphasis role="strong">Description </emphasis> box. Click
+          <emphasis role="strong">Save</emphasis>.</para>
+
+          <figure float="0">
+            <title>Specifying Theme Name and Description</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_015.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In the <emphasis role="strong">Appearance
+          Preferences</emphasis> dialogue box, click <emphasis
+          role="strong">Close</emphasis>.</para>
+        </step>
+      </procedure>
+
+      <para>If you open a menu or window, you can see the changes in their
+      appearance.</para>
+
+      <figure float="0">
+        <title>Viewing an Application in a Modified Theme</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson07_images_016.png" format="PNG"
+                       width="6cm" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <procedure>
+        <title>Installing New Themes</title>
+
+        <para>You can also download other Ubuntu-compatible themes from
+        Ubuntu's recommended source. To install these themes:</para>
+
+        <step performance="required">
+          <para>Open the Web site(<ulink
+          url="http://art.gnome.org/">http://art.gnome.org/</ulink>) and click
+          <emphasis role="strong">DesktopThemes</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Opening Theme
+            Source</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_017.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Download a theme of your choice. Select any theme and follow
+          the instructions as they appear.</para>
+        </step>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Preferences </emphasis> and click
+          <emphasis role="strong">Appearance</emphasis>. The <emphasis
+          role="strong">Appearance Preferences</emphasis> dialogue box
+          opens.</para>
+        </step>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Theme</emphasis> tab, click
+          <emphasis role="strong">Install</emphasis>. The <emphasis
+          role="strong">Select Theme</emphasis> dialogue box opens.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Installing a New
+            Theme</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_018.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Select the downloaded theme and click <emphasis
+          role="strong">Open</emphasis>.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Selecting the Downloaded
+            Theme</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_019.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You can apply a new theme or retain the current theme. Click
+          <emphasis role="strong">Apply New Theme</emphasis> to apply the new
+          theme. The screen will reflect the new theme immediately.</para>
+
+          <figure float="0">
+            <title><emphasis role="italic">Applying New
+            Theme</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_020.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis> in the
+          <emphasis role="strong">Appearance Preferences</emphasis> dialogue
+          box.</para>
+
+          <para>If you open any menu or window, it will reflect the selected
+          theme.</para>
+
+          <figure float="0" id="fig-chess-blueheart">
+            <title><emphasis role="italic">Chess in Blue Heart
+            Theme</emphasis></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_021.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2>
+      <title>Customising a Screensaver</title>
+
+      <para>A screensaver displays (often moving) images on the screen when
+      your computer is switched on but not in use. To go back to the
+      workspace, you can move the mouse or press any key on the
+      keyboard.</para>
+
+      <procedure>
+        <title>You can choose a screensaver and customise it. To customise a
+        screensaver:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Preferences</emphasis> and click
+          <emphasis role="strong">Screensaver</emphasis>. The <emphasis
+          role="strong">Screensaver Preferences </emphasis> dialogue box
+          opens.</para>
+
+          <figure float="0">
+            <title>Launching Screensaver Preferences Dialogue Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_022.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Select a screensaver from the list. You can preview the
+          screensaver in the right pane.</para>
+
+          <figure float="0">
+            <title>Customising Screensaver Settings</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_023.png"
+                           format="PNG" width="9cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The <emphasis role="strong">Regard the computer as idle
+          after</emphasis> slider specifies when a screensaver starts to work
+          if the computer is not in use. The default time is set to 10
+          minutes. You can use this slider to select how long the computer
+          needs to be idle before the screensaver activates.</para>
+        </step>
+
+        <step performance="required">
+          <para>To prevent any tampering of your computer in your absence, you
+          can automatically lock your screen the moment the screensaver
+          activates. Locking requires users to type their password to
+          reactivate the desktop. Select the <emphasis role="strong">Lock
+          screen when screensaver is active</emphasis> check box to lock the
+          screen when the screensaver starts.</para>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis>.</para>
+        </step>
+      </procedure>
+
+      <para>The selected screensaver displays when the computer is idle for
+      the specified period.</para>
+    </sect2>
+
+    <sect2>
+      <title>Customising the Screen Resolution</title>
+
+      <para>The screen resolution determines how large or small an item looks
+      on the screen.</para>
+
+      <procedure>
+        <title>To modify the desktop screen resolution:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Preferences</emphasis> and then click
+          <emphasis role="strong">Screen Resolution</emphasis>. The <emphasis
+          role="strong">Screen Resolution Preferences</emphasis> dialogue box
+          opens.</para>
+
+          <figure float="0">
+            <title>Launching Screen Resolution Preferences Dialogue
+            Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_024.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The default resolution is <emphasis
+          role="strong">1280x1024</emphasis>. You can change the resolution in
+          the <emphasis role="strong">Resolution</emphasis> box.</para>
+
+          <figure float="0">
+            <title>Customising Screen Resolution</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_025.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Apply</emphasis>. The <emphasis
+          role="strong">Keep Resolution</emphasis> dialogue box opens,
+          prompting you to confirm settings or use the previous resolution and
+          revert to the original settings. Click <emphasis role="strong">Keep
+          resolution</emphasis> to apply new changes.</para>
+
+          <figure float="0">
+            <title>Resolution Confirmation Dialogue Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_026.png"
+                           format="PNG" width="5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <para>The screen resolution will change.</para>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>3D Effects</title>
+
+    <para>A computer screen is two-dimensional (2D) and until recently most
+    applications were developed in a 2D layout.</para>
+
+    <para>However, advancements in technology fuelled the demand for more
+    life-like on screen visuals, as in three-dimensional (3D) modelling and
+    games. The operating system needs to perform complex calculations to
+    display 3D images in 2D. Consequently, to reduce the burden on the
+    operating system and increase the speed of applications, 3D accelerator
+    cards were developed, which use the graphics processor on the graphics
+    card instead of consuming valuable CPU resources. Almost all modern
+    graphics cards have a built-in acceleration to display 3D.</para>
+
+    <para>Ubuntu can utilize the 3D capabilities of a graphics card for
+    desktop effects. An example of these can be seen with Compiz Fusion –
+    spinning cubes, floating windows etc. Compiz Fusion is a fun application
+    used to liven up your desktop experience and make it 3D in
+    appearance.</para>
+
+    <para>The effects are enabled by default and can be controlled from the
+    <emphasis role="strong">Appearance</emphasis> menu. From here the desktop
+    effects can either be completely disabled or enabled. The number of
+    effects can be controlled via the <emphasis role="strong">normal
+    effects</emphasis> and <emphasis role="strong">extra effects</emphasis>
+    setting.</para>
+
+    <para>If a graphics card does not have 3D capabilities or support for 3D
+    is missing from the Linux drivers for the card, you will be notified that
+    <emphasis role="strong">Desktop effects could not be
+    enabled</emphasis>.</para>
+  </sect1>
+
+  <sect1>
+    <title>Working with Files Using Nautilus</title>
+
+    <para>The Nautilus file manager in Ubuntu provides a simple and integrated
+    way to manage files and applications.</para>
+
+    <sect2>
+      <title>Features of Nautilus</title>
+
+      <para>The Nautilus file manager enables you to organise files into
+      folders and perform tasks such as:</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Create and display folders and documents: Create new files,
+          organise them into folders and save them.</para>
+        </listitem>
+
+        <listitem>
+          <para>Search and manage your files: Classify files and search them
+          as per their classification.</para>
+        </listitem>
+
+        <listitem>
+          <para>Open special locations on your computer: Access the local
+          network and save your files.</para>
+        </listitem>
+
+        <listitem>
+          <para>Write data to a CD or DVD</para>
+        </listitem>
+
+        <listitem>
+          <para>Navigate using two modes:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Spatial mode: Allows you to open each folder in a separate
+              window, which then helps open your files as physical objects in
+              different locations. You can view the content of various folders
+              simultaneously.</para>
+            </listitem>
+
+            <listitem>
+              <para>Browser mode: Opens your folders in a single window. Only
+              one file manager opens in browser mode, and it is updated when
+              you click another folder in the file manager.</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>Compare browser mode with Firefox to help students appreciate
+        the similarity.</para>
+      </note>
+    </sect2>
+
+    <sect2>
+      <title>Nautilus</title>
+
+      <procedure>
+        <title>To choose the required mode:</title>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Places</emphasis> menu. A
+          list of items appears: <itemizedlist>
+              <listitem>
+                <formalpara>
+                  <title>Home Folder:</title>
+
+                  <para>This is a personal folder created by default for every
+                  user to create and work on files. It takes the user name by
+                  default.</para>
+                </formalpara>
+              </listitem>
+
+              <listitem>
+                <formalpara>
+                  <title>Desktop:</title>
+
+                  <para>An active component that lies behind all the screens
+                  on your computer and provides easy and quick access to the
+                  files saved on it.</para>
+                </formalpara>
+              </listitem>
+
+              <listitem>
+                <formalpara>
+                  <title>Computer:</title>
+
+                  <para>Contains all drives and file systems; makes document
+                  backup onto CD and DVD really simple.</para>
+                </formalpara>
+              </listitem>
+
+              <listitem>
+                <formalpara>
+                  <title>CD/DVD Creator:</title>
+
+                  <para>It consists of folders that you can write to a CD or a
+                  DVD. You can also back up your documents on a CD or a
+                  DVD.</para>
+                </formalpara>
+              </listitem>
+            </itemizedlist></para>
+        </step>
+
+        <step performance="required">
+          <para>Click any of the above items on the <emphasis
+          role="strong">Places </emphasis> menu.</para>
+
+          <figure float="0">
+            <title>Using File Browser</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_027.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>The Nautilus file manager opens files in browser mode by
+          default. If you open a folder in this mode, the folder will open in
+          the same window. The location bar shows the current location of the
+          opened folder in the hierarchy of folders, and the sidebar shows
+          other folders saved on your computer.</para>
+
+          <figure float="0">
+            <title>Files Display</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_028.png"
+                           format="PNG" width="13cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>While in browser mode, you can move to the parent folder that
+          contains the currently open folder. To move to the parent folder,
+          click <emphasis role="strong">Open Parent</emphasis> on the
+          <emphasis role="strong">Go</emphasis> menu in the window.</para>
+
+          <note>
+            <title>Note:</title>
+
+            <para>You can also click <emphasis role="strong">Up</emphasis> on
+            the navigation toolbar or press the BACKSPACE key to move to the
+            parent folder.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">Edit</emphasis> menu, click
+          <emphasis role="strong">Preferences</emphasis>. The <emphasis
+          role="strong">File Management Preferences</emphasis> dialogue box
+          opens.</para>
+
+          <figure float="0">
+            <title>Launching File Management Preferences</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_029.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Behaviour</emphasis> tab in
+          the dialogue box. To change the mode to spatial mode, clear the
+          <emphasis role="strong">Always open in browser windows</emphasis>
+          check box and then click <emphasis
+          role="strong">Close</emphasis>.</para>
+
+          <figure float="0">
+            <title>Changing File Management Behaviour</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_030.png"
+                           format="PNG" width="8cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Close the file manager window and open it again. Your files
+          will now open in spatial mode. If you open another folder, it will
+          open in a different file manager window.</para>
+
+          <figure float="0">
+            <title>Confirming File Management Behaviour Changes</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_031.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>Each time you open a particular folder in spatial mode, you
+            will find its window displayed in the same place on the screen and
+            of the same size as during the last view. For this reason, this
+            mode is referred to as spatial mode.</para>
+          </note>
+
+          <para>To move to the parent folder in spatial mode, click <emphasis
+          role="strong">Open Parent</emphasis> on the <emphasis
+          role="strong">File</emphasis> menu. Alternatively, you can press the
+          ALT+UP arrow key.</para>
+
+          <tip>
+            <title>Nice to Know:</title>
+
+            <para>Konqueror is KDE equivalent of Nautilus file manager, which
+            is used in the Kubuntu derivative of Ubuntu. It is a multi-purpose
+            application that can act as a file manager, Web browser and
+            universal viewer. As well as allowing you to browse Web sites,
+            this application provides basic file management and can many view
+            different file types.</para>
+          </tip>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Package Managers</title>
+
+    <para>One of the biggest differences between Ubuntu and other operating
+    systems is how you install and uninstall applications. In Microsoft
+    Windows, most applications provide their own installation and removal
+    methods. Some applications provide a method to keep themselves up to date,
+    but others do not and there is no easy way to ensure that everything on
+    your computer is up to date. Keeping track of all the programmes that have
+    been installed and keeping all those programmes updated is largely up to
+    you.</para>
+
+    <para>Ubuntu has a sophisticated <emphasis role="strong">package
+    management framework </emphasis> that keeps track of all the software
+    installed, automates the process of installing and removing applications,
+    and ensures that all the software is kept up to date with the latest
+    enhancements and fixes. All you have to do is decide what applications you
+    want installed, and then use a <emphasis role="strong">package
+    manager</emphasis> to tell Ubuntu to install them.</para>
+
+    <sect2>
+      <title>Types of Package Managers</title>
+
+      <para>Ubuntu includes a few package managers by default and which one
+      you use depends on how advanced the package management tasks are that
+      you want to achieve. This course covers Add/Remove applications utility
+      and the Synaptic Package Manager.</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>If you open more than one package manager at the same time, they
+        may not work. Close all the package managers and open just one.</para>
+      </note>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Using Add/Remove Applications</title>
+
+    <para>The Add/Remove tool is the easiest to use and will enable you to
+    install and uninstall many popular packages. You can search for the
+    package or packages you want to install by simply searching a keyword such
+    as 'email' or by looking through the given categories, selecting
+    applications and choosing "Apply" to start the installation.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>You need administrative access to use any package manager. Type
+      the password for your user name at the prompt. This means that
+      applications can not be added / removed from your computer without your
+      knowledge (and password).</para>
+    </note>
+
+    <procedure>
+      <title>The procedure to add or remove software by using Add/Remove
+      Applications is:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">Applications</emphasis> menu,
+        click <emphasis role="strong">Add/Remove</emphasis>.</para>
+
+        <figure float="0">
+          <title>Launching Add/Remove Applications</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_032.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The <emphasis role="strong">Add/Remove Applications</emphasis>
+        dialogue box displays a list of applications. The check boxes against
+        the applications that are already installed are pre-selected.</para>
+
+        <note>
+          <title>Note:</title>
+
+          <para>Many package names in Ubuntu are quite obscure, so the package
+          manager will also look at the package description when
+          searching.</para>
+        </note>
+
+        <figure float="0">
+          <title>Add/Remove Applications Window</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_033.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>If you know the name of the package to be installed, you can
+        type the name in the <emphasis role="strong">Search</emphasis> box.
+        Otherwise, you can click the appropriate software category in the left
+        pane and select the check box next to the required package in the
+        right pane.</para>
+
+        <tip>
+          <title>Nice to Know:</title>
+
+          <para>For more details about a package, click the package and view
+          the bottom pane.</para>
+        </tip>
+
+        <figure float="0">
+          <title>Searching for a Package in All Available Applications</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_034.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>When you have finished selecting the packages to be installed or
+        removed, click <emphasis role="strong">Apply
+        Changes</emphasis>.</para>
+
+        <figure float="0">
+          <title>Applying Changes to the Package List</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_035.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>You are prompted to confirm your selection. Click <emphasis
+        role="strong">Apply</emphasis> to proceed.</para>
+
+        <figure float="0">
+          <title>Confirming Changes</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_036.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The progress indicator shows the status of the package being
+        installed or removed.</para>
+
+        <figure float="0">
+          <title>Installing Selected Package from Repositories</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_037.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>After the changes are applied successfully, the package is
+        installed.</para>
+
+        <figure float="0">
+          <title>Installation Confirmation</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_038.png" format="PNG"
+                         width="10cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>Double-click the package to launch it. If you want to add or
+        remove more applications, click <emphasis role="strong">Add/Remove
+        More Applications</emphasis> or else click <emphasis
+        role="strong">Close</emphasis> in the <emphasis role="strong">New
+        application has been installed</emphasis> dialogue box. The following
+        figure shows <emphasis role="strong">Atomix</emphasis>, which has been
+        installed by performing this procedure.</para>
+
+        <figure float="0">
+          <title>Launching the Installed Application - Atomix</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_039.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+
+        <note>
+          <title>Note:</title>
+
+          <para>After installing a package, you can open it by using a
+          particular menu based on its category.</para>
+        </note>
+      </step>
+    </procedure>
+  </sect1>
+
+  <sect1>
+    <title>Using Synaptic Package Manager</title>
+
+    <para>Add/Remove Applications does not enable you to install and remove
+    some more advanced packages, such as the Apache web server, the PHP
+    programming language or Scribe. In such cases, use Synaptic Package
+    Manager.</para>
+
+    <para>You can install, remove, configure or upgrade software packages,
+    browse, sort and search the list of available software packages, manage
+    repositories or upgrade the whole system. You can queue up a number of
+    actions before you execute them. Synaptic informs you about the additional
+    packages required by the software package you have chosen as well as
+    conflicts with other packages that are already installed on your system.
+    In addition, it presents more information such as package status, origin
+    and filters.</para>
+
+    <procedure>
+      <title>To add and remove any package using Synaptic Packager
+      Manager:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">System</emphasis> menu, point to
+        <emphasis role="strong">Administration</emphasis> and then click
+        <emphasis role="strong">Synaptic Package Manager</emphasis>.</para>
+
+        <figure float="0">
+          <title>Launching Synaptic Package Manager</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_040.png" format="PNG"
+                         width="11cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">Synaptic Package
+        Manager</emphasis> dialogue box, you can select the package you need.
+        The left pane lists the categories, and the right pane lists the
+        packages. If you do not know the name of the package, select the
+        category in the left pane to filter the list of packages. You can then
+        select the check box next to the required package in the right
+        pane.</para>
+
+        <note>
+          <title>Note:</title>
+
+          <para>If you want to view the installed and uninstalled packages,
+          click <emphasis role="strong">Status</emphasis>. To know the source
+          repository of the package, click <emphasis
+          role="strong">Origin</emphasis>. Click <emphasis
+          role="strong">Custom Filters</emphasis> if you want to know the
+          whether a package is broken or can be upgraded.</para>
+        </note>
+
+        <figure float="0">
+          <title>Synaptic Package Manager Window</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_041.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>If you know the name of the package, click <emphasis
+        role="strong">Search</emphasis>. The <emphasis
+        role="strong">Find</emphasis> dialogue box opens. Type the name of the
+        package in the <emphasis role="strong">Search</emphasis> field and
+        click <emphasis role="strong">Search</emphasis>.</para>
+
+        <note>
+          <title>Note:</title>
+
+          <para>To return to the list of categories after searching the
+          packages using <emphasis role="strong">Search</emphasis>, click
+          <emphasis role="strong">Sections</emphasis>.</para>
+        </note>
+
+        <figure float="0">
+          <title>Searching a Package to Install</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_042.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>Choose the action to be performed on the selected package.
+        Select the <emphasis role="strong">Mark for Installation</emphasis>
+        check box to install the package or select the <emphasis
+        role="strong">Mark for Removal</emphasis> check box to remove it. If
+        you change your mind, select the <emphasis
+        role="strong">Unmark</emphasis> check box.</para>
+
+        <figure float="0">
+          <title>Marking the Package for Installation</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_043.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>If the package that you choose to remove or install depends on
+        other packages, you will be notified about the dependencies. To
+        continue making changes, click <emphasis
+        role="strong">Mark</emphasis>.</para>
+
+        <figure float="0">
+          <title>Confirming Additional Changes</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_044.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>To confirm that you want to make the marked changes, click
+        <emphasis role="strong">Apply</emphasis>.</para>
+
+        <figure float="0">
+          <title>Applying Changes to Update Software Information</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_045.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>The <emphasis role="strong">Summary</emphasis> dialogue box
+        opens, prompting you for a final check before making the marked
+        changes. Click <emphasis role="strong">Apply</emphasis> to continue
+        with the changes.</para>
+
+        <figure float="0">
+          <title>Final Confirmation to Install the Package</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_046.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+
+      <step performance="required">
+        <para>When all the marked changes are made, you are notified about the
+        changes applied. Click <emphasis role="strong">Close</emphasis> to
+        close Synaptic Package Manager.</para>
+
+        <figure float="0">
+          <title>Installation Confirmation</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_047.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+
+        <para>This step completes the procedure of installing packages by
+        using Synaptic Package Manager. You can access the installed package
+        by selecting a particular menu, depending on the category of the
+        package. The following figure shows Abiword, which has been installed
+        using this procedure.</para>
+
+        <figure float="0">
+          <title>Launching the Installed Application - Abiword</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson07_images_048.png" format="PNG"
+                         width="9cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
+    </procedure>
+  </sect1>
+
+  <sect1>
+    <title>Installing a Single Package File</title>
+
+    <para>The preferred method of installing programmes is by using package
+    managers. If some packages or files are not available, you can download
+    and install them from Web sites. These files are associated with the
+    package managers of specific Linux distributions and are referred to as
+    single package files. Examples are Debian package files-.deb files and
+    tarballs-.tar files.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>You should download files that are not present in Ubuntu archives
+      only from a safe source.</para>
+    </note>
+
+    <itemizedlist>
+      <listitem>
+        <para>Debian Package files: These files are associated with Ubuntu and
+        have the .deb suffix.</para>
+      </listitem>
+
+      <listitem>
+        <para>Tarballs: Zipped archive files that contain the source code of a
+        programme. This source code needs to be compiled before use.
+        Installing programmes by compiling them from source is not covered by
+        this course.</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Compiling and installing programmes from source tarballs can can be
+    very complex to debug when things go wrong. Tarballs are simple structures
+    which don't specify what dependencies are required to enable compilation
+    to take place. For this reason it can also be time consuming and complex
+    to determine the necessary dependencies and either install or compile them
+    also. Compiling from tarball is therefore not covered on this
+    course.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>It is not guaranteed that the single package files will be
+      compatible with your system. Also, you will not receive security updates
+      if you install these files. Therefore, wherever possible use a native
+      Ubuntu package of the application available through a package
+      manager.</para>
+    </note>
+
+    <sect2>
+      <title>Installing/Uninstalling Debian Packages</title>
+
+      <para>Debian packages are installed and uninstalled using the graphical
+      installer (gdebi). gdebi will attempt to install any dependencies which
+      are in the Ubuntu repositories, however if the package requires further
+      dependencies which are not in the Ubuntu repositories these will also
+      need to be installed manually.</para>
+
+      <para>To install a Debian package, open the .deb file from the folder in
+      which it resides.</para>
+
+      <procedure>
+        <title>Installing a Debian package:</title>
+
+        <step performance="required">
+          <para>Download the package XVidCap <emphasis role="strong">
+          xvidcap_1.1.6_i386.deb</emphasis>. As this package is not in the
+          Ubuntu repositories, you will need to download it from the following
+          website: <ulink
+          url="http://sourceforge.net/projects/xvidcap/">http://sourceforge.net/projects/xvidcap/</ulink>.</para>
+        </step>
+
+        <step performance="required">
+          <para>Once downloaded, simply double click the .deb file and the
+          gdebi installer will start. It will check to see if you have all the
+          necessary dependents, and if so will offer an <emphasis
+          role="strong">Install</emphasis> button. Simply press the button to
+          start the installation. In the event that dependencies cannot be
+          resolved, an error message will be displayed and you will not be
+          able to install the package until they are fulfilled.</para>
+        </step>
+
+        <step performance="required">
+          <para>To uninstall the package, simply use the Synaptic Package
+          Manager, as outlined previously in this section.</para>
+        </step>
+      </procedure>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Software Repositories</title>
+
+    <para>A software repository is a library of packages (applications)
+    available over the Internet. The Ubuntu software repository contains tens
+    of thousands of freely available packages for you to download and install.
+    These packages have been specially built and selected for Ubuntu.</para>
+
+    <!-- <instructornote><title>Instructor Notes:</title><para><emphasis role="italic">This section is a recap 
+                        of section 1. However, it is very critical to understand the concept of software repositories.</emphasis></para>
+                        </instructornote> -->
+
+    <sect2>
+      <title>Software Repository Categories</title>
+
+      <para>Ubuntu repositories are categorised into four groups based on the
+      level of support that software development teams provide for a programme
+      and the level of compliance the programme has with the free software
+      philosophy.<!-- These have already been outlined in lesson 1, but to re-iterate: --></para>
+
+      <itemizedlist>
+        <listitem>
+          <para><emphasis role="strong">Main</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="strong">Restricted</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="strong">Universe</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="strong">Multiverse</emphasis></para>
+        </listitem>
+      </itemizedlist>
+
+      <formalpara>
+        <title>The Main Component</title>
+
+        <para>The Main component contains software packages that are free and
+        fully supported by the Canonical team. These packages comply with the
+        free software philosophy and are available by default while installing
+        Ubuntu. For all packages in the Main component, security updates and
+        technical support are available free of cost. OpenOffice.org, Abiword
+        and the Apache web server are some of the packages available
+        there.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>The Restricted Component</title>
+
+        <para>The Restricted component consists of packages for commonly used
+        software that are supported by the Ubuntu team but not available under
+        a completely free license. Binary drivers produced by some video card
+        vendors are an example of packages available there. Packages in this
+        component are also available on the standard Ubuntu installation CD,
+        but they can be easily removed.</para>
+      </formalpara>
+
+      <formalpara>
+        <title>The Universe Component</title>
+
+        <para>The Universe component includes thousands of packages for
+        software that is not officially supported by Canonical. The software
+        is available under a variety of free licenses, taken from a variety of
+        public sources. This component is available only through Internet
+        downloading.</para>
+      </formalpara>
+
+      <para>All the packages in this component are expected to work perfectly.
+      However, there is no guarantee of security fixes and support for these
+      packages. These packages are maintained by the community.</para>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>It could be considered risky to use packages from the Universe
+        component, especially because the lack of guaranteed security
+        updates.</para>
+      </note>
+
+      <formalpara>
+        <title>The Multiverse Component</title>
+
+        <para>The Multiverse component contains packages of non-free software,
+        which means that the licensing requirements of the software does not
+        meet the license policy of Ubuntu's Main component. It is the user's
+        responsibility to verify their rights to use the software and comply
+        with the individual licensing terms. Support and security updates are
+        not provided. Examples of these packages include VLC and the Adobe
+        Flash plugin.</para>
+      </formalpara>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>Software from the Multiverse component could be hindered by
+        patents and restriction on usage and distribution. It is the user's
+        responsibility to determine if the software can be used in its
+        jurisdiction and complies with local laws.</para>
+      </note>
+
+      <para>Many packages are not available in default Ubuntu repositories.
+      These packages can either be installed from other Ubuntu repositories or
+      from third-party software. To use the packages present in third-party
+      software, you need to add the software and the repositories.</para>
+
+      <procedure>
+        <title>Perform the following steps to add the third-party
+        software and repositories:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Administration</emphasis> and then click
+          <emphasis role="strong">Software Sources</emphasis>.</para>
+
+          <figure float="0">
+            <title>Launching Software Sources Dialogue Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_049.png"
+                           format="PNG" width="11cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>The <emphasis role="strong">Software Sources</emphasis>
+          dialogue box opens. The software sources for Ubuntu are selected by
+          default.</para>
+
+          <figure float="0">
+            <title>Selecting the Required Sources</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_050.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <note>
+            <title>Note:</title>
+
+            <para>You can also open the <emphasis role="strong">Software
+            Sources</emphasis> dialogue box by using the Add/Remove
+            applications or Synaptic Package Manager to enable the
+            repositories under the <emphasis role="strong">Ubuntu
+            Software</emphasis> tab.</para>
+          </note>
+        </step>
+
+        <step performance="required">
+          <para>To add a repository from the third party, click the <emphasis
+          role="strong">Third-Party Software</emphasis> tab and then click
+          <emphasis role="strong">Add</emphasis>.</para>
+
+          <figure float="0">
+            <title>Adding a Third Party Software Source</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_051.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Type the APT line for the repository you want to add as a
+          source. To access the Debian main repositories, type <emphasis
+          role="strong">deb <ulink
+          url="http://ftp.debian.org">http://ftp.debian.org</ulink> sarge
+          main</emphasis> in the <emphasis role="strong">APT line</emphasis>
+          box. Click <emphasis role="strong">Add Source</emphasis>.</para>
+
+          <note>
+            <title>Note:</title>
+
+            <para>The APT line should include the type, location and
+            components of a repository.</para>
+          </note>
+
+          <figure float="0">
+            <title>Stating the Source APT Line</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_052.png"
+                           format="PNG" width="10cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click <emphasis role="strong">Close</emphasis> to save
+          changes. The repository specified in the APT line is added to the
+          third-party software box.</para>
+
+          <figure float="0">
+            <title>Software Sources Dialogue Box Displaying the Added
+            Source</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_053.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>With the addition of an extra repository, you will be prompted
+          to update information about available software. Click <emphasis
+          role="strong">Reload</emphasis> to do so.</para>
+
+          <figure float="0">
+            <title>Reloading Available Software Information</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson07_images_054.png"
+                           format="PNG" width="7cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The progress indicator shows the status of package being
+          installed or removed.</para>
+
+          <para>You can authenticate your downloads from the <emphasis
+          role="strong">Authentication</emphasis> tab in the <emphasis
+          role="strong">Software Sources</emphasis> dialogue box. When you do
+          not authenticate your downloads, your computer may show the error
+          shown below after downloading the package information. This error
+          can be ignored. To authenticate the downloading process, you need to
+          import the GPG key, which is different for every repository. Click
+          <emphasis role="strong">Close</emphasis> in the dialogue box showing
+          the error. This step will end the process of adding extra
+          repositories and updating package information.</para>
+
+          <figure float="0">
+            <title>Public Key Error</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata contentwidth="8.5cm"
+                           fileref="images/Lesson07_images_055.png"
+                           format="PNG" width="8.5cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+ 
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Adding New Language Settings</title>
+
+    <para>Ubuntu provides the option to enable numerous language settings for
+    your desktop.</para>
+
+    <para>Support for new languages can be installed via <emphasis
+    role="strong">Language Support</emphasis>, which is found in the <emphasis
+    role="strong">Administration/System</emphasis> menu. Depending on the
+    language, the input method and keyboard mapping may need to be changed as
+    well. The <emphasis>Smart Common Input Method</emphasis>(SCIM) is used in
+    Ubuntu to switch between different input methods for complex characters in
+    many non-Latin languages. The <emphasis>ctrl space</emphasis> hotkey is a
+    convenient switch between different input methods.</para>
+  </sect1>
+
+  <sect1>
+    <title>Lesson Summary</title>
+
+    <para>In this lesson, you learned that:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>GNOME is the default desktop for Ubuntu. You can use the
+        <emphasis role="strong">Preferences</emphasis> option on the <emphasis
+        role="strong">System</emphasis> menu to customise the Ubuntu desktop
+        look and feel.</para>
+      </listitem>
+
+      <listitem>
+        <para>You can manage your file system using the Nautilus file manager.
+        Use the spatial mode to open each folder in a separate window and view
+        the content of various folders simultaneously. Use the browser mode to
+        open folders in a single window.</para>
+      </listitem>
+
+      <listitem>
+        <para>Add/Remove Applications is the easiest tool to install or
+        uninstall packages.</para>
+      </listitem>
+
+      <listitem>
+        <para>You can use Synaptic Package Manager to install or uninstall
+        advanced applications that cannot be installed using
+        Add/Remove.</para>
+      </listitem>
+
+      <listitem>
+        <para>To install a package that is not available in the Ubuntu
+        archives, you can download and install it from Web sites. These files
+        are associated with the package managers of specific Linux
+        distribution and are referred to as single package files.</para>
+      </listitem>
+
+      <listitem>
+        <para>Tarballs are zipped archive files that contain the source code
+        of a programme. You can use advanced command line tools to install or
+        uninstall the tarball file.</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1 role="questions">
+    <title>Review Exercise</title>
+
+    <qandaset>
+      <qandaentry>
+        <question>
+          <para>What is the default desktop for Ubuntu?</para>
+        </question>
+
+        <answer>
+          <para>GNOME is the default desktop for Ubuntu.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>From which Web site can you download additional Ubuntu
+          wallpapers and themes?</para>
+        </question>
+
+        <answer>
+          <para>You can download additional wallpapers and themes from the Web
+          site <ulink
+          url="http://art.gnome.org/">http://art.gnome.org/</ulink>.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Mention any three features of the Nautilus file
+          manager.</para>
+        </question>
+
+        <answer>
+          <para>Three features of the Nautilus file manager are:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Creating and displaying folders and documents</para>
+            </listitem>
+
+            <listitem>
+              <para>Searching and managing files</para>
+            </listitem>
+
+            <listitem>
+              <para>Navigating using two modes, browser and spatial</para>
+            </listitem>
+          </itemizedlist>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Which is the file manager for the KDE environment?</para>
+        </question>
+
+        <answer>
+          <para>Konqueror is the file manager of the KDE environment.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What is a package manager?</para>
+        </question>
+
+        <answer>
+          <para>A package manager is a programme that helps add or remove
+          packages in Ubuntu.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Differentiate between a graphical package manager and a
+          command line package manager. Provide examples of each.</para>
+        </question>
+
+        <answer>
+          <para>To add and remove packages, a graphical package manager uses
+          the graphical interface while a command line package manager uses
+          the command line interface.</para>
+
+          <para>Add/Remove Applications is a graphical package manager and
+          apt-get is a command line package manager.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Software that is not licensed under Ubuntu's main component
+          licensing policy is referred to as _______________.</para>
+        </question>
+
+        <answer>
+          <para>Software that is not licensed under Ubuntu's main component
+          licensing policy is referred to as non-free software.</para>
+        </answer>
+      </qandaentry>
+    </qandaset>
+  </sect1>
+
+  <sect1>
+    <title>Lab Exercise</title>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>Explain to the students the purpose of each application. xpdf is a
+      suite of tools used to view Portable Document Format (pdf). This package
+      supports standard X fonts, true type fonts and type1 fonts. Gnumeric is
+      a stand-alone spreadsheet application that interoperates well with other
+      spreadsheets.</para>
+    </note>
+
+    <formalpara>
+      <title>Exercise 1</title>
+
+      <para>You have installed Ubuntu 8.04 on your personal computer. You want
+      to view your pdf files, use a spreadsheet application for creating your
+      daily tasks and archive your files. Install the following
+      packages:</para>
+    </formalpara>
+
+    <para>a) xpdf</para>
+
+    <para>b) gnumeric</para>
+
+    <procedure>
+      <title>a) Installing xpdf using Add/Remove Applications:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">Application</emphasis> menu,
+        click <emphasis role="strong">Add/Remove</emphasis>. The <emphasis
+        role="strong">Add/Remove</emphasis> dialogue box opens.</para>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">Search</emphasis> box, type
+        <emphasis role="strong">xpdf</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the check box next to <emphasis
+        role="strong">xpdf</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Apply Changes</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Apply</emphasis> to make the
+        changes.</para>
+      </step>
+
+      <step performance="required">
+        <para>In the <emphasis role="strong">New application has been
+        installed</emphasis> dialogue box, click <emphasis
+        role="strong">Close</emphasis>.</para>
+      </step>
+    </procedure>
+
+    <procedure>
+      <title>b) Installing gnumeric from Synaptic:</title>
+
+      <step performance="required">
+        <para>On the <emphasis role="strong">System</emphasis> menu, point to
+        <emphasis role="strong">Administration</emphasis> and then click
+        <emphasis role="strong">Synaptic Package Manager</emphasis>. The
+        <emphasis role="strong">Synaptic Package Manager</emphasis> dialogue
+        box opens.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Search</emphasis> to find gnumeric
+        and select the <emphasis role="strong">gnumeric</emphasis> check
+        box.</para>
+      </step>
+
+      <step performance="required">
+        <para>Select the <emphasis role="strong">Mark for
+        Installation</emphasis> check box. A dialogue box displaying the
+        dependencies of this package on other packages opens.</para>
+      </step>
+
+      <step performance="required">
+        <para>To continue making the required changes, click <emphasis
+        role="strong">Mark</emphasis>.</para>
+      </step>
+
+      <step performance="required">
+        <para>To confirm making the marked changes, click <emphasis
+        role="strong">Apply</emphasis>. The <emphasis
+        role="strong">Summary</emphasis> dialogue box opens, prompting you for
+        a final check before making the marked changes.</para>
+      </step>
+
+      <step performance="required">
+        <para>Click <emphasis role="strong">Apply</emphasis> to continue with
+        the changes.</para>
+      </step>
+
+      <step performance="required">
+        <para>When all the marked changes are made, you are notified of the
+        changes applied. Click <emphasis
+        role="strong">Close</emphasis>.</para>
+      </step>
+    </procedure>
+  </sect1>
+</chapter>

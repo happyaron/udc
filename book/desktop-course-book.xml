@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://docbook.org/xml/4.3/docbookx.dtd">
+<book lang="en" id="desktop-training">
+  <title>Ubuntu Desktop Training</title>
+  <bookinfo>
+    <include href="legalnotice.xml"/>
+  </bookinfo>
+  <include href="Introduction.xml"/>
+  <include href="Introducing_Ubuntu.xml"/>
+  <include href="Exploring_the_Ubuntu_Desktop.xml"/>
+  <include href="Using_Internet.xml"/>
+  <include href="Using_OpenOffice_Applications.xml"/>
+  <include href="Ubuntu_and_Games.xml"/>
+  <include href="Customising_the_Desktop_and_Applications.xml"/>
+  <include href="Managing_Graphics_and_Photos.xml"/>
+  <include href="Playing_Music_and_Videos.xml"/>
+  <include href="Ubuntu_Help_and_Support.xml"/>
+  <include href="Partitioning_and_Booting.xml"/>
+</book>
+

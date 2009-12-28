@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE preface PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://docbook.org/xml/4.3/docbookx.dtd">
+<preface>
+  <title>Course Overview</title>
+  <formalpara>
+    <title>About the Course</title>
+    <para>Ubuntu is a community developed Linux-based operating
+    system freely available and suitable for laptops, desktops and
+    servers. This course is based on Ubuntu 8.04 LTS and aims to train
+    new users of Ubuntu how to use key applications including
+    mainstream office applications, Internet connectivity and
+    browsing, graphics arts tools, multi-media and music.</para>
+  </formalpara>
+  <itemizedlist>
+  <title>Objectives</title>
+  
+      <para>This course will teach you:</para> 
+      <listitem>
+      <para>The concepts of open source and how they tie
+      in with Ubuntu</para>
+    </listitem>
+    <listitem>
+      <para>The benefits of using Ubuntu</para>
+    </listitem>
+    <listitem>
+      <para>How to customise the look and feel of the Ubuntu
+      desktop</para>
+    </listitem>
+    <listitem>
+      <para>How to navigate through the file system and search for
+      files</para>
+    </listitem>
+    <listitem>
+      <para>How to connect to and use the Internet</para>
+    </listitem>
+    <listitem>
+      <para>How to perform basic word-processing and spreadsheet functions
+      using OpenOffice.org</para>
+    </listitem>
+    <listitem>
+      <para>How to Install and play games</para>
+    </listitem>
+    <listitem>
+      <para>How to add, remove and update applications</para>
+    </listitem>
+    <listitem>
+      <para>How to view, draw, manipulate and scan images</para>
+    </listitem>
+    <listitem>
+      <para>How to play, edit and organize music and video files</para>
+    </listitem>
+    <listitem>
+      <para>Where to seek help on Ubuntu from free and commercial
+      sources</para>
+    </listitem>
+    <listitem>
+      <para>How to create partitions and dual-boot options</para>
+    </listitem>
+  </itemizedlist>
+  <sect1>
+    <title>Target Audience and Pre-requisites</title>
+    <para>This course provides both home and office users with
+    hands on training on Ubuntu. No prior knowledge of Ubuntu is
+    required, although computer literacy is assumed and is a
+    pre-requisite. Ubuntu 8.04 LTS must be installed on the computer
+    hard disk before starting this course.</para>
+    <para>The Ubuntu desktop course is designed to be modular. If
+    studied in a classroom in its entirety, it should be completed
+    within two full days. However, topics and lessons can be
+    selected as required and a day's content designed to suit the
+    key learning objectives.</para>
+    <para>Sample material for various exercises is available
+    through the ubuntu-desktop-course-resources package. The most
+    current package is available through the canonical-training PPA
+    (Personal Package Archive) in Launchpad:
+    https://launchpad.net/~canonical-training/+archive.</para>
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+      <para>The ubuntu-desktop-course-resource package should be
+      installed on all systems before the course starts. The sample
+      files are placed in /usr/share/ubuntu-desktop-course. It is
+      recommended to add a link to the directory on the students
+      desktop.</para>
+    </note>
+  </sect1>
+  <sect1>
+    <title>Student Responsibilities</title>
+    <itemizedlist>
+      <listitem>
+	<para>Students should arrive on time and stay until the
+	session is dismissed. The instructor should be notified if
+	you expect to arrive late.</para>
+      </listitem>
+      <listitem>
+	<para>Participation in class discussions is strongly
+	encouraged. Even when some topics are already familiar to
+	some, sharing relevant experiences can be very helpful to
+	other people.</para>
+      </listitem>
+      <listitem>
+	<para>Cell phones and pagers should be placed on silent
+	mode during class.</para>
+      </listitem>
+      <listitem>
+	<para>Feedback is vital to the improvement of our course
+	development and delivery. All students must complete the
+	course evaluation form at the end of the last day in order
+	to receive a certificate of completion.</para>
+      </listitem>
+      <listitem>
+	<para>Please provide any and all feedback regarding this
+	course to: training@canonical.com.</para>
+      </listitem>
+      </itemizedlist><?hard-pagebreak?>
+  </sect1>
+  <sect1>
+    <title>Ubuntu Session Plan</title>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<thead>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Session</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Duration (in
+		minutes)</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">DAY 1</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Welcome and Course
+		Overview</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">20</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Introducing
+		Ubuntu</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">60</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>About Open Source</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Free Software Movement, Open Source and
+	      Linux</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>About Ubuntu</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Software Repositories and Categories</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Key Differences between Ubuntu and Microsoft
+	      Windows</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Exploring the Ubuntu
+		Desktop</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">75</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Ubuntu Desktop Components</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Changing the Default Language</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Creating a User Account and Fast User
+	      Switching</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Adding/Removing Applications</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Desktop Effects - Compiz Fusion</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Using the
+		Internet</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">100</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Connecting to and Using the Internet</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Browsing the Web</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Accessing RSS Feeds</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Sending and Receiving E-mail Messages</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Instant Messaging</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Making Phone Calls using Softphones</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Using OpenOffice
+		Applications</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">180</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Introducing the OpenOffice.org Suite</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using OpenOffice.org Writer</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using OpenOffice.org Calc</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using OpenOffice.org Impress</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using OpenOffice.org Draw</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using OpenOffice.org Math</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Additional Applications</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Ubuntu and Games</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">40</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Installing Ubuntu Games</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Playing Ubuntu Games</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Playing Other Popular Games</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<thead>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Session</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Duration (in minutes) excl.
+		exercises</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">DAY 2</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Customising the Desktop and
+		Applications</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">80</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Introduction</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Customising the Desktop</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>The 3D Effects</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Working with Files Using Nautilus</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Adding and removing applications using
+	      Add/Remove and Synaptic Package Manager</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Installing a Single Package File</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Software Repositories</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Adding New Language Settings</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Making the Most of Images
+		and Photos</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">60</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Introducing Graphics Applications</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>The GIMP</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Managing Photos with F-Spot</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Drawing with Inkscape</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using a Scanner</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<thead>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Playing Music and
+		Videos</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">60</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>Legal Restrictions</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Playing Music Files</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Playing and Extracting Audio CDs</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Burning Audio CDs</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Playing Proprietary Multimedia Formats</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using an iPod</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Creating and Editing Audio Files</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Using DVDs</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Playing Online Media</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Editing Videos</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Ubuntu: Help and
+		Support</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">60</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Introduction</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Free support resources</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>System documentation</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Online Documentation</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Community Support</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Launchpad</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>The Fridge</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Paid for Commercial Services</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+    <informaltable>
+      <tgroup cols="2">
+	<colspec align="left" colname="col1" colwidth="11cm"/>
+	<colspec align="left" colname="col2" colwidth="2cm"/>
+	<tbody>
+	  <row>
+	    <entry>
+	      <para>
+		<emphasis role="strong">Partitioning and Booting -
+		optional</emphasis>
+	      </para>
+	    </entry>
+	    <entry>
+	      <para>
+		<emphasis role="strong">60</emphasis>
+	      </para>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>What is Partitioning</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Creating a Partition</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Boot-up Options</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lesson Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Review Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Lab Exercise</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>
+	      <para>Course Summary</para>
+	    </entry>
+	    <entry>
+	      <para/>
+	    </entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </informaltable>
+  </sect1>
+  <sect1 userlevel="instructor">
+    <title>Instructor Responsibilities</title>
+    <para>Instructors are:</para>
+    <itemizedlist>
+      <listitem>
+	<para>Responsible for conducting classes professionally and
+	ensuring that the classroom environment is conducive to
+	learning; this includes adhering to the schedule for start
+	times, breaks, and lunches.</para>
+      </listitem>
+      <listitem>
+	<para>Available during lab sessions to answer questions and
+	assist students in completing the exercises.</para>
+      </listitem>
+      <listitem>
+	<para>Committed to delivering a positive learning
+	experience for all students.</para>
+      </listitem>
+      <listitem>
+	<para>Responsible for providing students with a course
+	feedback questionnaire at the end of the course.</para>
+      </listitem>
+    </itemizedlist>
+
+    <sect2>
+      <title>Pre-Training Preparation/Checks</title>
+      <itemizedlist>
+	<listitem>
+	  <para>Familiarise yourself with the student profile and
+	  expectations. Some elements of the course may need to
+	  be customised.</para>
+	</listitem>
+	<listitem>
+	  <para>Pre-run and check all student and instructor
+	  computers and make sure they are functional and running
+	  well on Ubuntu.</para>
+	</listitem>
+	<listitem>
+	  <para>Ensure you check the classroom set-up guide, test
+	  each lab exercise and troubleshoot problems
+	  encountered, if any.</para>
+	</listitem>
+	<listitem>
+	  <para>Go through the Instructor Guide and the
+	  presentation slides in detail before getting into the
+	  classroom.</para>
+	</listitem>
+	<listitem>
+	  <para>Students may not be able to answer all the
+	  questions based on the content in the presentation
+	  slides. Please ensure to cover the related topics prior
+	  to posing the questions to the students.</para>
+	</listitem>
+	<listitem>
+	  <para>It is highly recommended that you teach each
+	  topic covered in the training material. However, if you
+	  are running short of time, optional topics are
+	  indicated in the Instructor Notes of each
+	  lesson.</para>
+	</listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Instructional Methods</title>
+      <para>Here are some instructional methods that will be used
+      to teach:</para>
+      <itemizedlist>
+	<listitem>
+	  <para>Slides and lecture: Slides will be used to
+	  explain concepts and also illustrate the step-by-step
+	  procedure to perform each task.</para>
+	</listitem>
+	<listitem>
+	  <para>Demonstrations: Instructor will perform live
+	  demonstrations of procedures that may be complicated
+	  for students, before doing a hands-on exercise.</para>
+	</listitem>
+	<listitem>
+	  <para>Review questions: Should be interspersed
+	  throughout each lesson, to ensure student understanding
+	  of key concepts.</para>
+	</listitem>
+	<listitem>
+	  <para>Lab exercises: At regular intervals, students
+	  will be performing hands-on lab exercises that
+	  replicate the real life scenarios.</para>
+	</listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Instructional Tips/Guidelines</title>
+      <itemizedlist>
+	<listitem>
+	  <para>Use conversational language that is easy to
+	  understand and sounds natural to the students.</para>
+	</listitem>
+	<listitem>
+	  <para>Create a comfortable, relaxed environment
+	  throughout.</para>
+	</listitem>
+	<listitem>
+	  <para>Be prompt with your responses to student queries.
+	  If you are not sure about anything, inform them and get
+	  back with your response the next day.</para>
+	</listitem>
+	<listitem>
+	  <para>Circulate around the room as students complete
+	  the exercise and reach out to students struggling with
+	  the exercise.</para>
+	</listitem>
+	<listitem>
+	  <para>Use technology (slides, demos, and guided lab
+	  exercises) in the most appropriate ways depending on
+	  the audience profile and their comfort with
+	  Ubuntu.</para>
+	</listitem>
+	<listitem>
+	  <para>Use presentation slides to stay on topic and
+	  avoid getting lost and cover the main points without
+	  forgetting anything. Glance at a specific point and
+	  quickly return attention to the students. Avoid reading
+	  out the slide word by word.</para>
+	</listitem>
+	<listitem>
+	  <para>To encourage interactivity, use the lab exercises
+	  throughout the lesson.</para>
+	</listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Lecture Components</title>
+      <para>Each lecture can be divided in the following
+      components.</para>
+    </sect2>
+    <sect2>
+      <title>Introduction</title>
+      <para>On the first day,</para>
+      <orderedlist numeration="arabic" inheritnum="ignore" continuation="restarts">
+	<listitem>
+	  <para>Welcome the students and introduce yourself
+	  followed by students introducing themselves - name,
+	  professional background, and company, expectations and
+	  level of experience with Linux OS.</para>
+	</listitem>
+	<listitem>
+	  <para>Clearly state the purpose and objectives of the
+	  training in general terms.</para>
+	</listitem>
+	<listitem>
+	  <para>Establish the ground rules for breaks.</para>
+	</listitem>
+      </orderedlist>
+    </sect2>
+    <sect2>
+      <title>Context Setting</title>
+      <para>Use any/all of the following methods:</para>
+      <itemizedlist>
+	<listitem>
+	  <para>Giving out a brief introduction to the
+	  topic.</para>
+	</listitem>
+	<listitem>
+	  <para>Explaining why the topic is important from
+	  learner's perspective.</para>
+	</listitem>
+	<listitem>
+	  <para>Providing a link from the previous to the current
+	  topic.</para>
+	</listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Main Body</title>
+      <para>You could use any or all of the Instructional methods
+      listed above. However, depending on the student profile and
+      the complexity of the content piece to be taught, choose
+      any combination of the above mentioned methods. Using a
+      wide range of teaching styles and methods is also a good
+      instructional practice as it brings in variety and breaks
+      monotony.</para>
+      <itemizedlist>
+	<listitem>
+	  <para>For complex topics, demonstrate the procedure and
+	  then have the students practice the lab exercise. If
+	  the topic is fairly simple, put up the slides
+	  illustrating the procedure and have the students
+	  perform the associated lab simultaneously.</para>
+	</listitem>
+	<listitem>
+	  <para>Explain how and when to use each option on the
+	  interface.</para>
+	</listitem>
+      </itemizedlist>
+    </sect2>
+  </sect1>
+  <sect1 userlevel="instructor">
+    <title>Summary</title>
+    <para>Always summarize key points of the lesson: The lecture
+    can be summarized by:</para>
+    <itemizedlist>
+      <listitem>
+	<para>Asking for questions.</para>
+      </listitem>
+      <listitem>
+	<para>Asking questions.</para>
+      </listitem>
+      <listitem>
+	<para>Using the Lesson Summary presentation slide, which
+	highlight the main points.</para>
+      </listitem>
+      <listitem>
+	<para>Reiterating how the topic relates with the learner's
+	job.</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+</preface>

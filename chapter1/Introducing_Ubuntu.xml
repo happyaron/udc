@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://docbook.org/xml/4.3/docbookx.dtd">
+<chapter id="lesson1">
+  <title>Introducing Ubuntu</title>
+<itemizedlist>
+	<title>Objectives</title>
+   <para>In this lesson, you will learn:</para>
+   
+      <listitem>
+      <para>The fundamental concepts of open source.</para>
+    </listitem>
+    
+    <listitem>
+      <para>The link between the Free Software Movement, open
+      source and Linux</para>
+    </listitem>
+    
+    <listitem>
+      <para>How Ubuntu ties in with open source</para>
+    </listitem>
+    
+    <listitem>
+      <para>How Ubuntu is developed</para>
+    </listitem>
+    
+    <listitem>
+      <para>About Ubuntu versions</para>
+    </listitem>
+    
+    <listitem>
+      <para>The key differences between Ubuntu and Microsoft
+      Windows</para>
+    </listitem>
+  </itemizedlist>
+
+  <sect1>
+    <title>About Open Source</title>
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+      <para>The focus of this topic is to help students understand
+      the concept of open source, which is the underlying
+      foundation of Ubuntu. Briefly explain the dictionary meaning
+      of 'open source' in general and move on to establishing how
+      the open source ideology developed in the context of Linux.
+      Present this as a story spread over different phases: Free
+      Software Movement, Open Source Movement initiation and its
+      formal launch. Explain the Ubuntu release schedule, naming
+      convention and Ubuntu promise in detail.</para>
+    </note>
+    <para>Ubuntu is a Linux-based open source operating system. The
+    term 'open source' can be defined as a set of principles and
+    practices that promotes access to the design and production of
+    goods and knowledge. Open source is generally applied to the
+    source code of software and is available to users with relaxed
+    or no intellectual property restrictions. This enables users to
+    distribute, create and modify software content, either
+    individually to meet their specific requirement or
+    collaboratively to improve the software. Both open source and
+    Linux have transitioned through various phases to reach their
+    present form.</para>
+    <para>The idea behind openly distributed source code is to
+    encourage the voluntary, collaborative development of software.
+    Users continuously enhance the software, fix bugs, develop new
+    features and share it with others.</para>
+    <para>As a result of collaborative software development which
+    involves a large number of programmers, users receive software
+    that is often better in quality and performance than
+    proprietary alternatives. Users are encouraged to customise the
+    software to their own personal requirements, which in itself is
+    a huge step away from the 'one size fits all'
+    philosophy.</para>
+    <para>Open source projects call on the talents of many people
+    with skills other than programming. Many projects involve
+    artists, musicians, user-interface designers and documentation
+    authors to create a complete product.</para>
+  </sect1>
+  <sect1>
+    <title>Free Software Movement, Open Source and Linux</title>
+    <para>There is often confusion between open source, free
+    software and Linux. While all three are inter-linked, there are
+    distinct differences which are made clearer when looking at
+    their evolution.</para>
+    <sect2>
+      <title>The Free Software Movement</title>
+      <para>In the 1960s, it was typical for software to be
+      distributed freely by companies such as IBM and shared
+      amongst users. Software was then considered an enabler for
+      the hardware, around which the business model of these
+      corporations was built. Software was provided with source
+      code that could be improved and modified; this was therefore
+      the very early seeds of open source software. However, as
+      hardware became cheaper and profit margins eroded in the
+      1970s, manufacturers looked to software to provide additional
+      revenue streams.</para>
+      <para>In September 1983, Richard Matthew Stallman, former
+      programmer at the MIT Artificial Intelligence Lab launched
+      the GNU project to create a free UNIX-like operating system
+      (OS). He was concerned with growth in proprietary software
+      and users' inability to access and modify programmes on their
+      computers. Developer constraint, as opposed to freedom was
+      prevalent. With the launch of the GNU project, Stallman
+      started the Free Software Movement and in October 1985, set
+      up the Free Software Foundation.</para>
+      <para>Stallman pioneered the definition and characteristics
+      of open source software and the concept of copyleft. He is
+      the main author of several copyleft licenses, including the
+      GNU General Public License (GPL), which is the most widely
+      used free software license.</para>
+      <tip>
+        <title>Nice to Know:</title>
+        <para>For more information on Richard Stallman and the GNU
+        project, refer to the following URL: 
+        <ulink url="http://en.wikipedia.org/wiki/Richard_stallman">http://en.wikipedia.org/wiki/Richard_stallman</ulink>.</para>
+      </tip>
+      <para>By 1991, a number of GNU tools, including the powerful
+      GNU compiler collection (GCC), had been created. However, a
+      free kernel was not yet available to build a free OS that
+      would use these tools.</para>
+    </sect2>
+    <sect2>
+      <title>The Open Source Movement and Linux</title>
+      <para>The difference between free software and open source
+      can be defined as the difference between a social movement
+      (free software) and a development methodology (open source).
+      Linux refers to the kernel, or the backbones of the open
+      source architecture.</para>
+      <para>In August 1991, Linus Benedict Torvalds, a Finnish
+      second-year student of computer science at the University of
+      Helsinki, started working on Minix.</para>
+      <figure float="0">
+        <title>Linus Benedict Torvalds</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/chapter1_img_02.png" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <tip>
+        <title>
+          <emphasis role="strong">Nice to Know:</emphasis>
+        </title>
+        <para>Minix is a UNIX-like OS built with open source code
+        that Prof. Andrew S. Tanenbaum created with the intention
+        to teach his students the internal processes of an
+        OS.</para>
+      </tip>
+      <para>Linux was initially designed to be a Minix-like
+      operating system that Linus Torvalds could use on his home
+      computer. By mid-September, Torvalds released the first Linux
+      kernel version 0.01. In 1994, Linux kernel version 1.0 was
+      released under the GNU GPL. The free kernel and GNU tools
+      provided a fertile environment for enthusiasts. By staying
+      close to its UNIX roots, Linux provided a Command Line
+      Interface (CLI) first; the adaptation of the X Window System
+      made a graphical user interface (GUI) available at a later
+      stage.</para>
+      <tip>
+        <title>Nice to Know:</title>
+        <para>Linux is not owned by any individual or company, not
+        even Linus Torvalds who started Linux. However, Torvalds is
+        heavily involved in the main kernel development process and
+        owns the trademark, Linux.</para>
+      </tip>
+      <para>Linux open source code: 
+      <itemizedlist>
+        <listitem>
+          <para>Is available and accessible to everyone</para>
+        </listitem>
+        <listitem>
+          <para>Can be customised according to an individual's
+          requirements and the platforms used</para>
+        </listitem>
+        <listitem>
+          <para>Can be freely redistributed in its current or a
+          modified form</para>
+        </listitem>
+      </itemizedlist></para>
+      <para>Initially, Linux was a very technical, hard core open
+      source programming tool. Thousands of developers contributed
+      to its evolution as it became more user friendly. This has
+      resulted in the launch of hundreds of commercial and
+      non-commercial distribution versions, designed for everyday
+      application use which are now available.</para>
+      <para>In 1998, Jon "maddog" Hall, Larry Augustin, Eric S.
+      Raymond, Bruce Perens et al formally launched the Open Source
+      Movement. They promoted open source software exclusively on
+      the basis of technical excellence.</para>
+      <figure float="0">
+        <title>Founders of the Open Source Movement</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/chapter1_img_03.png" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>The open source movement and the dot.com boom of the
+      late 1990s coincided, resulting in the popularity of Linux
+      and the evolution of many open source friendly companies such
+      as Corel (Corel Linux), Sun Microsystems (OpenOffice.org) and
+      IBM (OpenAFS). In the early 21st century when the dot.com
+      crash was at its peak, open source was in a prime position as
+      a viable alternative to expensive proprietary software. Its
+      momentum has strengthened since with the availability of many
+      easy to use applications.</para>
+      <para>As such, what started off as an idea became a passion
+      to revolutionise a patent and license intense industry. With
+      a significantly cheaper return on investment and enhanced
+      usability features, Linux is now rooted as a viable option
+      for enterprises and home users.</para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>About Ubuntu</title>
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+      <para>The focus of this topic is to make the students
+      understand the origins of Ubuntu, the development cycle,
+      version releases and the importance of community
+      contributions towards its development.</para>
+    </note>
+    <para>Ubuntu is a community developed, Linux-based operating
+    system that is perfect for laptops, desktops and servers. It
+    contains all the applications you need - including a Web
+    browser, presentation, document and spreadsheet software,
+    instant messaging and much more.</para>
+    <tip>
+      <title>Nice to Know:</title>
+      <para>Ubuntu is an African word meaning 'Humanity to others',
+      or 'I am what I am because of who we all are'.</para>
+    </tip>
+    <para>The history of Ubuntu dates back to April 2004 when Mark
+    Shuttleworth formed a group of open source developers to create
+    a new Linux OS. 
+    <figure float="0">
+      <title>Mark Shuttleworth</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/chapter1_img_04.png" width="7cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>Based on the principles of time-based releases, a
+    strong Debian foundation, the GNOME desktop, and a commitment
+    to freedom, this group operated initially under the auspices of
+    http://no-name-yet.com.</para>
+    <para>In a little over four years, Ubuntu has grown to a
+    community of thousands of members and an estimated user base of
+    over 8 million (as at June 2007). Canonical is the commercial
+    sponsor of Ubuntu.</para>
+	
+	<note userlevel="instructor">
+      <title>Instructor Notes:</title>
+      <para>If the students are interested to know more about Mark
+      Shuttleworth, present the following content as a
+      story.</para>
+      <para>Mark Shuttleworth is an African entrepreneur with a
+      love for technology, innovation, change and space flight.
+      Shuttleworth studied finance and information technology at
+      the University of Cape Town and went on to found Thawte, a
+      company specialising in digital certificates and
+      cryptography. He sold Thawte to the U.S. company VeriSign in
+      1999 and founded HBD Venture Capital and the Shuttleworth
+      Foundation. He moved to London in 2001 and began preparing
+      for the First African in Space mission, training in Star
+      City, Russia and Khazakstan. In April 2002, he became a space
+      traveller as a member of the cosmonaut crew of Soyuz Mission
+      TM34 to the International Space Station. In early 2004, he
+      founded the Ubuntu project, which aims to produce a free,
+      high-quality, user friendly OS available for
+      everybody.</para>
+    </note>
+    <sect2>
+      <title>The Ubuntu Promise</title>
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+        <para>Stress on the Ubuntu promise because it holds the
+        very essence of the spirit and success of the
+        software.</para>
+      </note>
+      <itemizedlist>
+        <listitem>
+          <para>Ubuntu will always be free of charge, including
+          enterprise releases and security updates.</para>
+        </listitem>
+        <listitem>
+          <para>Ubuntu comes with full commercial support from
+          Canonical and hundreds of companies around the
+          world.</para>
+        </listitem>
+        <listitem>
+          <para>Ubuntu includes the best translations and
+          accessibility infrastructure that the free software
+          community has to offer.</para>
+        </listitem>
+        <listitem>
+          <para>Ubuntu CDs contain only free software applications;
+          Ubuntu encourages you to use free and open source
+          software, improve it and pass it on.</para>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Ubuntu Versions</title>
+      <para>In October 2004, Ubuntu released its first version. A
+      new version of Ubuntu is released every six months and
+      upgrades to new releases are free of charge. Users are
+      encouraged to upgrade with each new release in order to enjoy
+      the latest features and applications. Its versions are named
+      using the Y.MM (name) scheme, where Y indicates the year and
+      MM refers to the month of release. The name in brackets is a
+      code name given to the version pre-release.</para>
+      <para>Each release is supported for 18 months; Long Term
+      Support releases (LTS) are supported for 3 years on the
+      desktop and 5 years on the server.</para>
+      <figure float="0">
+        <title>Ubuntu Versions</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/chapter1_img_05.png" width="100%" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>A brief history of releases:</para>
+      <itemizedlist>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 4.10 (Warty Warthog)</title>
+						<para>Ubuntu 4.10 was the first release of Ubuntu in
+          October 2004; supported until April 2006.</para>
+          </formalpara>
+
+          <tip>
+            <title>Nice to Know:</title>
+            <para>The early testing community of version 4.10 was
+            called the Sounder, named after the collective noun for
+            warthogs. The Sounder mailing list continues today as
+            an open discussion forum for the community.</para>
+          </tip>
+        </listitem>
+        <listitem>
+
+          <formalpara>
+            <title>Ubuntu 5.04 (Hoary Hedgehog)</title>
+						<para>Released in April 2005; supported until October
+          2006.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 5.10 (Breezy Badger)</title>
+						<para>Released in October 2005; supported until April
+          2007.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 6.06 LTS (Dapper Drake)</title>
+						<para>The first release with Long Term Support (LTS); it
+							was released in June 2006. Long-term support version
+							refers to guaranteed three years of support on the
+							desktop and five years on the server. All other releases
+							are provided with 18 month support for desktops and
+							servers. The extended support period provides reassurance
+							and makes it easier and more practical for large
+							deployments of Ubuntu. Desktops supported until June
+          2009; servers supported until June 2011.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 6.10 (Edgy Eft)</title>
+						<para>Released in October 2006. This version guarantees a
+          robust boot process; supported until April 2007.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 7.04 (Feisty Fawn)</title>
+						<para>Released in April 2007. This version introduced
+							significant improvements to network roaming; supported
+          until October 2008.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 7.10 (Gutsy Gibbon)</title>
+						<para>Released in October 2007. Key features include
+							spectacular visual effects by default, fast user
+							switching, printer auto-detection and easier desktop file
+							searching and tracking; supported until April
+          2009.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 8.04 LTS (Hardy Heron)</title>
+						<para>Released in April 2008. Ubuntu 8.04 LTS forms
+							the second Long Term Support release of Ubuntu. Desktops
+							will be supported until April 2011; servers supported
+          until April 2013.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 8.10 (Intrepid Ibex)</title>
+						<para>Released in October 2008. Ubuntu 8.10 includes hundreds of 
+						improvements and full 3G support. This release will be supported until 
+						April 2010.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 9.04 (Jaunty Jackalope)</title>
+						<para>Releasadin April 2009. Ubuntu 9.04 is the latest cutting edge
+						Ubuntu release, bringing the Eucalyptus Cloud to the Ubuntu community.
+                                                This release will be supported until October 2010.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 9.10 (Karmic Koala)</title>
+						<para>Scheduled for release in October 2009, Ubuntu 9.10 will be the next 
+						Ubuntu release. This release will be supported until April 2011.</para>
+          </formalpara>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Ubuntu Derivatives</title>
+      <para>Ubuntu is also available in several editions such as
+      Ubuntu, Edubuntu, Kubuntu and Xubuntu. Edubuntu is Ubuntu
+      customised for the school environment. Kubuntu is an official derivative of Ubuntu based on the work of the K Desktop project (KDE). KDE is a powerful graphical desktop environment, combining ease of use and contemporary functionality.
+      Xubuntu is intended for users with less-powerful
+      computers or those who seek a highly efficient desktop
+      environment on faster systems.</para>
+    </sect2>
+    <sect2>
+      <title>Ubuntu Development and the Community</title>
+
+				<para>Ubuntu is a joint collaboration project comprised of
+					Ubuntu community members all around the world. Since its
+					inception in 2004, thousands of contributors have joined the
+					Ubuntu community. These users contribute towards Ubuntu
+					development through writing code, advocacy, artwork,
+					translations, testing and documentation (to name just a few).
+					The development process of Ubuntu is open and transparent to
+					all, whether you are a novice Ubuntu user or an experienced
+					Ubuntu developer - everyone is welcome to get involved with
+					and improve Ubuntu. Canonical also employs developers to
+      contribute to Ubuntu.</para>
+      <formalpara>
+        <title>How you can get involved</title>
+				<para>The Ubuntu community is made of many individuals and
+					teams who work on different aspects of Ubuntu. If you are a
+					developer, you can participate in the core development, write
+					new applications, package additional software and fix bugs.
+					If you are an artist, you can add value to the look and feel
+					and functionality of Ubuntu. You can also provide online
+					support, write documentation, assist with training material,
+					join Web forums and the mailing lists of Ubuntu. There are
+      lots of ways to get involved!</para>
+      </formalpara>
+      <formalpara>
+        <title>Developer Zone</title>
+				<para>The developer zone is comprised of developers who
+					create and package software, fix bugs and maintain Ubuntu.
+					They are responsible for ensuring that Ubuntu has a wide
+					catalogue of software and it operates reliably and smoothly.
+					A great way to get started as a packager is to join MOTU -
+      see https://wiki.ubuntu.com/MOTU/GettingStarted.</para>
+      </formalpara>
+      <formalpara>
+        <title>Idea Pool</title>
+				<para>If you have ideas for projects, proposals and
+					enhancements but do not necessarily want to implement them,
+					you can add the ideas into the idea pool available at
+      https://wiki.ubuntu.com/IdeaPool.</para>
+      </formalpara>
+      <formalpara>
+        <title>Technical Users</title>
+				<para>If you have the requisite technical skills, you can
+      contribute to the Ubuntu community in the following ways:
+        <itemizedlist>
+          <listitem>
+            <para>Test the pre-release versions of Ubuntu to help
+            find bugs before the final release.</para>
+          </listitem>
+          <listitem>
+            <para>Report bugs and help the development team analyse
+            them.</para>
+          </listitem>
+          <listitem>
+            <para>Triage (edit and categorise) bugs to read, assess
+            and sort them before they can be fixed.</para>
+          </listitem>
+          <listitem>
+            <para>Join an e-mail support list or discussion list on
+            the Ubuntu mailing lists.</para>
+          </listitem>
+          <listitem>
+            <para>Join Web forums and respond to requests.</para>
+          </listitem>
+          <listitem>
+            <para>Join the Ubuntu support and discussion Internet
+            Relay Chat (IRC) channel, which is a form of real-time
+            Internet chat.</para>
+          </listitem>
+        </itemizedlist></para>
+      </formalpara>
+      <formalpara>
+        <title>Non-Technical Users</title>
+				<para>Even if you do not have technical knowledge of Ubuntu,
+      you can help Ubuntu users through the following projects: 
+        <itemizedlist>
+          <listitem>
+						<para>Artwork and design</para>
+          </listitem>
+          <listitem>
+            <para>Translation and localisation</para>
+          </listitem>
+          <listitem>
+						<para>Writing and updating documentation and training materials</para>
+          </listitem>
+          <listitem>
+            <para>Advocacy</para>
+          </listitem>
+        </itemizedlist></para>
+      </formalpara>
+      <formalpara>
+        <title>Ubuntu Desktop Course Development</title>
+				<para>Part of Canonical's mission is to enable the widest
+					deployment of Ubuntu on as many computers and servers, in as
+					many corners of the world as possible. Training is seen as a
+					core enabler for the adoption of Ubuntu and as such courses
+					are designed to certify Ubuntu professionals, assist partners
+					to deploy Ubuntu and show desktop users (such as yourselves)
+					how to use and get the most out of it. For more information
+					on Ubuntu course availability and certifications, please
+      refer to http://www.ubuntu.com/training.</para>
+      </formalpara>
+
+      <para>As with software development, the community contributes
+      towards the development and enhancement of this desktop
+      course. As Ubuntu experts, the community defines the scope
+      and structure of the training by identifying requirements
+      from the users' perspective; they also assist the Canonical
+      and third-party content writers in developing content and
+      reviewing it. More information on the Ubuntu Training
+      community effort can be found at
+      http://wiki.ubuntu.com/Training.</para>
+      <para>The entire content development process is in the true
+      spirit of Ubuntu's philosophy and the open source
+      tradition.</para>
+    </sect2>
+  </sect1>
+  <!--            <sect1>
+                                <title>Software Repository and Categories</title>
+                                <para>A software repository is a library of software from where you can download
+                                and install packages (applications) over the Internet. The Ubuntu software
+                                repository contains thousands of packages that are freely available for
+                                installation over the Internet. It is easy to install these packages because
+                                they are specially built for Ubuntu. Ubuntu repositories are categorised into
+                                four groups based on the level of support provided for their content /
+                                applications and their source code components. These will be covered in more detail in lessons 3, 6 and 7.</para>
+                        <instructornote><title>Instructor Notes:</title><para><emphasis role="italic"> While explaining the software repository categories, demonstrate where the repositories can be found. These repositories can be accessed by clicking System &gt; Administration &gt; Software Sources.</emphasis></para>
+</instructornote>
+                                <note><title><emphasis role="strong">Note:</emphasis></title>
+                        <para>This course is primarily based on applications available in the Main repository, which is the default repository in Ubuntu.
+                         Applications derived from other components will be highlighted.</para></note>
+                                <para><emphasis role="strong">The Main Component</emphasis></para>
+                                <para>The main component contains software packages that are free
+                                and fully supported by the Canonical team. These packages comply
+                                with the free software philosophy. The packages in the main
+                                component are available by default while installing Ubuntu. For all
+                                packages in the main component, security updates and technical
+                                support are available free of cost. OpenOffice.org, Abiword and the 
+                                Apache web server are some of the packages found in the main
+                                component.</para>
+                                <para><emphasis role="strong">The Restricted Component</emphasis></para>
+                                <para>The restricted component consists of packages for commonly
+                                used software that is supported by the Ubuntu team but not available
+                                under a completely free license. Binary drivers produced by some
+                                video card vendors are example of packages in the restricted
+                                component. Packages in this component are also available on the
+                                standard Ubuntu installation CD, but they can be easily removed.</para>
+                                <para><emphasis role="strong">The Universe Component</emphasis></para>
+                                <para>The universe component includes thousands of 
+                                packages for software that are not officially supported by Canonical. The
+                                software here is available under a variety of licenses from a number of public sources.</para>
+                                <para>All the packages in this component are expected to be Ubuntu compatible,
+                                however, there is no guarantee of security fixes and support for them. Packages in this component are 
+                                maintained by the community.</para>
+                                <instructornote><title>Instructor Notes:</title><para><emphasis role="italic">It could be considered risky to use packages from
+                                the universe component, especially because the availability of security
+                                updates is not guaranteed.</emphasis></para>
+                                </instructornote>
+                                <para><emphasis role="strong">The Multiverse Component</emphasis></para>
+                                <para>The multiverse component contains packages of non-free
+                                software, which means that the licensing requirements of these
+                                software does not meet the license policy of Ubuntu's main component.
+                                It is the user's responsibility to verify their rights to use the software
+                                and comply with stated licensing terms. The packages in this component
+                                do not come with any support or security updates. Examples of these
+                                packages include VLC and the Adobe Flash plugin.</para>
+                                <instructornote><title>Instructor Notes:</title><para><emphasis role="italic">Software from the multiverse 
+                                component could be restricted by patents or other forms of regulation on usage and distribution.
+                                It is the responsibility of the user to determine if the software of question
+                                can be used in its jurisdiction and to comply with local laws.</emphasis></para>
+                </instructornote>
+</sect1>  -->
+  <sect1>
+    <title>Ubuntu and Microsoft Windows: Key Differences</title>
+    <para>Open source differs from the proprietary software model
+    in that it:</para>
+    <itemizedlist>
+      <listitem>
+        <para>Encourages customisation and variation as opposed to
+        a one size fits many approach.</para>
+      </listitem>
+      <listitem>
+        <para>Relies on a 'services attached' business model rather
+        than per license and seat basis.</para>
+      </listitem>
+      <listitem>
+        <para>Believes that the benefits of collaboration and
+        multi-developer contribution outweigh those of controlled
+        project work of smaller, paid developer teams.</para>
+      </listitem>
+    </itemizedlist>
+    <table>
+      <blockinfo>
+        <abstract>
+          <para>Ubuntu and Microsoft Windows can be differentiated
+          by many characteristics. Elements of cost, release cycle,
+          security, customisation and mobility are presented
+          here.</para>
+        </abstract>
+      </blockinfo>
+      <title>Key Attributes</title>
+      <tgroup cols="3">
+	<colspec align="left" colname="col1" colwidth="3cm"/>
+	<colspec align="left" colname="col2" colwidth="6cm"/>
+	<colspec align="left" colname="col3" colwidth="6cm"/>
+        <thead>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="strong">Attribute</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <emphasis role="strong">Ubuntu</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <emphasis role="strong">Microsoft
+                Windows</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="strong">Costs</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Free of licensing charges</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Charges per user license and/or for a
+                    fixed term</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="strong">Versions
+                Released</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Same version and features for home and
+                    professional users</para>
+                  </listitem>
+                  <listitem>
+                    <para>Six-monthly fully supported free
+                    release</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Separate Professional and Home
+                    editions</para>
+                  </listitem>
+                  <listitem>
+                    <para>Less frequent and less visible release
+                    schedule</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="strong">Security</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Locked administrative user root</para>
+                  </listitem>
+                  <listitem>
+                    <para>Rarely targeted by malware and
+                    viruses</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Enables easy access to administrative
+                    user</para>
+                  </listitem>
+                  <listitem>
+                    <para>Regularly targeted by malware and
+                    viruses</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="strong">Customisation</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Easy to design and personalise</para>
+                  </listitem>
+                  <listitem>
+                    <para>Can run different flavours of Ubuntu in
+                    parallel</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Standard OS with limited options to
+                    personalise</para>
+                  </listitem>
+                  <listitem>
+                    <para>Paid for additional applications</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <emphasis role="strong">Data Storage</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Easy to upgrade and downgrade</para>
+                  </listitem>
+                  <listitem>
+                    <para>User data stored in home directory</para>
+                  </listitem>
+                  <listitem>
+                    <para>Easy to migrate and replicate user data
+                    and configuration to another computer</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <itemizedlist>
+                  <listitem>
+                    <para>User data saved in multiple
+                    locations</para>
+                  </listitem>
+                  <listitem>
+                    <para>Difficult to backup and migrate to
+                    computer</para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para>Looking at each element outlined in the table in greater
+    detail:</para>
+    <formalpara>
+      <title>Associated Costs:</title>
+      <para>The Microsoft Windows OS is proprietary and the overall
+      price increases with added functionality and applications.
+      The associated price is sometimes a factor of using third
+      party applications and not just a Microsoft decision. With
+      Ubuntu new release versions and applications are free.</para>
+    </formalpara>
+    <formalpara>
+      <title>New version releases:</title>
+      <para>There is only one released version of Ubuntu and
+      therefore features available to home and professional users
+      are the same. The Home and Professional editions of Microsoft
+      Windows are not the same. For example, Microsoft Windows
+      Professional editions have more security features than Home
+      editions.</para>
+    </formalpara>
+    <para>Ubuntu's 6 monthly release cycle also makes it very easy
+    for users to have access to all the latest applications. An
+    upgrade from one release to the next is free and fully
+
+				supported. Microsoft scheduled releases are less frequent and
+    less visible to the public.</para>
+    <formalpara>
+      <title>Security aspects:</title>
+			<para>Ubuntu is
+				rarely targeted by malware and viruses. The administrative user
+				root is locked by default in Ubuntu and only certain tasks are
+				run with administrative privileges. Microsoft Windows provides
+				an environment where people can access administrative user
+    directly.</para>
+    </formalpara>
+    <figure float="0">
+      <title>Ubuntu Security</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson02_images_003.png" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <formalpara>
+      <title>Customisation:</title>
+			<para>As you will
+				discover throughout this course, Ubuntu is yours to design and
+				personalise. You can have different flavours of Ubuntu running
+				parallel; for example, you can install the Kubuntu (KDE)
+				desktop together with Ubuntu (GNOME) and then select the
+				desktop environment you want to use. More than 17,000 packages
+				are available and easily accessible through the Internet. As a
+				result, you are not stuck with using one version because it was
+    the first you installed.</para>
+    </formalpara>
+
+
+    <para>Microsoft Windows is a standard OS with some options for
+    customization. While many applications are available, most are
+    proprietary software which incur a license fee.</para>
+    <figure float="0">
+      <title>Desktop Customisation</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson02_images_004.png" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+    <formalpara>
+      <title>Data Storage:</title>
+      <para>User data is often located in multiple locations in
+      Microsoft Windows, which can make backing up and migrating
+      from one computer to another tricky. Ubuntu saves your user
+      information in one place - the home directory. This makes the
+      migration of data from an old computer to a new one easy, as
+      well as keeping user specific backup data separate.</para>
+    </formalpara>
+    <sect2>
+      <title>Installation</title>
+      <table>
+        <title>Installation Differences</title>
+        <tgroup cols="3">
+	<colspec align="left" colname="col1" colwidth="3cm"/>
+	<colspec align="left" colname="col2" colwidth="6cm"/>
+	<colspec align="left" colname="col3" colwidth="6cm"/>
+          <thead>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Installation</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <emphasis role="strong">Ubuntu</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <emphasis role="strong">Microsoft
+                  Windows</emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">OS
+                  Installation</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Freely downloadable from the Internet
+                      or using a free CD</para>
+                    </listitem>
+                    <listitem>
+                      <para>Can be used directly from the
+                      live-CD</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Purchase required</para>
+                    </listitem>
+                    <listitem>
+                      <para>OS must be installed on com&#173;puter hard
+                      drive</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Software
+                  Installation</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Huge variety of applications available
+                      by default</para>
+                    </listitem>
+                    <listitem>
+                      <para>All freely downloadable from the
+                      Internet</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Limited selection of software available
+                      by default</para>
+                    </listitem>
+                    <listitem>
+                      <para>Users can purchase and download some
+                      software online, others can only be manually
+                      installed</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist>
+        <listitem>
+
+          <formalpara>
+						<title>OS Installation:</title>
+						<para>Both
+							Microsoft Windows and Ubuntu come as pre-installed OSs on
+							computers. However, to install post-purchase, Ubuntu can
+							be freely downloaded from the Internet or a free CD can
+							be requested. Any Microsoft Windows version will need to
+          be purchased.</para>
+          </formalpara>
+
+          <para>Ubuntu comes in live-CD mode which means you can
+          use the OS directly from the CD without installing it on
+          a host computer. If you like what you see, install it. If
+          you don't, pass it on to a friend. The live-CD option is
+          also useful for system recovery.</para>
+          <para>The installation of Microsoft Windows and Ubuntu is
+          easy and conducted by running the installation CD and
+          booting the computer. Both installations vary in length
+          according to how powerful your computer is, with an
+          average install taking 20 - 30 minutes.</para>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Software Installation:</title>
+            <para>You can add software on Ubuntu by using the
+            Add/Remove Applications and Synaptic Package Manager.
+            The Add/Remove Applications allows you to search the
+            entire directory of free applications recommended for
+            Ubuntu and install the ones you want. In Microsoft
+            Windows, each programme supplies its own installation
+            method. Microsoft Vista has a Digital Locker feature
+            enables users to purchase software online and download
+            it in a protected manner.</para>
+          </formalpara>
+          <figure float="0">
+            <title>Installing Software Applications</title>
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson02_images_006.png" width="100%" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+    <sect2>
+      <title>Applications</title>
+      <para>The table below displays a comparison between Ubuntu
+      and Microsoft Windows applications:</para>
+      <table>
+        <title>Application Based Differences</title>
+        <tgroup cols="3">
+	  <colspec align="left" colname="col1" colwidth="3cm"/>
+	  <colspec align="left" colname="col2" colwidth="6cm"/>
+	  <colspec align="left" colname="col3" colwidth="6cm"/>
+          <thead>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Applications</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <emphasis role="strong">Ubuntu</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <emphasis role="strong">Microsoft
+                  Windows</emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Web browsing and
+                  E-mail</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Firefox Web browser by default</para>
+                    </listitem>
+                    <listitem>
+                      <para>Evolution e-mail client by
+                      default</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Internet Explorer Web browser by
+                      default</para>
+                    </listitem>
+                    <listitem>
+                      <para>Outlook e-mail client by default</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Word
+                  Processing</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>OpenOffice.org suite</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>WordPad by default</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Multimedia</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Includes Audio CD Extractor, Brasero, Rhythmbox, Movie Player and Sound Recorder
+                      </para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Includes Microsoft Windows Media Player
+                      11 (WMP) and Microsoft Windows Media Center
+                      (WMC)</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="strong">Image Editing and Picture
+                  Management</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>F-Spot photo manager</para>
+                    </listitem>
+                    <listitem>
+                      <para>Gimp for image editing</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  <itemizedlist>
+                    <listitem>
+                      <para>Picture Gallery application</para>
+                    </listitem>
+                    <listitem>
+                      <para>Paint</para>
+                    </listitem>
+                  </itemizedlist>
+                </para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para>Looking at each element outlined in the table in
+      greater detail:</para>
+
+      <formalpara>
+        <title>Networking, Web browsing and E-mail</title>
+				<para>Network setup on both Ubuntu and Microsoft Windows is
+					easy. Web browsing features are more or less the same on both
+      OSs.</para>
+      </formalpara>
+
+      <para>Mozilla Firefox is loaded as the default browser on
+      Ubuntu, and Internet Explorer is the default browser on
+      Vista. You can also install Firefox on Microsoft
+      Windows.</para>
+      <para>Evolution is the default e-mail client on Ubuntu. It
+      connects to POP accounts, conventional UNIX mailboxes and
+      Exchange servers via Outlook Web Access. Evolution also has a
+      built-in Personal Information Manager (PIM) and a calendaring
+      and appointment system. The Microsoft Windows Mail
+      application in Vista is a rewritten version of Outlook
+      Express, with a stripped down calendar or appointment
+      application, Microsoft Windows Calendar. An upgrade to
+      Outlook is suggested if you use the calendar often or if you
+      have a full PIM. Ubuntu users enjoy the out-of-the-box mail
+      client setup facility.</para>
+      <figure float="0">
+        <title>Evolution E-mail Client</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson02_images_008.png" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <formalpara>
+        <title>Word Processing:</title>
+        <para>The OpenOffice.org suite is installed on Ubuntu by
+        default and provides many features of Microsoft Office.
+        Vista comes with WordPad by default; the full version of
+        Microsoft Word (or Office) for Microsoft Windows, is
+        available at an additional cost. 
+        <figure float="0">
+          <title>
+            <emphasis role="italic">OpenOffice.org
+            Writer</emphasis>
+          </title>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson02_images_009.png" format="PNG"/>
+            </imageobject>
+          </mediaobject>
+        </figure></para>
+      </formalpara>
+      <formalpara>
+        <title>Multimedia:</title>
+        <para>Several multimedia programmes are configured by
+        default on Ubuntu, such as Audio CD Extractor, Brasero Disc Burning, Rhythmbox Music Player, Movie Player and Sound Recorder. Rhythmbox is the default application for playing audio CDs and organising music and playlists. Rhythmbox is similiar to Microsoft Windows Media Player. You can use Brasero to author audio CDs.
+        </para>
+      </formalpara>
+      <para>To play the mp3 format on Ubuntu, you need to install a
+      codec pack. This is because Ubuntu is not distributed with
+      mp3 codecs due to licensing restrictions. Playback of mp3
+      files is enabled by default on some versions of Microsoft
+      Windows.</para>
+      <para>Vista has two multimedia programmes, Windows Media
+      Player 11 (WMP for short) and Windows Media Center (WMC for
+      short). WMP is best for playing music, and WMC is useful if
+      you are using the computer as your core entertainment system.
+      WMP can contain a large music library. With the index search
+      system of WMP, you can search music numbers by a particular
+      artist or search for specific numbers.</para>
+
+      <formalpara>
+        <title>Image Editing and Picture Management:</title>
+				<para>With the Picture Gallery application of
+					Microsoft Vista, you can upload thousands of images and add
+					tags. You can also organise the images quickly and work on
+					them easily because you can tag them with one click. F-Spot
+					photo manager organises your personal photos on Ubuntu. It
+					integrates seamlessly with popular Web based image databases,
+      such as Flickr and Picasa Web.</para>
+      </formalpara>
+      <para>Ubuntu provides GIMP for image editing which is a
+      powerful Photoshop-like application. Microsoft Windows Vista
+      provides 'Paint' for basic image editing.</para>
+      <figure float="0">
+        <title>GIMP</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson02_images_010.png" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Lesson Summary</title>
+    <para>In this lesson, you learned:</para>
+    <itemizedlist>
+      <listitem>
+        <para>The fundamental concepts of open source</para>
+      </listitem>
+      <listitem>
+        <para>The link between the Free Software Movement, open
+        source and Linux</para>
+      </listitem>
+      <listitem>
+        <para>How Ubuntu ties in with open source</para>
+      </listitem>
+      <listitem>
+        <para>How Ubuntu is developed</para>
+      </listitem>
+      <listitem>
+        <para>The Ubuntu version naming conventions</para>
+      </listitem>
+      <listitem>
+        <para>The key differences between Ubuntu and Microsoft
+        Windows</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+  <sect1 role="questions">
+    <title>Review Exercise</title>
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+      <para>If you are running short of time, administer this
+      exercise when Exploring the Ubuntu Desktop in <xref linkend="lesson2"/>.</para>
+    </note>
+    <qandaset>
+      <qandaentry>
+        <question>
+          <para>What is meant by the term free software?</para>
+        </question>
+        <answer>
+          <para>Quoting the Free Software Foundation's 'What is
+          Free Software', the freedoms at the core of free software
+          are defined as:</para>
+          <itemizedlist>
+            <listitem>
+              <para>The freedom to run the programme, for any
+              purpose.</para>
+            </listitem>
+            <listitem>
+              <para>The freedom to study how the programme works
+              and adapt it to your needs.</para>
+            </listitem>
+            <listitem>
+              <para>The freedom to redistribute copies so you can
+              help others.</para>
+            </listitem>
+            <listitem>
+              <para>The freedom to improve the programme and
+              release your improvements to the public, so that
+              everyone benefits.</para>
+            </listitem>
+          </itemizedlist>
+        </answer>
+      </qandaentry>
+      <qandaentry>
+        <question>
+          <para>What is the Ubuntu promise?</para>
+        </question>
+        <answer>
+          <para>The Ubuntu promise is: 
+          <itemizedlist>
+            <listitem>
+              <para>Ubuntu will always be free of charge, including
+              enterprise releases and security updates.</para>
+            </listitem>
+            <listitem>
+              <para>Ubuntu comes with full commercial support from
+              Canonical and hundreds of companies around the
+              world.</para>
+            </listitem>
+            <listitem>
+              <para>Ubuntu includes the best translations and
+              accessibility infrastructure that the open source
+              community has to offer.</para>
+            </listitem>
+            <listitem>
+              <para>Ubuntu CDs contain only open source
+              applications; Ubuntu encourages you to use free and
+              open source software, improve it and pass it
+              on.</para>
+            </listitem>
+          </itemizedlist></para>
+        </answer>
+      </qandaentry>
+      <qandaentry>
+        <question>
+          <para>Match the Ubuntu versions with the years in which
+          they were released.</para>
+          <informaltable>
+            <tgroup cols="2">
+              <colspec align="left" colname="col1" colwidth="3cm"/>
+              <colspec align="left" colname="col2" colwidth="3cm"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <para>1) 7.04</para>
+                  </entry>
+                  <entry>
+                    <para>a) June 2006</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <para>2) 4.10</para>
+                  </entry>
+                  <entry>
+                    <para>b) October 2007</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <para>3) 6.06</para>
+                  </entry>
+                  <entry>
+                    <para>c) April 2007</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <para>4) 7.10</para>
+                  </entry>
+                  <entry>
+                    <para>d) October 2004</para>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </informaltable>
+        </question>
+        <answer>
+          <informaltable>
+            <tgroup cols="2">
+              <colspec align="left" colname="col1" colwidth="3cm"/>
+              <colspec align="left" colname="col2" colwidth="3cm"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <para>1) 7.04</para>
+                  </entry>
+                  <entry>
+                    <para>c) April 2007</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <para>2) 4.10</para>
+                  </entry>
+                  <entry>
+                    <para>d) October 2004</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <para>3) 6.06</para>
+                  </entry>
+                  <entry>
+                    <para>a) June 2006</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <para>4) 7.10</para>
+                  </entry>
+                  <entry>
+                    <para>b) October 2007</para>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </informaltable>
+        </answer>
+      </qandaentry>
+      <qandaentry>
+        <question>
+          <para>List 3 ways in which non-technical users can
+          contribute towards the development of Ubuntu.</para>
+        </question>
+        <answer>
+          <para>The three ways in which non-technical users can
+          contribute towards Ubuntu development are artwork,
+          translation and localisation and document
+          solutions.</para>
+        </answer>
+      </qandaentry>
+      <qandaentry>
+        <question>
+          <para>The default web browser on Ubuntu is
+          _________________.</para>
+        </question>
+        <answer>
+          <para>The default web browser on Ubuntu is Mozilla
+          Firefox.</para>
+        </answer>
+      </qandaentry>
+      <qandaentry>
+        <question>
+          <para>The default e-mail client on Ubuntu is
+          __________________.</para>
+        </question>
+        <answer>
+          <para>The default e-mail client on Ubuntu is
+          Evolution.</para>
+        </answer>
+      </qandaentry>
+      <qandaentry>
+        <question>
+          <para>What are the advantages of Ubuntu 6 monthly
+          releases?</para>
+        </question>
+        <answer>
+          <para>Quicker upgrade and availability of new
+          applications, as well as improved functionality.</para>
+        </answer>
+      </qandaentry>
+    </qandaset>
+  </sect1>
+</chapter>

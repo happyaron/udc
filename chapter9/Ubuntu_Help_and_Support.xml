@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://docbook.org/xml/4.3/docbookx.dtd">
+<chapter id="lesson9">
+  <title>Ubuntu Help and Support</title>
+
+  <itemizedlist>
+    <title>Objectives</title>
+
+    <para>In this lesson, you will learn:</para>
+          
+          <listitem>
+        <para>How to seek help for Ubuntu from
+    various sources such as system documentation, online documentation,
+    commercial support, community support, Launchpad and The Fridge.</para>
+    </listitem>
+  </itemizedlist>
+
+  <note userlevel="instructor">
+    <title>Instructor Notes:</title>
+
+    <para>This lesson includes an optional hour. In addition to covering the
+    lesson content, you can devote this hour to elaborate on topics already
+    covered in the previous lessons or select something from the optional
+    material, such as partitioning and booting or sections from the music and
+    video lesson.</para>
+  </note>
+
+  <sect1>
+    <title>Introduction</title>
+
+    <para>Help and support for Ubuntu is readily available through a number of
+    sources so you need not panic if you run into a problem. Essentially there
+    are two channels for accessing support:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="italic">The first level is: </emphasis> Free,
+        community based and involves system and online documentation, mailing
+        lists, forums, IRC channels and Launchpad.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="italic">The second level is: </emphasis> Paid
+        for, commercial services through Canonical itself and / or various
+        partners.</para>
+      </listitem>
+    </itemizedlist>
+
+    <figure float="0">
+      <title>Accessing System Documentation</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_001.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+  </sect1>
+
+  <sect1>
+    <title>System Documentation</title>
+
+    <para>The first resource that you should explore is the offline system
+    documentation. The <ulink url="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation
+    Team</ulink> maintains and updates the documentation for each release.
+    This documentation is very reliable and available in different
+    languages.</para>
+
+    <para>Ubuntu System documentation is organised into topic based help,
+    including answers to common questions. It is accessed by clicking the
+    <emphasis role="strong">Help and Support</emphasis> button located under
+    the System Menu. The following screenshot shows the home page of the Help
+    and Support offline system documentation.</para>
+
+    <figure float="0">
+      <title>System Documentation</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_002.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <para>New to Ubuntu? This section introduces you to the wonderful world of
+    Ubuntu including an easy to use guide if you are migrating from Microsoft
+    Windows to Ubuntu. Also in this section, the help guide will explain how
+    to use your desktop, the role of the administrator and basic computer
+    skills. A great resource for any newcomers and a top-up to this desktop
+    course.</para>
+
+    <para>Some applications do also offer access to the help system through
+    the <emphasis>Help</emphasis> menu or keyboard shortcut
+    <emphasis>F1</emphasis>.</para>
+
+    <para>One of the great features of the system documentation is the ability
+    to search the documentation to help solve the problem you have. Simply
+    type in the term you are looking for and the system will search all the
+    documents and guides with related information.</para>
+  </sect1>
+
+  <sect1>
+    <title>Online Documentation</title>
+
+    <note userlevel="instructor">
+      <title>Instructor Notes:</title>
+
+      <para>Guide the students through each one of the options on the
+      Web.</para>
+    </note>
+
+    <para>The online Ubuntu documentation is available at <ulink url="https://help.ubuntu.com"> https://help.ubuntu.com</ulink>. There are
+    two different types of documentation available on this site, official and
+    community.</para>
+
+    <para>The official documentation is the documentation that is included
+    with your Ubuntu installation by default and is locally accessible from
+    your Ubuntu desktop. You can also access this documentation on the
+    Internet at the Web site mentioned above.</para>
+
+    <para>The following screenshot shows the home page of the Ubuntu
+    documentation site:</para>
+
+    <figure float="0">
+      <title>Online Documentation</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_003.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <para>The documentation is classified according to the various Ubuntu
+    releases, such as Ubuntu 8.04 LTS, 7.10 and 6.06 LTS.</para>
+
+    <para>To access the official documentation locally from your Ubuntu
+    desktop, without connecting to the Internet, on the 
+    <emphasis role="strong">System</emphasis> menu, click <emphasis role="strong">Help
+    and Support</emphasis>. You can also use the Help icon on the top panel of the desktop.</para>
+
+    <para>The information available in the official documentation will be
+    enough to guide you through most topics and problems. However, if you are unable to
+    find an answer to your queries here, you can look for answers in the
+    second type of documentation available on this site. This is documentation
+    created by the community, without following the stringent quality control
+    process of the Ubuntu Documentation Team. Access this documentation via
+    the tab labelled <emphasis role="strong">Community Docs</emphasis>. The
+    community documentation is stored on a Wiki, which allows the
+    documentation to be changed quickly. While the community documentation
+    covers more topics and some subjects in greater depth than the
+    official documentation, the lack of quality assurance control and
+    especially maintenance makes it a slightly less reliably
+    alternative.</para>
+
+    <para>The community documentation is a large collection of
+    community-contributed documents, primarily covering the following
+    topics:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Migrating from other operating systems, such as Microsoft
+        Windows and Red Hat</para>
+      </listitem>
+
+      <listitem>
+        <para>Post-installation configuration for a variety of tasks such
+        as</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Maintaining your computer</para>
+          </listitem>
+
+          <listitem>
+            <para>Connecting and configuring hardware</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+
+    <para>The following screenshot displays the information available in the
+    community documentation:</para>
+
+    <figure float="0">
+      <title>Community Documentation</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_004.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <para>The community documentation is also classified under various
+    categories. You can select the desired category from the page index at the
+    right of the page. You can also use the <emphasis role="strong">Search</emphasis> field in the top-right corner of the page
+    to look for specific information within the community documentation. Be
+    aware that <emphasis role="strong">Titles</emphasis> will restrict the
+    search of your term to the pages titles only. If a search via titles does
+    not produce any results, a full <emphasis role="strong">Text</emphasis>
+    search may find the right page.</para>
+
+    <para>You can also find relevant information on the <emphasis role="strong">CommonQuestions</emphasis> page. Access the <emphasis role="strong">CommonQuestions</emphasis> page by clicking the <emphasis role="strong">Common Questions</emphasis> link on the community
+    documentation page.</para>
+
+    <para>The following screenshot displays the <emphasis role="strong">CommonQuestions</emphasis> page on the Ubuntu Web
+    site:</para>
+
+    <figure float="0">
+      <title>The CommonQuestions Page</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_005.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <para>Additional help is available to you in the form of Ubuntu
+    screencasts. You can click the <emphasis role="strong">Ubuntu
+    Screencasts</emphasis> link on the <emphasis role="strong">Community
+    Documentation</emphasis> page to access a number of videos on using and
+    installing Ubuntu. Each video is created with the aim of educating new
+    users of Ubuntu. Each video is available in three sizes, large, medium and
+    small, and two formats, OGG and Flash.</para>
+
+    <para>The following is an example of a screenshot from a video on
+    installing applications:</para>
+
+    <figure float="0">
+      <title>The Screencasts Page</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_006.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <note>
+      <title>Note:</title>
+
+      <para>These screen casts are licensed under the Creative Commons
+      Attributions-Share Alike 3.0 License. You are free to modify, share,
+      sell or distribute these screencasts as long as the attribution to
+      Ubuntu is intact.</para>
+    </note>
+  </sect1>
+
+  <sect1>
+    <title>Community Support</title>
+
+    <para>The vast and ever growing Ubuntu community also offers a range of
+    free support options for your Ubuntu desktop. Apart from the community
+    documentation, the Ubuntu community provides support through:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Mailing lists</para>
+      </listitem>
+
+      <listitem>
+        <para>Web Forums</para>
+      </listitem>
+
+      <listitem>
+        <para>IRC Channels</para>
+      </listitem>
+
+      <listitem>
+        <para>LoCo Teams</para>
+      </listitem>
+
+      <listitem>
+        <para>The Ubuntu Team Wiki</para>
+      </listitem>
+    </itemizedlist>
+
+    <sect2 id="mailing-lists">
+      <title id="title-mailing-lists">Mailing Lists</title>
+
+      <para>To get help on a specific problem, all you need to do is to send
+      your query through e-mail to the relevant mailing list and you will get
+      a quick response from the team.</para>
+
+      <para>You will need to subscribe to the mailing list first by visiting
+      the Ubuntu Mailing Lists Web site at <ulink url="https://lists.ubuntu.com/">https://lists.ubuntu.com/</ulink>. The
+      <emphasis role="strong">Mailing Lists</emphasis> page displays all the
+      public mailing lists to which you can subscribe and their topic.</para>
+
+      <para>The following screenshot displays the <emphasis role="strong">Mailing Lists</emphasis> page:</para>
+
+      <figure float="0">
+        <title>The Mailing Lists Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_007.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>To get help for your Ubuntu desktop, you should go to the
+      <emphasis role="strong">Community Support</emphasis> and select the
+      <emphasis role="strong">ubuntu-users</emphasis> mailing list. This will
+      take you to a page like the following:</para>
+
+      <figure float="0">
+        <title>Subscribing to Ubuntu-users Mailing List</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_008.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>You need to provide your e-mail address, your name and a password
+      in the appropriate boxes and then click the <emphasis role="strong">Subscribe</emphasis> button.</para>
+
+      <para>When you subscribe to a mailing list, a confirmation mail is sent
+      to your provided e-mail to verify that it is your address. To activate
+      this mailing list, you need to first open your e-mail account and then
+      click the link provided in the confirmation e-mail.</para>
+
+      <figure float="0">
+        <title>Confirmation Mail</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_009.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>Clicking this link takes you to the <emphasis role="strong">Confirm subscription request</emphasis> page, where you
+      can verify the details of your subscription request and subscribe to the
+      selected mailing list by clicking the <emphasis role="strong">Subscribe
+      to list ubuntu-users</emphasis> button.</para>
+
+      <figure float="0">
+        <title>Confirm Subscription Request Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_010.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>Finally, you will receive a confirmation message saying that your
+      subscription request to the selected mailing list has been
+      confirmed.</para>
+
+      <figure float="0">
+        <title>Confirmation of Subscription Request Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_011.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>Soon after, you will receive a welcome mail containing the mailing
+      address of your selected mailing list and you will then be able to send
+      e-mail messages to this list. Before sending your first query, it is
+      good practice to read a bit of the archive, as the topic may have
+      already been covered. The archive will also give you an idea of how much
+      volume to expect from a list and get a "feel" of others who are active
+      on the list.</para>
+
+      <para>It is possible that you will be flooded with many responses to
+      your posting. The level of emails received can be controlled by
+      adjusting your preferences on the <emphasis role="strong">UserCP (User
+      Control Panel)</emphasis>. You can use this panel to customize your
+      profile and preferences too.</para>
+
+      <note userlevel="instructor">
+        <title>Instructor Notes:</title>
+
+        <para>To use the mailing lists, some guidelines are given in
+        the Mailing List Etiquette page. To read these guidelines, go
+        to <ulink
+        url="http://www.ubuntu.com/support/community/mailinglists/etiquette">http://www.ubuntu.com/support/community/mailinglists/etiquette</ulink>.</para>
+      </note>
+
+      <para>The mailing lists archive is an excellent resource of information,
+      as quite a few questions have been discussed on the lists already. The
+      archive can be seen as a memory for the mailing lists expertise.</para>
+    </sect2>
+
+    <sect2 id="web-forums">
+      <title id="title-web-forums">Web Forums</title>
+
+      <para>Web forums are often an easier and more immediate alternative to
+      mailing lists as you can receive help on various issues without
+      subscribing to a high-traffic mailing list. They are easier to use,
+      available in a Web browser and are an ideal way for you to meet other
+      Ubuntu users and developers.</para>
+
+      <para>The following screenshot displays the home page of the Ubuntu
+      forums Web site:</para>
+
+      <figure float="0">
+        <title>Web Forums</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_012.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <note>
+        <title>Note:</title>
+
+        <para>To access the Ubuntu forums, go to: <ulink url="http://ubuntuforums.org/">http://ubuntuforums.org/</ulink>
+        or <ulink url="http://www.ubuntu.com/community/forums">http://www.ubuntu.com/community/forums</ulink>.</para>
+      </note>
+
+      <para>The Ubuntu forums are entirely maintained and moderated by
+      volunteers and are available in many languages such as Chinese, Dutch,
+      German, Finnish and French.</para>
+
+      <para>The following screenshot displays a view of the Ubuntu French
+      forum:</para>
+
+      <figure float="0">
+        <title>Ubuntu French Forum</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_013.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>You need to register on the forum to be able to post messages and
+      get support. To do this, click the <emphasis role="strong">Register</emphasis> link displayed on the home page which
+      will lead to the following page:</para>
+
+      <figure float="0">
+        <title>Ubuntu Forum Rules Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_014.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>Follow all the instructions on this and the following pages to
+      sign on to the Ubuntu forum. You will then receive a confirmation that
+      your registration is complete.</para>
+
+      <para>You can now sign in with your new user name and password and start
+      using the Web forum for posting new messages and searching the existing
+      ones. The postings on the Web forum are segregated into several
+      categories based on their subject. To get an answer for a specific
+      question, you may first look into the related category. Each category
+      contains threads to all the postings already made under that
+      category.</para>
+
+      <para>An alternate method to search the desired information is by using
+      the <emphasis role="strong">Search</emphasis> option on the right of the
+      home page. You can type your question in the <emphasis role="strong">Search Forums</emphasis> field and run a search. It is
+      more than likely that you will find your desired information in these
+      postings.</para>
+
+      <para>However, if you do not find the required information in the
+      questions that have already been asked, you can create a new posting on
+      the Web forum. You are likely to receive an answer very quickly, otherwise
+      the Unanswered Posts Team will pick up your post within 24 hours.</para>
+    </sect2>
+
+    <sect2 id="irc-channels">
+      <title id="title-irc-channels">IRC Channels</title>
+
+      <para>The IRC channels are a form of real-time Internet chat that enable
+      users to talk directly (and immediately) with one another.</para>
+
+      <para>IRC channels are available on the freenode network,
+      irc.freenode.net. The best channel for you to interact with other Ubuntu
+      users is #ubuntu. Other specialised channels related to Ubuntu variants,
+      such as #kubuntu, #edubuntu and #xubuntu are also available. In
+      addition, channels related to bugs, development, LoCo teams,
+      accessibility and documentation are also available.</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>To see a list of IRC channels and clients, go to <ulink
+        url="https://help.ubuntu.com/community/InternetRelayChat">https://help.ubuntu.com/community/InternetRelayChat</ulink>.</para>
+      </note>
+
+      <para>There are many ways to connect to an IRC channel and one of them
+      is by using the Pidgin instant messenger. Connecting to Pidgin was
+      covered in Lesson 3.</para>
+
+      <procedure>
+        <title>Once in Pidgin, you can access various IRC channels by:</title>
+
+        <step performance="required">
+          <para>Open the <emphasis role="strong">Buddies</emphasis> menu to
+          view the available options, and click <emphasis role="strong">Add
+          Chat</emphasis>. This displays the <emphasis role="strong">Add
+          Chat</emphasis> dialogue box.</para>
+
+          <figure float="0">
+            <title>Buddies Menu</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson10_images_015.png" width="3cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>To interact with ubuntu users, type <emphasis role="strong">#Ubuntu</emphasis> in the <emphasis role="strong">Screen name</emphasis> field. Then click <emphasis role="strong">Add</emphasis>. This adds the Ubuntu users' account to
+          your <emphasis role="strong">Buddies List</emphasis>.</para>
+
+          <figure float="0">
+            <title>Add Chat Dialogue Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson10_images_016.png" width="8cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Notice that <emphasis role="strong">#ubuntu</emphasis> is
+          added as an IRC account to your <emphasis role="strong">Buddy
+          List</emphasis>. Double-click the account name to enter the IRC
+          channel for Ubuntu users.</para>
+
+          <figure float="0">
+            <title>Buddy List</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson10_images_017.png" width="3cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>You have now entered the IRC channel for Ubuntu users. You can
+          use the box at the bottom of the window to type your messages, and
+          press <emphasis role="strong">Enter</emphasis> to send them.</para>
+
+          <figure float="0">
+            <title>IRC Channel for Ubuntu Users</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson10_images_018.png" width="7cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+    </sect2>
+
+    <sect2 id="loco-teams">
+      <title id="title-loco-teams">LoCo Teams</title>
+
+      <para>The Ubuntu LoCo (short for 'Local Community') teams are a vital resource for
+      providing localised support. With the incredible success of Ubuntu
+      around the world, the Loco project helps groups of Ubuntu fans and
+      enthusiasts work together in their regional teams to help advocate,
+      promote, translate, develop and otherwise improve Ubuntu.You can access
+      them through: <ulink url="http://www.ubuntu.com/support/community/locallanguage">http://www.ubuntu.com/support/community/locallanguage</ulink>.</para>
+
+      <para>The following screenshot displays the list of languages in which
+      you can receive help and support on Ubuntu:</para>
+
+      <figure float="0">
+        <title>The LoCo Teams Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_019.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>To receive help and support on Ubuntu in your local language,
+      select the desired language from the <emphasis role="strong">Non-English
+      Support</emphasis> list.</para>
+
+      <figure float="0">
+        <title>Non-English Support Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_020.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <note>
+        <title>Note:</title>
+
+        <para>If you want to start a LoCo team or join an existing one, go to:
+        <ulink url="https://wiki.ubuntu.com/LoCoTeams">https://wiki.ubuntu.com/LoCoTeams</ulink>. To view the list of LoCo
+        teams, visit <ulink url="https://wiki.ubuntu.com/LoCoTeamList">https://wiki.ubuntu.com/LoCoTeamList</ulink>.</para>
+      </note>
+    </sect2>
+
+    <sect2 id="ubuntu-wiki">
+      <title id="title-ubuntu-wiki">The Ubuntu Team Wiki</title>
+
+      <para>The Ubuntu Team Wiki is a central Web site that
+      provides access to useful information on Ubuntu and the supporting Ubuntu project.
+      The pages are continually updated by the Ubuntu community members. The
+      Ubuntu Team Wiki can be accessed at <ulink url="https://wiki.ubuntu.com/">https://wiki.ubuntu.com/</ulink>.</para>
+
+      <para>The following is a screenshot of the Ubuntu Team Wiki home
+      page:</para>
+
+      <figure float="0">
+        <title>The Ubuntu Team Wiki</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_021.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>As an Ubuntu user, you can also contribute to the wiki content and
+      edit any of the pages on this site. However, you must observe the Ubuntu
+      code of conduct while editing any content.</para>
+
+      <para>Although the official Ubuntu wiki is available only in English,
+      many wikis exist through the LoCo Web sites. For instance, the French
+      wiki URL is <ulink url="http://wiki.ubuntu-fr.org">http://wiki.ubuntu-fr.org</ulink>. You
+      can find other LoCo teams in <ulink url="https://wiki.ubuntu.com/LoCoTeamList">https://wiki.ubuntu.com/LoCoTeamList</ulink>.</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>For more information on editing the Ubuntu wiki, visit <ulink url="https://wiki.ubuntu.com/HelpOnEditing">https://wiki.ubuntu.com/HelpOnEditing</ulink>.</para>
+      </note>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Launchpad</title>
+
+    <para>Launchpad is a collaborative Web-based suite that helps people
+    develop directly or contribute to the development of free and open source
+    software. It is a collaborative system developed by Canonical, with Ubuntu
+    as the most popular project hosted on it. You can use Shipit with your
+    Launchpad ID and order Ubuntu CDs, report a bug, assist in translation of
+    Ubuntu and more. This course covers the Launchpad Technical Answers
+    section, Launchpad Bug Tracking and Shipit (ordering Ubuntu CDs).</para>
+
+    <para>You can visit Launchpad at <ulink url="https://launchpad.net">https://launchpad.net</ulink>. 
+    The following screenshot displays the home page of the Launchpad site:</para>
+
+    <figure float="0">
+      <title>The Launchpad Page</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_022.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <para>Information stored on Launchpad can be retrieved anonymously. To
+    submit information on Launchpad, you need to first create an account on
+    Launchpad. You can create a Launchpad account by clicking the <emphasis role="strong">Register</emphasis> 
+    link at the top-right corner of the home
+    page and filling the required details under the <emphasis role="strong">Not registered yet?</emphasis> 
+    section. Click <emphasis role="strong">Register</emphasis> to complete the registration
+    process.  You may also use an OpenID login to access Launchpad.  For more information on
+    on OpenID see the project website at: <ulink url="https://openid.net">http://openid.net</ulink>.</para>
+
+    <figure float="0">
+      <title>Registration Page</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_023.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+
+    <para>After you register, you can log on again and return to the home page
+    to search the required information. You can do this by either asking a
+    fresh question or searching the relevant information within the existing
+    answers on the Launchpad site.</para>
+
+    <sect2 id="lp-tech-answers">
+      <title>Launchpad Technical Answers</title>
+
+      <para>To search for an answer in the existing questions, click the
+      <emphasis role="strong">Answers</emphasis> icon on the right. This
+      displays the <emphasis role="strong">Questions and answers</emphasis>
+      page. To obtain information about a specific project, such as Ubuntu,
+      you can select the project name from the <emphasis role="strong">Most
+      active projects</emphasis> list. This displays the <emphasis role="strong">Question for Ubuntu</emphasis> page on Launchpad.</para>
+
+      <tip>
+        <title>Nice to Know</title>
+
+        <para>Many applications on Ubuntu provide the <emphasis role="strong">Get Help Online</emphasis> menu entry in their Help
+        menu. This can be used as a shortcut to visit the Technical Answers
+        section in Launchpad.</para>
+      </tip>
+
+      <figure float="0">
+        <title>Questions and Answers Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_024.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>On this page, all answers specific to the Ubuntu project are
+      listed under various categories. You can type your question in the
+      <emphasis role="strong">Search</emphasis> field to search for an answer
+      in the existing questions. Alternatively, you can click the 
+      <emphasis role="strong">Ask a question</emphasis> button to display the 
+      <emphasis role="strong">Ask a question</emphasis> page.</para>
+
+      <figure float="0">
+        <title>Questions for Ubuntu Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_025.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>You can ask a question by selecting your preferred language and
+      then typing the summary of your question in the <emphasis role="strong">Summary</emphasis> field. 
+      Clicking <emphasis role="strong">Continue</emphasis> displays a list of questions that may
+      be similar to what you asked.</para>
+
+      <figure float="0">
+        <title>Ask a Question Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_026.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>If you still do not find the required answer, go ahead and type
+      the description of the problem in the <emphasis role="strong">Description</emphasis> field. 
+      You can then click <emphasis role="strong">Add</emphasis> to add the question to the main Launchpad
+      database.</para>
+
+      <figure float="0">
+        <title>Question Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_027.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>When your question is answered, you will receive an e-mail
+      notification, stating that your question has been replied to.</para>
+    </sect2>
+
+    <sect2 id="lp-bugtracker">
+      <title>Launchpad Bug Tracker: Malone</title>
+
+      <para>Malone is a Web-based, collaborative, bug-tracking tool available
+      with Launchpad. It provides you with a location to report any bugs that
+      you find in Ubuntu and its various applications. It also enables you to
+      track the bugs during their life, right until they have been
+      resolved.</para>
+
+      <para>If you find any problems in Ubuntu and its related applications,
+      you can report it on Launchpad by clicking the <emphasis role="strong">Bugs</emphasis> 
+      icon on home page. This displays the
+      <emphasis role="strong">Bug tracking</emphasis> page of the Launchpad
+      Web site.</para>
+
+      <para>The <emphasis role="strong">Bug tracking</emphasis> page displays
+      all the recently reported and recently fixed bugs. Before reporting a
+      new bug on Launchpad, you must run a search in the existing bug reports
+      to ensure that this bug has not been reported already.</para>
+
+      <figure float="0">
+        <title>The Bug Tracking Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_028.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>You can report a fresh bug on the <emphasis role="strong">Report a
+      bug</emphasis> page, which can be displayed by clicking the <emphasis role="strong">Report a bug</emphasis> button on the <emphasis role="strong">Bug tracking</emphasis> page.</para>
+
+      <para>Type a small description of the bug in the <emphasis role="strong">Summary</emphasis> field, and click <emphasis role="strong">Continue</emphasis> to report the bug.</para>
+
+      <figure float="0">
+        <title>Report a Bug Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_029.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>When you click the <emphasis role="strong">Continue</emphasis>
+      button, the bug tracker displays a list containing similar bugs reported
+      earlier on Launchpad. If you do not find your bug listed here, you can
+      still report the bug as a fresh bug by clicking the <emphasis role="strong">No, I'd like to report a new bug</emphasis> radio button
+      at the bottom of this page. This displays a new section at the bottom of
+      the page.</para>
+
+      <figure float="0">
+        <title>Look for the Reported Bug</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_030.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>You are then required to provide further detailed information
+      about the bug, such as the steps to reproduce the bug and version
+      information. After providing the required details, you can finally
+      submit the bug report by clicking the <emphasis role="strong">Submit Bug
+      Report</emphasis> button.</para>
+
+      <note>
+        <title>Note:</title>
+
+        <para>Visit Malone at <ulink url="https://launchpad.net/malone">https://launchpad.net/malone</ulink>.</para>
+      </note>
+    </sect2>
+
+    <sect2>
+      <title>Shipit</title>
+
+      <para>Shipit is an application you can use to request the delivery of
+      Ubuntu CDs. Although Ubuntu can be freely downloaded from the Internet,
+      you can also request a free-of-charge mail delivery of the Ubuntu CD.
+      This is especially useful if you have slow Internet connection, as
+      downloading the OS can take a while. Delivery may take up to 10
+      weeks.</para>
+
+      <para>The following screenshot displays the Shipit site:</para>
+
+      <figure float="0">
+        <title>The Shipit Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_031.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <note>
+        <title>Note:</title>
+
+        <para>Visit Shipit at <ulink url="http://Shipit.ubuntu.com">http://Shipit.ubuntu.com</ulink>.</para>
+      </note>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>The Fridge</title>
+
+    <para>The Fridge is an information hub for the Ubuntu community, bringing
+    together news, grassroots marketing, advocacy, team collaboration and
+    great original content. Just like the family fridge at home, this is where
+    the Ubuntu family can exhibit its best work for everyone to see, along
+    with the requisite jokes, reminders, invitations, news clippings and
+    photos.</para>
+
+    <note>
+      <title>Note:</title>
+
+      <para>Visit The Fridge at <ulink url="http://fridge.ubuntu.com/">http://fridge.ubuntu.com/</ulink>.</para>
+    </note>
+
+    <para>The following is a screenshot of The Fridge home page:</para>
+
+    <figure float="0">
+      <title>The Fridge</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="images/Lesson10_images_032.png" width="11cm" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
+  </sect1>
+
+  <sect1>
+    <title>Paid For Commercial Services</title>
+
+    <para>Canonical provides professional support across the globe. You can
+    purchase this support by contacting the Global Support Services team on
+    the Ubuntu Web site at <ulink url="http://www.ubuntu.com/support/paid">http://www.ubuntu.com/support/paid</ulink>.
+    Professional support services can also be obtained through the network of
+    companies and partners listed in the Canonical Marketplace.</para>
+
+    <sect2>
+      <title>Professional Support Services from Canonical</title>
+
+      <para>Canonical Global Support Services are deployed to enable 24x7
+      assistance to customers. The Global Support Services team utilises its
+      vast experience and knowledge base to identify the challenges that
+      customers may face when installing and maintaining new platforms and
+      applications. From optimising your small office set-up to providing
+      guidance on very large deployments, the Global Support Services team is
+      always ready to help you get the most out of Ubuntu.</para>
+
+      <para>Support is provided for desktops, servers and thin client servers,
+      and clusters. The following screenshot shows the various types of
+      support services offered:</para>
+
+      <figure float="0">
+        <title>The Various Type of Support Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_033.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>To purchase commercial support, click the
+      <emphasis role="strong">contact us</emphasis> link available at the
+      bottom of the <emphasis role="strong">Canonical Global Support
+      Services</emphasis> page. This takes you to the <emphasis role="strong">About us</emphasis> page. You can fill the form provided
+      on this page to request more information about Canonical Global Support
+      Services. Alternatively, you may click the <emphasis role="strong">Purchase Support</emphasis> button present in the left
+      <emphasis role="strong">Navigation</emphasis> pane. If you are a company
+      employee, ask your I.S. team for details of your support options as this
+      will vary from company to company.</para>
+
+      <figure float="0">
+        <title>About Us Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_034.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>After you purchase the support, you will receive a confirmation
+      e-mail message containing your support ID number. You will also receive
+      a phone call welcoming you to the service.</para>
+    </sect2>
+
+    <sect2>
+      <title>The Canonical Marketplace</title>
+
+      <para>The Canonical Marketplace lists a number of companies and partners
+      located in various regions of the world which provide local support for
+      desktops and servers running Ubuntu.</para>
+
+      <para>The following screenshot displays the <emphasis role="strong">Marketplace</emphasis> page on the Ubuntu Web site:</para>
+
+      <figure float="0">
+        <title>The Canonical Marketplace</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_035.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <note>
+        <title>Note:</title>
+
+        <para>To find support and solutions from local providers, visit <ulink url="http://www.ubuntu.com/support/commercial/marketplace">http://www.ubuntu.com/support/commercial/marketplace</ulink>.</para>
+      </note>
+
+      <para>Selecting your region from the list provided will lead you to a
+      comprehensive list of all the Local Support Service providers in that
+      region. The following screenshot displays a list of all the Local
+      Support Services providers existing in Africa:</para>
+
+      <figure float="0">
+        <title>Local Support Services Page</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="images/Lesson10_images_036.png" width="11cm" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <note>
+        <title>Note:</title>
+
+        <para>If your company is providing Ubuntu-related services then you
+        too have the option of being listed in the Canonical Marketplace as a
+        Local Services Provider. To do this simply click the <emphasis role="strong">send us your information</emphasis> link at the bottom
+        of the <emphasis role="strong">Marketplace</emphasis> page.</para>
+      </note>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Lesson Summary</title>
+
+    <para>In this lesson, you learned:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>The various sources where you can find both free and paid for
+        support on Ubuntu - system and online documentation, commercial
+        support, community support, Launchpad and The Fridge.</para>
+      </listitem>
+
+      <listitem>
+        <para>System and Online documentation provide the primary source of
+        help and contains both official and community documentation.</para>
+      </listitem>
+
+      <listitem>
+        <para>The Ubuntu community also provides vital support through mailing
+        lists, Web forums, IRC channels, LoCo teams and the Ubuntu Team
+        Wiki.</para>
+      </listitem>
+
+      <listitem>
+        <para>You can use Launchpad to perform tasks such as searching Ubuntu
+        related information, tracking bugs in Ubuntu and placing orders for
+        Ubuntu CDs.</para>
+      </listitem>
+
+      <listitem>
+        <para>The Fridge is an information hub for the Ubuntu community,
+        bringing together news, grassroots marketing, advocacy, team
+        collaboration and great original content.</para>
+      </listitem>
+
+      <listitem>
+        <para>Canonical provides professional support across the globe, which
+        you can purchase by contacting the Global Support Services
+        team.</para>
+      </listitem>
+
+      <listitem>
+        <para>Professional support services can also be obtained through the
+        companies and partners listed in the Canonical Marketplace.</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1 role="questions">
+    <title>Review Exercise</title>
+
+    <qandaset>
+      <qandaentry>
+        <question>
+          <para>Name the major sources of help and support for Ubuntu.</para>
+        </question>
+
+        <answer>
+          <para>The major sources of help and support for Ubuntu are system
+          and online documentation, commercial support, community support,
+          Launchpad and the Fridge.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What types of documentation is available on the documentation
+          site of Ubuntu?</para>
+        </question>
+
+        <answer>
+          <para>Four types of documentations are available on the Ubuntu
+          documentation site. These are the Ubuntu official documentation,
+          community documentation, common questions and Ubuntu
+          screencasts.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What are the options for obtaining commercial support for
+          Ubuntu?</para>
+        </question>
+
+        <answer>
+          <para>The options for obtaining commercial support are either by
+          getting the support directly from Canonical through their Global
+          Support Services team or through the network of companies and
+          partners that are listed in the Canonical Marketplace.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What are the different platforms through which the Ubuntu
+          community extends its help and support?</para>
+        </question>
+
+        <answer>
+          <para>The different platforms through which the Ubuntu community
+          extends its help and support are:</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Mailing lists</para>
+            </listitem>
+
+            <listitem>
+              <para>Web forums</para>
+            </listitem>
+
+            <listitem>
+              <para>IRC channels</para>
+            </listitem>
+
+            <listitem>
+              <para>LoCo teams</para>
+            </listitem>
+
+            <listitem>
+              <para>The Ubuntu wiki</para>
+            </listitem>
+          </itemizedlist>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What are IRC channels?</para>
+        </question>
+
+        <answer>
+          <para>IRC channels are a form of real-time Internet chat that allows
+          users to talk directly to one another.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What help and support do the LoCo teams provide to Ubuntu
+          users?</para>
+        </question>
+
+        <answer>
+          <para>The LoCo teams are primarily involved in providing free local
+          support, such as one-on-one troubleshooting, group sessions and
+          presentations about Ubuntu. Simultaneously, these teams are actively
+          engaged in providing non-English support to the Ubuntu users.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What is Launchpad?</para>
+        </question>
+
+        <answer>
+          <para>Launchpad is a Web-based suite that helps people develop free
+          and open source software. It is a collaborative system developed by
+          Canonical and is primarily used to track many aspects of open source
+          development.</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>What is the name of the bug-tracking tool available with
+          Launchpad?</para>
+        </question>
+
+        <answer>
+          <para>Malone is the bug-tracking tool available with
+          Launchpad.</para>
+        </answer>
+      </qandaentry>
+    </qandaset>
+  </sect1>
+</chapter>
