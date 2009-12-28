@@ -537,23 +537,6 @@
         </step>
 
         <step performance="required">
-          <para>Notice that <emphasis role="strong">#ubuntu</emphasis> is
-          added as an IRC account to your <emphasis role="strong">Buddy
-          List</emphasis>. Double-click the account name to enter the IRC
-          channel for Ubuntu users.</para>
-
-          <figure float="0">
-            <title>Buddy List</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson10_images_017.png" width="3cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
           <para>You have now entered the IRC channel for Ubuntu users. You can
           use the box at the bottom of the window to type your messages, and
           press <emphasis role="strong">Enter</emphasis> to send them.</para>
