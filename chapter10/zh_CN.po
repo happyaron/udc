@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-28 22:49+0800\n"
+"PO-Revision-Date: 2009-12-28 23:35+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -774,11 +774,11 @@ msgstr "当 Ubuntu 启动时，为了您的方便，启动了很多服务。一�
 
 #: chapter10/Partitioning_and_Booting.xml:965(para)
 msgid "Although these services are harmless, they increase your computer's start-up time. By de-activating some of these services, you should get a slightly faster start-up time."
-msgstr "虽然这些自启动应用程序无害，它们增加您系统的启动时间，增加系统符合。通过取消这些自启动程序中的一部分，您可能获得稍微快一点的启动时间，更低的资源占用。"
+msgstr "虽然这些自启动应用程序无害，它们增加您系统的启动时间，增加系统负荷。通过取消这些自启动程序中的一部分，您可能获得稍微快一点的启动时间，更低的资源占用。"
 
 #: chapter10/Partitioning_and_Booting.xml:972(para)
 msgid "Read the service information before you disable any service because disabling some services may stop your system from booting-up or running properly."
-msgstr "禁用自动启动的应用程序之前阅读程序信息因为禁用某些自启动应用程序可能会给您造成不便或对系统性能及稳定性等产生一定影响。"
+msgstr "在禁用自动启动的应用程序之前，请阅读程序信息因为禁用某些自启动应用程序可能会给您造成不便或对系统性能及稳定性等产生一定影响。"
 
 # 根据 9.10 进行了更改
 #: chapter10/Partitioning_and_Booting.xml:977(para)
@@ -842,7 +842,7 @@ msgstr "可以通过修改配置文件来更改启动时的默认操作系统。
 
 #: chapter10/Partitioning_and_Booting.xml:1062(para)
 msgid "You must read the service information before disabling any service because disabling some services may stop your system from booting-up or running properly."
-msgstr "禁用任何服务之前，必须要阅读服务信息，因为禁用一些服务可能使系统不能引导或正常运行。"
+msgstr "禁用任何自启动应用程序之前，必须要阅读程序信息，因为禁用一些程序的自启动可能对系统的可用性产生影响。"
 
 #: chapter10/Partitioning_and_Booting.xml:1020(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
@@ -863,7 +863,7 @@ msgstr "下边是进行分区的好处："
 # 可恶的病句
 #: chapter10/Partitioning_and_Booting.xml:1083(para)
 msgid "Minimises data loss"
-msgstr "最下化数据丢失"
+msgstr "使数据丢失的可能最小化"
 
 #: chapter10/Partitioning_and_Booting.xml:1087(para)
 msgid "Enhances security"
@@ -883,7 +883,7 @@ msgstr "在基于 Unix 的操作系统中，需要使用 sudo 命令来运行需
 
 #: chapter10/Partitioning_and_Booting.xml:1111(para)
 msgid "Which of these file systems does Ubuntu use by default?"
-msgstr "ubuntu 默认使用这些文件系统中的哪一个？"
+msgstr "Ubuntu 默认使用这些文件系统中的哪一个？"
 
 # 原文前边竟然没有编号，或许我需要给它加上
 #: chapter10/Partitioning_and_Booting.xml:1115(para)
