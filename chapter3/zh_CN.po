@@ -947,7 +947,7 @@ msgstr "Ubuntu 会自动检测各种无线网卡是否支持。"
 #: chapter3/xinclude.xml:324(title)
 msgid ""
 "To determine whether Ubuntu supports the wireless card on your computer:"
-msgstr "检测 Ubuntu 是否支持您计算机上的无线网卡。"
+msgstr "手动配置无线网络"
 
 #: chapter3/xinclude.xml:328(para)
 msgid ""
@@ -971,7 +971,7 @@ msgstr ""
 
 #: chapter3/xinclude.xml:341(title)
 msgid "Choosing a Wireless Connection"
-msgstr "选择一个无线连接"
+msgstr "访问网络连接"
 
 #: chapter3/xinclude.xml:350(para)
 msgid ""
