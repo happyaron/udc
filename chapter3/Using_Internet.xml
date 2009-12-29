@@ -244,86 +244,12 @@
     </sect2>
 
     <sect2>
-      <title>Using a Wireless Card</title>
-
-      <para>Ubuntu automatically detects support for various wireless
-      cards.</para>
-
-      <procedure>
-        <title>To determine whether Ubuntu supports the wireless card on your
-        computer:</title>
-
-        <step performance="required">
-          <para>On the <emphasis role="strong">System</emphasis> menu, point
-          to <emphasis role="strong">Administration</emphasis> and then click
-          <emphasis role="strong">Network</emphasis>. The <emphasis
-          role="strong">Network Settings</emphasis> dialogue box will be
-          displayed.</para>
-        </step>
-
-        <step performance="required">
-          <para>If the wireless card on your computer is listed, you can use
-          the same procedure as listed in the <emphasis role="strong">Using
-          Cable Connection</emphasis> section to connect to the
-          Internet.</para>
-
-          <figure float="0" id="fig-wireless">
-            <title>Choosing a Wireless Connection</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_007.png"
-                           format="PNG" width="6cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-
-          <para>Alternatively, left-click on Network Manager and discover any
-          detected wireless networks in range.</para>
-        </step>
-      </procedure>
-
-      <tip>
-        <title>Nice to Know:</title>
-
-        <para>To view the complete list of wireless cards that work with
-        Ubuntu, refer to: <ulink
-        url="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>.</para>
-      </tip>
-
-      <para>Some wireless cards are not listed on the Ubuntu Web site because
-      open source drivers for these are not available. Therefore, these cards
-      do not work automatically with Ubuntu. If your wireless network card
-      does not have an open source driver, you can make it work by using
-      <emphasis role="strong">ndiswrapper</emphasis>.</para>
-
-      <formalpara>
-        <title>Using Ndiswrapper with a Wireless Card</title>
-
-        <para>Ndiswrapper is a Linux module that allows Ubuntu to use
-        Microsoft Windows drivers for wireless cards. The utility to configure
-        ndiswrapper can be installed comfortably via <emphasis
-        role="strong">Add/Remove Applications</emphasis>. The <emphasis
-        role="strong">Windows Wireless Drivers</emphasis> setup programme can
-        be found in <emphasis role="strong">System
-        Administration</emphasis>.</para>
-      </formalpara>
-    </sect2>
-
-    <sect2>
       <title>Using a Dial-up Connection</title>
 
       <para>A dial-up connection uses a modem to connect to the Internet. You
       can use the ScanModem tool to identify the type of modem. This tool
       recognises the type of modem-whether it is a Peripheral Component
       Interconnect (PCI) or a Universal Serial Bus (USB) modem.</para>
-
-      <tip>
-        <title>Nice to Know:</title>
-
-        <para>To download the ScanModem tool, refer to: <ulink
-        url="https://help.ubuntu.com/community/DialupModemHowto/ScanModem">https://help.ubuntu.com/community/DialupModemHowto/ScanModem</ulink>.</para>
-      </tip>
 
       <procedure>
         <title>To use a dial-up connection:</title>
@@ -470,6 +396,74 @@
         url="https://help.ubuntu.com/community/CableDialup">https://help.ubuntu.com/community/CableDialup</ulink>.</para>
       </note>
     </sect2>
+
+    <sect2>
+      <title>Using a Wireless Card</title>
+
+      <para>Ubuntu automatically detects support for various wireless
+      cards.</para>
+
+      <procedure>
+        <title>To determine whether Ubuntu supports the wireless card on your
+        computer:</title>
+
+        <step performance="required">
+          <para>On the <emphasis role="strong">System</emphasis> menu, point
+          to <emphasis role="strong">Administration</emphasis> and then click
+          <emphasis role="strong">Network</emphasis>. The <emphasis
+          role="strong">Network Settings</emphasis> dialogue box will be
+          displayed.</para>
+        </step>
+
+        <step performance="required">
+          <para>If the wireless card on your computer is listed, you can use
+          the same procedure as listed in the <emphasis role="strong">Using
+          Cable Connection</emphasis> section to connect to the
+          Internet.</para>
+
+          <figure float="0" id="fig-wireless">
+            <title>Choosing a Wireless Connection</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_007.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>Alternatively, left-click on Network Manager and discover any
+          detected wireless networks in range.</para>
+        </step>
+      </procedure>
+
+      <tip>
+        <title>Nice to Know:</title>
+
+        <para>To view the complete list of wireless cards that work with
+        Ubuntu, refer to: <ulink
+        url="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>.</para>
+      </tip>
+
+      <para>Some wireless cards are not listed on the Ubuntu Web site because
+      open source drivers for these are not available. Therefore, these cards
+      do not work automatically with Ubuntu. If your wireless network card
+      does not have an open source driver, you can make it work by using
+      <emphasis role="strong">ndiswrapper</emphasis>.</para>
+
+      <formalpara>
+        <title>Using Ndiswrapper with a Wireless Card</title>
+
+        <para>Ndiswrapper is a Linux module that allows Ubuntu to use
+        Microsoft Windows drivers for wireless cards. The utility to configure
+        ndiswrapper can be installed comfortably via <emphasis
+        role="strong">Add/Remove Applications</emphasis>. The <emphasis
+        role="strong">Windows Wireless Drivers</emphasis> setup programme can
+        be found in <emphasis role="strong">System
+        Administration</emphasis>.</para>
+      </formalpara>
+    </sect2>
+
   </sect1>
 
   <sect1>
