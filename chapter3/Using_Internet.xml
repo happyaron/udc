@@ -1748,55 +1748,6 @@
         </step>
 
         <step performance="required">
-          <para>On the <emphasis role="strong">NAT Type</emphasis> page, click
-          <emphasis role="strong">Detect NAT Type</emphasis>. It informs you
-          which Network Address Translation (NAT) type was detected and
-          automatically configures Ekiga to transparently cross your router.
-          So, NAT avoids all the problems associated with reserving IP
-          addresses. Click <emphasis role="strong">Forward</emphasis>.</para>
-
-          <figure float="0">
-            <title>Selecting NAT Type</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_066.png"
-                           format="PNG" width="8cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-
-          <note>
-            <title>Note:</title>
-
-            <para>To learn more about NAT, refer to: <ulink
-            url="http://en.wikipedia.org/wiki/Network_address_translation">http://en.wikipedia.org/wiki/Network_address_translation</ulink>.</para>
-          </note>
-        </step>
-
-        <step performance="required">
-          <para>On the <emphasis role="strong">Audio Manager</emphasis> page,
-          select the audio manager, which is the plug-in, according to the
-          sound card of your computer. The audio manager is a plug-in that
-          manages your audio device and is dependant on the operating system
-          on your computer. Though it is recommended to use ALSA, you should
-          check with your your system administrator to identify the
-          appropriate audio manager for the audio device that you want to use.
-          Then, click <emphasis role="strong">Forward</emphasis>.</para>
-
-          <figure float="0">
-            <title>Selecting Audio Manager</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_067.png"
-                           format="PNG" width="8cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
           <para>Ekiga requires audio output and input devices to play and
           record sound files. The audio output device is used to play audio
           and audio input device to record your voice. So, on the <emphasis
@@ -1820,25 +1771,6 @@
         </step>
 
         <step performance="required">
-          <para>On the <emphasis role="strong">Video Manager</emphasis> page,
-          select the video manager, which is the plug-in used to manage your
-          video devices. You can select Video4Linux to manage Webcams or AVC /
-          DC for Firewire cameras. Click <emphasis
-          role="strong">Forward</emphasis>.</para>
-
-          <figure float="0">
-            <title>Selecting Video Manager</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_069.png"
-                           format="PNG" width="8cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
           <para>On the <emphasis role="strong">Video Devices</emphasis> page,
           select the video input device from the <emphasis
           role="strong">Please choose the video input device</emphasis> box.
@@ -1846,10 +1778,6 @@
           that will be used to capture video. If you do not want to do video
           conferencing or if you do not have a video device, you may skip this
           page.</para>
-
-          <para>Click <emphasis role="strong">Test Settings</emphasis> to
-          ensure that your video device works with Ekiga. Click <emphasis
-          role="strong">Forward</emphasis>.</para>
 
           <figure float="0">
             <title>Selecting Video Devices</title>
@@ -1935,33 +1863,6 @@
 	    default setup, you can simply type <emphasis
 	    role="strong">sip:foo</emphasis> to call user <emphasis
 	    role="strong">foo@ekiga.net</emphasis>.</para>
-	  </listitem>
-	</varlistentry>
-	<varlistentry>
-	  <term>From Computer to Regular Phones</term>
-	  <listitem>
-          <para>You can use Ekiga with multiple ISPs. There is a
-          charge for this service so you will need to create an
-          account with the provider first.  After the account is
-          created, you will receive a login and a password by
-          e-mail. Simply enter them in the Ekiga dialogue box, select
-          <emphasis role="strong">Use PC-To-Phone service</emphasis>
-          and you are ready to call regular phones using Ekiga. With
-          the default setup, you can simply use <emphasis
-          role="strong">sip:00911129535955</emphasis> to call the real
-          phone number 003210444555, 00 is the international dialling
-          code, 91 is the country code and 1129535955 is the number to
-          call.</para>
-
-	  </listitem>
-	</varlistentry>
-	<varlistentry>
-	  <term>From Real Phones to Computer</term>
-	  <listitem>
-          <para>You can also use Ekiga to receive incoming calls from regular
-          phones. For this, you have to login to <emphasis role="strong">PC-To-Phone</emphasis> account and purchase a phone
-          number. Ekiga then rings, when people call you at that phone
-          number.</para>
 	  </listitem>
 	</varlistentry>
       </variablelist>
