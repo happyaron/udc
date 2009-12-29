@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2009-12-29 15:59+0800\n"
+"POT-Creation-Date: 2009-12-29 21:28+0800\n"
 "PO-Revision-Date: 2009-12-29 00:49+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -238,7 +238,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:1000(None)
+#: chapter10/xinclude.xml:1003(None)
 msgid ""
 "@@image: 'images/Lesson11_images_022.png'; "
 "md5=bdd4136b29ea1301145dffae8a707c6f"
@@ -524,7 +524,7 @@ msgstr ""
 "sizes of partitions to be created to prevent later unnecessary resizing."
 
 #: chapter10/xinclude.xml:187(title) chapter10/xinclude.xml:282(title)
-#: chapter10/xinclude.xml:970(title)
+#: chapter10/xinclude.xml:973(title)
 msgid "Caution:"
 msgstr "小心："
 
@@ -933,7 +933,7 @@ msgstr ""
 "据，这些数据将使用淡黄色区域表示。"
 
 # 到底该是啥？
-#: chapter10/xinclude.xml:566(title) chapter10/xinclude.xml:1008(title)
+#: chapter10/xinclude.xml:566(title) chapter10/xinclude.xml:1020(title)
 msgid "Instructor Notes:"
 msgstr "教师注意："
 
@@ -1356,40 +1356,35 @@ msgid ""
 "Back up the configuration file, and open it in a text editor, as follows:"
 msgstr "备份配置文件，并且打开在文本编辑器中打开它，就像下边这样："
 
-# 根据 grub2 进行了改写，感谢小苹果
 #: chapter10/xinclude.xml:924(screen)
 #, no-wrap
 msgid ""
-"$ sudo cp\n"
-"          /boot/grub/menu.lst /boot/grub/menu.lst_backup $ sudo\n"
-"          gedit /boot/grub/menu.lst"
-msgstr ""
 "$ sudo cp /etc/default/grub /etc/default/grub_backup \n"
-"$ sudo gedit /boot/grub/grub.cfg \n"
-"          "
+"          $ sudo gedit /etc/default/grub"
+msgstr ""
 
-#: chapter10/xinclude.xml:930(para)
+#: chapter10/xinclude.xml:929(para)
 msgid "Find the line written below to change the default sequence:"
 msgstr "找到下边的行以修改默认的顺序："
 
 # 根据 grub2 进行了改写
-#: chapter10/xinclude.xml:933(screen)
+#: chapter10/xinclude.xml:932(screen)
 #, no-wrap
 msgid "... default 0 ..."
 msgstr "GRUB_DEFAULT=0"
 
-#: chapter10/xinclude.xml:935(para)
+#: chapter10/xinclude.xml:934(para)
 msgid "Replace this line with the following line:"
 msgstr "使用如下行替代此行："
 
 # 根据grub2 进行了改写
-#: chapter10/xinclude.xml:937(screen)
+#: chapter10/xinclude.xml:936(screen)
 #, no-wrap
 msgid "default X"
 msgstr "GRUB_DEFAULT=X"
 
 # 此处为grub的内容
-#: chapter10/xinclude.xml:939(para)
+#: chapter10/xinclude.xml:938(para)
 msgid ""
 "Replace X with a number based on the order in which your operating systems "
 "appear in the configuration file. You should start counting from 0. For "
@@ -1401,19 +1396,27 @@ msgstr ""
 "如，如果希望默认启动的操作系统是列表中的第一个，用 0 替换 X；如果希望默认启动"
 "的操作系统是列表中的第二个，使用 1 替换 X。"
 
-# 根据 grub2 进行了修改
-#: chapter10/xinclude.xml:948(para)
-msgid "Point to saved and save default to reboot the last OS chosen."
+#: chapter10/xinclude.xml:947(para)
+msgid "Save this file and shut down editor.Then run the commond follew"
 msgstr ""
-"点击保存此文件，并运行 sudo update-grub 命令，重启系统就可以看到已经修改了默"
-"认的操作系统。"
 
-#: chapter10/xinclude.xml:955(title)
+#: chapter10/xinclude.xml:948(screen)
+#, no-wrap
+msgid "sudo update-grub"
+msgstr ""
+
+#: chapter10/xinclude.xml:952(para)
+msgid ""
+"Now you can reboot your system and can see that the Default operating system "
+"have been changed."
+msgstr ""
+
+#: chapter10/xinclude.xml:958(title)
 msgid "Configuring Start-Up Services"
 msgstr "配置启动应用程序"
 
 # 根据 9.10 进行了修改
-#: chapter10/xinclude.xml:957(para)
+#: chapter10/xinclude.xml:960(para)
 msgid ""
 "When Ubuntu starts up, many services are started for your convenience. Some "
 "services are mandatory for Ubuntu to work properly on your computer. Others "
@@ -1429,7 +1432,7 @@ msgstr ""
 "中的几个文件夹的名字)或者就是您没有此设备(例如蓝牙管理器，如果您没有蓝牙设备"
 "它就没用)。"
 
-#: chapter10/xinclude.xml:965(para)
+#: chapter10/xinclude.xml:968(para)
 msgid ""
 "Although these services are harmless, they increase your computer's start-up "
 "time. By de-activating some of these services, you should get a slightly "
@@ -1438,7 +1441,7 @@ msgstr ""
 "虽然这些自启动应用程序无害，它们增加您系统的启动时间，增加系统负荷。通过取消"
 "这些自启动程序中的一部分，您可能获得稍微快一点的启动时间，更低的资源占用。"
 
-#: chapter10/xinclude.xml:972(para)
+#: chapter10/xinclude.xml:975(para)
 msgid ""
 "Read the service information before you disable any service because "
 "disabling some services may stop your system from booting-up or running "
@@ -1448,14 +1451,14 @@ msgstr ""
 "给您造成不便或对系统性能及稳定性等产生一定影响。"
 
 # 根据 9.10 进行了更改
-#: chapter10/xinclude.xml:977(para)
+#: chapter10/xinclude.xml:980(para)
 msgid ""
 "To configure the start-up services, you need to have administrative "
 "privileges. Then, perform the following steps:"
 msgstr "要配置自动启动的应用程序，请执行如下步骤："
 
 # 为910进行了更改
-#: chapter10/xinclude.xml:982(para)
+#: chapter10/xinclude.xml:985(para)
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and then click <emphasis role="
@@ -1466,26 +1469,37 @@ msgstr ""
 "</emphasis>."
 
 # 为9.10进行了更改
-#: chapter10/xinclude.xml:988(para)
+#: chapter10/xinclude.xml:991(para)
 msgid ""
 "Type your administrative password. The <emphasis role=\"strong\">Services "
 "settings</emphasis> window opens."
 msgstr "将打开 <emphasis role=\"strong\">启动应用程序首选项</emphasis> 窗口。"
 
-#: chapter10/xinclude.xml:992(para)
+#: chapter10/xinclude.xml:995(para)
+#, fuzzy
 msgid ""
 "Select the services you want running by selecting or clearing the respective "
-"check boxes and click <emphasis role=\"strong\">OK</emphasis>."
+"check boxes."
 msgstr ""
 "通过选择或清除对应的选择框选择您想运行的服务并且点击 <emphasis role=\"strong"
 "\">关闭</emphasis>。"
 
-#: chapter10/xinclude.xml:996(title)
+#: chapter10/xinclude.xml:999(title)
 msgid "Services Settings Window"
 msgstr "启动应用程序首选项窗口"
 
-# 根据 9.10 进行了更改
 #: chapter10/xinclude.xml:1010(para)
+msgid ""
+"If you want to add a new item to list,click <emphasis role=\"strong\"> add</"
+"emphasis>;if you want delete an item from list,click <emphasis role=\"strong"
+"\">delete</emphasis>; if you want to remember the opening software when next "
+"login,go to <emphasis role=\"strong\">option</emphasis> tab, and select "
+"<emphasis role=\"strong\">remember opening application when logout </"
+"emphasis> checkbox."
+msgstr ""
+
+# 根据 9.10 进行了更改
+#: chapter10/xinclude.xml:1022(para)
 msgid ""
 "If you want greater control over the boot-up services, install Boot-up "
 "Manager (bum). You can install bum from the Universe repository. You need to "
@@ -1500,21 +1514,21 @@ msgstr ""
 "中的 <emphasis role=\"strong\">注销时自动记住正在运行的应用程序</emphasis> 复"
 "选框。"
 
-#: chapter10/xinclude.xml:1018(title)
+#: chapter10/xinclude.xml:1030(title)
 msgid "Lesson Summary"
 msgstr "课堂总结"
 
-#: chapter10/xinclude.xml:1022(para)
+#: chapter10/xinclude.xml:1034(para)
 msgid ""
 "Partitioning your hard disk is similar to splitting rooms with walls in a "
 "house."
 msgstr "对硬盘进行分区类似于使用墙将房子分割为房间。"
 
-#: chapter10/xinclude.xml:1027(para)
+#: chapter10/xinclude.xml:1039(para)
 msgid "You can run Ubuntu on a single or multiple partitions or drives."
 msgstr "可以在单个或多个分区或驱动器上运行 Ubuntu。"
 
-#: chapter10/xinclude.xml:1032(para)
+#: chapter10/xinclude.xml:1044(para)
 msgid ""
 "Before partitioning the hard drive, you should make sure that there is no "
 "data on the hard drive. If the hard drive on which you are creating a "
@@ -1524,13 +1538,13 @@ msgstr ""
 "在对硬盘驱动器分区之前，应该确定硬盘驱动器上没有数据。如果您要在上边创建分区"
 "的硬盘驱动器包含数据并且希望保留它，在处理之前备份数据会更安全。"
 
-#: chapter10/xinclude.xml:1039(para)
+#: chapter10/xinclude.xml:1051(para)
 msgid ""
 "You can create a partition by using both the partition editor and the "
 "command-line interface."
 msgstr "可以使用分区编辑器或命令行界面创建分区。"
 
-#: chapter10/xinclude.xml:1044(para)
+#: chapter10/xinclude.xml:1056(para)
 msgid ""
 "It is possible for you to change the boot-up configuration to define the "
 "computer's boot order, change the default operating system to boot or make a "
@@ -1539,7 +1553,7 @@ msgstr ""
 "可以引导设置以决定计算机引导顺序，更改默认引导的操作系统或者使一个系统命令启"
 "动时自动运行。"
 
-#: chapter10/xinclude.xml:1051(para)
+#: chapter10/xinclude.xml:1063(para)
 msgid ""
 "To run a set of commands each time the system boots up, you need to include "
 "the commands in the /etc/rc.local file so that the computer executes them "
@@ -1548,13 +1562,13 @@ msgstr ""
 "要在每次系统引导时运行一组命令，需要包含这些命令到 /etc/rc.local 文件以使计算"
 "机在每次引导时执行它们。"
 
-#: chapter10/xinclude.xml:1057(para)
+#: chapter10/xinclude.xml:1069(para)
 msgid ""
 "You can change the default operating system at boot by making changes in the "
 "configuration file."
 msgstr "可以通过修改配置文件来更改启动时的默认操作系统。"
 
-#: chapter10/xinclude.xml:1062(para)
+#: chapter10/xinclude.xml:1074(para)
 msgid ""
 "You must read the service information before disabling any service because "
 "disabling some services may stop your system from booting-up or running "
@@ -1563,82 +1577,82 @@ msgstr ""
 "禁用任何自启动应用程序之前，必须要阅读程序信息，因为禁用一些程序的自启动可能"
 "对系统的可用性产生影响。"
 
-#: chapter10/xinclude.xml:1020(para)
+#: chapter10/xinclude.xml:1032(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
 msgstr "本节课学到了：<placeholder-1/>"
 
-#: chapter10/xinclude.xml:1070(title)
+#: chapter10/xinclude.xml:1082(title)
 msgid "Review Exercise"
 msgstr "考察练习"
 
-#: chapter10/xinclude.xml:1075(para)
+#: chapter10/xinclude.xml:1087(para)
 msgid "What are the advantages of partitioning?"
 msgstr "进行分区的好处是什么？"
 
-#: chapter10/xinclude.xml:1079(para)
+#: chapter10/xinclude.xml:1091(para)
 msgid "The following are the advantages of partitioning:"
 msgstr "下边是进行分区的好处："
 
 # 可恶的病句
-#: chapter10/xinclude.xml:1083(para)
+#: chapter10/xinclude.xml:1095(para)
 msgid "Minimises data loss"
 msgstr "使数据丢失的可能最小化"
 
-#: chapter10/xinclude.xml:1087(para)
+#: chapter10/xinclude.xml:1099(para)
 msgid "Enhances security"
 msgstr "增强安全性"
 
-#: chapter10/xinclude.xml:1091(para)
+#: chapter10/xinclude.xml:1103(para)
 msgid "Enhances performance"
 msgstr "增强性能"
 
-#: chapter10/xinclude.xml:1099(para)
+#: chapter10/xinclude.xml:1111(para)
 msgid "Why do you need to use the sudo command?"
 msgstr "为什么需要使用 sudo 命令？"
 
-#: chapter10/xinclude.xml:1103(para)
+#: chapter10/xinclude.xml:1115(para)
 msgid ""
 "In Unix-based operating systems, you need to use the sudo command to run "
 "programmes that require administrative privileges."
 msgstr "在基于 Unix 的操作系统中，需要使用 sudo 命令来运行需要管理特权的程序。"
 
-#: chapter10/xinclude.xml:1111(para)
+#: chapter10/xinclude.xml:1123(para)
 msgid "Which of these file systems does Ubuntu use by default?"
 msgstr "Ubuntu 默认使用这些文件系统中的哪一个？"
 
 # 原文前边竟然没有编号，或许我需要给它加上
-#: chapter10/xinclude.xml:1115(para)
+#: chapter10/xinclude.xml:1127(para)
 msgid "Fat 32"
 msgstr "a) Fat 32"
 
-#: chapter10/xinclude.xml:1119(para)
+#: chapter10/xinclude.xml:1131(para)
 msgid "NTFS"
 msgstr "b) NTFS"
 
-#: chapter10/xinclude.xml:1123(para)
+#: chapter10/xinclude.xml:1135(para)
 msgid "Ext3"
 msgstr "c) Ext4"
 
 # o,ext3 again
-#: chapter10/xinclude.xml:1129(para)
+#: chapter10/xinclude.xml:1141(para)
 msgid "c) Ext3"
 msgstr "c) Ext4"
 
-#: chapter10/xinclude.xml:1135(para)
+#: chapter10/xinclude.xml:1147(para)
 msgid ""
 "If you want to run a system command automatically at start-up, where should "
 "you add the command?"
 msgstr "如果想在系统启动时自动运行一个系统命令，向何处添加此命令？"
 
-#: chapter10/xinclude.xml:1140(para)
+#: chapter10/xinclude.xml:1152(para)
 msgid "The command needs to be added to the /etc/rc.local file."
 msgstr "此命令需要添加到 /etc/rc.local 文件。"
 
-#: chapter10/xinclude.xml:1147(para)
+#: chapter10/xinclude.xml:1159(para)
 msgid "Is it possible to disable all the start-up services? Why?"
 msgstr "可以禁用所有的自启动的应用程序吗？为什么？"
 
-#: chapter10/xinclude.xml:1152(para)
+#: chapter10/xinclude.xml:1164(para)
 msgid ""
 "No, it is not possible to disable all start-up services because disabling "
 "some services will stop your system from booting-up or running properly."
@@ -1646,15 +1660,15 @@ msgstr ""
 "可以，可以禁用启动应用程序中列出的所有条目，但是禁用某些选项会系统缺少某些功"
 "能，甚至是对桌面用户很重要的功能，如上网；因此一定要慎重。"
 
-#: chapter10/xinclude.xml:1161(title)
+#: chapter10/xinclude.xml:1173(title)
 msgid "Lab Exercise"
 msgstr "实验课练习"
 
-#: chapter10/xinclude.xml:1164(title)
+#: chapter10/xinclude.xml:1176(title)
 msgid "Exercise 1"
 msgstr "练习 1"
 
-#: chapter10/xinclude.xml:1166(para)
+#: chapter10/xinclude.xml:1178(para)
 msgid ""
 "As a previous Microsoft Windows user, you want to have a dual-boot "
 "configuration on your computer and create a separate partition to run "
@@ -1666,11 +1680,11 @@ msgstr ""
 "建一个分离的分区以在上边运行 Microsoft Windows 系统。要实现此任务，您需要创建"
 "一个 5-GB 的主分区并且格式化为Microsoft Windows 兼容的文件系统。"
 
-#: chapter10/xinclude.xml:1174(title)
+#: chapter10/xinclude.xml:1186(title)
 msgid "Option a: To create a Partition using Partition Editor:"
 msgstr "选项 a：使用分区编辑器创建分区："
 
-#: chapter10/xinclude.xml:1177(para)
+#: chapter10/xinclude.xml:1189(para)
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and then click <emphasis role="
@@ -1680,7 +1694,7 @@ msgstr ""
 "\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">分区编辑器"
 "</emphasis>。"
 
-#: chapter10/xinclude.xml:1183(para)
+#: chapter10/xinclude.xml:1195(para)
 msgid ""
 "In the drive drop-down box, select the hard drive you need to partition by "
 "specifying its logical name. The window refreshes and shows you a "
@@ -1690,7 +1704,7 @@ msgstr ""
 "此驱动器的代表。"
 
 # 白条，白条鸡可不好
-#: chapter10/xinclude.xml:1189(para)
+#: chapter10/xinclude.xml:1201(para)
 msgid ""
 "Right-click the white bar and click <emphasis role=\"strong\">New</emphasis> "
 "to create a new partition. The <emphasis role=\"strong\">Create new "
@@ -1701,14 +1715,14 @@ msgstr ""
 "示 <emphasis role=\"strong\">创建新分区</emphasis>对话框，在其上选择此分区的"
 "参数。"
 
-#: chapter10/xinclude.xml:1194(para)
+#: chapter10/xinclude.xml:1206(para)
 msgid ""
 "In the <emphasis role=\"strong\">New Size</emphasis> dialogue box, select "
 "the size of the new partition."
 msgstr ""
 "<emphasis role=\"strong\">新大小</emphasis>对话框中，选择新分区的大小。"
 
-#: chapter10/xinclude.xml:1199(para)
+#: chapter10/xinclude.xml:1211(para)
 msgid ""
 "In the <emphasis role=\"strong\">Create as</emphasis> box, select <emphasis "
 "role=\"strong\">Primary Partition</emphasis>."
@@ -1716,11 +1730,11 @@ msgstr ""
 "在 <emphasis role=\"strong\">创建为</emphasis> 对话框中，选择 <emphasis role="
 "\"strong\">主分区</emphasis>。"
 
-#: chapter10/xinclude.xml:1204(para)
+#: chapter10/xinclude.xml:1216(para)
 msgid "Next, specify the file system. Select ntfs."
 msgstr "下一步，指定文件系统，选择 ntfs。"
 
-#: chapter10/xinclude.xml:1208(para)
+#: chapter10/xinclude.xml:1220(para)
 msgid ""
 "Click <emphasis role=\"strong\">Add</emphasis> to compute the partition. The "
 "graphical display updates to show a new partition on the disk."
@@ -1728,7 +1742,7 @@ msgstr ""
 "点击 <emphasis role=\"strong\">添加</emphasis>以计算此分区。图形显示更新以显"
 "示磁盘上的一个新分区。"
 
-#: chapter10/xinclude.xml:1214(para)
+#: chapter10/xinclude.xml:1226(para)
 msgid ""
 "If you are sure about the specification of the new partition, click "
 "<emphasis role=\"strong\">Apply</emphasis>. The disk will be partitioned and "
@@ -1741,3 +1755,19 @@ msgstr ""
 #: chapter10/xinclude.xml:0(None)
 msgid "translator-credits"
 msgstr "YunQiang Su <wzssyqa@gmail.com>,2009."
+
+# 根据 grub2 进行了改写，感谢小苹果
+#~ msgid ""
+#~ "$ sudo cp\n"
+#~ "          /boot/grub/menu.lst /boot/grub/menu.lst_backup $ sudo\n"
+#~ "          gedit /boot/grub/menu.lst"
+#~ msgstr ""
+#~ "$ sudo cp /etc/default/grub /etc/default/grub_backup \n"
+#~ "$ sudo gedit /boot/grub/grub.cfg \n"
+#~ "          "
+
+# 根据 grub2 进行了修改
+#~ msgid "Point to saved and save default to reboot the last OS chosen."
+#~ msgstr ""
+#~ "点击保存此文件，并运行 sudo update-grub 命令，重启系统就可以看到已经修改了"
+#~ "默认的操作系统。"

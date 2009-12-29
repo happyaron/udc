@@ -259,12 +259,6 @@
           open source driver is not available, contact your vendor for other
           options.</para>
 
-          <note>
-            <title>Note:</title>
-
-            <para>To download the open source driver, refer to <ulink
-            url="www.modemdriver.com">www.modemdriver.com</ulink>.</para>
-          </note>
         </step>
 
         <step performance="required">
@@ -309,56 +303,6 @@
             <step performance="required">
               <para>Specify your ISP's information and your account
               information, which you can obtain form your ISP.</para>
-
-              <para>Type the phone number in the <emphasis role="strong">Phone
-              number</emphasis> and the dial prefix in the <emphasis
-              role="strong">Dial prefix</emphasis> box, which the modem uses
-              to connect to the server. Type your dial-up account name in the
-              <emphasis role="strong">Username</emphasis> box and the password
-              in the <emphasis role="strong">Password</emphasis> box. The user
-              name is the one that is registered with your ISP.</para>
-            </step>
-
-            <step performance="required">
-              <para>Specify the modem setting on the Modem tabbed page. Click
-              the <emphasis role="strong">Modem</emphasis> tab. Type or select
-              the modem port in the <emphasis role="strong">Modem
-              port</emphasis> box. Select the dial type from the <emphasis
-              role="strong">Dial type</emphasis> box. You can select the types
-              of phone dial used in the <emphasis role="strong">Dial
-              type</emphasis> box. Dial type depends on your phone company and
-              may be <emphasis role="strong">Tones</emphasis> or <emphasis
-              role="strong">Pulses</emphasis>. If you do not know which dial
-              type to choose, contact your phone company. Irrespective of the
-              dial type, the modem will make some noise while connecting to
-              the ISP server. You can set the volume of this noise by
-              selecting the appropriate volume options from the <emphasis
-              role="strong">Volume</emphasis> box-it is recommended that you
-              select <emphasis role="strong">Off</emphasis> or <emphasis
-              role="strong">Low</emphasis>.</para>
-            </step>
-
-            <step performance="required">
-              <para>Specify the connection settings. Click the <emphasis
-              role="strong">Options</emphasis> tab and select the <emphasis
-              role="strong">Set modem as default route to Internet</emphasis>
-              check box to specify the dial-up modem as the default Internet
-              connection. If you use a laptop on a local area network (LAN),
-              clear the <emphasis role="strong">Set modem as default route to
-              Internet</emphasis> check box. Select this option only if you
-              use a dial-up connection.</para>
-
-              <para>As part of modem connection settings, you need to assign a
-              host name to an IP node to identify it as a TCP/IP host. You can
-              select your ISP server for this name resolution of hosts, which
-              maps a host name to an IP address successfully. For this, select
-              the <emphasis role="strong">Use the Internet service provider
-              nameservers</emphasis> check box.</para>
-
-              <para>If the Internet connection breaks, your modem will
-              automatically try reconnecting to the Internet if the <emphasis
-              role="strong">Retry if the connection breaks or fails to
-              start</emphasis> check box is selected.</para>
             </step>
 
             <step performance="required">
@@ -383,18 +327,6 @@
       <para>Now, you can connect to the Internet using a dial-up
       connection.</para>
 
-      <note userlevel="instructor">
-        <title>Instructor Notes:</title>
-
-        <para>If students need to connect to the Internet with the modem
-        integrated into a mobile phone or configure Point-to-Point (PPP)
-        dial-up through a Bluetooth-compatible mobile phone, refer to: <ulink
-        url="https://help.ubuntu.com/community/BluetoothDialup">https://help.ubuntu.com/community/BluetoothDialup</ulink>.</para>
-
-        <para>To connect to the Internet through a mobile phone over a USB
-        cable, refer to: <ulink
-        url="https://help.ubuntu.com/community/CableDialup">https://help.ubuntu.com/community/CableDialup</ulink>.</para>
-      </note>
     </sect2>
 
     <sect2>

@@ -1007,11 +1007,13 @@
         </step>
         
         <step performance="required">
-			 <para>If you want to add a new item to list,click <emphasis role="strong">add</emphasis>;
-			 		if you want delete an item from list,click <emphasis role="strong">delete</emphasis>;
-			 		if you want to remember the opening software when next login,go to 
-			 		<emphasis role="strong">option</emphasis> tab,and select 
-			 		<emphasis role="strong">remember opening application when logout</emphasis> checkbox.</para>        
+          <para>If you want to add a new item to list,click <emphasis role="strong">
+          add</emphasis>;if you want delete an item from list,click <emphasis
+          role="strong">delete</emphasis>; if you want to remember the opening software
+          when next login,go to <emphasis role="strong">option</emphasis> tab, and
+          select <emphasis role="strong">remember opening application when logout
+          </emphasis> checkbox.
+          </para>        
         </step>
       </procedure>
 
