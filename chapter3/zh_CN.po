@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-26 16:26+0800\n"
 "PO-Revision-Date: 2009-12-28 11:45+0800\n"
-"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -957,7 +957,7 @@ msgstr "您可以跳过 <emphasis role=\"strong\">可选信息</emphasis> 一节
 
 #: chapter3/xinclude.xml:842(para)
 msgid "On the <emphasis role=\"strong\">Receiving E-mail</emphasis> page, in the <emphasis role=\"strong\">Server Type</emphasis> box select the type of server your ISP provides. Evolution is compatible with numerous server types, but POP is commonly used to receive e-mail messages."
-msgstr "On the <emphasis role=\"strong\">Receiving E-mail</emphasis> page, in the <emphasis role=\"strong\">Server Type</emphasis> box select the type of server your ISP provides. Evolution is compatible with numerous server types, but POP is commonly used to receive e-mail messages."
+msgstr "在<emphasis role=\"strong\">接收邮件</emphasis> 页的 <emphasis role=\"strong\">服务器类型</emphasis> 栏中选择您的服务商所提供的类型。Evolution 能和数量庞大的服务器类型所保持兼容，POP 就是其中用于接收邮件的最流行的一种。"
 
 #: chapter3/xinclude.xml:849(title)
 msgid "Selecting Server Type for Receiving E-Mail"
@@ -977,11 +977,11 @@ msgstr "关于服务器类型的更多信息，参见：<ulink url=\"https://hel
 
 #: chapter3/xinclude.xml:882(para)
 msgid "Type the receiving e-mail server name in the <emphasis role=\"strong\">Server</emphasis> box and your account user name in the <emphasis role=\"strong\">Username</emphasis> box. This is not your login name to your PC but your login name to your ISP's e-mail account."
-msgstr "在 <emphasis role=\"strong\">Server</emphasis> 框中输入邮件接收服务器并且在 <emphasis role=\"strong\">Username</emphasis> 框中输入账户的用户名。这不是自己计算机上的登录名，而是服务商提供的电子邮件账户。"
+msgstr "在 <emphasis role=\"strong\">服务器</emphasis> 框中输入邮件接收服务器并且在 <emphasis role=\"strong\">用户名</emphasis> 框中输入账户的用户名。这不是自己计算机上的登录名，而是服务商提供的电子邮件账户。"
 
 #: chapter3/xinclude.xml:889(para)
 msgid "In the <emphasis role=\"strong\">Security</emphasis> section, you can select <emphasis role=\"strong\">Encryption</emphasis> or <emphasis role=\"strong\">No encryption</emphasis> in the <emphasis role=\"strong\">Use Secure Connection</emphasis> box. Encryption makes the message unreadable by anyone other than the intended recipient."
-msgstr "在 <emphasis role=\"strong\">Security</emphasis> 节中，可以 在 <emphasis role=\"strong\">Use Secure Connection</emphasis> 框中选择 <emphasis role=\"strong\">Encryption</emphasis> 或 <emphasis role=\"strong\">No encryption</emphasis>。加密使此消息对除了希望的接收者之外的人不可读。"
+msgstr "在 <emphasis role=\"strong\">安全</emphasis> 一节中，可以 在 <emphasis role=\"strong\">使用安全连接</emphasis> 框中选择 <emphasis role=\"strong\">加密</emphasis> 或 <emphasis role=\"strong\">无加密</emphasis>。加密使此消息对除了希望的接收者之外的人不可读。"
 
 #: chapter3/xinclude.xml:896(para)
 msgid "Select <emphasis role=\"strong\">Password</emphasis> in the <emphasis role=\"strong\">Authentication Type</emphasis> box or click <emphasis role=\"strong\">Check for Supported Types</emphasis> to have Evolution check for supported authentication types. The crossed out authentication types are not supported. Generally, the password is the way you authenticate with the server."
@@ -1006,7 +1006,7 @@ msgstr "如果需要请在 <emphasis role=\"strong\">接收选项</emphasis> 页
 
 #: chapter3/xinclude.xml:934(para)
 msgid "To automatically check e-mail messages after a particular interval of time, select <emphasis role=\"strong\">Automatically check for new mail every</emphasis> check box. Specify the duration of the interval in the <emphasis role=\"strong\"> minutes</emphasis> list."
-msgstr "要特定的时间间隔后自动检查电子邮件消息，选择 <emphasis role=\"strong\">Automatically check for new mail every</emphasis> 复选框。在 <emphasis role=\"strong\"> minutes</emphasis> 列表中选择间隔的长度。"
+msgstr "要特定的时间间隔后自动检查电子邮件消息，选择 <emphasis role=\"strong\">自动检查新邮件</emphasis> 复选框。在 <emphasis role=\"strong\">分钟</emphasis> 列表中选择间隔的长度。"
 
 # 此处菜单项可能翻译有误
 #: chapter3/xinclude.xml:942(para)
@@ -1041,7 +1041,7 @@ msgstr "提供 SMTP 服务器信息"
 
 #: chapter3/xinclude.xml:1000(para)
 msgid "Type the host address in the <emphasis role=\"strong\">Server</emphasis> box. This is the address of the outbound server that your ISP provides."
-msgstr "在 <emphasis role=\"strong\">Server</emphasis> 框中输入主机地址。这是服务商提供的后台服务器的地址。"
+msgstr "在 <emphasis role=\"strong\">服务器</emphasis> 框中输入主机地址。这是服务商提供的后台服务器的地址。"
 
 #: chapter3/xinclude.xml:1005(para)
 msgid "Specify how you want the server to authenticate. Select <emphasis role=\"strong\">Server requires authentication</emphasis> check box, if your server requires authentication. You will be asked to select your authentication type in the <emphasis role=\"strong\">Type</emphasis> box. You can also click <emphasis role=\"strong\">Check for Supported Types</emphasis> to have evolution check for supported types."
@@ -1049,11 +1049,11 @@ msgstr "指定认证到服务器的方法。如果服务器要求认证，选中
 
 #: chapter3/xinclude.xml:1015(para)
 msgid "Type the evolution account user name in the <emphasis role=\"strong\"> Username</emphasis> box."
-msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 evolution 账户的用户名。"
+msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 Evolution 账户的用户名。"
 
 #: chapter3/xinclude.xml:1019(para)
 msgid "Select <emphasis role=\"strong\">Remember Password</emphasis> check box, if you want evolution to remember your password. Then, click <emphasis role=\"strong\">Forward</emphasis>. The <emphasis role=\"strong\">Account Management</emphasis> page is displayed."
-msgstr "如果想让 evolution 记住口令，选中 <emphasis role=\"strong\">记住口令</emphasis> 复选框。然后点击 <emphasis role=\"strong\">前进</emphasis>。将显示 <emphasis role=\"strong\">账户管理</emphasis> 页。"
+msgstr "如果想让 Evolution 记住口令，选中 <emphasis role=\"strong\">记住口令</emphasis> 复选框。然后点击 <emphasis role=\"strong\">前进</emphasis>。将显示 <emphasis role=\"strong\">账户管理</emphasis> 页。"
 
 # 参考？
 #: chapter3/xinclude.xml:1030(para)
@@ -1094,7 +1094,7 @@ msgstr "除 Evolution 外，您还有很多可选的电子邮件客户端，例�
 
 #: chapter3/xinclude.xml:1101(para)
 msgid "Mozilla Suite is a cohesive collection of integrated Internet applications, including a Web browser, e-mail and newsgroup client, Internet Relay Chat (IRC) chat client, address book organizer and Web page creation utility."
-msgstr "Mozilla 软件组合是一个集成的互联网程序集合，包括网页浏览器，电子邮件和新闻组客户端，互联网中继聊天(Internet Relay Chat IRC)客户端，地址簿管理器和网页创建工具。"
+msgstr "Mozilla 软件组合是一个集成的互联网程序集合，包括网页浏览器，电子邮件和新闻组客户端，互联网中继聊天 (Internet Relay Chat, IRC) 客户端，地址簿管理器和网页创建工具。"
 
 #: chapter3/xinclude.xml:1107(para)
 msgid "The Thunderbird e-mail application is available in the Universe repository and can be installed on your computer from the Synaptic Package Manager."
@@ -1132,7 +1132,7 @@ msgstr "搜索 Thunderbird"
 # 此 section 为何？
 #: chapter3/xinclude.xml:1173(para)
 msgid "To return to the list of categories after searching the packages using <emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong\">Sections</emphasis>."
-msgstr "要在使用 <emphasis role=\"strong\">搜索</emphasis> 之后返回到组别列表，点击 <emphasis role=\"strong\">Sections</emphasis>。"
+msgstr "要在使用 <emphasis role=\"strong\">搜索</emphasis> 之后返回到组别列表，点击 <emphasis role=\"strong\">组别</emphasis>。"
 
 #: chapter3/xinclude.xml:1180(para)
 msgid "Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box to install the package."
@@ -1240,7 +1240,7 @@ msgstr "安全"
 
 #: chapter3/xinclude.xml:1342(para)
 msgid "Thunderbird provides enhanced security features, which is equivalent to enterprise and government-grade security. It offers built-in support for Secure/Multipurpose Internet Mail Extensions (S/MIME) secure e-mail message."
-msgstr "Thunderbird 提供增强的安全功能，其等同于企业级和政府级安全性能。它提供内建的对安全多功能互联网邮件扩展(Secure/Multipurpose Internet Mail Extensions ,S/MIME) 安全邮件的支持。"
+msgstr "Thunderbird 提供增强的安全功能，其等同于企业级和政府级安全性能。它提供内建的对安全多功能互联网邮件扩展 (Secure/Multipurpose Internet Mail Extensions, S/MIME) 安全邮件的支持。"
 
 #: chapter3/xinclude.xml:1351(title)
 msgid "Extensions"
@@ -1249,6 +1249,7 @@ msgstr "扩展"
 #: chapter3/xinclude.xml:1353(para)
 msgid "Extensions are powerful tools to help you build a mail client that meets your specific needs. Mozilla Thunderbird has several features, such as quick search, a smart address book, advanced message filtering and more."
 msgstr ""
+"扩展是能够帮助您满足特定需求的强大工具。 Mozilla Thunderbird 拥有多项特性，例如快速搜索、只能地址簿、高级消息过滤等。"
 
 #: chapter3/xinclude.xml:1362(title)
 msgid "News Reader"
@@ -1269,6 +1270,8 @@ msgstr "主题"
 #: chapter3/xinclude.xml:1384(para)
 msgid "As with most elements on Ubuntu, you can personalise the themes to change the look and feel of Mozilla Thunderbird. A theme can change the toolbar icons or the complete appearance of an application."
 msgstr ""
+"同 Ubuntu 中大多数元素一样，您可以修改 Mozilla Thunderbird 的主题以改变其外观。"
+"主题可以仅变换工具栏图标，也可以彻底改变应用程序的外观。"
 
 #: chapter3/xinclude.xml:1393(title)
 msgid "Cross-Platform Support"
@@ -1742,11 +1745,13 @@ msgstr "假设您使用 Liferea 作为新闻阅读器。最近您的一位朋友
 
 #: chapter3/xinclude.xml:2154(para)
 msgid "Open the following Web site <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. This site offers RSS feeds."
-msgstr "打开 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>，此站点提供 RSS。"
+msgstr "打开 <ulink url=\"http://forum.ubuntu.org.cn\">http://forum.ubuntu.org.cn</ulink>，此站点提供 RSS。"
 
 #: chapter3/xinclude.xml:2159(para)
 msgid "In the left pane, under <emphasis role=\"strong\">syndication</emphasis>, click <emphasis role=\"strong\">Full content (with ads).</emphasis> Save the URL in the <emphasis role=\"strong\">Address bar</emphasis> of Mozilla Firefox. This URL, <ulink url=\"http://feeds.gawker.com/lifehacker/full\">http://feeds.gawker.com/lifehacker/full</ulink>, is the feed."
 msgstr ""
+"在浏览器地址栏上点击收取点的橙色图标，打开订阅页面。保存 <emphasis role=\"strong\">地址栏"
+"</emphasis> 上的 URL，即 <ulink url=\"http://forum.ubuntu.org.cn/feed.php\">http://forum.ubuntu.org.cn/feed.php</ulink>，这就是 RSS 地址。"
 
 #: chapter3/xinclude.xml:2166(para)
 msgid "Open Liferea."
@@ -1754,11 +1759,12 @@ msgstr "打开 Liferea。"
 
 #: chapter3/xinclude.xml:2170(para)
 msgid "Right-click in the left pane, point to <emphasis role=\"strong\">New</emphasis> and click <emphasis role=\"strong\">New Subscription</emphasis>. The <emphasis role=\"strong\">New Subscription</emphasis> dialogue box is displayed."
-msgstr "右击左侧面板，鼠标指向 <emphasis role=\"strong\">新建</emphasis> 并点击 <emphasis role=\"strong\">New Subscription</emphasis>"
+msgstr "点击窗口左上方的 <emphasis role=\"strong\">新增订阅</emphasis> 按钮打开新增订阅对话框。"
 
 #: chapter3/xinclude.xml:2176(para)
 msgid "In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, type the saved URL <ulink url=\"http://feeds.gawker.com/lifehacker/full\">http://feeds.gawker.com/lifehacker/full</ulink> and click OK."
 msgstr ""
+"在 <emphasis role=\"strong\">新增订阅</emphasis> 对话框中输入刚刚保存的 URL <ulink url=\"http://forum.ubuntu.org.cn/feed.php\">http://forum.ubuntu.org.cn/feed.php</ulink> 并点击确定。"
 
 #: chapter3/xinclude.xml:2183(title)
 msgid "Exercise 2"
@@ -1767,26 +1773,34 @@ msgstr "练习 2"
 #: chapter3/xinclude.xml:2185(para)
 msgid "You want to chat with your friend, who uses Google talk (gtalk). Configure Pidgin to chat using gtalk."
 msgstr ""
+"如果您希望与使用  Google Talk (gtalk) 的朋友进行在线聊天，请配置 Empathy 使用 gtalk。"
 
 #: chapter3/xinclude.xml:2191(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Pidgin Internet Messenger</emphasis>."
 msgstr ""
+"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中用鼠标指向 <emphasis role=\"strong\">Internet</emphasis> 然后点击 <emphasis role=\"strong\">Empathy IM 客户端</emphasis>。"
 
 #: chapter3/xinclude.xml:2197(para)
 msgid "On the <emphasis role=\"strong\">Accounts</emphasis> menu, click <emphasis role=\"strong\">Add/Edit</emphasis>. The <emphasis role=\"strong\">Accounts</emphasis> window is displayed."
 msgstr ""
+"点击菜单栏上的 <emphasis role=\"strong\">编辑</emphasis>，再点击 <emphasis role=\"strong\">帐户</emphasis>，<emphasis role=\"strong\">帐户</emphasis> 窗口随即显示。"
 
 #: chapter3/xinclude.xml:2202(para)
 msgid "In the <emphasis role=\"strong\">Accounts</emphasis> window, click <emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add Account</emphasis> window is displayed."
 msgstr ""
+"在 <emphasis role=\"strong\">帐户</emphasis> 窗口中点击 <emphasis role=\"strong\">添加"
+"</emphasis>。在列表中选择 <emphasis role=\"strong\">Google Talk</emphasis> 并 <emphasis role=\"strong\">创建</emphasis>。"
 
 #: chapter3/xinclude.xml:2207(para)
 msgid "In the <emphasis role=\"strong\">Add Account</emphasis> window, select <emphasis role=\"strong\">xmpp</emphasis> from the <emphasis role=\"strong\">Protocol</emphasis> box, type your gtalk e-mail id in the <emphasis role=\"strong\">Screen name</emphasis> box, your account password in the <emphasis role=\"strong\">Password</emphasis> box and your nickname in the <emphasis role=\"strong\">Local alias</emphasis> box. Click <emphasis role=\"strong\">Save</emphasis>."
 msgstr ""
+"在 <emphasis role=\"strong\">登录 ID</emphasis> 处填写您的 Google Talk 帐户名，"
+"<emphasis role=\"strong\">密码</emphasis> 处填写您的密码，最后点击 "
+"<emphasis role=\"strong\">连接</emphasis>。"
 
 #: chapter3/xinclude.xml:2216(para)
 msgid "You are now connected to the gtalk server."
-msgstr "您已连接至 GTalk 服务器"
+msgstr "至此，您已连接至 GTalk 服务器"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter3/xinclude.xml:0(None)

@@ -1377,19 +1377,13 @@
           <procedure>
             <title>To activate the junk mail filters in Thunderbird:</title>
 
-            <step performance="required">
+            <para>
               <para>On the <emphasis role="strong">Tools</emphasis> menu,
               click <emphasis role="strong">Junk Mail Controls</emphasis>. The
               <emphasis role="strong">Junk Mail Controls</emphasis> window
               will be displayed.</para>
-            </step>
+            </para>
 
-            <step performance="required">
-              <para>Click the <emphasis role="strong">Adaptive
-              Filter</emphasis> tab. Select the <emphasis role="strong">Enable
-              adaptive junk mail detection</emphasis> check box and click
-              <emphasis role="strong">OK</emphasis></para>
-            </step>
           </procedure>
         </listitem>
 
@@ -2148,17 +2142,6 @@
         <answer>
           <para>The three main ways to connect to the Internet are through
           cable, wireless and dial-up connections.</para>
-        </answer>
-      </qandaentry>
-
-      <qandaentry>
-        <question>
-          <para>Which tool is used to identify a modem on Ubuntu?</para>
-        </question>
-
-        <answer>
-          <para>The ScanModem tool is used to identify a modem on
-          Ubuntu.</para>
         </answer>
       </qandaentry>
 
