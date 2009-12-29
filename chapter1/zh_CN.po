@@ -264,7 +264,7 @@ msgstr ""
 "发起了 GNU 项目，旨在开发一个自由的类 Unix 的操作系统。他为专业软件的膨胀和随"
 "之而来的用户不再能够修改他们电脑上的程序而忧心忡忡。软件开发者被束缚，追求软"
 "件自由的潮流也愈演愈烈。 GNU 项目的创立，标志了自由软件运动的开始。1985年10"
-"月， Richard 创立了自由软件基金会（ Free Software Foundation ）。"
+"月， Richard 创立了自由软件基金会( Free Software Foundation )。"
 
 #: chapter1/xinclude.xml:104(para)
 msgid ""
@@ -273,9 +273,9 @@ msgid ""
 "copyleft licenses, including the GNU General Public License (GPL), which is "
 "the most widely used free software license."
 msgstr ""
-"Stallman 首先提出了开源软件的定义和特征，以及版权向左（ copyleft ）的概念。他"
-"是很多版权向左（ copyleft ）许可证的主要作者，包括使用最广泛的自由软件许可证"
-"—— GNU 公共许可证（ GNU General Public License, GPL ）。"
+"Stallman 首先提出了开源软件的定义和特征，以及版权向左( copyleft )的概念。他"
+"是很多版权向左( copyleft )许可证的主要作者，包括使用最广泛的自由软件许可证"
+"—— GNU 公共许可证( GNU General Public License, GPL )。"
 
 #: chapter1/xinclude.xml:110(title) chapter1/xinclude.xml:140(emphasis)
 #: chapter1/xinclude.xml:158(title) chapter1/xinclude.xml:227(title)
@@ -299,8 +299,8 @@ msgid ""
 "collection (GCC), had been created. However, a free kernel was not yet "
 "available to build a free OS that would use these tools."
 msgstr ""
-"到了1991年，很多 GNU 工具都被开发了出来，包括强大的 GNU 编译套件（ GNU "
-"compiler collection, GCC ）。软件运行在操作系统之上，但是，创造一个自由的操作"
+"到了1991年，很多 GNU 工具都被开发了出来，包括强大的 GNU 编译套件( GNU "
+"compiler collection, GCC )。软件运行在操作系统之上，但是，创造一个自由的操作"
 "系统的必不可少的部分——自由的内核，却还没有开发出来。"
 
 #: chapter1/xinclude.xml:121(title)
@@ -314,7 +314,7 @@ msgid ""
 "methodology (open source). Linux refers to the kernel, or the backbones of "
 "the open source architecture."
 msgstr ""
-"自由软件和开源之间的区别可以理解成社会运动（自由软件）和软件开发方法（开源）"
+"自由软件和开源之间的区别可以理解成社会运动(自由软件)和软件开发方法(开源)"
 "之间的区别。 Linux 则是一个内核，开源体系中很重要的软件。"
 
 #: chapter1/xinclude.xml:127(para)
@@ -351,7 +351,7 @@ msgid ""
 msgstr ""
 "Linus Torvalds 最初想把 Linux 设计成一个类 Minix 的能在自己的家用计算机上跑的"
 "操作系统。在九月中旬时， Torvald 发布了第一个版本—— Linux 0.01。1994 年，采用"
-"了 GNU 公共许可证（ GPL ）的 Linux 1.0发布。这个自由的内核加上 GNU 工具集给爱"
+"了 GNU 公共许可证( GPL )的 Linux 1.0发布。这个自由的内核加上 GNU 工具集给爱"
 "好者提供了一个富有潜力的环境。为了和 UNIX 保持相似， Linux 首先提供了一个命令"
 "行界面；之后， X 窗口系统的加入使图形用户界面成为可能。"
 
@@ -401,9 +401,9 @@ msgid ""
 "et al formally launched the Open Source Movement. They promoted open source "
 "software exclusively on the basis of technical excellence."
 msgstr ""
-"1998 年， Jon \"maddog\" Hall 、 Larry Augustin 、 Eric S 、 Raymond 、 "
-"Bruce Perens et al 正式开始了开放源码运动(Open Source Movement)。他们在技术专"
-"业基础之外促进了开源软件的发展。"
+"1998年，Jon \"maddog\" Hall 、Larry Augustin 、Eric S. Raymond、"
+"Bruce Perens et al 正式开始了开放源码运动。他们以卓越的专业基础极大地"
+"推动了这项运动的发展。"
 
 #: chapter1/xinclude.xml:189(title)
 msgid "Founders of the Open Source Movement"
@@ -456,7 +456,7 @@ msgid ""
 "software, instant messaging and much more."
 msgstr ""
 "Ubuntu 是一个社区开发的基于 Linux 的操作系统，适合笔记本、桌面计算机和服务器"
-"使用。它包含了所有你需要的应用程序——网页浏览器，幻灯片演示、文档编辑和点子表"
+"使用。它包含了所有您需要的应用程序——网页浏览器，幻灯片演示、文档编辑和点子表"
 "格软件，即时消息软件等等。"
 
 #: chapter1/xinclude.xml:228(para)
@@ -470,6 +470,7 @@ msgid "Mark Shuttleworth"
 msgstr "Mark Shuttleworth"
 
 #: chapter1/xinclude.xml:231(para)
+#, fuzzy
 msgid ""
 "The history of Ubuntu dates back to April 2004 when Mark Shuttleworth formed "
 "a group of open source developers to create a new Linux OS. <placeholder-1/"
@@ -489,7 +490,7 @@ msgid ""
 "Canonical is the commercial sponsor of Ubuntu."
 msgstr ""
 "四年多一点的时间里， Ubuntu 迅速发展，拥有了一个上千人的社区，和超过800万的用"
-"户（2007年6月）。 Canonical 是 Ubuntu 的商业赞助商。"
+"户(2007年6月)。 Canonical 是 Ubuntu 的商业赞助商。"
 
 #: chapter1/xinclude.xml:252(para)
 msgid ""
@@ -499,6 +500,7 @@ msgstr ""
 "如果学生对 Mark Shuttleworth 感兴趣，想了解更多的信息，展示下面的内容。"
 
 #: chapter1/xinclude.xml:255(para)
+#, fuzzy
 msgid ""
 "Mark Shuttleworth is an African entrepreneur with a love for technology, "
 "innovation, change and space flight. Shuttleworth studied finance and "
@@ -542,7 +544,7 @@ msgstr "Ubuntu 永远免费，包括商业发行版和安全更新。"
 msgid ""
 "Ubuntu comes with full commercial support from Canonical and hundreds of "
 "companies around the world."
-msgstr "Ubuntu 有 Canonical 和全球数百家公司提供完整的商业支持。"
+msgstr "Ubuntu 由 Canonical 和全球数百家公司提供完整的商业支持。"
 
 #: chapter1/xinclude.xml:290(para)
 msgid ""
@@ -555,7 +557,7 @@ msgid ""
 "Ubuntu CDs contain only free software applications; Ubuntu encourages you to "
 "use free and open source software, improve it and pass it on."
 msgstr ""
-"Ubuntu 光盘包含的全部都是自由软件， Ubuntu 鼓励用户使用，改进或传播自由和开源"
+"Ubuntu 光盘包含的全部都是自由软件，Ubuntu 鼓励用户使用，改进或传播自由和开源"
 "软件。"
 
 #: chapter1/xinclude.xml:302(title) chapter1/xinclude.xml:315(title)
@@ -563,6 +565,7 @@ msgid "Ubuntu Versions"
 msgstr "Ubuntu 版本"
 
 #: chapter1/xinclude.xml:303(para)
+#, fuzzy
 msgid ""
 "In October 2004, Ubuntu released its first version. A new version of Ubuntu "
 "is released every six months and upgrades to new releases are free of "
@@ -574,18 +577,20 @@ msgid ""
 msgstr ""
 "2004年10月，第一个 Ubuntu 正式版发布。 Ubuntu 每六个月发布一个正式版本，并且"
 "升级到新版本是免费的。 Ubuntu 鼓励用户及时地升级到新版本享用最新的功能和软"
-"件。 Ubuntu 的命名遵从“ Y.MM (name)”， Y 代表年份， MM 指月份。在括号里的名字"
+"件。 Ubuntu 的命名遵从“ YY.MM (name)”， YY 代表年份， MM 指月份。在括号里的名字"
 "是预发布版的开发代号。"
 
 #: chapter1/xinclude.xml:311(para)
+#, fuzzy
 msgid ""
 "Each release is supported for 18 months; Long Term Support releases (LTS) "
 "are supported for 3 years on the desktop and 5 years on the server."
 msgstr ""
-"每一个正式版都将被支持18个月，长期支持版（ Long Term Support realease, LTS ）"
+"每一个正式版都将被支持18个月，长期支持版( Long Term Support realease, LTS )"
 "桌面版本是3年，服务器版本是5年。"
 
 #: chapter1/xinclude.xml:322(para)
+#, fuzzy
 msgid "A brief history of releases:"
 msgstr "Ubuntu 正式版的简要历史："
 
@@ -605,7 +610,7 @@ msgid ""
 "after the collective noun for warthogs. The Sounder mailing list continues "
 "today as an open discussion forum for the community."
 msgstr ""
-"4.10版本的早期测试社区被称做 Sounder —— warthogs （疣猪）的集体名词。 "
+"4.10版本的早期测试社区被称做 Sounder —— warthogs (疣猪)的集体名词。 "
 "Sounder 邮件列表直到今天仍在使用，作为社区的一个开放讨论论坛。"
 
 #: chapter1/xinclude.xml:342(title)
@@ -657,6 +662,7 @@ msgid "Ubuntu 7.04 (Feisty Fawn)"
 msgstr "Ubuntu 7.04 (Feisty Fawn)"
 
 #: chapter1/xinclude.xml:378(para)
+#, fuzzy
 msgid ""
 "Released in April 2007. This version introduced significant improvements to "
 "network roaming; supported until October 2008."
@@ -703,6 +709,7 @@ msgid "Ubuntu 9.04 (Jaunty Jackalope)"
 msgstr "Ubuntu 9.04 (Jaunty Jackalope)"
 
 #: chapter1/xinclude.xml:413(para)
+#, fuzzy
 msgid ""
 "Releasadin April 2009. Ubuntu 9.04 is the latest cutting edge Ubuntu "
 "release, bringing the Eucalyptus Cloud to the Ubuntu community. This release "
@@ -721,9 +728,10 @@ msgstr "2009年10月发布，支持到2011年4月。"
 
 #: chapter1/xinclude.xml:428(title)
 msgid "Ubuntu Derivatives"
-msgstr "Ubuntu 的派生版"
+msgstr "Ubuntu 的衍生版"
 
 #: chapter1/xinclude.xml:429(para)
+#, fuzzy
 msgid ""
 "Ubuntu is also available in several editions such as Ubuntu, Edubuntu, "
 "Kubuntu and Xubuntu. Edubuntu is Ubuntu customised for the school "
@@ -734,7 +742,7 @@ msgid ""
 "highly efficient desktop environment on faster systems."
 msgstr ""
 "Ubuntu 也有很多修改版本，例如 Ubuntu 、 Edubuntu 、 Kubuntu 、 Xubuntu 。 "
-"Edubuntu 是为教育定制的。 Kubuntu 是官方的使用 KDE 作为桌面环境的派生版。 "
+"Edubuntu 是为教育定制的。 Kubuntu 是官方的使用 KDE 作为桌面环境的衍生版。 "
 "KDE 是一个强大的图形桌面环境，强调易于使用和人性化。 Xubuntu 是为低性能计算机"
 "设计的，寻找高效率桌面环境的用户也可以选择它。"
 
@@ -743,6 +751,7 @@ msgid "Ubuntu Development and the Community"
 msgstr "Ubuntu 开发和社区"
 
 #: chapter1/xinclude.xml:439(para)
+#, fuzzy
 msgid ""
 "Ubuntu is a joint collaboration project comprised of Ubuntu community "
 "members all around the world. Since its inception in 2004, thousands of "
@@ -757,7 +766,7 @@ msgstr ""
 "Ubuntu 社区里有来自世界各地的成员，他们互相合作，共同开发，组成了 Ubuntu 项"
 "目。自从2004年社区诞生以来，数以千计的贡献者加入到社区当中。他们编写代码、宣"
 "传 Ubuntu 、美术工作、翻译、测试、编写文档等等，这里只例举了一小部分。 "
-"Ubuntu 的开发过程对所有人都是透明和开放的，无论你是一个初学者，还是一个有经验"
+"Ubuntu 的开发过程对所有人都是透明和开放的，无论您是一个初学者，还是一个有经验"
 "的开发者—— Ubuntu 欢迎每一个人参与其中，改进 Ubuntu 。 Canonical 也雇佣开发者"
 "为 Ubuntu 做贡献。"
 
@@ -766,6 +775,7 @@ msgid "How you can get involved"
 msgstr "如何参与"
 
 #: chapter1/xinclude.xml:452(para)
+#, fuzzy
 msgid ""
 "The Ubuntu community is made of many individuals and teams who work on "
 "different aspects of Ubuntu. If you are a developer, you can participate in "
@@ -775,9 +785,9 @@ msgid ""
 "documentation, assist with training material, join Web forums and the "
 "mailing lists of Ubuntu. There are lots of ways to get involved!"
 msgstr ""
-"社区中的团队和个人，都在为 Ubuntu 做某一类或者多类的工作。如果你是一个开发"
-"者，你可以参与内核开发、编写新应用程序、打包软件和修正缺陷。如果你是一个艺术"
-"家，你可以改进 Ubuntu 的使用感受，让它更人性化。你也可以提供在线支持，撰写文"
+"社区中的团队和个人，都在为 Ubuntu 做某一类或者多类的工作。如果您是一个开发"
+"者，您可以参与内核开发、编写新应用程序、打包软件和修正缺陷。如果您是一个艺术"
+"家，您可以改进 Ubuntu 的使用体验，让它更人性化。您也可以提供在线支持，撰写文"
 "档，协助整理/翻译教学资料，加入网上的 Ubuntu 论坛和邮件列表……参与的方式太多"
 "了！"
 
@@ -786,6 +796,7 @@ msgid "Developer Zone"
 msgstr "开发者地带"
 
 #: chapter1/xinclude.xml:464(para)
+#, fuzzy
 msgid ""
 "The developer zone is comprised of developers who create and package "
 "software, fix bugs and maintain Ubuntu. They are responsible for ensuring "
@@ -794,7 +805,7 @@ msgid ""
 "https://wiki.ubuntu.com/MOTU/GettingStarted."
 msgstr ""
 "开发者聚集在这里，他们开发和打包软件，修正缺陷，维护 Ubuntu 。他们的工作是确"
-"保 Ubuntu 有丰富多彩的，可靠的，平稳的软件。如果你想成为软件打包者，加入 "
+"保 Ubuntu 有丰富多彩的，可靠的，平稳的软件。如果您想成为软件打包者，加入 "
 "MOTU 是个很好的初学者开始的方法。访问 https://wiki.ubuntu.com/MOTU/"
 "GettingStarted 。"
 
@@ -803,19 +814,22 @@ msgid "Idea Pool"
 msgstr "头脑风暴"
 
 #: chapter1/xinclude.xml:473(para)
+#, fuzzy
 msgid ""
 "If you have ideas for projects, proposals and enhancements but do not "
 "necessarily want to implement them, you can add the ideas into the idea pool "
 "available at https://wiki.ubuntu.com/IdeaPool."
 msgstr ""
-"如果你有什么好的想法和建议，不一定要去实现他们，也可以提交到 Ubuntu 头脑风"
+"如果您有什么好的想法和建议，不一定要去实现他们，也可以提交到 Ubuntu 头脑风"
 "暴： http://brainstorm.ubuntu.com/"
 
 #: chapter1/xinclude.xml:479(title)
+#, fuzzy
 msgid "Technical Users"
 msgstr "技术用户"
 
 #: chapter1/xinclude.xml:484(para)
+#, fuzzy
 msgid ""
 "Test the pre-release versions of Ubuntu to help find bugs before the final "
 "release."
@@ -826,13 +840,15 @@ msgid "Report bugs and help the development team analyse them."
 msgstr "报告缺陷，帮助开发团队分析它们。"
 
 #: chapter1/xinclude.xml:492(para)
+#, fuzzy
 msgid ""
 "Triage (edit and categorise) bugs to read, assess and sort them before they "
 "can be fixed."
 msgstr ""
-"筛选（编辑和分类）出需要阅读的缺陷，进行评估和分类，便于更快的解决问题。"
+"筛选(编辑和分类)出需要阅读的缺陷，进行评估和分类，便于更快的解决问题。"
 
 #: chapter1/xinclude.xml:496(para)
+#, fuzzy
 msgid ""
 "Join an e-mail support list or discussion list on the Ubuntu mailing lists."
 msgstr "加入一个 Ubuntu 邮件列表中的一个支持列表或者讨论列表。"
@@ -846,15 +862,15 @@ msgid ""
 "Join the Ubuntu support and discussion Internet Relay Chat (IRC) channel, "
 "which is a form of real-time Internet chat."
 msgstr ""
-"加入 Ubuntu ”支持和讨论“ IRC 频道（互联网中继聊天， Internet Relay Chat ，一"
-"种即时通讯方式）。"
+"加入 Ubuntu ”支持和讨论“ IRC 频道(互联网中继聊天， Internet Relay Chat ，一"
+"种即时通讯方式)。"
 
 #: chapter1/xinclude.xml:480(para)
 msgid ""
 "If you have the requisite technical skills, you can contribute to the Ubuntu "
 "community in the following ways: <placeholder-1/>"
 msgstr ""
-"如果你具有必需的技术能力，你可以选择以下的方式为 Ubuntu 做贡献：<placeholder-"
+"如果您具有必需的技术能力，您可以选择以下的方式为 Ubuntu 做贡献：<placeholder-"
 "1/>"
 
 #: chapter1/xinclude.xml:510(title)
@@ -881,7 +897,7 @@ msgstr "宣传"
 msgid ""
 "Even if you do not have technical knowledge of Ubuntu, you can help Ubuntu "
 "users through the following projects: <placeholder-1/>"
-msgstr "就算你不具备技术方面的知识，一样可以帮助 Ubuntu ，通过如下的方式："
+msgstr "就算您不具备技术方面的知识，一样可以帮助 Ubuntu ，通过如下的方式："
 
 #: chapter1/xinclude.xml:529(title)
 msgid "Ubuntu Desktop Course Development"
@@ -899,7 +915,7 @@ msgid ""
 msgstr ""
 "Canonical 的一项重要工作就是让尽可能多的计算机和服务器安装上 Ubuntu ，让 "
 "Ubuntu 遍布世界的每一个角落。培训可以推动人们选择 Ubuntu 。严格来讲，课程的内"
-"容包括 Ubuntu 专家认证，协助合作伙伴部署 Ubuntu ，向桌面用户（比如您）展示如"
+"容包括 Ubuntu 专家认证，协助合作伙伴部署 Ubuntu ，向桌面用户(比如您)展示如"
 "何使用 Ubuntu 并让它发挥最大的效能。更多关于 Ubuntu 培训和认证的内容，请访"
 "问： http://www.ubuntu.com/training 。"
 
@@ -1151,10 +1167,10 @@ msgid ""
 "a result, you are not stuck with using one version because it was the first "
 "you installed."
 msgstr ""
-"通过这门课程你很快就会发现， Ubuntu 就是让你来设计和发挥个性的操作系统。不同"
-"风格的 Ubuntu 可以同时运行，比如，你可以同时安装 Kubuntu （ KDE ）桌面和 "
-"Ubuntu （ GNOME ）桌面，随心所欲的选择使用哪一个。通过互联网， Ubuntu 提供了"
-"超过17000的软件包，访问和安装它们也非常的方便，这样你就不需要只是局限在你第一"
+"通过这门课程您很快就会发现， Ubuntu 就是让您来设计和发挥个性的操作系统。不同"
+"风格的 Ubuntu 可以同时运行，比如，您可以同时安装 Kubuntu ( KDE )桌面和 "
+"Ubuntu ( GNOME )桌面，随心所欲的选择使用哪一个。通过互联网， Ubuntu 提供了"
+"超过17000的软件包，访问和安装它们也非常的方便，这样您就不需要只是局限在您第一"
 "次安装的软件当中了。"
 
 #: chapter1/xinclude.xml:890(para)
@@ -1248,7 +1264,7 @@ msgid ""
 "need to be purchased."
 msgstr ""
 "有些计算机预装了 Microsoft Windows 或者 Ubuntu 。但是，要自己安装的话， "
-"Ubuntu 可以自由的从互联网上现在或者你可以申请一张免费的光盘，而 Microsoft "
+"Ubuntu 可以自由的从互联网上现在或者您可以申请一张免费的光盘，而 Microsoft "
 "Windows 都需要购买。"
 
 #: chapter1/xinclude.xml:1027(para)
@@ -1258,7 +1274,7 @@ msgid ""
 "install it. If you don't, pass it on to a friend. The live-CD option is also "
 "useful for system recovery."
 msgstr ""
-"Ubuntu 以 live-CD 的形式发布，这意味着你可以不安装它而直接从光盘运行。如果你"
+"Ubuntu 以 live-CD 的形式发布，这意味着您可以不安装它而直接从光盘运行。如果您"
 "喜欢它，再安装。如果不，把它送给朋友。 live-CD 在恢复系统时也很有用。"
 
 #: chapter1/xinclude.xml:1032(para)
@@ -1284,8 +1300,8 @@ msgid ""
 "installation method. Microsoft Vista has a Digital Locker feature enables "
 "users to purchase software online and download it in a protected manner."
 msgstr ""
-"在 Ubuntu 中，你可以使用 Ubuntu 软件中心和新立得软件包管理器来添加软件。添加/"
-"删除 应用程序中你可以从 Ubuntu 推荐的自由软件中选择你想要的。在 Microsoft "
+"在 Ubuntu 中，您可以使用 Ubuntu 软件中心和新立得软件包管理器来添加软件。添加/"
+"删除 应用程序中您可以从 Ubuntu 推荐的自由软件中选择您想要的。在 Microsoft "
 "Windows 中，每个软件有自己的安装方法。 Microsoft Vista 的数字锁定机制下，用户"
 "可以在线购买和受限制地下载软件。"
 
@@ -1354,8 +1370,8 @@ msgid ""
 "Includes Microsoft Windows Media Player 11 (WMP) and Microsoft Windows Media "
 "Center (WMC)"
 msgstr ""
-"包括 Microsoft Windows 媒体播放器11（ WMP ）和 Microsoft Windows 媒体中心"
-"（ WMC ）"
+"包括 Microsoft Windows 媒体播放器11( WMP )和 Microsoft Windows 媒体中心"
+"( WMC )"
 
 #: chapter1/xinclude.xml:1184(emphasis)
 msgid "Image Editing and Picture Management"
@@ -1394,7 +1410,7 @@ msgid ""
 "Microsoft Windows."
 msgstr ""
 "Mozilla Firefox 是 Ubuntu 预装的网页浏览器， Internet Explorer 则是 Vista 预"
-"装的。你也可以在 Microsoft Windows 上安装 Firefox 。"
+"装的。您也可以在 Microsoft Windows 上安装 Firefox 。"
 
 #: chapter1/xinclude.xml:1230(para)
 msgid ""
@@ -1408,10 +1424,10 @@ msgid ""
 "PIM. Ubuntu users enjoy the out-of-the-box mail client setup facility."
 msgstr ""
 "Evolution 是 Ubuntu 默认的邮件客户端，支持 POP 账户、传统 Unix 邮箱和通过 "
-"Outlook Web Access 连接 Exchange 服务器。它内建了个人信息管理器（ Personal "
-"Information Manager, PIM ）和日程管理系统。 Vista 中的 Windows 邮件应用程序"
+"Outlook Web Access 连接 Exchange 服务器。它内建了个人信息管理器( Personal "
+"Information Manager, PIM )和日程管理系统。 Vista 中的 Windows 邮件应用程序"
 "是 Outlook 重写而成的，日程管理系统被剥离出来成了 Microsoft Windows 日历。如"
-"果你有一个完整功能的个人信息管理器或者经常使用日程功能，建议你升级到 "
+"果您有一个完整功能的个人信息管理器或者经常使用日程功能，建议您升级到 "
 "Outlook 。 Evoultion 则提供有方便的一键设置功能。"
 
 #: chapter1/xinclude.xml:1242(title)
@@ -1434,7 +1450,7 @@ msgid ""
 "an additional cost. <placeholder-1/>"
 msgstr ""
 "Ubuntu 默认安装了 Openoffice.org 办公套件，提供 Microsoft Office 绝大多数的功"
-"能。 Vista 默认的是写字板，全功能的 Microsoft Word （或者 Office ）需要另外付"
+"能。 Vista 默认的是写字板，全功能的 Microsoft Word (或者 Office )需要另外付"
 "费。"
 
 #: chapter1/xinclude.xml:1269(title)
@@ -1451,7 +1467,7 @@ msgid ""
 msgstr ""
 "Ubuntu 默人安装了多个多媒体程序，比如 Brasero 光盘刻录器， Rhythmbox 音乐播放"
 "器，电影播放器和录音器。 Rhythmbox 是默认的播放和管理音乐、播放列表的程序，有"
-"些像 Microsoft Windows 媒体播放器。你可以用 Brasero 制作音频光盘。"
+"些像 Microsoft Windows 媒体播放器。您可以用 Brasero 制作音频光盘。"
 
 #: chapter1/xinclude.xml:1274(para)
 msgid ""
@@ -1460,7 +1476,7 @@ msgid ""
 "restrictions. Playback of mp3 files is enabled by default on some versions "
 "of Microsoft Windows."
 msgstr ""
-"要在 Ubuntu 上播放 mp3 文件，你需要安装一个解码器包。因为许可证限制的原因， "
+"要在 Ubuntu 上播放 mp3 文件，您需要安装一个解码器包。因为许可证限制的原因， "
 "Ubuntu 不会默认安装它。某些版本的 Microsoft Windows 中默认支持播放 mp3 文件。"
 
 #: chapter1/xinclude.xml:1279(para)
@@ -1472,9 +1488,9 @@ msgid ""
 "of WMP, you can search music numbers by a particular artist or search for "
 "specific numbers."
 msgstr ""
-"Vista 有两个多媒体程序： Windows 媒体播放器（简称 WMP ）和 Windows 媒体中心"
-"（简称 WMC ）。 WMP 用于播放音乐，它支持大音乐库和索引检索系统，你可以按艺术"
-"家搜索，也可以搜索一段具体的音乐。 WMC 则可以把你的计算机变成媒体中心。"
+"Vista 有两个多媒体程序： Windows 媒体播放器(简称 WMP )和 Windows 媒体中心"
+"(简称 WMC )。 WMP 用于播放音乐，它支持大音乐库和索引检索系统，您可以按艺术"
+"家搜索，也可以搜索一段具体的音乐。 WMC 则可以把您的计算机变成媒体中心。"
 
 #: chapter1/xinclude.xml:1288(title)
 msgid "Image Editing and Picture Management:"
@@ -1489,8 +1505,8 @@ msgid ""
 "seamlessly with popular Web based image databases, such as Flickr and Picasa "
 "Web."
 msgstr ""
-"Microsoft Vista 的 Picture Gallery 程序里，你可以上传任何图片和加标签，你可以"
-"快速组织、处理图片，因为可以一键添加标签。 Ubuntu 中 F-Spot 照片管理器组织你"
+"Microsoft Vista 的 Picture Gallery 程序里，您可以上传任何图片和加标签，您可以"
+"快速组织、处理图片，因为可以一键添加标签。 Ubuntu 中 F-Spot 照片管理器组织您"
 "的个人照片，它无缝整合了流行的网络相册，如 Flickr 和 Picasa Web 。"
 
 #: chapter1/xinclude.xml:1297(para)
@@ -1512,7 +1528,7 @@ msgstr "本课小结"
 
 #: chapter1/xinclude.xml:1312(para)
 msgid "In this lesson, you learned:"
-msgstr "在本课中，你学到了："
+msgstr "在本课中，您学到了："
 
 #: chapter1/xinclude.xml:1315(para)
 msgid "The fundamental concepts of open source"
@@ -1553,13 +1569,13 @@ msgstr "研究软件工作原理及修改软件的自由——满足自己的需
 
 #: chapter1/xinclude.xml:1362(para)
 msgid "The freedom to redistribute copies so you can help others."
-msgstr "将软件的拷贝分发给别人的自由——帮助你的邻居。"
+msgstr "将软件的拷贝分发给别人的自由——帮助您的邻居。"
 
 #: chapter1/xinclude.xml:1366(para)
 msgid ""
 "The freedom to improve the programme and release your improvements to the "
 "public, so that everyone benefits."
-msgstr "改进软件及发布你自己的改进版的自由——让每个人都从中收益。"
+msgstr "改进软件及发布您自己的改进版的自由——让每个人都从中收益。"
 
 #: chapter1/xinclude.xml:1375(para)
 msgid "What is the Ubuntu promise?"
