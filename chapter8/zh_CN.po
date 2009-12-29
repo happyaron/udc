@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-29 00:29+0800\n"
+"PO-Revision-Date: 2009-12-29 23:34+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1033,7 +1033,7 @@ msgstr "播放音频 CD"
 
 #: chapter8/xinclude.xml:543(para)
 msgid "Notice that Sound Juicer has fetched the track information from MusicBrainz.org. In the upper part of the Sound Juicer window, you can see the basic information about the disc, including title, artist, genre and total duration. The lower part of the window displays a list of tracks, each with its full title, artist and duration."
-msgstr "注意到音乐榨汁机已经从 MusicBrainz.org 取回了曲目信息。可以在音乐榨汁机窗口的上部查看此光盘的基本信息，包括标题、艺人、流派和总时长等。窗口的下部显示曲目列表，包含了歌名、艺人和时间。"
+msgstr "此时音乐榨汁机已经从 MusicBrainz.org 取回了曲目信息。可以在音乐榨汁机窗口的上部查看此光盘的基本信息，包括标题、艺人、流派和总时长等。窗口的下部显示曲目列表，包含了歌名、艺人和时间。"
 
 #: chapter8/xinclude.xml:552(para)
 msgid "To play only the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes and then click the <emphasis role=\"strong\">Play</emphasis> button."
@@ -1057,15 +1057,15 @@ msgstr "提取音频 CD"
 
 #: chapter8/xinclude.xml:587(para)
 msgid "If you want to listen to your favourite music tracks without needing to insert a CD every time, you can create a copy of the CD and extract the music tracks on your computer."
-msgstr "如果想欣赏最喜欢的曲目而不用每次都插入 CD，可以创建 CD 的一个副本并提取曲目到计算机。"
+msgstr "如果想欣赏喜欢的曲目而不用每次都插入 CD，可以创建 CD 的一个副本并提取曲目到计算机。"
 
 #: chapter8/xinclude.xml:592(title)
 msgid "To extract the audio CD:"
-msgstr "要提取音频 CD："
+msgstr "提取音频 CD："
 
 #: chapter8/xinclude.xml:595(para)
 msgid "Insert the audio CD and click the <emphasis role=\"strong\">Extract</emphasis> button. However, if you want to define the audio quality, format and the location where the files would be stored, click <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu. This displays the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
-msgstr "插入音频 CD 并点击 <emphasis role=\"strong\">提取</emphasis> 按钮。但是，如果想定义音频质量、格式和文件存储的位置，点击 <emphasis role=\"strong\">编辑</emphasis> 菜单上的 <emphasis role=\"strong\">首选项</emphasis>。此操作显示 <emphasis role=\"strong\">首选项</emphasis> 对话框。"
+msgstr "插入音频 CD 并点击 <emphasis role=\"strong\">提取</emphasis> 按钮。若想定义音频质量、格式和文件存储的位置等信息，点击 <emphasis role=\"strong\">编辑</emphasis> 菜单上的 <emphasis role=\"strong\">首选项</emphasis>按钮。将弹出 <emphasis role=\"strong\">首选项</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:600(title)
 msgid "Defining Preferences For Audio Files"
@@ -1073,15 +1073,15 @@ msgstr "为音频文件设定参数"
 
 #: chapter8/xinclude.xml:611(para)
 msgid "You can use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define a number of things such as how the folder hierarchy should be saved, how the files should be named and whether to eject the CD automatically after the tracks are extracted."
-msgstr "可以使用 <emphasis role=\"strong\">首选项</emphasis> 对话框定义一些性质，如应该以什么样的文件夹层次保存，文件如何命名以及提取了曲目后是否自动弹出 CD。"
+msgstr "可以使用 <emphasis role=\"strong\">首选项</emphasis> 对话框定义一些属性，如以什么样的文件夹层次保存文件，文件如何命名以及提取曲目后是否自动弹出 CD 等。"
 
 #: chapter8/xinclude.xml:616(para)
 msgid "In the last section of the <emphasis role=\"strong\">Preferences</emphasis> dialogue box, you can define the file format in which the tracks would be stored on your computer. Based on your requirements, select any one format from the <emphasis role=\"strong\">Output Format</emphasis> drop-down list."
-msgstr "在 <emphasis role=\"strong\">首选项</emphasis> 对话框的最后一部分中，可以定义曲目以何种文件格式保存到计算机上。根据需求，从 <emphasis role=\"strong\">输出格式</emphasis> 下拉菜单中选择任何一种格式。"
+msgstr "在 <emphasis role=\"strong\">首选项</emphasis> 对话框的最后一部分中，可以定义曲目以何种文件格式保存到计算机上。从 <emphasis role=\"strong\">输出格式</emphasis> 下拉菜单中选择所需格式。"
 
 #: chapter8/xinclude.xml:625(para)
 msgid "You can also extract CD audio files to the proprietary, non-free MP3 format. Instructions for extracting audio files into the MP3 format can be found in the help for Sound Juicer. Go to <emphasis role=\"strong\">Help&gt;Content</emphasis> and then navigate to the Preferences section."
-msgstr "也可以以私有、非自由的 MP3 格式提取音频文件。以 MP3 格式提取音频文件的指导可以在音乐榨汁机的帮助中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到首选项节。"
+msgstr "也可以以私有、非自由的 MP3 格式提取音频文件。其操作指导可以在音乐榨汁机的帮助文档中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到首选项节。"
 
 #: chapter8/xinclude.xml:633(title)
 msgid "Specifying Audio Format"
@@ -1089,7 +1089,7 @@ msgstr "指定音频格式"
 
 #: chapter8/xinclude.xml:644(para)
 msgid "Each of these file format has its own customisable profile. Depending on the type of the music track and the destination where it has to be stored, you may need to customise these file formats. Click the <emphasis role=\"strong\">Edit Profiles</emphasis> button, then select the desired profile and click the <emphasis role=\"strong\">Edit</emphasis> button to edit the profile of the selected file format according to your needs."
-msgstr "每种文件格式都有自身可定义的配置文件。根据音乐曲目的类型和已经存储到的位置，需要自定义这些文件格式。点击 <emphasis role=\"strong\">Edit Profiles</emphasis> 按钮然后选择希望的配置文件并点击 <emphasis role=\"strong\">Edit</emphasis> 以根据需要编辑选定文件格式的配置文件。"
+msgstr "每种文件格式都有自身可定义的配置文件。需要设置这些文件来定义音乐曲目的类型和预存储到的位置。点击 <emphasis role=\"strong\">编辑配置文件</emphasis> 按钮然后选择需要配置的文件并点击 <emphasis role=\"strong\">编辑</emphasis> ，根据需要编辑该配置文件。"
 
 #: chapter8/xinclude.xml:652(title)
 msgid "Editing Audio Profile"
@@ -1097,7 +1097,7 @@ msgstr "编辑音频配置文件"
 
 #: chapter8/xinclude.xml:663(para)
 msgid "The <emphasis role=\"strong\">Editing profile</emphasis> dialogue box for the selected audio profile is displayed. You can edit the audio profile according to your requirements and the click <emphasis role=\"strong\">Close</emphasis> to exit."
-msgstr "显示对选中的音频配置文件的 <emphasis role=\"strong\">编辑配置文件</emphasis> 对话框。可以根据要求编辑音频配置文件并点击 <emphasis role=\"strong\">关闭</emphasis> 退出。"
+msgstr "显示对选中文件的 <emphasis role=\"strong\">编辑配置文件</emphasis> 对话框。可以根据需要编辑音频配置文件并点击 <emphasis role=\"strong\">关闭</emphasis> 退出。"
 
 #: chapter8/xinclude.xml:669(title)
 msgid "Customising Audio Profile"
@@ -1105,7 +1105,7 @@ msgstr "自定义音频配置文件"
 
 #: chapter8/xinclude.xml:680(para)
 msgid "You can also use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define the location where you want the audio files to be stored on your computer. By default, Sound Juicer stores the audio files in the Home directory. To define a location of your choice, select a directory from the <emphasis role=\"strong\">Music Folder</emphasis> drop-down list and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
-msgstr "可以使用 <emphasis role=\"strong\">首选项</emphasis> 对话框定义输出的音频文件在计算机上的存放位置。默认上，音乐榨汁机存放音频文件到 home 目录。要根据您的选择，从 <emphasis role=\"strong\">音乐文件</emphasis> 下拉菜单选择一个目录并点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong\">首选项</emphasis> 对话框。"
+msgstr "也可以使用 <emphasis role=\"strong\">首选项</emphasis> 对话框定义输出的音频文件在计算机上的存放位置。默认时，音乐榨汁机存放音频文件到 home 目录下。可从 <emphasis role=\"strong\">音乐文件</emphasis> 下拉菜单选择存放目录。点击 <emphasis role=\"strong\">关闭</emphasis> 按钮退出 <emphasis role=\"strong\">首选项</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:690(title)
 msgid "Specifying Audio File Location"
@@ -1113,11 +1113,11 @@ msgstr "指定音频文件位置"
 
 #: chapter8/xinclude.xml:701(para)
 msgid "After configuring your preferences, you can go ahead and start extracting all the tracks by clicking the <emphasis role=\"strong\">Extract</emphasis> button. However, if you want to exclude some tracks, deselect them by clearing the corresponding check boxes."
-msgstr "设置了首选项之后，可以继续并通过点击 <emphasis role=\"strong\">导出</emphasis> 按钮开始导出所有曲目。如果，希望排除一些曲目，通过清除对应的复选框反选他们。"
+msgstr "设置了首选项之后，点击 <emphasis role=\"strong\">导出</emphasis> 按钮开始导出所有曲目。如果希望排除一些曲目，可通过清除对应的复选框取消。"
 
 #: chapter8/xinclude.xml:706(para)
 msgid "Depending on the speed of your computer, the extracting process can take a long time. You can watch the total progress of the process in the lower left section of the <emphasis role=\"strong\">Sound Juicer</emphasis> window."
-msgstr "依赖于您计算机的速度，提取过程可能要用去很长时间。可以在 <emphasis role=\"strong\">Sound Juicer</emphasis> 窗口左下部分看到整个过程的进度。"
+msgstr "提取过程所需的时间依赖于您计算机的速度。可以在 <emphasis role=\"strong\">Sound Juicer</emphasis> 窗口左下方看到整个过程的进度。"
 
 #: chapter8/xinclude.xml:711(title)
 msgid "Extracting Song Tracks"
@@ -1126,7 +1126,7 @@ msgstr "提取歌曲曲目"
 #: chapter8/xinclude.xml:722(para)
 #: chapter8/xinclude.xml:3153(para)
 msgid "Sound Juicer notifies you after the selected tracks are extracted successfully. Click <emphasis role=\"strong\">Open</emphasis> to view the tracks copied on your hard disk."
-msgstr "选中的曲目提取成功时，音乐榨汁机将通知您。点击 <emphasis role=\"strong\">打开</emphasis> 来查看复制到您硬盘上的曲目。"
+msgstr "曲目提取成功后，音乐榨汁机将及时通知您。点击 <emphasis role=\"strong\">打开</emphasis> 查看曲目。"
 
 #: chapter8/xinclude.xml:727(title)
 msgid "Viewing Copied Tracks"
@@ -1135,7 +1135,7 @@ msgstr "查看复制的曲目"
 #: chapter8/xinclude.xml:738(para)
 #: chapter8/xinclude.xml:3159(para)
 msgid "The CD audio tracks are now copied as audio files on your hard disk. You can listen to these tracks by simply double-clicking them."
-msgstr "CD 音频曲目现在复制为了一个硬盘上的音频文件。可以通过简单的双击它们来欣赏这些曲目。"
+msgstr "CD 音频曲目现在复制为了一个硬盘上的音频文件。通过双击曲目便可播放。"
 
 #: chapter8/xinclude.xml:743(title)
 msgid "The Copied Tracks"
@@ -1147,16 +1147,16 @@ msgstr "刻录音频 CD"
 
 #: chapter8/xinclude.xml:759(para)
 msgid "Besides copying audio tracks from a CD to your computer, Ubuntu also enables you to copy music files from your computer onto a CD or DVD. Brasero is the CD/DVD burner application that comes bundled with Ubuntu, by default. It is an easy-to-use application that also allows CD/DVD data disc creation, CD/DVD copying and burning of existing images to CD/DVD."
-msgstr "除了从 CD 复制音乐曲目到计算机，Ubuntu 也支持允许您从计算机复制音乐文件到光盘。Brasero 是 Ubuntu 默认捆绑的光盘刻录程序。它是一个易用的程序，也允许数据光盘创建、光盘复制和刻录已有镜像到光盘。"
+msgstr "除了可以从 CD 复制音乐曲目到计算机，Ubuntu 也支持从计算机复制音乐文件到光盘。Brasero 是 Ubuntu 默认捆绑的光盘刻录程序。它是一个易用的程序，支持数据光盘创建、光盘复制和刻录已有镜像到光盘。"
 
 #: chapter8/xinclude.xml:766(title)
 #: chapter8/xinclude.xml:3176(title)
 msgid "To burn an audio CD:"
-msgstr "要刻录音频 CD"
+msgstr "刻录音频 CD"
 
 #: chapter8/xinclude.xml:769(para)
 msgid "Launch Brasero by selecting the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Brasero Disc Burning</emphasis>. The Brasero window is displayed."
-msgstr "通过选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Brasero 光盘刻录器</emphasis>。就显示 Brasero 窗口。"
+msgstr "选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单，单击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Brasero 光盘刻录器</emphasis> ，弹出 Brasero 窗口。"
 
 #: chapter8/xinclude.xml:775(title)
 msgid "Launching Brasero"
@@ -1165,7 +1165,7 @@ msgstr "启动 Brasero"
 # 怀疑此处原文有错
 #: chapter8/xinclude.xml:786(para)
 msgid "The <emphasis role=\"strong\">Brasero Window</emphasis> displays. Click the <emphasis role=\"strong\">Audio Project</emphasis> button. You will need to navigate to the folder containing the audio tracks you wish to add to the new CD project."
-msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。将需要导航到包含想要添加到新 CD 项目音频曲目的文件夹。"
+msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。您需要在这里导航到包含所需曲目的文件夹。"
 
 #: chapter8/xinclude.xml:792(title)
 msgid "Starting a new Audio Project"
@@ -1175,9 +1175,10 @@ msgstr "启动一个新音频工程"
 msgid "The New Audio Project window"
 msgstr "新音频工程窗口"
 
+# bushihenqingchu
 #: chapter8/xinclude.xml:814(para)
 msgid "Now you need to specify the files that you want to be copied onto the blank CD. To start specifying the desired audio files, click the <emphasis role=\"strong\">Music</emphasis> folder. This displays the contents of any items previously imported. Double-click the title of the folder where the music files are located. The files are listed in the middle window. You can now add files to the project using any of the methods described in the right side window."
-msgstr "现在需要指定要复制到空白 CD 上的文件。要开始指定希望的音频文件，点击 <emphasis role=\"strong\">Music</emphasis> 文件夹。此操作显示先前导入的任何条目的内容。双击方有音乐文件文件夹的标题。文件在中间窗口中列出。现在可以使用任何在右边窗口中说明的方法向项目添加文件。"
+msgstr "现在需要指定预刻录的文件。点击 <emphasis role=\"strong\">Music</emphasis> 展开，在其下指定音频文件。此选项下还显示先前导入过的内容。双击含有音乐文件的文件夹，该文件夹下的文件将在中间窗口列出。用户可以使用右边窗口中列出的方法向项目中添加文件。"
 
 #: chapter8/xinclude.xml:822(title)
 msgid "Specifying Audio Files to Copy"
@@ -1185,7 +1186,7 @@ msgstr "指定要复制的音频文件"
 
 #: chapter8/xinclude.xml:834(para)
 msgid "The selected files now appear in the project window. You can also view the estimated disc usage once these files are written to the disc at the bottom of the project window. Based on this data, you may decide to add or delete some files from your current selection. Once you are sure of the files to be copied to the disc, click the <emphasis role=\"strong\">Burn</emphasis> button to start writing the audio files from your computer to the CD."
-msgstr "选中的文件显示在项目窗口中。也可以在项目窗口底部查看这些文件写入光盘后的磁盘估计使用量。根据这个数据，可以决定从现有的选择中添加或或删除一些文件。确定要复制到光盘的文件后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始从计算机向 CD 写入音频文件。"
+msgstr "选中的文件将显示在项目窗口中。也可以在项目窗口底部查看这些文件写入光盘后将占用的磁盘空间。可以根据这一数据添加或删除一些文件。确定好预刻录的文件后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始向 CD 写入音频文件。"
 
 #: chapter8/xinclude.xml:843(title)
 msgid "Writing Audio Files to Disc"
@@ -1193,7 +1194,7 @@ msgstr "向光盘写入音频文件"
 
 #: chapter8/xinclude.xml:854(para)
 msgid "The Disc Burning Setup window allows you to change the Properties of the project. You can select the <emphasis role=\"strong\">Options</emphasis> checkbox to leave the disc open to add a data session later. Click the <emphasis role=\"strong\">Burn</emphasis> button to begin writing the files to the disc."
-msgstr "光盘刻录设置窗口允许您更改项目的属性。您可以选择 <emphasis role=\"strong\">选项</emphasis> 复选框让光盘保存打开以便稍候添加数据。点击 <emphasis role=\"strong\">Burn</emphasis> 按钮开始写入文件到光盘。"
+msgstr "在光盘刻录设置窗口中可以更改项目的属性。可以通过选中 <emphasis role=\"strong\">选项</emphasis> 复选框让光盘处于打开状态以便稍候添加数据。点击 <emphasis role=\"strong\">Burn</emphasis> 按钮开始将文件写入光盘。"
 
 #: chapter8/xinclude.xml:861(title)
 msgid "Confirming the CD Writing"
@@ -1201,7 +1202,7 @@ msgstr "确认写入 CD"
 
 #: chapter8/xinclude.xml:872(para)
 msgid "Brasero now starts writing the music files to the media disc. You can view the progress in the <emphasis role=\"strong\">Burning Audio Disc</emphasis> dialogue box. This process may take some time depending on the size of the files to be written to disc. Once the process is complete, you have a new CD containing all your favourite songs."
-msgstr "Brasero 现在开始写入音乐文件到媒体光盘。您可以在 <emphasis role=\"strong\">刻录音频光盘</emphasis> 对话框中查看这个过程。这个过程可能需要一些时间，其依赖于要写入到光盘的文件的大小。这个过程完成以后，您就拥有了一个带有您所有喜欢歌的新 CD。"
+msgstr "Brasero 现在开始写入音乐文件到媒体光盘。可以在 <emphasis role=\"strong\">刻录音频光盘</emphasis> 对话框中查看这个过程。此过程所需时间依赖于写入文件的大小。过程完成以后，您便拥有了一张带有您喜欢歌曲的新 CD。"
 
 #: chapter8/xinclude.xml:879(title)
 msgid "Writing an Audio CD"
@@ -1213,7 +1214,7 @@ msgstr "播放私有多媒体格式"
 
 #: chapter8/xinclude.xml:894(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
-msgstr "如前所述，鉴于关于使用私有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。如果希望播放私有格式，需要安装附加多媒体解码器。多媒体解码器是使您可以用特定的格式观看视频或欣赏音乐的小软件。虽然 Ubuntu 默认包含很多解码器，可能还是需要安装更多，因为有很多种不同的多媒体格式并且全部提供是不现实的。"
+msgstr "如前所述，一些私有格式的使用受到法律限制，Ubuntu 默认不提供对这些格式的支持。如果希望播放这些格式，需要安装附加的多媒体解码器。通过这款软件，您可以用特定的格式观看视频或欣赏音乐。虽然 Ubuntu 默认包含很了多解码器，但您可能还是需要安装其他解码器，毕竟文件格式之多，使用一个解码器支持所有的文件格式是不现实的。"
 
 #: chapter8/xinclude.xml:908(para)
 msgid "gstreamer0.10-plugins-ugly"
@@ -1237,32 +1238,32 @@ msgstr "gstreamer0.10-ffmpeg"
 
 #: chapter8/xinclude.xml:903(para)
 msgid "Playback of multimedia files in Ubuntu is handled by the Gstreamer multimedia framework. GStreamer by itself does not provide any multimedia codecs, it relies on codecs that have been packaged into a <emphasis role=\"strong\">plugin</emphasis> that it uses to perform the actual recording and playback. Typical plugins are: <placeholder-1/>"
-msgstr "在 Ubuntu 中播放多媒体文件是由 Gstreamer 对媒体框架处理的。GStreamer 本身并不提供任何多媒体编解码器，它依赖于打包成用于实际执行记录和播放功能的 <emphasis role=\"strong\">插件</emphasis> 的编解码器。典型的插件有：<placeholder-1/>"
+msgstr "在 Ubuntu 中播放多媒体文件是由 Gstreamer 多媒体框架处理的。GStreamer 本身并不提供任何多媒体编解码器，而是依赖于打包成<emphasis role=\"strong\">插件</emphasis> 的编解码器，以执行记录和播放功能的。典型的插件有：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:931(para)
 msgid "To know more about which Gstreamer package contains which plugins, visit the following Web site: <ulink url=\"http://gstreamer.freedesktop.org/documentation/plugins.html\">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>."
-msgstr "要了解关于哪个 Gstreamer 包包含哪些解码器的更多信息，访问如下网址：<ulink url=\"http://gstreamer.freedesktop.org/documentation/plugins.html\">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>。"
+msgstr "预了解 Gstreamer 包中含有的插件，可访问如下网址：<ulink url=\"http://gstreamer.freedesktop.org/documentation/plugins.html\">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>。"
 
 #: chapter8/xinclude.xml:935(para)
 msgid "Other applications, such as VLC, MPlayer and Xine, do not use the Gstreamer framework."
-msgstr "其它程序，如 VLC、MPlayer 和 Xine，不使用 Gstreamer 框架。"
+msgstr " 也有些应用程序不使用 Gstreamer 框架，如VLC、MPlayer、Xine等。"
 
 #: chapter8/xinclude.xml:938(para)
 msgid "You can use the Synaptic Package Manager, or the Command Line Interface (CLI) to install these multimedia codecs available in the repositories."
-msgstr "可以使用新立得软件包管理器或者命令行界面(CLI)来安装那些仓库中可用的多媒体解码器。"
+msgstr "可以使用新立得软件包管理器或者命令终端(CLI)来安装那些软件仓库中可可获得的多媒体解码器。"
 
 #: chapter8/xinclude.xml:945(para)
 msgid "Codecs can be installed directly from the Movie Player. When Movie Player recognizes a format it cannot play, it checks if a Gstreamer plugin is available for this format. If it finds one, you can install the codec easily without following the lengthy solution presented below."
-msgstr "插件可以直接在电影播放器中安装。当电影播放器认出一种它不能播放的格式时，它检查是否有对此种格式的可用 Gstreamer 插件。如果找到了，可以安装容易的安装此编解码器，而不用按照下边给出的冗长的解决方案。"
+msgstr "可以直接在电影播放器中安装解码器。当电影播放器检测到它不能播放的格式时，会自动检查是否有对应的 Gstreamer 插件。如果有，可以直接安装而不用按照下边给出的冗长的解决方案。"
 
 #: chapter8/xinclude.xml:953(title)
 msgid "To install a codec plugin using Synaptic Package Manager:"
-msgstr "要使用新立得软件包管理器安装解码插件："
+msgstr "使用新立得软件包管理器安装解码插件："
 
 #: chapter8/xinclude.xml:956(para)
 #: chapter8/xinclude.xml:3234(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上， 指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">新立得软件包管理器</emphasis>。将打开 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口。"
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上， 点击 <emphasis role=\"strong\">系统管理</emphasis> 下的 <emphasis role=\"strong\">新立得软件包管理器</emphasis>。打开 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口。"
 
 #: chapter8/xinclude.xml:963(title)
 msgid "Launching Synaptic Package Manager"
@@ -1270,7 +1271,7 @@ msgstr "启动新立得软件包管理器"
 
 #: chapter8/xinclude.xml:974(para)
 msgid "The <emphasis role=\"strong\">Multiverse</emphasis> and <emphasis role=\"strong\">Restricted</emphasis> repositories are not activated by default in Ubuntu. To install the additional multimedia codecs, you need to first activate these repositories. On the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories</emphasis>. The <emphasis role=\"strong\">Software</emphasis><emphasis role=\"strong\">Sources</emphasis> dialogue box is displayed."
-msgstr "<emphasis role=\"strong\">Multiverse</emphasis> and <emphasis role=\"strong\">Restricted</emphasis> 仓库在 Ubuntu 中没有默认开启。要安装附加的多媒体编解码器，需要首选激活这些仓库。在 <emphasis role=\"strong\">设置</emphasis> 菜单上，点击 <emphasis role=\"strong\">软件库</emphasis>。将打开 <emphasis role=\"strong\">软件</emphasis><emphasis role=\"strong\">源</emphasis> 对话框。"
+msgstr "<emphasis role=\"strong\">Multiverse</emphasis> and <emphasis role=\"strong\">Restricted</emphasis> 库在 Ubuntu 中没有默认开启。要安装附加的多媒体解码器，需要首选激活这些库。在 <emphasis role=\"strong\">设置</emphasis> 菜单上，点击 <emphasis role=\"strong\">软件库</emphasis> 打开 <emphasis role=\"strong\">软件</emphasis><emphasis role=\"strong\">源</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:979(title)
 msgid "Displaying Software Sources"
@@ -1279,7 +1280,7 @@ msgstr "显示软件源"
 #: chapter8/xinclude.xml:990(para)
 #: chapter8/xinclude.xml:3248(para)
 msgid "To enable the Multiverse and Restricted repositories, select the third and fourth check boxes available on the <emphasis role=\"strong\">Ubuntu Software</emphasis> tabbed page, and click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr "要启用 Multiverse 和 Restricted 仓库，选中在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页上的第三个和第四个复选框，并点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
+msgstr "要启用 Multiverse 和 Restricted 库，选中在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页上的第三个和第四个复选框，然后点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 #: chapter8/xinclude.xml:996(title)
 msgid "Enabling Repositories"
@@ -1288,16 +1289,16 @@ msgstr "启用软件仓库"
 #: chapter8/xinclude.xml:1007(para)
 #: chapter8/xinclude.xml:3255(para)
 msgid "You may receive a notification that your repository information has changed. Click <emphasis role=\"strong\">Close</emphasis> to exit this message."
-msgstr "将收到一个关于软件长如信息已更改新的信息。点击 <emphasis role=\"strong\">关闭</emphasis> 退出此消息。"
+msgstr "您将收到一个关于库信息已更改新的提示信息。点击 <emphasis role=\"strong\">关闭</emphasis> 退出此消息。"
 
 #: chapter8/xinclude.xml:1012(title)
 msgid "Repositories Information Notification"
-msgstr "软件仓库信息通知"
+msgstr "软件库信息通知"
 
 #: chapter8/xinclude.xml:1023(para)
 #: chapter8/xinclude.xml:3261(para)
 msgid "Once you return to the Synaptic Package Manager window, you are required to click the <emphasis role=\"strong\">Reload</emphasis> button to apply your changes."
-msgstr "一旦您返回到新立得软件包管理器窗口，您需要点击 <emphasis role=\"strong\">刷新</emphasis> 按钮来提交您的更改。"
+msgstr "返回到新立得软件包管理器窗口，点击 <emphasis role=\"strong\">刷新</emphasis> 按钮来提交您的更改。"
 
 #: chapter8/xinclude.xml:1028(title)
 msgid "Applying Changes"
@@ -1306,7 +1307,7 @@ msgstr "提交更改"
 #: chapter8/xinclude.xml:1039(para)
 #: chapter8/xinclude.xml:3267(para)
 msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
-msgstr "点击 <emphasis role=\"strong\">Reload</emphasis> 按钮，系统开始检查软件仓库以获取新加入的、移除的或更新了版本的软件包。"
+msgstr "点击 <emphasis role=\"strong\">刷新</emphasis> 按钮，系统开始检查软件库以获取新的、已移除的或更新了版本的软件包。"
 
 #: chapter8/xinclude.xml:1044(title)
 msgid "Checking Package Information"
@@ -1314,16 +1315,16 @@ msgstr "检查软件包信息"
 
 #: chapter8/xinclude.xml:1055(para)
 msgid "After the Multiverse and Restricted repositories are added in the Ubuntu software sources, you can download and install additional multimedia codecs. To install a software package, you need to first locate the package in the Synaptic Package Manager window. You can either search for a specific software package manually or run a search using the search utility provided in the Synaptic Package Manager. To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>"
-msgstr "Multiverse 和 Restricted 仓库添加到 Ubuntu 软件源之后，就可以下载并安装附加的多媒体解码器。要安装一个软件包，首先需要在新立得软件包管理器窗口中定位此包。也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具执行搜索。要开始对特定包的搜索，点击 <emphasis role=\"strong\">搜索</emphasis>。"
+msgstr "Multiverse 和 Restricted 库添加到 Ubuntu 软件源之后，就可以下载并安装附加的多媒体解码器。要安装一个软件包，首先需要在新立得软件包管理器窗口中标记此包。也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具执行搜索。对特定包的搜索，可点击 <emphasis role=\"strong\">搜索</emphasis>。"
 
 #: chapter8/xinclude.xml:1064(title)
 msgid "Initiating Software Search"
-msgstr "开始软件搜索"
+msgstr "启动软件搜索"
 
 #: chapter8/xinclude.xml:1075(para)
 #: chapter8/xinclude.xml:3282(para)
 msgid "In the <emphasis role=\"strong\">Search</emphasis> field, enter the name of the software package that you are looking for. Click <emphasis role=\"strong\">Search</emphasis> to begin the search."
-msgstr "在 <emphasis role=\"strong\">搜索</emphasis> 域中，输入要查找的软件包的名字。点击 <emphasis role=\"strong\">搜索</emphasis> 开始搜索。"
+msgstr "在 <emphasis role=\"strong\">搜索</emphasis> 域中，输入要查找的软件包的名字。点击 <emphasis role=\"strong\">搜索</emphasis> 按钮开始搜索。"
 
 #: chapter8/xinclude.xml:1080(title)
 msgid "Searching a Software Package"
@@ -1331,7 +1332,7 @@ msgstr "搜索软件包"
 
 #: chapter8/xinclude.xml:1091(para)
 msgid "The search results are displayed in the right pane of the Synaptic package Manager window. Right-click the package to be installed and select <emphasis role=\"strong\">Mark for Installation</emphasis>."
-msgstr "搜索结果在新立得软件包管理器的右嵌板显示。右键点击要安装的包并选择 <emphasis role=\"strong\">标记以便安装</emphasis>。"
+msgstr "搜索结果在新立得软件包管理器的右侧窗口显示。右键要安装的软件包选择 <emphasis role=\"strong\">标记以便安装</emphasis>。"
 
 #: chapter8/xinclude.xml:1097(title)
 msgid "Marking Packages for Installation"
@@ -1339,11 +1340,11 @@ msgstr "标记软件包以便安装"
 
 #: chapter8/xinclude.xml:1108(para)
 msgid "You can mark multiple packages for installation by following the same procedure. Once all the required packages are marked, click <emphasis role=\"strong\">Apply</emphasis> to start downloading the packages. The <emphasis role=\"strong\">Summary</emphasis> dialogue box is displayed."
-msgstr "您也可以通过同样的步骤标记多个包以便安装。所有要求的包都标记了之后，点击 <emphasis role=\"strong\">应用</emphasis> 开始下载这些包。将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框。"
+msgstr "您也可以通过同样的步骤标记多个软件包以便安装。所有要求的包都标记了之后，点击 <emphasis role=\"strong\">应用</emphasis> 开始下载。将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1115(title)
 msgid "Initiating Package Download"
-msgstr "开始包下载"
+msgstr "开始下载"
 
 #: chapter8/xinclude.xml:1126(para)
 msgid "The <emphasis role=\"strong\">Summary</emphasis> dialogue box allows you to take a last look at all the software packages that you have marked for installation. To go ahead with the marked installations, click <emphasis role=\"strong\">Apply.</emphasis>"
@@ -1351,11 +1352,11 @@ msgstr ""
 
 #: chapter8/xinclude.xml:1132(title)
 msgid "Conforming Package Installation"
-msgstr "确认软件包的安装"
+msgstr "确认安装软件包"
 
 #: chapter8/xinclude.xml:1143(para)
 msgid "After all the marked software packages are downloaded and installed, the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box is displayed. Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box."
-msgstr "所有标记的软件包都下载并安装之后，显示 <emphasis role=\"strong\">更改已应用</emphasis> 对话框。点击  <emphasis role=\"strong\">关闭</emphasis>关闭<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
+msgstr "所有标记的软件包都下载并安装之后，显示 <emphasis role=\"strong\">更改已应用</emphasis> 对话框。点击  <emphasis role=\"strong\">关闭</emphasis>按钮关闭该对话框。"
 
 #: chapter8/xinclude.xml:1148(title)
 msgid "Changes Applied Notification"
@@ -1363,7 +1364,7 @@ msgstr "应用已变更通知"
 
 #: chapter8/xinclude.xml:1159(para)
 msgid "The check box corresponding to the recently installed software package has changed to green, indicating that the software has been installed successfully. You can repeat the same procedure to install all the multimedia codecs required for playing proprietary multimedia formats."
-msgstr "最近安装的软件包对应的复选框已经变为了绿色，说明此软件已经成功安装。可以重复同样的操作安装所有播放私有多媒体格式需要的需要的多媒体编解码器。"
+msgstr "软件包对应的复选框变为绿色，说明此软件已经成功安装。重复同样的操作安装播放私有多媒体格式需要的其他多媒体解码器。"
 
 #: chapter8/xinclude.xml:1166(title)
 msgid "Software Successfully Installed"
@@ -1371,7 +1372,7 @@ msgstr "软件成功安装"
 
 #: chapter8/xinclude.xml:1181(para)
 msgid "The iPod is a popular portable media player, designed and marketed by Apple. You can play music in MP3 and AAC (Advanced Audio Coding) audio file formats and store up to ten thousand songs on the device itself. The iPod does not support free multimedia formats."
-msgstr "iPod 是一种流行的便携媒体播放器，由苹果公司设计和销售。您可以播放 MP3 和 AAC (先进音频编码 Advanced Audio Coding)音频文件格式并且可以在其中存放万首歌曲。iPod 不支持自由的多媒体格式。"
+msgstr "iPod 是由苹果公司设计和销售的一款流行的便携式多媒体播放器。它可以播放 MP3 和 AAC (先进音频编码 Advanced Audio Coding)格式的音频文件并且可以在其中存放万首歌曲。iPod 不支持自由的多媒体格式。"
 
 #: chapter8/xinclude.xml:1187(title)
 msgid "Playing Music Using an iPod"
@@ -1379,11 +1380,11 @@ msgstr "使用 iPod 播放音乐"
 
 #: chapter8/xinclude.xml:1190(title)
 msgid "To play music using iPod:"
-msgstr "要使用 iPod 播放音乐："
+msgstr "使用 iPod 播放音乐："
 
 #: chapter8/xinclude.xml:1193(para)
 msgid "Plug your iPod into one of your computer's USB ports. Ubuntu automatically mounts it and places it as an icon on your desktop. Simultaneously, the iPod device opens in the Rhythmbox Music Player window. You can view all the files loaded on your iPod device in the lower right pane of the Rhythmbox window. To play a music track from your iPod, just select the track from the list and click the <emphasis role=\"strong\">Play</emphasis> button."
-msgstr "向计算机的 USB 接口插入 iPod。Ubuntu 自动挂载并以一个图标放置它在桌面上。同时，iPod 设备在 Rhythmbox 音乐播放器窗口中打开。可以在 Rhythmbox 窗口的右下嵌板查看所有加载到 iPod 设备的文件。要从 iPod 播放音乐曲目，只需从列表中选择曲目并点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
+msgstr "向计算机的 USB 接口插入 iPod。Ubuntu 将自动挂载并以一个图标的形式显示在桌面上。同时，iPod 设备将在 Rhythmbox 音乐播放器窗口中打开。可以在 Rhythmbox 窗口的右下嵌板中查看所有加载到 iPod 设备的文件。要从 iPod 播放音乐曲目，只需从列表中选择曲目并点击 <emphasis role=\"strong\">播放</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:1202(title)
 msgid "Plugging in an iPod"
@@ -1391,7 +1392,7 @@ msgstr "插入 iPod"
 
 #: chapter8/xinclude.xml:1213(para)
 msgid "The song starts playing in the Rhythmbox Music Player. However, if the format of the music file is not supported by the Rhythmbox Music Player, you may not be able to play the file and you will receive an error message. In this case, you will need to follow the procedure described in the previous section to download all the necessary software codecs from the Ubuntu repositories."
-msgstr "在 Rhythmbox 音乐播放器窗口中开始播放歌曲。然而，如果音乐格式不被 Rhythmbox 音乐播放器所支持，将不能播放此文件并将收到一条错误信息。此时，需要安装前边章节描述的步骤从 Ubuntu 软件库下载所有需要的软件编解码器。"
+msgstr "Rhythmbox 音乐播放器窗口中开始播放歌曲。如果音乐格式不被 Rhythmbox 音乐播放器所支持，将不会播放此文件并将收到一条错误信息。此时，需要按照前边章节描述的步骤从 Ubuntu 软件库下载所有需要的软件解码器。"
 
 #: chapter8/xinclude.xml:1221(title)
 msgid "Playing Music from iPod"
