@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2009-12-29 15:59+0800\n"
-"PO-Revision-Date: 2009-12-28 13:13+0800\n"
+"PO-Revision-Date: 2009-12-29 19:18+0800\n"
 "Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
 "Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -1429,8 +1429,7 @@ msgstr "使用 Nautilus 管理文件"
 msgid ""
 "The Nautilus file manager in Ubuntu provides a simple and integrated way to "
 "manage files and applications."
-msgstr ""
-"Ubuntu 中的文件管理器 Nautilus 提供了简单而综合的文件和应用程序管理方式。"
+msgstr "Ubuntu 中的文件管理器 Nautilus 提供了简单而综合的文件和应用程序管理方式。"
 
 #: chapter6/xinclude.xml:781(title)
 msgid "Features of Nautilus"
@@ -1512,8 +1511,7 @@ msgstr "主文件夹："
 msgid ""
 "This is a personal folder created by default for every user to create and "
 "work on files. It takes the user name by default."
-msgstr ""
-"这是默认为每位用户创建的私人文件夹，让用户创建和处理文件。默认取名为用户名。"
+msgstr "这是默认为每位用户创建的私人文件夹，让用户创建和处理文件。默认取名为用户名。"
 
 #: chapter6/xinclude.xml:855(title)
 msgid "Desktop:"
@@ -1523,8 +1521,7 @@ msgstr "桌面："
 msgid ""
 "An active component that lies behind all the screens on your computer and "
 "provides easy and quick access to the files saved on it."
-msgstr ""
-"铺在您计算机所有屏幕后方的活动组件，为保存于桌面的文件提供简便快捷的访问。"
+msgstr "铺在您计算机所有屏幕后方的活动组件，为保存于桌面的文件提供简便快捷的访问。"
 
 #: chapter6/xinclude.xml:865(title)
 msgid "Computer:"
@@ -1560,8 +1557,7 @@ msgstr ""
 msgid ""
 "Click any of the above items on the <emphasis role=\"strong\">Places </"
 "emphasis> menu."
-msgstr ""
-"在<emphasis role=\"strong\">位置</emphasis>菜单中点击任何一个上述项目。"
+msgstr "在<emphasis role=\"strong\">位置</emphasis>菜单中点击任何一个上述项目。"
 
 #: chapter6/xinclude.xml:888(title)
 msgid "Using File Browser"
@@ -1672,7 +1668,7 @@ msgid ""
 "to browse Web sites, this application provides basic file management and can "
 "many view different file types."
 msgstr ""
-"Konqueror 是 KDE 下 Nautilus 文件管理器的等价品，用在 Ubuntu 衍生版本 "
+"Dolphin 是 KDE 下 Nautilus 文件管理器的等价品，用在 Ubuntu 衍生版本 "
 "Kubuntu 中。它是个多用途应用程序，能够用作文件管理器、网页浏览器和通用查看"
 "器。在让您浏览网站的同时，这个应用程序还能提供基本的文件管理并能够查看许多不"
 "同格式的文件。"
@@ -1834,8 +1830,7 @@ msgstr "对软件包列表应用更改"
 msgid ""
 "You are prompted to confirm your selection. Click <emphasis role=\"strong"
 "\">Apply</emphasis> to proceed."
-msgstr ""
-"您会被提示确认您的选择。点击<emphasis role=\"strong\">应用</emphasis>继续。"
+msgstr "您会被提示确认您的选择。点击<emphasis role=\"strong\">应用</emphasis>继续。"
 
 #: chapter6/xinclude.xml:1145(title)
 msgid "Confirming Changes"
@@ -2020,8 +2015,7 @@ msgstr "确认附加的更改"
 msgid ""
 "To confirm that you want to make the marked changes, click <emphasis role="
 "\"strong\">Apply</emphasis>."
-msgstr ""
-"要确认您想要进行标记的更改，请点击<emphasis role=\"strong\">应用</emphasis>。"
+msgstr "要确认您想要进行标记的更改，请点击<emphasis role=\"strong\">应用</emphasis>。"
 
 #: chapter6/xinclude.xml:1341(title)
 msgid "Applying Changes to Update Software Information"
@@ -2213,23 +2207,23 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1512(emphasis)
 msgid "Main"
-msgstr ""
+msgstr "Main"
 
 #: chapter6/xinclude.xml:1516(emphasis)
 msgid "Restricted"
-msgstr ""
+msgstr "Restricted"
 
 #: chapter6/xinclude.xml:1520(emphasis)
 msgid "Universe"
-msgstr ""
+msgstr "Universe"
 
 #: chapter6/xinclude.xml:1524(emphasis)
 msgid "Multiverse"
-msgstr ""
+msgstr "Multiverse"
 
 #: chapter6/xinclude.xml:1529(title)
 msgid "The Main Component"
-msgstr ""
+msgstr "Main 组件"
 
 #: chapter6/xinclude.xml:1531(para)
 msgid ""
@@ -2240,10 +2234,12 @@ msgid ""
 "support are available free of cost. OpenOffice.org, Abiword and the Apache "
 "web server are some of the packages available there."
 msgstr ""
+"Main 组件包含自由软件的软件包，由 Canonical 团队完全支持。这些软件包与自由软件观念一致，并且安装 Ubuntu 时就默认可用。所有 "
+"Main 组件中的软件包都可免费获得安全更新和技术支持。OpenOffice.org、Abiword 和 Apache 网络服务器就在其中。"
 
 #: chapter6/xinclude.xml:1541(title)
 msgid "The Restricted Component"
-msgstr ""
+msgstr "Restricted 组件"
 
 #: chapter6/xinclude.xml:1543(para)
 msgid ""
@@ -2254,10 +2250,12 @@ msgid ""
 "available on the standard Ubuntu installation CD, but they can be easily "
 "removed."
 msgstr ""
+"Restricted 组件包含通常使用的软件，由 Ubuntu "
+"团队支持，但不是完全的自由软件许可授权。一些显卡厂商生产的二进制驱动。此组件中的软件包在标准 Ubuntu 安装 CD 中同样可用，但能很容易删除。"
 
 #: chapter6/xinclude.xml:1552(title)
 msgid "The Universe Component"
-msgstr ""
+msgstr "Universe 组件"
 
 #: chapter6/xinclude.xml:1554(para)
 msgid ""
@@ -2266,6 +2264,8 @@ msgid ""
 "variety of free licenses, taken from a variety of public sources. This "
 "component is available only through Internet downloading."
 msgstr ""
+"Universe 组件包含了数千个不由 Canonical "
+"官方支持的软件包。这些软件授权于各种自由软件许可协议，来自各种公共来源。此组件只能通过互联网下载获得。"
 
 #: chapter6/xinclude.xml:1561(para)
 msgid ""
@@ -2286,7 +2286,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1574(title)
 msgid "The Multiverse Component"
-msgstr ""
+msgstr "Multiverse 组件"
 
 #: chapter6/xinclude.xml:1576(para)
 msgid ""
@@ -2297,6 +2297,9 @@ msgid ""
 "terms. Support and security updates are not provided. Examples of these "
 "packages include VLC and the Adobe Flash plugin."
 msgstr ""
+"Multiverse 组件包含非自由软件，也就是说软件的许可协议需求与 Ubuntu Main "
+"组件的许可协议规则不符。用户需负责验证自己是否有权使用该软件并接受单一的许可协议条款。Ubuntu 不提供支持和安全更新。这些软件包包括 VLC 和 "
+"Adobe Flash 插件。"
 
 #: chapter6/xinclude.xml:1588(para)
 msgid ""
@@ -2305,6 +2308,7 @@ msgid ""
 "determine if the software can be used in its jurisdiction and complies with "
 "local laws."
 msgstr ""
+"使用 Multiverse 组件的软件必须考虑到专利和使用目的限制因素，以及发行版的阻碍。用户得承担责任，确保能在当地法律允许范围内使用这些软件。"
 
 #: chapter6/xinclude.xml:1594(para)
 msgid ""
@@ -2495,6 +2499,8 @@ msgid ""
 "of various folders simultaneously. Use the browser mode to open folders in a "
 "single window."
 msgstr ""
+"您可以使用 Nautilus "
+"文件管理器管理您的文件系统。使用空间模式在分离的窗口中打开每个文件夹并同时查看各个文件夹的内容。使用浏览模式在单一窗口中打开文件夹。"
 
 #: chapter6/xinclude.xml:1777(para)
 msgid ""
@@ -2513,87 +2519,89 @@ msgid ""
 "download and install it from Web sites. These files are associated with the "
 "package managers of specific Linux distribution and are referred to as "
 "single package files."
-msgstr ""
+msgstr "要安装 Ubuntu 归档中没有的软件包，可以从网站下下载并安装。这些文件与特定 Linux 发行版的软件包管理器相关，称为单个软件包文件。"
 
 #: chapter6/xinclude.xml:1795(para)
 msgid ""
 "Tarballs are zipped archive files that contain the source code of a "
 "programme. You can use advanced command line tools to install or uninstall "
 "the tarball file."
-msgstr ""
+msgstr "源码包是种 zip 压缩的归档文件，包含程序的源代码。您可使用高级的命令行工具来安装或卸载源码包文件。"
 
 #: chapter6/xinclude.xml:1803(title)
 msgid "Review Exercise"
-msgstr ""
+msgstr "复习测验"
 
 #: chapter6/xinclude.xml:1808(para)
 msgid "What is the default desktop for Ubuntu?"
-msgstr ""
+msgstr "Ubuntu 的默认桌面是什么？"
 
 #: chapter6/xinclude.xml:1812(para)
 msgid "GNOME is the default desktop for Ubuntu."
-msgstr ""
+msgstr "GNOME 是 Ubuntu 的默认桌面。"
 
 #: chapter6/xinclude.xml:1818(para)
 msgid ""
 "From which Web site can you download additional Ubuntu wallpapers and themes?"
-msgstr ""
+msgstr "您可以从哪个网站上下载额外的 Ubuntu 墙纸和主题？"
 
 #: chapter6/xinclude.xml:1823(para)
 msgid ""
 "You can download additional wallpapers and themes from the Web site <ulink "
 "url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>."
 msgstr ""
+"您可以从网站 <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> "
+"上下载额外的墙纸和主题。"
 
 #: chapter6/xinclude.xml:1830(para)
 msgid "Mention any three features of the Nautilus file manager."
-msgstr ""
+msgstr "谈谈 Nautilus 文件管理器的任意三种特效。"
 
 #: chapter6/xinclude.xml:1835(para)
 msgid "Three features of the Nautilus file manager are:"
-msgstr ""
+msgstr "Nautilus 文件管理器的三种功能为："
 
 #: chapter6/xinclude.xml:1839(para)
 msgid "Creating and displaying folders and documents"
-msgstr ""
+msgstr "创建和显示文件夹和文档"
 
 #: chapter6/xinclude.xml:1843(para)
 msgid "Searching and managing files"
-msgstr ""
+msgstr "搜索和管理文件"
 
 #: chapter6/xinclude.xml:1847(para)
 msgid "Navigating using two modes, browser and spatial"
-msgstr ""
+msgstr "使用两种模式导航，浏览模式和空间模式"
 
 #: chapter6/xinclude.xml:1855(para)
 msgid "Which is the file manager for the KDE environment?"
-msgstr ""
+msgstr "KDE 环境的文件管理器是哪个？"
 
 #: chapter6/xinclude.xml:1859(para)
 msgid "Konqueror is the file manager of the KDE environment."
-msgstr ""
+msgstr "Dolphin 是 KDE 环境的文件管理器。"
 
 #: chapter6/xinclude.xml:1865(para)
 msgid "What is a package manager?"
-msgstr ""
+msgstr "软件包管理器是什么？"
 
 #: chapter6/xinclude.xml:1869(para)
 msgid ""
 "A package manager is a programme that helps add or remove packages in Ubuntu."
-msgstr ""
+msgstr "软件包管理器是帮助您添加和删除 Ubuntu 软件包的程序。"
 
 #: chapter6/xinclude.xml:1876(para)
 msgid ""
 "Differentiate between a graphical package manager and a command line package "
 "manager. Provide examples of each."
-msgstr ""
+msgstr "请辨别图形软件包管理器和命令行软件包管理器之间的区别。各举一例。"
 
 #: chapter6/xinclude.xml:1881(para)
 msgid ""
 "To add and remove packages, a graphical package manager uses the graphical "
 "interface while a command line package manager uses the command line "
 "interface."
-msgstr ""
+msgstr "对于安装和卸载软件包，图形软件包管理器使用图形用户界面，而命令行软件包管理器使用命令行界面。"
 
 #: chapter6/xinclude.xml:1885(para)
 msgid ""
@@ -2605,17 +2613,17 @@ msgstr ""
 msgid ""
 "Software that is not licensed under Ubuntu's main component licensing policy "
 "is referred to as _______________."
-msgstr ""
+msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被成为_______________。"
 
 #: chapter6/xinclude.xml:1897(para)
 msgid ""
 "Software that is not licensed under Ubuntu's main component licensing policy "
 "is referred to as non-free software."
-msgstr ""
+msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被成为非自由软件。"
 
 #: chapter6/xinclude.xml:1905(title)
 msgid "Lab Exercise"
-msgstr ""
+msgstr "实践练习"
 
 #: chapter6/xinclude.xml:1910(para)
 msgid ""
@@ -2627,7 +2635,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1918(title)
 msgid "Exercise 1"
-msgstr ""
+msgstr "练习 1"
 
 #: chapter6/xinclude.xml:1920(para)
 msgid ""
@@ -2635,18 +2643,19 @@ msgid ""
 "your pdf files, use a spreadsheet application for creating your daily tasks "
 "and archive your files. Install the following packages:"
 msgstr ""
+"您在您的个人计算机上安装了 Ubuntu 9.10。您想要查看您的 pdf 文件，使用电子表格应用程序创建您的每日任务并打包您的文件。需要安装以下软件包："
 
 #: chapter6/xinclude.xml:1926(para)
 msgid "a) xpdf"
-msgstr ""
+msgstr "a) xpdf"
 
 #: chapter6/xinclude.xml:1928(para)
 msgid "b) gnumeric"
-msgstr ""
+msgstr "b) gnumeric"
 
 #: chapter6/xinclude.xml:1931(title)
 msgid "a) Installing xpdf using Add/Remove Applications:"
-msgstr ""
+msgstr "a) 使用软件中心安装 xpdf："
 
 #: chapter6/xinclude.xml:1934(para)
 msgid ""
@@ -2681,7 +2690,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1963(title)
 msgid "b) Installing gnumeric from Synaptic:"
-msgstr ""
+msgstr "b) 从 Synaptic 安装 gnumeric："
 
 #: chapter6/xinclude.xml:1966(para)
 msgid ""
@@ -2690,12 +2699,17 @@ msgid ""
 "\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong"
 "\">Synaptic Package Manager</emphasis> dialogue box opens."
 msgstr ""
+"在<emphasis role=\"strong\">系统</emphasis>菜单中，点击<emphasis role=\"strong\">管理<"
+"/emphasis>，然后点击<emphasis role=\"strong\">新立得软件包管理器</emphasis>，弹出<emphasis "
+"role=\"strong\">新立得软件包管理器</emphasis>对话框。"
 
 #: chapter6/xinclude.xml:1974(para)
 msgid ""
 "Click <emphasis role=\"strong\">Search</emphasis> to find gnumeric and "
 "select the <emphasis role=\"strong\">gnumeric</emphasis> check box."
 msgstr ""
+"点击<emphasis role=\"strong\">搜索</emphasis>查找 gnumeric，然后选中 <emphasis "
+"role=\"strong\">gnumeric</emphasis> 复选框。"
 
 #: chapter6/xinclude.xml:1980(para)
 msgid ""
@@ -2703,12 +2717,13 @@ msgid ""
 "box. A dialogue box displaying the dependencies of this package on other "
 "packages opens."
 msgstr ""
+"选中<emphasis role=\"strong\">标记以便安装</emphasis>复选框，弹出对话框显示此软件包需要依赖的其它软件包。"
 
 #: chapter6/xinclude.xml:1986(para)
 msgid ""
 "To continue making the required changes, click <emphasis role=\"strong"
 "\">Mark</emphasis>."
-msgstr ""
+msgstr "点击<emphasis role=\"strong\">标记</emphasis>继续标记所需的更改。"
 
 #: chapter6/xinclude.xml:1990(para)
 msgid ""
@@ -2716,20 +2731,24 @@ msgid ""
 "emphasis>. The <emphasis role=\"strong\">Summary</emphasis> dialogue box "
 "opens, prompting you for a final check before making the marked changes."
 msgstr ""
+"点击<emphasis role=\"strong\">应用</emphasis>确认进行标记的更改。弹出<emphasis "
+"role=\"strong\">摘要</emphasis>对话框提示您在进行标记的更改前进行最后一次检查。"
 
 #: chapter6/xinclude.xml:1995(para)
 msgid ""
 "Click <emphasis role=\"strong\">Apply</emphasis> to continue with the "
 "changes."
-msgstr ""
+msgstr "点击<emphasis role=\"strong\">应用</emphasis>继续此更改。"
 
 #: chapter6/xinclude.xml:2000(para)
 msgid ""
 "When all the marked changes are made, you are notified of the changes "
 "applied. Click <emphasis role=\"strong\">Close</emphasis>."
-msgstr ""
+msgstr "当所有标记的更改完成后，您将得到更改已实施的通知。点击<emphasis role=\"strong\">关闭</emphasis>。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter6/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "Ni Hui <shuizhuyuanluo@126.com>, 2009"
+
+
