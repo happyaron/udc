@@ -145,7 +145,7 @@ msgstr "Ubuntu 与 Microsoft Windows 的主要区别"
 
 #: chapter1/xinclude.xml:37(title)
 msgid "About Open Source"
-msgstr "关于开源(Open Source)"
+msgstr "关于开源"
 
 #: chapter1/xinclude.xml:39(title) chapter1/xinclude.xml:215(title)
 #: chapter1/xinclude.xml:251(title) chapter1/xinclude.xml:274(title)
@@ -163,9 +163,9 @@ msgid ""
 "Movement initiation and its formal launch. Explain the Ubuntu release "
 "schedule, naming convention and Ubuntu promise in detail."
 msgstr ""
-"本课重点是帮助学生理解作为 Ubuntu 基础的开源的概念。简而言之，简要解释“开"
-"源”的含义，和开源思想如何在 Linux 中付诸实践。分段讲解自由软件运动和开源运动"
-"的起源以及正式开始。详细讲解 Ubuntu 的发布日程安排，命名规则以及 Ubuntu 的承"
+"本课重点是帮助学生理解作为 Ubuntu 基础的开源的概念。简而言之，概括地解释“开"
+"源”的含义，和开源思想如何在 Linux 中付诸实践，然后分段讲解自由软件运动和开源运动"
+"的起源以及正式开始。同时，详细讲解 Ubuntu 的发布日程安排、命名规则以及 Ubuntu 的承"
 "诺。"
 
 #: chapter1/xinclude.xml:50(para)
@@ -183,7 +183,7 @@ msgstr ""
 "Ubuntu 是一个基于 Linux 的开源操作系统。开源可以促进知识被充分利用，推动产品"
 "设计和生产技术发展。它既是理论，也是具体的实践。开源被广泛用于软件源代码，用"
 "户可以获得它们，并且知识产权限制很少甚至没有。这允许用户对软件进行修改，或者"
-"利用其代码创建和发布新的软件来满足自身的需要，以及互相协作改进开源软件。开源"
+"利用其代码创建和发布新的软件来满足自身的需要，或者用于互相协作以改进开源软件。开源"
 "和 Linux 都是在逐步变化的过程中，形成今天的样子的。"
 
 #: chapter1/xinclude.xml:61(para)
@@ -192,7 +192,7 @@ msgid ""
 "voluntary, collaborative development of software. Users continuously enhance "
 "the software, fix bugs, develop new features and share it with others."
 msgstr ""
-"自由分发的源代码的想法是为了鼓励志愿地、共同地开发软件。用户不断地增强软件，"
+"自由分发的源代码的想法是为了鼓励人民自愿地、相互协同地开发软件。用户不断参与增强软件，"
 "修正缺陷，开发新功能并且和其他人分享。"
 
 #: chapter1/xinclude.xml:65(para)
@@ -204,8 +204,8 @@ msgid ""
 "itself is a huge step away from the 'one size fits all' philosophy."
 msgstr ""
 "大量的程序员参与到软件协作开发之中，用户可以获得质量和性能比专有软件更好的开"
-"源软件。开源软件鼓励用户自定义，让软件满足自身需要。这是一个巨大的进步，软件"
-"不再是一成不变。"
+"源软件。开源软件鼓励用户对软件进行自定义，使其满足自身需要。这是一个巨大的进步，软件"
+"不再是一成不变的。"
 
 #: chapter1/xinclude.xml:72(para)
 msgid ""
@@ -213,12 +213,12 @@ msgid ""
 "than programming. Many projects involve artists, musicians, user-interface "
 "designers and documentation authors to create a complete product."
 msgstr ""
-"开源项目寻求各个领域的人才，不只是程序员。许多的项目还需要艺术家、音乐家、用"
-"户界面设计者和文档撰写者，一起做出完整的产品。"
+"开源项目不只需要程序员，还寻求其他各个领域的人才。许多的项目还需要艺术家、音乐家、用"
+"户界面设计人员和文档撰写者一起做出完整的产品。"
 
 #: chapter1/xinclude.xml:78(title)
 msgid "Free Software Movement, Open Source and Linux"
-msgstr "自由软件运动，开源和 Linux"
+msgstr "自由软件运动、开源和 Linux"
 
 #: chapter1/xinclude.xml:79(para)
 msgid ""
@@ -226,7 +226,7 @@ msgid ""
 "all three are inter-linked, there are distinct differences which are made "
 "clearer when looking at their evolution."
 msgstr ""
-"开源、自由软件和 Linux 是三个容易混淆的概念。他们互有联系，但发展过程有着明显"
+"开源、自由软件和 Linux 三者是容易混淆的概念。他们互有联系，但发展过程有着明显"
 "的不同。"
 
 #: chapter1/xinclude.xml:84(title)
@@ -244,9 +244,9 @@ msgid ""
 "eroded in the 1970s, manufacturers looked to software to provide additional "
 "revenue streams."
 msgstr ""
-"二十世纪六十年代，像 IBM 这样的公司发布出来的软件基本上都是自由的。那个时候的"
+"二十世纪六十年代，IBM 等公司所开发的软件是自由分发的。那个时候的"
 "商业模式都是以硬件为中心，软件只是被看作使硬件工作的东西。他们提供软件的同时"
-"也提供源代码，这样软件就可以被修改和改进，便是开源软件的雏形。但是，随着硬件"
+"也提供源代码，软件可以被修改和改进，这便是现在开源软件的早期。但是，随着硬件"
 "价格的不断下跌，销售硬件的利润率也逐渐减小，制造商开始期望软件带来额外的收"
 "入。越来越多的厂商开始单独销售软件，源代码也不再被提供。"
 
