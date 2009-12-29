@@ -1607,17 +1607,6 @@
           </mediaobject>
         </figure>
 
-        <tip>
-          <title>Nice to Know:</title>
-
-          <para>You can change the appearance of Pidgin by adding additional
-          features, such as changing its graphical interface and theme to it.
-          The packages required to do this are Pidgin-guifications,
-          Pidgin-libnotify and Pidgin-themes. You can install these packages
-          from Synaptic Package Manager by following the procedure listed in
-          the <emphasis role="strong">Using Alternative E-Mail
-          Client</emphasis> section.</para>
-        </tip>
       </step>
     </procedure>
   </sect1>
