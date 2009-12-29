@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-29 23:34+0800\n"
+"PO-Revision-Date: 2009-12-30 00:57+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1400,11 +1400,11 @@ msgstr "从 iPod 播放音乐"
 
 #: chapter8/xinclude.xml:1232(para)
 msgid "Ubuntu also allows you to transfer music files to and from the iPod device. However, this is not possible using Rhythmbox. You will need to install the <emphasis role=\"strong\">gtkpod</emphasis> software to be able to transfer music file between your computer and the iPod device. You can easily download this software from the Universe repository using the Synaptic Package Manager."
-msgstr "Ubuntu 允许向和从 iPod 设备传送音乐文件。但是，不能使用 Rhythmbox。需要安装 <emphasis role=\"strong\">gtkpod</emphasis> 软件以可以在计算机和 iPod 设备之间传送文件。可以容易的使用新立得软件包管理器从 Universe 仓库下载此软件。"
+msgstr "Ubuntu 可以向 iPod 发送文件也可以从 iPod 获取文件。这是 Rhythmbox 做不到 的。在计算机和 iPod 设备之间传送文件前需要安装 <emphasis role=\"strong\">gtkpod</emphasis> 软件。可以使用新立得软件包管理器从 Universe 库下载此软件。"
 
 #: chapter8/xinclude.xml:1239(para)
 msgid "To access gtkpod, after it is successfully installed on your computer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">gtkpod</emphasis>. The <emphasis role=\"strong\">gtkpod</emphasis> window opens."
-msgstr "要在 gtkpod 安装到计算机之后访问它，在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">gtkpod</emphasis>。将打开 <emphasis role=\"strong\">gtkpod</emphasis> 窗口。"
+msgstr "安装 gtkpod 后，可在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">gtkpod</emphasis> 打开 gtkpod。将打开 <emphasis role=\"strong\">gtkpod</emphasis> 窗口。"
 
 #: chapter8/xinclude.xml:1246(title)
 msgid "Launching gtkpod"
@@ -1412,11 +1412,11 @@ msgstr "启动 gtkpod"
 
 #: chapter8/xinclude.xml:1257(para)
 msgid "You can view all the music files stored on the iPod device in this gtkpod window. Notice that in the gtkpod interface, your music files have automatically been categorised based on artists, album and genre. This categorisation helps you quickly browse through your collection and select."
-msgstr "可以在 gtkpod 窗口中查看存储在 iPod 设备中的音乐文件。注意，在 gtkpod 界面中，您的音乐文件已经自动根据艺人、专辑和流派进行了分类。此分类帮助您快速浏览收藏并选择。"
+msgstr "可以在 gtkpod 窗口中查看存储在 iPod 设备中的音乐文件。在 gtkpod 界面中，您将发现，音乐文件会自动根据艺人、专辑和流派进行分类。此分类有利于您快速浏览和选择。"
 
 #: chapter8/xinclude.xml:1263(para)
 msgid "You can use the gtkpod interface to manage the files on your iPod in multiple ways. You can create and edit playlists, normalize the volume on single tracks or multiple tracks at a time. You can also use the gtkpod interface to add more files in your iPod or transfer files from your iPod onto your computer. To add files from your computer to your iPod device, click <emphasis role=\"strong\">Files</emphasis>. This displays the <emphasis role=\"strong\">Add Files to 'device name'</emphasis> dialogue box."
-msgstr "可以使用 gtkpod 界面以多种方式管理 iPod 上的文件。可以创建和编辑播放列表，一次调整单个或多个曲目的音量到正常水平。也可以使用 gtkpod 界面向 iPod 添加更多文件或从 iPod 向计算机传输文件。要从计算机向 iPod 设备添加文件，点击 <emphasis role=\"strong\">文件</emphasis>。此操作显示 <emphasis role=\"strong\">向 '设备名' 添加文件</emphasis> 对话框。"
+msgstr "使用 gtkpod 界面能以多种方式管理 iPod 上的文件。可以创建和编辑播放列表，一次性调整单个或多个曲目的音量到正常水平。也可以使用 gtkpod 界面向 iPod 添加更多文件或从 iPod 向计算机传输文件。要从计算机向 iPod 设备添加文件，点击 <emphasis role=\"strong\">文件</emphasis>，此时将显示 <emphasis role=\"strong\">向 '设备名' 添加文件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1272(title)
 msgid "Using gtkpod to transfer files to iPod"
@@ -1425,7 +1425,7 @@ msgstr "使用 gtkpod 向 iPod 传输文件"
 # . again?
 #: chapter8/xinclude.xml:1283(para)
 msgid "In the <emphasis role=\"strong\">Add Files to 'device name'</emphasis> dialogue box, navigate down to the folder from which you want to add the files to your iPod. Depending on your preferences you may either add a single file at a time or an entire directory. Select the tracks that you want added and click <emphasis role=\"strong\">Open.</emphasis>"
-msgstr "<emphasis role=\"strong\">向 '设备名' 添加文件</emphasis> 对话框中，导航到要从中向 iPod 中添加文件的文件夹下。根据喜好，可以一次添加一个文件或整个目录。选择要添加的曲目并点击 <emphasis role=\"strong\">打开</emphasis>。"
+msgstr "<emphasis role=\"strong\">向 '设备名' 添加文件</emphasis> 对话框中，导航到文件所在目录。您可以随意添加一个文件或整个目录。选择要添加的曲目单击 <emphasis role=\"strong\">打开</emphasis>。"
 
 #: chapter8/xinclude.xml:1290(title)
 msgid "Selecting the Files to Transfer"
@@ -1433,11 +1433,11 @@ msgstr "选择要传输的文件"
 
 #: chapter8/xinclude.xml:1301(para)
 msgid "Gtkpod starts adding the files to your iPod. When the process is complete a message \"Successfully added files\" is quickly flashed at the bottom of the gtkpod window. You can also view the recently added files in the bottom pane of the gtkpod window."
-msgstr "Gtkpod 开始向 iPod 添加问价。此过程结束时，在 gtkpod 窗口底部快速闪动“成功添加文件的”消息。可以在 gtkpod 窗口的底部嵌板上查看最近添加的文件。"
+msgstr "Gtkpod 开始向 iPod 添加文件。完成后在 gtkpod 窗口底部将快速闪动“成功添加文件”消息。可以在 gtkpod 窗口的底部嵌板上查看最近添加的文件。"
 
 #: chapter8/xinclude.xml:1306(para)
 msgid "You can repeat the aforementioned steps to add more files from different folders. After you have added all the required files to your iPod, click the <emphasis role=\"strong\">Save Changes</emphasis> button to load and save the files."
-msgstr "可以重复上述步骤，从不同文件夹添加更多文件。向 iPod 添加所有需要的文件之后，点击 <emphasis role=\"strong\">保存更改</emphasis> 按钮加载并保存文件。"
+msgstr "重复上述步骤，从其他文件夹添加更多文件。向 iPod 添加所有需要的文件之后，点击 <emphasis role=\"strong\">保存更改</emphasis> 按钮加载并保存文件。"
 
 #: chapter8/xinclude.xml:1312(title)
 msgid "Updating the iPod"
@@ -1445,7 +1445,7 @@ msgstr "更新 iPod"
 
 #: chapter8/xinclude.xml:1323(para)
 msgid "When you are done updating your iPod and want to disconnect it, close down the Rhythmbox window. Right-click the iPod icon on the desktop and then select <emphasis role=\"strong\">Eject</emphasis>. You now can safely remove your iPod from the computer."
-msgstr "更新 iPod 之后如果想断开它，关闭 Rhythmbox 窗口。在桌面上的 iPod 图标上点邮件然后选择 <emphasis role=\"strong\">弹出</emphasis>。现在，您可以从计算机上安全地移除您的 iPod 了。"
+msgstr "更新 iPod 之后，关闭 Rhythmbox 窗口，在桌面上的 iPod 图标上右击选择 <emphasis role=\"strong\">弹出</emphasis> 断开与 iPod 的连接。此时便可以从计算机上安全地移除 iPod 了。"
 
 #: chapter8/xinclude.xml:1333(title)
 msgid "Creating and Editing Audio Files"
@@ -1453,7 +1453,7 @@ msgstr "创建和编辑音频文件"
 
 #: chapter8/xinclude.xml:1335(para)
 msgid "Ubuntu provides you with various tools to create your own music and audio files. The default application available in Ubuntu for creation of audio files is the GNOME Sound Recorder. Similarly, you can also edit audio files using Audacity."
-msgstr "Ubuntu 提供多种工具用以创建音乐和音频文件。Ubuntu 中默认可用的音频文件创建工具是 GNOME 录音机。类似地，可以使用 Audacity 编辑音频文件。"
+msgstr "Ubuntu 提供多种工具用以创建音乐和音频文件。Ubuntu 中默认可用的音频文件创建工具是 GNOME 录音机。类似地，还可以使用 Audacity 编辑音频文件。"
 
 #: chapter8/xinclude.xml:1341(title)
 msgid "Creating Audio Files"
@@ -1461,15 +1461,15 @@ msgstr "创建音频文件"
 
 #: chapter8/xinclude.xml:1343(para)
 msgid "Ubuntu provides you with tools to create new audio files using an input device such as a microphone. Sound Recorder is the default application available in Ubuntu for creating audio files."
-msgstr "Ubuntu 提供使用如话筒的设备创建按新音频文件的工具。录音机是 Ubuntu 中默认可用的创建音频文件的应用程序。"
+msgstr "Ubuntu 提供使用输入设备创建新音频文件的工具，如使用话筒输入。录音机是 Ubuntu 中默认可用的创建音频文件的应用程序。"
 
 #: chapter8/xinclude.xml:1348(title)
 msgid "To start recording audio using Sound Recorder:"
-msgstr "要使用录音机开始录音："
+msgstr "使用录音机开始录音："
 
 #: chapter8/xinclude.xml:1351(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Sound Recorder</emphasis>."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">录音机</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">录音机</emphasis>。"
 
 #: chapter8/xinclude.xml:1357(title)
 msgid "Launching Sound Recorder"
@@ -1477,7 +1477,7 @@ msgstr "启动录音机(Sound Recorder)"
 
 #: chapter8/xinclude.xml:1368(para)
 msgid "Sound Recorder allows you to record and play .flac, .ogg, and .wav audio files. To start a recording session, you need to select an input device, such as a microphone, phone or line-in, from the <emphasis role=\"strong\">Record from input</emphasis> drop-down list. You can also select the audio quality from the Record as drop-down list."
-msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。要开始录音会话，需要从 <emphasis role=\"strong\">从输入录音</emphasis> 下拉列表中选择输入设备，例如话筒、电话或线路输入。可以从录音下拉列表中选择音频质量。"
+msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。从 <emphasis role=\"strong\">从输入录音</emphasis> 下拉列表中选择输入设备开始录音，可以从话筒、电话或线路等输入。可以从录音下拉列表中选择音频质量。"
 
 #: chapter8/xinclude.xml:1376(title)
 msgid "Selecting the Input Device"
@@ -1485,15 +1485,15 @@ msgstr "选择输入设备"
 
 #: chapter8/xinclude.xml:1387(para)
 msgid "Before starting the recording, it is advisable to configure the volume control settings to derive quality audio output. To access the volume controls, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open Volume Control</emphasis>."
-msgstr "开始录音前，最好配置音量控制设置以获得优质的音频输出。要设置音量控制，在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开音量控制</emphasis>。"
+msgstr "开始录音前，建议配置音量控制设置以获得优质的音频输出。在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开音量控制</emphasis>。"
 
 #: chapter8/xinclude.xml:1392(title)
 msgid "Accessing Volume Controls"
-msgstr "访问音量控制"
+msgstr "音量控制"
 
 #: chapter8/xinclude.xml:1403(para)
 msgid "You use the slider buttons on the tracks to set the volume control for all the audio input and output devices. To further specify your volume preferences, click Preferences on the Edit menu. This opens the <emphasis role=\"strong\">Volume Control Preferences</emphasis> dialogue box."
-msgstr "使用曲目上的滑动按钮为所有输入和输出设备设置音量控制。要进一步指定音量首选项，点击编辑菜单上的首选项。此操作打开 <emphasis role=\"strong\">音量控制首选项</emphasis>。"
+msgstr "使用曲目上的滑动按钮为所有输入和输出设备设置音量控制。要进一步设置音量，点击编辑菜单上的首选项打开 <emphasis role=\"strong\">音量控制首选项</emphasis>。"
 
 #: chapter8/xinclude.xml:1410(title)
 msgid "Displaying Volume Preferences"
@@ -1501,7 +1501,7 @@ msgstr "显示声音首选项"
 
 #: chapter8/xinclude.xml:1421(para)
 msgid "The <emphasis role=\"strong\">Volume Control Preferences</emphasis> dialogue box allows you refine the sound settings by selecting or clearing the various options. Click the <emphasis role=\"strong\">Close</emphasis> button to exit this dialogue box."
-msgstr "<emphasis role=\"strong\">声音控制首选系</emphasis> 对话框可以通过选择或清除一些选项完善声音设置。点击 <emphasis role=\"strong\">关闭</emphasis> 按钮退出此对话框。"
+msgstr "<emphasis role=\"strong\">声音控制首选项</emphasis> 对话框可以通过选择或清除一些选项完善声音设置。点击 <emphasis role=\"strong\">关闭</emphasis> 按钮退出此对话框。"
 
 #: chapter8/xinclude.xml:1428(title)
 msgid "Configuring Sound Settings"
@@ -1509,7 +1509,7 @@ msgstr "配置声音设置"
 
 #: chapter8/xinclude.xml:1437(para)
 msgid "You are returned to the <emphasis role=\"strong\">Sound Recorder</emphasis> window. Now, you can start recording the audio from the selected input device by clicking the <emphasis role=\"strong\">Record</emphasis> button. The recording starts."
-msgstr "返回到 <emphasis role=\"strong\">录音机</emphasis> 窗口。现在可以通过点击 <emphasis role=\"strong\">录音</emphasis> 按钮从选中的输入设备开始录音了。录音将开始。"
+msgstr "返回到 <emphasis role=\"strong\">录音机</emphasis> 窗口。点击 <emphasis role=\"strong\">录音</emphasis> 按钮即可从选中的输入设备开始录音了。"
 
 #: chapter8/xinclude.xml:1442(title)
 msgid "Recording Sound"
@@ -1517,7 +1517,7 @@ msgstr "录音"
 
 #: chapter8/xinclude.xml:1453(para)
 msgid "After the recording is complete, you can play the recorded sound file by clicking the <emphasis role=\"strong\">Play</emphasis> button. The progress indicator moves along the progress bar as the sound file is playing. You can also view the duration of the recorded file in minutes and seconds under the <emphasis role=\"strong\">File information</emphasis> section."
-msgstr "录音结束后，可以点击 <emphasis role=\"strong\">播放</emphasis> 按钮播放录音文件。播放声音文件时，进度指示器沿进度条移动。也可以在 <emphasis role=\"strong\">文件信息</emphasis> 节下查看以分秒的形式查看录音文件的时间。"
+msgstr "录音结束后，点击 <emphasis role=\"strong\">播放</emphasis> 按钮播放录音文件。播放声音文件时，进度指示器沿进度条移动。也可以在 <emphasis role=\"strong\">文件信息</emphasis> 节下以分秒的形式查看录音文件的时间。"
 
 #: chapter8/xinclude.xml:1460(title)
 msgid "Playing Recorded Sound File"
@@ -1530,15 +1530,15 @@ msgstr "编辑音频文件"
 # 此处可能需要修改，添加/删除程序 估计已经废弃
 #: chapter8/xinclude.xml:1475(para)
 msgid "You can use Audacity for editing audio files. Audacity is not included in the default installation of Ubuntu but it is a free and open source software application, which can be installed easily from the Universe repository of Ubuntu. You can install Audacity using either the Add/Remove Applications or the Synaptic Package Manger."
-msgstr "可以使用 Audacity 编辑音频文件。Audacity 不包含在 Ubuntu 的默认安装中，但它是一个自由和开放源代码的应用软件，这样就可以容易地从 Uubntu 的 Universe 仓库中安装。既可以使用添加/删除程序也可以使用新立得软件包管理器安装 Audacity。"
+msgstr "可以使用 Audacity 编辑音频文件。Audacity 不包含在 Ubuntu 的默认安装中，但它是一个自由和开放源代码的应用软件，这样就可以从 Uubntu 的 Universe 库中选择安装。用户可以使用添加/删除程序或使用新立得软件包管理器安装 Audacity。"
 
 #: chapter8/xinclude.xml:1483(title)
 msgid "To edit audio files using Audacity:"
-msgstr "要使用 Audacity 编辑音频文件："
+msgstr "使用 Audacity 编辑音频文件："
 
 #: chapter8/xinclude.xml:1486(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audacity Sound Editor</emphasis>."
-msgstr "在<emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis>  然后点击 <emphasis role=\"strong\">Audacity 声音编辑器</emphasis>。"
+msgstr "在<emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis>  下的 <emphasis role=\"strong\">Audacity 声音编辑器</emphasis>。"
 
 #: chapter8/xinclude.xml:1492(title)
 msgid "Launching Audacity"
@@ -1548,7 +1548,7 @@ msgstr "启动 Audacity"
 # 叙述中是否加上汉语？
 #: chapter8/xinclude.xml:1503(para)
 msgid "When you access Audacity for the first time, it will ask you to select a language to use with the application. Apart from English, Audacity provides language support for more than 30 languages, including Arabic, Bulgarian, catalan, Czech, Danish, Finnish and many more. Select your language preference from the <emphasis role=\"strong\">Choose Language for Audacity to use</emphasis> drop-down list and click <emphasis role=\"strong\">OK</emphasis>."
-msgstr "第一次使用 Audacity 时，将要求选择程序使用的语言。除了英语，Audacity 提供超过 30 种语言支持。包括阿拉伯语，保加利亚语，加泰罗尼亚语，捷克语，丹麦语，芬兰语以及其它更多的很多种语言。从 <emphasis role=\"strong\">选择 Audacity 使用的语言</emphasis> 下拉菜单选择您的语言喜好，并点击 <emphasis role=\"strong\">确定</emphasis>。"
+msgstr "首次使用 Audacity 时，将要求选择程序使用的语言。除了英语，Audacity 提供超过 30 种语言支持，包括阿拉伯语、保加利亚语、加泰罗尼亚语、捷克语、丹麦语、芬兰语以及其它语言。从 <emphasis role=\"strong\">选择 Audacity 使用的语言</emphasis> 下拉菜单选择您需要的语言，并点击 <emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter8/xinclude.xml:1512(title)
 msgid "Selecting Language for Audacity"
@@ -1556,7 +1556,7 @@ msgstr "为 Audacity 选择语言"
 
 #: chapter8/xinclude.xml:1523(para)
 msgid "The Audacity main interface window is displayed. You can use the various controls and tools to play, create and edit audio files."
-msgstr "将显示 Audacity 主窗口。可以使用多种控制和工具以播放、创建和编辑音频文件。"
+msgstr "将显示 Audacity 主窗口。可以使用多种控制工具以播放、创建和编辑音频文件。"
 
 #: chapter8/xinclude.xml:1528(title)
 msgid "The Audacity Window"
@@ -1564,7 +1564,7 @@ msgstr "Audacity 窗口"
 
 #: chapter8/xinclude.xml:1539(para)
 msgid "You can now start editing an existing audio file in Audacity. To do so, you need to first import the audio file into Audacity. To import an audio file, on the <emphasis role=\"strong\">File</emphasis> menu, point to <emphasis role=\"strong\">Import</emphasis> and then select <emphasis role=\"strong\">Audio</emphasis>. The <emphasis role=\"strong\">Select one or more audio files</emphasis> dialogue box opens."
-msgstr "现在可以开始在 Audacity 中编辑现有的音频文件了。要做到这，需要首先向 Audacity 导入音频文件。要导入音频文件，在 <emphasis role=\"strong\">文件</emphasis> 菜单上，指向 <emphasis role=\"strong\">导入</emphasis> 然后选择 <emphasis role=\"strong\">音频</emphasis>。将打开 <emphasis role=\"strong\">选择一个或多个音频文件</emphasis> 对话框。"
+msgstr "现在可以开始在 Audacity 中编辑现有的音频文件了。首先向 Audacity 导入音频文件。在 <emphasis role=\"strong\">文件</emphasis> 菜单上，指向 <emphasis role=\"strong\">导入</emphasis> 然后选择 <emphasis role=\"strong\">音频</emphasis>。将打开 <emphasis role=\"strong\">选择一个或多个音频文件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:1547(title)
 msgid "Importing Audio Files into Audacity"
@@ -1576,11 +1576,11 @@ msgstr "选择要编辑的音频文件并点击 <emphasis role=\"strong\">打开
 
 #: chapter8/xinclude.xml:1574(para)
 msgid "The selected audio file opens in the Audacity interface. The audio file is represented as the blue waves in the lower part of the Audacity window. Now you can perform a whole range of tasks on this file.You can cut off some unwanted portion of the imported audio file, insert silence at some point, can add various audio effects on different sections of the file and may even export the file into an altogether different file format."
-msgstr "选中的音频文件在 Audacity 界面中打开了。音频文件在 Audacity 窗口的下部表示为蓝色波浪。现在可以对此文件执行一系列的工作。可以截去导入的文件中某些不需要的部分，在某些点上插入静音，可以在文件的不同部分添加多种声音效果，甚至也可以以一个完全不同的文件格式导出文件。"
+msgstr "选中的音频文件在 Audacity 界面中打开了。音频文件在 Audacity 窗口的下部表示为蓝色波浪。现在可以对此文件执行一系列的工作。可以截去其中某些不需要的部分，在某些点上插入静音，可以在文件的不同部分添加多种声音效果，还可以以其他文件格式导出文件。"
 
 #: chapter8/xinclude.xml:1582(para)
 msgid "Audacity also allows you to play an audio file. Click the <emphasis role=\"strong\">Play</emphasis> button to start playing the audio file."
-msgstr "Audacity 也可以播放音频文件。点击 <emphasis role=\"strong\">播放</emphasis> 按钮开始播放音频文件。"
+msgstr "Audacity 也可以播放音频文件。点击 <emphasis role=\"strong\">播放</emphasis> 按钮开始播放。"
 
 #: chapter8/xinclude.xml:1587(title)
 msgid "Playing the Imported File"
@@ -1588,11 +1588,11 @@ msgstr "播放已导入的文件"
 
 #: chapter8/xinclude.xml:1598(para)
 msgid "The audio file starts playing in the Audacity audio editor. You can use the various tools available with Audacity to start editing the current audio file:"
-msgstr "开始在 Audacity 音频编辑器中播放音频文件。可以使用 Audacity 的多种可用工具开始编辑当前音频文件："
+msgstr "开始在 Audacity 音频编辑器中播放音频文件。可以使用 Audacity 下的多种工具开始编辑当前音频文件："
 
 #: chapter8/xinclude.xml:1604(para)
 msgid "Magnifying tool: If you find that due to the length of the current file, you are unable to view the portions that you want to edit, you can use the Magnifying tool. This will let you zoom in on a specific area."
-msgstr "放大镜工具：如果发现由于当前文件的长度，不能查看想要编辑的文件部分，可以使用放大镜工具。这可以在指定区域放大。"
+msgstr "放大镜工具：如果由于当前文件的长度，不能查看想要编辑的文件部分，可以使用放大镜工具对指定区域进行放大。"
 
 #: chapter8/xinclude.xml:1611(para)
 msgid "Envelop tool: This enables you to change the volume of specific selections of the sound file."
@@ -1604,11 +1604,11 @@ msgstr ""
 
 #: chapter8/xinclude.xml:1622(para)
 msgid "Selection tool: Enables you to highlight portions of the sound file on which you want to work."
-msgstr "选择工具：可以高亮声音文件中想要编辑的部分。"
+msgstr "选择工具：可以高亮显示声音文件中想要编辑的部分。"
 
 #: chapter8/xinclude.xml:1627(para)
 msgid "To start editing a specific portion of the sound file, activate the <emphasis role=\"strong\">Selection</emphasis> tool by clicking it."
-msgstr "要开始编辑声音文件的指定部分，通过点击 <emphasis role=\"strong\">选择</emphasis> 工具激活它。"
+msgstr "点击 <emphasis role=\"strong\">选择</emphasis> 工具激活声音文件的指定部分开始编辑它。"
 
 #: chapter8/xinclude.xml:1632(title)
 msgid "Picking the Selection Tool"
@@ -1616,7 +1616,7 @@ msgstr "选取选择工具"
 
 #: chapter8/xinclude.xml:1643(para)
 msgid "Select the area you wish to edit by dragging across the area while pressing the left mouse button. The selected area appears in a shade of darker gray."
-msgstr "按住鼠标左键的同时通过拖动过此区域选择要编辑的区域。选定的区域显示在暗灰色的阴影中。"
+msgstr "按住鼠标左键的同时拖动鼠标选择要编辑的区域。选定的区域显示在暗灰色的阴影中。"
 
 #: chapter8/xinclude.xml:1648(title)
 msgid "Selecting Audio Portion to Edit"
