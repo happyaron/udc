@@ -450,7 +450,7 @@ msgid ""
 "for each release. This documentation is very reliable and available in "
 "different languages."
 msgstr ""
-"您应当最先查找的是离线系统文档。这些文档由 <ulink url=\"https://wiki.ubuntu."
+"您最先查找的应当是离线系统文档。这些文档由 <ulink url=\"https://wiki.ubuntu."
 "com/DocumentationTeam\">Ubuntu 文档团队</ulink> 维护，因此它们非常可靠并且拥"
 "有多个语言的版本。"
 
@@ -464,8 +464,7 @@ msgid ""
 msgstr ""
 "Ubuntu 系统文档是以主题为线索组织的，包括了对常见问题的解答。您可以点击 "
 "<emphasis role=\"strong\">系统</emphasis> 菜单下的 <emphasis role=\"strong\">"
-"帮助和支持</emphasis> 来访问这些文档。以下是帮助和支持离线文档系统的首页截"
-"图。"
+"帮助和支持</emphasis> 来访问这些文档。以下是离线文档系统的帮助和支持首页截图。"
 
 #: chapter9/xinclude.xml:87(para)
 msgid ""
