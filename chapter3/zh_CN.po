@@ -977,7 +977,9 @@ msgstr "访问网络连接"
 msgid ""
 "Alternatively, left-click on Network Manager and discover any detected "
 "wireless networks in range."
-msgstr "作为选择，左键点击网络管理器然后查看范围内检测到的任何无线网络。"
+msgstr ""
+"另一种方法，单击网络管理器图标，就可以看到附近的无线网络和你手动设置的无线网络，单"
+"击你想连接到的网络即可。"
 
 #: chapter3/xinclude.xml:356(title) chapter3/xinclude.xml:705(title)
 #: chapter3/xinclude.xml:1037(title) chapter3/xinclude.xml:1082(title)
