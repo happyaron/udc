@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-30 12:44+0800\n"
-"PO-Revision-Date: 2009-12-30 13:00+0800\n"
+"PO-Revision-Date: 2009-12-30 13:34+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -191,11 +191,11 @@ msgstr "什么是分区"
 
 #: chapter10/xinclude.xml:38(title)
 msgid "Analogy Time"
-msgstr ""
+msgstr "一个模拟例子"
 
 #: chapter10/xinclude.xml:40(para)
 msgid "Simply broken down, a new hard disk is similar to the foundations of a house - it needs some structure and walls before you can start putting things (like furniture) into it. The partition is the first level of foundation on the disk. Once the disk is logically carved up into partitions, it can be thought of as a house with rooms. Each partition (room) is of a specific size which could potentially be resized again after you move it, but would cause some disruption as objects get moved to make room. Once a partition (room) is created it can then be formatted using the filesystem of your choice. Once the filesystem has been laid down, it's possible to start populating the partition with data in the form of files and folders (furniture)."
-msgstr ""
+msgstr "简单地分解下，一块新硬盘就像毛坯房 - 在往里放东西 (例如家俱) 之前，它里边需要有一定的结构和墙。分区是磁盘的第一层基础。磁盘逻辑地划分为分区后，就可以将它想象成带有房间的房子。每个分区(房间)都有一定的大小，这种大小可以通过移动改变大小，但是将造成一些中断，就像挪动东西来腾出空间。分区(房间)创建后，就可以使用您选择的文件系统将其格式化。文件系统定下以后，就可以使用文件和文件夹(家俱)形式的数据填充分区了。"
 
 #: chapter10/xinclude.xml:53(para)
 msgid "So, a partition is a logical chunk of space allocated out of the entire disk. Depending on how a system is configured at installation time, there may be one or more partitions on a disk. In some instances, it is also possible to modify the layout, number and size of partitions, but this is often considered an expert's function."
@@ -278,7 +278,7 @@ msgstr "在最标准的 Ubuntu 安装下将只有一个分区，所有文件和�
 
 #: chapter10/xinclude.xml:175(title)
 msgid "Further considerations"
-msgstr ""
+msgstr "进一步思考"
 
 # 没看懂呢
 #: chapter10/xinclude.xml:177(para)
@@ -327,7 +327,7 @@ msgstr "/usr：此目录包含所有的用户程序(二进制)，它们的文档
 
 #: chapter10/xinclude.xml:267(para)
 msgid "The /usr partition is sometimes referred to as User System Resources and not user as was originally intended."
-msgstr ""
+msgstr "/usr 分区有时被称为用户系统资源，而此时的用户并不是原来所说的那个。"
 
 #: chapter10/xinclude.xml:203(para)
 msgid "Before partitioning your hard drive, you should consider the following: <placeholder-1/><placeholder-2/><placeholder-3/><placeholder-4/>"
