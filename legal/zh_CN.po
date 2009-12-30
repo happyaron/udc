@@ -42,7 +42,7 @@ msgstr "惟须遵守下列条件："
 
 #: legal/xinclude.xml:21(para)
 msgid "Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)."
-msgstr "署名。您必须按照作者或者许可人指定的方式对作品进行署名（但是不得以任何方式暗示它们支持您或者您做品的使用）。"
+msgstr "署名。您必须按照作者或者许可人指定的方式对作品进行署名(但是不得以任何方式暗示它们支持您或者您做品的使用)。"
 
 #: legal/xinclude.xml:27(para)
 msgid "Non-commercial. You may not use this work for commercial purposes."
@@ -54,7 +54,7 @@ msgstr "相同方式共享。如果您改变、转换本作品或者以本作品
 
 #: legal/xinclude.xml:36(para)
 msgid "For any reuse or distribution, you must make clear to others the license terms of this work. Any of the above conditions can be waived if you get permission from the copyright holder. Nothing in this license impairs or restricts the author's moral rights."
-msgstr "对于任何的再使用或者分发，您必须让他人清除了解到本作品所适用的协议条款。若您获得著作权人的许可，上述任何条件都可以免除。该协议的任何部分都不削弱或者限制作者的人格权利。"
+msgstr "对于任何的再使用或者分发，您必须让他人清楚了解到本作品所适用的协议条款。若您获得著作权人的许可，上述任何条件都可以免除。该协议的任何部分都不削弱或者限制作者的人格权利。"
 
 #: legal/xinclude.xml:42(para)
 msgid "For more information on this Copyright, please refer to: http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
