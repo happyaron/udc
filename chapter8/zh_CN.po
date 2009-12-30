@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-30 12:43+0800\n"
+"PO-Revision-Date: 2009-12-31 00:55+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -863,7 +863,7 @@ msgstr "检索歌词"
 
 #: chapter8/xinclude.xml:268(para)
 msgid "Amazingly, Rhythmbox retrieves the song lyrics for you. Now, you can sing along while listening to your favourite song."
-msgstr ""
+msgstr "Rhythmbox 可以提供实时歌词。您可以在听歌时跟唱了。"
 
 #: chapter8/xinclude.xml:272(title)
 msgid "The Song Lyrics Retrieved"
@@ -1348,7 +1348,7 @@ msgstr "开始下载"
 
 #: chapter8/xinclude.xml:1126(para)
 msgid "The <emphasis role=\"strong\">Summary</emphasis> dialogue box allows you to take a last look at all the software packages that you have marked for installation. To go ahead with the marked installations, click <emphasis role=\"strong\">Apply.</emphasis>"
-msgstr ""
+msgstr "在 <emphasis role=\"strong\">摘要</emphasis> 中您可以对预安装软件作最后一个浏览。点击 <emphasis role=\"strong\">应用</emphasis> 按钮就确认并安装。"
 
 #: chapter8/xinclude.xml:1132(title)
 msgid "Conforming Package Installation"
@@ -1594,13 +1594,14 @@ msgstr "开始在 Audacity 音频编辑器中播放音频文件。可以使用 A
 msgid "Magnifying tool: If you find that due to the length of the current file, you are unable to view the portions that you want to edit, you can use the Magnifying tool. This will let you zoom in on a specific area."
 msgstr "放大镜工具：如果由于当前文件的长度，不能查看想要编辑的文件部分，可以使用放大镜工具对指定区域进行放大。"
 
+# mohu
 #: chapter8/xinclude.xml:1611(para)
 msgid "Envelop tool: This enables you to change the volume of specific selections of the sound file."
-msgstr ""
+msgstr "Envelop tool：可以用来改变声音文件上选定的区域的音量。"
 
 #: chapter8/xinclude.xml:1616(para)
 msgid "Time Shift tool: Allows you to move the entire sound file in relation to time; helpful when you are working with multiple tracks."
-msgstr ""
+msgstr "时移工具：允许你移动与时间有关的声音文件，当您进行多个轨道工作时将很有用。"
 
 #: chapter8/xinclude.xml:1622(para)
 msgid "Selection tool: Enables you to highlight portions of the sound file on which you want to work."
@@ -1632,7 +1633,7 @@ msgstr "增幅 - 增大或减小声音而不改变音质"
 
 #: chapter8/xinclude.xml:1672(para)
 msgid "BassBoost - Increases the volume of a specific frequency."
-msgstr ""
+msgstr "BassBoost-增加某一特定音频的音量"
 
 #: chapter8/xinclude.xml:1677(para)
 msgid "Echo - Allows you to add an echo specify the delay time."
@@ -1656,7 +1657,7 @@ msgstr "噪声消除 - 消除背景噪音"
 
 #: chapter8/xinclude.xml:1698(para)
 msgid "Reverse - Allows you to play the selection backward"
-msgstr ""
+msgstr "反向-用来反向播放指定片段"
 
 #: chapter8/xinclude.xml:1702(para)
 msgid "To increase the volume of the selected portion, on the <emphasis role=\"strong\">Effect</emphasis> menu, select <emphasis role=\"strong\">Amplify</emphasis>. The <emphasis role=\"strong\">Amplify</emphasis> window opens."
@@ -1883,11 +1884,11 @@ msgstr "以 Ogg/Theora 视频格式编码"
 
 #: chapter8/xinclude.xml:2060(para)
 msgid "Can encode from local directory with video DVD files"
-msgstr "可以从本地目录使用 DVD 文件编码"
+msgstr "可对本地目录下的 DVD 文件进行编码"
 
 #: chapter8/xinclude.xml:2064(para)
 msgid "Is based on the GStreamer multimedia framework, which makes it fairly easy to add additional encoding formats/codecs in future."
-msgstr "基于 GStreamer 多媒体框架，这使他在未来相当容易地添加附加的格式或解码。"
+msgstr "基于 GStreamer 多媒体框架的结构使其能够相当容易地添加附加的格式或解码。"
 
 #: chapter8/xinclude.xml:2040(para)
 msgid "Thoggen includes certain key features: <placeholder-1/>"
@@ -1896,11 +1897,11 @@ msgstr "Thoggen 包含特定关键特性：<placeholder-1/>"
 # 还是 beta 吗？
 #: chapter8/xinclude.xml:2073(para)
 msgid "Thoggen is still beta software, but should work fine nevertheless. It is advisable, however, to check the list of known issues at <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>."
-msgstr "Thoggen 仍然是公开测试版(beta)的软件，但是应该可以很好的工作。是值得推荐的，然而，要查看已知问题列表  <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>。"
+msgstr "Thoggen 虽然是 beta 版的软件，但已经能很好的完成相应功能。尽管如此，仍然推荐查看已知问题列表  <ulink url=\"http://thoggen.net/download/\">http://thoggen.net/download/</ulink>。"
 
 #: chapter8/xinclude.xml:2078(para)
 msgid "To be able to back up your DVD using Thoggen, you need to first install it. You can easily find this application in the Universe repository of Synaptic Package Manager and install it on your computer."
-msgstr "要使使用 Thoggen 备份 DVD 成为可能，需要首先安装它。可以容易地在新立得软件包管理器的 Universe 仓库中找到此程序并在计算机上安装它。"
+msgstr "要使用 Thoggen 备份 DVD ，首先需要安装它。在新立得软件包管理器的 Universe 库中能很方便地找到此程序并在计算机上安装。"
 
 #: chapter8/xinclude.xml:2084(title)
 msgid "Installing Thoggen"
@@ -1908,12 +1909,12 @@ msgstr "安装 Thoggen"
 
 #: chapter8/xinclude.xml:2094(title)
 msgid "To start backing up your DVD using Thoggen:"
-msgstr "要使用 Thoggen 备份 DVD："
+msgstr "使用 Thoggen 备份 DVD："
 
 # Thoggen DVD Ripper?
 #: chapter8/xinclude.xml:2097(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Thoggen DVD Ripper</emphasis>."
-msgstr "在<emphasis role=\"strong\">Applications</emphasis> 菜单上, 指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Thoggen DVD Ripper</emphasis>。"
+msgstr "在<emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Thoggen DVD Ripper</emphasis>。"
 
 #: chapter8/xinclude.xml:2103(title)
 msgid "Launching Thoggen"
@@ -1921,7 +1922,7 @@ msgstr "启动 Thoggen"
 
 #: chapter8/xinclude.xml:2114(para)
 msgid "The <emphasis role=\"strong\">Thoggen</emphasis> window appears. As a first step to backing up your DVD, it simply asks you to select the specific tracks on the DVD that you want to back up. Specify the tracks by selecting the corresponding check boxes and then click <emphasis role=\"strong\">OK</emphasis> to proceed."
-msgstr "出现 <emphasis role=\"strong\">Thoggen</emphasis> 窗口。作为备份 DVD 的第一步，它简单的要求选择 DVD 上想要备份的指定曲目。通过选择对应的复选框指定曲目然后点击 <emphasis role=\"strong\">确定</emphasis> 以进行处理。"
+msgstr "弹出 <emphasis role=\"strong\">Thoggen</emphasis> 窗口。作为备份 DVD 的第一步，要求用户指定 DVD 上想要备份的曲目。通过选中对应的复选框指定曲目然后点击 <emphasis role=\"strong\">确定</emphasis> 进行处理。"
 
 #: chapter8/xinclude.xml:2121(title)
 msgid "Specifying the Tracks to Back up"
@@ -1930,7 +1931,7 @@ msgstr "指定要备份的音轨"
 # cam -> can
 #: chapter8/xinclude.xml:2132(para)
 msgid "In the next step of the backing up process, you are allowed to view and configure some of the settings according to your requirements. You can select the picture size from the corresponding drop-down list and define the output crop, by clicking the <emphasis role=\"strong\">Configure Cropping</emphasis> button. Otherwise, you cam simply click <emphasis role=\"strong\">OK</emphasis> to accept the default settings and continue with the process of backing up your DVD."
-msgstr "作为备份过程的下一步，允许根据需求查看和更改一些设置。可以通过点击 <emphasis role=\"strong\">配置裁剪</emphasis> 按钮从相应的下拉列表中选择图片大小和定义输出裁剪。否则，可以简单地点击 <emphasis role=\"strong\">确定</emphasis> 接受默认设置并继续处理 DVD 备份。"
+msgstr "接下来可以根据需求查看和更改一些设置。可以通过点击 <emphasis role=\"strong\">配置裁剪</emphasis> 按钮从相应的下拉列表中选择图片大小和定义输出裁剪。也可以点击 <emphasis role=\"strong\">确定</emphasis> 接受默认设置直接进行 DVD 备份。"
 
 #: chapter8/xinclude.xml:2141(title)
 msgid "Changing Default Settings"
@@ -1938,7 +1939,7 @@ msgstr "更改默认设置"
 
 #: chapter8/xinclude.xml:2152(para)
 msgid "The DVD backing process starts immediately. You can view the progress of the current as well as the entire process in the <emphasis role=\"strong\">Progress</emphasis> section of the Thoggen window. Thoggen takes quite long to backup a DVD. However, the final output is of a very high quality."
-msgstr "DVD 备份过程立即开始。可以在 Thoggen 窗口的 <emphasis role=\"strong\">进度</emphasis> 节中查看当前以及全部过程的进度。"
+msgstr "DVD 备份过程立即开始。可以在 Thoggen 窗口的 <emphasis role=\"strong\">进度</emphasis> 节中查看当前进程以及全部过程的进度。使用 Thoggen 进行备份可能花费的时间比较长，但其输出质量相当高。"
 
 #: chapter8/xinclude.xml:2159(title)
 msgid "Backing up DVD"
@@ -1947,7 +1948,7 @@ msgstr "备份 DVD"
 # You can listen and watch online videos and audios directly  这句有问题吧？
 #: chapter8/xinclude.xml:2175(para)
 msgid "Ubuntu provides you with tools to directly play music and videos available on the Internet. You can listen and watch online videos and audios directly from within your browser but may require to install some special player for this. Your ability to watch or listen to online media depends on how the provider of the music and video has made them available."
-msgstr "Ubuntu 提供了直接播放互联网上可用视频和音乐的工具。可以直接从浏览器收听和观看在线音频和视频，但是可能要求为此安装一些特定播放器。观看或收听在线媒体的能力依赖这些音乐和视频的提供者怎样让它们可用。"
+msgstr "对于互联网上的视频和音乐，Ubuntu 提供了直接播放的工具。您可以直接从浏览器中收听音乐，观看在线视频，但可能需要安装一些特定的播放器。您能否在线观看多媒体文件取决于文件提供者所做的设置。"
 
 #: chapter8/xinclude.xml:2183(title)
 msgid "Watching Videos in a Web Browser"
@@ -1956,7 +1957,7 @@ msgstr "在网页浏览器中观看视频"
 # youtube 需要换掉吗？
 #: chapter8/xinclude.xml:2185(para)
 msgid "You can play many of the videos available on the Internet directly from within your browser. For example, You can watch the Google videos and the You Tube videos directly in your FireFox window without installing any special player or additional browser plugins. The following screenshot displays a video being played inside the Firefox window:"
-msgstr "可以在浏览器内直接播放很多可以从网络上得到的视频。例如，可以观看直接在 Firefox 窗口中观看 Google 视频和 the You Tube 视频，而不用安装任何专用播放器或附加浏览器组件。如下截图显示一个正在 Firefox 窗口中播放的视频。"
+msgstr "可以直接在浏览器内播放大多数网络视频。例如，您可以在 Firefox 窗口中观看 Google 视频和 You Tube 视频，而不用安装任何专用播放器或附加浏览器组件。下图显示了一个正在 Firefox 窗口中播放视频的界面。"
 
 #: chapter8/xinclude.xml:2193(title)
 msgid "Watching Video in a Web Browser"
@@ -1968,7 +1969,7 @@ msgstr "Totem Xine 插件:"
 
 #: chapter8/xinclude.xml:2210(para)
 msgid "Install the <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> package from the \"Universe\" repository."
-msgstr "从“Universe”仓库安装 <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> 包。"
+msgstr "从“Universe\" 库中安装 <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2218(title)
 msgid "Totem gstreamer plugin:"
@@ -1976,7 +1977,7 @@ msgstr "Totem gstreamer 插件:"
 
 #: chapter8/xinclude.xml:2220(para)
 msgid "Install the <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> package from the \"Universe\" repository."
-msgstr "从“Universe”仓库安装 <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> 包。"
+msgstr "从\"Universe\" 库中安装 <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2228(title)
 msgid "Mplayer plugin:"
@@ -1984,7 +1985,7 @@ msgstr "Mplayer 插件:"
 
 #: chapter8/xinclude.xml:2230(para)
 msgid "Install the <emphasis role=\"strong\"> mozilla-mplayer</emphasis> package from the Universe repository"
-msgstr "从“Universe”仓库安装 <emphasis role=\"strong\"> mozilla-mplayer</emphasis> 包。"
+msgstr "从\"Universe\" 库中安装 <emphasis role=\"strong\"> mozilla-mplayer</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2238(title)
 msgid "Flash plugin:"
@@ -1992,28 +1993,28 @@ msgstr "Flash 插件:"
 
 #: chapter8/xinclude.xml:2240(para)
 msgid "install the <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> package from the \"Multiverse\" repository"
-msgstr "从“Multiverse”仓库安装 <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> 包。"
+msgstr "从“Multiverse”库中安装 <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2202(para)
 msgid "However, depending on the format of the video that you want to watch, you may also require to download and install certain additional browser plugins. Some of the plugins available for the default Firefox web browser are: <placeholder-1/>"
-msgstr "但是，根据想要观看的视频的格式，可能要求下载并安装特定的附加浏览器插件。对于默认的 Firefox 浏览器可用的插件有：<placeholder-1/>"
+msgstr "根据视频的格式，可能要求下载并安装特定的附加浏览器插件。对于默认的 Firefox 浏览器可用的插件有：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2247(para)
 msgid "The plugin installation process depends on the framework you use. If you use Totem-gstreamer, the default movie player included in Ubuntu, you need to install the totem-gstreamer-firefox-plugin package. However, to enable playing streaming video in your browser, you need to first install the Microsoft Windows codec and then install the totem plugin."
-msgstr "插件安装过程依赖于使用的框架。如果使用 Ubuntu 中默认的电影播放器 Totem-gstreamer，需要安装 totem-gstreamer-firefox-plugin。然而，要在浏览器中启用流媒体播放，需要首先安装微软 Windows 编解码器然后安装此 totem 插件。"
+msgstr "插件安装过程依赖于所使用的框架。如果使用 Ubuntu 中默认的电影播放器 Totem-gstreamer，需要安装 totem-gstreamer-firefox-plugin。然而，要在浏览器中启用流媒体播放，首先需要安装微软 Windows 解码器然后安装此 totem 插件。"
 
 # RealPlayer 10?需要换个版本吗？
 #: chapter8/xinclude.xml:2254(para)
 msgid "You can even install an additional mediaplayer, such as RealPlayer 10, to watch online video streams in Realmedia formats. When you have installed all the above mentioned plugins and codecs, you can watch RealMedia files even with your default media player, such as Totem. But, you may also want to install RealPlayer on your computer because RealPlayer supports streaming RealMedia files slightly better than other players."
-msgstr "您甚至也可以安装额外的媒体播放器，例如 RealPlayer 10 以观看 Realmedia 格式的在线视频流。安装了上述提到的所有插件和编解码器之后，甚至可以使用如 Totem 的默认媒体播放器观看 RealMedia 文件。但是，仍然可能想要向计算机上安装 RealPlayer 因为 RealPlayer 比其他播放器略好地支持流式 RealMedia 文件。"
+msgstr "您还可以安装额外的多媒体播放器来观看 Realmedia 格式的在线视频流，如 RealPlayer 10 。安装了上述插件和解码器之后，您甚至可以使用默认的多媒体播放器观看 RealMedia 文件，如 Totem 的。但您可能仍希望在计算机上安装 RealPlayer ，因为它比起其它播放器能更好地支持流式 RealMedia 文件。"
 
 #: chapter8/xinclude.xml:2262(para)
 msgid "The RealPlayer, developed by RealNetworks, supports a number of audio and video codecs such as realaudio, realvideo 10, mp3, ogg vorbis and theora, h263 and AAC. The RealPlayer for Linux is available in the Canonical commercial repository and can also be freely downloaded from the RealPlayer web site."
-msgstr "RealNetworks 开发的 RealPlayer 支持很多音频和视频编码，例如  realaudio、realvideo 10、mp3、ogg vorbis 和 theora、h263 以及 AAC。Linux 版的 RealPlayer 可以在 Canonical 商业仓库找到，也可以自由地从 RealPlayer 网站下载。"
+msgstr "RealNetworks 开发的 RealPlayer 支持很多音频和视频编码格式，如  realaudio、realvideo 10、mp3、ogg vorbis、theora、h263 以及 AAC等。Linux 版的 RealPlayer 可以在 Canonical 商业库中找到，也可以从 RealPlayer 网站自由地下载。"
 
 #: chapter8/xinclude.xml:2271(para)
 msgid "RealPlayer is a proprietary software and is not supported by the Ubuntu community."
-msgstr "RealPlayer 是一款商业软件，并不由 Ubuntu 社区支持。"
+msgstr "RealPlayer 是一款商业软件，并不由 Ubuntu 社区提供支持。"
 
 #: chapter8/xinclude.xml:2276(title)
 msgid "Installing RealPlayer"
@@ -2021,7 +2022,7 @@ msgstr "安装 RealPlayer "
 
 #: chapter8/xinclude.xml:2278(para)
 msgid "As mentioned above, the realPlayer for Linux is available in the Canonical commercial repository. Ubuntu does not include this repository by default. Therefore, you will first need to add Canonical's commercial repository to your system. Once the repository is added, you can search for the Realplayer package and then install it on your computer."
-msgstr "如前所述，Linux 版 RealPlayer 在 Canonical 商业仓库中可用。Ubuntu 默认并不包含此仓库。因此，您首先需要向您的系统添加 Canonical 商业仓库。一旦添加了此仓库，您可以搜索 Realplayer 包并安装在您的计算机上。"
+msgstr "如前所述，Linux 版 RealPlayer 可在 Canonical 商业库中获得。Ubuntu 默认并不包含此库。因此首先需要向您的系统添加 Canonical 商业库。添加完此库就可以搜索 Realplayer 包并安装在计算机上。"
 
 #: chapter8/xinclude.xml:2287(title)
 msgid "Watching Online Videos Using RealPlayer"
@@ -2030,7 +2031,7 @@ msgstr "使用 RealPlayer 播放在线视频"
 # realplayer 的版本？
 #: chapter8/xinclude.xml:2292(para)
 msgid "You can now access the realPlayer from the Applications menu. To access RealPlayer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">RealPlayer 10</emphasis>."
-msgstr "现在可以使用应用程序菜单访问 RealPlayer 了。要访问 RealPlayer，在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">RealPlayer 10</emphasis>。"
+msgstr "现在可以使用应用程序菜单访问 RealPlayer 了。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">RealPlayer 10</emphasis>。"
 
 #: chapter8/xinclude.xml:2296(emphasis)
 msgid "Launching RealPlayer"
@@ -2038,7 +2039,7 @@ msgstr "启动 RealPlayer"
 
 #: chapter8/xinclude.xml:2308(para)
 msgid "The <emphasis role=\"strong\">RealPlayer Setup Assistant</emphasis> is displayed to guide you through the set up of the RealPlayer. Click <emphasis role=\"strong\">Forward</emphasis> to start the set up process."
-msgstr "显示 <emphasis role=\"strong\">RealPlayer 设置助手</emphasis> 以帮助您通过 RealPlayer 的设置。点击 <emphasis role=\"strong\">前进</emphasis> 开始设置过程。"
+msgstr "将显示 <emphasis role=\"strong\">RealPlayer 设置助手</emphasis> 实现 RealPlayer 的设置。点击 <emphasis role=\"strong\">前进</emphasis> 开始设置。"
 
 #: chapter8/xinclude.xml:2314(emphasis)
 msgid "Initiating RealPlayer Set up"
@@ -2047,16 +2048,16 @@ msgstr "初始化 RealPlayer 设置"
 # edition of RealPlayer
 #: chapter8/xinclude.xml:2326(para)
 msgid "After reviewing the release notes of the RealPlayer 10, click <emphasis role=\"strong\">Forward</emphasis> again to proceed."
-msgstr "查看了 RealPlayer 10 的发行注记后，再次点击 <emphasis role=\"strong\">前进</emphasis> 以继续处理。"
+msgstr "查看了 RealPlayer 10 发行注记后，再次点击 <emphasis role=\"strong\">前进</emphasis> 以继续。"
 
 #: chapter8/xinclude.xml:2330(emphasis)
 msgid "Reviewing realPlayer Release Notes"
-msgstr "查看 RealPlayer 发行注释"
+msgstr "查看 RealPlayer 发行注记"
 
 # . again
 #: chapter8/xinclude.xml:2342(para)
 msgid "Before installing the RealPlayer application on your computer, you need to review the terms of the end user license agreement and accept it to be able to proceed with the setup. Click <emphasis role=\"strong\">Accept.</emphasis>"
-msgstr "安装 RealPlayer 程序到计算机之前，您需要检视最终用户许可条款并接受它以便能继续处理设置。点击 <emphasis role=\"strong\">接受</emphasis>。"
+msgstr "安装 RealPlayer 前，您需要阅读并接受终端用户协议以继续。点击 <emphasis role=\"strong\">接受</emphasis>。"
 
 #: chapter8/xinclude.xml:2347(emphasis)
 msgid "Accepting the License Agreement"
@@ -2064,15 +2065,15 @@ msgstr "接受许可协议"
 
 #: chapter8/xinclude.xml:2359(para)
 msgid "You have reached the final screen of the Realplayer setup Assistant. Specify the provided options and click <emphasis role=\"strong\">OK</emphasis> to complete the set up."
-msgstr "已经到达 RealPlayer 设置助手的最后一个屏幕。指定提供的选项并点击 <emphasis role=\"strong\">确定</emphasis> 以结束设置。"
+msgstr "已经到达 RealPlayer 安装助手的最后一项。指定提供的选项并点击 <emphasis role=\"strong\">确定</emphasis> 以结束安装。"
 
 #: chapter8/xinclude.xml:2363(emphasis)
 msgid "Completing the Set-up Process"
-msgstr "完成设置过程"
+msgstr "完成安装过程"
 
 #: chapter8/xinclude.xml:2375(para)
 msgid "The <emphasis role=\"strong\">RealPlayer</emphasis> window is displayed, indicating that the set up was successful. Now you can watch online streaming media in the RealPlayer."
-msgstr "显示 <emphasis role=\"strong\">RealPlayer</emphasis> 窗口，表明设置已经成功。现在可以使用 RealPlayer 观看在线流媒体了。"
+msgstr "显示 <emphasis role=\"strong\">RealPlayer</emphasis> 窗口即表明安装成功。现在可以使用 RealPlayer 观看在线流媒体了。"
 
 #: chapter8/xinclude.xml:2380(emphasis)
 msgid "The RealPlayer Window"
@@ -2080,7 +2081,7 @@ msgstr "RealPlayer 窗口"
 
 #: chapter8/xinclude.xml:2392(para)
 msgid "To start viewing the online video of your choice, launch Firefox and navigate to the Web page from which you want to view the streaming media."
-msgstr "要根据选择开始观看在线视频，打开 Firefox 并导航到要从中观看流媒体的网页。"
+msgstr "打开 Firefox 并导航到流媒体所在网页开始观看在线视频。"
 
 #: chapter8/xinclude.xml:2398(para)
 msgid "On the Web page, click the link to open the video of your choice."
@@ -2088,11 +2089,11 @@ msgstr "在网页上，点击链接打开您选择的视频。"
 
 #: chapter8/xinclude.xml:2402(emphasis)
 msgid "Selecting the Link to the Online Video"
-msgstr "选择到在线视频的链接"
+msgstr "选择在线视频的链接"
 
 #: chapter8/xinclude.xml:2414(para)
 msgid "You are asked to specify whether you want to open the linked file in RealPlayer or save it to your computer. To view the video as online streaming media, accept the default selection and click <emphasis role=\"strong\">OK</emphasis>."
-msgstr "询问指定是在 RealPlayer 中打开链接还是保存到计算机。要以在线流媒体的方式观看视频，接受默认选择并点击 <emphasis role=\"strong\">确定</emphasis>。"
+msgstr "此时将询问是在 RealPlayer 中打开此链接还是将其保存到计算机。要以在线流媒体的方式观看视频，接受默认选择并点击 <emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter8/xinclude.xml:2420(emphasis)
 msgid "Viewing Video as Streaming Media"
@@ -2108,15 +2109,15 @@ msgstr "在 RealPlayer 中观看在线视频"
 
 #: chapter8/xinclude.xml:2450(para)
 msgid "You can add the link to your <emphasis role=\"strong\">Favorites</emphasis> list to be able to view the video again without searching for it on the Internet. To save the video as a <emphasis role=\"strong\">Favorite,</emphasis> on the the <emphasis role=\"strong\">Favorites</emphasis> menu, click <emphasis role=\"strong\">Add to Favorite</emphasis>."
-msgstr "可以添加链接到 <emphasis role=\"strong\">搜藏</emphasis> 列表，以便不用从互联网上搜索就可以再此观看此视频。要作为 <emphasis role=\"strong\">收藏</emphasis> 保存，在 <emphasis role=\"strong\">收藏</emphasis> 菜单，点击 <emphasis role=\"strong\">添加到收藏</emphasis>。"
+msgstr "可以添加链接到 <emphasis role=\"strong\">搜藏</emphasis> 列表，下次再看此视频时便不用从互联网上搜索。要作为 <emphasis role=\"strong\">收藏</emphasis> 保存，在 <emphasis role=\"strong\">收藏</emphasis> 菜单下点击 <emphasis role=\"strong\">添加到收藏</emphasis>。"
 
 #: chapter8/xinclude.xml:2455(emphasis)
 msgid "Saving a Video as Favourite"
-msgstr "保存视频为收藏"
+msgstr "搜藏视频链接"
 
 #: chapter8/xinclude.xml:2467(para)
 msgid "The video is now saved as your favorite. In future, you can view this video directly from inside your RealPlayer by selecting the link from the <emphasis role=\"strong\">Favorites</emphasis> menu. You can also play an online video directly from inside the RealPlayer by specifying the location of the video. To do so, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open Location</emphasis>."
-msgstr "视频现在已经作为保存为了收藏。以后，可以直接在 RealPlayer 内通过从 <emphasis role=\"strong\">Favorites</emphasis> 菜单中选择观看此视频。也可以通过指定视频的位置来直接在 RealPlayer 内播放视频。要做到这，在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开位置</emphasis>。"
+msgstr "视频链接现在已经收藏。可以直接在 RealPlayer 内通过从 <emphasis role=\"strong\">搜藏</emphasis> 菜单中选择观看此视频。也可以通过指定视频的位置直接在 RealPlayer 内播放视频，即在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开位置</emphasis>。"
 
 #: chapter8/xinclude.xml:2475(emphasis)
 msgid "Viewing Online Video Directly from RealPlayer"
@@ -2136,24 +2137,24 @@ msgstr "编辑视频"
 
 #: chapter8/xinclude.xml:2509(para)
 msgid "In addition to viewing movies and videos, Ubuntu also provides you tools to help you edit a video. The tools available with Ubuntu include:"
-msgstr "除了观看电影和视频，Ubuntu 也提供帮助编辑视频的程序。Ubuntu 中可用的工具包括："
+msgstr "除了观看电影和视频，Ubuntu 还提供一些程序用来编辑视频。Ubuntu 中可用的工具包括："
 
 # 编辑决定列表???
 #: chapter8/xinclude.xml:2513(para)
 msgid "<emphasis role=\"strong\">Kino:</emphasis> An advanced video editor, Kino captures video to disk in Raw DV and AVI format. It allows you to load multiple video clips, cut and paste portions of video, and save it to an edit decision list in SMIL and XML formats."
-msgstr "<emphasis role=\"strong\">Kino：</emphasis> 一个高级视频编辑器，Kino 以 Raw DV 和 AVI 格式捕获视频。它可以加载多个视频剪辑，剪切和粘贴视频片段并以 SMIL 和 XML 格式保存它到编辑决定列表。"
+msgstr "<emphasis role=\"strong\">Kino：</emphasis> 一个高级视频编辑器，Kino 支持以 Raw DV 和 AVI 格式捕获视频。它可以同时加载多个视频剪辑，剪切和粘贴视频片段并以 SMIL 和 XML 格式保存到编辑决定列表。"
 
 #: chapter8/xinclude.xml:2518(para)
 msgid "<emphasis role=\"strong\">Stopmotion:</emphasis> Stopmotion is a free application for creating stop-motion animation movies. It enables you to create stop-motions from pictures imported from a camera or from the harddrive, add sound effects and export the animation to different video formats such as mpeg or avi."
-msgstr "<emphasis role=\"strong\">Stopmotion：</emphasis> Stopmotion 是一个创建定格动画电影的自由应用程序。它可以从摄像机或硬盘导入的图片创建定格动画，添加声音效果并导出动画到不同格式，如 mpeg 或 avi。"
+msgstr "<emphasis role=\"strong\">Stopmotion：</emphasis> Stopmotion 是一个创建定格动画电影的自由应用程序。它可以利用摄像机或硬盘导入的图片创建定格动画，添加声音效果并以不同格式导出动画，如 mpeg 或 avi 等。"
 
 #: chapter8/xinclude.xml:2524(para)
 msgid "<emphasis role=\"strong\">Subtitle Editor:</emphasis> Subtitle Editor is a GTK+2 tool to edit subtitles for movies and videos. you can use it for creating new subtitles or to transform, edit, correct and refine existing subtitles. This programme also shows sound waves, which makes it easier to synchronise subtitles to voices."
-msgstr "<emphasis role=\"strong\">字幕编辑器(Subtitle Editor)：</emphasis> 字幕编辑器是一款为电影和视频编辑字幕的 GTK+2 工具。可以使用它创建新字幕或传输、编辑、校对和完善已有字幕。此程序也显示声波，以容易地同步字幕和声音。"
+msgstr "<emphasis role=\"strong\">字幕编辑器(Subtitle Editor)：</emphasis> 字幕编辑器是一款为电影和视频编辑字幕的 GTK+2 工具。可以使用它创建新字幕或传输、编辑、校对和完善已有字幕。此程序也显示声波，使字幕和声音同步变得容易。"
 
 #: chapter8/xinclude.xml:2530(para)
 msgid "<emphasis role=\"strong\">Pitivi Video Editor:</emphasis> Pitivi Video Editor is a non-linear editor, which allows you to easily edit audio and video projects. Using Pitivi, you can capture audio and video, mix, resize, cut, and apply effects to audio and video sources. It also allows you to save the projects in any format supported by the GStreamer framework."
-msgstr "<emphasis role=\"strong\">Pitivi 视频编辑器：</emphasis> Pitivi 视频编辑器是一个非线性编辑器，可以容易地编辑音频和视频项目。使用 Pitivi，可以捕获音频和视频，组合、调整大小、切割、应用效果到音频和视频源。它允许保存项目到 GStreamer 框架支持的任何格式。"
+msgstr "<emphasis role=\"strong\">Pitivi 视频编辑器：</emphasis> Pitivi 视频编辑器是一个非线性编辑器，可以编辑音频和视频项目。使用 Pitivi，可以捕获音频和视频，对其进行组合、调整大小、切割或者对其应用效果。它允许将项目保存成 GStreamer 框架支持的任何格式。"
 
 #: chapter8/xinclude.xml:2538(title)
 msgid "Editing Videos Using Pitivi Video Editor"
@@ -2162,21 +2163,21 @@ msgstr "使用 Pitivi 视频编辑器编辑视频"
 # 此软件 10.04 已默认安装！！
 #: chapter8/xinclude.xml:2540(para)
 msgid "Pitivi Video Editor is not included in Ubuntu by default. It is available in the Universe repository of Ubuntu. You can install Pitivi using Synaptic Package Manager."
-msgstr "Pitivi Video Editor is not included in Ubuntu by default. It is available in the Universe repository of Ubuntu. You can install Pitivi using Synaptic Package Manager."
+msgstr "Ubuntu 默认未安装 Pitivi 视频编辑器。 可以在 Ubuntu 的 Universe 库下搜索获得。 可以利用新立得软件包管理器安装 Pitivi。"
 
 #: chapter8/xinclude.xml:2545(title)
 msgid "To edit video using Pitivi Video Editor:"
-msgstr "要使用 Pitivi 视频编辑器编辑视频："
+msgstr "使用 Pitivi 视频编辑器编辑视频："
 
 # 此处有版本号
 #: chapter8/xinclude.xml:2548(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Pitivi Video Editor</emphasis>. The <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Pitivi 视频编辑器</emphasis>。将打开 <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> 窗口。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Pitivi 视频编辑器</emphasis>。将打开 <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> 窗口。"
 
 # task bar 疑为 tool bar
 #: chapter8/xinclude.xml:2556(para)
 msgid "The main Pitivi interface is divided into a number of panes. You can use the various buttons on the task bar to perform tasks such as opening, importing, adding, viewing and saving video clips. To edit a video clip, first import the clip in the Pitivi Video editor by clicking the <emphasis role=\"strong\">Import Clips</emphasis> button."
-msgstr "Pitivi 界面被分为了多个嵌板。可以使用工具栏多个按钮来执行例如打开、导入、添加、查看和保存视频剪辑等任务。要编辑一个视频剪辑，首先通过点击 <emphasis role=\"strong\">Import Clips</emphasis> 按钮向 Piviti 视频编辑器中导入剪辑。"
+msgstr "Pitivi 界面被分为了多个嵌板。可以使用工具栏上的命令执行打开、导入、添加、查看和保存视频剪辑等任务。要编辑一个视频，点击 <emphasis role=\"strong\">导入片段</emphasis> 按钮向 Piviti 视频编辑器中导入剪辑。"
 
 #: chapter8/xinclude.xml:2564(title)
 msgid "The Pitivi Interface"
@@ -2184,15 +2185,15 @@ msgstr "Pitivi 界面"
 
 #: chapter8/xinclude.xml:2575(para)
 msgid "In the Import a clip dialogue box, navigate to the folder from where you want to import the video clip, select the single or multiple clips to be edited and click <emphasis role=\"strong\">Add</emphasis> to import it in the <emphasis role=\"strong\">Pitivi</emphasis> window."
-msgstr "在导入剪辑对话框中，导航到要从中导入视频剪辑的文件夹，选择单个或多个剪辑以编辑，并点击 <emphasis role=\"strong\">添加</emphasis> 以导入到 <emphasis role=\"strong\">Pitivi</emphasis> 窗口。"
+msgstr "在导入剪辑对话框中，导航到视频剪辑所在的文件夹，选择单个或多个剪辑以编辑，并点击 <emphasis role=\"strong\">添加</emphasis> 导入到 <emphasis role=\"strong\">Pitivi</emphasis> 窗口。"
 
 #: chapter8/xinclude.xml:2580(title)
 msgid "Importing Video Clips in Pitivi"
-msgstr "在 Pitivi 中导入视频剪辑"
+msgstr "向 Pitivi 导入视频剪辑"
 
 #: chapter8/xinclude.xml:2591(para)
 msgid "The selected video clip is now imported into the Pitivi Video editor. You can double-click the video clip to view it in the right pane. Click the <emphasis role=\"strong\">Stop</emphasis> button on the control bar to stop the playback."
-msgstr "选中的视频剪辑现在导入到了 Pitivi 视频编辑器。您可以双击此视频剪辑以在右嵌板查看它。点击控制条上的 <emphasis role=\"strong\">停止</emphasis> 按钮来停止播放。"
+msgstr "选中的视频剪辑现在导入到了 Pitivi 视频编辑器。双击此视频剪辑以在右嵌板查看它。点击控制条上的 <emphasis role=\"strong\">停止</emphasis> 按钮停止播放。"
 
 #: chapter8/xinclude.xml:2597(title)
 msgid "Viewing the Imported Video"
@@ -2200,7 +2201,7 @@ msgstr "查看导入的视频"
 
 #: chapter8/xinclude.xml:2608(para)
 msgid "To edit the imported video clip, you need to drag them to the bottom pane to add them to the time line and then select the <emphasis role=\"strong\">Project Settings</emphasis> option from the <emphasis role=\"strong\">File</emphasis> menu. This opens the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box."
-msgstr "要编辑导入的视频剪辑，您需要拖动它们到底部嵌板以添加它们到时间线，并然后从 <emphasis role=\"strong\">文件</emphasis> 菜单选择 <emphasis role=\"strong\">项目设置</emphasis> 选项。这项打开 <emphasis role=\"strong\">项目设置</emphasis> 对话框。"
+msgstr "要编辑导入的视频剪辑，您需要将其拖动到底部嵌板以添加它们到时间线上，然后从 <emphasis role=\"strong\">文件</emphasis> 菜单选择 <emphasis role=\"strong\">项目设置</emphasis> 选项，打开 <emphasis role=\"strong\">项目设置</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2616(title)
 msgid "Displaying the Project Settings Dialogue Box"
@@ -2208,7 +2209,7 @@ msgstr "显示工程设置对话框"
 
 #: chapter8/xinclude.xml:2627(para)
 msgid "In the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box, you can edit the various aspects of the selected movie clip by defining various specifications according to your preferences. You can use the <emphasis role=\"strong\">Video Output</emphasis> section to define the height, width and the frame rate of the video. Similarly, you can define the audio specifications under the <emphasis role=\"strong\">Audio Output</emphasis> section. Click <emphasis role=\"strong\">OK</emphasis> after specifying your preferences."
-msgstr "在 <emphasis role=\"strong\">项目设置</emphasis> 对话框中，可以根据喜好通过定义多个参数编辑选中的电影剪辑的多个性质。可以使用 <emphasis role=\"strong\">视频输出</emphasis> 节定义视频的高度、宽度和帧速率。类似地，可以在 <emphasis role=\"strong\">音频输出</emphasis> 节下定义音频参数。制定了喜好之后点击 <emphasis role=\"strong\">确定</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">项目设置</emphasis> 对话框中，可通过定义参数设置电影剪辑的多个属性。可以使用 <emphasis role=\"strong\">视频输出</emphasis> 节定义视频的高度、宽度和帧速率。类似地，可以在 <emphasis role=\"strong\">音频输出</emphasis> 节下定义音频参数。制定好之后点击 <emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter8/xinclude.xml:2638(title)
 msgid "Specifying Edit Preferences"
@@ -2216,7 +2217,7 @@ msgstr "设定编辑首选项"
 
 #: chapter8/xinclude.xml:2649(para)
 msgid "You return to the Pitivi window. To start applying your specifications on the selected video clip, click the <emphasis role=\"strong\">Render project</emphasis> button. This displays the <emphasis role=\"strong\">Render project</emphasis> dialogue box. You can use the <emphasis role=\"strong\">Modify</emphasis> button on the <emphasis role=\"strong\">Render project</emphasis> dialogue box to further modify your specifications for the video clip. Otherwise, click the <emphasis role=\"strong\">Choose file</emphasis> button to specify a file name for the edited video clip."
-msgstr "返回到 Pitivi 窗口。要开始向选定的视频剪辑应用设定，点击 <emphasis role=\"strong\">渲染项目</emphasis> 按钮。显示 <emphasis role=\"strong\">渲染项目</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染项目</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮进一步修改对视频剪辑的修改。否则，点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
+msgstr "返回到 Pitivi 窗口。点击 <emphasis role=\"strong\">渲染项目</emphasis> 按钮对视频剪辑应用该设定。显示 <emphasis role=\"strong\">渲染项目</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染项目</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮对视频剪辑做进一步的修改。最后点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
 
 #: chapter8/xinclude.xml:2659(title)
 msgid "Specifying the Output File"
@@ -2224,15 +2225,15 @@ msgstr "指定输出文件"
 
 #: chapter8/xinclude.xml:2670(para)
 msgid "This opens the <emphasis role=\"strong\">Choose file to render to</emphasis> dialogue box. Use this dialogue box to assign a name for the edited video clip and specify the location where you want it to be saved. After specifying these details, click <emphasis role=\"strong\">OK</emphasis> to continue."
-msgstr "此操作打开 <emphasis role=\"strong\">选择文件以渲染</emphasis> 对话框。使用此对话框给已编辑视频剪辑指定一个名字并指定要保存到的位置。指定了这些细节之后，点击 <emphasis role=\"strong\">确定</emphasis> 以继续。"
+msgstr "此操作打开 <emphasis role=\"strong\">选择文件以渲染</emphasis> 对话框，为已编辑视频剪辑指定一个名字并指定保存位置。最后点击 <emphasis role=\"strong\">确定</emphasis> 以继续。"
 
 #: chapter8/xinclude.xml:2676(title)
 msgid "Selecting the File to Render to"
-msgstr "选择要渲染到的文件"
+msgstr "选择要渲染的文件"
 
 #: chapter8/xinclude.xml:2687(para)
 msgid "The name of the file now appears on the <emphasis role=\"strong\">Output file</emphasis> button. Start editing the video clip by clicking the <emphasis role=\"strong\">Record</emphasis> button."
-msgstr "文件的名字出现在 <emphasis role=\"strong\">输出文件</emphasis> 按钮上。通过点击 <emphasis role=\"strong\">录像</emphasis> 按钮开始编辑视频剪辑。"
+msgstr "文件的名字出现在 <emphasis role=\"strong\">输出文件</emphasis> 按钮上。通过点击 <emphasis role=\"strong\">录像</emphasis> 按钮开始编辑。"
 
 #: chapter8/xinclude.xml:2692(title)
 msgid "Editing the Video File"
@@ -2240,15 +2241,15 @@ msgstr "编辑视频文件"
 
 #: chapter8/xinclude.xml:2703(para)
 msgid "The Pitivi Video Editor has started rendering a new project based on your specifications. You can view the progress of the process in the progress bar. Once the rendering is complete, click the Close button on the top-right corner to exit the <emphasis role=\"strong\">Render project</emphasis> dialogue box."
-msgstr "根据指定，Pitivi 视频编辑器开始渲染新工程。可以在进度条上查看处理的进度。渲染完成后，点击右上角的关闭按钮退出 <emphasis role=\"strong\">Render project</emphasis> 对话框。"
+msgstr "根据设定，Pitivi 视频编辑器开始渲染新工程。可以在进度条上查看处理的进度。渲染完成后，点击右上角的关闭按钮退出 <emphasis role=\"strong\">渲染</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2709(title)
 msgid "Project Rendering Progress Indicator"
-msgstr ""
+msgstr "项目进程指示器"
 
 #: chapter8/xinclude.xml:2720(para)
 msgid "The newly edited video clip is now saved at the specified location."
-msgstr "最近编辑的视频剪辑现在已经保存到了指定位置。"
+msgstr "编辑过的视频剪辑现在已经保存到了指定位置。"
 
 #: chapter8/xinclude.xml:2724(title)
 msgid "The Edited Video Clip"
@@ -2260,27 +2261,27 @@ msgstr "课堂总结"
 
 #: chapter8/xinclude.xml:2742(para)
 msgid "Software usage and distribution is controlled by laws and legislations unique to each country."
-msgstr "软件使用和发行是由每个国家独特的法律法规控制的。"
+msgstr "软件使用和发行是由每个国家各自的法律法规控制的。"
 
 #: chapter8/xinclude.xml:2747(para)
 msgid "When using or redistributing proprietary media formats, you should be aware of the associated patent or copyright laws."
-msgstr "当使用或重新发布私有媒体格式时，您应该知道与之相关的专利或版权法。"
+msgstr "在使用或重新发布私有媒体格式前，您应该知道与之相关的专利或版权法。"
 
 #: chapter8/xinclude.xml:2752(para)
 msgid "You can use Rhythmbox to play and organise music, listen to Internet radio and import music from CDs."
-msgstr "您可以使用 Rhythmbox 播放和组织音乐，收听网络电台，从 CD 导入音乐。"
+msgstr "您可以使用 Rhythmbox 播放和组织音乐，收听网络电台，或者从 CD 导入音乐。"
 
 #: chapter8/xinclude.xml:2757(para)
 msgid "Using Sound Juicer, you can play audio tracks direct from the CD, extract audio tracks and convert them into audio files in various file formats. In addition, the default audio CD/DVD burner for Ubuntu, Brasero, can be used to create audio and data CD/DVDs."
-msgstr "使用音乐榨汁机，可以从 CD 播放音频曲目，提取音频曲目并转换到多种格式的音频文件。另外，Ubuntu 默认的音频光盘刻录器 - Brasero 可以用来创建音频和数据光盘。"
+msgstr "使用音乐榨汁机，可以从 CD 播放或提取音频曲目，或者转换成其他格式的音频文件。另外，Ubuntu 默认的音频光盘刻录器 - Brasero 可以用来创建音频和数据光盘。"
 
 #: chapter8/xinclude.xml:2764(para)
 msgid "Playback of proprietary multimedia formats can be enabled in Ubuntu by installing additional multimedia codecs from the repositories."
-msgstr "Ubuntu 中可以通过从软件仓库安装而我多媒体编解码器启用播放私有多媒体格式。"
+msgstr "Ubuntu 中可以通过从软件库安装附加的多媒体解码器来播放私有多媒体格式。"
 
 #: chapter8/xinclude.xml:2770(para)
 msgid "Ubuntu offers you tools to play music from your iPod through gtkpod."
-msgstr "Ubuntu 提供给您通过 gtkpod 从 iPod 播放音乐的工具。"
+msgstr "Ubuntu 支持通过 gtkpod 从 iPod 播放音乐。"
 
 #: chapter8/xinclude.xml:2775(para)
 msgid "Sound Recorder can be used to create audio files in various formats."
@@ -2288,11 +2289,11 @@ msgstr "录音机可以用于创建多种格式的音频文件。"
 
 #: chapter8/xinclude.xml:2780(para)
 msgid "Audacity enables you to record and edit audio files."
-msgstr "Audacity 使您可以记录和编辑音频文件"
+msgstr "Audacity 支持记录和编辑音频文件"
 
 #: chapter8/xinclude.xml:2784(para)
 msgid "DVD playback in Totem Movie Player can be enabled by installing the required software packages."
-msgstr "Totem 电影播放器中的 DVD 回放可以通过安装需要的软件包来启用。"
+msgstr "可以通过安装需要的软件包以启用 Totem 电影播放器来播放 DVD 。"
 
 #: chapter8/xinclude.xml:2789(para)
 msgid "Thoggen is a DVD backup utility for Linux that can be used in Ubuntu to copy DVDs."
@@ -2300,7 +2301,7 @@ msgstr "Thoggen 是 Linux 上的一款 DVD 备份工具，其可以在 Ubuntu �
 
 #: chapter8/xinclude.xml:2794(para)
 msgid "Ubuntu provides you with tools to listen and watch online videos and audios directly from within your browser or in a mediaplayer such as RealPlayer."
-msgstr "Ubuntu 提供直接从浏览器或如 RealPlayer 的媒体播放器中收听和观看在线视频或音频的工具。"
+msgstr "Ubuntu 提供直接从浏览器或如 RealPlayer 的多媒体播放器中收听和观看在线视频或音频的工具。"
 
 #: chapter8/xinclude.xml:2800(para)
 msgid "Pitivi video Editor can be used to play and edit videos."
@@ -2336,11 +2337,11 @@ msgstr "不限制其他软件的使用"
 
 #: chapter8/xinclude.xml:2816(para)
 msgid "A free software license include the following features: <placeholder-1/>"
-msgstr "一种自由软件许可证包含如下特点：<placeholder-1/>"
+msgstr "一款自由软件许可证一般包含如下特点：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2840(para)
 msgid "Which is the default music player in Ubuntu?"
-msgstr "Ubuntu 中的默认音乐播放器是哪个？"
+msgstr "a) Ubuntu 中的默认音乐播放器是哪个？"
 
 #: chapter8/xinclude.xml:2844(para)
 msgid "Totem"
@@ -2364,15 +2365,15 @@ msgstr "b) Rhythmbox"
 
 #: chapter8/xinclude.xml:2868(para)
 msgid "What are podcasts?"
-msgstr "什么是博客？"
+msgstr "什么是播客？"
 
 #: chapter8/xinclude.xml:2872(para)
 msgid "Podcasts are audio shows, broadcasted over the Internet, that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
-msgstr "播客是一种可以订阅的音乐秀，通过网络的广播。订阅播客可以从订阅的播客源下载每个新音频发行。"
+msgstr "播客是通过订阅，在 Internet 上播放视频秀的一个网站。通过订阅播客可以从播客源下载每个新版音频文件。"
 
 #: chapter8/xinclude.xml:2881(para)
 msgid "Which application is available in Ubuntu by default to play and extract audio compact discs?"
-msgstr "Ubuntu 中哪个程序默认用于播放和提取音频光盘？"
+msgstr "Ubuntu 中默认用于播放和提取音频光盘的程序是以下哪个？"
 
 #: chapter8/xinclude.xml:2890(para)
 msgid "RealPlayer"
@@ -2389,11 +2390,11 @@ msgstr "音乐榨汁机"
 
 #: chapter8/xinclude.xml:2910(para)
 msgid "In which formats does Sound Juicer enable you to extract audio files onto your computer?"
-msgstr "音乐榨汁机可以以哪些格式将音频文件提取到计算机？"
+msgstr "音乐榨汁机可以向计算机提取哪种格式的视听文件？"
 
 #: chapter8/xinclude.xml:2915(para)
 msgid "Sound Juicer enables you to extract audio files into the following three formats:"
-msgstr "音乐榨汁机可以以如下格式提取音频文件："
+msgstr "音乐榨汁机可以提取如下格式的音频文件："
 
 #: chapter8/xinclude.xml:2920(para)
 msgid "Ogg Vorbis"
@@ -2414,7 +2415,7 @@ msgstr "音乐榨汁机从何处检索 CD 艺人、标题和曲目数据？"
 
 #: chapter8/xinclude.xml:2941(para)
 msgid "Sound Juicer will retrieve the CD artist, title, and track data from MusicBrainz.org."
-msgstr "音乐榨汁机将从 MusicBrainz.org 检索 CD 艺人、标题和曲目数据。"
+msgstr "音乐榨汁机从 MusicBrainz.org 检索 CD 艺人、标题和曲目数据。"
 
 #: chapter8/xinclude.xml:2948(para)
 msgid "Name the default CD audio recording application available in Ubuntu?"
@@ -2426,11 +2427,11 @@ msgstr "Brasero 是 Ubuntu 默认捆绑的音频 CD 刻录程序。"
 
 #: chapter8/xinclude.xml:2960(para)
 msgid "Why do you need to install additional multimedia codecs in Ubuntu?"
-msgstr "为什么需要您在 Ubuntu 中安装附加多媒体解码器？"
+msgstr "为什么需要在 Ubuntu 中安装附加多媒体解码器？"
 
 #: chapter8/xinclude.xml:2965(para)
 msgid "Due to the legal restrictions associated with the use of proprietary formats, by default, Ubuntu does not offer support for such formats. You need to install additional multimedia codecs to enabling such proprietary media formats in Ubuntu."
-msgstr "由于对于使用私有格式的法律限制，默认上，Ubuntu 不提供对这些格式的支持。您需要安装附加的多媒体解码器以在 Ubuntu 中启用这些私有媒体格式。"
+msgstr "由于对于使用私有格式的法律限制，默认上，Ubuntu 不提供对这些格式的支持。您需要安装附加的多媒体解码器以支持这些私有媒体格式。"
 
 #: chapter8/xinclude.xml:2974(para)
 msgid "You can download and install multimedia codecs using the ____________________."
@@ -2438,7 +2439,7 @@ msgstr "您可以使用 ____________________ 安装多媒体解码器。"
 
 #: chapter8/xinclude.xml:2979(para)
 msgid "Synaptic Package Manager or Command Line Interface"
-msgstr "新立得软件包管理器或命令行界面"
+msgstr "新立得软件包管理器或命令终端"
 
 #: chapter8/xinclude.xml:2986(title)
 msgid "Lab Exercise"
@@ -2450,19 +2451,19 @@ msgstr "练习 1：使用 Rhythmbox 播放音乐文件"
 
 #: chapter8/xinclude.xml:2991(para)
 msgid "You have recently installed Ubuntu and want to play and organise your music files, listen to music podcasts and Internet radio. List the steps that you would take."
-msgstr "刚刚安装了 Ubuntu 并想播放和组织您的音乐文件、收听音乐播客和网络电台。列出了将需要的步骤："
+msgstr "您刚安装了 Ubuntu，想在其下播放和组织音乐文件、收听音乐播客和网络电台。列出所需的操作步骤："
 
 #: chapter8/xinclude.xml:2998(para)
 msgid "On the <emphasis role=\"strong\">Application</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Rhythmbox Music Player</emphasis>."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">影音</emphasis> 然后点击 <emphasis role=\"strong\">Rhythmbox 音乐播放器</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Rhythmbox 音乐播放器</emphasis>。"
 
 #: chapter8/xinclude.xml:3005(para)
 msgid "To start importing individual music files into Rhythmbox, right-click <emphasis role=\"strong\">Library</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>."
-msgstr "要开始向 Rhythmbox 导入分离的音乐文件，右键点击 <emphasis role=\"strong\">音乐库</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>。"
+msgstr "向 Rhythmbox 导入音乐文件，右键点击 <emphasis role=\"strong\">音乐库</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>。"
 
 #: chapter8/xinclude.xml:3011(para)
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files."
-msgstr "在 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框中，导航到从中导入文件的文件夹。"
+msgstr "在 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框中，导航到文件所在文件夹。"
 
 #: chapter8/xinclude.xml:3017(para)
 msgid "Select the files that you want to import and click <emphasis role=\"strong\">Open.</emphasis>"
@@ -2471,11 +2472,11 @@ msgstr "选择要导入的文件并点击 <emphasis role=\"strong\">打开</emph
 # 怀疑原文有误，缺少一个 click
 #: chapter8/xinclude.xml:3021(para)
 msgid "Select the music tracks that you want to play and the <emphasis role=\"strong\">Play</emphasis> button to start playing the selected track."
-msgstr "选择要播放的音乐曲目，并点击 <emphasis role=\"strong\">播放</emphasis> 按钮开始播放选中曲目。"
+msgstr "选择要播放的音乐曲目，并点击 <emphasis role=\"strong\">播放</emphasis> 按钮开始播放。"
 
 #: chapter8/xinclude.xml:3031(para)
 msgid "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast Feed</emphasis> text box and click <emphasis role=\"strong\">Add.</emphasis>"
-msgstr "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框输入播客订阅 URL，然后点击 <emphasis role=\"strong\">添加</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框输入 URL，然后点击 <emphasis role=\"strong\">添加</emphasis>。"
 
 #: chapter8/xinclude.xml:3036(para)
 msgid "To play a podcast episode, select the episode that you want to play and click the <emphasis role=\"strong\">Play</emphasis> button."
@@ -2487,7 +2488,7 @@ msgstr "要收听网络电台，点击在 <emphasis role=\"strong\">源</emphasi
 
 #: chapter8/xinclude.xml:3046(para)
 msgid "Double-click on the radio station of your choice to listen to the streaming media."
-msgstr "根据您的选择在广播站上双击以收听流媒体。"
+msgstr "双击某一广播台以收听流媒体。"
 
 #: chapter8/xinclude.xml:3051(para)
 msgid "To add a new radio station to the existing list of stations, click <emphasis role=\"strong\">New Internet Radio Station</emphasis> and paste the URL of the new radio station in the <emphasis role=\"strong\">URL of Internet radio station</emphasis> text box."
@@ -2495,7 +2496,7 @@ msgstr "要向现有电台列表中添加新电台，点击 <emphasis role=\"str
 
 #: chapter8/xinclude.xml:3058(para)
 msgid "Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in the existing list."
-msgstr "点击 <emphasis role=\"strong\">Add</emphasis> 在现有列表中添加广播站。"
+msgstr "点击 <emphasis role=\"strong\">添加</emphasis> 在现有列表中添加该广播站。"
 
 #: chapter8/xinclude.xml:3070(title)
 msgid "Exercise 2: Playing and Extracting Audio CDs"
@@ -2503,7 +2504,7 @@ msgstr "练习 2：播放和提取音频 CD"
 
 #: chapter8/xinclude.xml:3072(para)
 msgid "You have built up an impressive CD collection over the years and you would like to play these on your Ubuntu desktop, retrieve details about the music tracks and extract your favourite music tracks onto your computer in a compatible format to be able to play them later. List the steps that you would need to perform to do all that you want."
-msgstr ""
+msgstr "多年来您收集了很多好听的 CD，现在您想在 Ubuntu 下播放它们，您想获得关于这些歌曲的详细信息，您还想将喜欢的歌曲以可用的格式复制到电脑上。列出实现这些功能需要执行的所有操作。"
 
 #: chapter8/xinclude.xml:3080(title)
 msgid "To play audio CDs:"
@@ -2511,27 +2512,27 @@ msgstr "要播放音频 CD："
 
 #: chapter8/xinclude.xml:3085(para)
 msgid "Insert an audio CD in the CD drive of your computer. The <emphasis role=\"strong\">Sound Juicer</emphasis> CD player and ripper is launched automatically."
-msgstr "向计算机的 CD 驱动器插入音频 CD。<emphasis role=\"strong\">音乐榨汁机</emphasis> CD 播放器和抓取器将自动启动。"
+msgstr "向计算机插入 CD。<emphasis role=\"strong\">音乐榨汁机</emphasis> CD 播放器将自动启动。"
 
 #: chapter8/xinclude.xml:3091(para)
 msgid "Notice that <emphasis role=\"strong\">Sound Juicer</emphasis> has fetched the tracks' information from MusicBrainz.org."
-msgstr "注意，<emphasis role=\"strong\">音乐榨汁机</emphasis> 已经从 MusicBrainz.org 取回了曲目信息。"
+msgstr "注意到，<emphasis role=\"strong\">音乐榨汁机</emphasis> 已经从 MusicBrainz.org 取回了曲目信息。"
 
 #: chapter8/xinclude.xml:3096(para)
 msgid "To play the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes."
-msgstr "要播放选择的曲目，通过选择对应的复选框选择特定的曲目。"
+msgstr "要播放选择的曲目，可选中对应曲目的复选框。"
 
 #: chapter8/xinclude.xml:3101(para)
 msgid "Click the <emphasis role=\"strong\">Play</emphasis> button to play the tracks."
-msgstr "点击 <emphasis role=\"strong\">Play</emphasis> 按钮播放曲目。"
+msgstr "点击 <emphasis role=\"strong\">播放</emphasis> 按钮播放曲目。"
 
 #: chapter8/xinclude.xml:3107(title)
 msgid "To extract an audio CD:"
-msgstr "要提取音频 CD："
+msgstr "提取音频 CD："
 
 #: chapter8/xinclude.xml:3112(para)
 msgid "Insert the audio CD into your computer's CD drive."
-msgstr "向您计算机的光驱插入音频 CD。"
+msgstr "向计算机中插入音频 CD。"
 
 #: chapter8/xinclude.xml:3116(para)
 msgid "On the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences.</emphasis>"
@@ -2543,11 +2544,11 @@ msgstr "在 <emphasis role=\"strong\">首选项</emphasis> 对话框中, 点击 
 
 #: chapter8/xinclude.xml:3127(para)
 msgid "Select the format of your choice from the <emphasis role=\"strong\">Output Format</emphasis> drop-down list."
-msgstr "根据选择 从 <emphasis role=\"strong\">Output Format</emphasis> 下拉列表中选定格式。"
+msgstr "根据需要从 <emphasis role=\"strong\">输出格式</emphasis> 下拉列表中选定格式。"
 
 #: chapter8/xinclude.xml:3131(para)
 msgid "Select the directory where you want to extract the files from the <emphasis role=\"strong\">Music Folder</emphasis> drop-down list."
-msgstr "从 <emphasis role=\"strong\">音乐文件夹</emphasis> 下拉列表中选择想要提取文件到的目录。"
+msgstr "从 <emphasis role=\"strong\">音乐文件夹</emphasis> 下拉列表中选择文件存放目录。"
 
 #: chapter8/xinclude.xml:3137(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
@@ -2555,11 +2556,11 @@ msgstr "点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role
 
 #: chapter8/xinclude.xml:3142(para)
 msgid "In the <emphasis role=\"strong\">Sound Juicer</emphasis> window, select the tracks that you want to extract by selecting the corresponding check boxes."
-msgstr "在 <emphasis role=\"strong\">音乐榨汁机</emphasis> 窗口中，通过选择对应的复选框选择要提取的曲目。"
+msgstr "在 <emphasis role=\"strong\">音乐榨汁机</emphasis> 窗口中，通过选中对应的复选框选择要提取的曲目。"
 
 #: chapter8/xinclude.xml:3148(para)
 msgid "Click the <emphasis role=\"strong\">Extract</emphasis> button to start extracting the files."
-msgstr "点击 <emphasis role=\"strong\">提取</emphasis> 按钮开始提取这些文件。"
+msgstr "点击 <emphasis role=\"strong\">提取</emphasis> 按钮开始提取文件。"
 
 #: chapter8/xinclude.xml:3166(title)
 msgid "Exercise 3: Burning Audio CDs"
@@ -2567,16 +2568,16 @@ msgstr "练习 3：刻录音频 CD"
 
 #: chapter8/xinclude.xml:3168(para)
 msgid "You have recently discovered a Web site from where you can freely download hundreds of songs. You do not want these files to occupy the precious space on your computer's hard drive. Therefore, you want to copy these files on audio CDs, so that you can listen to them in future without taking up space on the hard drive."
-msgstr "您最近发现了一个可以免费下载数百首歌的网站。您不想这些文件占用计算机硬盘驱动器上宝贵的空间。因此想要复制这些文件到音频 CD 上，以便将来欣赏它们而不用占用硬盘驱动器上的空间。"
+msgstr "您最近发现了一个可以免费下载歌曲的网站而您又不想这些文件占用计算机硬盘上宝贵的空间。于是您想要复制这些文件到音频 CD 上，以便将来欣赏它们而不占用硬盘空间。"
 
 #: chapter8/xinclude.xml:3179(para)
 msgid "Insert a blank (recordable) CD in the CD drive of your computer."
-msgstr "您计算机的光驱插入一张空白(可刻录的) CD。"
+msgstr "向计算机的光驱插入一张空白(可刻录的) CD。"
 
 # 此处有错？
 #: chapter8/xinclude.xml:3184(para)
 msgid "Click the click the <emphasis role=\"strong\">Make Audio CD</emphasis> button. This launches the <emphasis role=\"strong\">Brasero Disc Burning</emphasis> application."
-msgstr "点击 <emphasis role=\"strong\">制作音频 CD</emphasis> 按钮。这启动 <emphasis role=\"strong\">Brasero 光盘刻录</emphasis> 程序。"
+msgstr "点击 <emphasis role=\"strong\">制作音频 CD</emphasis> 按钮，启动 <emphasis role=\"strong\">Brasero 光盘刻录</emphasis> 程序。"
 
 #: chapter8/xinclude.xml:3189(para)
 msgid "Click the <emphasis role=\"strong\">New Audio Project</emphasis> button."
@@ -2584,15 +2585,15 @@ msgstr "点击 <emphasis role=\"strong\">新建音频工程</emphasis> 按钮。
 
 #: chapter8/xinclude.xml:3194(para)
 msgid "Navigate to the desired folder with the files you wish to add to display its contents."
-msgstr "导航到带有您想添加到显示其内容的文件的文件夹。"
+msgstr "导航到预刻录文件所在的文件夹。"
 
 #: chapter8/xinclude.xml:3199(para)
 msgid "Select the specific audio files that you want to be copied and click the <emphasis role=\"strong\">Add</emphasis> button or simply drag each file name to the Files area in the right side of the project window."
-msgstr "选择要复制的指定音频文件并点击 <emphasis role=\"strong\">添加</emphasis> 按钮或简单地拖动每个文件名到项目窗口右边的文件区域。"
+msgstr "指定预复制文件并点击 <emphasis role=\"strong\">添加</emphasis> 按钮，也可以将文件拖动到项目窗口右边的文件区域。"
 
 #: chapter8/xinclude.xml:3205(para)
 msgid "Once you are sure of the files to be copied to the disk, click the <emphasis role=\"strong\">Burn</emphasis> button to start writing the audio files from your computer to the CD."
-msgstr "确定要复制到磁盘的文件之后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始从计算机向 CD 写入音频文件。"
+msgstr "确定预复制文件之后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始向 CD 写入音频文件。"
 
 #: chapter8/xinclude.xml:3211(para)
 msgid "The Disc Burning Setup dialogue box displays. Click <emphasis role=\"strong\">Burn</emphasis> to continue."
@@ -2600,7 +2601,7 @@ msgstr "显示光盘刻录设置对话框。点击 <emphasis role=\"strong\">刻
 
 #: chapter8/xinclude.xml:3217(para)
 msgid "Brasero now starts writing the music files to the media disc."
-msgstr "Brasero 现在开始写入音乐文件到媒体光盘。"
+msgstr "Brasero 现在开始向光盘写入音乐文件。"
 
 #: chapter8/xinclude.xml:3222(title)
 msgid "Exercise 4: Playing Proprietary Multimedia formats"
@@ -2608,24 +2609,24 @@ msgstr "练习 4：播放私有多媒体格式"
 
 #: chapter8/xinclude.xml:3224(para)
 msgid "You have a huge collection of music in MP3 format stored on your computer and want to play these music files on your Ubuntu desktop. List the steps that you will need to take to be able install the required multimedia codecs."
-msgstr "您有大量存放在计算机上的 MP3 格式的音乐文件并且想在 Ubuntu 桌面上播放这些音乐。列出了要可以安装需要的多媒体编解码器所要执行的步骤。"
+msgstr "您有大量 MP3 格式的音乐文件存放在计算机上，现在您想在 Ubuntu 桌面上播放这些音乐。列出安装所需多媒体解码器需要执行的步骤。"
 
 #: chapter8/xinclude.xml:3231(title)
 msgid "To Install a codec plugin using Synaptic Package Manager:"
-msgstr "要使用新立得软件包管理器安装解码插件："
+msgstr "使用新立得软件包管理器安装解码插件："
 
 # 此处原文句号放错地方，又。
 #: chapter8/xinclude.xml:3242(para)
 msgid "The Multiverse and Restricted repositories are not activated by default in Ubuntu. To activate these repositories, on the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories.</emphasis> The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box is displayed."
-msgstr "在 Ubuntu 中，Multiverse 和 Restricted 仓库默认没有激活。要激活这些仓库，在 <emphasis role=\"strong\">设置</emphasis> 菜单上点击 <emphasis role=\"strong\">软件库</emphasis>。将显示 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
+msgstr "在 Ubuntu 中，Multiverse 和 Restricted 库默认没有激活。要激活这些仓库，在 <emphasis role=\"strong\">设置</emphasis> 菜单上点击 <emphasis role=\"strong\">软件库</emphasis>，此时显示 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:3273(para)
 msgid "To install a software package, you need to first locate the package in the Synaptic Package Manager window."
-msgstr "要安装软件包，您需要首先在新立得包管理器窗口中定位此包。"
+msgstr "要安装软件包，您首先需要在新立得包管理器窗口中标定此包。"
 
 #: chapter8/xinclude.xml:3278(para)
 msgid "To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>"
-msgstr "要开始搜索某个软件包，点击 <emphasis role=\"strong\">Search</emphasis>。"
+msgstr "要开始搜索某个软件包，点击 <emphasis role=\"strong\">搜索</emphasis>。"
 
 #: chapter8/xinclude.xml:3288(para)
 msgid "Right-click the package to be installed and select <emphasis role=\"strong\">Mark for Installation</emphasis>."
@@ -2637,15 +2638,15 @@ msgstr "所有需要的软件包都标记了以后，点击 <emphasis role=\"str
 
 #: chapter8/xinclude.xml:3298(para)
 msgid "To go ahead with the marked installations, click <emphasis role=\"strong\">Apply</emphasis> on the <emphasis role=\"strong\">Summary</emphasis> dialogue box."
-msgstr "要继续已标记的安装，在 <emphasis role=\"strong\">摘要</emphasis> 对话框上点击 <emphasis role=\"strong\">应用</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">摘要</emphasis> 对话框上点击 <emphasis role=\"strong\">应用</emphasis> 开始安装。"
 
 #: chapter8/xinclude.xml:3302(para)
 msgid "After all the mark software packages are downloaded and installed, the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box is displayed. Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box."
-msgstr "所有标记的软件包下载并安装以后，将显示 <emphasis role=\"strong\">Changes Applied</emphasis> 对话框。点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong\">变更已应用</emphasis> 对话框。"
+msgstr "所有标记的软件包下载并安装以后，将显示 <emphasis role=\"strong\">变更已应用</emphasis> 对话框。点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong\">变更已应用</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:3308(para)
 msgid "The check box corresponding to the recently installed software package has changed to green, indicating that the software has been installed successfully."
-msgstr "对应于最近安装的软件包的复选框显示为绿色，说明此软件已安装成功。"
+msgstr "最近安装的软件包的复选框显示为绿色，说明此软件已安装成功。"
 
 #: chapter8/xinclude.xml:3315(title)
 msgid "Exercise 5: Playing DVDs"
@@ -2653,15 +2654,15 @@ msgstr "练习 5：播放 DVD"
 
 #: chapter8/xinclude.xml:3317(para)
 msgid "One of your friends has recently given you a DVD gift box set of your favourite movies of all times. Now, you want to play this DVD in your Ubuntu desktop and enjoy your favourite movies."
-msgstr "假设有朋友送了你一张DVD，上面刻录了你最爱看的电影。接下来，你想在 Ubuntu 下播放它，享受电影的乐趣。"
+msgstr "假设有朋友送了您一张DVD，上面刻录了您最爱看的电影。接下来，您想在 Ubuntu 下播放它，享受电影的乐趣。"
 
 #: chapter8/xinclude.xml:3323(title)
 msgid "To play the DVD in the Movie player:"
-msgstr "要在电影播放器中播放 DVD："
+msgstr "在电影播放器中播放 DVD："
 
 #: chapter8/xinclude.xml:3326(para)
 msgid "Install the following software packages from the Universe and Multiverse repositories using the Synaptic Package Manager."
-msgstr "使用新立得软件包管理器从 Universe 和 Multiverse 仓库安装如下软件包。"
+msgstr "使用新立得软件包管理器从 Universe 和 Multiverse 库中安装如下软件包。"
 
 #: chapter8/xinclude.xml:3331(para)
 msgid "gxine"
@@ -2685,41 +2686,41 @@ msgstr "libdvdvread3"
 
 #: chapter8/xinclude.xml:3353(para)
 msgid "Install the Ubuntu Restricted Extras software package from the Ubuntu repository."
-msgstr "从 Ubuntu 软件仓库安装 Ubuntu 额外受限软件包。"
+msgstr "可以从 Ubuntu 软件库安装 Ubuntu 受限软件包。"
 
 #: chapter8/xinclude.xml:3358(para)
 msgid "Insert the DVD into the DVD drive of your computer. This will automatically launch the Totem and the DVD will start playing."
-msgstr "向您计算机的 DVD 驱动器插入 DVD。Totem 将自动启动并且开始播放 DVD。"
+msgstr "向计算机中插入 DVD。Totem 将自动启动并且开始播放 DVD。"
 
 #: chapter8/xinclude.xml:3363(para)
 msgid "To view the DVD in full screen mode, on the View menu, click Fullscreen. Alternatively, you can simply press F on your keyboard."
-msgstr "要全屏观看 DVD，在查看菜单上点击全屏。或者，您可以简单的在键盘上按 F 键。"
+msgstr "要全屏观看 DVD，可在查看菜单上点击全屏。或者，您可以单击键盘上的 F 键。"
 
 #: chapter8/xinclude.xml:3369(para)
 msgid "You can enjoy the DVD in full screen mode. At any point of time, while watching the DVD in fullscreen mode, you can press ESC and return to the Totem window."
-msgstr "可以以全屏模式欣赏 DVD。在以全屏模式观看 DVD 的任何时间，都可以按 ESC 返回到 Totem 窗口。"
+msgstr "可以以全屏模式欣赏 DVD。在以全屏模式观看 DVD 时，都可以按 ESC 返回到 Totem 窗口。"
 
 # 难道又错了吗？
 #: chapter8/xinclude.xml:3375(para)
 msgid "To configure the preferences settings, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences.</emphasis>"
-msgstr "要配置首选项设置，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上，点击 <emphasis role=\"strong\">首选系</emphasis>。"
+msgstr "要设置显示方式，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上，点击 <emphasis role=\"strong\">首选项</emphasis>。"
 
 #: chapter8/xinclude.xml:3379(para)
 msgid "After specifying your preferences, click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr "指定喜好之后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
+msgstr "设定完成后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 # 此处菜单项不只如何翻译，到时再看看是什么吧
 #: chapter8/xinclude.xml:3383(para)
 msgid "To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
-msgstr "要跳过下一帧，在 <emphasis role=\"strong\">Go</emphasis> 菜单上，点击 <emphasis role=\"strong\">Skip Forwards</emphasis>。"
+msgstr "要跳到下一帧，在 <emphasis role=\"strong\">导航</emphasis> 菜单上，点击 <emphasis role=\"strong\">快进</emphasis>。"
 
 #: chapter8/xinclude.xml:3388(para)
 msgid "You do not want to view the side bar when playing the DVD, click the <emphasis role=\"strong\">Sidebar</emphasis> button."
-msgstr "如果播放 DVD 时不想查看侧边栏，点击 <emphasis role=\"strong\">侧边栏</emphasis> 按钮。"
+msgstr "播放 DVD 时不想看到侧边栏，点击 <emphasis role=\"strong\">侧边栏</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:3393(para)
 msgid "This hides the side bar and now you can view the DVD on a bigger space and simultaneously, have all the playback controls right in front of you."
-msgstr "此操作隐藏侧边栏，现在可以以更大的空间观看 DVD 了，同时使所有的播放控制正对着您。"
+msgstr "此操作隐藏侧边栏，现在可以以更大的空间观看 DVD 了，同时所有的播放控件将正对着您。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter8/xinclude.xml:0(None)
