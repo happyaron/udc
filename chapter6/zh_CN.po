@@ -7,17 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-29 15:59+0800\n"
-"PO-Revision-Date: 2009-12-30 13:14+0800\n"
+"PO-Revision-Date: 2009-12-30 14:31+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
-"Language-Team: Chinese Simplified <kde-china@kde.org>\n"
+"Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2009-11-11 04:32+0000\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -1767,7 +1764,7 @@ msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, click "
 "<emphasis role=\"strong\">Add/Remove</emphasis>."
 msgstr ""
-"在<emphasis role=\"strong\">应用程序</emphasis>菜单中点击<emphasis role="
+"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中点击 <emphasis role="
 "\"strong\">Ubuntu 软件中心</emphasis>。"
 
 #: chapter6/xinclude.xml:1066(title)
@@ -1775,14 +1772,15 @@ msgid "Launching Add/Remove Applications"
 msgstr "启动 Ubuntu 软件中心"
 
 #: chapter6/xinclude.xml:1077(para)
-#, fuzzy
 msgid ""
 "The <emphasis role=\"strong\">Add/Remove Applications</emphasis> dialogue "
 "box displays a list of applications. The check boxes against the "
 "applications that are already installed are pre-selected."
 msgstr ""
-"<emphasis role=\"strong\">添加/删除应用程序</emphasis>对话框显示应用程序列"
-"表。已安装的应用程序所对应的复选框会自动勾选。"
+"<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis "
+"role=\"strong\">获取自由软件</emphasis> 首页将显示程序分类。"
+"已安装的应用程序则显示在 <emphasis role=\"strong\">已安装的软件</emphasis> "
+"页面中。"
 
 #: chapter6/xinclude.xml:1084(para)
 msgid ""
@@ -1804,7 +1802,7 @@ msgid ""
 "check box next to the required package in the right pane."
 msgstr ""
 "如果您知道要安装的软件包名称，您可以在右上角的搜索框中输入名称。否则，您可以"
-"在软件中心首页中点击恰当的软件分类并选择需要的软件包。"
+"在 <emphasis>获取自由软件</emphasis> 首页中点击恰当的软件分类并选择需要的软件包。"
 
 #: chapter6/xinclude.xml:1110(para)
 msgid ""
@@ -1820,29 +1818,33 @@ msgid ""
 "When you have finished selecting the packages to be installed or removed, "
 "click <emphasis role=\"strong\">Apply Changes</emphasis>."
 msgstr ""
-"在软件介绍页面中，点击下方<emphasis role=\"strong\">安装</emphasis>或者"
-"<emphasis role=\"strong\">移除</emphasis>按钮来执行相应操作。更多的信息可以点击"
-"<emphasis role=\"strong\">网站</emphasis>按钮以浏览该项目的主页。"
+"在软件介绍页面中，点击下方 <emphasis role=\"strong\">安装</emphasis> 或者 "
+"<emphasis role=\"strong\">移除</emphasis> 按钮来执行相应操作。更多的信息可以点击 "
+"<emphasis role=\"strong\">网站</emphasis> 按钮以浏览该项目的主页。"
 
 #: chapter6/xinclude.xml:1131(title)
 msgid "Applying Changes to the Package List"
-msgstr "对软件包列表应用更改"
+msgstr "对所选软件包应用更改"
 
 #: chapter6/xinclude.xml:1142(para)
 msgid ""
 "You are prompted to confirm your selection. Click <emphasis role=\"strong"
 "\">Apply</emphasis> to proceed."
-msgstr "您会被提示确认您的选择。点击<emphasis role=\"strong\">应用</emphasis>继续。"
+msgstr ""
+"您会被提示需要授权操作。输入密码并点击 <emphasis role=\"strong\">授权</"
+"emphasis> 继续。"
 
 #: chapter6/xinclude.xml:1145(title)
 msgid "Confirming Changes"
-msgstr "确认更改"
+msgstr "授权操作"
 
 #: chapter6/xinclude.xml:1156(para)
 msgid ""
 "The progress indicator shows the status of the package being installed or "
 "removed."
-msgstr "进度条指示器显示正在安装或删除的软件包状态。"
+msgstr ""
+"<emphasis role=\"strong\">正在执行</emphasis> 页面中的进度条指示器将显示正在安"
+"装或删除的软件包状态。"
 
 #: chapter6/xinclude.xml:1160(title)
 msgid "Installing Selected Package from Repositories"
@@ -1850,11 +1852,11 @@ msgstr "从仓库安装所选的软件包"
 
 #: chapter6/xinclude.xml:1171(para)
 msgid "After the changes are applied successfully, the package is installed."
-msgstr "成功应用更改后，软件包安装完成。"
+msgstr "执行完毕，软件包安装完成，返回该软件介绍页面"
 
 #: chapter6/xinclude.xml:1175(title) chapter6/xinclude.xml:1374(title)
 msgid "Installation Confirmation"
-msgstr "安装确认"
+msgstr "安装完成"
 
 #: chapter6/xinclude.xml:1186(para)
 msgid ""
@@ -1865,11 +1867,9 @@ msgid ""
 "dialogue box. The following figure shows <emphasis role=\"strong\">Atomix</"
 "emphasis>, which has been installed by performing this procedure."
 msgstr ""
-"双击软件包启动应用程序。如果您想安装或删除更多应用程序，请点击<emphasis role="
-"\"strong\">添加/删除更多应用程序</emphasis>或者点击<emphasis role=\"strong\">"
-"新应用程序已安装</emphasis>对话框中的<emphasis role=\"strong\">关闭</"
-"emphasis>。下图展示了 <emphasis role=\"strong\">Atomix</emphasis>，它就是通过"
-"本过程安装的。"
+"如果您想安装或删除更多应用程序，请返回 <emphasis role=\"strong\">获取自由软件"
+"</emphasis> 首页继续操作。下图展示了 <emphasis role=\"strong\">Atomix</"
+"emphasis>，它就是通过以上步骤安装的。"
 
 #: chapter6/xinclude.xml:1194(title)
 msgid "Launching the Installed Application - Atomix"
