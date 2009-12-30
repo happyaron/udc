@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-30 12:44+0800\n"
-"PO-Revision-Date: 2009-12-30 13:34+0800\n"
+"PO-Revision-Date: 2009-12-30 16:37+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -219,15 +219,15 @@ msgstr "对于两种方案都有合适的理由。使用单个分区包含所有
 
 #: chapter10/xinclude.xml:86(para)
 msgid "If you accept all the defaults when installing Ubuntu, you will end up with a system separated into two partitions on the disk. One contains all files, the other is known as \"swap\" which can be thought of as an extension to your computer's internal memory."
-msgstr "如果在安装 Ubuntu 是接受了所有的默认值，您将最后获得分离在磁盘上两个分区的系统。一个装有所有文件，另一个是所谓交换分区(swap)其可以被认为是系统内存的扩展。"
+msgstr "如果安装 Ubuntu 时接受了所有的默认值，最后获得的系统将位于在磁盘上的两个分区中。一个装有所有文件，另一个是所谓交换分区(swap)，其可以被认为是系统内存的扩展。"
 
 #: chapter10/xinclude.xml:92(para)
 msgid "Alternatively, it is possible to create multiple partitions of differing sizes into which different types of applications, libraries and data can be placed. This is often used in a multi-user or server environment where user data is kept separate from system programmes, log files and configuration files. A significant benefit to this can be seen when there is a problem on the system and log files start to grow. The log files (in one partition) will not consume all available disk space in this scenario because they will be confined to their own (small) partition of the physical disk."
-msgstr "或者，可以创建不同大小的多个分区，不同类型的应用程序、库和数据可以放在其上。这经常用于多用户或服务器环境，此时用户数据和系统程序、日志文件及配置文件保持分离。这样做的一个显著好处可以在系统出错、日志文件开始增长时看到。这个案例中，日志文件(位于一个分区中)将消耗掉所有可用磁盘空间，因为它们将被限制在物理磁盘中它们自己的(小)分区中。"
+msgstr "或者，可以创建多个大小不同的分区，不同类型的应用程序、库和数据可以分别放在其中。这经常用于多用户或服务器环境，此时用户数据和系统程序、日志文件及配置文件保持分离。这样做的一个显著好处可以在系统出错、日志文件开始增长时看到。这个案例中，日志文件(位于一个分区中)将不会消耗掉所有可用磁盘空间，因为它们将被限制在物理磁盘中它们自己的(小)分区中。"
 
 #: chapter10/xinclude.xml:102(para)
 msgid "Which ever partitioning scheme has been chosen, this is not set in stone. It is possible to use a partition editing utility to resize partitions (subject to sufficient free space in each partition), however this is quite an advanced topic, and generally nto done while the system is in use."
-msgstr "分区方案选定以后，并不就是固定死了。还是可以使用分区编辑工具调整分区大小的(subject to sufficient free space in each partition)，然而，这是一个相当高级的主题并且通常不能在系统正在使用时处理。"
+msgstr "分区方案选定以后，并不就是固定死了。还是可以使用分区编辑工具调整分区大小的(subject to sufficient free space in each partition)，然而，这是一个相当高级的主题并且通常不能在正在使用时系统处理。"
 
 #: chapter10/xinclude.xml:110(para)
 msgid "Whilst it is possible to change the disk partitioning layout after the system has been installed, it is important to make backups before making any changes to the partitions."
@@ -240,7 +240,7 @@ msgstr "关于文件系统"
 # ext4
 #: chapter10/xinclude.xml:118(para)
 msgid "Partitioning a disk is only the beginning. Once the disk has been divided up, those partitions need to be formatted so that the operating system can place files on the disk in a structured manner. There are many different filesystem types, each with their own advantages. With Microsoft Windows the two main filesystems are FAT (File Allocation Table) and NTFS (New Technology File System). With Ubuntu there are many options including ext2, ext3, reiserfs, xfs and many others. The Ubuntu installer chooses ext3 by default, but of course it is possible to override this."
-msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以以结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于 Microsoft Windows 最主要的两种文件系统是 FAT(文件分配表 File Allocation Table)和 NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，ext4，reiserfs，xfs 已经很多其它。Ubuntu 安装程序默认选择 ext4，但是当然也可以更换掉此项。"
+msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以按结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于 Microsoft Windows，最主要的两种文件系统是 FAT(文件分配表 File Allocation Table)和 NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，ext4，reiserfs，xfs 已及很多其它种。Ubuntu 安装程序默认选择 ext4，但是当然也可以换成其它的。"
 
 #: chapter10/xinclude.xml:130(title)
 #: chapter10/xinclude.xml:150(title)
@@ -253,7 +253,7 @@ msgstr "小技巧"
 # ext4
 #: chapter10/xinclude.xml:132(para)
 msgid "ext3 is a great general purpose journalling filesystem. It handles most tasks well however, xfs is sometimes chosen instead on media-centre systems as it performs better when handling very large files - such as music and video files."
-msgstr "ext4 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs 因为它在除了非常大的文件 - 例如音乐和视频文件时表现更好。"
+msgstr "ext4 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs，因为它在除了非常大的文件 - 例如音乐和视频文件时表现得更好。"
 
 #: chapter10/xinclude.xml:139(title)
 msgid "Mount points"
@@ -261,20 +261,20 @@ msgstr "挂载点"
 
 #: chapter10/xinclude.xml:141(para)
 msgid "A mount point is a place in the directory hierarchy where a filesystem could be presented. There is no real Microsoft Windows equivalent to this. With Microsoft Windows the partitions C:, D: and so on, are seen as entirely separate entities so the operating system, applications and data is often referred to by a user as being \"on the C: drive\" or \"in a folder on the D: drive\"."
-msgstr "挂载点是文件层次结构中可以出现的文件系统位置。在微软 Windows 系统上没有实际对应的概念。对于微软 Windows，分区 C:、D: 等显示为完全分离的入口，于是操作系统、应用程序和数据经常被用户使用“在 C: 盘上”或“在 D: 盘的一个文件夹中”的方式提起。"
+msgstr "挂载点是文件层次结构中可以出现的文件系统位置。在 Microsoft Windows 系统中没有实际与之对应的概念。对于 Microsoft Windows，分区 C:、D: 等显示为完全分离的入口，于是操作系统、应用程序和数据经常被用户使用“在 C: 盘上”或“在 D: 盘的一个文件夹中”的方式提起。"
 
 #: chapter10/xinclude.xml:152(para)
 msgid "\"Mount\" is the term used when referring to a filesystem being made available for access. CD and DVDs are usually automatically mounted when they are inserted. The same goes for USB connected devices such as memory sticks, hard disks and music players."
-msgstr "“挂载(mount)”是一个指设置文件系统可被系统使用时的术语。光盘通常插入时自动挂载。对于 USB 接口的设备，例如记忆棒，硬盘和音乐播放器也同样如此。"
+msgstr "“挂载(mount)”是一个指使文件系统可被系统使用时的术语。光盘通常在插入时自动挂载。对于 USB 接口的设备，例如记忆棒，硬盘和音乐播放器也同样如此。"
 
 #: chapter10/xinclude.xml:158(para)
 msgid "On Ubuntu, files and folders reside within a partition as they do with Microsoft Windows. However the partition is not normally referenced directly by the user. The user would typically say that files are \"in my home directory\" (when referring to /home/&lt; username&gt;), or \"in the root directory\" (when referring to / ) without specifying which partition on the disk those directories reside in."
-msgstr "在 Ubuntu 上，文件和文件夹存在于分区中，就像微软 Windows 那样。但是分区通常不直接由用户引用。用户一般会说文件“在我的 home 目录”(提到 /home/&lt; 用户名&gt; 时)，或者“在根目录”(提到 / 时)而不指出这些目录在磁盘的哪个分区上。"
+msgstr "在 Ubuntu 中，文件和文件夹存在于分区中，就像 Microsoft Windows 中那样。但是分区通常不直接由用户引用。用户一般会说文件“在我的主目录中”(提到 /home/&lt; 用户名&gt; 时)，或者“在根目录中”(提到 / 时)，而不指出这些目录在磁盘的哪个分区上。"
 
 # 此处不理解
 #: chapter10/xinclude.xml:165(para)
 msgid "Under most standard installations of Ubuntu there will be only one partition where all files and folders reside. However if a user plugs in an external USB-connected memory stick or USB hard disk, Ubuntu will mount the partition(s) on that device under mount point(s) within the directory tree. For example a USB attached memory stick or hard disk will usually appear under /media/disk (unless the device has partitions which are labelled, in which case they will appear under /media/&lt;labelname&gt; )"
-msgstr "在最标准的 Ubuntu 安装下将只有一个分区，所有文件和文件夹都放在这里边。然而，如果用户插入外置的 USB 接口的记忆棒或 USB 硬盘，Ubuntu 将会挂载那些设备上的分区到目录树中的挂载点下。例如 USB 接口的记忆棒或硬盘通常出现在 /media/disk 下(除非这些设备有设置了卷标的分区，此时他们将出现在 /media/&lt;卷标&gt; 下)。"
+msgstr "在最标准的 Ubuntu 安装下，系统将只有一个分区，所有文件和文件夹都放在这里边。然而，如果用户插入外置的 USB 接口的记忆棒或 USB 硬盘，Ubuntu 将会挂载那些设备上的分区到目录树中的挂载点下。例如 USB 接口的记忆棒或硬盘通常出现在 /media/disk 下(除非这些设备有设置了卷标的分区，此时他们将出现在 /media/&lt;卷标&gt; 下)。"
 
 #: chapter10/xinclude.xml:175(title)
 msgid "Further considerations"
@@ -283,7 +283,7 @@ msgstr "进一步思考"
 # 没看懂呢
 #: chapter10/xinclude.xml:177(para)
 msgid "As previously mentioned, resizing partitions is not a trivial task. Under most circumstances it requires that all filesystems involved are unmounted, this means they must not be in use. Typically then to resize partitions the system should be booted to an unused filesystem - such as a bootable Live CD. Considerable thought should therefor be given before partitioning a disk with regards to the number and sizes of partitions to be created to prevent later unnecessary resizing."
-msgstr "正如前边提到的，调整分区大小不是一个小任务。大多情况下，它要求卸载所有相关的文件系统，这意味着不能正在使用它们。一般地，要调整分区大小，系统要引导到一个未使用的文件系统 - 例如可引导的 Live CD。Considerable thought should therefor be given before partitioning a disk with regards to the number and sizes of partitions to be created to prevent later unnecessary resizing."
+msgstr "正如前边提到的，调整分区大小不是一个小任务。大多情况下，它要求卸载所有相关的文件系统，这意味着不能正在使用它们。一般地，要调整分区大小，系统要引导到一个未使用的文件系统 - 例如可引导的 Live CD。在对磁盘进行分区之前要对分区的数量和大小进行一些思考，以避免稍候不必要的大小调整操作。"
 
 #: chapter10/xinclude.xml:187(title)
 #: chapter10/xinclude.xml:282(title)
@@ -293,11 +293,11 @@ msgstr "小心："
 
 #: chapter10/xinclude.xml:189(para)
 msgid "You may run out of hard drive space in your home partition due to the sub-division of the drive into fixed-size partitions. This may occur even if the other partitions have plenty of usable space. Good and logical partitioning requires you to predict how much space each partition needs."
-msgstr "有时可能会用尽 home 分区的磁盘空间，因为将磁盘分割为了固定大小的分区。这即使在其它分区有大量可用空间时也可能发生。优秀且符合逻辑的分区方案要求您估计每个分区需要的磁盘空间。"
+msgstr "因为将磁盘分割为了固定大小的分区，有时可能会用尽 home 分区的磁盘空间。这即使在其它分区还有大量可用空间时也可能发生。优秀合适的分区方案要求您估计每个分区需要的磁盘空间。"
 
 #: chapter10/xinclude.xml:196(para)
 msgid "For new users, home users and other single-user set-ups, a single root (/) partition with a swap partition would be the easiest and the most convenient to create and use. However, for multi-user systems or computers with lots of disk space, it is best to have the /home, /tmp, /usr and /var directories as individual partitions separate from the root (/) partition."
-msgstr "对于新用户、家庭用户和其它单用户设置，一个单独的根(/)分区外加一个交换分区可能是最简单最方便的创建和使用方案。然而，对于多用户系统或者有大量磁盘空间的计算机，最好将 /home，/tmp，和/var 目录作为与根(/)分区分离的单独分区。"
+msgstr "对于新用户、家庭用户和其它单用户，一个单独的根(/)分区外加一个交换分区可能是最简单最方便的创建和使用方案。然而，对于多用户系统或者有大量磁盘空间的计算机，最好将 /home，/tmp，和/var 目录作为与根(/)分区分离的单独分区。"
 
 #: chapter10/xinclude.xml:206(para)
 msgid "root: Also called the slash directory, it is the highest directory of the directory tree. When creating the root partition, you need to ensure that the root should contain the /etc, /bin, /sbin, /lib and /dev directories, otherwise you will not be able to boot-up the system. You also need to ensure that the root partition is allocated at least 150-250 MB of disk space."
@@ -314,16 +314,17 @@ msgstr "将 /home 放到单独的分区是个好做法，因为这使从一个�
 # 安装所有，太夸张了
 #: chapter10/xinclude.xml:233(para)
 msgid "/var: This directory contains variable data, such as news chapters, e-mails, Web sites, databases and the packaging system cache. The size of this directory also depends on system usage. Most probably, the size of this directory would be dictated by your usage of the Ubuntu package management utilities. If you plan to install all the packages that Ubuntu offers, you need to allocate 2 to 3 GB of space for the /var directory. However, if you want to save hard disk space and do not plan any major software updates, you can get by with as little as 30- or 40-MB disk space for the /var directory."
-msgstr "/var：此目录包含可变数据，例如新闻文章、电子邮件、网站、数据库和包管理系统缓存。此目录的大小也依赖于系统使用。最可能的，此目录的大小将由使用 Ubuntu 包管理工具的情况决定。如果打算安装 Ubuntu 提供的所有软件包，你需要为 /var 目录分配 2 到 3 GB 的磁盘空间。但是如果想要节省硬盘空间并且不打算任何大的软件更新，您可以 /var 目录分配最少至 30- 或 40- MB 的磁盘空间。"
+msgstr "/var：此目录包含可变数据，例如新闻文章、电子邮件、网站、数据库和包管理系统缓存。此目录的大小也依赖于系统使用情况。最有可能的情况是，此目录的大小由 Ubuntu 包管理工具的使用情况决定。如果打算安装 Ubuntu 提供的所有软件包，需要为 /var 目录分配 2 到 3 GB 的磁盘空间。但是如果想要节省硬盘空间并且不打算进行任何大的软件更新，可以为 /var 目录分配最少至 30- 或 40- MB 的磁盘空间。"
 
 # 怎么最后只有半句话？
 #: chapter10/xinclude.xml:246(para)
 msgid "/tmp: This directory contains temporary data created by programmes. Some applications, including archive manipulators, CD/DVD authoring tools and multi-media software also use this directory to temporarily store image files. You need to plan space allocation for this directory based on your usage of these applications. for this directory."
-msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括包处理程序、光盘创作工具和多媒体软件也使用此目录来临时纯放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。对于此目录。"
+msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括包处理程序、光盘创作工具和多媒体软件也使用此目录来临时纯放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。"
 
+# 这句不好听
 #: chapter10/xinclude.xml:255(para)
 msgid "/usr: This directory contains all user programmes (binaries), their documentation and supporting libraries. This directory tends to use the maximum space on the hard disk. Therefore, you should provide at least 500-MB disk space for this directory. But, you need to increase this space depending on the number and types of software packages you plan to install. Based on your planned usage and the available disk space, you may allocate 1.5 to 6 GB of disk space for this directory."
-msgstr "/usr：此目录包含所有的用户程序(二进制)，它们的文档和支持库。此目录趋向使用硬盘上的最大空间。因此，应该为此分区提供至少 500-MB 磁盘空间。但是，需要根据打算安装的软件包的数量和类型增大此空间。根据计划的使用量和可用的磁盘空间，可能需要为此目录分配 1.5 到 6 GB 的磁盘空间。"
+msgstr "/usr：此目录包含所有的用户(二进制)程序，这些程序的文档和支持库。此目录趋向使用硬盘上的最大空间。因此，应该为此分区提供至少 500-MB 磁盘空间。但是，需要根据打算安装的软件包的数量和类型增大此空间。根据计划的使用量和可用的磁盘空间，可能需要为此目录分配 1.5 到 6 GB 的磁盘空间。"
 
 #: chapter10/xinclude.xml:267(para)
 msgid "The /usr partition is sometimes referred to as User System Resources and not user as was originally intended."
@@ -339,11 +340,11 @@ msgstr "创建分区"
 
 #: chapter10/xinclude.xml:275(para)
 msgid "As mentioned earlier, multiple partitions are very useful especially in cases where a partition is corrupted, as it enables you to boot into GNU/Linux to fix the system, without having to reinstall the system. To do this, a root partition is required. This partition should contain the essential components of the system."
-msgstr "正如前边所提到的，多分区非常有用，尤其是当一个分区损坏时，因为使您可以启动到 GNU/Linux 来修复系统，而不用重新安装系统。要做到这点，需要一个根分区。此分区需要包含系统的关键组件。"
+msgstr "正如前边所提到的，多分区非常有用，尤其是当一个分区损坏时，因为这使您可以启动到 GNU/Linux 来修复系统，而不用重新安装系统。要做到这点，需要一个根分区。此分区需要包含系统的关键组件。"
 
 #: chapter10/xinclude.xml:284(para)
 msgid "The hard disk drive that you are formatting should not contain any data. If you have already formatted the drive and it contains data, skip the partitioning step and move to the next step - mounting."
-msgstr "您要格式化的磁盘不应该包含任何数据，如果您已经格式化过此驱动器，并且它包含数据，跳过分区这一步，并且移动到下一步 - 挂载。"
+msgstr "要格式化的磁盘不应该包含任何数据，如果已经格式化过此驱动器，并且它包含数据，跳过分区这一步，并且移动到下一步 - 挂载。"
 
 #: chapter10/xinclude.xml:293(para)
 msgid "Partition Editor (GParted): GParted is useful for creating space for new operating systems, re-organising disk usage, copying data residing on hard disks and mirroring one partition with another (disk imaging)."
@@ -355,12 +356,12 @@ msgstr "命令行：命令行比 GParted 更快更强大。当在文件系统中
 
 #: chapter10/xinclude.xml:289(para)
 msgid "If the hard disk drive that you want to format is blank and unformatted, you can use either of the following tools to partition it: <placeholder-1/>"
-msgstr "如果您想格式化的硬盘驱动器是空的且没有格式化过，您可以使用下列工具之一来对其进行分区：<placeholder-1/>"
+msgstr "如果想格式化的硬盘驱动器是空的且没有格式化过，可以使用下列工具之一来对其进行分区：<placeholder-1/>"
 
 # 此处可能需要修改，添加/删除程序 估计已经废弃
 #: chapter10/xinclude.xml:308(para)
 msgid "If you want to create a partition using GParted, you need to first install GParted by using <emphasis role=\"strong\">Add/Remove Applications</emphasis> or <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
-msgstr "如果您想使用 GParted 创建一个新分区，您需要首先使用 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 或 <emphasis role=\"strong\">新立得包管理器</emphasis> 安装 GParted。"
+msgstr "如果想使用 GParted 创建一个新分区，需要首先使用 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 或 <emphasis role=\"strong\">新立得包管理器</emphasis> 安装 GParted。"
 
 #: chapter10/xinclude.xml:314(title)
 msgid "Installing GParted by Using Synaptic Package Manager"
@@ -376,15 +377,15 @@ msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上, 指向 <empha
 
 #: chapter10/xinclude.xml:327(title)
 msgid "Synaptic Package Manager Location"
-msgstr "新立得包管理器位置"
+msgstr "新立得包管理器所在的位置"
 
 #: chapter10/xinclude.xml:338(para)
 msgid "When the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens for the first time, it displays a list of all the software packages available in the Ubuntu software repositories. The left pane lists the various software categories. You can select a specific category to view the available software packages listed in that category. Alternatively, you can use the <emphasis role=\"strong\">Search</emphasis> functionality provided in the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> to locate specific software in the list."
-msgstr "当 <emphasis role=\"strong\">Synaptic Package Manager</emphasis> 窗口第一次打开时，它显示一个在 Ubuntu 软件仓库中所有可用软件包的的列表。左嵌板列出多个软件类别。可以选择特定的分类以查看在这个分类中列出的可用的软件包。或者，您可以使用 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中提供的 <emphasis role=\"strong\">搜索</emphasis> 功能来定位列表中特定软件。"
+msgstr "当 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口第一次打开时，将显示一个在 Ubuntu 软件仓库中所有可用软件包的的列表。左嵌板中列出多个软件类别。可以选择特定的分类以查看在这个分类中列出的可用的软件包。或者，也可以使用 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中提供的 <emphasis role=\"strong\">搜索</emphasis> 功能来定位列表中特定软件。"
 
 #: chapter10/xinclude.xml:348(para)
 msgid "Click the <emphasis role=\"strong\">Search</emphasis> button to search the package you want to install. The <emphasis role=\"strong\">Find</emphasis> dialogue box appears."
-msgstr "点击 <emphasis role=\"strong\">搜索</emphasis> 按钮以查找您想要安装的包。显示<emphasis role=\"strong\">查找</emphasis> 对话框."
+msgstr "点击 <emphasis role=\"strong\">搜索</emphasis> 按钮以查找想要安装的包。显示 <emphasis role=\"strong\">查找</emphasis> 对话框."
 
 #: chapter10/xinclude.xml:351(para)
 #: chapter10/xinclude.xml:400(para)
@@ -394,12 +395,12 @@ msgstr "在 <emphasis role=\"strong\">查找</emphasis> 对话框的 <emphasis r
 #: chapter10/xinclude.xml:359(para)
 #: chapter10/xinclude.xml:420(para)
 msgid "Right-click the package name to select an action that you want to perform on it. Notice that various options are available to perform a number of actions on the selected package. If the selected package is not installed currently, you can mark it for installation. If the selected package is already marked for installation, you can unmark it to clear the selection. Similarly, if the package is already installed, you may select <emphasis role=\"strong\">Upgrade</emphasis> to upgrade the package and <emphasis role=\"strong\">Mark for Removal</emphasis> or <emphasis role=\"strong\">Mark for Complete Removal</emphasis> to delete the package from your computer."
-msgstr "右键点击包名选择一个要对其执行的动作。注意，对选中的包有多个可用的选项以执行一些的操作。如果选中的包现在未安装，可以标记它以便安装。如果选中的包已经标记用以安装，可以取消标记它以清除选择。类似地，如果包已经安装，您可以选择 <emphasis role=\"strong\">升级</emphasis> 以升级此包，和 <emphasis role=\"strong\">标记以便删除</emphasis> 或 <emphasis role=\"strong\">标记以便彻底删除</emphasis> 以从计算机删除此包。"
+msgstr "右键点击包名选择一个要对其执行的动作。注意，对选中的包有多个可用的选项以执行一些的操作。如果选中的包现在未安装，可以标记它以便安装。如果选中的包已经标记用以安装，可以取消标记它以清除选择。类似地，如果包已经安装，可以选择 <emphasis role=\"strong\">升级</emphasis> 以升级此包，和 <emphasis role=\"strong\">标记以便删除</emphasis> 或 <emphasis role=\"strong\">标记以便彻底删除</emphasis> 以从计算机删除此包。"
 
 #: chapter10/xinclude.xml:368(para)
 #: chapter10/xinclude.xml:429(para)
 msgid "To install the package, select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box."
-msgstr "要安装包，选择 <emphasis role=\"strong\">标记以便安装</emphasis> 选择框。"
+msgstr "要安装包，选择 <emphasis role=\"strong\">标记以便安装</emphasis> 复选框。"
 
 #: chapter10/xinclude.xml:370(para)
 #: chapter10/xinclude.xml:443(para)
@@ -415,7 +416,7 @@ msgstr "<emphasis role=\"strong\">摘要</emphasis> 对话框提示在进行标�
 #: chapter10/xinclude.xml:379(para)
 #: chapter10/xinclude.xml:476(para)
 msgid "Wait for all the required files to download. After all the required files in the package are downloaded, the <emphasis role=\"strong\">Changes applied</emphasis> dialogue box appears."
-msgstr "等待所有需要的文件下载完成。所有需要的文件下载并安装完成后，显示<emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
+msgstr "所有需要的文件下载并安装完成后，显示 <emphasis role=\"strong\">更改已应用</emphasis> 对话框。"
 
 #: chapter10/xinclude.xml:383(para)
 #: chapter10/xinclude.xml:492(para)
@@ -468,11 +469,11 @@ msgstr "使用 GParted 硬盘驱动器进行分区："
 
 #: chapter10/xinclude.xml:532(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Partition Editor</emphasis>. The <emphasis role=\"strong\">GParted</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">System</emphasis> 菜单上，指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">分区编辑器</emphasis>。将打开 <emphasis role=\"strong\">GParted</emphasis> 窗口。"
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上，指向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">分区编辑器</emphasis>。将打开 <emphasis role=\"strong\">GParted</emphasis> 窗口。"
 
 #: chapter10/xinclude.xml:539(para)
 msgid "GParted is also available from the Live CD."
-msgstr "GParted 也可以从 Live CD 中使用。"
+msgstr "GParted 也可以在 Live CD 中使用。"
 
 #: chapter10/xinclude.xml:543(title)
 msgid "GParted Window"
@@ -481,12 +482,12 @@ msgstr "GParted 窗口"
 # 此句需要推究
 #: chapter10/xinclude.xml:554(para)
 msgid "In the top-right corner of the <emphasis role=\"strong\">GParted</emphasis> window is the drive drop-down box. You can use this box to select the hard drive that you need to partition by specifying the logical name you noted earlier. The Gparted window refreshes and shows you a representation of the selected drive."
-msgstr "在 <emphasis role=\"strong\">GParted</emphasis> 窗口的右上角是驱动器下拉框。您可以使用此框通过指定先前记下的逻辑名选择需要分区的硬盘驱动器。GParted 窗口刷新并显示选中驱动器的代表。"
+msgstr "在 <emphasis role=\"strong\">GParted</emphasis> 窗口的右上角有驱动器下拉框。可以使用此框通过指定先前记下的逻辑名选择需要分区的硬盘驱动器。同时刷新 GParted 窗口并显示选中驱动器的图表。"
 
 # 这句翻译的够恶心
 #: chapter10/xinclude.xml:560(para)
 msgid "If the existing partitions on the drive have not yet been used, a white bar would run across the window. However, if the existing partitions contain some data, the data will be represented by a pale yellow area."
-msgstr "如果驱动器上存在的分区还未使用，一个白条将穿越窗口，如果现有的分区包含一些数据，这些数据将使用淡黄色区域表示。"
+msgstr "如果驱动器上存在的分区还未被使用，将有一个白条穿越窗口，如果现有的分区包含一些数据，这些数据将使用淡黄色区域表示。"
 
 # 到底该是啥？
 #: chapter10/xinclude.xml:566(title)
@@ -501,7 +502,7 @@ msgstr "解释怎样获取当前分区和文件系统的参数。"
 #: chapter10/xinclude.xml:572(para)
 #: chapter10/xinclude.xml:606(para)
 msgid "You can either resize an existing partition or create a new partition in the unallocated space of the hard drive. Before resizing an existing partition, you must make sure that you unmount it by right-clicking the partition and then selecting <emphasis role=\"strong\">Unmount</emphasis>. Remember that you cannot resize a partition to be smaller than the yellow area, which represents the data on the partition."
-msgstr "您也可以调整现有分区的大小或者在未分配空间上创建一个新分区。在调整现有分区大小之前，你必须确定已经通过在这个分区上点右键并选择 <emphasis role=\"strong\">卸载</emphasis> 卸载了它。记住，您不能调整一个分区大小到比黄色区域更小，这表示在此分区上的数据。"
+msgstr "您可以调整现有分区的大小或者在未分配空间上创建一个新分区。在调整现有分区大小之前，必须确定已经通过在这个分区上点右键并选择 <emphasis role=\"strong\">卸载</emphasis> 卸载了它。记住，您不能将一个分区的大小调整到比黄色区域更小，此黄色区域表示此分区上的数据。"
 
 #: chapter10/xinclude.xml:579(para)
 #: chapter10/xinclude.xml:613(para)

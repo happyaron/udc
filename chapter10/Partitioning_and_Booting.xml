@@ -248,7 +248,7 @@
           CD/DVD authoring tools and multi-media software also use this
           directory to temporarily store image files. You need to plan space
           allocation for this directory based on your usage of these
-          applications. for this directory.</para>
+          applications.</para>
         </listitem>
 
         <listitem>
@@ -346,44 +346,8 @@
           locate specific software in the list.</para>
 
           <para>Click the <emphasis role="strong">Search</emphasis> button to
-          search the package you want to install. The <emphasis role="strong">Find</emphasis> dialogue box appears.</para>
-
-          <para>In the <emphasis role="strong">Search</emphasis> field of the
-          <emphasis role="strong">Find</emphasis> dialogue box, type the name
-          of the package, <emphasis role="strong">Partition Editor</emphasis>,
-          and click the <emphasis role="strong">Search</emphasis> button. The
-          package, gparted, is now displayed in the right pane of the
-          <emphasis role="strong">Synaptic Package
-          Manager</emphasis> window.</para>
-
-          <para>Right-click the package name to select an action that you want
-          to perform on it. Notice that various options are available to
-          perform a number of actions on the selected package. If the selected
-          package is not installed currently, you can mark it for
-          installation. If the selected package is already marked for
-          installation, you can unmark it to clear the selection. Similarly,
-          if the package is already installed, you may select <emphasis role="strong">Upgrade</emphasis> to upgrade the package and <emphasis role="strong">Mark for Removal</emphasis> or <emphasis role="strong">Mark for Complete Removal</emphasis> to delete the
-          package from your computer.</para>
-
-          <para>To install the package, select the <emphasis role="strong">Mark for Installation</emphasis> check box.</para>
-
-          <para>The gparted package is now selected for installation. To
-          continue with the installation, click <emphasis role="strong">Apply</emphasis>. This displays the <emphasis role="strong">Summary</emphasis> dialogue box.</para>
-
-          <para>The <emphasis role="strong">Summary</emphasis> dialogue box
-          prompts you to perform a final check before implementing the marked
-          changes. Click the <emphasis role="strong">Apply</emphasis> button to
-          apply the marked changes. The <emphasis role="strong">Downloading
-          package files</emphasis> window opens.</para>
-
-          <para>Wait for all the required files to download. After all the
-          required files in the package are downloaded, the <emphasis role="strong">Changes applied</emphasis> dialogue box
-          appears.</para>
-
-          <para>The <emphasis role="strong">Changes applied</emphasis> dialogue
-          box notifies you that all the requested changes have been applied.
-          Click <emphasis role="strong">Close</emphasis> to exit the dialogue
-          box.</para>
+          search the package you want to install.
+          The <emphasis role="strong">Find</emphasis> dialogue box appears.</para>
 
           <figure float="0" id="fig-synaptic">
             <title>Synaptic Package Manager</title>
@@ -459,7 +423,8 @@
           prompts you to perform a final check before implementing the marked
           changes. Click the <emphasis role="strong">Apply</emphasis> button to
           apply the marked changes. The <emphasis role="strong">Downloading
-          package files</emphasis> window opens.</para>
+          package files</emphasis> window opens.After all packages have downloaded,
+          the dialogue box changes to <emphasis role="strong">Applying Changes Box</emphasis></para>
 
           <figure float="0">
             <title>Applying Changes Box</title>
@@ -567,39 +532,7 @@
 
             <para>Explain how to read the specifications of the current
             partitions and file systems.</para>
-          </note>
-
-          <para>You can either resize an existing partition or create a new
-          partition in the unallocated space of the hard drive. Before
-          resizing an existing partition, you must make sure that you unmount
-          it by right-clicking the partition and then selecting <emphasis role="strong">Unmount</emphasis>. Remember that you cannot resize a
-          partition to be smaller than the yellow area, which represents the
-          data on the partition.</para>
-
-          <para>To create a new partition in the unallocated drive space,
-          right-click the area and select <emphasis role="strong">New</emphasis> on the short-cut menu. The <emphasis role="strong">Create new Partition</emphasis> dialogue box
-          appears.</para>
-
-          <para>The <emphasis role="strong">Create new
-          Partition</emphasis> dialogue box enables you to select
-          specifications for the new partition. Apart from defining the size
-          of the new partition, you can also select the partition type,
-          whether primary or logical, for the new partition. In addition, you
-          can even define the file system to be used on the new partition. By
-          default, Ubuntu uses the ext3 partitions. However, if you want the
-          new drive to be readable by both Microsoft Windows and Ubuntu
-          without installing anything extra, you can format it as Fat
-          32.</para>
-
-          <figure float="0">
-            <title>Creating a New Partition</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson11_images_011.png" width="11cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
+          </note>     
         </step>
 
         <step performance="required">
@@ -613,16 +546,16 @@
           <para>To create a new partition in the unallocated drive space,
           right-click the area and select <emphasis role="strong">New</emphasis> on the short-cut menu. The <emphasis role="strong">Create new Partition</emphasis> dialogue box
           appears.</para>
-
+          
           <figure float="0">
-            <title>Create New Partition Box</title>
+            <title>Creating a New Partition</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_012.png" width="8cm" format="PNG"/>
+                <imagedata fileref="images/Lesson11_images_011.png" width="11cm" format="PNG"/>
               </imageobject>
             </mediaobject>
-          </figure>
+          </figure>  
         </step>
 
         <step performance="required">
@@ -635,6 +568,16 @@
           uses the ext3 partitions. However, if you want the new drive to be
           readable by both Microsoft Windows and Ubuntu without installing
           anything extra, you can format it as Fat 32.</para>
+          
+          <figure float="0">
+            <title>Create New Partition Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson11_images_012.png" width="8cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
 
           <note>
             <title>Note:</title>
@@ -648,16 +591,6 @@
             partitions, logical partitions must be contiguous: the blocks in
             the partition are following each other without any gap.</para>
           </note>
-
-          <figure float="0">
-            <title>Confirmation Box</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson11_images_013.png" width="11cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
         </step>
 
         <step performance="required">
@@ -687,7 +620,43 @@
           the above-mentioned procedure and then clicking <emphasis role="strong">Apply</emphasis> to add them to the hard drive. The
           <emphasis role="strong">Apply operations to hard
           disk</emphasis> dialogue box appears.</para>
+        </step>
 
+        <step performance="required">
+          <para>The <emphasis role="strong">Apply operations to hard
+          disk</emphasis> dialogue box recommends that you back up data before
+          performing the changes and seeks your final confirmation before
+          applying the changes to the hard disk. Click the <emphasis role="strong">Apply</emphasis> button to partition and format the
+          hard disk according to your specifications.</para>
+          
+          <figure float="0">
+            <title>Confirmation Box</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson11_images_013.png" width="11cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>The system starts applying the changes to the hard disk. The
+          duration of the operation will depend on the size of the new
+          partition. You can click the <emphasis role="strong">Details</emphasis> button to view more information
+          about where and how changes are being made, whilst the operation is
+          running.</para>
+        </step>
+
+        <step performance="required">
+          <para>Once you receive a message that all the specified operations
+          have been successfully completed, you can safely close the window by
+          clicking the <emphasis role="strong">Close</emphasis> button.
+          However, if something goes wrong and the process does not complete
+          successfully, you can save the process output for future reference
+          by clicking the <emphasis role="strong">Save
+          Details</emphasis> button.</para>
+          
           <figure float="0">
             <title>Applying Pending Operations Box</title>
 
@@ -700,13 +669,10 @@
         </step>
 
         <step performance="required">
-          <para>The <emphasis role="strong">Apply operations to hard
-          disk</emphasis> dialogue box recommends that you back up data before
-          performing the changes and seeks your final confirmation before
-          applying the changes to the hard disk. Click the <emphasis role="strong">Apply</emphasis> button to partition and format the
-          hard disk according to your specifications.</para>
-
-          <figure float="0">
+          <para>The newly created partition is now visible in the <emphasis role="strong">GParted</emphasis> window. You will also notice that
+          your system automounts the newly created partition.</para>
+          
+           <figure float="0">
             <title>GParted with New Partition</title>
 
             <mediaobject>
@@ -715,39 +681,6 @@
               </imageobject>
             </mediaobject>
           </figure>
-        </step>
-
-        <step performance="required">
-          <para>The system starts applying the changes to the hard disk. The
-          duration of the operation will depend on the size of the new
-          partition. You can click the <emphasis role="strong">Details</emphasis> button to view more information
-          about where and how changes are being made, whilst the operation is
-          running.</para>
-
-          <figure float="0">
-            <title>Deleting a Partition</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson11_images_016.png" width="11cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
-          <para>Once you receive a message that all the specified operations
-          have been successfully completed, you can safely close the window by
-          clicking the <emphasis role="strong">Close</emphasis> button.
-          However, if something goes wrong and the process does not complete
-          successfully, you can save the process output for future reference
-          by clicking the <emphasis role="strong">Save
-          Details</emphasis> button.</para>
-        </step>
-
-        <step performance="required">
-          <para>The newly created partition is now visible in the <emphasis role="strong">GParted</emphasis> window. You will also notice that
-          your system automounts the newly created partition.</para>
 
           <para>Mounting refers to the process of attaching the newly created
           partition or drive to an existing directory to make it accessible.
@@ -780,6 +713,21 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/Lesson11_images_018.png" width="11cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+        
+        <step performance="required">
+          <para>If you want delete a existing partition,you can right-click the partition,
+          and choose <emphasis role="strong">delete</emphasis>.</para>
+          
+          <figure float="0">
+            <title>Deleting a Partition</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson11_images_016.png" width="11cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
