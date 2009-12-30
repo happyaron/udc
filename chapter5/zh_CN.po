@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter 5\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-28 23:05+0800\n"
-"PO-Revision-Date: 2009-12-29 18:58+0800\n"
+"PO-Revision-Date: 2009-12-30 13:19+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -246,7 +246,7 @@ msgstr ""
 #: chapter5/xinclude.xml:192(title) chapter5/xinclude.xml:366(title)
 #: chapter5/xinclude.xml:538(title) chapter5/xinclude.xml:572(title)
 msgid "Instructor Notes:"
-msgstr "教员注解:"
+msgstr "教员注解："
 
 #: chapter5/xinclude.xml:34(para)
 msgid ""
@@ -294,7 +294,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:58(title)
 msgid "To install a game from a repository:"
-msgstr "要从软件仓库中安装一个游戏"
+msgstr "从软件仓库中安装一个游戏："
 
 #: chapter5/xinclude.xml:61(para)
 msgid ""
@@ -316,7 +316,7 @@ msgid ""
 "along with the popularity of each game among users. The bottom section in "
 "the right pane displays a brief description of the game selected."
 msgstr ""
-"在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 窗口的右边部分的软件"
+"在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 首页的软件"
 "分类选择 <emphasis role=\"strong\">游戏</emphasis>，将前进到游戏列表。"
 
 #: chapter5/xinclude.xml:84(title)
@@ -370,7 +370,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:140(title)
 msgid "Nice to Know:"
-msgstr "小提示:"
+msgstr "小提示："
 
 #: chapter5/xinclude.xml:142(para)
 msgid ""
@@ -429,7 +429,7 @@ msgid ""
 "desktopguide/C/graphics-cards.html\">http://doc.ubuntu.com/ubuntu/"
 "desktopguide/C/graphics-cards.html</ulink>."
 msgstr ""
-"要配置显卡的 3D 加速，请参看本课程的第三节或者浏览以下网站: <ulink url="
+"要配置显卡的 3D 加速，请浏览以下网站: <ulink url="
 "\"http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html\">http://"
 "doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html</ulink>."
 
@@ -464,7 +464,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:219(title)
 msgid "To play Frozen-Bubble:"
-msgstr "要开始玩 Frozen-Bubble:"
+msgstr "开始玩 Frozen-Bubble："
 
 #: chapter5/xinclude.xml:222(para)
 msgid ""
@@ -779,7 +779,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:546(title)
 msgid "To install and configure Wine:"
-msgstr "安装和配置 Wine:"
+msgstr "安装和配置 Wine："
 
 #: chapter5/xinclude.xml:549(para) chapter5/xinclude.xml:566(para)
 msgid ""
@@ -867,7 +867,7 @@ msgstr "课程总结"
 
 #: chapter5/xinclude.xml:602(para)
 msgid "In this lesson, you learned that:"
-msgstr "在本节课中，您学到了:"
+msgstr "在本节课中，您学到了："
 
 #: chapter5/xinclude.xml:605(para)
 msgid ""
@@ -881,7 +881,7 @@ msgstr ""
 msgid ""
 "You can install games by using the Add/Remove Applications or Synaptic "
 "Package Manager."
-msgstr "您可以使用添加/删除应用程序或者新立得软件包管理器来安装游戏。"
+msgstr "您可以使用 Ubuntu 软件中心或者新立得软件包管理器来安装游戏。"
 
 #: chapter5/xinclude.xml:615(para)
 msgid ""
@@ -905,7 +905,7 @@ msgstr "实验练习"
 
 #: chapter5/xinclude.xml:632(title)
 msgid "Exercise 1: Installing a game on Ubuntu"
-msgstr "练习 1: 在 Ubuntu 上安装游戏"
+msgstr "练习 1：在 Ubuntu 上安装游戏"
 
 #: chapter5/xinclude.xml:634(para)
 msgid ""
@@ -921,7 +921,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:642(title)
 msgid "To perform the required task:"
-msgstr "要完成该项任务:"
+msgstr "要完成该项任务："
 
 #: chapter5/xinclude.xml:645(para)
 msgid ""
@@ -1010,7 +1010,7 @@ msgstr ""
 msgid ""
 "Exercise 2: Installing Wine and playing a Microsoft Windows game on Ubuntu"
 msgstr ""
-"练习 2: 在 Ubuntu 上安装 Wine 软件并使用它来运行 Microsoft Windows 游戏"
+"练习 2：在 Ubuntu 上安装 Wine 软件并使用它来运行 Microsoft Windows 游戏"
 
 #: chapter5/xinclude.xml:698(para)
 msgid ""
@@ -1026,7 +1026,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:706(title)
 msgid "To play a Windows game on Ubuntu:"
-msgstr "在 Ubuntu 中运行 Windows 游戏:"
+msgstr "在 Ubuntu 中运行 Windows 游戏："
 
 #: chapter5/xinclude.xml:709(para)
 msgid ""
