@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-30 00:57+0800\n"
+"PO-Revision-Date: 2009-12-30 12:43+0800\n"
 "Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1624,7 +1624,7 @@ msgstr "选择要编辑的音频部分"
 
 #: chapter8/xinclude.xml:1659(para)
 msgid "You can now cut the area if you wish to remove this part of the audio file otherwise, edit this portion by applying various sound effects to it. The Effect menu contains all the digital audio effects that you can apply on an audio file. Some of these are:"
-msgstr "现在，如果想移除音频文件的此部分，可以截去此区域，否则，通过向此部分应用多种声音效果来编辑它。效果菜单包含可以应用到音频文件的所有数字音频效果。其中的某些是："
+msgstr "可以通过删除选区移除音频文件的对应部分，也可通过向此部分应用多种声音效果来编辑它。效果菜单包含可以应用到音频文件的所有数字音频效果。比如："
 
 #: chapter8/xinclude.xml:1667(para)
 msgid "Amplify - Increases or decreases volume without altering sound quality"
@@ -1664,11 +1664,11 @@ msgstr "要增大选中部分的音量，在 <emphasis role=\"strong\">效果</e
 
 #: chapter8/xinclude.xml:1706(title)
 msgid "Applying Sound Effects"
-msgstr "提交声音效果"
+msgstr "应用声音效果"
 
 #: chapter8/xinclude.xml:1717(para)
 msgid "In the <emphasis role=\"strong\">Amplify</emphasis> window, you can use the slide bar to increase or decrease the amplification. Click OK to apply the effect to the selected portion of the audio."
-msgstr "在 <emphasis role=\"strong\">增幅</emphasis> 窗口中，可以使用滑动条以增大或减小增幅。点击确定向音频的选定部分提交此效果。"
+msgstr "在 <emphasis role=\"strong\">增幅</emphasis> 窗口中，可以使用滑动条以增大或减小增幅。点击确定对音频的选定部分应用此效果。"
 
 #: chapter8/xinclude.xml:1723(title)
 msgid "Amplifying the Audio Clip"
@@ -1684,7 +1684,7 @@ msgstr "验证编辑效果"
 
 #: chapter8/xinclude.xml:1749(para)
 msgid "After you are satisfied with all the edit effects, you can save the edited audio file. Because the default audio format of Audacity is not readily supported by many applications you should save the file in a more popular audio format, such as Ogg Vorbis or MP3."
-msgstr "对所有编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不容易被很多程序支持，应该以更流行的音频格式保存文件，例如 Ogg Vorbis 或 MP3。"
+msgstr "对编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不容易被很多程序支持，可以将文件保存为其他音频格式，例如 Ogg Vorbis 或 MP3。"
 
 #: chapter8/xinclude.xml:1755(para)
 msgid "To save the file in a different file format, click <emphasis role=\"strong\">Export</emphasis>."
@@ -1696,7 +1696,7 @@ msgstr "导出音频文件"
 
 #: chapter8/xinclude.xml:1769(para)
 msgid "In the <emphasis role=\"strong\">Export File</emphasis> dialogue box, select the folder where you want to save the file. Then, select the desired file format from the drop-down list and then click <emphasis role=\"strong\">Save</emphasis> to export the file in the specified file format."
-msgstr "在 <emphasis role=\"strong\">导出文件</emphasis> 对话框中，选择想要文件保存到的文件夹。然后，从下拉列表中选择希望的文件格式然后点击 <emphasis role=\"strong\">保存</emphasis> 以按指定的文件格式导出文件。"
+msgstr "在 <emphasis role=\"strong\">导出文件</emphasis> 对话框中，指定保存文件的文件夹。从下拉列表中选择希望的文件格式然后点击 <emphasis role=\"strong\">保存</emphasis> 导出文件。"
 
 #: chapter8/xinclude.xml:1776(title)
 msgid "Exporting as MP3 File"
@@ -1704,7 +1704,7 @@ msgstr "导出为 MP3 文件"
 
 #: chapter8/xinclude.xml:1787(para)
 msgid "Audacity starts exporting the file in the specified file format. This process may take up some time depending on the length of the audio file."
-msgstr "Audacity 开始以指定的文件格式导出文件。此操作将花费一些时间，其依赖于音频文件的长度。"
+msgstr "Audacity 开始以指定的文件格式导出文件。此操作将花费的时间依赖于音频文件的长度。"
 
 #: chapter8/xinclude.xml:1792(title)
 msgid "Export Progress Indicator"
@@ -1712,7 +1712,7 @@ msgstr "导出进度指示器"
 
 #: chapter8/xinclude.xml:1801(para)
 msgid "The audio file is exported to the specified location. You can now close the Audacity window and listen to the edited audio file whenever you wish."
-msgstr "音频文件被导出到指定的位置。您现在可以关闭 Audacity 窗口并在任何您希望的时候欣赏已编辑的音频文件。"
+msgstr "音频文件被导出到指定的位置。您现在可以关闭 Audacity 窗口并随时欣赏已编辑的音频文件。"
 
 #: chapter8/xinclude.xml:1810(title)
 msgid "Playing DVDs"
@@ -1721,11 +1721,11 @@ msgstr "播放 DVD"
 # 原文错误 sotware
 #: chapter8/xinclude.xml:1812(para)
 msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
-msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System CSS) 加密的，其尝试限制可以播放 DVD 的软件。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，加密 DVD 播放需要的一些软件包没有默认安装。您可以从 Ubuntu 仓库启用加密 DVD 的播放。"
+msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 库中启用对加密 DVD 的播放。"
 
 #: chapter8/xinclude.xml:1824(para)
 msgid "It is possible that the use of some of the following software to play or copy DVDs is not permitted by law in some countries. Please check your rights before proceeding."
-msgstr "使用如下软件中的一些播放或复制 DVD 在某些国家可能是不被法律允许的。请在进行之前确定您有权这样做。"
+msgstr "使用如下软件播放或复制 DVD 在某些国家可能是不被法律允许的。请在进行之前确定您有权这样做。"
 
 #: chapter8/xinclude.xml:1829(para)
 msgid "You may also consider downloading the following additional applications that are capable of playing certain formats by default:"
@@ -1750,7 +1750,7 @@ msgstr "Totem-xine"
 
 #: chapter8/xinclude.xml:1851(para)
 msgid "Totem Movie Player, the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
-msgstr "Totem 电影播放器 - 包含在 Ubuntu 中的默认电影播放器，可以在 DVD 插入 DVD 驱动器时自动播放它。但是，它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 xine 的自由媒体播放软件可以使 DVD 菜单可用。"
+msgstr "Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD。但它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 xine 的自由媒体播放软件可以支持 DVD 菜单可用。"
 
 #: chapter8/xinclude.xml:1857(title)
 msgid "Playing DVDs in Totem Movie Player"
@@ -1758,11 +1758,11 @@ msgstr "在 Totem 电影播放器中播放 DVD"
 
 #: chapter8/xinclude.xml:1859(para)
 msgid "After you have installed all the required software packages from various Ubuntu repositories, you can play a DVD on your Totem movie player."
-msgstr "从多个Ubuntu 软件仓库安装了所有需要的软件包之后，您可以在您的 Totem 电影播放器上播放 DVD。"
+msgstr "从 Ubuntu 软件库安装了所有需要的软件包之后，就可在您的 Totem 电影播放器上播放 DVD 了。"
 
 #: chapter8/xinclude.xml:1864(title)
 msgid "To play a DVD on Totem:"
-msgstr "要在 Totem 上播放 DVD："
+msgstr "在 Totem 上播放 DVD："
 
 #: chapter8/xinclude.xml:1867(para)
 msgid "Insert the DVD in the DVD drive of your computer. This will automatically launch the Totem and the DVD will start playing."
@@ -1774,7 +1774,7 @@ msgstr "在 Totem 中播放 DVD"
 
 #: chapter8/xinclude.xml:1883(para)
 msgid "To view the DVD in full screen mode, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Fullscreen</emphasis>. Alternatively, you can simply press <emphasis role=\"strong\">F</emphasis> on your keyboard."
-msgstr "要在全屏模式观看 DVD，在 <emphasis role=\"strong\">查看</emphasis> 菜单上点击 <emphasis role=\"strong\">全屏</emphasis>。或者，可以简单的在键盘上按 <emphasis role=\"strong\">F</emphasis>。"
+msgstr "要在全屏模式观看 DVD，可在 <emphasis role=\"strong\">查看</emphasis> 菜单上点击 <emphasis role=\"strong\">全屏</emphasis>。或者，仅需在键盘上按 <emphasis role=\"strong\">F</emphasis>。"
 
 #: chapter8/xinclude.xml:1887(title)
 msgid "Enabling the Full Screen View"
@@ -1790,7 +1790,7 @@ msgstr "全屏观看 DVD"
 
 #: chapter8/xinclude.xml:1912(para)
 msgid "Totem also allows you to configure some settings to view the DVD according to your preferences. To configure the preferences settings, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences</emphasis>."
-msgstr "Totem 也允许您配置一些选项以根据您的喜好观看 DVD。要配置喜好的设置，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上，点击 <emphasis role=\"strong\">首选项</emphasis>。"
+msgstr "Totem 也可以根据您的需要设置一些选项来观看 DVD。在 <emphasis role=\"strong\">编辑</emphasis> 菜单上，点击 <emphasis role=\"strong\">首选项</emphasis> 开始设置。"
 
 #: chapter8/xinclude.xml:1918(title)
 msgid "Displaying Totem Configuration"
@@ -1798,7 +1798,7 @@ msgstr "显示 Totem 配置"
 
 #: chapter8/xinclude.xml:1929(para)
 msgid "You can use the Preferences dialogue box to define various display settings, such as the brightness, colour, hue and saturation of the display. After specifying your preferences, click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr "您可以使用首选项对话框定义多种显示设置，例如显示的亮度、颜色、色调和饱和度。指定您的首选项之后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
+msgstr "您可以使用首选项对话框定义多种显示设置，如显示的亮度、颜色、色调和饱和度。指定您的首选项之后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 #: chapter8/xinclude.xml:1934(title)
 msgid "Customising Display Settings"
@@ -1807,7 +1807,7 @@ msgstr "自定义显示设置"
 # 此处菜单条没有翻译
 #: chapter8/xinclude.xml:1945(para)
 msgid "When watching a DVD, you can use the various options provided in the <emphasis role=\"strong\">Go</emphasis> menu to navigate inside the DVD. To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
-msgstr "当您观看 DVD 时，您可以使用在 <emphasis role=\"strong\">转到</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一帧，在 <emphasis role=\"strong\">转到</emphasis> 菜单上，点击 <emphasis role=\"strong\">Skip Forwards</emphasis>。"
+msgstr "当您观看 DVD 时，您可以使用 <emphasis role=\"strong\">转到</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一帧，可在 <emphasis role=\"strong\">转到</emphasis> 菜单上，点击 <emphasis role=\"strong\">快进</emphasis>。"
 
 #: chapter8/xinclude.xml:1951(title)
 msgid "Navigating Inside a DVD"
@@ -1827,7 +1827,7 @@ msgstr "观看 DVD"
 
 #: chapter8/xinclude.xml:1987(para)
 msgid "This hides the side bar and now you can view the DVD on a larger space and simultaneously, have all the playback controls right in front of you."
-msgstr "此项隐藏侧边栏，现在您可以在一个更大的空间观看 DVD，同时使所有播放控制正好在您面前。"
+msgstr "此项隐藏侧边栏，现在您可以以更大的屏幕观看 DVD，同时所有的播放控制正好在您面前。"
 
 #: chapter8/xinclude.xml:1995(title)
 msgid "Backing up DVDs"
@@ -1851,11 +1851,11 @@ msgstr "HandBrake"
 
 #: chapter8/xinclude.xml:1997(para)
 msgid "If you have a collection of old and not-so-easy-to-find DVDs, you may wish to back up these on your computer or create extra copies of them. You may even want to extract certain tracks from your DVD and watch it later. To do so, Ubuntu provides you with a number of DVD backup applications or DVD rippers. Although these applications are not included in Ubuntu by default, you can download and install them from the Ubuntu repositories. Some of these applications are: <placeholder-1/>"
-msgstr "如果您有收集的旧且不容易查找的 DVD，您可能希望备份它们到计算机或者创建它们的额外副本。您甚至可能希望从 DVD 提取特定曲目稍候观看。要做到这些，Ubuntu 提供给您一些 DVD 备份程序或 DVD 抓取程序。虽然这些程序并不默认包含在 Ubuntu 中，但是您可以从 Ubuntu 仓库下载并安装它们。这些程序中的一些是：<placeholder-1/>"
+msgstr "如果您收集了一些旧的或者市场上不容易找到的 DVD，您可能希望将它们备份到计算机上或者创建一个副本。您可能还想从 DVD 提取特定曲目以便稍候观看。Ubuntu 提供给您一些 DVD 备份程序或 DVD 抓取程序来实现这些操作。虽然这些程序并不默认包含在 Ubuntu 中，但是您可以从 Ubuntu 库下载并安装它们。这些程序有：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2024(para)
 msgid "If the students want to know more about the above applications, advise them to visit the following Web pages: For dvd::rip- <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink> For K9copy- <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink> For HandBrake- <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>."
-msgstr "如果学生想知道关于以上程序的更多信息，建议他们访问如下网页：对 dvd::rip - <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink>   对 K9copy - <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink>   对 HandBrake - <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>。"
+msgstr "想知道关于上述程序的更多信息，建议访问如下网页：dvd::rip - <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink>  K9copy - <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink>   HandBrake - <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>。"
 
 #: chapter8/xinclude.xml:2031(title)
 msgid "Backing up DVDs Using Thoggen"
@@ -1863,11 +1863,11 @@ msgstr "使用 Thoggen 备份 DVD"
 
 #: chapter8/xinclude.xml:2033(para)
 msgid "Thoggen is a DVD backup utility for Linux, based on GStreamer and Gtk+. This application is designed to be easy-to-use. Rather than exposing the complexities of the DVD ripping process, which many other applications tend to do, it tries to simplify the process for average users by offering sensible default options."
-msgstr "Thoggen 是一种 Linux 上的基于 GStreamer 和 Gtk+ 的 DVD 备份工具。此程序设计为易于使用。而不是暴露 DVD 抓取过程的复杂性，这是其它程序倾向于做的，它尝试通过提供合理的默认选项为普通用户简化这个过程。"
+msgstr "Thoggen 是一款 Linux 上的基于 GStreamer 和 Gtk+ 的 DVD 备份工具。此程序的设计宗旨在于其易用性。一些程序在设计过程中倾向于暴露 DVD 抓取过程中的复杂性，而它尝试通过提供合理的默认选项为普通用户简化这个过程。"
 
 #: chapter8/xinclude.xml:2042(para)
 msgid "Is easy to use and has a nice graphical user interface (GUI)"
-msgstr "易于使用并且有好的图形用户界面(GUI)"
+msgstr "友好易用的图形用户界面(GUI)"
 
 #: chapter8/xinclude.xml:2047(para)
 msgid "Supports title preview, picture cropping, and picture resizing"
