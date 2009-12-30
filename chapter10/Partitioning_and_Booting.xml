@@ -760,16 +760,6 @@
           When you create a new partition, the new partition opens as a
           separate window and the partition appears as a disk icon on the
           desktop.</para>
-
-          <figure float="0">
-            <title>Removable Drives and Media Preferences Dialogue Box</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson11_images_017.png" width="11cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
         </step>
 
         <step performance="required">
@@ -777,13 +767,19 @@
           unmount them by right-clicking the <emphasis role="strong">disk</emphasis> icon on the desktop and selecting the
           <emphasis role="strong">Unmount Volume</emphasis> option from the
           short-cut menu.</para>
-
+        </step>
+        
+        <step performance="required">
+          <para>If you want more control on the mount of partitions,you can click 
+          <emphasis role="strong">system</emphasis> menu,and point to <emphasis role="strong">administrate</emphasis>,
+          then click <emphasis role="strong">Disk Utility</emphasis>.The <emphasis role="strong">Palimpsest Disk Utility</emphasis>
+          windows opnens.</para>
           <figure float="0">
-            <title>RC.Local File</title>
+            <title>Palimpsest Disk Utility</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_018.png" width="8cm" format="PNG"/>
+                <imagedata fileref="images/Lesson11_images_018.png" width="11cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -841,8 +837,7 @@
           <para>On the Terminal, type the following command to open the
           rc.local file:</para>
 
-          <screen format="linespecific">$ sudo nano
-          /etc/rc.local</screen>
+          <screen format="linespecific">$ sudo nano /etc/rc.local</screen>
 
           <figure float="0">
             <title>Terminal Window</title>
@@ -865,8 +860,7 @@
           command that you want to run at system start-up before the line,
           exit 0.</para>
 
-          <screen format="linespecific">$ date &gt;
-          /home/oem/newbackup</screen>
+          <screen format="linespecific">$ date &gt; /home/oem/newbackup</screen>
 
           <figure float="0">
             <title>Making Settings for rc.local File</title>
@@ -922,7 +916,7 @@
           as follows:</para>
 
           <screen format="linespecific">$ sudo cp /etc/default/grub /etc/default/grub_backup 
-          $ sudo gedit /etc/default/grub</screen>
+$ sudo gedit /etc/default/grub</screen>
         </step>
 
         <step performance="required">
