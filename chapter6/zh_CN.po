@@ -2,15 +2,15 @@
 # Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 #
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
 # Ni Hui <shuizhuyuanluo@126.com>, 2009.
+# Hunt Xu <huntxu@live.cn>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2009-12-29 15:59+0800\n"
-"PO-Revision-Date: 2009-12-29 19:18+0800\n"
-"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"PO-Revision-Date: 2009-12-30 13:14+0800\n"
+"Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1040(title)
 msgid "Using Add/Remove Applications"
-msgstr "使用添加/删除应用程序"
+msgstr "使用 Ubuntu 软件中心"
 
 #: chapter6/xinclude.xml:1042(para)
 msgid ""
@@ -1742,9 +1742,10 @@ msgid ""
 "looking through the given categories, selecting applications and choosing "
 "\"Apply\" to start the installation."
 msgstr ""
-"添加/删除工具是最容易使用的，它能让您安装和卸载许多流行软件包。您可以简单地搜"
-"索如“电子邮件”这种关键字来搜索您想安装的软件包，或浏览给出的分类，选择应用程"
-"序，然后按下“应用”启动软件包安装。"
+"Ubuntu 软件中心是最容易使用的，它能让您安装和卸载许多流行软件包。您可以简单地搜"
+"索如 'email' 这种关键字来搜索您想安装的软件包，或浏览给出的分类，选择应用程"
+"序，然后按下软件名称右边的前进按钮，将进入应用程序介绍页面，此页面将给出应用程序截图"
+"和简要介绍，点击下方的“安装”按钮，获得授权后即开始安装软件。"
 
 #: chapter6/xinclude.xml:1051(para)
 msgid ""
@@ -1759,7 +1760,7 @@ msgstr ""
 #: chapter6/xinclude.xml:1058(title)
 msgid ""
 "The procedure to add or remove software by using Add/Remove Applications is:"
-msgstr "使用添加/删除应用程序来添加或删除软件的步骤为："
+msgstr "使用 Ubuntu 软件中心来安装或删除软件的步骤为："
 
 #: chapter6/xinclude.xml:1062(para)
 msgid ""
@@ -1767,13 +1768,14 @@ msgid ""
 "<emphasis role=\"strong\">Add/Remove</emphasis>."
 msgstr ""
 "在<emphasis role=\"strong\">应用程序</emphasis>菜单中点击<emphasis role="
-"\"strong\">添加/删除</emphasis>。"
+"\"strong\">Ubuntu 软件中心</emphasis>。"
 
 #: chapter6/xinclude.xml:1066(title)
 msgid "Launching Add/Remove Applications"
-msgstr "启动添加/删除应用程序"
+msgstr "启动 Ubuntu 软件中心"
 
 #: chapter6/xinclude.xml:1077(para)
+#, fuzzy
 msgid ""
 "The <emphasis role=\"strong\">Add/Remove Applications</emphasis> dialogue "
 "box displays a list of applications. The check boxes against the "
@@ -1792,7 +1794,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1090(title)
 msgid "Add/Remove Applications Window"
-msgstr "添加/删除应用程序窗口"
+msgstr "Ubuntu 软件中心窗口"
 
 #: chapter6/xinclude.xml:1101(para)
 msgid ""
@@ -1801,14 +1803,13 @@ msgid ""
 "click the appropriate software category in the left pane and select the "
 "check box next to the required package in the right pane."
 msgstr ""
-"如果您知道要安装的软件包名称，您可以在<emphasis role=\"strong\">搜索</"
-"emphasis>框中输入名称。否则，您可以在左侧面板中点击恰当的软件分类并在右侧面板"
-"中选择需要的软件包。"
+"如果您知道要安装的软件包名称，您可以在右上角的搜索框中输入名称。否则，您可以"
+"在软件中心首页中点击恰当的软件分类并选择需要的软件包。"
 
 #: chapter6/xinclude.xml:1110(para)
 msgid ""
 "For more details about a package, click the package and view the bottom pane."
-msgstr "想要获取更多软件包细节，可点击软件包并查看下方的面板。"
+msgstr "想要获取更多软件包细节，可点击软件包名称旁边的前进按钮，进入软件介绍页面。"
 
 #: chapter6/xinclude.xml:1115(title)
 msgid "Searching for a Package in All Available Applications"
@@ -1819,8 +1820,9 @@ msgid ""
 "When you have finished selecting the packages to be installed or removed, "
 "click <emphasis role=\"strong\">Apply Changes</emphasis>."
 msgstr ""
-"当您选好要安装或删除的软件包后，请点击<emphasis role=\"strong\">应用更改</"
-"emphasis>。"
+"在软件介绍页面中，点击下方<emphasis role=\"strong\">安装</emphasis>或者"
+"<emphasis role=\"strong\">移除</emphasis>按钮来执行相应操作。更多的信息可以点击"
+"<emphasis role=\"strong\">网站</emphasis>按钮以浏览该项目的主页。"
 
 #: chapter6/xinclude.xml:1131(title)
 msgid "Applying Changes to the Package List"
