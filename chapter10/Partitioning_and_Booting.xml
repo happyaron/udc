@@ -825,15 +825,7 @@
           <para>After you enter the command you want executed at system
           start-up, press CTRL+X to save and exit the edited file.</para>
 
-          <figure float="0">
-            <title>Services Window</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson11_images_021.png" width="11cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
+          
         </step>
 
         <step performance="required">
@@ -845,6 +837,15 @@
 
           <para>The following image shows the output of the above
           command:</para>
+          <figure float="0">
+            <title>The content of newbackup</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson11_images_017.png" width="9cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </step>
       </procedure>
     </sect2>
@@ -927,6 +928,16 @@ $ sudo gedit /etc/default/grub</screen>
           <para>On the <emphasis role="strong">System</emphasis> menu, point to
           <emphasis role="strong">Administration</emphasis> and then click
           <emphasis role="strong">Services</emphasis>.</para>
+          
+          <figure float="0">
+            <title>Services Window</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson11_images_021.png" width="11cm" format="PNG"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </step>
 
         <step performance="required">

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-30 19:10+0800\n"
-"PO-Revision-Date: 2009-12-30 23:21+0800\n"
+"PO-Revision-Date: 2009-12-31 10:37+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -538,12 +538,12 @@ msgstr "点击 <emphasis role=\"strong\">添加</emphasis> 添加按钮以按成
 # 此处的按钮 很可能有误
 #: chapter10/xinclude.xml:619(para)
 msgid "You can create multiple partitions at this stage by following the above-mentioned procedure and then clicking <emphasis role=\"strong\">Apply</emphasis> to add them to the hard drive. The <emphasis role=\"strong\">Apply operations to hard disk</emphasis> dialogue box appears."
-msgstr "可以通过上述步骤在此步中创建多个分区，并点击 <emphasis role=\"strong\">提交</emphasis> 以添加到硬盘。显示 <emphasis role=\"strong\">向硬盘提交操作</emphasis> 对话框。"
+msgstr "可以通过上述步骤在此步中创建多个分区，并点击 <emphasis role=\"strong\">提交</emphasis> 以添加到硬盘。显示 <emphasis role=\"strong\">应用操作到设备</emphasis> 对话框。"
 
 # 有误
 #: chapter10/xinclude.xml:626(para)
 msgid "The <emphasis role=\"strong\">Apply operations to hard disk</emphasis> dialogue box recommends that you back up data before performing the changes and seeks your final confirmation before applying the changes to the hard disk. Click the <emphasis role=\"strong\">Apply</emphasis> button to partition and format the hard disk according to your specifications."
-msgstr "<emphasis role=\"strong\">提交更改到硬盘</emphasis> 对话框推荐您在执行此更改之前备份数据并且在提交更改到硬盘时进行最后的确认。点击 <emphasis role=\"strong\">提交</emphasis> 按钮以按您指定的对硬盘进行分区和格式化。"
+msgstr "<emphasis role=\"strong\">应用操作到设备</emphasis> 对话框推荐您在执行此更改之前备份数据并且在提交更改到硬盘时进行最后的确认。点击 <emphasis role=\"strong\">应用</emphasis> 按钮以按您指定的对硬盘进行分区和格式化。"
 
 #: chapter10/xinclude.xml:633(title)
 msgid "Confirmation Box"
@@ -560,11 +560,11 @@ msgstr "您接收到一条说所有的操作已经成功完成的信息后，可
 # 此处也有误
 #: chapter10/xinclude.xml:661(title)
 msgid "Applying Pending Operations Box"
-msgstr "提交等待的操作框"
+msgstr "应用待执行操作操作对话框"
 
 #: chapter10/xinclude.xml:672(para)
 msgid "The newly created partition is now visible in the <emphasis role=\"strong\">GParted</emphasis> window. You will also notice that your system automounts the newly created partition."
-msgstr "新创建的分区现在可以在 <emphasis role=\"strong\">GParted</emphasis> 窗口中看到。您也会注意到您的自动自动挂载这个新建分区。"
+msgstr "新创建的分区现在可以在 <emphasis role=\"strong\">GParted</emphasis> 窗口中看到。您也会注意到系统自动挂载了这个新建分区。"
 
 #: chapter10/xinclude.xml:676(title)
 msgid "GParted with New Partition"
