@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2009-12-31 16:41+0800\n"
+"PO-Revision-Date: 2009-12-31 23:14+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -22,262 +22,158 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:107(None)
-msgid ""
-"@@image: 'images/Lesson08_images_001.png'; "
-"md5=8bd537e57a4337f0e4e6a1c0554d0f0a"
-msgstr ""
-"@@image: 'images/Lesson08_images_001.png'; "
-"md5=8bd537e57a4337f0e4e6a1c0554d0f0a"
+msgid "@@image: 'images/Lesson08_images_001.png'; md5=8bd537e57a4337f0e4e6a1c0554d0f0a"
+msgstr "@@image: 'images/Lesson08_images_001.png'; md5=8bd537e57a4337f0e4e6a1c0554d0f0a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:128(None)
-msgid ""
-"@@image: 'images/Lesson08_images_002.png'; "
-"md5=41a7a6b8f586715aa1ff4d04ae064a70"
-msgstr ""
-"@@image: 'images/Lesson08_images_002.png'; "
-"md5=41a7a6b8f586715aa1ff4d04ae064a70"
+msgid "@@image: 'images/Lesson08_images_002.png'; md5=41a7a6b8f586715aa1ff4d04ae064a70"
+msgstr "@@image: 'images/Lesson08_images_002.png'; md5=41a7a6b8f586715aa1ff4d04ae064a70"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:152(None)
-msgid ""
-"@@image: 'images/Lesson08_images_003.png'; "
-"md5=9be36dd5b4cf50a8de3a8ac95a41063e"
-msgstr ""
-"@@image: 'images/Lesson08_images_003.png'; "
-"md5=9be36dd5b4cf50a8de3a8ac95a41063e"
+msgid "@@image: 'images/Lesson08_images_003.png'; md5=9be36dd5b4cf50a8de3a8ac95a41063e"
+msgstr "@@image: 'images/Lesson08_images_003.png'; md5=9be36dd5b4cf50a8de3a8ac95a41063e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:172(None)
-msgid ""
-"@@image: 'images/Lesson08_images_004.png'; "
-"md5=6502cccf26aa4ea555e130157dd3111e"
-msgstr ""
-"@@image: 'images/Lesson08_images_004.png'; "
-"md5=6502cccf26aa4ea555e130157dd3111e"
+msgid "@@image: 'images/Lesson08_images_004.png'; md5=6502cccf26aa4ea555e130157dd3111e"
+msgstr "@@image: 'images/Lesson08_images_004.png'; md5=6502cccf26aa4ea555e130157dd3111e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:189(None)
-msgid ""
-"@@image: 'images/Lesson08_images_005.png'; "
-"md5=f1b544f2bea9d4dcd6f85368cb24f9fc"
-msgstr ""
-"@@image: 'images/Lesson08_images_005.png'; "
-"md5=f1b544f2bea9d4dcd6f85368cb24f9fc"
+msgid "@@image: 'images/Lesson08_images_005.png'; md5=f1b544f2bea9d4dcd6f85368cb24f9fc"
+msgstr "@@image: 'images/Lesson08_images_005.png'; md5=f1b544f2bea9d4dcd6f85368cb24f9fc"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:244(None)
-msgid ""
-"@@image: 'images/Lesson08_images_020.png'; "
-"md5=6beaf5f6a0772e4ddacacc1b8b3d3a27"
-msgstr ""
-"@@image: 'images/Lesson08_images_020.png'; "
-"md5=6beaf5f6a0772e4ddacacc1b8b3d3a27"
+msgid "@@image: 'images/Lesson08_images_020.png'; md5=6beaf5f6a0772e4ddacacc1b8b3d3a27"
+msgstr "@@image: 'images/Lesson08_images_020.png'; md5=6beaf5f6a0772e4ddacacc1b8b3d3a27"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:278(None)
-msgid ""
-"@@image: 'images/Lesson08_images_021.png'; "
-"md5=cbb9d0175845e3d7ed99e62ff4faf404"
-msgstr ""
-"@@image: 'images/Lesson08_images_021.png'; "
-"md5=cbb9d0175845e3d7ed99e62ff4faf404"
+msgid "@@image: 'images/Lesson08_images_021.png'; md5=cbb9d0175845e3d7ed99e62ff4faf404"
+msgstr "@@image: 'images/Lesson08_images_021.png'; md5=cbb9d0175845e3d7ed99e62ff4faf404"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:304(None)
-msgid ""
-"@@image: 'images/Lesson08_images_022.png'; "
-"md5=2d1dc5161c41eac042b3a0c60f2cab55"
-msgstr ""
-"@@image: 'images/Lesson08_images_022.png'; "
-"md5=2d1dc5161c41eac042b3a0c60f2cab55"
+msgid "@@image: 'images/Lesson08_images_022.png'; md5=2d1dc5161c41eac042b3a0c60f2cab55"
+msgstr "@@image: 'images/Lesson08_images_022.png'; md5=2d1dc5161c41eac042b3a0c60f2cab55"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:315(None)
-msgid ""
-"@@image: 'images/Lesson08_images_023.png'; "
-"md5=55ab7381c09479463c337c64c276ae3e"
-msgstr ""
-"@@image: 'images/Lesson08_images_023.png'; "
-"md5=55ab7381c09479463c337c64c276ae3e"
+msgid "@@image: 'images/Lesson08_images_023.png'; md5=55ab7381c09479463c337c64c276ae3e"
+msgstr "@@image: 'images/Lesson08_images_023.png'; md5=55ab7381c09479463c337c64c276ae3e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:330(None)
-msgid ""
-"@@image: 'images/Lesson08_images_024.png'; "
-"md5=9e99cb00b9937b0eb5de3d7166b95bf3"
-msgstr ""
-"@@image: 'images/Lesson08_images_024.png'; "
-"md5=9e99cb00b9937b0eb5de3d7166b95bf3"
+msgid "@@image: 'images/Lesson08_images_024.png'; md5=9e99cb00b9937b0eb5de3d7166b95bf3"
+msgstr "@@image: 'images/Lesson08_images_024.png'; md5=9e99cb00b9937b0eb5de3d7166b95bf3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:344(None)
-msgid ""
-"@@image: 'images/Lesson08_images_025.png'; "
-"md5=33dad0e43ae2ab8d49c209c44e4d6d97"
-msgstr ""
-"@@image: 'images/Lesson08_images_025.png'; "
-"md5=33dad0e43ae2ab8d49c209c44e4d6d97"
+msgid "@@image: 'images/Lesson08_images_025.png'; md5=33dad0e43ae2ab8d49c209c44e4d6d97"
+msgstr "@@image: 'images/Lesson08_images_025.png'; md5=33dad0e43ae2ab8d49c209c44e4d6d97"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:380(None)
-msgid ""
-"@@image: 'images/Lesson08_images_026.png'; "
-"md5=4bb8006be14b4d13994666ab632ba293"
-msgstr ""
-"@@image: 'images/Lesson08_images_026.png'; "
-"md5=4bb8006be14b4d13994666ab632ba293"
+msgid "@@image: 'images/Lesson08_images_026.png'; md5=4bb8006be14b4d13994666ab632ba293"
+msgstr "@@image: 'images/Lesson08_images_026.png'; md5=4bb8006be14b4d13994666ab632ba293"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:398(None)
-msgid ""
-"@@image: 'images/Lesson08_images_027.png'; "
-"md5=9d342625fd6728620a8a9ed0ce4f3fcc"
-msgstr ""
-"@@image: 'images/Lesson08_images_027.png'; "
-"md5=9d342625fd6728620a8a9ed0ce4f3fcc"
+msgid "@@image: 'images/Lesson08_images_027.png'; md5=9d342625fd6728620a8a9ed0ce4f3fcc"
+msgstr "@@image: 'images/Lesson08_images_027.png'; md5=9d342625fd6728620a8a9ed0ce4f3fcc"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:433(None)
-msgid ""
-"@@image: 'images/Lesson08_images_028.png'; "
-"md5=ff1c6af50a14b74bd4c00590bb33b61e"
-msgstr ""
-"@@image: 'images/Lesson08_images_028.png'; "
-"md5=ff1c6af50a14b74bd4c00590bb33b61e"
+msgid "@@image: 'images/Lesson08_images_028.png'; md5=ff1c6af50a14b74bd4c00590bb33b61e"
+msgstr "@@image: 'images/Lesson08_images_028.png'; md5=ff1c6af50a14b74bd4c00590bb33b61e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:443(None)
-msgid ""
-"@@image: 'images/Lesson08_images_029.png'; "
-"md5=0bf44424bca8dfaf4af9b38e3665c08c"
-msgstr ""
-"@@image: 'images/Lesson08_images_029.png'; "
-"md5=0bf44424bca8dfaf4af9b38e3665c08c"
+msgid "@@image: 'images/Lesson08_images_029.png'; md5=0bf44424bca8dfaf4af9b38e3665c08c"
+msgstr "@@image: 'images/Lesson08_images_029.png'; md5=0bf44424bca8dfaf4af9b38e3665c08c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:484(None)
-msgid ""
-"@@image: 'images/Lesson08_images_030.png'; "
-"md5=9b3c5db9927fb8475acafb0883a56a0f"
-msgstr ""
-"@@image: 'images/Lesson08_images_030.png'; "
-"md5=9b3c5db9927fb8475acafb0883a56a0f"
+msgid "@@image: 'images/Lesson08_images_030.png'; md5=9b3c5db9927fb8475acafb0883a56a0f"
+msgstr "@@image: 'images/Lesson08_images_030.png'; md5=9b3c5db9927fb8475acafb0883a56a0f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:494(None)
-msgid ""
-"@@image: 'images/Lesson08_images_031.png'; "
-"md5=e6b6cee558ae68cd07a5ec45df6e1d7b"
-msgstr ""
-"@@image: 'images/Lesson08_images_031.png'; "
-"md5=e6b6cee558ae68cd07a5ec45df6e1d7b"
+msgid "@@image: 'images/Lesson08_images_031.png'; md5=e6b6cee558ae68cd07a5ec45df6e1d7b"
+msgstr "@@image: 'images/Lesson08_images_031.png'; md5=e6b6cee558ae68cd07a5ec45df6e1d7b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:518(None)
-msgid ""
-"@@image: 'images/Lesson08_images_014.png'; "
-"md5=0dcdeff4b127e3efdf460fce0a402294"
-msgstr ""
-"@@image: 'images/Lesson08_images_014.png'; "
-"md5=0dcdeff4b127e3efdf460fce0a402294"
+msgid "@@image: 'images/Lesson08_images_014.png'; md5=0dcdeff4b127e3efdf460fce0a402294"
+msgstr "@@image: 'images/Lesson08_images_014.png'; md5=0dcdeff4b127e3efdf460fce0a402294"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:538(None)
-msgid ""
-"@@image: 'images/Lesson08_images_015.png'; "
-"md5=615704c65a56ff537caa44fcf5cf4a6d"
-msgstr ""
-"@@image: 'images/Lesson08_images_015.png'; "
-"md5=615704c65a56ff537caa44fcf5cf4a6d"
+msgid "@@image: 'images/Lesson08_images_015.png'; md5=615704c65a56ff537caa44fcf5cf4a6d"
+msgstr "@@image: 'images/Lesson08_images_015.png'; md5=615704c65a56ff537caa44fcf5cf4a6d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:634(None)
-msgid ""
-"@@image: 'images/Lesson08_images_017.png'; "
-"md5=7744867b4b891c4b19175df337057ff9"
-msgstr ""
-"@@image: 'images/Lesson08_images_017.png'; "
-"md5=7744867b4b891c4b19175df337057ff9"
+msgid "@@image: 'images/Lesson08_images_017.png'; md5=7744867b4b891c4b19175df337057ff9"
+msgstr "@@image: 'images/Lesson08_images_017.png'; md5=7744867b4b891c4b19175df337057ff9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:658(None)
-msgid ""
-"@@image: 'images/Lesson08_images_018.png'; "
-"md5=930738d64cb364dd8779ef5a74094f42"
-msgstr ""
-"@@image: 'images/Lesson08_images_018.png'; "
-"md5=930738d64cb364dd8779ef5a74094f42"
+msgid "@@image: 'images/Lesson08_images_018.png'; md5=930738d64cb364dd8779ef5a74094f42"
+msgstr "@@image: 'images/Lesson08_images_018.png'; md5=930738d64cb364dd8779ef5a74094f42"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:672(None)
-msgid ""
-"@@image: 'images/Lesson08_images_019.png'; "
-"md5=d60f6aa421c08f8492a5971af90f36cb"
-msgstr ""
-"@@image: 'images/Lesson08_images_019.png'; "
-"md5=d60f6aa421c08f8492a5971af90f36cb"
+msgid "@@image: 'images/Lesson08_images_019.png'; md5=d60f6aa421c08f8492a5971af90f36cb"
+msgstr "@@image: 'images/Lesson08_images_019.png'; md5=d60f6aa421c08f8492a5971af90f36cb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:824(None)
-msgid ""
-"@@image: 'images/Lesson08_images_038.png'; "
-"md5=38443e3d3e5ab66b4d2256f0532fc7d0"
-msgstr ""
-"@@image: 'images/Lesson08_images_038.png'; "
-"md5=38443e3d3e5ab66b4d2256f0532fc7d0"
+msgid "@@image: 'images/Lesson08_images_038.png'; md5=38443e3d3e5ab66b4d2256f0532fc7d0"
+msgstr "@@image: 'images/Lesson08_images_038.png'; md5=38443e3d3e5ab66b4d2256f0532fc7d0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:845(None)
-msgid ""
-"@@image: 'images/Lesson08_images_039.png'; "
-"md5=23bdbd76a5b061a8de2ea79045834c87"
-msgstr ""
-"@@image: 'images/Lesson08_images_039.png'; "
-"md5=23bdbd76a5b061a8de2ea79045834c87"
+msgid "@@image: 'images/Lesson08_images_039.png'; md5=23bdbd76a5b061a8de2ea79045834c87"
+msgstr "@@image: 'images/Lesson08_images_039.png'; md5=23bdbd76a5b061a8de2ea79045834c87"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:920(None)
-msgid ""
-"@@image: 'images/Lesson08_images_040.png'; "
-"md5=ee7b43ba8b02c8d6b9268c2d1b48a285"
-msgstr ""
-"@@image: 'images/Lesson08_images_040.png'; "
-"md5=ee7b43ba8b02c8d6b9268c2d1b48a285"
+msgid "@@image: 'images/Lesson08_images_040.png'; md5=ee7b43ba8b02c8d6b9268c2d1b48a285"
+msgstr "@@image: 'images/Lesson08_images_040.png'; md5=ee7b43ba8b02c8d6b9268c2d1b48a285"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:935(None)
-msgid ""
-"@@image: 'images/Lesson08_images_041.png'; "
-"md5=91e8f28d9ba382897f31bc116829ca61"
-msgstr ""
-"@@image: 'images/Lesson08_images_041.png'; "
-"md5=91e8f28d9ba382897f31bc116829ca61"
+msgid "@@image: 'images/Lesson08_images_041.png'; md5=91e8f28d9ba382897f31bc116829ca61"
+msgstr "@@image: 'images/Lesson08_images_041.png'; md5=91e8f28d9ba382897f31bc116829ca61"
 
 #: chapter7/xinclude.xml:4(title)
 msgid "Making The Most of Images and Photos"
@@ -299,19 +195,20 @@ msgstr "察看和编辑图像"
 msgid "Scan and send images"
 msgstr "扫描和发送图像"
 
-#: chapter7/xinclude.xml:23(title) chapter7/xinclude.xml:94(title)
-#: chapter7/xinclude.xml:221(title) chapter7/xinclude.xml:689(title)
+#: chapter7/xinclude.xml:23(title)
+#: chapter7/xinclude.xml:94(title)
+#: chapter7/xinclude.xml:221(title)
+#: chapter7/xinclude.xml:689(title)
 #: chapter7/xinclude.xml:730(title)
 msgid "Instructor Notes:"
 msgstr "编者提示"
 
 #: chapter7/xinclude.xml:25(emphasis)
-msgid ""
-"It is advisable to cover all the topics during the training. However, if you "
-"fall short of time then cover only the following topics:"
+msgid "It is advisable to cover all the topics during the training. However, if you fall short of time then cover only the following topics:"
 msgstr "建议教学过程中涉及所有的内容。如果时间紧张，建议涉及以下内容："
 
-#: chapter7/xinclude.xml:30(emphasis) chapter7/xinclude.xml:49(title)
+#: chapter7/xinclude.xml:30(emphasis)
+#: chapter7/xinclude.xml:49(title)
 msgid "Introducing Graphics Applications"
 msgstr "图像软件介绍"
 
@@ -324,70 +221,36 @@ msgid "3D Effects"
 msgstr "三维效果"
 
 #: chapter7/xinclude.xml:43(para)
-msgid ""
-"Try and take photographs of the class (students) before this session and "
-"then demonstrate the applications using those photographs. This lesson "
-"should be very hands on as opposed to just a demonstration."
-msgstr ""
-"本节开始之前不妨给班级(学生们)照几张照片，然后用这些照片来演示应用。这节课的"
-"实践性很强，而非简单的一个示范。"
+msgid "Try and take photographs of the class (students) before this session and then demonstrate the applications using those photographs. This lesson should be very hands on as opposed to just a demonstration."
+msgstr "本节开始之前不妨给班级(学生们)照几张照片，然后用这些照片来演示应用。这节课的实践性很强，而非简单的一个示范。"
 
 #: chapter7/xinclude.xml:51(para)
-msgid ""
-"Graphics applications form an integral part of Ubuntu. They enable you to "
-"organise your photo collection, create and edit photos and images, scan and "
-"send objects and more."
-msgstr ""
-"图形应用程序是 Ubuntu 的一个组成部分。它们可以用来管理相片集、创建或编辑照片"
-"和图像、扫描和发送图形对象等以及更多。"
+msgid "Graphics applications form an integral part of Ubuntu. They enable you to organise your photo collection, create and edit photos and images, scan and send objects and more."
+msgstr "图形应用程序是 Ubuntu 的一个组成部分。它们可以用来管理相片集、创建或编辑照片和图像、扫描和发送图形对象等以及更多。"
 
 # libraries
 #: chapter7/xinclude.xml:55(para)
-msgid ""
-"In this lesson, you will learn about the various graphics applications "
-"available on Ubuntu and which one to use when. These graphics applications "
-"are available either with the Ubuntu installation or in repositories (those "
-"libraries we mentioned earlier)."
-msgstr ""
-"本节课中，将学到 Ubuntu 上的多种图形应用程序，并在特定的时间针对性的使用它"
-"们。这些图形应用程序可以是 Ubuntu 安装时自带的或者在软件库中获取(这些软件库之"
-"前提到过)。"
+msgid "In this lesson, you will learn about the various graphics applications available on Ubuntu and which one to use when. These graphics applications are available either with the Ubuntu installation or in repositories (those libraries we mentioned earlier)."
+msgstr "本节课中，将学到 Ubuntu 上的多种图形应用程序，并在特定的时间针对性的使用它们。这些图形应用程序可以是 Ubuntu 安装时自带的或者在软件库中获取(这些软件库之前提到过)。"
 
 #: chapter7/xinclude.xml:61(title)
 msgid "Applications Available with the Ubuntu Installation"
 msgstr "Ubuntu 安装后就可以使用的程序"
 
 #: chapter7/xinclude.xml:66(para)
-msgid ""
-"<emphasis role=\"strong\">GIMP Image Editor:</emphasis> An image editor used "
-"for advanced image creation and editing such as changing the contrast, "
-"colour or the texture of an image."
-msgstr ""
-"<emphasis role=\"strong\">GIMP 图像编辑器：</emphasis> 这款图像编辑器可用于图"
-"像的创建和编辑，比如改变图像的对比度、色彩和纹理等。"
+msgid "<emphasis role=\"strong\">GIMP Image Editor:</emphasis> An image editor used for advanced image creation and editing such as changing the contrast, colour or the texture of an image."
+msgstr "<emphasis role=\"strong\">GIMP 图像编辑器：</emphasis> 这款图像编辑器可用于图像的创建和编辑，比如改变图像的对比度、色彩和纹理等。"
 
 #: chapter7/xinclude.xml:72(para)
-msgid ""
-"<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager "
-"used to organise and manage photos. F-Spot enables you to tag (label), "
-"categorise and sort photos."
-msgstr ""
-"<emphasis role=\"strong\">F-Spot 照片管理器：</emphasis> 一个管理和组织照片的"
-"程序。可以利用 F-Spot 对照片进行标记(添加标签)、分类和排序。"
+msgid "<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager used to organise and manage photos. F-Spot enables you to tag (label), categorise and sort photos."
+msgstr "<emphasis role=\"strong\">F-Spot 照片管理器：</emphasis> 一个管理和组织照片的程序。可以利用 F-Spot 对照片进行标记(添加标签)、分类和排序。"
 
 #: chapter7/xinclude.xml:78(para)
-msgid ""
-"<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner "
-"which also enables you to photocopy documents and fax or e-mail scanned "
-"images."
-msgstr ""
-"<emphasis role=\"strong\">XSane 图像扫描仪：</emphasis> 用来影印文件并以传真"
-"或者电子邮件的形式发送扫描图像的图像扫描器，。"
+msgid "<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner which also enables you to photocopy documents and fax or e-mail scanned images."
+msgstr "<emphasis role=\"strong\">XSane 图像扫描仪：</emphasis> 用来影印文件并以传真或者电子邮件的形式发送扫描图像的图像扫描器，。"
 
 #: chapter7/xinclude.xml:63(para)
-msgid ""
-"The following applications are included in the Ubuntu installation package: "
-"<placeholder-1/>"
+msgid "The following applications are included in the Ubuntu installation package: <placeholder-1/>"
 msgstr "下列应用程序包含在 Ubuntu 安装包中：<placeholder-1/>"
 
 #: chapter7/xinclude.xml:86(title)
@@ -395,149 +258,68 @@ msgid "Applications Available in Repositories"
 msgstr "软件按库中可获取的应用程序"
 
 #: chapter7/xinclude.xml:88(para)
-msgid ""
-"In addition to the default applications, you can search through the "
-"repositories and install applications using the Synaptic Package Manager or "
-"the Command Line Interface (CLI)."
-msgstr ""
-"除了默认的应用程序，您还可以使用新立得软件包管理器或命令行界面（CLI）在软件库"
-"中搜索和安装应用程序。"
+msgid "In addition to the default applications, you can search through the repositories and install applications using the Synaptic Package Manager or the Command Line Interface (CLI)."
+msgstr "除了默认的应用程序，您还可以使用新立得软件包管理器或命令行界面（CLI）在软件库中搜索和安装应用程序。"
 
 #: chapter7/xinclude.xml:96(para)
-msgid ""
-"Thousands of applications are available in the repositories; this topic "
-"covers only a few of them. If students want more information about a "
-"specific application, show them the way to view application details in the "
-"Synaptic Package Manager."
-msgstr ""
-"存储库中有成千上万的应用程序；本文只涉及到了其中的某些应用程序。如果学生想了"
-"解具体应用程序的更多信息，给他们演示在新立得软件包管理器中输入程序名来了解其"
-"细节的方法。"
+msgid "Thousands of applications are available in the repositories; this topic covers only a few of them. If students want more information about a specific application, show them the way to view application details in the Synaptic Package Manager."
+msgstr "存储库中有成千上万的应用程序；本文只涉及到了其中的某些应用程序。如果学生想了解具体应用程序的更多信息，给他们演示在新立得软件包管理器中输入程序名来了解其细节的方法。"
 
 #: chapter7/xinclude.xml:112(title)
 msgid "Agave:"
 msgstr "Agave："
 
 #: chapter7/xinclude.xml:114(para)
-msgid ""
-"A colour scheme designer. After you select a base colour, Agave suggests the "
-"appropriate complementary colours or shades of the same base colour. You can "
-"also drag and drop a colour from another application, such as GIMP. Whether "
-"you are designing a Web page or a pamphlet or painting your house, this "
-"programme enables you to identify the appropriate colour scheme. Visit the "
-"Web site <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/"
-"colorscheme/</ulink> for more information on Agave."
-msgstr ""
-"一款颜色设计器。当选定一个基本颜色后，Agave 将提示适当的互补色或者相同基础色"
-"的色调。还可以从类似 GIMP 这样的应用程序中将颜色拖拽过来。无论是在设计一个网"
-"页或是一本小册子，亦或是粉刷房子，这个程序都将方便您找到合适的配色方案。想获"
-"得关于 Agave 的更多信息，可登录网址 <ulink url=\"http://home.gna.org/"
-"colorscheme/\">http://home.gna.org/colorscheme/</ulink> 进行查看。"
+msgid "A colour scheme designer. After you select a base colour, Agave suggests the appropriate complementary colours or shades of the same base colour. You can also drag and drop a colour from another application, such as GIMP. Whether you are designing a Web page or a pamphlet or painting your house, this programme enables you to identify the appropriate colour scheme. Visit the Web site <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink> for more information on Agave."
+msgstr "一款颜色设计器。当选定一个基本颜色后，Agave 将提示适当的互补色或者相同基础色的色调。还可以从类似 GIMP 这样的应用程序中将颜色拖拽过来。无论是在设计一个网页或是一本小册子，亦或是粉刷房子，这个程序都将方便您找到合适的配色方案。想获得关于 Agave 的更多信息，可登录网址 <ulink url=\"http://home.gna.org/colorscheme/\">http://home.gna.org/colorscheme/</ulink> 进行查看。"
 
 #: chapter7/xinclude.xml:133(title)
 msgid "Blender:"
 msgstr "Blender："
 
 #: chapter7/xinclude.xml:135(para)
-msgid ""
-"An open-source 3D content creation suite. You can create 3D models and "
-"animations, add post-production effects or use it as a graphics editor to "
-"define interactive behaviour without programming. Blender has a distinctive "
-"user interface that is implemented entirely in Open GL and designed for "
-"speed. Python bindings for scripting and import/export features for popular "
-"file formats such as 3D Studio are available in Blender. Blender can output "
-"still images, animations, models for games or other third party engines and "
-"interactive content in the form of standalone binaries or web plug-ins. "
-"Visit the Web site <ulink url=\"http://www.blender.org/\">http://www.blender."
-"org/</ulink> for more information on Blender."
-msgstr ""
-"是一款开源的 3D 内容创建软件。可以进行 3D 建模、动画制作和后期效果制作，也可"
-"以作为一款图形编辑器，在无需编程的环境下定义互动行为。Blender 有一个独特的用"
-"户界面，它完全在 Open GL 下实现且优化了运行速度。Blender 中可以使用 Python 脚"
-"本绑定，并针对常用的文件格式实现了导入/导出功能，例如 3D Studio。Blender 还可"
-"以生成图像、动画和模型，供给游戏或其他第三方引擎使用，它以独立的二进制文件或"
-"网页插件的形式提供互动内容。想获得关于 Blender 的更多信息，可登录网站<ulink "
-"url=\"http://www.blender.org/\">http://www.blender.org/</ulink>进行查看。"
+msgid "An open-source 3D content creation suite. You can create 3D models and animations, add post-production effects or use it as a graphics editor to define interactive behaviour without programming. Blender has a distinctive user interface that is implemented entirely in Open GL and designed for speed. Python bindings for scripting and import/export features for popular file formats such as 3D Studio are available in Blender. Blender can output still images, animations, models for games or other third party engines and interactive content in the form of standalone binaries or web plug-ins. Visit the Web site <ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink> for more information on Blender."
+msgstr "是一款开源的 3D 内容创建软件。可以进行 3D 建模、动画制作和后期效果制作，也可以作为一款图形编辑器，在无需编程的环境下定义互动行为。Blender 有一个独特的用户界面，它完全在 Open GL 下实现且优化了运行速度。Blender 中可以使用 Python 脚本绑定，并针对常用的文件格式实现了导入/导出功能，例如 3D Studio。Blender 还可以生成图像、动画和模型，供给游戏或其他第三方引擎使用，它以独立的二进制文件或网页插件的形式提供互动内容。想获得关于 Blender 的更多信息，可登录网站<ulink url=\"http://www.blender.org/\">http://www.blender.org/</ulink>进行查看。"
 
 #: chapter7/xinclude.xml:157(title)
 msgid "Dia:"
 msgstr "Dia："
 
 #: chapter7/xinclude.xml:159(para)
-msgid ""
-"A diagram editor similar to Microsoft Visio. Dia offers the capability to "
-"produce precise and professional-level graphics. You can draw entity "
-"relationship diagrams, flowcharts and network diagrams and export them to "
-"various formats, including EPS, SVG, XFIG, WMF and PNG. You can also print "
-"diagrams spanning multiple pages. Visit the Web site <ulink url=\"http://"
-"live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> for more information."
-msgstr ""
-"一款类似于 Microsoft Visio 的图标编辑器。Dia 能够制作精密的专业水平的图表。可"
-"以绘制实体关系图、流程图和网络图，并以多种格式导出，包括 EPS、SVG、XFIG、WMF "
-"和 PNG 等，还可以跨越多页面进行图标打印。可以登录网站 <ulink url=\"http://"
-"live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> 获得更多相关信息。"
+msgid "A diagram editor similar to Microsoft Visio. Dia offers the capability to produce precise and professional-level graphics. You can draw entity relationship diagrams, flowcharts and network diagrams and export them to various formats, including EPS, SVG, XFIG, WMF and PNG. You can also print diagrams spanning multiple pages. Visit the Web site <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> for more information."
+msgstr "一款类似于 Microsoft Visio 的图标编辑器。Dia 能够制作精密的专业水平的图表。可以绘制实体关系图、流程图和网络图，并以多种格式导出，包括 EPS、SVG、XFIG、WMF 和 PNG 等，还可以跨越多页面进行图标打印。可以登录网站 <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> 获得更多相关信息。"
 
 #: chapter7/xinclude.xml:177(title)
 msgid "Gcolor2:"
 msgstr "Gcolor2："
 
 #: chapter7/xinclude.xml:179(para)
-msgid ""
-"A simple colour selector and picker that facilitates quick and easy "
-"selection of colours. It also enables you to save new colours and delete "
-"existing ones. Visit the Web site <ulink url=\"http://gcolor2.sourceforge."
-"net/\">http://gcolor2.sourceforge.net/</ulink> for more information."
-msgstr ""
-"一款简单的颜色选择器，您可以用它快速简单地进行颜色设定。还可以使用它来保存新"
-"的颜色信息或者删除已有的颜色信息。登录 <ulink url=\"http://gcolor2."
-"sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink> 可获得更多信息。"
+msgid "A simple colour selector and picker that facilitates quick and easy selection of colours. It also enables you to save new colours and delete existing ones. Visit the Web site <ulink url=\"http://gcolor2.sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink> for more information."
+msgstr "一款简单的颜色选择器，您可以用它快速简单地进行颜色设定。还可以使用它来保存新的颜色信息或者删除已有的颜色信息。登录 <ulink url=\"http://gcolor2.sourceforge.net/\">http://gcolor2.sourceforge.net/</ulink> 可获得更多信息。"
 
 #: chapter7/xinclude.xml:194(title)
 msgid "GNU paint:"
 msgstr "GNU paint："
 
 #: chapter7/xinclude.xml:196(para)
-msgid ""
-"A user-friendly painting programme for GNOME. It offers easy-to-use drawing "
-"tools to perform various image-processing operations. Visit the Web site "
-"<ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/"
-"</ulink> for more information."
-msgstr ""
-"为 GNOME 提供的用户友好的绘图方案。它提供易于使用的绘图工具来执行各种图像处理"
-"操作。可访问网站 <ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint."
-"sourceforge.net/</ulink> 获得更多相关信息。"
+msgid "A user-friendly painting programme for GNOME. It offers easy-to-use drawing tools to perform various image-processing operations. Visit the Web site <ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/</ulink> for more information."
+msgstr "为 GNOME 提供的用户友好的绘图方案。它提供易于使用的绘图工具来执行各种图像处理操作。可访问网站 <ulink url=\"http://gpaint.sourceforge.net/\">http://gpaint.sourceforge.net/</ulink> 获得更多相关信息。"
 
 #: chapter7/xinclude.xml:102(para)
-msgid ""
-"Some of the graphics applications are available in Ubuntu software "
-"repositories: <placeholder-1/>"
+msgid "Some of the graphics applications are available in Ubuntu software repositories: <placeholder-1/>"
 msgstr "一些图形应用程序可在 Ubuntu 软件库中获得：<placeholder-1/>"
 
 # free software 原文错误 应为 freeware
 #: chapter7/xinclude.xml:204(para)
-msgid ""
-"In addition, several third-party applications, such as Picasa, a free "
-"software download from Google, are compatible with Ubuntu."
-msgstr ""
-"此外，一些第三方应用，如 Google 上下载的免费软件 Picasa，也能与 Ubuntu 兼容。"
+msgid "In addition, several third-party applications, such as Picasa, a free software download from Google, are compatible with Ubuntu."
+msgstr "此外，一些第三方应用，如 Google 上下载的免费软件 Picasa，也能与 Ubuntu 兼容。"
 
 #: chapter7/xinclude.xml:207(para)
-msgid ""
-"Picasa enables you to locate and organise all the photos on your computer, "
-"edit and add effects to your photos and share your photos through e-mail and "
-"print and post images on the Web. You can download Picasa from the following "
-"Web site <ulink url=\"http://picasa.google.com/linux/download.html\">http://"
-"picasa.google.com/linux/download.html</ulink>."
-msgstr ""
-"使用 Picasa 可以查找和组织您的计算机上的所有照片，对其进行编辑或者添加效果，"
-"可以通过电子邮件、打印或者在网络上贴图的形式共享照片。可以通过以下网址下载 "
-"Picasa：<ulink url=\"http://picasa.google.com/linux/download.html\">http://"
-"picasa.google.com/linux/download.html</ulink>。"
+msgid "Picasa enables you to locate and organise all the photos on your computer, edit and add effects to your photos and share your photos through e-mail and print and post images on the Web. You can download Picasa from the following Web site <ulink url=\"http://picasa.google.com/linux/download.html\">http://picasa.google.com/linux/download.html</ulink>."
+msgstr "使用 Picasa 可以查找和组织您的计算机上的所有照片，对其进行编辑或者添加效果，可以通过电子邮件、打印或者在网络上贴图的形式共享照片。可以通过以下网址下载 Picasa：<ulink url=\"http://picasa.google.com/linux/download.html\">http://picasa.google.com/linux/download.html</ulink>。"
 
 #: chapter7/xinclude.xml:212(para)
-msgid ""
-"The following section outlines the features of some of these graphics "
-"applications and how to use them."
+msgid "The following section outlines the features of some of these graphics applications and how to use them."
 msgstr "下面一节将概述一下这些图形应用程序的特点和使用方法。"
 
 #: chapter7/xinclude.xml:218(title)
@@ -545,27 +327,12 @@ msgid "Viewing and Managing Photos with F-Spot"
 msgstr "使用 F-Spot 查看和管理照片"
 
 #: chapter7/xinclude.xml:223(para)
-msgid ""
-"After a brief explanation of F-Spot and its features, refrain from lengthy "
-"explanation of the tasks. Perform a brief demo of the tasks covered in the "
-"lesson and ask students to follow."
-msgstr ""
-"简单介绍了 F-Spot 及其功能后，要避免冗长的任务说明。对本节课需要完成的任务做"
-"一个简单的示范并要求学生跟着做。"
+msgid "After a brief explanation of F-Spot and its features, refrain from lengthy explanation of the tasks. Perform a brief demo of the tasks covered in the lesson and ask students to follow."
+msgstr "简单介绍了 F-Spot 及其功能后，要避免冗长的任务说明。对本节课需要完成的任务做一个简单的示范并要求学生跟着做。"
 
 #: chapter7/xinclude.xml:228(para)
-msgid ""
-"F-Spot is a personal photo management application for the GNOME desktop. You "
-"can import and view pictures from the hard disk on your computer, digital "
-"camera or even the ipod. You can attach tags to your photos and categorise "
-"them, build a photo CD, export photos over the Internet and share them "
-"online or perform basic colour-correction and editing. F-Spot supports 16 "
-"common file types, including JPEG, GIF, TIFF and RAW."
-msgstr ""
-"F-Spot 是 GNOME 桌面上的一款个人相片管理应用程序。用户可以通过它从电脑硬盘、"
-"数码相机甚至是 iPod 中提取并浏览相片。用户可以给照片添加标签，对照片进行分"
-"类，创建照片 CD，通过 Internet 传送和共享照片，还可以执行基本的颜色校正和编"
-"辑。F-Spot 支持 16 种常用的文件类型，包括 JPEG、GIF、TIFF、RAW 等。"
+msgid "F-Spot is a personal photo management application for the GNOME desktop. You can import and view pictures from the hard disk on your computer, digital camera or even the ipod. You can attach tags to your photos and categorise them, build a photo CD, export photos over the Internet and share them online or perform basic colour-correction and editing. F-Spot supports 16 common file types, including JPEG, GIF, TIFF and RAW."
+msgstr "F-Spot 是 GNOME 桌面上的一款个人相片管理应用程序。用户可以通过它从电脑硬盘、数码相机甚至是 iPod 中提取并浏览相片。用户可以给照片添加标签，对照片进行分类，创建照片 CD，通过 Internet 传送和共享照片，还可以执行基本的颜色校正和编辑。F-Spot 支持 16 种常用的文件类型，包括 JPEG、GIF、TIFF、RAW 等。"
 
 #: chapter7/xinclude.xml:236(para)
 msgid "The following graphic shows the elements in the F-Spot interface:"
@@ -580,11 +347,8 @@ msgid "Importing Photos in F-Spot"
 msgstr "向 F-Spot 中导入图像"
 
 #: chapter7/xinclude.xml:252(para)
-msgid ""
-"After importing the photographs, you can categorise and tag them as you "
-"would to create a playlist in a music player."
-msgstr ""
-"导入相片后，可以为相片添加标签并分类，就像在音乐播放器中建立播放列表一样。"
+msgid "After importing the photographs, you can categorise and tag them as you would to create a playlist in a music player."
+msgstr "导入相片后，可以为相片添加标签并分类，就像在音乐播放器中建立播放列表一样。"
 
 #: chapter7/xinclude.xml:256(title)
 msgid "Importing Photographs from the Hard Disk"
@@ -595,58 +359,39 @@ msgid "To import photographs into F-Spot from the hard disk of your computer:"
 msgstr "从计算机硬盘上向 F-Spot 导入相片："
 
 #: chapter7/xinclude.xml:262(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role="
-"\"strong\">F-Spot Photo Manager</emphasis>. The <emphasis role=\"strong\">F-"
-"Spot</emphasis> window opens."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role="
-"\"strong\">图形</emphasis> 并单击 <emphasis role=\"strong\">F-Spot 照片管理器"
-"</emphasis>. 将打开 <emphasis role=\"strong\">F-Spot</emphasis> 窗口。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The <emphasis role=\"strong\">F-Spot</emphasis> window opens."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 指向 <emphasis role=\"strong\">图形</emphasis> 并单击 <emphasis role=\"strong\">F-Spot 照片管理器</emphasis>. 将打开 <emphasis role=\"strong\">F-Spot</emphasis> 窗口。"
 
-#: chapter7/xinclude.xml:269(para) chapter7/xinclude.xml:364(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Import</emphasis> button on the toolbar. "
-"The <emphasis role=\"strong\">Import</emphasis> dialogue box opens."
-msgstr ""
-"单击工具条上的 <emphasis role=\"strong\">导入</emphasis> 按钮。将弹出 "
-"<emphasis role=\"strong\">导入</emphasis> 对话框。"
+#: chapter7/xinclude.xml:269(para)
+#: chapter7/xinclude.xml:364(para)
+msgid "Click the <emphasis role=\"strong\">Import</emphasis> button on the toolbar. The <emphasis role=\"strong\">Import</emphasis> dialogue box opens."
+msgstr "单击工具条上的 <emphasis role=\"strong\">导入</emphasis> 按钮。将弹出 <emphasis role=\"strong\">导入</emphasis> 对话框。"
 
-#: chapter7/xinclude.xml:274(emphasis) chapter7/xinclude.xml:326(emphasis)
+#: chapter7/xinclude.xml:274(emphasis)
+#: chapter7/xinclude.xml:326(emphasis)
 msgid "Importing Photos"
 msgstr "导入相片"
 
-#: chapter7/xinclude.xml:284(title) chapter7/xinclude.xml:350(title)
-#: chapter7/xinclude.xml:548(title) chapter7/xinclude.xml:790(title)
-#: chapter7/xinclude.xml:851(title) chapter7/xinclude.xml:941(title)
+#: chapter7/xinclude.xml:284(title)
+#: chapter7/xinclude.xml:350(title)
+#: chapter7/xinclude.xml:548(title)
+#: chapter7/xinclude.xml:790(title)
+#: chapter7/xinclude.xml:851(title)
+#: chapter7/xinclude.xml:941(title)
 msgid "Note:"
 msgstr "提示："
 
 #: chapter7/xinclude.xml:286(para)
-msgid ""
-"You can also click <emphasis role=\"strong\">Import</emphasis> on the "
-"<emphasis role=\"strong\">File</emphasis> menu to open the <emphasis role="
-"\"strong\">Import</emphasis> dialogue box."
-msgstr ""
-"还可以通过单击 <emphasis role=\"strong\">照片</emphasis> 菜单下的 <emphasis "
-"role=\"strong\">导入</emphasis> 按钮来打开 <emphasis role=\"strong\">导入</"
-"emphasis> 对话框。"
+msgid "You can also click <emphasis role=\"strong\">Import</emphasis> on the <emphasis role=\"strong\">File</emphasis> menu to open the <emphasis role=\"strong\">Import</emphasis> dialogue box."
+msgstr "还可以通过单击 <emphasis role=\"strong\">照片</emphasis> 菜单下的 <emphasis role=\"strong\">导入</emphasis> 按钮来打开 <emphasis role=\"strong\">导入</emphasis> 对话框。"
 
 # 此处怀疑有误
 #: chapter7/xinclude.xml:293(para)
-msgid ""
-"In the <emphasis role=\"strong\">Import Source</emphasis> box, the <emphasis "
-"role=\"strong\">Select Folder</emphasis> option is selected by default. "
-"Retain the option, navigate to the folder that contains the photographs and "
-"click <emphasis role=\"strong\">Open</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">导入源</emphasis> 对话框中，<emphasis role="
-"\"strong\">选择文件夹</emphasis> 选项是设置的默认路径。保留这个选项，单击导航"
-"到包含照片的文件夹，单击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择"
-"需要的照片单击 <emphasis role=\"strong\">打开</emphasis>按钮。"
+msgid "In the <emphasis role=\"strong\">Import Source</emphasis> box, the <emphasis role=\"strong\">Select Folder</emphasis> option is selected by default. Retain the option, navigate to the folder that contains the photographs and click <emphasis role=\"strong\">Open</emphasis>."
+msgstr "在 <emphasis role=\"strong\">导入源</emphasis> 对话框中，<emphasis role=\"strong\">选择文件夹</emphasis> 选项是设置的默认路径。保留这个选项，单击导航到包含照片的文件夹，单击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择需要的照片单击 <emphasis role=\"strong\">打开</emphasis>按钮。"
 
-#: chapter7/xinclude.xml:299(emphasis) chapter7/xinclude.xml:375(emphasis)
+#: chapter7/xinclude.xml:299(emphasis)
+#: chapter7/xinclude.xml:375(emphasis)
 msgid "Selecting Photo Import Source"
 msgstr "选择照片导入来源"
 
@@ -655,31 +400,20 @@ msgid "Displaying Images to Import"
 msgstr "显示将要导入的照片"
 
 #: chapter7/xinclude.xml:322(para)
-msgid ""
-"Click <emphasis role=\"strong\">Import</emphasis> in the <emphasis role="
-"\"strong\">Import</emphasis> dialogue box."
-msgstr ""
-"单击 <emphasis role=\"strong\">导入</emphasis> 对话框下的 <emphasis role="
-"\"strong\">导入</emphasis> 按钮。"
+msgid "Click <emphasis role=\"strong\">Import</emphasis> in the <emphasis role=\"strong\">Import</emphasis> dialogue box."
+msgstr "单击 <emphasis role=\"strong\">导入</emphasis> 对话框下的 <emphasis role=\"strong\">导入</emphasis> 按钮。"
 
 #: chapter7/xinclude.xml:335(para)
-msgid ""
-"The photographs are listed as thumbnails in the <emphasis role=\"strong\">F-"
-"Spot</emphasis> window. Notice that the timeline slider is positioned "
-"according to the dates on which the images were saved on the hard disk of "
-"your computer."
-msgstr ""
-"照片以缩略图的形式显示在 <emphasis role=\"strong\">F-Spot</emphasis> 窗口内。"
-"需要注意的是，时间滑块定位根据的是图像在当前计算机硬盘上保存的日期。"
+msgid "The photographs are listed as thumbnails in the <emphasis role=\"strong\">F-Spot</emphasis> window. Notice that the timeline slider is positioned according to the dates on which the images were saved on the hard disk of your computer."
+msgstr "照片以缩略图的形式显示在 <emphasis role=\"strong\">F-Spot</emphasis> 窗口内。需要注意的是，时间滑块定位根据的是图像在当前计算机硬盘上保存的日期。"
 
-#: chapter7/xinclude.xml:340(emphasis) chapter7/xinclude.xml:429(title)
+#: chapter7/xinclude.xml:340(emphasis)
+#: chapter7/xinclude.xml:429(title)
 msgid "Browsing Photos"
 msgstr "浏览照片"
 
 #: chapter7/xinclude.xml:352(para)
-msgid ""
-"The photographs listed in the F-Spot window are not associated with any "
-"category or parent tag."
+msgid "The photographs listed in the F-Spot window are not associated with any category or parent tag."
 msgstr "F-Spot 窗口下的图像列表不与任何类别或父标记关联。"
 
 #: chapter7/xinclude.xml:359(title)
@@ -692,39 +426,20 @@ msgstr "从数码相机中向 F-Spot 导入相片："
 
 # 导入源是按钮吗？
 #: chapter7/xinclude.xml:370(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Import Source</emphasis> box. Plug the "
-"camera on the computer. F-Spot detects the camera and displays the model and "
-"type of the camera in the <emphasis role=\"strong\">Import Source</emphasis> "
-"box."
-msgstr ""
-"单击 <emphasis role=\"strong\">导入源</emphasis> 按钮。将相机连接到电脑上，F-"
-"Spot 将检测到相机，并在 <emphasis role=\"strong\">导入源</emphasis> 对话框中"
-"显示相机的型号和类型。"
+msgid "Click the <emphasis role=\"strong\">Import Source</emphasis> box. Plug the camera on the computer. F-Spot detects the camera and displays the model and type of the camera in the <emphasis role=\"strong\">Import Source</emphasis> box."
+msgstr "单击 <emphasis role=\"strong\">导入源</emphasis> 按钮。将相机连接到电脑上，F-Spot 将检测到相机，并在 <emphasis role=\"strong\">导入源</emphasis> 对话框中显示相机的型号和类型。"
 
 #: chapter7/xinclude.xml:387(para)
-msgid ""
-"Click the camera as the source for the photographs. The <emphasis role="
-"\"strong\">Select Photos to Copy From Camera</emphasis> dialogue box opens, "
-"which lists all the photos in the camera. Select the photos you want to "
-"import and click <emphasis role=\"strong\">Copy</emphasis>."
-msgstr ""
-"单击选定相机作为照片源。将打开 <emphasis role=\"strong\">从相机选择并复制相片"
-"</emphasis> 对话框，其下列出了相机内的所有照片。选择需要导入到照片单击 "
-"<emphasis role=\"strong\">复制</emphasis>  按钮。"
+msgid "Click the camera as the source for the photographs. The <emphasis role=\"strong\">Select Photos to Copy From Camera</emphasis> dialogue box opens, which lists all the photos in the camera. Select the photos you want to import and click <emphasis role=\"strong\">Copy</emphasis>."
+msgstr "单击选定相机作为照片源。将打开 <emphasis role=\"strong\">从相机选择并复制相片</emphasis> 对话框，其下列出了相机内的所有照片。选择需要导入到照片单击 <emphasis role=\"strong\">复制</emphasis>  按钮。"
 
 #: chapter7/xinclude.xml:393(emphasis)
 msgid "Selecting Images to Copy"
 msgstr "选择要复制的照片"
 
 #: chapter7/xinclude.xml:405(para)
-msgid ""
-"F-Spot copies the photographs to the specified location and displays the "
-"copied photographs in the right pane of the <emphasis role=\"strong\">F-"
-"Spot</emphasis> window."
-msgstr ""
-"F-Spot 将相片复制到指定位置，并在 <emphasis role=\"strong\">F-Spot</"
-"emphasis> 窗体的右侧窗格中显示所复制的相片。"
+msgid "F-Spot copies the photographs to the specified location and displays the copied photographs in the right pane of the <emphasis role=\"strong\">F-Spot</emphasis> window."
+msgstr "F-Spot 将相片复制到指定位置，并在 <emphasis role=\"strong\">F-Spot</emphasis> 窗体的右侧窗格中显示所复制的相片。"
 
 #: chapter7/xinclude.xml:412(title)
 msgid "Viewing Photos"
@@ -735,21 +450,12 @@ msgid "Double-clicking each thumbnail to enlarge the view"
 msgstr "双击每个小图标可以对其进行放大浏览"
 
 #: chapter7/xinclude.xml:422(para)
-msgid ""
-"Select a thumbnail and click <emphasis role=\"strong\">Fullscreen</emphasis> "
-"on the toolbar"
-msgstr ""
-"选定一个小图标并单击工具条上的 <emphasis role=\"strong\">全屏显示</emphasis> "
-"按钮。"
+msgid "Select a thumbnail and click <emphasis role=\"strong\">Fullscreen</emphasis> on the toolbar"
+msgstr "选定一个小图标并单击工具条上的 <emphasis role=\"strong\">全屏显示</emphasis> 按钮。"
 
 #: chapter7/xinclude.xml:414(para)
-msgid ""
-"After importing, you can view all the photographs as thumbnails in the right "
-"pane of the <emphasis role=\"strong\">F-Spot</emphasis> window. You can view "
-"photographs in F-Spot by: <placeholder-1/>"
-msgstr ""
-"导入后，所有的照片将在<emphasis role=\"strong\">F-Spot</emphasis> 窗体的右侧"
-"窗格中以缩略图的形式显示。在F-Spot下浏览相片，可以通过：<placeholder-1/>"
+msgid "After importing, you can view all the photographs as thumbnails in the right pane of the <emphasis role=\"strong\">F-Spot</emphasis> window. You can view photographs in F-Spot by: <placeholder-1/>"
+msgstr "导入后，所有的照片将在<emphasis role=\"strong\">F-Spot</emphasis> 窗体的右侧窗格中以缩略图的形式显示。在F-Spot下浏览相片，可以通过：<placeholder-1/>"
 
 #: chapter7/xinclude.xml:426(para)
 msgid "The image opens in fullscreen mode."
@@ -760,60 +466,28 @@ msgid "Viewing Photos in Full Screen Mode"
 msgstr "全屏模式下浏览相片"
 
 #: chapter7/xinclude.xml:448(para)
-msgid ""
-"Click <emphasis role=\"strong\">Exit fullscreen</emphasis> to return to the "
-"<emphasis role=\"strong\">F-Spot</emphasis> window."
-msgstr ""
-"单击 <emphasis role=\"strong\">退出全屏</emphasis> 回到 <emphasis role="
-"\"strong\">F-Spot</emphasis> 窗口中。"
+msgid "Click <emphasis role=\"strong\">Exit fullscreen</emphasis> to return to the <emphasis role=\"strong\">F-Spot</emphasis> window."
+msgstr "单击 <emphasis role=\"strong\">退出全屏</emphasis> 回到 <emphasis role=\"strong\">F-Spot</emphasis> 窗口中。"
 
 #: chapter7/xinclude.xml:453(title)
 msgid "Organising Photos"
 msgstr "组织相片"
 
 #: chapter7/xinclude.xml:455(para)
-msgid ""
-"By default, F-Spot organises photographs based on the dates in which they "
-"were saved on the computer. You can view photographs for a specific date and "
-"time by clicking the corresponding year on the timeline slider or moving the "
-"slider along the timeline. For example, assume that there are 100 images in "
-"the right pane, 50 of which were saved in 2004 and 50 in 2007. To view the "
-"images for 2004, position the slider on the timeline at the 2004 mark."
-msgstr ""
-"默认情况下，F-Spot 是基于图片在计算机上存储的日期来组织相片。用户可以通过点击"
-"时间轴上的相应年份或者沿着时间轴滑动时间滑块来浏览特点时间和日期下的照片。举"
-"个例子，假设右侧窗体中有 100 张图片，有 50 张存储于 2004 年，另外 50 张存储"
-"于 2007 年，想要浏览 2004 年的图片，只要将滑块放到时间轴上的 2004 标记点这个"
-"位置。"
+msgid "By default, F-Spot organises photographs based on the dates in which they were saved on the computer. You can view photographs for a specific date and time by clicking the corresponding year on the timeline slider or moving the slider along the timeline. For example, assume that there are 100 images in the right pane, 50 of which were saved in 2004 and 50 in 2007. To view the images for 2004, position the slider on the timeline at the 2004 mark."
+msgstr "默认情况下，F-Spot 是基于图片在计算机上存储的日期来组织相片。用户可以通过点击时间轴上的相应年份或者沿着时间轴滑动时间滑块来浏览特点时间和日期下的照片。举个例子，假设右侧窗体中有 100 张图片，有 50 张存储于 2004 年，另外 50 张存储于 2007 年，想要浏览 2004 年的图片，只要将滑块放到时间轴上的 2004 标记点这个位置。"
 
 #: chapter7/xinclude.xml:463(para)
-msgid ""
-"To organise the photographs differently, you can attach a tag or a label to "
-"each photo and categorise them. You can then view photographs based on these "
-"categories."
-msgstr ""
-"用户可以通过为照片添加标签来对其进行分类，进而对不同的照片进行管理。用户可以"
-"基于这些分类浏览照片。"
+msgid "To organise the photographs differently, you can attach a tag or a label to each photo and categorise them. You can then view photographs based on these categories."
+msgstr "用户可以通过为照片添加标签来对其进行分类，进而对不同的照片进行管理。用户可以基于这些分类浏览照片。"
 
 #: chapter7/xinclude.xml:467(para)
-msgid ""
-"Some categories are already predefined and visible in the left pane of the "
-"<emphasis role=\"strong\">F-Spot</emphasis> window. You can group your "
-"photos under these tags."
-msgstr ""
-"软件自身已经定义了一些分类标准，它们显示在 <emphasis role=\"strong\">F-Spot</"
-"emphasis> 的左侧窗体中。用户可以利用这些标签对照片进行分组。"
+msgid "Some categories are already predefined and visible in the left pane of the <emphasis role=\"strong\">F-Spot</emphasis> window. You can group your photos under these tags."
+msgstr "软件自身已经定义了一些分类标准，它们显示在 <emphasis role=\"strong\">F-Spot</emphasis> 的左侧窗体中。用户可以利用这些标签对照片进行分组。"
 
 #: chapter7/xinclude.xml:473(para)
-msgid ""
-"In the <emphasis role=\"strong\">F-Spot</emphasis> window, right-click a "
-"photograph, point to <emphasis role=\"strong\">Attach a Tag</emphasis> and "
-"click the tag with which you want to associate the photograph. The tag is "
-"displayed at the bottom of the photograph."
-msgstr ""
-"在 <emphasis role=\"strong\">F-Spot</emphasis> 窗体中，右击某一照片，在 "
-"<emphasis role=\"strong\">附加标记</emphasis> 项下选择所需的分类项。分类标记"
-"将显示在图片的底部。"
+msgid "In the <emphasis role=\"strong\">F-Spot</emphasis> window, right-click a photograph, point to <emphasis role=\"strong\">Attach a Tag</emphasis> and click the tag with which you want to associate the photograph. The tag is displayed at the bottom of the photograph."
+msgstr "在 <emphasis role=\"strong\">F-Spot</emphasis> 窗体中，右击某一照片，在 <emphasis role=\"strong\">附加标记</emphasis> 项下选择所需的分类项。分类标记将显示在图片的底部。"
 
 #: chapter7/xinclude.xml:480(title)
 msgid "Tagging an Image"
@@ -831,21 +505,14 @@ msgstr "标记过的图像将在对应的标记类下显示。"
 msgid "To add a tag to a photograph: <placeholder-1/>"
 msgstr "为照片添加标记：<placeholder-1/>"
 
-#: chapter7/xinclude.xml:505(title) chapter7/xinclude.xml:534(title)
+#: chapter7/xinclude.xml:505(title)
+#: chapter7/xinclude.xml:534(title)
 msgid "Removing Red Eye"
 msgstr "去除红眼"
 
 #: chapter7/xinclude.xml:507(para)
-msgid ""
-"In some cameras, the proximity of the flash to the lens causes the light "
-"from the flash to reflect from the subject's retina to the lens, leaving a "
-"red eye mark on the image. Referred to as a red eye, the size of the mark "
-"depends on the amount of light reflected. F-Spot Photo Manager software can "
-"be used to remove the red eye from images."
-msgstr ""
-"一些相机，由于闪光灯太接近镜头，导致由闪光灯发出的光线通过对象的视网膜反射回"
-"镜头，因而在图像上留下了一个红色眼睛的记号。对于这所谓的红眼，其大小取决于光"
-"线的反射量。F-Spot 照片管理器可以用来去除图像上的红眼。"
+msgid "In some cameras, the proximity of the flash to the lens causes the light from the flash to reflect from the subject's retina to the lens, leaving a red eye mark on the image. Referred to as a red eye, the size of the mark depends on the amount of light reflected. F-Spot Photo Manager software can be used to remove the red eye from images."
+msgstr "一些相机，由于闪光灯太接近镜头，导致由闪光灯发出的光线通过对象的视网膜反射回镜头，因而在图像上留下了一个红色眼睛的记号。对于这所谓的红眼，其大小取决于光线的反射量。F-Spot 照片管理器可以用来去除图像上的红眼。"
 
 #: chapter7/xinclude.xml:514(title)
 msgid "Image with a Red Eye"
@@ -856,34 +523,17 @@ msgid "To remove red eye from an image:"
 msgstr "从图像上去除红眼："
 
 #: chapter7/xinclude.xml:527(para)
-msgid ""
-"In the <emphasis role=\"strong\">F-spot Photo Manager</emphasis> window, "
-"click the thumbnail of the image that has a red eye. Click the <emphasis "
-"role=\"strong\">Edit</emphasis> button in the navigation toolbar. Use your "
-"mouse to select the area you wish to correct on the image. You can zoom in "
-"on the area by using the slider bar in the bottom of the work area."
-msgstr ""
-"在 <emphasis role=\"strong\">F-spot 照片管理器</emphasis> 窗口下，选中有红眼"
-"的待处理图像的图标。点击导航工具条上的 <emphasis role=\"strong\">编辑图像</"
-"emphasis> 按钮。用鼠标在图像上选定预更正的区域。可以利用工作区域右下角的滑条"
-"对改选定区域进行放大。"
+msgid "In the <emphasis role=\"strong\">F-spot Photo Manager</emphasis> window, click the thumbnail of the image that has a red eye. Click the <emphasis role=\"strong\">Edit</emphasis> button in the navigation toolbar. Use your mouse to select the area you wish to correct on the image. You can zoom in on the area by using the slider bar in the bottom of the work area."
+msgstr "在 <emphasis role=\"strong\">F-spot 照片管理器</emphasis> 窗口下，选中有红眼的待处理图像的图标。点击导航工具条上的 <emphasis role=\"strong\">编辑图像</emphasis> 按钮。用鼠标在图像上选定预更正的区域。可以利用工作区域右下角的滑条对改选定区域进行放大。"
 
 # 此处是降低吗？可能是软件翻译错误
 #: chapter7/xinclude.xml:545(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Redeye Removal</emphasis> icon "
-"underneath the image. F-spot automatically corrects the image."
-msgstr ""
-"单击编辑工具栏下的 <emphasis role=\"strong\">降低红眼</emphasis> 按钮。F-"
-"Spot 将自动对影像进行修正。"
+msgid "Click the <emphasis role=\"strong\">Redeye Removal</emphasis> icon underneath the image. F-spot automatically corrects the image."
+msgstr "单击编辑工具栏下的 <emphasis role=\"strong\">降低红眼</emphasis> 按钮。F-Spot 将自动对影像进行修正。"
 
 #: chapter7/xinclude.xml:550(para)
-msgid ""
-"The edited image also replaces the image stored on your computer. Ensure "
-"that you save a copy of the image before editing it."
-msgstr ""
-"编辑后的图像将自动取代计算机上的原始图像。在编辑之前请确保已经对图像进行备"
-"份。"
+msgid "The edited image also replaces the image stored on your computer. Ensure that you save a copy of the image before editing it."
+msgstr "编辑后的图像将自动取代计算机上的原始图像。在编辑之前请确保已经对图像进行备份。"
 
 #: chapter7/xinclude.xml:560(title)
 msgid "The GIMP"
@@ -891,21 +541,11 @@ msgstr "GIMP"
 
 # 10.04 中，默认不安装
 #: chapter7/xinclude.xml:562(para)
-msgid ""
-"GNU Image Manipulation Programme (GIMP) is the default graphic application "
-"in Ubuntu, licensed under the GNU General Public License. It is an open-"
-"source multi-platform image manipulation tool, available in many languages. "
-"You can use GIMP to re-touch photos, compose and create images, re-size, "
-"crop, manipulate colours and convert image formats."
-msgstr ""
-"GNU 图像处理程序 (GIMP)是 Ubuntu 自带的一款图形应用程序，根据 GNU 通用公共许"
-"可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过 "
-"GIMP 修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格"
-"式。"
+msgid "GNU Image Manipulation Programme (GIMP) is the default graphic application in Ubuntu, licensed under the GNU General Public License. It is an open-source multi-platform image manipulation tool, available in many languages. You can use GIMP to re-touch photos, compose and create images, re-size, crop, manipulate colours and convert image formats."
+msgstr "GNU 图像处理程序 (GIMP)是 Ubuntu 自带的一款图形应用程序，根据 GNU 通用公共许可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过 GIMP 修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格式。"
 
 #: chapter7/xinclude.xml:571(para)
-msgid ""
-"A full suite of painting tools, including brushes, a pencil and an airbrush"
+msgid "A full suite of painting tools, including brushes, a pencil and an airbrush"
 msgstr "全套的涂画工具，包括油漆桶填充、铅笔和喷枪等"
 
 #: chapter7/xinclude.xml:576(para)
@@ -917,9 +557,7 @@ msgid "Transformation tools such as rotate, scale, shear and flip"
 msgstr "变换工具包括旋转、缩放、剪切和翻转等"
 
 #: chapter7/xinclude.xml:586(para)
-msgid ""
-"Tile-based memory management so that the image size is limited only by "
-"available disk space"
+msgid "Tile-based memory management so that the image size is limited only by available disk space"
 msgstr "基于平铺的内存管理，使图像的大小只受限于可用磁盘空间"
 
 #: chapter7/xinclude.xml:591(para)
@@ -936,12 +574,8 @@ msgstr "图层和用于复杂绘图的通道"
 
 # syq:这句我看不懂
 #: chapter7/xinclude.xml:604(para)
-msgid ""
-"Sub-pixel sampling for all paint tools to minimise distortion while "
-"representing high-resolution images in lower resolution or stretched mode"
-msgstr ""
-"所有绘图工具中都有子像素取样，它能够降低在低分辨率手段显示高分辨率影像时或者"
-"在拉伸过程中发生的变形"
+msgid "Sub-pixel sampling for all paint tools to minimise distortion while representing high-resolution images in lower resolution or stretched mode"
+msgstr "所有绘图工具中都有子像素取样，它能够降低在低分辨率手段显示高分辨率影像时或者在拉伸过程中发生的变形"
 
 # 待推究
 #: chapter7/xinclude.xml:610(para)
@@ -949,12 +583,8 @@ msgid "Full alpha channel support to simulate transparency in images"
 msgstr "全 Alpha 通道可以支持模拟图像的透明度"
 
 #: chapter7/xinclude.xml:615(para)
-msgid ""
-"Support for multiple file formats, including GIF, JPEG, PNG, XPM, TIFF, TGA, "
-"MPEG, PS, PDF, PCX and BMP"
-msgstr ""
-"支持多种文件格式，包括 GIF、 JPEG、 PNG、 XPM、 TIFF, TGA、 MPEG、 PS、 "
-"PDF、 PCX 和 BMP"
+msgid "Support for multiple file formats, including GIF, JPEG, PNG, XPM, TIFF, TGA, MPEG, PS, PDF, PCX and BMP"
+msgstr "支持多种文件格式，包括 GIF、 JPEG、 PNG、 XPM、 TIFF, TGA、 MPEG、 PS、 PDF、 PCX 和 BMP"
 
 #: chapter7/xinclude.xml:569(para)
 msgid "GIMP has a number of useful features: <placeholder-1/>"
@@ -966,165 +596,86 @@ msgstr "从桌面启动 GIMP："
 
 # 此处需要更新
 #: chapter7/xinclude.xml:624(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role="
-"\"strong\">GIMP Image Editor</emphasis>. The <emphasis role=\"strong\">GIMP "
-"Tip of the Day</emphasis> prompt is displayed. Click <emphasis role=\"strong"
-"\">Close</emphasis> on the <emphasis role=\"strong\">GIMP Tip of the Day</"
-"emphasis> prompt. The <emphasis role=\"strong\">GIMP</emphasis> window opens."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，指向 <emphasis role="
-"\"strong\">图形</emphasis> 下的 <emphasis role=\"strong\">GIMP 图片编辑器</"
-"emphasis> 并单击打开。此时将显示<emphasis role=\"strong\">GNU 图像处理程序</"
-"emphasis> 窗口和 <emphasis role=\"strong\">工具箱</emphasis> 工具条。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">GIMP Image Editor</emphasis>. The <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt is displayed. Click <emphasis role=\"strong\">Close</emphasis> on the <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt. The <emphasis role=\"strong\">GIMP</emphasis> window opens."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，指向 <emphasis role=\"strong\">图形</emphasis> 下的 <emphasis role=\"strong\">GIMP 图片编辑器</emphasis> 并单击打开。此时将显示<emphasis role=\"strong\">GNU 图像处理程序</emphasis> 窗口和 <emphasis role=\"strong\">工具箱</emphasis> 工具条。"
 
 #: chapter7/xinclude.xml:630(title)
 msgid "GIMP Tip of the Day Dialogue Box"
 msgstr "GIMP 日积月累对话框"
 
-#: chapter7/xinclude.xml:640(title) chapter7/xinclude.xml:681(title)
+#: chapter7/xinclude.xml:640(title)
+#: chapter7/xinclude.xml:681(title)
 msgid "Nice to Know:"
 msgstr "温馨提示："
 
 #: chapter7/xinclude.xml:642(para)
-msgid ""
-"The GIMP mascot is a coyote named Wilber. He provides useful tips while you "
-"use the application. If you do not want to see the tips, clear the <emphasis "
-"role=\"strong\">Show tip next time GIMP starts</emphasis> check box."
-msgstr ""
-"GIMP 的吉祥物是一只名为威尔伯的狼。单击 <emphasis role=\"strong\">帮助</"
-"emphasis> 菜单上的<emphasis role=\"strong\">日积月累</emphasis>。将打开 "
-"<emphasis role=\"strong\">GIMP 日积月累</emphasis> 对话框。在您使用该应用程序"
-"的过程中，它将为您提供一些有用的提示消息。"
+msgid "The GIMP mascot is a coyote named Wilber. He provides useful tips while you use the application. If you do not want to see the tips, clear the <emphasis role=\"strong\">Show tip next time GIMP starts</emphasis> check box."
+msgstr "GIMP 的吉祥物是一只名为威尔伯的狼。单击 <emphasis role=\"strong\">帮助</emphasis> 菜单上的<emphasis role=\"strong\">日积月累</emphasis>。将打开 <emphasis role=\"strong\">GIMP 日积月累</emphasis> 对话框。在您使用该应用程序的过程中，它将为您提供一些有用的提示消息。"
 
 #: chapter7/xinclude.xml:650(para)
-msgid ""
-"To open an image for modification, on the <emphasis role=\"strong\">File</"
-"emphasis> menu, click <emphasis role=\"strong\">Open</emphasis> and select "
-"the image you want to modify."
-msgstr ""
-"要打开一个图像以编辑，在 <emphasis role=\"strong\">文件</emphasis> 菜单下，单"
-"击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择要编辑的图像。"
+msgid "To open an image for modification, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open</emphasis> and select the image you want to modify."
+msgstr "要打开一个图像以编辑，在 <emphasis role=\"strong\">文件</emphasis> 菜单下，单击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择要编辑的图像。"
 
 #: chapter7/xinclude.xml:654(title)
 msgid "Opening an Image for Editing"
 msgstr "打开图像以便编辑"
 
 #: chapter7/xinclude.xml:665(para)
-msgid ""
-"The selected image opens in the <emphasis role=\"strong\">Image</emphasis> "
-"window."
-msgstr ""
-"所选择的图像将在 <emphasis role=\"strong\">图像</emphasis> 窗口中打开。"
+msgid "The selected image opens in the <emphasis role=\"strong\">Image</emphasis> window."
+msgstr "所选择的图像将在 <emphasis role=\"strong\">图像</emphasis> 窗口中打开。"
 
 #: chapter7/xinclude.xml:668(title)
 msgid "Editing Image"
 msgstr "编辑图像"
 
 #: chapter7/xinclude.xml:677(para)
-msgid ""
-"You can now modify the image by using the tools available in the <emphasis "
-"role=\"strong\">GIMP</emphasis> window."
-msgstr ""
-"现在您可以使用 <emphasis role=\"strong\">GIMP</emphasis> 窗口中的工具对图像进"
-"行修改。"
+msgid "You can now modify the image by using the tools available in the <emphasis role=\"strong\">GIMP</emphasis> window."
+msgstr "现在您可以使用 <emphasis role=\"strong\">GIMP</emphasis> 窗口中的工具对图像进行修改。"
 
 #: chapter7/xinclude.xml:683(para)
-msgid ""
-"You can drag and drop a colour from the toolbox or from a colour palette "
-"onto an image. This fills the current image or selection with the selected "
-"colour."
-msgstr ""
-"可以从工具箱或者调色板里拖放一个颜色到图像上。它将用指定的颜色填充当前图像或"
-"者选定的区域。"
+msgid "You can drag and drop a colour from the toolbox or from a colour palette onto an image. This fills the current image or selection with the selected colour."
+msgstr "可以从工具箱或者调色板里拖放一个颜色到图像上。它将用指定的颜色填充当前图像或者选定的区域。"
 
 #: chapter7/xinclude.xml:691(para)
-msgid ""
-"If time permits, allow students to familiarise themselves with GIMP. Ask "
-"students to open an image and perform basic operations such as cropping the "
-"image, inserting text into the image, rotating the layer and smudging the "
-"image by using the available tools."
-msgstr ""
-"时间允许的话，可以让学生们自己熟悉 GIMP。要求学生们打开一张图像，并对其执行一"
-"些基本操作包括使用工具裁剪图像、插入文字、旋转和涂抹图像等。"
+msgid "If time permits, allow students to familiarise themselves with GIMP. Ask students to open an image and perform basic operations such as cropping the image, inserting text into the image, rotating the layer and smudging the image by using the available tools."
+msgstr "时间允许的话，可以让学生们自己熟悉 GIMP。要求学生们打开一张图像，并对其执行一些基本操作包括使用工具裁剪图像、插入文字、旋转和涂抹图像等。"
 
 #: chapter7/xinclude.xml:703(title)
 msgid "Drawing with Inkscape"
 msgstr "使用 Inkscape 绘图"
 
 #: chapter7/xinclude.xml:705(para)
-msgid ""
-"Inkscape helps you draw illustrations for the Web, graphics for mobile "
-"phones, simple line drawings, cartoons, complex works of art, figures for "
-"chapters and books or organization charts."
-msgstr ""
-"Inkscape 能够绘制用于网络或者移动电话的图形，可以是简单的线画图、漫画、复杂的"
-"艺术作品、图表或者是组织结构图。"
+msgid "Inkscape helps you draw illustrations for the Web, graphics for mobile phones, simple line drawings, cartoons, complex works of art, figures for chapters and books or organization charts."
+msgstr "Inkscape 能够绘制用于网络或者移动电话的图形，可以是简单的线画图、漫画、复杂的艺术作品、图表或者是组织结构图。"
 
 #: chapter7/xinclude.xml:709(para)
-msgid ""
-"Inkscape is a high-end graphic tool with capabilities similar to "
-"Illustrator, CorelDraw or Xara X. It is multi-platform software that is "
-"freely available for the Linux, Microsoft Windows, Solaris and Mac OS X "
-"operating systems."
-msgstr ""
-"Inkscape 是一款高端的图形工具，其功能类似于 Illustrator、CorelDraw 和 Xara "
-"X。它是一款多平台软件，可以自由地在 Linux、 Microsoft Windows、Solaris 和 "
-"Mac OS X 操作系统上运行。"
+msgid "Inkscape is a high-end graphic tool with capabilities similar to Illustrator, CorelDraw or Xara X. It is multi-platform software that is freely available for the Linux, Microsoft Windows, Solaris and Mac OS X operating systems."
+msgstr "Inkscape 是一款高端的图形工具，其功能类似于 Illustrator、CorelDraw 和 Xara X。它是一款多平台软件，可以自由地在 Linux、 Microsoft Windows、Solaris 和 Mac OS X 操作系统上运行。"
 
 #: chapter7/xinclude.xml:714(para)
-msgid ""
-"You can use it to rotate, re-size, skew, proportion, fill and stroke objects "
-"with a high level of precision. Advanced visual effects such as gradient and "
-"transparency are also available."
-msgstr ""
-"可用它进行高精度的旋转、设定大小、倾斜、设置比例、填充和绘制对象。还可以设置"
-"梯度和透明度等高级视觉效果。"
+msgid "You can use it to rotate, re-size, skew, proportion, fill and stroke objects with a high level of precision. Advanced visual effects such as gradient and transparency are also available."
+msgstr "可用它进行高精度的旋转、设定大小、倾斜、设置比例、填充和绘制对象。还可以设置梯度和透明度等高级视觉效果。"
 
 #: chapter7/xinclude.xml:718(para)
-msgid ""
-"Inkscape is not part of the default graphics package in Ubuntu however, you "
-"can install this package from repositories."
-msgstr ""
-"Inkscape 不是 Ubuntu 下默认的图形应用程序，但是用户可以从软件库中下载得到。"
+msgid "Inkscape is not part of the default graphics package in Ubuntu however, you can install this package from repositories."
+msgstr "Inkscape 不是 Ubuntu 下默认的图形应用程序，但是用户可以从软件库中下载得到。"
 
 #: chapter7/xinclude.xml:721(para)
-#, fuzzy
-msgid ""
-"You can install this application from the repositories by using Synaptic "
-"Package Manager, Ubuntu software center,or from the Command Line Interface "
-"(CLI)."
-msgstr ""
-"可以有两种方法安装 Inkscape。用户可以通过新立得软件包管理器在软件库中查找安装"
-"也可以通过命令终端(CLI)进行安装。"
+msgid "You can install this application from the repositories by using Synaptic Package Manager, Ubuntu software center,or from the Command Line Interface (CLI)."
+msgstr "用户可以通过新立得软件包管理器，Ubuntu 软件中心 或命令行(CLI) 在软件库中安装此软件。"
 
 # 此处菜单项为何？
 #: chapter7/xinclude.xml:724(para)
-msgid ""
-"To launch Inkscape, on the <emphasis role=\"strong\">Applications</emphasis> "
-"menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click "
-"<emphasis role=\"strong\">Inkscape Vector illustrator</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role="
-"\"strong\">图形</emphasis> 并点击 <emphasis role=\"strong\"> Inkscape 矢量插"
-"图 </emphasis> 启动 Inkscape。"
+msgid "To launch Inkscape, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">Inkscape Vector illustrator</emphasis>."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role=\"strong\">图形</emphasis> 并点击 <emphasis role=\"strong\"> Inkscape 矢量插图 </emphasis> 启动 Inkscape。"
 
 #: chapter7/xinclude.xml:727(title)
 msgid "Creating Vector Graphic Images Using InkScape"
 msgstr "使用 Inkscape 创建矢量图形"
 
 #: chapter7/xinclude.xml:732(para)
-msgid ""
-"To utilise the full potential of this application requires some hands-on "
-"experience on similar applications. This topic introduces students to "
-"Inkscape and covers the basic concepts. To engage students with some prior "
-"experience, use an example from the help manual and make them perform the "
-"steps given in the manual."
-msgstr ""
-"想要充分利用好这个应用程序，要求有一些在相似应用程序上的实践经验。本节内容向"
-"学生们介绍了 Inkscape 及其基本概念。为了满足一些有经验学生的需要，下面将使用"
-"一个帮助手册里的例子并按手册里的步骤进行操作。"
+msgid "To utilise the full potential of this application requires some hands-on experience on similar applications. This topic introduces students to Inkscape and covers the basic concepts. To engage students with some prior experience, use an example from the help manual and make them perform the steps given in the manual."
+msgstr "想要充分利用好这个应用程序，要求有一些在相似应用程序上的实践经验。本节内容向学生们介绍了 Inkscape 及其基本概念。为了满足一些有经验学生的需要，下面将使用一个帮助手册里的例子并按手册里的步骤进行操作。"
 
 # 不确定
 #: chapter7/xinclude.xml:740(title)
@@ -1133,26 +684,16 @@ msgstr "纸张："
 
 # 非常不确定
 #: chapter7/xinclude.xml:742(para)
-msgid ""
-"This area enables you to specify various options for the output. For "
-"example, you can specify the Page dimensions for printing on A4 size paper. "
-"The Page adjusts accordingly and you can adjust the proportion the drawing "
-"relative to the Page."
-msgstr ""
-"在这里可以对文件输出进行多选项设置。例如，可以指定页面尺寸以在 A4 纸上打印。"
-"页面相应的自动调整而且可以调整图像的比例以使用纸张。"
+msgid "This area enables you to specify various options for the output. For example, you can specify the Page dimensions for printing on A4 size paper. The Page adjusts accordingly and you can adjust the proportion the drawing relative to the Page."
+msgstr "在这里可以对文件输出进行多选项设置。例如，可以指定页面尺寸以在 A4 纸上打印。页面相应的自动调整而且可以调整图像的比例以使用纸张。"
 
 #: chapter7/xinclude.xml:749(title)
 msgid "Menu Bar:"
 msgstr "菜单栏："
 
 #: chapter7/xinclude.xml:751(para)
-msgid ""
-"This toolbar provides menus such as file save and zoom. You can perform all "
-"operations in Inkscape by using the options listed on these menus."
-msgstr ""
-"此工具条提供了诸如文件保存和缩放的菜单。可以通过使用其上列出的操作选项完成 "
-"Inkscape 下的所有操作。"
+msgid "This toolbar provides menus such as file save and zoom. You can perform all operations in Inkscape by using the options listed on these menus."
+msgstr "此工具条提供了诸如文件保存和缩放的菜单。可以通过使用其上列出的操作选项完成 Inkscape 下的所有操作。"
 
 #: chapter7/xinclude.xml:757(title)
 msgid "Command Bar:"
@@ -1167,79 +708,48 @@ msgid "Drawing Toolbar:"
 msgstr "绘图工具条："
 
 #: chapter7/xinclude.xml:766(para)
-msgid ""
-"This toolbar provides options to perform drawing operations. You can create "
-"basic shapes such as a rectangle, a square or an ellipse."
-msgstr ""
-"此工具栏提供了一些选项来执行绘图操作，可以创建诸如矩形、正方形或椭圆等基本的"
-"形状。"
+msgid "This toolbar provides options to perform drawing operations. You can create basic shapes such as a rectangle, a square or an ellipse."
+msgstr "此工具栏提供了一些选项来执行绘图操作，可以创建诸如矩形、正方形或椭圆等基本的形状。"
 
 #: chapter7/xinclude.xml:772(title)
 msgid "Tools Control Bar:"
 msgstr "工具控制栏："
 
 #: chapter7/xinclude.xml:774(para)
-msgid ""
-"This toolbar provides options specific to a tool on the Drawing toolbar. For "
-"example, if you select the polygon tool from the Drawing toolbar, the Tools "
-"Control Bar displays options to set the corners in the polygon."
-msgstr ""
-"此工具条能够提供对应于绘图工具条上不同绘图命令的相关选项。举个例子，当选定了"
-"绘图工具条上的绘制多边形命令，工具控制栏上将显示设置多边形顶点的相关选项。"
+msgid "This toolbar provides options specific to a tool on the Drawing toolbar. For example, if you select the polygon tool from the Drawing toolbar, the Tools Control Bar displays options to set the corners in the polygon."
+msgstr "此工具条能够提供对应于绘图工具条上不同绘图命令的相关选项。举个例子，当选定了绘图工具条上的绘制多边形命令，工具控制栏上将显示设置多边形顶点的相关选项。"
 
 #: chapter7/xinclude.xml:781(title)
 msgid "Status Bar:"
 msgstr "状态栏："
 
 #: chapter7/xinclude.xml:783(para)
-msgid ""
-"This toolbar indicates the status of objects such as dimensions and layers. "
-"For example, when you roll the mouse over the window, the Status Bar "
-"indicates the position of the cursor relative to the window."
-msgstr ""
-"此工具栏显示对象的大小及所在层等信息。例如，当在窗口内滚动鼠标，状态栏上将显"
-"示光标相对于窗口的位置。"
+msgid "This toolbar indicates the status of objects such as dimensions and layers. For example, when you roll the mouse over the window, the Status Bar indicates the position of the cursor relative to the window."
+msgstr "此工具栏显示对象的大小及所在层等信息。例如，当在窗口内滚动鼠标，状态栏上将显示光标相对于窗口的位置。"
 
 # 模糊
 #: chapter7/xinclude.xml:792(para)
-msgid ""
-"Vector drawing software uses standard notation to refer to shapes such as "
-"simple lines, rectangles and complicated shapes as objects."
-msgstr ""
-"矢量绘图软件使用标准的符号指代不同的形状，例如简单的线条、矩形或者复杂的形"
-"状。"
+msgid "Vector drawing software uses standard notation to refer to shapes such as simple lines, rectangles and complicated shapes as objects."
+msgstr "矢量绘图软件使用标准的符号指代不同的形状，例如简单的线条、矩形或者复杂的形状。"
 
 #: chapter7/xinclude.xml:798(title)
 msgid "Creating and Saving Objects"
 msgstr "创建并保存图形"
 
 #: chapter7/xinclude.xml:800(para)
-msgid ""
-"Creating a new object in Inkscape requires extensive use of the Drawing "
-"toolbar. However, the options in this toolbar help you to create basic "
-"shapes. To create complex objects, you need to further edit, combine and "
-"manipulate these shapes."
-msgstr ""
-"在 Inkscape 中创建图形需要广泛的使用绘图工具条上的工具。然而，工具条上的这些"
-"工具只能创建一些简单的图形。想要创建复杂的图形，需要进行进一步编辑，例如对这"
-"些图形进行合并处理。"
+msgid "Creating a new object in Inkscape requires extensive use of the Drawing toolbar. However, the options in this toolbar help you to create basic shapes. To create complex objects, you need to further edit, combine and manipulate these shapes."
+msgstr "在 Inkscape 中创建图形需要广泛的使用绘图工具条上的工具。然而，工具条上的这些工具只能创建一些简单的图形。想要创建复杂的图形，需要进行进一步编辑，例如对这些图形进行合并处理。"
 
 #: chapter7/xinclude.xml:807(title)
 msgid "To create an object by using the Drawing toolbar:"
 msgstr "利用绘图工具条创建图形："
 
 #: chapter7/xinclude.xml:810(para)
-msgid ""
-"Click the object button associated with the shape you want to draw. Point "
-"anywhere in the page where you want to start drawing the object."
-msgstr ""
-"根据想要绘制的图形单击相应的图形按钮。在画布上任意指定所画图形对象的起始位"
-"置。"
+msgid "Click the object button associated with the shape you want to draw. Point anywhere in the page where you want to start drawing the object."
+msgstr "根据想要绘制的图形单击相应的图形按钮。在画布上任意指定所画图形对象的起始位置。"
 
 #: chapter7/xinclude.xml:816(para)
-msgid ""
-"Drag the cursor to the desired size of the object. The object is displayed "
-"in the page."
+msgid "Drag the cursor to the desired size of the object. The object is displayed in the page."
 msgstr "拖动光标设置图像的大小。图像显示在画布上。"
 
 #: chapter7/xinclude.xml:820(title)
@@ -1247,36 +757,19 @@ msgid "Drawing an Object"
 msgstr "绘制图形"
 
 #: chapter7/xinclude.xml:829(para)
-msgid ""
-"The Tools Control Bar displays options to create the object. For example, if "
-"you are creating a rectangle, the toolbar provides the option to specify the "
-"height and the width of the rectangle."
-msgstr ""
-"工具控制栏能够显示创建图形的相关选项。举个例子，在绘制矩形时，工具控制栏提供"
-"了指定矩形长和宽的相关选项。"
+msgid "The Tools Control Bar displays options to create the object. For example, if you are creating a rectangle, the toolbar provides the option to specify the height and the width of the rectangle."
+msgstr "工具控制栏能够显示创建图形的相关选项。举个例子，在绘制矩形时，工具控制栏提供了指定矩形长和宽的相关选项。"
 
 #: chapter7/xinclude.xml:836(para)
-msgid ""
-"After creating the shape, click <emphasis role=\"strong\">Save</emphasis> on "
-"the Command Bar. The <emphasis role=\"strong\">Select file to Save to</"
-"emphasis> dialogue box is displayed. Type the name of the file in the "
-"<emphasis role=\"strong\">Name</emphasis> text box, specify the location "
-"where you want to save the file and click <emphasis role=\"strong\">Save</"
-"emphasis>."
-msgstr ""
-"创建完图形后，单击命令栏上的 <emphasis role=\"strong\">保存文档</emphasis> 按"
-"钮。此时将弹出 <emphasis role=\"strong\">选择打开的文件</emphasis> 对话框。"
-"<emphasis role=\"strong\">名称</emphasis> 文本框中键入文件名并指定保存路径后"
-"单击 <emphasis role=\"strong\">保存</emphasis> 按钮。"
+msgid "After creating the shape, click <emphasis role=\"strong\">Save</emphasis> on the Command Bar. The <emphasis role=\"strong\">Select file to Save to</emphasis> dialogue box is displayed. Type the name of the file in the <emphasis role=\"strong\">Name</emphasis> text box, specify the location where you want to save the file and click <emphasis role=\"strong\">Save</emphasis>."
+msgstr "创建完图形后，单击命令栏上的 <emphasis role=\"strong\">保存文档</emphasis> 按钮。此时将弹出 <emphasis role=\"strong\">选择打开的文件</emphasis> 对话框。<emphasis role=\"strong\">名称</emphasis> 文本框中键入文件名并指定保存路径后单击 <emphasis role=\"strong\">保存</emphasis> 按钮。"
 
 #: chapter7/xinclude.xml:841(title)
 msgid "Saving an Object"
 msgstr "保存图像"
 
 #: chapter7/xinclude.xml:853(para)
-msgid ""
-"Inkscape saves images as vector graphics. You can resize a vector image "
-"without affecting the resolution of the image."
+msgid "Inkscape saves images as vector graphics. You can resize a vector image without affecting the resolution of the image."
 msgstr "Inkscape 将图像保存为矢量图形。用户可以改变图像大小而不影响其分辨率。"
 
 #: chapter7/xinclude.xml:862(title)
@@ -1284,46 +777,23 @@ msgid "Using a Scanner"
 msgstr "扫描仪的使用"
 
 #: chapter7/xinclude.xml:864(para)
-msgid ""
-"Scanning an object in Ubuntu is simple. If you have a USB scanner, plug the "
-"scanner directly into your computer. Most plug-and-play devices are "
-"compatible with Ubuntu, if however, the computer fails to detect the "
-"scanner, you will need to check its compatibility with Ubuntu."
-msgstr ""
-"在 Ubuntu 下使用扫描仪非常简单。如果您有一台 USB 接口的扫描仪设备，可将其直接"
-"连接到电脑上。大多数即插即用设备都能与 Ubuntu 兼容。所以如果电脑未能检测到扫"
-"描仪设备，您很可能需要检查其与 Ubuntu 系统的兼容性。"
+msgid "Scanning an object in Ubuntu is simple. If you have a USB scanner, plug the scanner directly into your computer. Most plug-and-play devices are compatible with Ubuntu, if however, the computer fails to detect the scanner, you will need to check its compatibility with Ubuntu."
+msgstr "在 Ubuntu 下使用扫描仪非常简单。如果您有一台 USB 接口的扫描仪设备，可将其直接连接到电脑上。大多数即插即用设备都能与 Ubuntu 兼容。所以如果电脑未能检测到扫描仪设备，您很可能需要检查其与 Ubuntu 系统的兼容性。"
 
 #: chapter7/xinclude.xml:870(title)
 msgid "Checking Scanner Compatibility"
 msgstr "检查扫描仪的兼容性"
 
 #: chapter7/xinclude.xml:875(para)
-msgid ""
-"Visit this Web site for the list of scanners and drivers compatible with "
-"Ubuntu: <ulink url=\"https://wiki.ubuntu.com/"
-"HardwareSupportComponentsScanners\">https://wiki.ubuntu.com/"
-"HardwareSupportComponentsScanners</ulink>."
-msgstr ""
-"<ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners"
-"\">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink> 网站下列"
-"出了所有与 Ubuntu 兼容的扫描仪及驱动设备。"
+msgid "Visit this Web site for the list of scanners and drivers compatible with Ubuntu: <ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink>."
+msgstr "<ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink> 网站下列出了所有与 Ubuntu 兼容的扫描仪及驱动设备。"
 
 #: chapter7/xinclude.xml:880(para)
-msgid ""
-"Check the status of your scanner at the following Web site: <ulink url="
-"\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project."
-"org/sane-backends.html</ulink>. This site lists the drivers distributed with "
-"sane-backends-1.0.18 and supported hardware and software."
-msgstr ""
-"可在 <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://"
-"www.sane-project.org/sane-backends.html</ulink> 站点检查您的扫描仪状态。该站"
-"点列出了 sane-backends-1.0.18 下的驱动程序以及所支持的软硬件。"
+msgid "Check the status of your scanner at the following Web site: <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink>. This site lists the drivers distributed with sane-backends-1.0.18 and supported hardware and software."
+msgstr "可在 <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink> 站点检查您的扫描仪状态。该站点列出了 sane-backends-1.0.18 下的驱动程序以及所支持的软硬件。"
 
 #: chapter7/xinclude.xml:872(para)
-msgid ""
-"You can check the compatibility of your scanner with Ubuntu in one of two "
-"ways: <placeholder-1/>"
+msgid "You can check the compatibility of your scanner with Ubuntu in one of two ways: <placeholder-1/>"
 msgstr "用户可以通过下列两种方法检查扫描仪与 Ubuntu 的兼容性：<placeholder-1/>"
 
 #: chapter7/xinclude.xml:889(title)
@@ -1331,44 +801,20 @@ msgid "Scanning an Image"
 msgstr "扫描图像"
 
 #: chapter7/xinclude.xml:891(para)
-msgid ""
-"You can scan an image by using the scanner interface or the scanning "
-"application XSane, which is available in Ubuntu."
-msgstr ""
-"用户可以通过扫描仪接口扫描图像，或者使用 Ubuntu 下自带的 XSane 图像扫描器进"
-"行。"
+msgid "You can scan an image by using the scanner interface or the scanning application XSane, which is available in Ubuntu."
+msgstr "用户可以通过扫描仪接口扫描图像，或者使用 Ubuntu 下自带的 XSane 图像扫描器进行。"
 
 #: chapter7/xinclude.xml:895(title)
 msgid "To scan an image by using XSane:"
 msgstr "使用 XSane 扫描图像："
 
 #: chapter7/xinclude.xml:898(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role="
-"\"strong\">XSane Image Scanner</emphasis>. XSane automatically searches for "
-"a scanner attached to the computer. After your computer detects the scanner, "
-"the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box is "
-"displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单下，单击 <emphasis role="
-"\"strong\">图形</emphasis> 项下的 <emphasis role=\"strong\">XSane 图像扫描器"
-"</emphasis>。XSane 将自动搜索电脑上的扫描仪设备。当检测到扫描仪时，将自动打"
-"开 <emphasis role=\"strong\">XSane 选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">XSane Image Scanner</emphasis>. XSane automatically searches for a scanner attached to the computer. After your computer detects the scanner, the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box is displayed."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单下，单击 <emphasis role=\"strong\">图形</emphasis> 项下的 <emphasis role=\"strong\">XSane 图像扫描器</emphasis>。XSane 将自动搜索电脑上的扫描仪设备。当检测到扫描仪时，将自动打开 <emphasis role=\"strong\">XSane 选项</emphasis> 对话框。"
 
 #: chapter7/xinclude.xml:907(para)
-msgid ""
-"The <emphasis role=\"strong\">XSane Options</emphasis> dialogue box provides "
-"options to modify the default settings of the output. You can specify the "
-"number of copies to be scanned, the name of the output file, the output file "
-"type, and colour and contrast options. After you specify the properties of "
-"the output file, place the object on the scanner and click Scan to begin "
-"scanning the object."
-msgstr ""
-"<emphasis role=\"strong\">XSane 选项</emphasis> 对话框中提供了一些选项来修改"
-"默认的输出设置。用户可以指定扫描的份数、输出文件名及文件类型，设置色彩和对比"
-"度等选项。在指定的输出文件的属性后，将扫描对象放入扫描仪，点击扫描开始扫描对"
-"象。"
+msgid "The <emphasis role=\"strong\">XSane Options</emphasis> dialogue box provides options to modify the default settings of the output. You can specify the number of copies to be scanned, the name of the output file, the output file type, and colour and contrast options. After you specify the properties of the output file, place the object on the scanner and click Scan to begin scanning the object."
+msgstr "<emphasis role=\"strong\">XSane 选项</emphasis> 对话框中提供了一些选项来修改默认的输出设置。用户可以指定扫描的份数、输出文件名及文件类型，设置色彩和对比度等选项。在指定的输出文件的属性后，将扫描对象放入扫描仪，点击扫描开始扫描对象。"
 
 #: chapter7/xinclude.xml:916(title)
 msgid "Using XSane"
@@ -1383,56 +829,35 @@ msgid "Viewing Scanned Output"
 msgstr "查看扫描输出"
 
 #: chapter7/xinclude.xml:943(para)
-msgid ""
-"Before beginning the scanning operation, check the compatibility of your "
-"scanner with Ubuntu. Sometimes, Ubuntu detects the scanner as hardware but "
-"fails to scan if the required driver is missing."
-msgstr ""
-"在开始扫描操作之前，请检查您的扫描仪与 Ubuntu 的的兼容性。有些情况下，即便 "
-"Ubuntu 检测到了扫描仪硬件，但如果没有扫描所需的驱动程序，扫描操作将不能进行。"
+msgid "Before beginning the scanning operation, check the compatibility of your scanner with Ubuntu. Sometimes, Ubuntu detects the scanner as hardware but fails to scan if the required driver is missing."
+msgstr "在开始扫描操作之前，请检查您的扫描仪与 Ubuntu 的的兼容性。有些情况下，即便 Ubuntu 检测到了扫描仪硬件，但如果没有扫描所需的驱动程序，扫描操作将不能进行。"
 
 #: chapter7/xinclude.xml:951(para)
-msgid ""
-"Continue to scan other images or close the <emphasis role=\"strong\">XSane "
-"Options</emphasis> dialogue box to exit the application."
-msgstr ""
-"继续扫描其他图像或关闭 <emphasis role=\"strong\">XSane选项</emphasis> 对话"
-"框，退出应用程序。"
+msgid "Continue to scan other images or close the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box to exit the application."
+msgstr "继续扫描其他图像或关闭 <emphasis role=\"strong\">XSane选项</emphasis> 对话框，退出应用程序。"
 
 #: chapter7/xinclude.xml:959(title)
 msgid "Lesson Summary"
 msgstr "课程总结"
 
 #: chapter7/xinclude.xml:963(para)
-msgid ""
-"View and organise your photo collection by using the default Ubuntu graphic "
-"applications:"
+msgid "View and organise your photo collection by using the default Ubuntu graphic applications:"
 msgstr "使用 Ubuntu 下默认的图形应用程序浏览和管理照片集："
 
 #: chapter7/xinclude.xml:968(para)
-msgid ""
-"The <emphasis role=\"strong\">F-Spot Photo Manager</emphasis> enables you to "
-"import pictures, organise your photos using tags, create a photo CD, display "
-"photos as a slide show and create albums of your photo collection for the "
-"Web."
-msgstr ""
-"使用 <emphasis role=\"strong\">F-Spot 照片管理器</emphasis> 可以导入图像、利"
-"用标签管理图像、创建照片 CD、制作照片幻灯片并且制作在网络上使用的相册。"
+msgid "The <emphasis role=\"strong\">F-Spot Photo Manager</emphasis> enables you to import pictures, organise your photos using tags, create a photo CD, display photos as a slide show and create albums of your photo collection for the Web."
+msgstr "使用 <emphasis role=\"strong\">F-Spot 照片管理器</emphasis> 可以导入图像、利用标签管理图像、创建照片 CD、制作照片幻灯片并且制作在网络上使用的相册。"
 
 #: chapter7/xinclude.xml:977(para)
 msgid "Use GIMP for advanced image manipulation and creation."
 msgstr "使用 GIMP 进行高级图像处理和制作。"
 
 #: chapter7/xinclude.xml:981(para)
-msgid ""
-"Create graphics in the SVG format by using the Inkscape vector graphics "
-"editor."
+msgid "Create graphics in the SVG format by using the Inkscape vector graphics editor."
 msgstr "利用 Inkscape 矢量图形编辑器制作 SVG 格式的图形。"
 
 #: chapter7/xinclude.xml:986(para)
-msgid ""
-"Scan your images and save them in various formats by using XSane Image "
-"Scanner."
+msgid "Scan your images and save them in various formats by using XSane Image Scanner."
 msgstr "使用 XSane 影像扫描仪扫描图像并将其保存成多种格式。"
 
 #: chapter7/xinclude.xml:961(para)
@@ -1444,16 +869,15 @@ msgid "Review Exercise"
 msgstr "复习题"
 
 #: chapter7/xinclude.xml:998(para)
-msgid ""
-"Which of the default graphics applications provides the option to display "
-"only a category of images from a randomly stored pool of images?."
+msgid "Which of the default graphics applications provides the option to display only a category of images from a randomly stored pool of images?."
 msgstr "以下哪个默认的图形应用程序提供了从随机存储的图像中显示分类的选项？"
 
 #: chapter7/xinclude.xml:1002(para)
 msgid "a) Inkscape"
 msgstr "a) Inkscape "
 
-#: chapter7/xinclude.xml:1004(para) chapter7/xinclude.xml:1012(para)
+#: chapter7/xinclude.xml:1004(para)
+#: chapter7/xinclude.xml:1012(para)
 msgid "b) F-Spot"
 msgstr "b) F-Spot "
 
@@ -1466,9 +890,7 @@ msgid "d) GIMP"
 msgstr "d) GIMP"
 
 #: chapter7/xinclude.xml:1018(para)
-msgid ""
-"Which default graphics application in Ubuntu facilitates photo sharing over "
-"the Internet?"
+msgid "Which default graphics application in Ubuntu facilitates photo sharing over the Internet?"
 msgstr "Ubuntu 下的哪个图形应用程序提供了基于互联网的相片共享功能？"
 
 #: chapter7/xinclude.xml:1023(para)
@@ -1476,19 +898,12 @@ msgid "The F-Spot Photo Manager"
 msgstr "F-Spot 照片管理器"
 
 #: chapter7/xinclude.xml:1029(para)
-msgid ""
-"Is there any additional software required to import images from a digital "
-"camera?"
+msgid "Is there any additional software required to import images from a digital camera?"
 msgstr "从数码相机中导出图片是否需要额外的软件？"
 
 #: chapter7/xinclude.xml:1034(para)
-msgid ""
-"No, Ubuntu automatically identifies plug-and-play devices. F-Spot Photo "
-"Manager can identify the connected device and enable you to import images "
-"directly from the application interface."
-msgstr ""
-"不需要，Ubuntu 将自动识别即插即用设备。F-Spot 照片管理器能够识别出所连接的设"
-"备并且可以通过应用程序接口直接导出图像。"
+msgid "No, Ubuntu automatically identifies plug-and-play devices. F-Spot Photo Manager can identify the connected device and enable you to import images directly from the application interface."
+msgstr "不需要，Ubuntu 将自动识别即插即用设备。F-Spot 照片管理器能够识别出所连接的设备并且可以通过应用程序接口直接导出图像。"
 
 #: chapter7/xinclude.xml:1043(title)
 msgid "Lab Exercise"
@@ -1499,76 +914,41 @@ msgid "Exercise 1: Creating a Web Album by using F-Spot"
 msgstr "练习1：使用 F-Spot 创建网络相册"
 
 #: chapter7/xinclude.xml:1048(para)
-msgid ""
-"You have just returned from a vacation with your friends. You decide to "
-"write about this experience on your blog and post some photographs of the "
-"trip. However, uploading images one by one to the Web site involves a lot of "
-"effort and time. You want to find a more convenient way to do this."
-msgstr ""
-"假设您和您的朋友刚旅行归来。您想要在您的博客上写下这一经历并放置一些旅游照"
-"片。然而将图片一张张上传到网站将花费大量的时间和经历。您想要找到一个更方便快"
-"捷的实现方法。"
+msgid "You have just returned from a vacation with your friends. You decide to write about this experience on your blog and post some photographs of the trip. However, uploading images one by one to the Web site involves a lot of effort and time. You want to find a more convenient way to do this."
+msgstr "假设您和您的朋友刚旅行归来。您想要在您的博客上写下这一经历并放置一些旅游照片。然而将图片一张张上传到网站将花费大量的时间和经历。您想要找到一个更方便快捷的实现方法。"
 
 #: chapter7/xinclude.xml:1056(title)
 msgid "To perform the required task:"
 msgstr "执行所需任务："
 
 #: chapter7/xinclude.xml:1059(para)
-msgid ""
-"Launch <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The "
-"default window is displayed."
-msgstr ""
-"启动 <emphasis role=\"strong\">F-Spot 照片管理器</emphasis>，出现其默认窗口。"
+msgid "Launch <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The default window is displayed."
+msgstr "启动 <emphasis role=\"strong\">F-Spot 照片管理器</emphasis>，出现其默认窗口。"
 
 #: chapter7/xinclude.xml:1064(para)
-msgid ""
-"Click <emphasis role=\"strong\">Import</emphasis> on the navigation bar. "
-"Navigate to the folder containing the photos <emphasis role=\"strong\">Open</"
-"emphasis>. The workspace displays all the images available in the folder."
-msgstr ""
-"单击导航工具条上的 <emphasis role=\"strong\">导入</emphasis> 按钮。导航到照片"
-"所在文件夹单击 <emphasis role=\"strong\">打开</emphasis> 按钮。工作空间中将显"
-"示该文件夹下的所有图片。"
+msgid "Click <emphasis role=\"strong\">Import</emphasis> on the navigation bar. Navigate to the folder containing the photos <emphasis role=\"strong\">Open</emphasis>. The workspace displays all the images available in the folder."
+msgstr "单击导航工具条上的 <emphasis role=\"strong\">导入</emphasis> 按钮。导航到照片所在文件夹单击 <emphasis role=\"strong\">打开</emphasis> 按钮。工作空间中将显示该文件夹下的所有图片。"
 
 #: chapter7/xinclude.xml:1070(para)
 msgid "Select the images you want to include in the Web album."
 msgstr "选择用于制作网络相册的照片。"
 
 #: chapter7/xinclude.xml:1074(para)
-msgid ""
-"Click <emphasis role=\"strong\">Copy</emphasis> to import the selected "
-"photos. F-Spot displays the photos in the preview window."
-msgstr ""
-"单击 <emphasis role=\"strong\">复制</emphasis> 按钮导入选中的照片，此时 F-"
-"Spot 的预览窗口下将显示这些照片。"
+msgid "Click <emphasis role=\"strong\">Copy</emphasis> to import the selected photos. F-Spot displays the photos in the preview window."
+msgstr "单击 <emphasis role=\"strong\">复制</emphasis> 按钮导入选中的照片，此时 F-Spot 的预览窗口下将显示这些照片。"
 
 #: chapter7/xinclude.xml:1079(para)
-msgid ""
-"In the preview window,select the photos you want include or use <emphasis "
-"role=\"strong\">Select All</emphasis> from the <emphasis role=\"strong"
-"\">Edit</emphasis> menu."
-msgstr ""
-"在预览窗口下选择所需照片或者利用 <emphasis role=\"strong\">编辑</emphasis> 菜"
-"单下的 <emphasis role=\"strong\">选中所有</emphasis> 命令进行选择。"
+msgid "In the preview window,select the photos you want include or use <emphasis role=\"strong\">Select All</emphasis> from the <emphasis role=\"strong\">Edit</emphasis> menu."
+msgstr "在预览窗口下选择所需照片或者利用 <emphasis role=\"strong\">编辑</emphasis> 菜单下的 <emphasis role=\"strong\">选中所有</emphasis> 命令进行选择。"
 
 # 疑原文有误
 #: chapter7/xinclude.xml:1083(para)
-msgid ""
-"In the <emphasis role=\"strong\">Photo menu</emphasis>, select the <emphasis "
-"role=\"strong\">Export to</emphasis> and then <emphasis role=\"strong\">Web "
-"Gallery</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">照片</emphasis> 菜单下，选择 <emphasis role="
-"\"strong\">导出到</emphasis> 命令下的 <emphasis role=\"strong\">网络图库</"
-"emphasis>。"
+msgid "In the <emphasis role=\"strong\">Photo menu</emphasis>, select the <emphasis role=\"strong\">Export to</emphasis> and then <emphasis role=\"strong\">Web Gallery</emphasis>."
+msgstr "在 <emphasis role=\"strong\">照片</emphasis> 菜单下，选择 <emphasis role=\"strong\">导出到</emphasis> 命令下的 <emphasis role=\"strong\">网络图库</emphasis>。"
 
 #: chapter7/xinclude.xml:1086(para)
-msgid ""
-"You will need to enter the name of the Gallery, as well as the URL and log-"
-"in information for the site. F-Spot will then upload the selected items to "
-"the website."
-msgstr ""
-"用户需要键入图库名称、网址和网站登录信息。F-Spot 将把选中的项目上传到网站上。"
+msgid "You will need to enter the name of the Gallery, as well as the URL and log-in information for the site. F-Spot will then upload the selected items to the website."
+msgstr "用户需要键入图库名称、网址和网站登录信息。F-Spot 将把选中的项目上传到网站上。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter7/xinclude.xml:0(None)
@@ -1581,46 +961,38 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ msgstr ""
 #~ "@@image: 'images/Lesson08_images_032.png'; "
 #~ "md5=d9a676693a685cc75b9de885913bfcf6"
-
 #~ msgid ""
 #~ "@@image: 'images/Lesson08_images_033.png'; "
 #~ "md5=e901fae93e7d36ada0c055fb9a178d48"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson08_images_033.png'; "
 #~ "md5=e901fae93e7d36ada0c055fb9a178d48"
-
 #~ msgid ""
 #~ "@@image: 'images/Lesson08_images_034.png'; "
 #~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson08_images_034.png'; "
 #~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
-
 #~ msgid ""
 #~ "@@image: 'images/Lesson08_images_035.png'; "
 #~ "md5=f43fc43aa63e9d07da967866c31d9f6a"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson08_images_035.png'; "
 #~ "md5=f43fc43aa63e9d07da967866c31d9f6a"
-
 #~ msgid ""
 #~ "@@image: 'images/Lesson08_images_036.png'; "
 #~ "md5=53acf89b475965e1b6364f01928e0997"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson08_images_036.png'; "
 #~ "md5=53acf89b475965e1b6364f01928e0997"
-
 #~ msgid "Installing Inkscape"
 #~ msgstr "Inkscape 的安装"
-
 #~ msgid ""
 #~ "Your computer must be connected to the Internet while installing the "
 #~ "application from the repositories."
 #~ msgstr "从软件库中安装应用程序时电脑必须连接到互联网。"
-
 #~ msgid "Installing Inkscape by Using Synaptic Package Manager"
 #~ msgstr "通过新立得软件包管理器安装 Inkscape"
-
 #~ msgid ""
 #~ "On the <emphasis role=\"strong\">System</emphasis> menu, point to "
 #~ "<emphasis role=\"strong\">Administration</emphasis> and click <emphasis "
@@ -1631,10 +1003,8 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ "\"strong\">系统管理</emphasis> 并单击 <emphasis role=\"strong\">新立得软件"
 #~ "包管理器</emphasis>。打开 <emphasis role=\"strong\">新立得软件包管理器</"
 #~ "emphasis> 窗口。"
-
 #~ msgid "Launching Synaptic Package Manager"
 #~ msgstr "启动新立得软件包管理器"
-
 #~ msgid ""
 #~ "In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
 #~ "window, the left pane lists the categories of software and the right pane "
@@ -1650,7 +1020,6 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ "emphasis> 对话框。在 <emphasis role=\"strong\">搜索</emphasis> 栏中输入 "
 #~ "<emphasis role=\"strong\">Inkscape</emphasis>，点击 <emphasis role="
 #~ "\"strong\">搜索</emphasis> 按钮。"
-
 #~ msgid ""
 #~ "To view installed and uninstalled packages, click <emphasis role=\"strong"
 #~ "\">Status</emphasis>. For the source repository of the package, click "
@@ -1664,10 +1033,8 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ "</emphasis> 按钮。 单击 <emphasis role=\"strong\">自定义过滤器</emphasis> "
 #~ "可确定安装包是否损坏或可否升级。单击 <emphasis role=\"strong\">搜索结果</"
 #~ "emphasis> 可见软件包搜索结果返回到项目列表中。"
-
 #~ msgid "Searching Inkscape"
 #~ msgstr "搜索 Inkscape"
-
 #~ msgid ""
 #~ "The <emphasis role=\"strong\">Search</emphasis> results are displayed in "
 #~ "the right pane of the <emphasis role=\"strong\">Synaptic Package Manager</"
@@ -1679,10 +1046,8 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ "\"strong\">新立得软件包管理器</emphasis> 窗体的右侧。右击 <emphasis role="
 #~ "\"strong\">Inkscape</emphasis> 选择 <emphasis role=\"strong\">标记以便安装"
 #~ "</emphasis> 按钮。"
-
 #~ msgid "Marking Inkscape for Installation"
 #~ msgstr "标记 Inkscape 以便安装"
-
 #~ msgid ""
 #~ "Click <emphasis role=\"strong\">Apply</emphasis> on the toolbar to begin "
 #~ "the installation process. A <emphasis role=\"strong\">Summary</emphasis> "
@@ -1693,10 +1058,8 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ "单击工具条上的 <emphasis role=\"strong\">应用</emphasis> 开始安装进程。此"
 #~ "时将弹出 <emphasis role=\"strong\">摘要</emphasis> 对话框提示是否应用该变"
 #~ "更。点击 <emphasis role=\"strong\">应用</emphasis> 继续该安装。"
-
 #~ msgid "Confirming Changes"
 #~ msgstr "变更确认"
-
 #~ msgid ""
 #~ "After the installation is complete, click <emphasis role=\"strong"
 #~ "\">Close</emphasis> in the <emphasis role=\"strong\">Changes applied</"
@@ -1704,6 +1067,6 @@ msgstr "Yvonne <feidaozhanchen@gmail.com>,2009."
 #~ msgstr ""
 #~ "安装结束后，单击 <emphasis role=\"strong\">应用已变更</emphasis> 对话框中"
 #~ "的 <emphasis role=\"strong\">关闭</emphasis> 按钮。"
-
 #~ msgid "Changes Applied Confirmation"
 #~ msgstr "应用已更改确认"
+
