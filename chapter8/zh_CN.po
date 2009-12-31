@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-31 00:55+0800\n"
-"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
+"PO-Revision-Date: 2009-12-31 15:44+0800\n"
+"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -983,9 +983,10 @@ msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利、开源
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
 msgstr "WAV：WAV 是 Waveform Audio Format (波形音频格式)的缩写。它是非压缩格式，通常用于声音和语音记录的短片段。"
 
+# 根据9.10进行了更改
 #: chapter8/xinclude.xml:449(para)
 msgid "Sound Juicer is the default application available in Ubuntu for playing and extracting audio compact discs (CDs). It is an easy-to-use CD player and ripping tool that requires minimal user intervention in playing and extracting audio CDs. Using Sound Juicer, you can play audio tracks directly from the CD and extract audio tracks and convert them into audio files. Sound Juicer allows you to extract audio files into the following three formats: <placeholder-1/>"
-msgstr "音乐榨汁机(Sound Juicer)是 Ubuntu 默认的提取或播放 CD 的应用程序。它是一个易用的 CD 播放器和抓取工具，播放中很少需要用户交互。使用音乐榨汁机，您可以直接从 CD 播放音轨也可以提取音轨并转换成音频文件。音乐榨汁机允许您以如下三种格式提取音频文件：<placeholder-1/>"
+msgstr "音乐榨汁机(Sound Juicer)是 Ubuntu 中的一款提取或播放 CD 的应用程序。它是一个易用的 CD 播放器和抓取工具，播放中很少需要用户交互。使用音乐榨汁机，您可以直接从 CD 播放音轨也可以提取音轨并转换成音频文件。您可以使用 Ubuntu 软件中心或者新立得软件包搜索并安装“sound juice”。除了可以直接调用音乐榨汁机，向 Rhythmbox 音乐播放器中导入音频光盘时也会调用音乐榨汁机。音乐榨汁机允许您以如下三种格式提取音频文件：<placeholder-1/> "
 
 #: chapter8/xinclude.xml:485(ulink)
 msgid "http://www.vorbis.com/faq/"

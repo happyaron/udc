@@ -975,35 +975,9 @@
     multimedia framework. GStreamer by itself does not provide any multimedia
     codecs, it relies on codecs that have been packaged into a <emphasis
     role="strong">plugin</emphasis> that it uses to perform the actual
-    recording and playback. Typical plugins are: <itemizedlist>
-        <listitem>
-          <para>gstreamer0.10-plugins-ugly</para>
-        </listitem>
-
-        <listitem>
-          <para>gstreamer0.10-plugins-ugly-multiverse</para>
-        </listitem>
-
-        <listitem>
-          <para>gstreamer0.10-plugins-bad</para>
-        </listitem>
-
-        <listitem>
-          <para>gstreamer0.10-plugins-bad-multiverse</para>
-        </listitem>
-
-        <listitem>
-          <para>gstreamer0.10-ffmpeg</para>
-        </listitem>
-      </itemizedlist></para>
-
-    <note>
-      <title>Note:</title>
-
-      <para>To know more about which Gstreamer package contains which plugins,
-      visit the following Web site: <ulink
-      url="http://gstreamer.freedesktop.org/documentation/plugins.html">http://gstreamer.freedesktop.org/documentation/plugins.html</ulink>.</para>
-    </note>
+    recording and playback.The easist way to install is to install the package 
+    "ubuntu-restricted-extras".It also contains lots of other restricted softwares,which may be
+    need a licenss. </para>
 
     <para>Other applications, such as VLC, MPlayer and Xine, do not use the
     Gstreamer framework.</para>
@@ -1031,17 +1005,6 @@
         <emphasis role="strong">Synaptic Package Manager</emphasis>. The
         <emphasis role="strong">Synaptic Package Manager</emphasis> window
         opens.</para>
-
-        <figure float="0">
-          <title>Launching Synaptic Package Manager</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_040.png" format="PNG"
-                         width="11.5cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
       </step>
 
       <step performance="required">
@@ -1144,128 +1107,8 @@
         either search for a specific software package manually or run a search
         using the search utility provided in the Synaptic Package Manager. To
         initiate a search for a specific package, click <emphasis
-        role="strong">Search.</emphasis></para>
-
-        <figure float="0">
-          <title>Initiating Software Search</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_046.png" format="PNG"
-                         width="15cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>In the <emphasis role="strong">Search</emphasis> field, enter
-        the name of the software package that you are looking for. Click
-        <emphasis role="strong">Search</emphasis> to begin the search.</para>
-
-        <figure float="0">
-          <title>Searching a Software Package</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_047.png" format="PNG"
-                         width="6cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>The search results are displayed in the right pane of the
-        Synaptic package Manager window. Right-click the package to be
-        installed and select <emphasis role="strong">Mark for
-        Installation</emphasis>.</para>
-
-        <figure float="0">
-          <title>Marking Packages for Installation</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_048.png" format="PNG"
-                         width="13.5cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>You can mark multiple packages for installation by following the
-        same procedure. Once all the required packages are marked, click
-        <emphasis role="strong">Apply</emphasis> to start downloading the
-        packages. The <emphasis role="strong">Summary</emphasis> dialogue box
-        is displayed.</para>
-
-        <figure float="0">
-          <title>Initiating Package Download</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_049.png" format="PNG"
-                         width="13.5cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>The <emphasis role="strong">Summary</emphasis> dialogue box
-        allows you to take a last look at all the software packages that you
-        have marked for installation. To go ahead with the marked
-        installations, click <emphasis role="strong">Apply.</emphasis></para>
-
-        <figure float="0">
-          <title>Conforming Package Installation</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_050.png" format="PNG"
-                         width="8cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>After all the marked software packages are downloaded and
-        installed, the <emphasis role="strong">Changes Applied</emphasis>
-        dialogue box is displayed. Click <emphasis
-        role="strong">Close</emphasis> to exit the <emphasis
-        role="strong">Changes Applied</emphasis> dialogue box.</para>
-
-        <figure float="0">
-          <title>Changes Applied Notification</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_051.png" format="PNG"
-                         width="7cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>The check box corresponding to the recently installed software
-        package has changed to green, indicating that the software has been
-        installed successfully. You can repeat the same procedure to install
-        all the multimedia codecs required for playing proprietary multimedia
-        formats.</para>
-
-        <figure float="0">
-          <title>Software Successfully Installed</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_052.png" format="PNG"
-                         width="15cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
+        role="strong">Search.</emphasis>,and begain to install 
+        "ubuntu-restricted-extras" just like in lession 3.</para>
       </step>
     </procedure>
   </sect1>

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-29 15:59+0800\n"
-"PO-Revision-Date: 2009-12-30 13:21+0800\n"
+"PO-Revision-Date: 2009-12-31 16:41+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -642,7 +642,7 @@ msgstr "温馨提示："
 
 #: chapter7/xinclude.xml:642(para)
 msgid "The GIMP mascot is a coyote named Wilber. He provides useful tips while you use the application. If you do not want to see the tips, clear the <emphasis role=\"strong\">Show tip next time GIMP starts</emphasis> check box."
-msgstr "GIMP 的吉祥物是一只名为威尔伯的狼。单击 <emphasis role=\"strong\">图形</emphasis> 菜单上的<emphasis role=\"strong\">日积月累</emphasis>。将打开 <emphasis role=\"strong\">GIMP 日积月累</emphasis> 对话框。在您使用该应用程序的过程中，它将为您提供一些有用的提示消息。"
+msgstr "GIMP 的吉祥物是一只名为威尔伯的狼。单击 <emphasis role=\"strong\">帮助</emphasis> 菜单上的<emphasis role=\"strong\">日积月累</emphasis>。将打开 <emphasis role=\"strong\">GIMP 日积月累</emphasis> 对话框。在您使用该应用程序的过程中，它将为您提供一些有用的提示消息。"
 
 #: chapter7/xinclude.xml:650(para)
 msgid "To open an image for modification, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open</emphasis> and select the image you want to modify."
