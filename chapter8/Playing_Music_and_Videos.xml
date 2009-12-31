@@ -1372,23 +1372,6 @@
         </step>
 
         <step performance="required">
-          <para>The <emphasis role="strong">Volume Control
-          Preferences</emphasis> dialogue box allows you refine the sound
-          settings by selecting or clearing the various options. Click the
-          <emphasis role="strong">Close</emphasis> button to exit this
-          dialogue box.</para>
-
-          <figure float="0">
-            <title>Configuring Sound Settings</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/chapter9_image_063.png"
-                           format="PNG" width="4cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-
           <para>You are returned to the <emphasis role="strong">Sound
           Recorder</emphasis> window. Now, you can start recording the audio
           from the selected input device by clicking the <emphasis
