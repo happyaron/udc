@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-07 15:34-0500\n"
-"PO-Revision-Date: 2009-12-31 15:44+0800\n"
+"PO-Revision-Date: 2009-12-31 22:15+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1179,15 +1179,15 @@ msgstr "新音频工程窗口"
 # bushihenqingchu
 #: chapter8/xinclude.xml:814(para)
 msgid "Now you need to specify the files that you want to be copied onto the blank CD. To start specifying the desired audio files, click the <emphasis role=\"strong\">Music</emphasis> folder. This displays the contents of any items previously imported. Double-click the title of the folder where the music files are located. The files are listed in the middle window. You can now add files to the project using any of the methods described in the right side window."
-msgstr "现在需要指定预刻录的文件。点击 <emphasis role=\"strong\">Music</emphasis> 展开，在其下指定音频文件。此选项下还显示先前导入过的内容。双击含有音乐文件的文件夹，该文件夹下的文件将在中间窗口列出。用户可以使用右边窗口中列出的方法向项目中添加文件。"
+msgstr "现在需要指定预刻录的文件。点击 <emphasis role=\"strong\">添加到项目(绿色加号)</emphasis> 按钮。显示 <emphasis role=\"strong\">选择文件</emphasis> 对话框。在其中选择要添加的音频文件，并点击 <emphasis role=\"strong\">添加</emphasis> 按钮。可以多次使用此添加方法以添加不同文件夹下的音频文件。"
 
 #: chapter8/xinclude.xml:822(title)
 msgid "Specifying Audio Files to Copy"
-msgstr "指定要复制的音频文件"
+msgstr "选择文件"
 
 #: chapter8/xinclude.xml:834(para)
 msgid "The selected files now appear in the project window. You can also view the estimated disc usage once these files are written to the disc at the bottom of the project window. Based on this data, you may decide to add or delete some files from your current selection. Once you are sure of the files to be copied to the disc, click the <emphasis role=\"strong\">Burn</emphasis> button to start writing the audio files from your computer to the CD."
-msgstr "选中的文件将显示在项目窗口中。也可以在项目窗口底部查看这些文件写入光盘后将占用的磁盘空间。可以根据这一数据添加或删除一些文件。确定好预刻录的文件后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始向 CD 写入音频文件。"
+msgstr "选中的文件将显示在项目窗口中。也可以在项目窗口底部查看这些文件写入光盘后的播放时间。可以根据这一数据添加或删除一些文件。在这个窗口中也可以编辑新光盘的卷标，同时也可以选择是刻录到光盘镜像还是刻录到物理光盘。确定好预刻录的文件后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:843(title)
 msgid "Writing Audio Files to Disc"
