@@ -345,6 +345,18 @@
           <emphasis role="strong">Network</emphasis>. The <emphasis
           role="strong">Network Settings</emphasis> dialogue box will be
           displayed.</para>
+
+          <figure float="0" id="fig-wireless">
+            <title>Wireless Option Page</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_073.png"
+                           format="PNG" width="6cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+
         </step>
 
         <step performance="required">
@@ -353,8 +365,8 @@
           Cable Connection</emphasis> section to connect to the
           Internet.</para>
 
-          <figure float="0" id="fig-wireless">
-            <title>Choosing a Wireless Connection</title>
+          <figure float="0">
+            <title>Wireless dialog</title>
 
             <mediaobject>
               <imageobject>
@@ -363,14 +375,57 @@
               </imageobject>
             </mediaobject>
           </figure>
+        </step>
+        <step performance="required">
+          <para>Input the name of connection.</para>
+        </step>
+        <step performance="required">
+          <para>SSID option and architecture</para>
+        </step>
+        <step performance="required">
+          <para>Security Options</para>
+        </step>
+        <step performance="required">
+          <para>Security Options</para>
+        </step>
+        <step performance="required">
+          <para>Clear the <emphasis role="strong">Enable roaming
+          mode</emphasis> check box to enable the connection.</para>
 
-          <para>Alternatively, left-click on Network Manager and discover any
-          detected wireless networks in range.</para>
+          <substeps performance="required">
+            <step performance="required">
+              <para>In the <emphasis role="strong">Configuration</emphasis>
+              box, select the <emphasis role="strong">Static IP
+              address</emphasis> option.</para>
+            </step>
+
+            <step performance="required">
+              <para>Type the IP address of your computer in the <emphasis
+              role="strong">IP address</emphasis> box.</para>
+            </step>
+
+            <step performance="required">
+              <para>Type the subnetwork (subnet) mask of your computer's IP
+              address in the <emphasis role="strong">Subnet mask</emphasis>
+              box.</para>
+            </step>
+
+            <step performance="required">
+              <para>Type the IP address of your ISP in the <emphasis
+              role="strong">Gateway address</emphasis> box.</para>
+            </step>
+          </substeps>
+        </step>
+        <step performance="required">
+          <para>Press OK to complete wireless configuration.</para>
         </step>
       </procedure>
 
+      <para>Another way to configure.</para>
+
       <tip>
         <title>Nice to Know:</title>
+        <para>Another way to configure.</para>
 
         <para>To view the complete list of wireless cards that work with
         Ubuntu, refer to: <ulink
