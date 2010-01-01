@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2009-12-31 23:04+0800\n"
+"PO-Revision-Date: 2010-01-01 18:29+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1342,7 +1342,7 @@ msgstr "启动录音机(Sound Recorder)"
 
 #: chapter8/xinclude.xml:1222(para)
 msgid "Sound Recorder allows you to record and play .flac, .ogg, and .wav audio files. To start a recording session, you need to select an input device, such as a microphone, phone or line-in, from the <emphasis role=\"strong\">Record from input</emphasis> drop-down list. You can also select the audio quality from the Record as drop-down list."
-msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。从 <emphasis role=\"strong\">从输入录音</emphasis> 下拉列表中选择输入设备开始录音，可以从话筒、电话或线路等输入。可以从录音下拉列表中选择音频质量。"
+msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。可以从 <emphasis role=\"strong\">录音为</emphasis> 下拉列表中选择音频质量。"
 
 #: chapter8/xinclude.xml:1230(title)
 msgid "Selecting the Input Device"
@@ -1358,11 +1358,11 @@ msgstr "音量控制"
 
 #: chapter8/xinclude.xml:1257(para)
 msgid "You use the slider buttons on the tracks to set the volume control for all the audio input and output devices. To further specify your volume preferences, click Preferences on the Edit menu. This opens the <emphasis role=\"strong\">Volume Control Preferences</emphasis> dialogue box."
-msgstr "使用曲目上的滑动按钮为所有输入和输出设备设置音量控制。要进一步设置音量，点击编辑菜单上的首选项打开 <emphasis role=\"strong\">音量控制首选项</emphasis>。"
+msgstr "使用对话框上的 <emphasis role=\"strong\">输出音量</emphasis> 滑动条为输出设备设置音量控制。"
 
 #: chapter8/xinclude.xml:1264(title)
 msgid "Displaying Volume Preferences"
-msgstr "显示声音首选项"
+msgstr "声音首选项"
 
 #: chapter8/xinclude.xml:1275(para)
 msgid "You are returned to the <emphasis role=\"strong\">Sound Recorder</emphasis> window. Now, you can start recording the audio from the selected input device by clicking the <emphasis role=\"strong\">Record</emphasis> button. The recording starts."
@@ -2029,7 +2029,7 @@ msgstr "使用 Pitivi 视频编辑器编辑视频："
 # 此处有版本号
 #: chapter8/xinclude.xml:2386(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Pitivi Video Editor</emphasis>. The <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Pitivi 视频编辑器</emphasis>。将打开 <emphasis role=\"strong\">Pitivi vo 11.1</emphasis> 窗口。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Pitivi 视频编辑器</emphasis>。将打开 <emphasis role=\"strong\">Pitivi 0.13.3</emphasis> 窗口。"
 
 # task bar 疑为 tool bar
 #: chapter8/xinclude.xml:2394(para)
@@ -2058,7 +2058,7 @@ msgstr "查看导入的视频"
 
 #: chapter8/xinclude.xml:2446(para)
 msgid "To edit the imported video clip, you need to drag them to the bottom pane to add them to the time line and then select the <emphasis role=\"strong\">Project Settings</emphasis> option from the <emphasis role=\"strong\">File</emphasis> menu. This opens the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box."
-msgstr "要编辑导入的视频剪辑，您需要将其拖动到底部嵌板以添加它们到时间线上，然后从 <emphasis role=\"strong\">文件</emphasis> 菜单选择 <emphasis role=\"strong\">项目设置</emphasis> 选项，打开 <emphasis role=\"strong\">项目设置</emphasis> 对话框。"
+msgstr "要编辑导入的视频剪辑，您需要将其拖动到底部嵌板以添加它们到时间线上，然后从 <emphasis role=\"strong\">工程</emphasis> 菜单选择 <emphasis role=\"strong\">工程设置</emphasis> 选项，打开 <emphasis role=\"strong\">工程设置</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2454(title)
 msgid "Displaying the Project Settings Dialogue Box"
@@ -2066,7 +2066,7 @@ msgstr "显示工程设置对话框"
 
 #: chapter8/xinclude.xml:2465(para)
 msgid "In the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box, you can edit the various aspects of the selected movie clip by defining various specifications according to your preferences. You can use the <emphasis role=\"strong\">Video Output</emphasis> section to define the height, width and the frame rate of the video. Similarly, you can define the audio specifications under the <emphasis role=\"strong\">Audio Output</emphasis> section. Click <emphasis role=\"strong\">OK</emphasis> after specifying your preferences."
-msgstr "在 <emphasis role=\"strong\">项目设置</emphasis> 对话框中，可通过定义参数设置电影剪辑的多个属性。可以使用 <emphasis role=\"strong\">视频输出</emphasis> 节定义视频的高度、宽度和帧速率。类似地，可以在 <emphasis role=\"strong\">音频输出</emphasis> 节下定义音频参数。制定好之后点击 <emphasis role=\"strong\">确定</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">工程设置</emphasis> 对话框中，可通过定义参数设置电影剪辑的多个属性。可以使用 <emphasis role=\"strong\">视频输出</emphasis> 节定义视频的高度、宽度和帧速率。类似地，可以在 <emphasis role=\"strong\">音频输出</emphasis> 节下定义音频参数。制定好之后点击 <emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter8/xinclude.xml:2476(title)
 msgid "Specifying Edit Preferences"
@@ -2074,7 +2074,7 @@ msgstr "设定编辑首选项"
 
 #: chapter8/xinclude.xml:2487(para)
 msgid "You return to the Pitivi window. To start applying your specifications on the selected video clip, click the <emphasis role=\"strong\">Render project</emphasis> button. This displays the <emphasis role=\"strong\">Render project</emphasis> dialogue box. You can use the <emphasis role=\"strong\">Modify</emphasis> button on the <emphasis role=\"strong\">Render project</emphasis> dialogue box to further modify your specifications for the video clip. Otherwise, click the <emphasis role=\"strong\">Choose file</emphasis> button to specify a file name for the edited video clip."
-msgstr "返回到 Pitivi 窗口。点击 <emphasis role=\"strong\">渲染项目</emphasis> 按钮对视频剪辑应用该设定。显示 <emphasis role=\"strong\">渲染项目</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染项目</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮对视频剪辑做进一步的修改。最后点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
+msgstr "返回到 Pitivi 窗口。点击 <emphasis role=\"strong\">渲染工程</emphasis> 按钮对视频剪辑应用该设定。显示 <emphasis role=\"strong\">渲染工程</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染工程</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮对视频剪辑做进一步的修改。最后点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
 
 #: chapter8/xinclude.xml:2497(title)
 msgid "Specifying the Output File"
@@ -2088,9 +2088,10 @@ msgstr "此操作打开 <emphasis role=\"strong\">选择文件以渲染</emphasi
 msgid "Selecting the File to Render to"
 msgstr "选择要渲染的文件"
 
+# 原文有误 record 按钮
 #: chapter8/xinclude.xml:2525(para)
 msgid "The name of the file now appears on the <emphasis role=\"strong\">Output file</emphasis> button. Start editing the video clip by clicking the <emphasis role=\"strong\">Record</emphasis> button."
-msgstr "文件的名字出现在 <emphasis role=\"strong\">输出文件</emphasis> 按钮上。通过点击 <emphasis role=\"strong\">录像</emphasis> 按钮开始编辑。"
+msgstr "文件的名字出现在 <emphasis role=\"strong\">输出文件</emphasis> 按钮上。通过点击 <emphasis role=\"strong\">渲染</emphasis> 按钮开始编辑。"
 
 #: chapter8/xinclude.xml:2530(title)
 msgid "Editing the Video File"
@@ -2098,7 +2099,7 @@ msgstr "编辑视频文件"
 
 #: chapter8/xinclude.xml:2541(para)
 msgid "The Pitivi Video Editor has started rendering a new project based on your specifications. You can view the progress of the process in the progress bar. Once the rendering is complete, click the Close button on the top-right corner to exit the <emphasis role=\"strong\">Render project</emphasis> dialogue box."
-msgstr "根据设定，Pitivi 视频编辑器开始渲染新工程。可以在进度条上查看处理的进度。渲染完成后，点击右上角的关闭按钮退出 <emphasis role=\"strong\">渲染</emphasis> 对话框。"
+msgstr "根据设定，Pitivi 视频编辑器开始渲染新工程。可以在进度条上查看处理的进度。渲染完成后，点击右上角的关闭按钮退出 <emphasis role=\"strong\">渲染工程</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2547(title)
 msgid "Project Rendering Progress Indicator"
