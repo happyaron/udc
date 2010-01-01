@@ -88,7 +88,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_001.png"
-                           format="PNG" width="12cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -105,7 +105,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_002.png"
-                           format="PNG" width="11cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -134,7 +134,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_003.png"
-                           format="PNG" width="11cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -185,7 +185,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_005.png"
-                           format="PNG" width="14cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -207,7 +207,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_006.png"
-                           format="PNG" width="13cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -228,7 +228,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_007.png"
-                           format="PNG" width="13cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -327,7 +327,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_012.png"
-                           format="PNG" width="11cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -400,7 +400,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_015.png"
-                           format="PNG" width="13.5cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -418,7 +418,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_016.png"
-                           format="PNG" width="13.5cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -464,7 +464,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_018.png"
-                           format="PNG" width="15cm" />
+                           format="PNG" width="13.5cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -851,19 +851,7 @@
         displays. Click the <emphasis role="strong">Audio Project</emphasis>
         button. You will need to navigate to the folder containing the audio tracks
         you wish to add to the new CD project.</para>
-
-        <figure float="0">
-          <title>Starting a new Audio Project</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_033.png" format="PNG"
-                         width="10cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
     
-
         <figure float="0">
           <title>The New Audio Project window</title>
 
@@ -1093,7 +1081,7 @@
           <mediaobject>
             <imageobject>
               <imagedata fileref="images/chapter9_image_045.png" format="PNG"
-                         width="5cm" />
+                         width="10cm" />
             </imageobject>
           </mediaobject>
         </figure>
@@ -1870,7 +1858,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_081.png"
-                           format="PNG" width="6cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -2519,7 +2507,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_106.png"
-                           format="PNG" width="15cm" />
+                           format="PNG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -2695,7 +2683,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_112.png"
-                           format="PNG" width="15cm" />
+                           format="PNG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -2767,7 +2755,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_116.png"
-                           format="PNG" width="9cm" />
+                           format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
