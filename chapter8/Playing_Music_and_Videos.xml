@@ -779,24 +779,6 @@
         </step>
 
         <step performance="required">
-          <para>Sound Juicer notifies you after the selected tracks are
-          extracted successfully. Click <emphasis
-          role="strong">Open</emphasis> to view the tracks copied on your hard
-          disk.</para>
-
-          <figure float="0">
-            <title>Viewing Copied Tracks</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/chapter9_image_029.png"
-                           format="PNG" width="10cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
           <para>The CD audio tracks are now copied as audio files on your hard
           disk. You can listen to these tracks by simply double-clicking
           them.</para>

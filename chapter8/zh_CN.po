@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2010-01-01 21:10+0800\n"
-"PO-Revision-Date: 2010-01-02 13:25+0800\n"
+"PO-Revision-Date: 2010-01-02 21:18+0800\n"
 "Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -937,7 +937,7 @@ msgstr "WAV：WAV 是 Waveform Audio Format (波形音频格式)的缩写。它�
 # 根据9.10进行了更改
 #: chapter8/xinclude.xml:449(para)
 msgid "Sound Juicer is the default application available in Ubuntu for playing and extracting audio compact discs (CDs). It is an easy-to-use CD player and ripping tool that requires minimal user intervention in playing and extracting audio CDs. Using Sound Juicer, you can play audio tracks directly from the CD and extract audio tracks and convert them into audio files. Sound Juicer allows you to extract audio files into the following three formats: <placeholder-1/>"
-msgstr "音乐榨汁机(Sound Juicer)是 Ubuntu 中的一款提取或播放 CD 的应用程序。它是一个易用的 CD 播放器和抓取工具，播放中很少需要用户交互。使用音乐榨汁机，您可以直接从 CD 播放音轨也可以提取音轨并转换成音频文件。您可以使用 Ubuntu 软件中心或者新立得软件包搜索并安装“sound juice”。除了可以直接调用音乐榨汁机，向 Rhythmbox 音乐播放器中导入音频光盘时也会调用音乐榨汁机。音乐榨汁机允许您以如下三种格式提取音频文件：<placeholder-1/> "
+msgstr "音乐榨汁机(Sound Juicer)是 Ubuntu 中的一款提取或播放 CD 的应用程序。它是一个易用的 CD 播放器和抓取工具，播放中很少需要用户交互。使用音乐榨汁机，您可以直接从 CD 播放音轨也可以提取音轨并转换成音频文件。您可以使用 Ubuntu 软件中心或者新立得软件包管理器搜索并安装“sound juice”。除了可以使用音乐榨汁机外，也可以使用 Rhythmbox 音乐播放器提取音频光盘。音乐榨汁机允许您以如下三种格式提取音频文件：<placeholder-1/> "
 
 #: chapter8/xinclude.xml:485(ulink)
 msgid "http://www.vorbis.com/faq/"
@@ -1087,7 +1087,7 @@ msgstr "查看复制的曲目"
 #: chapter8/xinclude.xml:738(para)
 #: chapter8/xinclude.xml:3012(para)
 msgid "The CD audio tracks are now copied as audio files on your hard disk. You can listen to these tracks by simply double-clicking them."
-msgstr "CD 音频曲目现在复制为了一个硬盘上的音频文件。通过双击曲目便可播放。"
+msgstr "刻录完成后，CD 音频曲目现在复制为了硬盘上的音频文件。通过双击曲目便可播放。"
 
 #: chapter8/xinclude.xml:743(title)
 msgid "The Copied Tracks"
