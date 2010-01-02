@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 20:12+0800\n"
-"PO-Revision-Date: 2009-12-29 20:37+0800\n"
+"PO-Revision-Date: 2010-01-02 20:02+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -616,7 +616,7 @@ msgstr "使用 RSS 新闻阅读器"
 
 #: chapter3/xinclude.xml:24(para)
 msgid "Send and receive e-mail messages"
-msgstr "发送和接收电子邮件信息"
+msgstr "发送和接收电子邮件"
 
 #: chapter3/xinclude.xml:28(para)
 msgid "Use various tools for instant messaging"
@@ -637,9 +637,7 @@ msgid ""
 "It is recommended to cover all the topics in this lesson. However, if you "
 "are running short on time, you can omit the following optional topics: Using "
 "Dial-up, Alternative E-mail Client."
-msgstr ""
-"推荐完整地学习本课程里所有的话题。不过，如果您时间有限，可以省略以下可选的话"
-"题：使用拨号终端，可选的 E-mail 客户端。"
+msgstr "推荐您完整地学习本课所有的内容。不过，如果时间有限，可以省略以下的内容：使用拨号终端，可选的 E-mail 客户端。"
 
 #: chapter3/xinclude.xml:45(title)
 msgid "Connecting to and Using the Internet"
@@ -665,12 +663,7 @@ msgid ""
 "you. Ubuntu supports most connection types. This lesson will cover: "
 "Broadband (cable or ASDL), dial-up and direct access through Local Area "
 "Network (LAN)."
-msgstr ""
-"连接到互联网并不总是仅仅作一个选择，它很大程度上还依赖于您居住或工作的地方，"
-"以及其周围的基础设施。连接到互联网的前提是您向一个网络服务提供商(ISP)注册您所"
-"在区域内可用的一种网络连接方式。连接并不需要您过多的参与，Ubuntu 支持绝大部分"
-"的连接类型。本课将会涵盖：宽带(电缆或 ADSL)、拨号上网和通过本地局域网(LAN)直"
-"接访问。"
+msgstr "如何连接到互联网并不是随心所欲的，它很大程度上还取决于您居住或工作的地方，以及其周围的网络基础设施。并且前提是您有一个可以使用的上网账号，以及周围有可用的网络连接。连接并不需要您过多的参与，Ubuntu 支持绝大部分的连接类型。本课涵盖了：宽带(电缆或 ADSL)、拨号上网和通过本地局域网(LAN)直接访问。"
 
 #: chapter3/xinclude.xml:62(para)
 msgid ""
@@ -681,11 +674,7 @@ msgid ""
 "does not have one pre-installed, you will need to install a wireless card. "
 "This connection is similar to a satellite connection, where data is "
 "transmitted through the airwaves."
-msgstr ""
-"宽带连接快速而可靠，开通的用户需要每月缴纳使用费。宽带公司提供具有各种网速规"
-"格和带宽限制的服务套餐。如果您旅行的时候需要接入互联网，可以订购无线互联网连"
-"接业务。如果计算机没有预装，您还要安装一个无线网卡。这种连接和卫星通讯相似，"
-"数据是通过电波传送的。"
+msgstr "宽带连接快速而可靠，开通的用户需要每月缴纳使用费。宽带公司提供不同带宽和流量搭配的服务套餐。如果需要出门在外的时候接入互联网，您可以订购无线互联网业务。如果计算机没有预装无线网卡，您还要安装一个。这种连接和卫星通讯相似，数据都是通过电波传送的。"
 
 #: chapter3/xinclude.xml:70(para)
 msgid ""
@@ -696,12 +685,7 @@ msgid ""
 "Consequently, you cannot make phone calls while you are connected to the "
 "Internet. This is the oldest and slowest means of connecting; carrying out "
 "many functions using this mode can be very tedious and frustrating."
-msgstr ""
-"拨号上网使用和您电话连接相同的线路，语打电话不同的是它两端都是电脑。这是一种"
-"是您通过电话线连接到本地服务器的慢速和便宜的方案。您的电脑需要拨一个网络服务"
-"提供商指定的电话号码来连接到服务器。所以，您在上网的同时是不能打电话的。这是"
-"最古老最缓慢的连接方法，在这种方式下使用许多服务是很乏味的，甚至会有些难以忍"
-"受。"
+msgstr "拨号上网和您的电话使用相同的线路，与打电话不同的是两端都是电脑。这是一种是通过电话线连接到本地服务器的方案，速度慢但是便宜。您的计算机需要拨一个网络服务提供商指定的电话号码来连接到服务器。所以，您在上网的同时是不能打电话的。这是最古老最缓慢的连接方式，在这种方式下使用许多服务是很乏味的，甚至会难以忍受。"
 
 #: chapter3/xinclude.xml:80(title) chapter3/xinclude.xml:93(title)
 msgid "Network Manager"
@@ -717,21 +701,14 @@ msgid ""
 "the password. The password can then be stored in your keyring, where it will "
 "automatically be used when needed. However, you may be asked for your "
 "keyring password if you have to log out."
-msgstr ""
-"Ubuntu 上的网络管理器是一个使用简单且功能强大的工具。它位于顶部菜单栏的右侧。"
-"用左键点击它就可以查看您的计算机是否已经连接到一个有线或无线的网络。如果是一"
-"个有密码保护的无线网络，则会弹出一个对话框要求您输入密码。这个密码可以存储在"
-"您的密钥环中，将来需要时会自动使用。然而，当您注销并再次登录时可能需要提供密"
-"钥环密码以对其解锁。"
+msgstr "Ubuntu 上的网络管理器是一个使用简单但功能强大的工具。它位于顶部面板的右侧。用左键点击它就可以查看您的计算机是否已经连接到一个有线或无线的网络。如果是一个有密码保护的无线网络，则会弹出一个对话框要求您输入密码。这个密码可以存储在密钥环中，再次连接时就不必输入密码了。不过，当您注销并再次登录后需要提供密钥环密码，以确保安全。"
 
 #: chapter3/xinclude.xml:102(para)
 msgid ""
 "You can also right-click on Network Manager to enable and disable wireless "
 "and wired connections. The connection information allows access to the "
 "network parameters currently used."
-msgstr ""
-"您也可以右击网络管理器来启用或禁用无线和有线连接。“连接信息”允许您查看当前使"
-"用网络的网络参数。"
+msgstr "您也可以右击网络管理器来启用或禁用无线或有线连接。“连接信息”里您可以看到当前使用的网络的参数。"
 
 #: chapter3/xinclude.xml:107(title)
 msgid "Network Manager Connection"
@@ -758,10 +735,7 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong"
 "\">Network</emphasis>. The <emphasis role=\"strong\">Network Settings</"
 "emphasis> dialogue box will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单上，用鼠标指向 <emphasis "
-"role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络</"
-"emphasis>。<emphasis role=\"strong\">网络设置</emphasis> 对话框就会出现。"
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络</emphasis>，弹出 <emphasis role=\"strong\">网络设置</emphasis> 对话框。"
 
 #: chapter3/xinclude.xml:133(title)
 msgid "Accessing Network Settings"
@@ -803,10 +777,7 @@ msgid ""
 "provide you with an IP address. If a Static IP address is required, it will "
 "be provided by your network administrator. The following steps are for "
 "setting up a static IP address."
-msgstr ""
-"绝大多数宽带提供商会使用动态主机控制协议(DHCP)来提供给您一个 IP 地址。如果需"
-"要静态 IP 地址，那么它会由网络管理员提供。接下来的步骤用于设定一个静态 IP 地"
-"址。"
+msgstr "绝大多数宽带提供商会使用动态主机控制协议(DHCP)来提供给您一个 IP 地址。如果需要使用静态 IP 地址，网络管理员应该会提供给您一个。接下来的步骤用于设定使用静态 IP 地址的连接。"
 
 #: chapter3/xinclude.xml:169(para) chapter3/xinclude.xml:379(para)
 msgid ""
@@ -836,20 +807,19 @@ msgstr ""
 msgid ""
 "A subnet mask divides a network of IP addresses into groups, which "
 "facilitates routing of data."
-msgstr "子网掩码将一个 IP 地址段的网络为多个组，从而有利于进行数据路由选择。"
+msgstr "子网掩码将一个 IP 地址段分为多个组，便于路由选择。"
 
 #: chapter3/xinclude.xml:192(para) chapter3/xinclude.xml:395(para)
 msgid ""
 "Type the IP address of your ISP in the <emphasis role=\"strong\">Gateway "
 "address</emphasis> box."
-msgstr ""
-"在 <emphasis role=\"strong\">网关</emphasis> 框中输入您的服务商的 IP 地址。"
+msgstr "在 <emphasis role=\"strong\">网关</emphasis> 框中输入您的服务商的 IP 地址。"
 
 #: chapter3/xinclude.xml:197(para)
 msgid ""
 "A gateway is a device that connects a user to the Internet. It is provided "
 "by the ISP."
-msgstr "网关是一个将用户与互联网相连接的设备。它由服务商提供。"
+msgstr "网关是将用户与互联网相连接的设备，由服务商提供。"
 
 #: chapter3/xinclude.xml:202(title)
 msgid "eth0 Properties"
@@ -871,12 +841,7 @@ msgid ""
 "simply need to select <emphasis role=\"strong\">Automatic Configuration "
 "(DHCP)</emphasis> from the <emphasis role=\"strong\">Configuration</"
 "emphasis> drop down menu."
-msgstr ""
-"如果您的互联网提供商使用DHCP(动态主机连接协议)，但您需要使用额外的 DNS 服务，"
-"那么您只需在 <emphasis role=\"strong\">IPv4 设置</emphasis> 的 <emphasis "
-"role=\"strong\">方法</emphasis> 拉菜单中选择 <emphasis role=\"strong\">自动配"
-"置(DHCP)仅地址</emphasis>，然后在 <emphasis role=\"strong\">DNS 服务器</"
-"emphasis> 一栏中依次输入服务器的地址，并用英文逗号分隔多个服务器地址即可。"
+msgstr "如果您的互联网提供商使用 DHCP(动态主机连接协议)，但您需要额外的 DNS 服务，那么只需在 <emphasis role=\"strong\">IPv4 设置</emphasis> 的 <emphasis role=\"strong\">方法</emphasis> 下拉列表中选择 <emphasis role=\"strong\">自动配置(DHCP)仅地址</emphasis>，然后在 <emphasis role=\"strong\">DNS 服务器</emphasis> 一栏中依次输入服务器的地址，多个地址之间用逗号分隔。"
 
 #: chapter3/xinclude.xml:237(title)
 msgid "Using a Dial-up Connection"
@@ -901,14 +866,11 @@ msgstr "要使用 ADSL 连接："
 msgid ""
 "Download, configure and install your modem's driver. If an open source "
 "driver is not available, contact your vendor for other options."
-msgstr ""
-"在 </emphsis role=\"strong\">系统</emphasis> 菜单上，用鼠标指向 <emphasis "
-"role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络</"
-"emphasis> 打开 <emphasis role=\"strong\">网络设置</emphasis> 对话框。"
+msgstr "在 </emphsis role=\"strong\">系统</emphasis> 菜单上，用鼠标指向 <emphasis role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络</emphasis>，弹出 <emphasis role=\"strong\">网络设置</emphasis> 对话框。"
 
 #: chapter3/xinclude.xml:255(title)
 msgid "Configure the dial-up connection to your ISP:"
-msgstr "配置 ADSL 连接到您的服务商："
+msgstr "配置 ADSL 连接："
 
 #: chapter3/xinclude.xml:266(para)
 msgid ""
@@ -923,15 +885,13 @@ msgid ""
 "In the <emphasis role=\"strong\">ppp0 Properties</emphasis> dialogue box, "
 "select the <emphasis role=\"strong\">Enable this connection</emphasis> check "
 "box to activate the connection."
-msgstr "点击 <emphasis role=\"strong\">添加</emphasis>，打开编辑连接对话框。"
+msgstr "点击 <emphasis role=\"strong\">添加</emphasis>，弹出编辑连接对话框。"
 
 #: chapter3/xinclude.xml:290(para)
 msgid ""
 "Specify your ISP's information and your account information, which you can "
 "obtain form your ISP."
-msgstr ""
-"在 <emphasis role=\"strong\">用户名</emphasis> 和 <emphasis role=\"strong\">"
-"密码</emphasis> 框中分别填入服务商提供的信息。"
+msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 和 <emphasis role=\"strong\">密码</emphasis> 框中分别填入您的用户名和密码。"
 
 #: chapter3/xinclude.xml:295(para)
 msgid ""
@@ -953,7 +913,7 @@ msgstr "使用无线网卡"
 
 #: chapter3/xinclude.xml:320(para)
 msgid "Ubuntu automatically detects support for various wireless cards."
-msgstr "Ubuntu 会自动检测各种无线网卡是否支持。"
+msgstr "Ubuntu 会自动检测无线网卡是否被支持。"
 
 #: chapter3/xinclude.xml:324(title)
 msgid ""
@@ -966,23 +926,18 @@ msgid ""
 "role=\"strong\">Administration</emphasis> and then click <emphasis role="
 "\"strong\">Network</emphasis>. The <emphasis role=\"strong\">Network "
 "Settings</emphasis> dialogue box will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，鼠标指向 <emphasis role="
-"\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络连接</"
-"emphasis>。弹出 <emphasis role=\"strong\">网络设置</emphasis>对话框，选择 "
-"<emphasis role=\"strong\">无线</emphasis> 选项页。"
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis role=\"strong\">首选项</emphasis> 然后点击 <emphasis role=\"strong\">网络连接</emphasis>。弹出 <emphasis role=\"strong\">网络设置</emphasis> 对话框，选择 <emphasis role=\"strong\">无线</emphasis> 选项页。"
 
 #: chapter3/xinclude.xml:334(title)
 msgid "Wireless Option Page"
-msgstr "无线选项"
+msgstr "无线选项页"
 
 #: chapter3/xinclude.xml:346(para)
 msgid ""
 "If the wireless card on your computer is listed, you can use the same "
 "procedure as listed in the <emphasis role=\"strong\">Using Cable Connection</"
 "emphasis> section to connect to the Internet."
-msgstr ""
-"点击 <emphasis role=\"strong\">添加</emphasis>，弹出编辑网络对话框。"
+msgstr "点击 <emphasis role=\"strong\">添加</emphasis>，弹出编辑网络对话框。"
 
 #: chapter3/xinclude.xml:352(title)
 msgid "Wireless dialog"
@@ -994,14 +949,11 @@ msgstr "输入您想设定的连接名称。"
 
 #: chapter3/xinclude.xml:365(para)
 msgid "SSID option and architecture"
-msgstr "在 <emphasis role=\"strong\">无线</emphasis> 选项页的 SSID 框里输入要连接到"
-"的无线网络的SSID(服务集标识)，然后在模式下拉列表中选择 <emphasis role=\"strong\">架构</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">无线</emphasis> 选项页的 SSID 框里输入要连接到的无线网络的SSID(服务集标识)，然后在 <emphasis role=\"strong\">模式</emphasis> 下拉列表中选择 <emphasis role=\"strong\">架构</emphasis>。"
 
 #: chapter3/xinclude.xml:368(para) chapter3/xinclude.xml:371(para)
 msgid "Security Options"
-msgstr "在 <emphasis role=\"strong\">无线安全性</emphasis> 页的 <emphasis role=\"strong\">"
-"安全性</emphasis> 下拉列表中选择无线网络的加密方式，如 WPA & WPA2.0 个人，然后在密码框中输入密码。"
-"如果您不清楚，请咨询网络管理员或服务商。"
+msgstr "在 <emphasis role=\"strong\">无线安全性</emphasis> 选项卡的 <emphasis role=\"strong\">安全性</emphasis> 下拉列表中选择无线网络的加密方式，如 <emphasis role=\"strong\">WPA & WPA2.0 个人</emphasis>，然后在密码框中输入密码。如果您不清楚，请咨询网络管理员或服务商。"
 
 #: chapter3/xinclude.xml:400(para)
 msgid "Press OK to complete wireless configuration."
@@ -1009,7 +961,7 @@ msgstr "点击 <emphasis role=\"strong\">应用</emphasis> 保存设置。"
 
 #: chapter3/xinclude.xml:404(para) chapter3/xinclude.xml:408(para)
 msgid "Another way to configure."
-msgstr " 另一种方法，单击网络管理器图标，就可以看到附近的无线网络和你手动设置的无线网络，单击您想连接到的网络即可。"
+msgstr "另一种方法，单击网络管理器图标，就可以看到附近的无线网络和你手动设置的无线网络，单击您想连接到的网络即可。"
 
 #: chapter3/xinclude.xml:407(title) chapter3/xinclude.xml:757(title)
 #: chapter3/xinclude.xml:1089(title) chapter3/xinclude.xml:1134(title)
@@ -1023,10 +975,7 @@ msgid ""
 "<ulink url=\"https://help.ubuntu.com/community/WifiDocs/"
 "WirelessCardsSupported\">https://help.ubuntu.com/community/WifiDocs/"
 "WirelessCardsSupported</ulink>."
-msgstr ""
-"要查看能在 Ubuntu 中正常工作的无线网卡的完整列表，请查阅：<ulink url="
-"\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported"
-"\">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>"
+msgstr "要查看能在 Ubuntu 中正常工作的无线网卡的完整列表，请查阅：<ulink url=\"https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported\">https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</ulink>"
 
 #: chapter3/xinclude.xml:414(para)
 msgid ""
@@ -1035,14 +984,11 @@ msgid ""
 "work automatically with Ubuntu. If your wireless network card does not have "
 "an open source driver, you can make it work by using <emphasis role=\"strong"
 "\">ndiswrapper</emphasis>."
-msgstr ""
-"一些无线网卡没有在 Ubuntu 网站上列出来是因为它们没有相应的开源驱动。因此，这"
-"些网卡在 Ubuntu 中不能自动工作。如果您的无线网卡没有开源驱动，可以使用 "
-"<emphasis role=\"strong\">ndiswrapper</emphasis> 来让它工作起来。"
+msgstr "一些无线网卡没有在 Ubuntu 网站上列出来是因为它们没有相应的开源驱动。因此，默认情况下，这些网卡在 Ubuntu 中不能使用，您可以用 <emphasis role=\"strong\">ndiswrapper</emphasis> 来驱动它们。"
 
 #: chapter3/xinclude.xml:421(title)
 msgid "Using Ndiswrapper with a Wireless Card"
-msgstr "用 Ndiswrapper 配合无线网卡工作"
+msgstr "用 Ndiswrapper 驱动无线网卡"
 
 #: chapter3/xinclude.xml:423(para)
 msgid ""
@@ -1052,12 +998,7 @@ msgid ""
 "emphasis>. The <emphasis role=\"strong\">Windows Wireless Drivers</emphasis> "
 "setup programme can be found in <emphasis role=\"strong\">System "
 "Administration</emphasis>."
-msgstr ""
-"Ndiswrapper 是一个 Linux 模块，它允许 Ubuntu 使用 Microsoft Windows 的无线网"
-"卡驱动。ndiswrapper 的配置工具可以很方便地通过<emphasis role=\"strong\">添加/"
-"删除 应用程序</emphasis> 安装。<emphasis role=\"strong\">Windows 无线网卡驱动"
-"</emphasis> 配置程序可以从<emphasis role=\"strong\">系统管理</emphasis> 中找"
-"到。"
+msgstr "Ndiswrapper 是一个 Linux 模块，它允许 Ubuntu 使用 Microsoft Windows 的无线网卡驱动。ndiswrapper 的配置工具可以很方便地通过 <emphasis role=\"strong\">Ubuntu软件中心</emphasis> 安装。<emphasis role=\"strong\">Windows 无线网卡驱动</emphasis> 配置程序在 <emphasis role=\"strong\">系统</emphasis> 的 <emphasis role=\"strong\">系统管理</emphasis> 中。"
 
 #: chapter3/xinclude.xml:434(title)
 msgid "Browsing the Web"
@@ -1065,7 +1006,7 @@ msgstr "浏览网络"
 
 #: chapter3/xinclude.xml:441(title)
 msgid "Launching Firefox Web Browser"
-msgstr "启动 Firefox 网络浏览器"
+msgstr "启动 Firefox 网页浏览器"
 
 #: chapter3/xinclude.xml:436(para)
 msgid ""
@@ -1075,23 +1016,17 @@ msgid ""
 "<emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis "
 "role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong"
 "\">Firefox Web Browser</emphasis>. <placeholder-1/>"
-msgstr ""
-"Mozilla Firefox 是 Ubuntu 默认的网络浏览器。它是开源的，由 Mozilla 公司和许多"
-"社区贡献者共同开发并与 Ubuntu 完全兼容。要打开 Firefox 网络浏览器，请在 "
-"<emphasis role=\"strong\">应用程序</emphasis> 菜单中，使用鼠标指向 <emphasis "
-"role=\"strong\">Internet</emphasis> 然后点击 <emphasis role=\"strong"
-"\">Firefox Web Browser</emphasis>。<placeholder-1/>"
+msgstr "Mozilla Firefox 是 Ubuntu 默认的网页浏览器。它是开源的，由 Mozilla 公司和许多社区贡献者共同开发，与 Ubuntu 完全兼容。要打开 Firefox 网页浏览器，在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，用鼠标指向 <emphasis role=\"strong\">Internet</emphasis> 然后点击 <emphasis role=\"strong\">Firefox Web Browser</emphasis>。<placeholder-1/>"
 
 #: chapter3/xinclude.xml:450(para)
 msgid ""
 "Firefox includes two powerful features that make your online experience more "
 "productive - an integrated search system and bookmarking."
-msgstr ""
-"Firefox 拥有两个强大的特性提高您的上网体验和效率 - 集成的搜索系统和书签功能。"
+msgstr "Firefox 拥有两个可以提高您的上网体验和效率的强大功能 - 集成的搜索系统和书签。"
 
 #: chapter3/xinclude.xml:457(para)
 msgid "Ask students to open this browser and try performing a search."
-msgstr "让学员们打开浏览器并试着进行一次搜索。"
+msgstr "让学员打开浏览器并试着进行一次搜索。"
 
 #: chapter3/xinclude.xml:462(title)
 msgid "Integrated Search"
@@ -1109,11 +1044,7 @@ msgid ""
 "bar and receive immediate answers from the search engine you choose. You can "
 "select a new search engine from the Search bar menu at any time and add "
 "search engines from favourite Web sites. <placeholder-1/>"
-msgstr ""
-"这个特性允许您搜索并找到任何信息。搜索框预设了 Google、Yahoo!、Amazon、eBay、"
-"Answers.com 和 Creative Commons 提供的搜索引擎。您可以在搜索框中输入一个搜索"
-"项并很快得到所选择搜索引擎提供的结果。您可以在任何时候从搜索框菜单里选择一个"
-"新的搜索引擎或添加自己喜欢的网站所提供的搜索引擎。<placeholder-1/>"
+msgstr "这个功能允许您搜索、找到任何信息。搜索框预设了 Google、Yahoo!、Amazon、eBay、Answers.com 和 Creative Commons 等搜索引擎。您可以在搜索框中输入一个关键字，瞬间就能得到所选择的搜索引擎提供的结果。您可以在任何时候从搜索框菜单里选择一个新的搜索引擎，或添加自己喜欢的其他搜索引擎。<placeholder-1/>"
 
 #: chapter3/xinclude.xml:483(title)
 msgid "Search Suggestions"
@@ -1124,9 +1055,7 @@ msgid ""
 "To further ease your search-related tasks, some search engines such as "
 "Google, Yahoo and Answers.com in Firefox, suggest search terms. Begin typing "
 "into the Search bar and a list of suggestions will appear."
-msgstr ""
-"为了使搜索相关的操作更轻松，一些搜索引擎，如 Firefox 中的 Google、Yahoo 和 "
-"Answers.com，提供搜索建议。当您在搜索条中进行输入时，一个建议列表会显示出来。"
+msgstr "为了方便您进行搜索，一些搜索引擎，如预置在 Firefox 中的 Google、Yahoo 和 Answers.com，会提供搜索建议。当您在搜索框中输入时，会显示出你可能感兴趣的其他关键字。"
 
 #: chapter3/xinclude.xml:491(para)
 msgid ""
@@ -1134,16 +1063,13 @@ msgid ""
 "Search bar, a list of suggestions to complete your search keyword is "
 "displayed. So instead of typing the complete term, you can select the "
 "required term from the list. This makes the search easy and quick."
-msgstr ""
-"例如，如果您在搜索框中输入 <emphasis role=\"strong\">king</emphasis>，一个自"
-"动完成您搜索关键词的建议列表会出现。您可以从列表中选择需要的检索项，而不必完"
-"整输入检索词。这个功能使搜索变得简单快捷。"
+msgstr "例如，如果您在搜索框中输入 <emphasis role=\"strong\">king</emphasis> 时，会显示出热门的包含king的关键字列表。您可以从列表中选择需要的搜索项，而不必完整输入它。这个功能将使搜索变得简单快捷。"
 
 #: chapter3/xinclude.xml:496(para)
 msgid ""
 "The following graphic shows a list of suggestions, when you start typing in "
 "the Search bar:"
-msgstr "下面的图显示了当您在搜索框中开始输入时的一个建议列表："
+msgstr "下面的图是在搜索框输入时显示的建议列表："
 
 #: chapter3/xinclude.xml:500(title)
 msgid "List of Suggestions"
@@ -1163,150 +1089,127 @@ msgid ""
 "contains a list of links to other Web pages. You can quickly review the "
 "latest headlines from your favourite sites and click to go directly to "
 "chapters of interest."
-msgstr ""
-"如果您在浏览互联网时碰巧发现了一个感兴趣的网站并希望把它保存下来以便将来访"
-"问，不用试着去记它的网址，建一个书签就可以了。下次只要点击书签链接就可以访问"
-"那个网页。您可以在书签工具栏或菜单里查看网络 Feed，如新闻和博客头条。网络 "
-"Feed 是一个 XML 页，其中包含了一个到其他网页的链接列表。您可以快速查看最喜欢"
-"的网站里的最新头条并通过点击直接访问您感兴趣的部分。"
+msgstr "如果您在浏览互联网时碰巧发现了一个感兴趣的网站并希望把它的网址保存下来以便将来访问，不用试着去背它，建一个书签就可以了。下次只要点击书签就可以访问那个网页。您可以在书签工具栏或菜单里查看网络 Feed，如新闻和博客头条。网络 Feed 是一个 XML 页面，包含了到其他网页的链接列表。您可以快速查看感兴趣的网站里的最新头条，点击就可直接访问感兴趣的内容。"
 
 #: chapter3/xinclude.xml:525(para)
 msgid ""
 "A Bookmark in Firefox, similar to favourites in Internet Explorer, is a "
 "useful browser feature."
-msgstr "Firefox 中的书签，与 IE 中的收藏夹很相似，是一个有用的浏览器特性。"
+msgstr "Firefox 中的书签，与 IE 中的收藏夹很相似，是一个很有用的功能。"
 
 #: chapter3/xinclude.xml:530(title)
 msgid "To create a bookmark in Firefox:"
-msgstr "要在 Firefox 中建立书签："
+msgstr "在 Firefox 中建立书签："
 
 #: chapter3/xinclude.xml:533(para)
 msgid ""
 "Open the Firefox Web browser. On the <emphasis role=\"strong\">Bookmarks</"
 "emphasis> menu, click on <emphasis role=\"strong\">Bookmark this page</"
 "emphasis>."
-msgstr ""
-"打开 Firefox 浏览器。在 <emphasis role=\"strong\">书签</emphasis> 菜单上点击 "
-"<emphasis role=\"strong\">将此页加为书签</emphasis>。"
+msgstr "打开 Firefox 网页浏览器，在 <emphasis role=\"strong\">书签</emphasis> 菜单中单击 <emphasis role=\"strong\">将此页加为书签</emphasis>。"
 
 #: chapter3/xinclude.xml:537(para)
 msgid ""
 "The Bookmarks dialog box will appear. Select a location to save the new "
 "bookmark and add any tags (keywords)."
-msgstr ""
-"书签对话框会出现。选择一个位置来保存这个新书签并添加任意的标签(关键词)。"
+msgstr "弹出 <emphasis role=\"strong\">书签</emphasis> 对话框。选择保存新书签的位置，给它添加标签。"
 
 #: chapter3/xinclude.xml:541(para)
 msgid "Click <emphasis role=\"strong\">Done</emphasis> to save your bookmark."
-msgstr "点击 <emphasis role=\"strong\">完成</emphasis> 来保存您的书签。"
+msgstr "然后单击 <emphasis role=\"strong\">完成</emphasis> 来保存书签。"
 
 #: chapter3/xinclude.xml:545(para)
 msgid ""
 "To sort your bookmarks and create new folders, or categories, select "
 "<emphasis role=\"strong\">Organize Bookmarks</emphasis> from the <emphasis "
 "role=\"strong\">Bookmarks</emphasis> menu."
-msgstr ""
-"要对您的书签排序和创建新的文件夹或分类，从 <emphasis role=\"strong\">书签</"
-"emphasis> 菜单里选择 <emphasis role=\"strong\">管理书签</emphasis>。"
+msgstr "要给书签排序或创建新文件夹，在 <emphasis role=\"strong\">书签</emphasis> 菜单中选择 <emphasis role=\"strong\">管理书签</emphasis>。"
 
 #: chapter3/xinclude.xml:549(title)
 msgid "Using an RSS feed reader"
-msgstr "使用 RSS 阅读器"
+msgstr "使用 Feed 阅读器"
 
 #: chapter3/xinclude.xml:551(para)
 msgid ""
 "News feeds allow you to see when a Web site has added new content. You can "
 "get the latest headlines as soon as it is published without having to visit "
 "the website. These news feeds are known as RSS or Really Simple Syndication."
-msgstr ""
-"您可以在源中查看一个网站新添加的内容。最新头条一发布您就能获得它们而不需访问"
-"网站，这些新闻源称为 RSS。"
+msgstr "您可以在 Feed 中查看一个网站新添加的内容。最新头条一发布您就能看到，而不需访问该网站，这些 Feed 称为 RSS。"
 
 #: chapter3/xinclude.xml:554(title)
 msgid "Liferea Newsreader"
-msgstr "Liferea 新闻阅读器"
+msgstr "Liferea Feed Reader"
 
 #: chapter3/xinclude.xml:559(para)
 msgid "While teaching, demonstrate how to access Liferea."
-msgstr "教学的时候请示范如何访问 Liferea。"
+msgstr "教学时，示范如何访问 Liferea。"
 
 #: chapter3/xinclude.xml:562(para)
 msgid ""
 "Liferea is an online RSS feed reader. It is a fast, easy-to-use and easy-to-"
 "install news accumulator for GTK/GNOME."
-msgstr ""
-"Liferea 是一个在线 RSS 阅读器。它是 GTK/GNOME 下的一个快速、易用和易安装的新"
-"闻聚合软件。"
+msgstr "Liferea 是一个在线 Feed 阅读器。它是 GTK/GNOME 环境中的一个快速、易用、易安装的新闻聚合软件。"
 
 #: chapter3/xinclude.xml:568(para)
 msgid ""
 "You can install Liferea on Ubuntu using the Synaptic Package Manager by "
 "following the procedure described in <emphasis role=\"strong\">Using "
 "Alternative E-Mail Client</emphasis> section."
-msgstr ""
-"您可以按照接下来的 <emphasis role=\"strong\">使用其他可选的电子邮件客户端</"
-"emphasis> 一节里的步骤在 Ubuntu 上使用新立得软件包管理器安装 Liferea。"
+msgstr "您可以按照 <emphasis role=\"strong\">使用其他可选的电子邮件客户端</emphasis> 一节里的步骤使用新立得软件包管理器安装 Liferea。"
 
 #: chapter3/xinclude.xml:573(para)
 msgid ""
 "The Web sites that offer RSS feeds display an RSS feed symbol next to its "
 "URL."
-msgstr "提供 RSS 的网站的 URL 地址旁会显示一个 RSS 标志。"
+msgstr "提供 Feed 的网站的 URL 地址旁会显示一个 Feed 标志。"
 
 #: chapter3/xinclude.xml:577(title)
 msgid "Identifying RSS Feed Providing Web Sites"
-msgstr "辨别提供 RSS 的网站"
+msgstr "识别支持 Feed 的网站"
 
 #: chapter3/xinclude.xml:586(emphasis)
 msgid "Accessing Liferea"
-msgstr "访问 Liferea"
+msgstr "使用 Liferea"
 
 #: chapter3/xinclude.xml:591(para)
 msgid ""
 "You have to search the Web site that offers RSS feeds to access Liferea. "
 "Look through the complete list of newsgroups on your server to search for "
 "the group that interests you."
-msgstr ""
-"您需要搜索提供 RSS 的网站来访问 Liferea。在您的服务器上浏览完整的新闻组列表来"
-"查找感兴趣的组。"
+msgstr "您需要至少一个 Feed 源，看看那些提供 Feed 的网站，或是新闻组，选择其中感兴趣的。"
 
 #: chapter3/xinclude.xml:597(title)
 msgid "To access Liferea:"
-msgstr "要访问 Liferea："
+msgstr "使用 Liferea："
 
 #: chapter3/xinclude.xml:600(para)
 msgid "Open the Web page that offers RSS feeds."
-msgstr "打开提供 RSS 的网页。"
+msgstr "打开提供 Feed 源的网页。"
 
 #: chapter3/xinclude.xml:603(title)
 msgid "Opening RSS Feed Web Page"
-msgstr "打开 RSS 源网页"
+msgstr "打开 Feed 源页面"
 
 #: chapter3/xinclude.xml:614(para)
 msgid ""
 "On this Web page, search for the link that offers RSS feed. Click the link "
 "and save the URL of that link. This URL will be the feed."
-msgstr ""
-"在这个网页上，搜索提供 RSS 的链接，点击链接并保存这个链接的网址。这个网址就"
-"是 Feed。"
+msgstr "在这个网页上找到指向 Feed 源页面的链接，单击进入并保存那个页面的地址。这个地址就是 Feed 源。"
 
 #: chapter3/xinclude.xml:619(title)
 msgid "Searching the Link"
-msgstr "搜索该连接"
+msgstr "找到指向 Feed 源页面的链接"
 
 #: chapter3/xinclude.xml:630(para)
 msgid ""
 "Open Liferea. On the <emphasis role=\"strong\">Applications</emphasis> menu, "
 "point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis "
 "role=\"strong\">Liferea Feed Reader.</emphasis>"
-msgstr ""
-"打开 Liferea。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 "
-"<emphasis role=\"strong\">Internet</emphasis> 然后点击<emphasis role=\"strong"
-"\">Liferea Feed 阅读器</emphasis>"
+msgstr "启动 Liferea。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，用鼠标指向 <emphasis role=\"strong\">Internet</emphasis>，然后单击<emphasis role=\"strong\">Liferea Feed Reader</emphasis>"
 
 #: chapter3/xinclude.xml:633(title)
 msgid "Launching Liferea Feed Reader"
-msgstr "启动 Liferea Feed 阅读器"
+msgstr "启动 Liferea Feed Reader"
 
 #: chapter3/xinclude.xml:644(para)
 msgid ""
@@ -1314,10 +1217,7 @@ msgid ""
 "Liferea window, point to New and click <emphasis role=\"strong\">New "
 "Subscription</emphasis>. The <emphasis role=\"strong\">New Subscription</"
 "emphasis> dialogue box will be displayed."
-msgstr ""
-"要订阅源，在 Liferea 左侧窗格中任何地方右击鼠标，指向 新建 并点击 <emphasis "
-"role=\"strong\">新订阅</emphasis>，<emphasis role=\"strong\">新订阅</"
-"emphasis> 对话框将会显示。"
+msgstr "要订阅源，在 Liferea 左侧窗格中任意位置右击鼠标，指向 新建 并单击 <emphasis role=\"strong\">新订阅</emphasis>，弹出 <emphasis role=\"strong\">新订阅</emphasis> 对话框。"
 
 #: chapter3/xinclude.xml:649(title)
 msgid "Subscribing to RSS Feeds"
@@ -1329,22 +1229,19 @@ msgid ""
 "paste the URL, which is the feed, and click <emphasis role=\"strong\">OK</"
 "emphasis>. You will see a new feed in the <emphasis role=\"strong\">Liferea</"
 "emphasis> window."
-msgstr ""
-"在 <emphasis role=\"strong\">新订阅</emphasis> 对话框中，粘贴订阅源的网址，并"
-"点击 <emphasis role=\"strong\">完成</emphasis>，您会在 <emphasis role="
-"\"strong\">Liferea</emphasis> 窗口中看到一个新的源。"
+msgstr "在 <emphasis role=\"strong\">新订阅</emphasis> 对话框中，粘贴Feed的地址，点击 <emphasis role=\"strong\">完成</emphasis>。您会在 <emphasis role=\"strong\">Liferea</emphasis> 窗口中看到一个新的源。"
 
 #: chapter3/xinclude.xml:665(title)
 msgid "Entering Feed Source"
-msgstr "输入 Feed 源地址"
+msgstr "输入 Feed 地址"
 
 #: chapter3/xinclude.xml:674(para)
 msgid "The following graphic shows the new feed in Liferea."
-msgstr "下面的图显示了 Liferea 里的新 Feed。"
+msgstr "下面的图显示了 Liferea 里的新 RSS 订阅。"
 
 #: chapter3/xinclude.xml:677(title)
 msgid "Viewing New Feeds"
-msgstr "查看新 Feed"
+msgstr "查看新 RSS 订阅"
 
 #: chapter3/xinclude.xml:689(title)
 msgid "The key features of Liferea are as follows:"
