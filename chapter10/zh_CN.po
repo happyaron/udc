@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2009-12-31 23:14+0800\n"
-"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
+"PO-Revision-Date: 2010-01-03 22:05+0800\n"
+"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -111,7 +111,7 @@ msgstr "分区和启动"
 #: chapter10/xinclude.xml:108(title)
 #: chapter10/xinclude.xml:406(title)
 msgid "Note:"
-msgstr "注意："
+msgstr "注："
 
 #: chapter10/xinclude.xml:9(para)
 msgid "Partitioning and Booting is an additional section and not an integral part of the desktop course. Many users, especially corporate desktop users who have system administrators to set up their computers for them will find this section irrelevant. Home users, or advanced Ubuntu users may find this extremely useful."
@@ -200,7 +200,7 @@ msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区
 #: chapter10/xinclude.xml:265(title)
 #: chapter10/xinclude.xml:325(title)
 msgid "Nice to Know:"
-msgstr "小技巧"
+msgstr "小提示："
 
 # ext4
 #: chapter10/xinclude.xml:132(para)
@@ -663,7 +663,7 @@ msgstr "如果想更多地控制系统级启动时服务，请安装启动管理
 
 #: chapter10/xinclude.xml:806(title)
 msgid "Lesson Summary"
-msgstr "课堂总结"
+msgstr "本课小结"
 
 #: chapter10/xinclude.xml:810(para)
 msgid "Partitioning your hard disk is similar to splitting rooms with walls in a house."
@@ -703,7 +703,7 @@ msgstr "本节课学到了：<placeholder-1/>"
 
 #: chapter10/xinclude.xml:858(title)
 msgid "Review Exercise"
-msgstr "考察练习"
+msgstr "复习题"
 
 #: chapter10/xinclude.xml:863(para)
 msgid "What are the advantages of partitioning?"
@@ -774,7 +774,7 @@ msgstr "可以，可以禁用启动应用程序中列出的所有条目，但是
 
 #: chapter10/xinclude.xml:949(title)
 msgid "Lab Exercise"
-msgstr "实验课练习"
+msgstr "上机练习"
 
 #: chapter10/xinclude.xml:952(title)
 msgid "Exercise 1"

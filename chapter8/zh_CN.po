@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2010-01-01 21:10+0800\n"
-"PO-Revision-Date: 2010-01-02 21:18+0800\n"
-"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
+"PO-Revision-Date: 2010-01-03 22:03+0800\n"
+"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -661,7 +661,7 @@ msgstr "播放、编辑和组织音乐视频文件。"
 #: chapter8/xinclude.xml:411(title)
 #: chapter8/xinclude.xml:1875(title)
 msgid "Instructor Notes:"
-msgstr "教学参考："
+msgstr "教员注记："
 
 #: chapter8/xinclude.xml:17(emphasis)
 msgid "It is recommended to cover all the topics in this lesson. However,if you fall short of time then cover only the following topics:"
@@ -763,7 +763,7 @@ msgstr "选择要导入的文件"
 #: chapter8/xinclude.xml:623(title)
 #: chapter8/xinclude.xml:918(title)
 msgid "Nice to Know:"
-msgstr "小技巧："
+msgstr "小提示："
 
 #: chapter8/xinclude.xml:156(para)
 msgid "While importing music files from your music collection, Rhythmbox also imports the metadata tags associated with the files. These tags are used by Rhythmbox to categorise the music files by genre, artist, album, title, and track number."
@@ -857,7 +857,7 @@ msgstr "添加新播客订阅"
 #: chapter8/xinclude.xml:1924(title)
 #: chapter8/xinclude.xml:2122(title)
 msgid "Note:"
-msgstr "注意："
+msgstr "注："
 
 # mohu
 #: chapter8/xinclude.xml:332(para)
@@ -2129,7 +2129,7 @@ msgstr "已编辑的视频剪辑"
 
 #: chapter8/xinclude.xml:2591(title)
 msgid "Lesson Summary"
-msgstr "课堂总结"
+msgstr "本课小结"
 
 #: chapter8/xinclude.xml:2595(para)
 msgid "Software usage and distribution is controlled by laws and legislations unique to each country."
@@ -2315,7 +2315,7 @@ msgstr "新立得软件包管理器或命令终端"
 
 #: chapter8/xinclude.xml:2839(title)
 msgid "Lab Exercise"
-msgstr "实验练习"
+msgstr "上机练习"
 
 #: chapter8/xinclude.xml:2842(title)
 msgid "Exercise 1: Playing Music Using Rhythmbox"
