@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter 5\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-28 23:05+0800\n"
-"PO-Revision-Date: 2009-12-31 14:14+0800\n"
+"PO-Revision-Date: 2010-01-03 20:07+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -246,7 +246,7 @@ msgstr ""
 #: chapter5/xinclude.xml:192(title) chapter5/xinclude.xml:366(title)
 #: chapter5/xinclude.xml:538(title) chapter5/xinclude.xml:572(title)
 msgid "Instructor Notes:"
-msgstr "教员注解："
+msgstr "教员注记："
 
 #: chapter5/xinclude.xml:34(para)
 msgid ""
@@ -864,7 +864,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:599(title)
 msgid "Lesson Summary"
-msgstr "课程总结"
+msgstr "本课小结"
 
 #: chapter5/xinclude.xml:602(para)
 msgid "In this lesson, you learned that:"
@@ -894,7 +894,7 @@ msgstr ""
 
 #: chapter5/xinclude.xml:623(title)
 msgid "Review Exercise"
-msgstr "回顾练习"
+msgstr "复习题"
 
 #: chapter5/xinclude.xml:625(para)
 msgid "Intentionally left blank."
@@ -902,7 +902,7 @@ msgstr "有意留空。"
 
 #: chapter5/xinclude.xml:629(title)
 msgid "Lab Exercise"
-msgstr "实验练习"
+msgstr "上机练习"
 
 #: chapter5/xinclude.xml:632(title)
 msgid "Exercise 1: Installing a game on Ubuntu"
