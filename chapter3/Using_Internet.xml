@@ -351,7 +351,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_073.png"
+                <imagedata fileref="images/Lesson04_images_008.png"
                            format="PNG" width="6cm" />
               </imageobject>
             </mediaobject>
@@ -1105,13 +1105,11 @@
         </step>
 
         <step performance="required">
-          <para>On the <emphasis role="strong">Timezone</emphasis> page,
-          select the time zone you are in, either on the map or from the
-          <emphasis role="strong">Selection</emphasis> list. Click <emphasis
-          role="strong">Forward</emphasis>.</para>
+          <para>Configuration is done. Click <emphasis
+          role="strong">Apply</emphasis> to save your settings.</para>
 
           <figure float="0">
-            <title>Specifying Timezone</title>
+            <title>Complete</title>
 
             <mediaobject>
               <imageobject>
@@ -1123,8 +1121,7 @@
         </step>
 
         <step performance="required">
-          <para>Configuration is done. Click <emphasis
-          role="strong">Apply</emphasis> to save your settings. The Evolution
+          <para>The Evolution
           window will be displayed.</para>
 
           <figure float="0">
