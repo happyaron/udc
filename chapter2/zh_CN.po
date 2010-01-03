@@ -375,11 +375,11 @@ msgstr "课程目标"
 
 #: chapter2/xinclude.xml:9(para)
 msgid "In this lesson, you will learn:"
-msgstr "在本课程中，您将了解到："
+msgstr "在本节中，您将学习到："
 
 #: chapter2/xinclude.xml:12(para)
 msgid "The highlights of Ubuntu desktop"
-msgstr "Ubuntu 桌面最精彩之处"
+msgstr "Ubuntu 桌面的最精彩之处"
 
 #: chapter2/xinclude.xml:16(para)
 msgid "How to change the default language"
@@ -421,7 +421,7 @@ msgstr "本节是对 Ubuntu 桌面各种特性的快速浏览，后面的课程�
 
 #: chapter2/xinclude.xml:47(title)
 msgid "Ubuntu Desktop Components"
-msgstr "Ubuntu 桌面组成"
+msgstr "Ubuntu 桌面组件"
 
 #: chapter2/xinclude.xml:52(emphasis)
 msgid ""
@@ -853,7 +853,7 @@ msgstr "从回收站中删除文件"
 
 #: chapter2/xinclude.xml:489(title)
 msgid "Changing the Default Language"
-msgstr "改变默认语言"
+msgstr "更改默认语言"
 
 #: chapter2/xinclude.xml:491(para)
 msgid ""
@@ -953,7 +953,7 @@ msgstr ""
 
 #: chapter2/xinclude.xml:581(title)
 msgid "Creating a User Account and Fast User Switching"
-msgstr "创建一个用户账户和快速用户切换"
+msgstr "创建一个用户账户和快速切换用户"
 
 #: chapter2/xinclude.xml:586(para)
 msgid ""
@@ -1252,7 +1252,7 @@ msgstr ""
 
 #: chapter2/xinclude.xml:846(title)
 msgid "Lesson Summary"
-msgstr "课程小结"
+msgstr "本课小结"
 
 #: chapter2/xinclude.xml:848(para)
 msgid "In this lesson, you learned that:"
