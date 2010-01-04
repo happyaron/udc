@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: chapter 8\n"
 "POT-Creation-Date: 2010-01-01 21:10+0800\n"
-"PO-Revision-Date: 2010-01-03 22:03+0800\n"
-"Last-Translator: chuanjiabao <feidaozhanchen@gmail.com>\n"
+"PO-Revision-Date: 2010-01-04 23:02+0800\n"
+"Last-Translator: 苏运强 <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2601,7 +2601,7 @@ msgstr "此操作隐藏侧边栏，现在可以以更大的空间观看 DVD 了�
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter8/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "YunQiang Su <wzssyqa@gmail.com>,2009."
+msgstr "YunQiang Su <wzssyqa@gmail.com>,2010"
 
 #~ msgid ""
 #~ "@@image: 'images/chapter9_image_040.png'; "
