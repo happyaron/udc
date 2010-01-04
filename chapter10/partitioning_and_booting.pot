@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-12-31 22:30+0800\n"
+"POT-Creation-Date: 2010-01-04 22:50+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,43 +53,37 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:538(None)
-msgid "@@image: 'images/Lesson11_images_018.png'; md5=d19248d0d3a735121d9fdd29dcd807b6"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:553(None)
+#: chapter10/xinclude.xml:537(None)
 msgid "@@image: 'images/Lesson11_images_016.png'; md5=d30cec53df0670b5d10c53f8515ab0bd"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:618(None)
+#: chapter10/xinclude.xml:602(None)
 msgid "@@image: 'images/Lesson11_images_019.png'; md5=7d4016aeebf76c4a537c4747c26eed8e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:641(None)
+#: chapter10/xinclude.xml:625(None)
 msgid "@@image: 'images/Lesson11_images_020.png'; md5=4042007ddb930ae6700336e0891bd5fa"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:668(None)
+#: chapter10/xinclude.xml:652(None)
 msgid "@@image: 'images/Lesson11_images_017.png'; md5=28573138c388c86e9157d950d60570af"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:760(None)
+#: chapter10/xinclude.xml:744(None)
 msgid "@@image: 'images/Lesson11_images_021.png'; md5=d3fea9381a9ee8559c93753d17428cf9"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:779(None)
+#: chapter10/xinclude.xml:763(None)
 msgid "@@image: 'images/Lesson11_images_022.png'; md5=bdd4136b29ea1301145dffae8a707c6f"
 msgstr ""
 
@@ -217,7 +211,7 @@ msgstr ""
 msgid "As previously mentioned, resizing partitions is not a trivial task. Under most circumstances it requires that all filesystems involved are unmounted, this means they must not be in use. Typically then to resize partitions the system should be booted to an unused filesystem - such as a bootable Live CD. Considerable thought should therefor be given before partitioning a disk with regards to the number and sizes of partitions to be created to prevent later unnecessary resizing."
 msgstr ""
 
-#: chapter10/xinclude.xml:187(title) chapter10/xinclude.xml:282(title) chapter10/xinclude.xml:739(title)
+#: chapter10/xinclude.xml:187(title) chapter10/xinclude.xml:282(title) chapter10/xinclude.xml:723(title)
 msgid "Caution:"
 msgstr ""
 
@@ -317,7 +311,7 @@ msgstr ""
 msgid "If the existing partitions on the drive have not yet been used, a white bar would run across the window. However, if the existing partitions contain some data, the data will be represented by a pale yellow area."
 msgstr ""
 
-#: chapter10/xinclude.xml:354(title) chapter10/xinclude.xml:796(title)
+#: chapter10/xinclude.xml:354(title) chapter10/xinclude.xml:780(title)
 msgid "Instructor Notes:"
 msgstr ""
 
@@ -406,361 +400,353 @@ msgid "When you no longer want to access the new partitions, you can unmount the
 msgstr ""
 
 #: chapter10/xinclude.xml:529(para)
-msgid "If you want more control on the mount of partitions,you can click <emphasis role=\"strong\">system</emphasis> menu,and point to <emphasis role=\"strong\">administrate</emphasis>, then click <emphasis role=\"strong\">Disk Utility</emphasis>.The <emphasis role=\"strong\">Palimpsest Disk Utility</emphasis> windows opnens."
-msgstr ""
-
-#: chapter10/xinclude.xml:534(title)
-msgid "Palimpsest Disk Utility"
-msgstr ""
-
-#: chapter10/xinclude.xml:545(para)
 msgid "If you want delete a existing partition,you can right-click the partition, and choose <emphasis role=\"strong\">delete</emphasis>."
 msgstr ""
 
-#: chapter10/xinclude.xml:549(title)
+#: chapter10/xinclude.xml:533(title)
 msgid "Deleting a Partition"
 msgstr ""
 
-#: chapter10/xinclude.xml:563(title)
+#: chapter10/xinclude.xml:547(title)
 msgid "Boot-up Options"
 msgstr ""
 
-#: chapter10/xinclude.xml:565(para)
+#: chapter10/xinclude.xml:549(para)
 msgid "Booting up is a process through which the operating system is loaded into the computer's main memory or random access memory (RAM). The boot-up process starts when you turn on your computer. During this process, the BIOS takes control of your computer and decides where to look for software on the computer and in which order.Your computer's BIOS settings determine whether your computer will first check the hard disk or a floppy disc, CD, DVD or flash memory to start the booting-up process. If you have multiple operating systems installed on your computer, the BIOS configuration determines which operating system will be loaded first at boot-up."
 msgstr ""
 
-#: chapter10/xinclude.xml:575(para)
+#: chapter10/xinclude.xml:559(para)
 msgid "Only after all system files have been loaded into the main memory, is the operating system given control of the computer. The operating system performs the requested initial commands and then waits for the first interactive user input."
 msgstr ""
 
-#: chapter10/xinclude.xml:580(para)
+#: chapter10/xinclude.xml:564(para)
 msgid "However, as a superuser or user with administrative privileges, it is possible for you to change the boot-up configuration to define the computer's boot order, change the default operating system to boot-up or make a system command run automatically at boot-up."
 msgstr ""
 
-#: chapter10/xinclude.xml:585(para)
+#: chapter10/xinclude.xml:569(para)
 msgid "One way to change or check your BIOS setting is to restart your computer, and press a key to enter the setup function before it starts to load any operating system. Generally, you can do this by pressing F1, F2, ESC or DELETE. Once you are inside the BIOS setup, you can make the desired changes by following the instructions for using the setup. However, you need to be very cautious when making any changes in the BIOS settings because a wrong setting can prevent your computer from booting-up properly."
 msgstr ""
 
-#: chapter10/xinclude.xml:594(para)
+#: chapter10/xinclude.xml:578(para)
 msgid "You can also perform these configuration changes by using a command line on your computer's terminal."
 msgstr ""
 
-#: chapter10/xinclude.xml:598(title)
+#: chapter10/xinclude.xml:582(title)
 msgid "Running a System Command Automatically at Start-Up"
 msgstr ""
 
-#: chapter10/xinclude.xml:600(para)
+#: chapter10/xinclude.xml:584(para)
 msgid "At times, you may wish to add a custom command for the start-up process so that your computer executes this command every time it boots up."
 msgstr ""
 
-#: chapter10/xinclude.xml:605(title)
+#: chapter10/xinclude.xml:589(title)
 msgid "To run a system command automatically at start-up:"
 msgstr ""
 
-#: chapter10/xinclude.xml:608(para)
+#: chapter10/xinclude.xml:592(para)
 msgid "On the Terminal, type the following command to open the rc.local file:"
 msgstr ""
 
-#: chapter10/xinclude.xml:611(screen)
+#: chapter10/xinclude.xml:595(screen)
 #, no-wrap
 msgid "$ sudo nano /etc/rc.local"
 msgstr ""
 
-#: chapter10/xinclude.xml:614(title)
+#: chapter10/xinclude.xml:598(title)
 msgid "Terminal Window"
 msgstr ""
 
-#: chapter10/xinclude.xml:623(para)
+#: chapter10/xinclude.xml:607(para)
 msgid "The rc.local file contains a script that is executed after all the other initial scripts. You can insert your own initialisation scripts in this file if you want some services to be executed automatically during the start-up process."
 msgstr ""
 
-#: chapter10/xinclude.xml:630(para)
+#: chapter10/xinclude.xml:614(para)
 msgid "The rc.local file opens in the Terminal window. Type the command that you want to run at system start-up before the line, exit 0."
 msgstr ""
 
-#: chapter10/xinclude.xml:634(screen)
+#: chapter10/xinclude.xml:618(screen)
 #, no-wrap
 msgid "$ date &gt; /home/oem/newbackup"
 msgstr ""
 
-#: chapter10/xinclude.xml:637(title)
+#: chapter10/xinclude.xml:621(title)
 msgid "Making Settings for rc.local File"
 msgstr ""
 
-#: chapter10/xinclude.xml:648(para)
+#: chapter10/xinclude.xml:632(para)
 msgid "After you enter the command you want executed at system start-up, press CTRL+X to save and exit the edited file."
 msgstr ""
 
-#: chapter10/xinclude.xml:655(para)
+#: chapter10/xinclude.xml:639(para)
 msgid "When you reboot the system, the rc.local file executes. If you want to display the output of the above command, type the following command in the Terminal:"
 msgstr ""
 
-#: chapter10/xinclude.xml:659(screen)
+#: chapter10/xinclude.xml:643(screen)
 #, no-wrap
 msgid "$ cat newbackup"
 msgstr ""
 
-#: chapter10/xinclude.xml:661(para)
+#: chapter10/xinclude.xml:645(para)
 msgid "The following image shows the output of the above command:"
 msgstr ""
 
-#: chapter10/xinclude.xml:664(title)
+#: chapter10/xinclude.xml:648(title)
 msgid "The content of newbackup"
 msgstr ""
 
-#: chapter10/xinclude.xml:677(title)
+#: chapter10/xinclude.xml:661(title)
 msgid "Changing the Default Operating System at Boot"
 msgstr ""
 
-#: chapter10/xinclude.xml:679(para)
+#: chapter10/xinclude.xml:663(para)
 msgid "When multiple operating systems are installed on a computer, this is referred to as a multi-boot configuration. Typically, the operating system that is listed on top in the configuration file is loaded on the computer. To choose the operating system that starts when you turn on your computer, edit the grub configuration file."
 msgstr ""
 
-#: chapter10/xinclude.xml:687(para)
+#: chapter10/xinclude.xml:671(para)
 msgid "Back up the configuration file, and open it in a text editor, as follows:"
 msgstr ""
 
-#: chapter10/xinclude.xml:690(screen)
+#: chapter10/xinclude.xml:674(screen)
 #, no-wrap
 msgid "$ sudo cp /etc/default/grub /etc/default/grub_backup \n$ sudo gedit /etc/default/grub"
 msgstr ""
 
-#: chapter10/xinclude.xml:695(para)
+#: chapter10/xinclude.xml:679(para)
 msgid "Find the line written below to change the default sequence:"
 msgstr ""
 
-#: chapter10/xinclude.xml:698(screen)
+#: chapter10/xinclude.xml:682(screen)
 #, no-wrap
 msgid "... default 0 ..."
 msgstr ""
 
-#: chapter10/xinclude.xml:700(para)
+#: chapter10/xinclude.xml:684(para)
 msgid "Replace this line with the following line:"
 msgstr ""
 
-#: chapter10/xinclude.xml:702(screen)
+#: chapter10/xinclude.xml:686(screen)
 #, no-wrap
 msgid "default X"
 msgstr ""
 
-#: chapter10/xinclude.xml:704(para)
+#: chapter10/xinclude.xml:688(para)
 msgid "Replace X with a number based on the order in which your operating systems appear in the configuration file. You should start counting from 0. For example, if you wish the default operating system to be the first in the list, replace X with 0; and if you wish the default operating system to be the second in the list, replace X with 1."
 msgstr ""
 
-#: chapter10/xinclude.xml:713(para)
+#: chapter10/xinclude.xml:697(para)
 msgid "Save this file and shut down editor.Then run the commond follew"
 msgstr ""
 
-#: chapter10/xinclude.xml:714(screen)
+#: chapter10/xinclude.xml:698(screen)
 #, no-wrap
 msgid "sudo update-grub"
 msgstr ""
 
-#: chapter10/xinclude.xml:718(para)
+#: chapter10/xinclude.xml:702(para)
 msgid "Now you can reboot your system and can see that the Default operating system have been changed."
 msgstr ""
 
-#: chapter10/xinclude.xml:724(title)
+#: chapter10/xinclude.xml:708(title)
 msgid "Configuring Start-Up Services"
 msgstr ""
 
-#: chapter10/xinclude.xml:726(para)
+#: chapter10/xinclude.xml:710(para)
 msgid "When Ubuntu starts up, many services are started for your convenience. Some services are mandatory for Ubuntu to work properly on your computer. Others are services that you'll probably never need, either because you just do not want them (for example, ntpdate, which sets your system time from a time server) or you simply don't have the device (for example, the HP printing and scanning system, which is of no use if you don't own an HP device)."
 msgstr ""
 
-#: chapter10/xinclude.xml:734(para)
+#: chapter10/xinclude.xml:718(para)
 msgid "Although these services are harmless, they increase your computer's start-up time. By de-activating some of these services, you should get a slightly faster start-up time."
 msgstr ""
 
-#: chapter10/xinclude.xml:741(para)
+#: chapter10/xinclude.xml:725(para)
 msgid "Read the service information before you disable any service because disabling some services may stop your system from booting-up or running properly."
 msgstr ""
 
-#: chapter10/xinclude.xml:746(para)
+#: chapter10/xinclude.xml:730(para)
 msgid "To configure the start-up services, you need to have administrative privileges. Then, perform the following steps:"
 msgstr ""
 
-#: chapter10/xinclude.xml:751(para)
+#: chapter10/xinclude.xml:735(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Services</emphasis>."
 msgstr ""
 
-#: chapter10/xinclude.xml:756(title)
+#: chapter10/xinclude.xml:740(title)
 msgid "Services Window"
 msgstr ""
 
-#: chapter10/xinclude.xml:767(para)
+#: chapter10/xinclude.xml:751(para)
 msgid "Type your administrative password. The <emphasis role=\"strong\">Services settings</emphasis> window opens."
 msgstr ""
 
-#: chapter10/xinclude.xml:771(para)
+#: chapter10/xinclude.xml:755(para)
 msgid "Select the services you want running by selecting or clearing the respective check boxes."
 msgstr ""
 
-#: chapter10/xinclude.xml:775(title)
+#: chapter10/xinclude.xml:759(title)
 msgid "Services Settings Window"
 msgstr ""
 
-#: chapter10/xinclude.xml:786(para)
+#: chapter10/xinclude.xml:770(para)
 msgid "If you want to add a new item to list,click <emphasis role=\"strong\"> add</emphasis>;if you want delete an item from list,click <emphasis role=\"strong\">delete</emphasis>; if you want to remember the opening software when next login,go to <emphasis role=\"strong\">option</emphasis> tab, and select <emphasis role=\"strong\">remember opening application when logout </emphasis> checkbox."
 msgstr ""
 
-#: chapter10/xinclude.xml:798(para)
+#: chapter10/xinclude.xml:782(para)
 msgid "If you want greater control over the boot-up services, install Boot-up Manager (bum). You can install bum from the Universe repository. You need to click the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Boot-up Manager</emphasis>."
 msgstr ""
 
-#: chapter10/xinclude.xml:806(title)
+#: chapter10/xinclude.xml:790(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter10/xinclude.xml:810(para)
+#: chapter10/xinclude.xml:794(para)
 msgid "Partitioning your hard disk is similar to splitting rooms with walls in a house."
 msgstr ""
 
-#: chapter10/xinclude.xml:815(para)
+#: chapter10/xinclude.xml:799(para)
 msgid "You can run Ubuntu on a single or multiple partitions or drives."
 msgstr ""
 
-#: chapter10/xinclude.xml:820(para)
+#: chapter10/xinclude.xml:804(para)
 msgid "Before partitioning the hard drive, you should make sure that there is no data on the hard drive. If the hard drive on which you are creating a partition contains data and you wish to preserve it, it will be safer to back up the data before proceeding."
 msgstr ""
 
-#: chapter10/xinclude.xml:827(para)
+#: chapter10/xinclude.xml:811(para)
 msgid "You can create a partition by using both the partition editor and the command-line interface."
 msgstr ""
 
-#: chapter10/xinclude.xml:832(para)
+#: chapter10/xinclude.xml:816(para)
 msgid "It is possible for you to change the boot-up configuration to define the computer's boot order, change the default operating system to boot or make a system command run automatically at boot-up."
 msgstr ""
 
-#: chapter10/xinclude.xml:839(para)
+#: chapter10/xinclude.xml:823(para)
 msgid "To run a set of commands each time the system boots up, you need to include the commands in the /etc/rc.local file so that the computer executes them automatically at every boot-up."
 msgstr ""
 
-#: chapter10/xinclude.xml:845(para)
+#: chapter10/xinclude.xml:829(para)
 msgid "You can change the default operating system at boot by making changes in the configuration file."
 msgstr ""
 
-#: chapter10/xinclude.xml:850(para)
+#: chapter10/xinclude.xml:834(para)
 msgid "You must read the service information before disabling any service because disabling some services may stop your system from booting-up or running properly."
 msgstr ""
 
-#: chapter10/xinclude.xml:808(para)
+#: chapter10/xinclude.xml:792(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
 msgstr ""
 
-#: chapter10/xinclude.xml:858(title)
+#: chapter10/xinclude.xml:842(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter10/xinclude.xml:863(para)
+#: chapter10/xinclude.xml:847(para)
 msgid "What are the advantages of partitioning?"
 msgstr ""
 
-#: chapter10/xinclude.xml:867(para)
+#: chapter10/xinclude.xml:851(para)
 msgid "The following are the advantages of partitioning:"
 msgstr ""
 
-#: chapter10/xinclude.xml:871(para)
+#: chapter10/xinclude.xml:855(para)
 msgid "Minimises data loss"
 msgstr ""
 
-#: chapter10/xinclude.xml:875(para)
+#: chapter10/xinclude.xml:859(para)
 msgid "Enhances security"
 msgstr ""
 
-#: chapter10/xinclude.xml:879(para)
+#: chapter10/xinclude.xml:863(para)
 msgid "Enhances performance"
 msgstr ""
 
-#: chapter10/xinclude.xml:887(para)
+#: chapter10/xinclude.xml:871(para)
 msgid "Why do you need to use the sudo command?"
 msgstr ""
 
-#: chapter10/xinclude.xml:891(para)
+#: chapter10/xinclude.xml:875(para)
 msgid "In Unix-based operating systems, you need to use the sudo command to run programmes that require administrative privileges."
 msgstr ""
 
-#: chapter10/xinclude.xml:899(para)
+#: chapter10/xinclude.xml:883(para)
 msgid "Which of these file systems does Ubuntu use by default?"
 msgstr ""
 
-#: chapter10/xinclude.xml:903(para)
+#: chapter10/xinclude.xml:887(para)
 msgid "Fat 32"
 msgstr ""
 
-#: chapter10/xinclude.xml:907(para)
+#: chapter10/xinclude.xml:891(para)
 msgid "NTFS"
 msgstr ""
 
-#: chapter10/xinclude.xml:911(para)
+#: chapter10/xinclude.xml:895(para)
 msgid "Ext3"
 msgstr ""
 
-#: chapter10/xinclude.xml:917(para)
+#: chapter10/xinclude.xml:901(para)
 msgid "c) Ext3"
 msgstr ""
 
-#: chapter10/xinclude.xml:923(para)
+#: chapter10/xinclude.xml:907(para)
 msgid "If you want to run a system command automatically at start-up, where should you add the command?"
 msgstr ""
 
-#: chapter10/xinclude.xml:928(para)
+#: chapter10/xinclude.xml:912(para)
 msgid "The command needs to be added to the /etc/rc.local file."
 msgstr ""
 
-#: chapter10/xinclude.xml:935(para)
+#: chapter10/xinclude.xml:919(para)
 msgid "Is it possible to disable all the start-up services? Why?"
 msgstr ""
 
-#: chapter10/xinclude.xml:940(para)
+#: chapter10/xinclude.xml:924(para)
 msgid "No, it is not possible to disable all start-up services because disabling some services will stop your system from booting-up or running properly."
 msgstr ""
 
-#: chapter10/xinclude.xml:949(title)
+#: chapter10/xinclude.xml:933(title)
 msgid "Lab Exercise"
 msgstr ""
 
-#: chapter10/xinclude.xml:952(title)
+#: chapter10/xinclude.xml:936(title)
 msgid "Exercise 1"
 msgstr ""
 
-#: chapter10/xinclude.xml:954(para)
+#: chapter10/xinclude.xml:938(para)
 msgid "As a previous Microsoft Windows user, you want to have a dual-boot configuration on your computer and create a separate partition to run Microsoft Windows on it. To perform this task, you need to create a 5-GB primary partition and format it with a Microsoft Windows-compatible file system."
 msgstr ""
 
-#: chapter10/xinclude.xml:962(title)
+#: chapter10/xinclude.xml:946(title)
 msgid "Option a: To create a Partition using Partition Editor:"
 msgstr ""
 
-#: chapter10/xinclude.xml:965(para)
+#: chapter10/xinclude.xml:949(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Partition Editor</emphasis>."
 msgstr ""
 
-#: chapter10/xinclude.xml:971(para)
+#: chapter10/xinclude.xml:955(para)
 msgid "In the drive drop-down box, select the hard drive you need to partition by specifying its logical name. The window refreshes and shows you a representation of the drive."
 msgstr ""
 
-#: chapter10/xinclude.xml:977(para)
+#: chapter10/xinclude.xml:961(para)
 msgid "Right-click the white bar and click <emphasis role=\"strong\">New</emphasis> to create a new partition. The <emphasis role=\"strong\">Create new Partition</emphasis> dialogue box appears, in which you choose the specifications of the new partition."
 msgstr ""
 
-#: chapter10/xinclude.xml:982(para)
+#: chapter10/xinclude.xml:966(para)
 msgid "In the <emphasis role=\"strong\">New Size</emphasis> dialogue box, select the size of the new partition."
 msgstr ""
 
-#: chapter10/xinclude.xml:987(para)
+#: chapter10/xinclude.xml:971(para)
 msgid "In the <emphasis role=\"strong\">Create as</emphasis> box, select <emphasis role=\"strong\">Primary Partition</emphasis>."
 msgstr ""
 
-#: chapter10/xinclude.xml:992(para)
+#: chapter10/xinclude.xml:976(para)
 msgid "Next, specify the file system. Select ntfs."
 msgstr ""
 
-#: chapter10/xinclude.xml:996(para)
+#: chapter10/xinclude.xml:980(para)
 msgid "Click <emphasis role=\"strong\">Add</emphasis> to compute the partition. The graphical display updates to show a new partition on the disk."
 msgstr ""
 
-#: chapter10/xinclude.xml:1002(para)
+#: chapter10/xinclude.xml:986(para)
 msgid "If you are sure about the specification of the new partition, click <emphasis role=\"strong\">Apply</emphasis>. The disk will be partitioned and formatted."
 msgstr ""
 
