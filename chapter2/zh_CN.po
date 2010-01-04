@@ -1,14 +1,15 @@
 # Simplified Chinese translation for ubuntu-desktop-course chapter2 exploring-the-ubuntu-desktop
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-#     Eleanor Chen  <chenyueg@gmail.com>, 2009.
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+#     Eleanor Chen <chenyueg@gmail.com>, 2010
+#     Aron Xu <happyaron.xu@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course using-internet\n"
+"Project-Id-Version: ubuntu-desktop-course exploring-the-ubuntu-desktop\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-29 00:11+0800\n"
-"PO-Revision-Date: 2009-12-27 00:45+0800\n"
+"PO-Revision-Date: 2010-01-05 03:00+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -588,8 +589,8 @@ msgid ""
 "\">Add to Panel</emphasis>. The <emphasis role=\"strong\">Add to Panel</"
 "emphasis> dialogue box appears."
 msgstr ""
-"右击顶部面板的空白区域，选择<emphasis role=\"strong\">添加到面板</emphasis>，"
-"弹出<emphasis role=\"strong\">添加到面板</emphasis>对话框。"
+"右击顶部面板的空白区域，选择 <emphasis role=\"strong\">添加到面板</emphasis>，"
+"弹出 <emphasis role=\"strong\">添加到面板</emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:215(title)
 msgid "Adding a Shortcut Icon"
@@ -604,10 +605,10 @@ msgid ""
 "<emphasis role=\"strong\">Applications</emphasis> menu, click <emphasis role="
 "\"strong\">Application Launcher</emphasis>."
 msgstr ""
-"<emphasis role=\"strong\">添加到面板</emphasis>对话框里显示了计算机上可供使用"
-"的应用程序。从中选择需要的，然后单击<emphasis role=\"strong\">添加</emphasis>"
-"把它添加到面板上。如果您想添加<emphasis role=\"strong\">应用程序</emphasis>菜"
-"单中的程序，单击<emphasis role=\"strong\">应用程序启动器</emphasis>。"
+"<emphasis role=\"strong\">添加到面板</emphasis> 对话框里显示了计算机上可供使用"
+"的应用程序。从中选择需要的，然后单击 <emphasis role=\"strong\">添加</emphasis> "
+"把它添加到面板上。如果您想添加 <emphasis role=\"strong\">应用程序</emphasis> 菜"
+"单中的程序，单击 <emphasis role=\"strong\">应用程序启动器</emphasis>。"
 
 #: chapter2/xinclude.xml:236(para)
 msgid ""
@@ -626,7 +627,7 @@ msgid ""
 "\">Applications</emphasis> menu appears. Select an application from the "
 "available list, and click <emphasis role=\"strong\">Add</emphasis>."
 msgstr ""
-"接着将出现类似“应用程序”菜单的对话框，选择想添加的程序然后单击<emphasis role="
+"接着将出现类似“应用程序”菜单的对话框，选择想添加的程序然后单击 <emphasis role="
 "\"strong\">添加</emphasis>。"
 
 #: chapter2/xinclude.xml:257(title)
@@ -646,7 +647,7 @@ msgid ""
 "the icon anywhere on the top panel and left-click the icon to freeze its "
 "location."
 msgstr ""
-"新创建的快捷图标的位置是可以改变的，右击它，选择<emphasis role=\"strong\">移"
+"新创建的快捷图标的位置是可以改变的，右击它，选择 <emphasis role=\"strong\">移"
 "动</emphasis>。移动鼠标使它到您喜欢的位置后单击固定。"
 
 #: chapter2/xinclude.xml:287(title)
@@ -668,7 +669,7 @@ msgid ""
 "You will learn more about fast user switching in the <emphasis role=\"strong"
 "\">Fast User Switching</emphasis> topic of this lesson."
 msgstr ""
-"快速用户切换将在<emphasis role=\"strong\">快速用户切换</emphasis>这一节详细讲"
+"快速用户切换将在 <emphasis role=\"strong\">快速用户切换</emphasis> 这一节详细讲"
 "解。"
 
 #: chapter2/xinclude.xml:309(title)
@@ -730,7 +731,7 @@ msgid ""
 "either the left or the right arrow key. This reduces the clutter on your "
 "desktop and eases navigation between windows."
 msgstr ""
-"下一个图标是工作区切换器，窗口可以被放到不同的工作区里。按住 CTRL+ALT 和左/右"
+"下一个图标是工作区切换器，窗口可以被放到不同的工作区里。按住 Ctrl+Alt 和左/右"
 "方向键可以方便的在各个工作区之间移动。使用工作区可以减少桌面的杂乱，更方便地"
 "在窗口间切换。"
 
@@ -739,7 +740,7 @@ msgid ""
 "For example, you might have the Firefox window, an OpenOffice application, a "
 "search window and a calculator window open on the desktop."
 msgstr ""
-"比如，您打开了一个 Firefox ，一个 Openoffice ，一个搜索程序和一个计算器程序。"
+"比如，您打开了一个 Firefox，一个 Openoffice，一个搜索程序和一个计算器程序。"
 
 #: chapter2/xinclude.xml:378(title)
 msgid "The Workspace Icon"
@@ -753,8 +754,8 @@ msgid ""
 "the desktop - one workspace with the Firefox window and the original "
 "workspace with the other windows."
 msgstr ""
-"您可以按下 CTRL+ALT+SHIFT 和左/右方向键把 Firefox 移动到另一个工作区。桌面的"
-"右下角会显示两个工作区——一个有 firefox ，另一个是原来的工作区，有其他的窗口。"
+"您可以按下 Ctrl+Alt+Shift 和左/右方向键把 Firefox 移动到另一个工作区。桌面的"
+"右下角会显示两个工作区——一个有 Firefox ，另一个是原来的工作区，有其他的窗口。"
 
 #: chapter2/xinclude.xml:394(title)
 msgid "Switching Workspaces"
@@ -781,9 +782,9 @@ msgid ""
 "\">Preferences</emphasis>. The <emphasis role=\"strong\">Workspace Switcher "
 "Preferences</emphasis> dialogue box appears."
 msgstr ""
-"Ubuntu 默认提供两个工作区。如果想要创建更多的，右击工作区图标，选择<emphasis "
-"role=\"strong\">首选项</emphasis>，弹出<emphasis role=\"strong\">工作区切换器"
-"首选项</emphasis>对话框。"
+"Ubuntu 默认提供两个工作区。如果想要创建更多的，右击工作区图标，选择 <emphasis "
+"role=\"strong\">首选项</emphasis>，弹出 <emphasis role=\"strong\">工作区切换器"
+"首选项</emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:423(title)
 msgid "Creating New Workspaces"
@@ -796,9 +797,9 @@ msgid ""
 "role=\"strong\">Number of workspaces</emphasis> list and click <emphasis "
 "role=\"strong\">Close</emphasis>."
 msgstr ""
-"<emphasis role=\"strong\">工作区切换器首选项</emphasis>对话框中，在<emphasis "
-"role=\"strong\">工作区数量</emphasis>中输入或者选择您想要的工作区数量，然后点"
-"击<emphasis role=\"strong\">关闭</emphasis>。"
+"<emphasis role=\"strong\">工作区切换器首选项</emphasis> 对话框中，在 <emphasis "
+"role=\"strong\">工作区数量</emphasis> 中输入或者选择您想要的工作区数量，然后点"
+"击 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter2/xinclude.xml:438(title)
 msgid "Workspace Switcher Preferences"
@@ -817,9 +818,9 @@ msgid ""
 "Right-click the icon and click <emphasis role=\"strong\">Open</emphasis> to "
 "open the <emphasis role=\"strong\">Trash</emphasis> window."
 msgstr ""
-"底部面板的最后一个按钮是<emphasis role=\"strong\">回收站</emphasis>，里面存放"
-"了被删除的文件。右击该图标，选择<emphasis role=\"strong\">打开回收站</"
-"emphasis>打开<emphasis role=\"strong\">回收站</emphasis>窗口。"
+"底部面板的最后一个按钮是 <emphasis role=\"strong\">回收站</emphasis>，里面存放"
+"了被删除的文件。右击该图标，选择 <emphasis role=\"strong\">打开回收站</"
+"emphasis> 打开 <emphasis role=\"strong\">回收站</emphasis> 窗口。"
 
 #: chapter2/xinclude.xml:454(title)
 msgid "The Waste Basket Icon and Menu"
@@ -829,23 +830,23 @@ msgstr "回收站图标和菜单"
 msgid ""
 "You can delete an item permanently from the computer by pressing the DELETE "
 "key."
-msgstr "按下 DELETE 键将永久删除您选中的文件。"
+msgstr "按下 Delete 键将永久删除您选中的文件。"
 
 #: chapter2/xinclude.xml:469(para)
 msgid ""
 "Alternatively, you can right-click the item and click <emphasis role=\"strong"
 "\">Delete from Trash</emphasis> to permanently delete it from the computer."
 msgstr ""
-"您也可以右击要删除的文件，选择<emphasis role=\"strong\">永久删除</emphasis>来"
-"永久的删除这些文件。"
+"您也可以右击要删除的文件，选择 <emphasis role=\"strong\">永久删除</emphasis> 来"
+"永久地删除这些文件。"
 
 #: chapter2/xinclude.xml:473(para)
 msgid ""
 "If you want to restore the deleted item to the desktop, drag that item to "
 "the desktop from the <emphasis role=\"strong\">Trash</emphasis> window."
 msgstr ""
-"如果想把回收站里的文件恢复到桌面上，只需要把那些文件从<emphasis role=\"strong"
-"\">回收站</emphasis>窗口拖到桌面上。"
+"如果想把回收站里的文件恢复到桌面上，只需要把那些文件从 <emphasis role=\"strong"
+"\">回收站</emphasis> 窗口拖到桌面上。"
 
 #: chapter2/xinclude.xml:478(title)
 msgid "Deleting Items from Trash"
@@ -859,7 +860,7 @@ msgstr "更改默认语言"
 msgid ""
 "Ubuntu supports more than 100 languages. You can set the default language of "
 "your computer either during the installation of Ubuntu or at a later stage."
-msgstr "Ubuntu 支持超过100种语言。安装或是之后的任何时候都可以更改默认语言。"
+msgstr "Ubuntu 支持超过 100 种语言。您在安装或是之后的任何时候都可以更改默认语言。"
 
 #: chapter2/xinclude.xml:495(para)
 msgid ""
@@ -878,8 +879,8 @@ msgid ""
 "\">Language Support</emphasis>. The system prompts you to install language "
 "support if updates are available for your selected language."
 msgstr ""
-"在<emphasis role=\"strong\">系统</emphasis>菜单中，用鼠标指向<emphasis role="
-"\"strong\">系统管理</emphasis>，单击<emphasis role=\"strong\">语言支持</"
+"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis role="
+"\"strong\">系统管理</emphasis>，单击 <emphasis role=\"strong\">语言支持</"
 "emphasis>。如果已安装的语言包有更新，系统会提示安装它们。"
 
 #: chapter2/xinclude.xml:508(title)
@@ -892,8 +893,8 @@ msgid ""
 "completing the updates, the <emphasis role=\"strong\">Language Support</"
 "emphasis> dialogue box opens."
 msgstr ""
-"单击<emphasis role=\"strong\">安装</emphasis>继续。升级完成后，弹出<emphasis "
-"role=\"strong\">语言</emphasis>对话框。单击<emphasis role=\"strong\">安装/移"
+"单击 <emphasis role=\"strong\">安装</emphasis> 继续。升级完成后，弹出 <emphasis "
+"role=\"strong\">语言</emphasis> 对话框。单击 <emphasis role=\"strong\">安装/移"
 "除语言</emphasis>。"
 
 #: chapter2/xinclude.xml:524(title)
@@ -921,17 +922,17 @@ msgid ""
 "packages on your computer. The language you selected will now appear in the "
 "<emphasis role=\"strong\">Default Language</emphasis> box."
 msgstr ""
-"单击<emphasis role=\"strong\">应用变更</emphasis>，系统会提示输入当前用户密"
-"码。接着 Ubuntu 会自动下载和安装需要的包。安装完成后，新装的语言就会出现在"
-"<emphasis role=\"strong\">语言</emphasis>对话框的下拉列表中。"
+"单击 <emphasis role=\"strong\">应用变更</emphasis>，系统会提示输入当前用户密"
+"码。接着 Ubuntu 会自动下载和安装需要的包。安装完成后，新装的语言就会出现在 "
+"<emphasis role=\"strong\">语言</emphasis> 对话框的下拉列表中。"
 
 #: chapter2/xinclude.xml:560(para)
 msgid ""
 "Select the language that you want set as default, and click <emphasis role="
 "\"strong\">OK</emphasis>."
 msgstr ""
-"分别在<emphasis role=\"strong\">对于我的菜单和窗口，使用</emphasis>和"
-"<emphasis role=\"strong\">对于所有用户在启动和登录时使用</emphasis>为当前用户"
+"分别在 <emphasis role=\"strong\"> 对于我的菜单和窗口，使用 </emphasis> 和 "
+"<emphasis role=\"strong\"> 对于所有用户在启动和登录时使用</emphasis> 为当前用户"
 "和登录界面选择语言。"
 
 #: chapter2/xinclude.xml:565(para)
@@ -977,7 +978,7 @@ msgid ""
 msgstr ""
 "也许您的计算机有许多个用户。这种情况下会有数据被其他用户修改或损坏的风险。为"
 "了防止这一类事情的发生，可以为每一个想要使用您电脑的人单独创建一个用户账户。"
-"让每个人都有自己的账户和相互独立的用户设置。比如，给儿童单独设置一个账户是很"
+"让每个人都有自己的账户和相互独立的用户设置。比如，给孩子单独设置一个账户是很"
 "有用的，可以阻止他们更改您的设置或者访问一些不适合的文件和程序。"
 
 #: chapter2/xinclude.xml:602(title)
@@ -991,9 +992,9 @@ msgid ""
 "\">Users and Groups</emphasis>. The <emphasis role=\"strong\">User settings</"
 "emphasis> dialogue box appears."
 msgstr ""
-"在<emphasis role=\"strong\">系统</emphasis>菜单中，用鼠标指向<emphasis role="
-"\"strong\">系统管理</emphasis>，然后单击<emphasis role=\"strong\">用户和组</"
-"emphasis>，弹出<emphasis role=\"strong\">用户设置</emphasis>对话框。"
+"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis role="
+"\"strong\">系统管理</emphasis>，然后单击 <emphasis role=\"strong\">用户和组</"
+"emphasis>，弹出 <emphasis role=\"strong\">用户设置</emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:609(title)
 msgid "Adding/Removing Users"
@@ -1006,10 +1007,10 @@ msgid ""
 "account on your computer. The <emphasis role=\"strong\">New user account</"
 "emphasis> dialogue box opens."
 msgstr ""
-"<emphasis role=\"strong\">用户设置</emphasis>对话框中，单击<emphasis role="
+"<emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
 "\"strong\">点击以进行更改</emphasis>，系统提示输入用户密码，验证成功后才能进"
-"行下一步操作。单击<emphasis role=\"strong\">添加用户</emphasis>添加一个新用户"
-"账户，弹出<emphasis role=\"strong\">新建用户账户</emphasis>对话框。"
+"行下一步操作。单击 <emphasis role=\"strong\">添加用户</emphasis> 添加一个新用户"
+"账户，弹出 <emphasis role=\"strong\">新建用户账户</emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:626(title)
 msgid "Adding a User"
@@ -1028,32 +1029,32 @@ msgstr ""
 msgid ""
 "Type the name with which you want to log on to your computer in the "
 "<emphasis role=\"strong\">Username</emphasis> box."
-msgstr "在<emphasis role=\"strong\">用户名</emphasis>框中输入想要的登录名。"
+msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入想要的登录名。"
 
 #: chapter2/xinclude.xml:648(para)
 msgid ""
 "Type your full name in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
-msgstr "在<emphasis role=\"strong\">真实姓名</emphasis>框里输入全名。"
+msgstr "在 <emphasis role=\"strong\">真实姓名</emphasis> 框里输入全名。"
 
 #: chapter2/xinclude.xml:653(para)
 msgid ""
 "Select your user type from the <emphasis role=\"strong\">Profile</emphasis> "
 "box."
 msgstr ""
-"在<emphasis role=\"strong\">配置文件</emphasis>下拉列表中选择用户类型。"
+"在 <emphasis role=\"strong\">配置文件</emphasis> 下拉列表中选择用户类型。"
 
 #: chapter2/xinclude.xml:657(para)
 msgid ""
 "Type the password for your user account in the <emphasis role=\"strong"
 "\">User password</emphasis> box."
 msgstr ""
-"在<emphasis role=\"strong\">用户密码</emphasis>框和<emphasis role=\"strong\">"
-"确认</emphasis>框中两次输入新用户账户的密码。"
+"在 <emphasis role=\"strong\">用户密码</emphasis> 框和 <emphasis role=\"strong\">"
+"确认</emphasis> 框中两次输入新用户账户的密码。"
 
 #: chapter2/xinclude.xml:661(para) chapter2/xinclude.xml:966(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis> to save the settings."
-msgstr "单击<emphasis role=\"strong\">确定</emphasis>保存设置。"
+msgstr "单击 <emphasis role=\"strong\">确定</emphasis> 保存设置。"
 
 #: chapter2/xinclude.xml:665(title)
 msgid "Configuring New User Account"
@@ -1107,8 +1108,8 @@ msgid ""
 "<emphasis role=\"strong\">Customising Ubuntu and Applications</emphasis> "
 "lesson of this course. This topic is just an introduction."
 msgstr ""
-"告诉学生，本课程的<emphasis role=\"strong\">自定义 Ubuntu 和应用程序</"
-"emphasis>会详细讲解本节内容，这里只是一个介绍。"
+"告诉学生，本课程的 <emphasis role=\"strong\">自定义 Ubuntu 和应用程序</"
+"emphasis> 会详细讲解本节内容，这里只是一个介绍。"
 
 #: chapter2/xinclude.xml:731(title)
 msgid "Use the Add/Remove applications when you need to:"
@@ -1133,14 +1134,14 @@ msgid ""
 "\">Applications</emphasis> menu, click <emphasis role=\"strong\">Add/Remove</"
 "emphasis>."
 msgstr ""
-"Ubuntu 包含了很多安装方便的预封装软件包。您可以用” Ubuntu 软件中心“或者”新立"
-"得软件包管理器“来安装它们。在<emphasis role=\"strong\">应用程序</emphasis>菜"
-"单，单击<emphasis role=strong>Ubuntu 软件中心</emphasis>启动” Ubuntu 软件中"
-"心“。"
+"Ubuntu 包含了很多安装方便的预封装软件包。您可以用 Ubuntu 软件中心或者新立"
+"得软件包管理器来安装它们。在<emphasis role=\"strong\">应用程序</emphasis>菜"
+"单，单击 <emphasis role=strong>Ubuntu 软件中心</emphasis> 启动 Ubuntu 软件中"
+"心。"
 
 #: chapter2/xinclude.xml:750(title)
 msgid "Launching Add/Remove Applications"
-msgstr "启动” Ubuntu 软件中心“"
+msgstr "启动 Ubuntu 软件中心"
 
 #: chapter2/xinclude.xml:759(para)
 msgid ""
@@ -1148,9 +1149,9 @@ msgid ""
 "emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> "
 "and click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
 msgstr ""
-"在<emphasis role=\"strong\">系统</emphasis>菜单中，用鼠标指向<emphasis role="
-"\"strong\">系统管理</emphasis>，然后单击<emphasis role=\"strong\">新立得软件"
-"包管理器</emphasis>启动”新立得软件包管理器“。"
+"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis role="
+"\"strong\">系统管理</emphasis>，然后单击 <emphasis role=\"strong\">新立得软件"
+"包管理器</emphasis> 以启动它。"
 
 #: chapter2/xinclude.xml:762(title)
 msgid "Launching Synaptic Package Manager"
@@ -1162,7 +1163,7 @@ msgid ""
 "software programme in the Add/Remove tool, you can search for it in "
 "Synaptic. It searches all software in the available repositories on Ubuntu."
 msgstr ""
-"新立得提供了一种安装包的高级方式。如果在” Ubuntu 软件中心“里没有找到想要的软"
+"新立得提供了一种安装包的高级方式。如果在 Ubuntu 软件中心里没有找到想要的软"
 "件，可以在新立得里搜索它，它会检索 Ubuntu 上仓库提供的所有软件。"
 
 #: chapter2/xinclude.xml:778(title)
@@ -1173,7 +1174,7 @@ msgstr "桌面效果—— Compiz Fusion"
 msgid ""
 "Advise students that to view desktop effects, computers must have a 3D-"
 "enabled graphic card."
-msgstr "提醒学生，要使用桌面效果的话，显卡必须支持 3D 。"
+msgstr "提醒学生，要使用桌面效果的话，显卡必须支持 3D。"
 
 #: chapter2/xinclude.xml:787(para)
 msgid ""
@@ -1196,8 +1197,8 @@ msgid ""
 "usability and visual appeal of the system. You really have to see and play "
 "with this application to appreciate the benefits."
 msgstr ""
-"在 Ubuntu 8.04 LTS 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特"
-"效，提高了用户体验和系统视觉外观。您一定要试试这个软件，感受下它的好处。"
+"在 Ubuntu 9.10 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特"
+"效，提高了用户体验和系统视觉外观。您一定要试试这个软件，感受一下它的好处。"
 
 #: chapter2/xinclude.xml:800(title)
 msgid "To view the visual effects on Ubuntu:"
@@ -1210,13 +1211,13 @@ msgid ""
 "\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
 "Preferences</emphasis> dialogue box appears."
 msgstr ""
-"在<emphasis role=\"strong\">系统</strong>菜单中，用鼠标指向<emphasis role="
-"\"strong\">首选项</emphasis>，然后单击<emphasis role=\"strong\">外观</"
-"emphasis>，弹出<emphasis role=\"strong\">外观首选项</emphasis>对话框。"
+"在 <emphasis role=\"strong\">系统</strong> 菜单中，用鼠标指向 <emphasis role="
+"\"strong\">首选项</emphasis>，然后单击 <emphasis role=\"strong\">外观</"
+"emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:808(title)
 msgid "Opening the Appearance Preferences Dialogue Box"
-msgstr "打开”外观首选项“对话框"
+msgstr "打开外观首选项对话框"
 
 #: chapter2/xinclude.xml:819(para)
 msgid ""
@@ -1224,8 +1225,8 @@ msgid ""
 "box, there are three pre-configured levels of special effects settings: No "
 "effects, Normal effects and Extra effects. You can select any one of them:"
 msgstr ""
-"<emphasis rote=\"strong\">外观首选项</emphasis>对话框中，有三个预定义的特效级"
-"别：没有特效，一般特效，增强特效，您可以从其中选择一个。"
+"在 <emphasis rote=\"strong\">外观首选项</emphasis> 对话框中，有三个预定义的特效级"
+"别：无、正常和扩展，您可以从其中选择一个。"
 
 #: chapter2/xinclude.xml:825(title)
 msgid "Configuring Visual Effects"
@@ -1243,10 +1244,10 @@ msgid ""
 "effect. The windows will start dancing and displaying the 3D effects. Play "
 "with it a little, it's fun!"
 msgstr ""
-"如果您想要一个没有任何特效的普通桌面，选择<emphasis role=\"strong\">无</"
-"emphasis>。如果您想要一个在性能和外观之间平衡的桌面，选择<emphasis role="
-"\"strong\">普通</emphasis>。如果您想要很多桌面效果，比如窗口抖动、桌面立方体"
-"等等，选择<emphasis role=\"strong\">增强</emphasis>。比如说窗口抖动这个效果，"
+"如果您想要一个没有任何特效的普通桌面，选择 <emphasis role=\"strong\">无</"
+"emphasis>。如果您想要一个在性能和外观之间平衡的桌面，选择 <emphasis role="
+"\"strong\"></emphasis>。如果您想要很多桌面效果，比如窗口抖动、桌面立方体"
+"等等，选择 <emphasis role=\"strong\">扩展</emphasis>。比如说窗口抖动效果，"
 "在您等待更新完成或者邮件客户端收取邮件的时候，您可以打开窗口抖动特效，那些窗"
 "口就会开始舞动和出现 3D 效果。和它们玩玩是件有趣的事情！"
 
@@ -1279,14 +1280,14 @@ msgstr ""
 msgid ""
 "You can install software by using the Add/Remove application or the Synaptic "
 "Package Manager utility of Ubuntu"
-msgstr "使用“添加/删除程序”和“新立得软件包管理器”给 Ubuntu 安装新的程序。"
+msgstr "使用Ubuntu 软件中心和新立得软件包管理器给 Ubuntu 安装新的程序。"
 
 #: chapter2/xinclude.xml:870(para)
 msgid ""
 "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D "
 "desktop visual effects"
 msgstr ""
-"Compiz Fusion 在 Ubuntu 8.04 LTS 里默认启用，它能带给您有趣的 3D 桌面效果。"
+"Compiz Fusion 在 Ubuntu 9.10 里默认启用，它能带给您有趣的 3D 桌面效果。"
 
 #: chapter2/xinclude.xml:878(title)
 msgid "Review Exercise"
@@ -1353,10 +1354,10 @@ msgid ""
 "click <emphasis role=\"strong\">Add User.</emphasis> The <emphasis role="
 "\"strong\">New user account</emphasis> dialogue box appears."
 msgstr ""
-"<emphasis role=\"strong\">用户设置</emphasis>对话框中，单击<emphasis role="
-"\"strong\">点击以进行变更</emphasis>，按系统提示输入密码。单击<emphasis role="
-"\"strong\">添加用户</emphasis>，弹出<emphasis role=\"strong\">新建用户账户</"
-"emphasis>对话框。"
+"<emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
+"\"strong\">点击以进行变更</emphasis>，按系统提示输入密码。单击 <emphasis role="
+"\"strong\">添加用户</emphasis>，弹出 <emphasis role=\"strong\">新建用户账户</"
+"emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:944(para)
 msgid "In the dialogue box, specify the following information:"
@@ -1364,29 +1365,29 @@ msgstr "在对话框中指定下列信息："
 
 #: chapter2/xinclude.xml:948(para)
 msgid "Type charles in the <emphasis role=\"strong\">Username</emphasis> box."
-msgstr "在<emphasis role=\"strong\">用户名</emphasis>框中输入 charles 。"
+msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 charles。"
 
 #: chapter2/xinclude.xml:952(para)
 msgid ""
 "Select Desktop user from the <emphasis role=\"strong\">Profile</emphasis> "
 "box."
 msgstr ""
-"从<emphasis role=\"strong\">配置文件</emphasis>下拉列表中选择”桌面用户“。"
+"从 <emphasis role=\"strong\">配置文件</emphasis> 下拉列表中选择”桌面用户“。"
 
 #: chapter2/xinclude.xml:956(para)
 msgid ""
 "Type charles windsor in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
 msgstr ""
-"在<emphasis role=\"strong\">真实姓名</emphasis>框中输入 charles windsor 。"
+"在 <emphasis role=\"strong\">真实姓名</emphasis> 框中输入 Charles Windsor。"
 
 #: chapter2/xinclude.xml:961(para)
 msgid ""
 "Type password@1 in the <emphasis role=\"strong\">User password</emphasis> "
 "box."
 msgstr ""
-"在<emphasis role=\"strong\">用户密码</emphasis>框和<emphasis role=\"strong\">"
-"确认</emphasis>框中输入 password@1。"
+"在 <emphasis role=\"strong\">用户密码</emphasis> 框和 <emphasis role=\"strong\">"
+"确认</emphasis> 框中输入 password@1。"
 
 #: chapter2/xinclude.xml:975(para)
 msgid ""
@@ -1399,8 +1400,8 @@ msgid ""
 "Type charles in the <emphasis role=\"strong\">Username</emphasis> box and "
 "password@1 in the <emphasis role=\"strong\">Password</emphasis> box."
 msgstr ""
-"在<emphasis role=\"strong\">用户名</emphasis>文本框中输入 charles ，"
-"<emphasis role=\"strong\">密码</emphasis>文本框中输入 password@1。"
+"在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 charles，"
+"<emphasis role=\"strong\">密码</emphasis> 框中输入 password@1。"
 
 #: chapter2/xinclude.xml:986(para)
 msgid "Your friend can now work on this desktop."
@@ -1415,7 +1416,9 @@ msgstr "他访问属于您的文件的时候会被提示输入密码。所以，
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter2/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "Eleanor Chen <chenyueg@gmail.com>, 2009"
+msgstr ""
+"Eleanor Chen <chenyueg@gmail.com>, 2010\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2010"
 
 #~ msgid ""
 #~ "The last icon on the top panel shuts down, restarts, hibernates, locks "
