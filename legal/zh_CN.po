@@ -1,20 +1,19 @@
-# Simplified Chinese translation for ubuntu-desktop-course CHAPTER
+# Simplified Chinese translation for ubuntu-desktop-course legal-notice
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-#     JimHu <jimhuyiwei@gmail.com>, 2009.
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+#     JimHu <jimhuyiwei@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course CHAPTER\n"
+"Project-Id-Version: ubuntu-desktop-course legal-notice\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-10-30 17:23+0000\n"
-"Last-Translator: Name <email@address>\n"
+"PO-Revision-Date: 2010-01-05 03:06+0800\n"
+"Last-Translator: JimHu <jimhuyiwei@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
 
 #: legal/xinclude.xml:4(para)
 msgid "Written by and attributed to Canonical Ltd. and the Ubuntu Training community 2008-2009."
@@ -64,5 +63,5 @@ msgstr "关于这个著作权协议的更多信息，请参阅：http://creative
 #: legal/xinclude.xml:0(None)
 msgid "translator-credits"
 msgstr 
-"JimHu <jimhuyiwei@gmail.com>"
+"JimHu <jimhuyiwei@gmail.com>, 2010"
 

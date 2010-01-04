@@ -1,10 +1,8 @@
 # Simplified Chinese translation for ubuntu-desktop-course chapter9 ubuntu-help-and-support
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-#     Aron Xu <happyaron.xu@gmail.com>, 2009.
-#
-# Changes:
-#    1) Need to adapt some links from offical site to China LoCo site.
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+#     Aron Xu <happyaron.xu@gmail.com>, 2010
+#     Eleanor Chen <chenyueg@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
@@ -1629,7 +1627,8 @@ msgstr "Malone 是 Launchpad 所提供的缺陷跟踪工具。"
 #: chapter9/xinclude.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-"Aron Xu <happyaron.xu@gmail.com>, 2009\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2010\n"
+"Eleanor Chen <chenyueg@gmail.com>, 2010\n"
 "\n"
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"

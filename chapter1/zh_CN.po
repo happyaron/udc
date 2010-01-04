@@ -1,14 +1,15 @@
-# Simplified Chinese translation for ubuntu-desktop-course chapter2 exploring-the-ubuntu-desktop
+# Simplified Chinese translation for ubuntu-desktop-course chapter1 introducting-ubuntu
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-# Eleanor Chen <chenyueg@gmail.com>, 2009.
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+#     Eleanor Chen <chenyueg@gmail.com>, 2010
+#     Aron Xu <happyaron.xu@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubuntu-desktop-course using-internet\n"
+"Project-Id-Version: ubuntu-desktop-course introducting-ubuntu\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-04 02:10+0800\n"
-"PO-Revision-Date: 2010-01-04 01:37+0800\n"
+"PO-Revision-Date: 2010-01-05 02:57+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -262,8 +263,8 @@ msgid ""
 msgstr ""
 "1983年春天，Richard Matthew Stallman，这位曾经在 MIT 人工智能实验室工作的程序"
 "员，发起了 GNU 项目，旨在开发一个自由的类 Unix 的操作系统。他为专有软件的膨胀"
-"和随之而来的用户不再能够修改他们电脑上的程序而忧心忡忡。软件开发者被束缚，追"
-"求软件自由的思想也就不断增长。GNU 项目的创立，标志了自由软件运动的开始，随后"
+"和随之而来的用户不再能够修改他们电脑上的程序而忧心忡忡。软件开发者被束缚，"
+"有悖自由精神的现象随之普遍发生。GNU 项目的创立，标志了自由软件运动的开始，随后"
 "的 1985年10月，Stallman 又创立了自由软件基金会(Free Software Foundation, "
 "FSF)。"
 
@@ -1688,4 +1689,6 @@ msgstr "使用户能够更快地更新现有程序和获得其他程序，增强
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter1/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "Eleanor Chen <chenyueg@gmail.com>, 2009"
+msgstr ""
+"Eleanor Chen <chenyueg@gmail.com>, 2010\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2010"

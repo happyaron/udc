@@ -1,11 +1,8 @@
 # Simplified Chinese translation for ubuntu-desktop-course chapter3 using-internet
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-#     Aron Xu <happyaron.xu@gmail.com>, 2009.
-#
-# Changes:
-#    1) Network Manager section need to be rewrite.
-#    2) Pidgin had been changed to Empathy.
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+#     Aron Xu <happyaron.xu@gmail.com>, 2010
+#     Eleanor Chen <chenyueg@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
@@ -2882,7 +2879,8 @@ msgstr "至此，您已连接至 GTalk 服务器"
 #: chapter3/xinclude.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-"Aron Xu <happyaron.xu@gmail.com>, 2009\n"
+"Aron Xu <happyaron.xu@gmail.com>, 2010\n"
+"Eleanor Chen <chenyueg@gmail.com>, 2010\n"
 "\n"
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"
