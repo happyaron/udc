@@ -1,26 +1,26 @@
 # Simplified Chinese translation for ubuntu-desktop-course
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
 #   Translation Group 1: 
-#     Aron Xu <happyaron.xu@gmail.com>, 2009.
-#     Eleanor Chen <chenyueg@gmail.com>, 2009.
+#     Aron Xu <happyaron.xu@gmail.com>, 2010
+#     Eleanor Chen <chenyueg@gmail.com>, 2010
 #   Translation Group 2: 
-#     YunQiang Su <wzssyqa@gmail.com>, 2009.
-#     Yvonne <feidaozhanchen@gmail.com>, 2009.
+#     YunQiang Su <wzssyqa@gmail.com>, 2010
+#     Yvonne Ye <feidaozhanchen@gmail.com>, 2010
 #   Translation Group 3: 
-#     Nihui <shuizhuyuanluo@126.com>, 2009.
-#     Carlos Gong <bfsugxy@gmail.com>, 2009.
+#     Nihui <shuizhuyuanluo@126.com>, 2010
+#     Carlos Gong <bfsugxy@gmail.com>, 2010
 #   Review:
-#     HuntXu <mhuntxu@gmail.com>, 2009.
+#     HuntXu <mhuntxu@gmail.com>, 2010
 #   Graphics:
-#     JimHu <jimhuyiwei@gmail.com>, 2009.
+#     JimHu <jimhuyiwei@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course book\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2009-12-26 00:57+0800\n"
+"PO-Revision-Date: 2010-01-04 22:52+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -35,11 +35,11 @@ msgstr "Ubuntu 桌面培训"
 #: book/xinclude.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-"Aron Xu <happyaron.xu@gmail.com>, 2009\n"
-"Eleanor Chen <chenyueg@gmail.com>, 2009\n"
-"YunQiang Su <wzssyqa@gmail.com>, 2009\n"
-"Yvonne <feidaozhanchen@gmail.com>, 2009\n"
-"Nihui <shuizhuyuanluo@126.com>, 2009\n"
-"Carlos Gong <bfsugxy@gmail.com>, 2009\n"
-"HuntXu <mhuntxu@gmail.com>, 2009\n"
-"JimHu <jimhuyiwei@gmail.com>, 2009"
+"Aron Xu <happyaron.xu@gmail.com>, 2010\n"
+"Eleanor Chen <chenyueg@gmail.com>, 2010\n"
+"YunQiang Su <wzssyqa@gmail.com>, 2010\n"
+"Yvonne <feidaozhanchen@gmail.com>, 2010\n"
+"Nihui <shuizhuyuanluo@126.com>, 2010\n"
+"Carlos Gong <bfsugxy@gmail.com>, 2010\n"
+"HuntXu <mhuntxu@gmail.com>, 2010\n"
+"JimHu <jimhuyiwei@gmail.com>, 2010"
