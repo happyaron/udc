@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course legal-notice\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2010-01-05 03:06+0800\n"
+"PO-Revision-Date: 2010-01-05 04:00+0800\n"
 "Last-Translator: JimHu <jimhuyiwei@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: legal/xinclude.xml:4(para)
 msgid "Written by and attributed to Canonical Ltd. and the Ubuntu Training community 2008-2009."
-msgstr "撰写并且归因于 Canonical 有限公司和 Ubuntu 培训社区 2008-2009。"
+msgstr "撰写并且归因于 Canonical 有限公司和 Ubuntu 培训社区 2008-2010。"
 
 #: legal/xinclude.xml:6(para)
 msgid "This license is bound by the Creative Commons: CC by NC SA"
