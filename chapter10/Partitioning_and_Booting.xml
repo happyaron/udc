@@ -526,22 +526,6 @@
         </step>
         
         <step performance="required">
-          <para>If you want more control on the mount of partitions,you can click 
-          <emphasis role="strong">system</emphasis> menu,and point to <emphasis role="strong">administrate</emphasis>,
-          then click <emphasis role="strong">Disk Utility</emphasis>.The <emphasis role="strong">Palimpsest Disk Utility</emphasis>
-          windows opnens.</para>
-          <figure float="0">
-            <title>Palimpsest Disk Utility</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson11_images_018.png" width="11cm" format="PNG"/>
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-        
-        <step performance="required">
           <para>If you want delete a existing partition,you can right-click the partition,
           and choose <emphasis role="strong">delete</emphasis>.</para>
           
