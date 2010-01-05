@@ -1,16 +1,14 @@
-# Chinese (Simplified) translation for ubuntu-desktop-course
+# Chinese (Simplified) translation for ubuntu-desktop-course chapter7 Managing_Graphics_and_Photos
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-# This file is distributed under the same license as the ubuntu-desktop-course package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
-# Yvonne Ye <feidaozhanchen@gmail.com>,2010
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+# 	Yvonne Ye <feidaozhanchen@gmail.com>,2010
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter7\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-01-04 23:08+0800\n"
+"PO-Revision-Date: 2010-01-05 17:18+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -953,7 +951,7 @@ msgstr "用户需要键入图库名称、网址和网站登录信息。F-Spot �
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter7/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "Yvonne Ye <feidaozhanchen@gmail.com>,2010"
+msgstr "Yvonne Ye <feidaozhanchen@gmail.com>, 2010"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson08_images_032.png'; "

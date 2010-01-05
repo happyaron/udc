@@ -1,15 +1,14 @@
-# Chinese (Simplified) translation for ubuntu-desktop-course for chapter10
+# Chinese (Simplified) translation for ubuntu-desktop-course for chapter10 Partitioning_and_Booting
 # This file is distributed under the same license as the ubuntu-desktop-course package.
-# Copyright (C) 2009 Canonical Ltd and translation contributors:
-# This file is distributed under the same license as the ubuntu-desktop-course package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
-# YunQiang Su <wzssyqa@gmail.com>,2010
+# Copyright (C) 2010 Canonical Ltd and translation contributors:
+# 	YunQiang Su <wzssyqa@gmail.com>,2010
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course chapter10\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-04 22:50+0800\n"
-"PO-Revision-Date: 2010-01-04 23:10+0800\n"
+"PO-Revision-Date: 2010-01-05 17:19+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -810,7 +809,7 @@ msgstr "如果您确定新分区的参数，点击 <emphasis role=\"strong\">提
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter10/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "YunQiang Su <wzssyqa@gmail.com>,2010"
+msgstr "YunQiang Su <wzssyqa@gmail.com>, 2010"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson11_images_018.png'; "
