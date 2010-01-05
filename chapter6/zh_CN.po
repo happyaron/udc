@@ -1,4 +1,4 @@
-# Chinese (Simplified) translation for ubuntu-desktop-course
+# Chinese (Simplified) translation for ubuntu-desktop-course chapter6 customizing-the-desktop-and-applications
 # Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 #
@@ -582,11 +582,11 @@ msgstr "在本课中，您将学到如何："
 
 #: chapter6/xinclude.xml:12(para)
 msgid "Customise the look and feel of the Ubuntu desktop"
-msgstr "自定义 Ubuntu 桌面的感观"
+msgstr "自定义 Ubuntu 桌面的外观"
 
 #: chapter6/xinclude.xml:16(para)
 msgid "Work with the Nautilus file manager"
-msgstr "使用 Nautilus 文件管理器工作"
+msgstr "使用 Nautilus 文件管理器"
 
 #: chapter6/xinclude.xml:20(para)
 msgid "Add and remove applications"
@@ -618,8 +618,8 @@ msgid ""
 "and buttons. Customising your desktop allows you to add icons to suit your "
 "work style."
 msgstr ""
-"Ubuntu 桌面自带了完全简洁自由的预设图标和按钮。通过自定义桌面，您可添加图标以"
-"迎合您工作的风格。"
+"Ubuntu 桌面预设的图标和按钮非常简洁，完全自由。通过自定义桌面，您可添加图标以"
+"配合您的工作风格。"
 
 #: chapter6/xinclude.xml:47(para)
 msgid ""
@@ -627,7 +627,7 @@ msgid ""
 "desktop to suit your requirements. You will also learn how to install and "
 "uninstall various software applications."
 msgstr ""
-"在本课程中，您将学到多种不同的途径设置您的 Ubuntu 桌面以符合您的需求。您还会"
+"在本课程中，您将学会通过多种不同的途径设置 Ubuntu 桌面，以使它符合您的需求。您还会"
 "学到如何安装和卸载各种软件应用程序。"
 
 #: chapter6/xinclude.xml:53(title)
@@ -638,7 +638,7 @@ msgstr "自定义桌面"
 msgid ""
 "Ubuntu and its derivatives can be customised through a Graphical User "
 "Interface or a Command Line Interface."
-msgstr "Ubuntu 及其衍生版本皆可通过图形用户界面或命令行界面自定义。"
+msgstr "Ubuntu 及其衍生版本皆可通过图形用户界面或命令行界面进行自定义。"
 
 #: chapter6/xinclude.xml:58(para)
 msgid ""
@@ -841,7 +841,7 @@ msgid ""
 "visitors to download and use their content for personal use. Many people "
 "also use their own digital photographs as backgrounds."
 msgstr ""
-"您当然可以将其它任何来源的图片用作桌面背景。许多热门的在线照片合作站点允许访"
+"当然，您也可以将其它任何来源的图片用作桌面背景。许多热门的在线照片分享站点允许访"
 "客以个人使用名义下载并使用他们的内容。还有很多人把他们自己的数码照片设为背"
 "景。"
 
@@ -1492,7 +1492,7 @@ msgstr "教员注记："
 #: chapter6/xinclude.xml:829(para)
 msgid ""
 "Compare browser mode with Firefox to help students appreciate the similarity."
-msgstr "把浏览模式与 Firefox 做比较以帮助学生领会其相似性。"
+msgstr "可以把浏览模式与火狐浏览器做比较以帮助学生领会其相似性。"
 
 #: chapter6/xinclude.xml:835(title)
 msgid "Nautilus"
@@ -1701,7 +1701,7 @@ msgid ""
 "and then use a <emphasis role=\"strong\">package manager</emphasis> to tell "
 "Ubuntu to install them."
 msgstr ""
-"Ubuntu 拥有尖端的 <emphasis role=\"strong\">软件包管理框架</emphasis>，它能跟"
+"Ubuntu 拥有先进的 <emphasis role=\"strong\">软件包管理框架</emphasis>，它能跟"
 "踪所有已安装的软件、自动化进行安装和删除应用程序、以及确保所有软件都保持更新"
 "以获得最新的增强功能和错误修复。您所做的仅仅是决定您想安装哪个应用程序，然后"
 "使用 <emphasis role=\"strong\">软件包管理器</emphasis> 来告诉 Ubuntu 去安装它"
@@ -1906,7 +1906,7 @@ msgid ""
 "packages that are already installed on your system. In addition, it presents "
 "more information such as package status, origin and filters."
 msgstr ""
-"您可以安装、删除、配置或升级软件包，浏览、排序和搜索可用软件包列表，管理仓库"
+"您可以使用新立得来安装、删除、配置或升级软件包，浏览、排序和搜索可用软件包列表，管理仓库"
 "或升级整个系统。您可以在执行更改前将一系列动作加入操作队列。新立得会通知您安"
 "装您所选软件包需要的额外软件包，以及与您计算机上已安装软件包之间的冲突。除此"
 "之外，它还展示更多诸如软件包状态、来源和过滤器信息。"
@@ -2096,7 +2096,7 @@ msgid ""
 "This source code needs to be compiled before use. Installing programmes by "
 "compiling them from source is not covered by this course."
 msgstr ""
-"源码包：包含程序源代码的 zip 压缩归档。使用前需要编译源代码。本课程不包括如何"
+"源码包：包含程序源代码的压缩文件包。使用前需要编译源代码。本课程不包括如何"
 "从源代码编译安装程序。"
 
 #: chapter6/xinclude.xml:1433(para)
@@ -2135,7 +2135,7 @@ msgid ""
 "which are not in the Ubuntu repositories these will also need to be "
 "installed manually."
 msgstr ""
-"Debian 软件包使用图形安装器(gdebi)安装和卸载。gdebi 会尝试在 Ubuntu 仓库中安"
+"Debian 软件包使用图形安装器 (gdebi) 安装和卸载。gdebi 会尝试在 Ubuntu 仓库中安"
 "装任何需要的依赖软件包，然而，如果软件包需要的额外依赖软件包不存在于 Ubuntu "
 "仓库，那么您得手动安装它们。"
 
@@ -2193,7 +2193,7 @@ msgid ""
 "freely available packages for you to download and install. These packages "
 "have been specially built and selected for Ubuntu."
 msgstr ""
-"软件仓库是互联网上可用软件包(应用程序)的图书馆。Ubuntu 仓库包含数万个可供您自"
+"软件仓库是收藏互联网上可用软件包(应用程序)的“图书馆”。Ubuntu 仓库包含数万个可供您自"
 "由下载和安装的可用软件包。这些软件包是专门为 Ubuntu 构建和挑选的。"
 
 #: chapter6/xinclude.xml:1503(title)
@@ -2207,7 +2207,7 @@ msgid ""
 "level of compliance the programme has with the free software philosophy."
 msgstr ""
 "Ubuntu 仓库分为四个类别，每个类别对应于不同的等级，包括软件开发团队对某个程序"
-"的支持程度，以及程序与自由软件观念的符合性。"
+"的支持程度，以及该程序与自由软件观念的符合性。"
 
 #: chapter6/xinclude.xml:1512(emphasis)
 msgid "Main"
@@ -2480,12 +2480,12 @@ msgstr ""
 "新语言支持可通过 <emphasis role=\"strong\">管理/系统管理</emphasis> 菜单中的 <emphasis "
 "role=\"strong\">语言支持</emphasis> 安装。对于不同的语言，可能还需要安装输入法和键盘映射。<emphasis>"
 "Intelligent Input Bus for Linux / Unix OS</emphasis>(IBus)是 Ubuntu "
-"在许多非拉丁语言支持上使用的输入法，可输入各种复杂的字符及互相切换输入语言。<emphasis>ctrl space</emphasis> "
-"方便切换输入法的热键。"
+"在许多非拉丁语言支持上使用的输入法，可输入各种复杂的字符及互相切换输入语言。使用热键<emphasis>ctrl space</emphasis> "
+"可以方便地切换输入法。"
 
 #: chapter6/xinclude.xml:1758(title)
 msgid "Lesson Summary"
-msgstr "课程总结"
+msgstr "本课小结"
 
 #: chapter6/xinclude.xml:1760(para)
 msgid "In this lesson, you learned that:"
@@ -2499,7 +2499,7 @@ msgid ""
 msgstr ""
 "GNOME 是 Ubuntu 的默认桌面。您可以使用 <emphasis role=\"strong\">系统</"
 "emphasis> 菜单中的 <emphasis role=\"strong\">首选项</emphasis> 来自定义 Ubuntu "
-"桌面的感观。"
+"桌面的外观。"
 
 #: chapter6/xinclude.xml:1770(para)
 msgid ""
@@ -2535,11 +2535,11 @@ msgid ""
 "Tarballs are zipped archive files that contain the source code of a "
 "programme. You can use advanced command line tools to install or uninstall "
 "the tarball file."
-msgstr "源码包是种 zip 压缩的归档文件，包含程序的源代码。您可使用高级的命令行工具来安装或卸载源码包文件。"
+msgstr "源码包是种经过压缩的归档文件，包含程序的源代码。您可使用高级的命令行工具来安装或卸载源码包文件。"
 
 #: chapter6/xinclude.xml:1803(title)
 msgid "Review Exercise"
-msgstr "复习测验"
+msgstr "复习题"
 
 #: chapter6/xinclude.xml:1808(para)
 msgid "What is the default desktop for Ubuntu?"
@@ -2564,7 +2564,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:1830(para)
 msgid "Mention any three features of the Nautilus file manager."
-msgstr "谈谈 Nautilus 文件管理器的任意三种特效。"
+msgstr "谈谈 Nautilus 文件管理器的任意三种特性。"
 
 #: chapter6/xinclude.xml:1835(para)
 msgid "Three features of the Nautilus file manager are:"
@@ -2622,17 +2622,17 @@ msgstr "软件中心应用程序是图形界面的软件包管理器，而 apt-g
 msgid ""
 "Software that is not licensed under Ubuntu's main component licensing policy "
 "is referred to as _______________."
-msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被成为_______________。"
+msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被称为_______________。"
 
 #: chapter6/xinclude.xml:1897(para)
 msgid ""
 "Software that is not licensed under Ubuntu's main component licensing policy "
 "is referred to as non-free software."
-msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被成为非自由软件。"
+msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被称为非自由软件。"
 
 #: chapter6/xinclude.xml:1905(title)
 msgid "Lab Exercise"
-msgstr "实践练习"
+msgstr "上机练习"
 
 #: chapter6/xinclude.xml:1910(para)
 msgid ""
