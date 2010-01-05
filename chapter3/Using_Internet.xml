@@ -1351,17 +1351,14 @@
             </mediaobject>
           </figure>
 
-          <procedure>
+          <formalpara>
             <title>To activate the junk mail filters in Thunderbird:</title>
 
-            <para>
-              <para>On the <emphasis role="strong">Tools</emphasis> menu,
+            <para>On the <emphasis role="strong">Tools</emphasis> menu,
               click <emphasis role="strong">Junk Mail Controls</emphasis>. The
               <emphasis role="strong">Junk Mail Controls</emphasis> window
               will be displayed.</para>
-            </para>
-
-          </procedure>
+          </formalpara>
         </listitem>
 
         <listitem>
