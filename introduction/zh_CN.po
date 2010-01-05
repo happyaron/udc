@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2010-01-04 23:12+0800\n"
+"PO-Revision-Date: 2010-01-05 09:14+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -601,7 +601,7 @@ msgid ""
 "Familiarise yourself with the student profile and expectations. Some "
 "elements of the course may need to be customised."
 msgstr ""
-"了解学生的资料和期望。课程中的某些部分可能要按需进行调整。"
+"了解学生的资质和期望。课程中的某些部分可能要按需进行调整。"
 
 #: introduction/xinclude.xml:1112(para)
 msgid ""
@@ -630,7 +630,7 @@ msgid ""
 "the presentation slides. Please ensure to cover the related topics prior to "
 "posing the questions to the students."
 msgstr ""
-"学生可能由于教学用幻灯片内容的局限而无法回答所有的问题。请您在提出问题之前确保"
+"学生可能由于教学幻灯片内容的局限而无法回答所有问题。请您在提出问题之前确保"
 "您的教学内容已覆盖相关的主题。"
 
 #: introduction/xinclude.xml:1133(para)
@@ -700,7 +700,7 @@ msgid ""
 "Be prompt with your responses to student queries. If you are not sure about "
 "anything, inform them and get back with your response the next day."
 msgstr ""
-"请尽快回答学生的疑问。如果您对某些问题不确定，请先告诉他们并争取在隔天给出答复。"
+"请尽快回答学生的疑问。如果有不确定的问题，应向学生说明情况并争取在隔天给出答复。"
 
 #: introduction/xinclude.xml:1185(para)
 msgid ""
@@ -716,7 +716,7 @@ msgid ""
 "appropriate ways depending on the audience profile and their comfort with "
 "Ubuntu."
 msgstr ""
-"按照对象的资料和对 Ubuntu 的熟练程度，适当地使用各种教学手段 (幻灯片、范例"
+"按照对象的资质和对 Ubuntu 的熟练程度，适当地使用各种教学手段 (幻灯片、范例"
 "和引导进行实验练习)。"
 
 #: introduction/xinclude.xml:1196(para)
@@ -728,7 +728,7 @@ msgid ""
 msgstr ""
 "使用幻灯片帮助您专注于当前主题而避免离题，确保不遗漏任何有关信息的同时着重对"
 "对主要的知识点进行讲解。偶尔看一眼特定的知识点，并尽快将您的注意力重新放回学"
-"生身上。避免单调地逐字阅读幻灯片上的内容。"
+"生身上。避免单调地逐字复述幻灯片上的内容。"
 
 #: introduction/xinclude.xml:1203(para)
 msgid ""
@@ -754,8 +754,8 @@ msgid ""
 "themselves - name, professional background, and company, expectations and "
 "level of experience with Linux OS."
 msgstr ""
-"欢迎学生们，然后做一个自我介绍，再让学生们介绍自己，包括名字、职业背景、公司"
-"对课程的期望和对 Linux 操作系统的熟悉程度。"
+"欢迎学生们，然后做一个自我介绍，再让学生们介绍自己，包括名字、职业背景、所在"
+"公司、对本课程的期望和对 Linux 操作系统的熟悉程度。"
 
 #: introduction/xinclude.xml:1224(para)
 msgid ""
@@ -799,8 +799,8 @@ msgid ""
 "wide range of teaching styles and methods is also a good instructional "
 "practice as it brings in variety and breaks monotony."
 msgstr ""
-"您可以使用以上介绍的任意教学方法，也可以按照学生的资料和教学内容的复杂程度任意"
-"组合以上提到的方法。多样的教学风格和方法以避免单调也是很好的教学实践。"
+"您可以使用以上介绍的任意教学方法，也可以按照学生的资质和教学内容的复杂程度任意"
+"组合以上提到的方法。采用多样的教学风格和方法可以避免单调，有利于教学实践。"
 
 #: introduction/xinclude.xml:1261(para)
 msgid ""
@@ -842,7 +842,7 @@ msgstr ""
 
 #: introduction/xinclude.xml:1290(para)
 msgid "Reiterating how the topic relates with the learner's job."
-msgstr "重申该主题和学生的工作之间存在的联系"
+msgstr "重申该主题与学生实际工作之间的相关性。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: introduction/xinclude.xml:0(None)
