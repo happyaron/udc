@@ -1251,7 +1251,7 @@
         <title>Evolution E-mail Client</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson02_images_008.png" format="PNG"/>
+            <imagedata fileref="images/Lesson02_images_008.png" width="15cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1264,12 +1264,11 @@
         available at an additional cost. 
         <figure float="0">
           <title>
-            <emphasis role="italic">OpenOffice.org
-            Writer</emphasis>
+            <emphasis role="italic">OpenOffice.org Writer</emphasis>
           </title>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson02_images_009.png" format="PNG"/>
+              <imagedata fileref="images/Lesson02_images_009.png" width="15cm" format="PNG"/>
             </imageobject>
           </mediaobject>
         </figure></para>
@@ -1310,7 +1309,7 @@
         <title>GIMP</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson02_images_010.png" format="PNG"/>
+            <imagedata fileref="images/Lesson02_images_010.png" width="15cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
