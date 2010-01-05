@@ -1,4 +1,4 @@
-# Simplified Chinese translation for ubuntu-desktop-course chapter4 using-openOffice-applications
+# Simplified Chinese translation for ubuntu-desktop-course chapter4 using-openoffice-applications
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
 #     Carlos Gong <bfsugxy@gmail.com>, 2009, 2010.
@@ -1075,7 +1075,7 @@ msgstr "对于熟悉办公套件的学生，可能想更深入了解这些应用
 
 #: chapter4/Using_OpenOffice_Applications.xml:57(title)
 msgid "Introducing the OpenOffice.org Suite"
-msgstr "OpenOffice 套件介绍"
+msgstr "OpenOffice.org 套件介绍"
 
 #: chapter4/Using_OpenOffice_Applications.xml:59(para)
 msgid ""
@@ -1333,7 +1333,7 @@ msgid ""
 "that may include components such as bibliographies, reference tables and "
 "indexes. Some of these features are: <placeholder-1/>"
 msgstr ""
-" OpenOffice 为你提供了大量实用的功能，既可以"
+" OpenOffice.org Writer为你提供了大量实用的功能，既可以"
 "创建基本的文本文件，也可以胜任拥有"
 "参考书目，引文表格和超长索引的复杂"
 "文档。其中一些特性包括: <placeholder-1/>"
@@ -1352,7 +1352,7 @@ msgid ""
 "frames and pages."
 msgstr ""
 "<emphasis role=\"strong\">“样式和格式”窗口：</emphasis> 样式和格式"
-"窗口是整个 OpenOffice 办公套件各部分的共同特性，在"
+"窗口是整个 OpenOffice.org 办公套件各部分的共同特性，在"
 "套件的各个程序中都可以使用。"
 "通过这个窗口，你可以创建，分配和"
 "修改段落，表格，框架，页面甚至每一个"
@@ -1387,7 +1387,7 @@ msgid ""
 "OpenOffice.org enables you to design and structure your text document by "
 "using an assortment of features, including: <placeholder-1/>"
 msgstr ""
-"OpenOffice 办公套件为你提供了很多实用的特性，"
+"OpenOffice.org 办公套件为你提供了很多实用的特性，"
 "使你能够对文档进行设计和排版，这些特性包括 <placeholder-1/>"
 
 #: chapter4/Using_OpenOffice_Applications.xml:300(title)
@@ -1421,7 +1421,7 @@ msgid ""
 "<emphasis role=\"strong\"> Tables:</emphasis> OpenOffice.org Writer also "
 "enables you to create or insert a table into a text document."
 msgstr ""
-"<emphasis role=\"strong\"> 表格:</emphasis> 使用 OpenOffice.org，"
+"<emphasis role=\"strong\"> 表格:</emphasis> 使用 OpenOffice.org Writer，"
 "你也可以在文档中创建或插入表格。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:302(para)
@@ -1456,9 +1456,9 @@ msgid ""
 "in the same document, from one OpenOffice document to another and from the "
 "Gallery to your OpenOffice document."
 msgstr ""
-"这一独特的特性使你能够在同一文档中，"
-"不同 OpenOffice.org 程序中拖曳对象，你"
-"也可以将图片从照片集中拖入 OpenOffice.org 文档。"
+"这一独特的特性使你能够在同一文档中和"
+"不同的 OpenOffice.org 程序中拖曳对象，你"
+"也可以将图片从照片集中拖入 OpenOffice 文档。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:345(title)
 msgid "The Help Function"
