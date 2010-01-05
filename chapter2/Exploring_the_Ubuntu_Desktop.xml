@@ -125,7 +125,9 @@
     </figure>
 
     <para>There are three main menus in the left pane of the top panel:
-    Applications, Places and System. <itemizedlist>
+    Applications, Places and System. </para>
+
+    <itemizedlist>
         <listitem>
           <formalpara>
             <title>Applications:</title>
@@ -193,7 +195,7 @@
             </mediaobject>
           </figure>
         </listitem>
-      </itemizedlist></para>
+      </itemizedlist>
 
     <para>By default, there are three shortcut icons next to the menus on the
     top panel: Mozilla Firefox, Evolution and Help. You can create additional
