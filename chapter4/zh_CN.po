@@ -1466,7 +1466,7 @@ msgstr "帮助功能"
 
 #: chapter4/Using_OpenOffice_Applications.xml:347(para)
 msgid "This is a complete reference for your Writer."
-msgstr "OpenOffice.org Writer拥有完整的帮助文档"
+msgstr "OpenOffice.org 文字处理拥有完整的帮助文档"
 
 #: chapter4/Using_OpenOffice_Applications.xml:352(title)
 msgid "Performing Basic Word-Processing Tasks"
@@ -1482,7 +1482,7 @@ msgid ""
 "the basic word-processing tasks in Writer are described in the following "
 "sections."
 msgstr ""
-"通过使用 OpenOffice.org Writer，你可以完成大量文字处理"
+"通过使用 OpenOffice.org 文字处理，你可以完成大量文字处理"
 "任务。比如撰写，编辑，排版，批阅和打印文档。"
 "你也可以在使用大量的模板，在文档中应用各种不同"
 "的样式，控制页面布局，插入，编辑和创建图形。"
@@ -1500,7 +1500,7 @@ msgid ""
 "can enter text using your keyboard and then apply a variety of formats to "
 "the text, as per the document's requirements."
 msgstr ""
-"首先，OpenOffice.org Writer 可以用来撰写和编辑文本。你"
+"首先，OpenOffice.org 文字处理可以用来撰写和编辑文本。你"
 "可以使用键盘输入一段文本，然后根据不同的要求来"
 "进行各种编辑工作。"
 
@@ -1509,7 +1509,7 @@ msgid ""
 "You can use the following steps to enter and format text using "
 "OpenOffice.org Writer:"
 msgstr ""
-"通过以下的步骤，你可以在 OpenOffice.org Writer 中输入和"
+"通过以下的步骤，你可以在 OpenOffice.org 文字处理中输入和"
 "编辑文本。"
 
 #: chapter4/Using_OpenOffice_Applications.xml:376(para)
@@ -3046,7 +3046,7 @@ msgstr "创建，查看和打印演示文稿"
 
 #: chapter4/Using_OpenOffice_Applications.xml:1805(para)
 msgid "To create and view presentations using OpenOffice.org Impress:"
-msgstr "要使用 OpenOffice.org Impress 创建和查看演示文稿："
+msgstr "要使用 OpenOffice.org 演示来创建和查看演示文稿："
 
 #: chapter4/Using_OpenOffice_Applications.xml:1809(para) chapter4/Using_OpenOffice_Applications.xml:4465(para)
 msgid ""
@@ -5327,7 +5327,7 @@ msgid ""
 "Name the software tool that guide you through the creation of a formula in "
 "OpenOffice.org Calc."
 msgstr ""
-"OpenOffice.org Calc 中引导你建立公式的工具叫什么？"
+"OpenOffice.org 电子表格中引导你建立公式的工具叫什么？"
 
 #: chapter4/Using_OpenOffice_Applications.xml:3979(para)
 msgid "The Function Wizard"
