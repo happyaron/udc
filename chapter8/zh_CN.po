@@ -1053,7 +1053,7 @@ msgid ""
 msgstr ""
 "格式的许可不同于内容的许可。例如，一个视频的内容可能以知识共享(Creative "
 "Commons)许可证发布，同时以 MPEG 文件格式得到。尽管其内容可以自由分发，但是该"
-"文件格式却是私有的且在一些地区使用支持该格式的播放软件可能需要许可证。"
+"文件格式却是专有的且在一些地区使用支持该格式的播放软件可能需要许可证。"
 
 #: chapter8/xinclude.xml:47(para)
 msgid ""
@@ -1061,7 +1061,7 @@ msgid ""
 "formats, you first need to understand the difference between free and non-"
 "free or proprietary formats."
 msgstr ""
-"要理解使用专有格式伴随的法律问题，首先需要理解自由和非自由(或者叫私有)格式间"
+"要理解使用专有格式伴随的法律问题，首先需要理解自由和非自由(或者叫专有)格式间"
 "的区别。"
 
 #: chapter8/xinclude.xml:53(title)
@@ -1472,7 +1472,6 @@ msgstr ""
 "式。和 MP3 格式一样，它忽略了人们不敏感的某些频率成分。同样的内容，Ogg "
 "Vorbis 文件文件的大小只有 WAV 文件的十分之一。"
 
-# mohu
 #: chapter8/xinclude.xml:463(para)
 msgid ""
 "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open "
@@ -1671,16 +1670,11 @@ msgstr ""
 "曲目以何种文件格式保存到计算机上。从 <emphasis role=\"strong\">输出格式</"
 "emphasis> 下拉菜单中选择所需格式。"
 
-#: chapter8/xinclude.xml:623(para)
-msgid ""
-"You can also extract CD audio files to the proprietary, non-free MP3 format. "
-"Instructions for extracting audio files into the MP3 format can be found in "
-"the help for Sound Juicer. Go to <emphasis role=\"strong\">Help&gt;Content</"
-"emphasis> and then navigate to the Preferences section."
-msgstr ""
-"也可以以私有、非自由的 MP3 格式提取音频文件。其操作指导可以在音乐榨汁机的帮助"
-"文档中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到"
-"首选项节。"
+
+#: chapter8/xinclude.xml:625(para)
+msgid "You can also extract CD audio files to the proprietary, non-free MP3 format. Instructions for extracting audio files into the MP3 format can be found in the help for Sound Juicer. Go to <emphasis role=\"strong\">Help&gt;Content</emphasis> and then navigate to the Preferences section."
+msgstr "也可以以专有、非自由的 MP3 格式提取音频文件。其操作指导可以在音乐榨汁机的帮助文档中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到首选项节。"
+
 
 #: chapter8/xinclude.xml:631(title)
 msgid "Specifying Audio Format"
@@ -1894,7 +1888,7 @@ msgstr "写入音频 CD"
 
 #: chapter8/xinclude.xml:863(title)
 msgid "Playing Proprietary Multimedia Formats"
-msgstr "播放私有多媒体格式"
+msgstr "播放专有多媒体格式"
 
 #: chapter8/xinclude.xml:865(para)
 msgid ""
@@ -2029,18 +2023,16 @@ msgstr ""
 msgid "Applying Changes"
 msgstr "提交更改"
 
-#: chapter8/xinclude.xml:975(para) chapter8/xinclude.xml:2933(para)
-msgid ""
-"On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the "
-"system starts checking the repositories for new, removed or upgraded "
-"software packages."
-msgstr ""
-"点击 <emphasis role=\"strong\">刷新</emphasis> 按钮，系统开始检查软件库以获取"
-"新的、已移除的或更新了版本的软件包。"
+#: chapter8/xinclude.xml:1004(para)
+#: chapter8/xinclude.xml:3120(para)
+msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
+msgstr "点击 <emphasis role=\"strong\">刷新</emphasis> 按钮，系统开始检查软件库以获取新加入的或更新了版本的软件包。"
+
 
 #: chapter8/xinclude.xml:980(title)
 msgid "Checking Package Information"
 msgstr "检查软件包信息"
+
 
 #: chapter8/xinclude.xml:991(para)
 msgid ""
@@ -2513,20 +2505,9 @@ msgid "Playing DVDs"
 msgstr "播放 DVD"
 
 # 原文错误 sotware
-#: chapter8/xinclude.xml:1483(para)
-msgid ""
-"Most commercial DVDs are encrypted with the Content Scrambling System (CSS), "
-"which attempts to restrict the sotware that can play a DVD. By default, "
-"Ubuntu is capable of playing DVDs that are not encrypted. Due to legal "
-"restrictions surrounding the CSS format, as well as Ubuntu's commitment to "
-"free multimedia formats, some software packages needed for encrypted DVD "
-"playback are not installed by default in Ubuntu. You can install these "
-"packages from Ubuntu repositories to enable the playback of encrypted DVDs."
-msgstr ""
-"多数商业 DVD 是使用内容加扰系统(Content Scrambling System，CSS) 加密的，以播"
-"放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格"
-"式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件"
-"包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
+#: chapter8/xinclude.xml:1665(para)
+msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
+msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System,CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
 
 #: chapter8/xinclude.xml:1495(para)
 msgid ""
@@ -3478,11 +3459,11 @@ msgid ""
 "unique to each country."
 msgstr "软件使用和发行是由每个国家各自的法律法规控制的。"
 
-#: chapter8/xinclude.xml:2418(para)
-msgid ""
-"When using or redistributing proprietary media formats, you should be aware "
-"of the associated patent or copyright laws."
-msgstr "在使用或重新发布私有媒体格式前，您应该知道与之相关的专利或版权法。"
+
+#: chapter8/xinclude.xml:2600(para)
+msgid "When using or redistributing proprietary media formats, you should be aware of the associated patent or copyright laws."
+msgstr "在使用或重新发布专有媒体格式前，您应该知道与之相关的专利或版权法。"
+
 
 #: chapter8/xinclude.xml:2423(para)
 msgid ""
@@ -3501,11 +3482,11 @@ msgstr ""
 "使用音乐榨汁机，可以从 CD 播放或提取音频曲目，或者转换成其他格式的音频文件。"
 "另外，Ubuntu 默认的音频光盘刻录器——Brasero 可以用来创建音频和数据光盘。"
 
-#: chapter8/xinclude.xml:2435(para)
-msgid ""
-"Playback of proprietary multimedia formats can be enabled in Ubuntu by "
-"installing additional multimedia codecs from the repositories."
-msgstr "Ubuntu 中可以通过从软件库安装附加的多媒体解码器来播放私有多媒体格式。"
+
+#: chapter8/xinclude.xml:2617(para)
+msgid "Playback of proprietary multimedia formats can be enabled in Ubuntu by installing additional multimedia codecs from the repositories."
+msgstr "Ubuntu 中可以通过从软件库安装附加的多媒体解码器来播放专有多媒体格式。"
+
 
 #: chapter8/xinclude.xml:2441(para)
 msgid "Sound Recorder can be used to create audio files in various formats."
@@ -3601,14 +3582,11 @@ msgstr "b) Rhythmbox"
 msgid "What are podcasts?"
 msgstr "什么是播客？"
 
-#: chapter8/xinclude.xml:2538(para)
-msgid ""
-"Podcasts are audio shows, broadcasted over the Internet, that you can "
-"subscribe to. Subscribing to a podcast enables you to download each new "
-"audio release from the subscribed podcast source."
-msgstr ""
-"播客是一种在互联网上发布文件并允许用户订阅以自动接收新文件的方法，或用此方法"
-"来制作的电台节目。通过订阅播客可以从播客源下载每个新版音频文件。"
+
+#: chapter8/xinclude.xml:2725(para)
+msgid "Podcasts are audio shows, broadcasted over the Internet, that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
+msgstr "播客是一种在互联网上发布文件并允许用户订阅以自动接收新文件的方法，或用此方法来制作的电台节目。通过订阅播客可以从播客源下载每个新版多媒体文件。"
+
 
 #: chapter8/xinclude.xml:2547(para)
 msgid ""
@@ -3679,15 +3657,11 @@ msgstr "Brasero 是 Ubuntu 默认捆绑的音频 CD 刻录程序。"
 msgid "Why do you need to install additional multimedia codecs in Ubuntu?"
 msgstr "为什么需要在 Ubuntu 中安装附加多媒体解码器？"
 
-#: chapter8/xinclude.xml:2631(para)
-msgid ""
-"Due to the legal restrictions associated with the use of proprietary "
-"formats, by default, Ubuntu does not offer support for such formats. You "
-"need to install additional multimedia codecs to enabling such proprietary "
-"media formats in Ubuntu."
-msgstr ""
-"由于对于使用专有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。您需要安装"
-"附加的多媒体解码器以支持这些私有媒体格式。"
+
+#: chapter8/xinclude.xml:2818(para)
+msgid "Due to the legal restrictions associated with the use of proprietary formats, by default, Ubuntu does not offer support for such formats. You need to install additional multimedia codecs to enabling such proprietary media formats in Ubuntu."
+msgstr "由于使用专有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。您需要安装附加的多媒体解码器以支持这些专有媒体格式。"
+
 
 #: chapter8/xinclude.xml:2640(para)
 msgid ""
@@ -3998,7 +3972,7 @@ msgstr "Brasero 现在开始向光盘写入音乐文件。"
 
 #: chapter8/xinclude.xml:2888(title)
 msgid "Exercise 4: Playing Proprietary Multimedia formats"
-msgstr "练习 4：播放私有多媒体格式"
+msgstr "练习 4：播放专有多媒体格式"
 
 #: chapter8/xinclude.xml:2890(para)
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-04 02:50+0800\n"
+"PO-Revision-Date: 2010-01-07 02:50+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -634,7 +634,7 @@ msgid ""
 "are running short on time, you can omit the following optional topics: Using "
 "Dial-up, Alternative E-mail Client."
 msgstr ""
-"推荐您完整地学习本课所有的内容。不过，如果时间有限，可以省略以下的内容：使用"
+"推荐您完整地讲授本课所有的内容。不过，如果时间有限，可以省略以下的内容：使用"
 "拨号终端，可选的 E-mail 客户端。"
 
 #: chapter3/xinclude.xml:45(title)
@@ -664,7 +664,7 @@ msgid ""
 msgstr ""
 "如何连接到互联网并不是随心所欲的，它很大程度上还取决于您居住或工作的地方，以"
 "及其周围的网络基础设施。并且前提是您有一个可以使用的上网账号，以及周围有可用"
-"的网络连接。连接并不需要您过多的参与，Ubuntu 支持绝大部分的连接类型。本课涵盖"
+"的网络连接。连接并不需要您过多的设置，Ubuntu 支持绝大部分的连接类型。本课涵盖"
 "了：宽带(电缆或 ADSL)、拨号上网和通过本地局域网(LAN)直接访问。"
 
 #: chapter3/xinclude.xml:62(para)
@@ -677,10 +677,10 @@ msgid ""
 "This connection is similar to a satellite connection, where data is "
 "transmitted through the airwaves."
 msgstr ""
-"宽带连接快速而可靠，开通的用户需要每月缴纳使用费。宽带公司提供不同带宽和流量"
-"搭配的服务套餐。如果需要出门在外的时候接入互联网，您可以订购无线互联网业务。"
-"如果计算机没有预装无线网卡，您还要安装一个。这种连接和卫星通讯相似，数据都是"
-"通过电波传送的。"
+"宽带连接快速而可靠，用户需要每月缴纳使用费。宽带公司提供不同带宽和流量搭配的"
+"服务套餐。如果需要出门在外的时候接入互联网，您可以订购无线互联网业务。如果计"
+"算机没有预装无线网卡，您还要安装一个。这种连接和卫星通讯相似，数据都是通过电"
+"波传送的。"
 
 #: chapter3/xinclude.xml:70(para)
 msgid ""
@@ -695,7 +695,8 @@ msgstr ""
 "拨号上网和您的电话使用相同的线路，与打电话不同的是两端都是电脑。这是一种是通"
 "过电话线连接到本地服务器的方案，速度慢但是便宜。您的计算机需要拨一个网络服务"
 "提供商指定的电话号码来连接到服务器。所以，您在上网的同时是不能打电话的。这是"
-"最古老最缓慢的连接方式，在这种方式下使用许多服务是很乏味的，甚至会难以忍受。"
+"最古老最缓慢的连接方式，在这种方式下使用许多服务是很乏味的，甚至是令人难以忍"
+"受的。"
 
 #: chapter3/xinclude.xml:80(title) chapter3/xinclude.xml:93(title)
 msgid "Network Manager"
@@ -715,8 +716,8 @@ msgstr ""
 "Ubuntu 上的网络管理器是一个使用简单但功能强大的工具。它位于顶部面板的右侧。用"
 "左键点击它就可以查看您的计算机是否已经连接到一个有线或无线的网络。如果是一个"
 "有密码保护的无线网络，则会弹出一个对话框要求您输入密码。这个密码可以存储在密"
-"钥环中，再次连接时就不必输入密码了。不过，当您注销并再次登录后需要提供密钥环"
-"密码，以确保安全。"
+"钥环中，再次连接时就不必输入密码了。不过，当您注销并再次登录后仍然需要提供密"
+"钥环密码，以确保安全。"
 
 #: chapter3/xinclude.xml:102(para)
 msgid ""
@@ -1365,7 +1366,7 @@ msgstr "如果您不想让某篇在一段时间之后被删除，可以将它标
 msgid ""
 "You can use the search function to search through the downloaded items to "
 "quickly access the information needed."
-msgstr "您您可以使用搜索功能在下载的项目中搜索，快速访问需要的信息。"
+msgstr "您可以使用搜索功能在下载的项目中搜索，快速访问需要的信息。"
 
 #: chapter3/xinclude.xml:707(para)
 msgid "You can also use an online search engine to search for additional news."
@@ -1416,7 +1417,7 @@ msgid ""
 msgstr ""
 "点击 <emphasis role=\"strong\">应用程序</emphasis> 菜单，然后将鼠标指向 "
 "<emphasis role=\"strong\">Internet</emphasis> 再点击 <emphasis role=\"strong"
-"\">Evolution 电子邮件</emphasis>。"
+"\">Evolution 邮件</emphasis>。"
 
 #: chapter3/xinclude.xml:747(title)
 msgid "Launching Evolution Mail"
@@ -1889,7 +1890,7 @@ msgid ""
 "changes required to resolve the dependencies, click <emphasis role=\"strong"
 "\">Mark</emphasis>."
 msgstr ""
-"选择以安装的包可能依赖于其它包。此时，提示您此依赖关系。要继续今昔此更改要求"
+"选择以安装的包可能依赖于其它包。此时，提示您此依赖关系。要继续进行此更改要求"
 "解决此依赖关系，点击 <emphasis role=\"strong\">标记</emphasis>。然后请重复步"
 "骤 3-5，搜索并标记安装软件包 thunderbird-locale-zh-cn，这是 Mozilla "
 "Thunderbird 的简体中文语言支持文件。"
@@ -2042,7 +2043,7 @@ msgid ""
 "search, a smart address book, advanced message filtering and more."
 msgstr ""
 "扩展是能够帮助您满足特定需求的强大工具。 Mozilla Thunderbird 拥有多项特性，例"
-"如快速搜索、只能地址簿、高级消息过滤等。"
+"如快速搜索、智能地址簿、高级消息过滤等。"
 
 #: chapter3/xinclude.xml:1341(title)
 msgid "News Reader"
@@ -2053,7 +2054,8 @@ msgid ""
 "Mozilla Thunderbird makes it easier to subscribe to your favourite "
 "newsgroups, downloading headers and messages and offline support."
 msgstr ""
-"Mozilla Thunderbird 是定义您喜爱的新闻组更加容易，下载头和消息以及离线支持。"
+"Mozilla Thunderbird 使添加您喜爱的新闻组更加容易，并且可选择只下载消息头或者"
+"下载完整消息；另外，还提供了离线支持。"
 
 #: chapter3/xinclude.xml:1349(title)
 msgid "Thunderbird as a Newsgroup"
@@ -2324,8 +2326,8 @@ msgid ""
 "can use Ekiga to call, send instant messages and be contacted by other Ekiga "
 "users."
 msgstr ""
-"Ekiga 是 Ubuntu 默认的开源软电话。它是自由的 VoIP 和视频会议软件。VoIP 服务通"
-"过互联网传递音频。您可以使用 Ekiga 打电话、发送即时通信。"
+"Ekiga 是开源软电话。它是自由的 VoIP 和视频会议软件。VoIP 服务通过互联网传递音"
+"频。您可以使用 Ekiga 打电话、发送即时通信。"
 
 #: chapter3/xinclude.xml:1597(para)
 msgid ""
@@ -2493,7 +2495,7 @@ msgstr ""
 msgid ""
 "The Ekiga window will be displayed. It is the default softphone application "
 "available on Ubuntu."
-msgstr "Ubuntu 默认软电话程序 Ekiga 的主窗口将会显示出来。"
+msgstr "Ekiga 的主窗口将会显示出来。"
 
 #: chapter3/xinclude.xml:1761(title)
 msgid "Ekiga Window"
@@ -2688,7 +2690,7 @@ msgstr "1-b，2-a，3-d，4-c"
 
 #: chapter3/xinclude.xml:1947(para)
 msgid "You can get an SIP address from _____________________."
-msgstr "您可以在 _____________________ 获得一个 SIP 地址。"
+msgstr "您可以在 ____________________ 获得一个 SIP 地址。"
 
 #: chapter3/xinclude.xml:1951(para)
 msgid ""

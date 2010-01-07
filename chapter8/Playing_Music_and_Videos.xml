@@ -1264,28 +1264,6 @@
         </step>
 
         <step performance="required">
-          <para>When you access Audacity for the first time, it will ask you
-          to select a language to use with the application. Apart from
-          English, Audacity provides language support for more than 30
-          languages, including Arabic, Bulgarian, catalan, Czech, Danish,
-          Finnish and many more. Select your language preference from
-          the <emphasis role="strong">Choose Language for Audacity to
-          use</emphasis> drop-down list and click <emphasis
-          role="strong">OK</emphasis>.</para>
-
-          <figure float="0">
-            <title>Selecting Language for Audacity</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/chapter9_image_067.png"
-                           format="PNG" width="10cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
           <para>The Audacity main interface window is displayed. You can use
           the various controls and tools to play,
           create and edit audio files.</para>
@@ -2050,6 +2028,15 @@
             </formalpara>
           </listitem>
         </itemizedlist></para>
+
+        <tip>
+            <title>Nice to Know:</title>
+
+            <para>If you find that all Chinese characters can not display corretcly in flash,
+            you can use this command to correct it:
+            <emphasis role="strong">sudo rm /etc/fonts/conf.d/49-sansserif.conf</emphasis>.
+            </para>
+          </tip>
 
       <para>The plugin installation process depends on the framework you use.
       If you use Totem-gstreamer, the default movie player included in Ubuntu,
