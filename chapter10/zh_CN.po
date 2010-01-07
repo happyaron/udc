@@ -1,7 +1,8 @@
 # Chinese (Simplified) translation for ubuntu-desktop-course for chapter10 partitioning-and-booting
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
-# 	YunQiang Su <wzssyqa@gmail.com>, 2010
+#     YunQiang Su <wzssyqa@gmail.com>, 2010.
+#     Yvonne Ye <feidaozhanchen@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
@@ -807,7 +808,9 @@ msgstr "如果您确定新分区的参数，点击 <emphasis role=\"strong\">提
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter10/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "YunQiang Su <wzssyqa@gmail.com>, 2010"
+msgstr ""
+"YunQiang Su <wzssyqa@gmail.com>, 2010\n"
+"Yvonne Ye <feidaozhanchen@gmail.com>, 2010"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson11_images_018.png'; "

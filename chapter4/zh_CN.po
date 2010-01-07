@@ -1,8 +1,8 @@
 # Simplified Chinese translation for ubuntu-desktop-course chapter4 using-openoffice-applications
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
-#     Carlos Gong <bfsugxy@gmail.com>, 2009, 2010.
-#     Hunt Xu <mhuntxu@gmail.com>, 2009.
+#     Carlos Gong <bfsugxy@gmail.com>, 2010.
+#     Hunt Xu <mhuntxu@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
@@ -6201,4 +6201,6 @@ msgstr "用同样的方式完成公式其他部分的输入。"
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter4/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "Carlos Gong <bfsugxy@gmail.com>, 2010"
+msgstr ""
+"Carlos Gong <bfsugxy@gmail.com>, 2010\n"
+"Hunt Xu <mhuntxu@gmail.com>, 2010"

@@ -1,8 +1,8 @@
 # Chinese (Simplified) translation for ubuntu-desktop-course chapter6 customizing-the-desktop-and-applications
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
-#     Ni Hui <shuizhuyuanluo@126.com>, 2009, 2010.
-#     Hunt Xu <huntxu@live.cn>, 2009.
+#     Ni Hui <shuizhuyuanluo@126.com>, 2010.
+#     Hunt Xu <mhuntxu@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
@@ -2768,6 +2768,8 @@ msgstr "当所有标记的更改完成后，您将得到更改已应用的通知
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter6/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "Ni Hui <shuizhuyuanluo@126.com>, 2010"
+msgstr ""
+"Ni Hui <shuizhuyuanluo@126.com>, 2010\n"
+"Hunt Xu <mhuntxu@gmail.com>, 2010"
 
 

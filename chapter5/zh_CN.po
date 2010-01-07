@@ -1,15 +1,15 @@
 # Simplified Chinese translation for ubuntu-desktop-course chapter5 ubuntu-and-games
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
-#     Hunt Xu <huntxu@live.cn>, 2010
+#     Hunt Xu <mhuntxu@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-and-games\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-07 14:35+0800\n"
-"Last-Translator: Hunt Xu <huntxu@live.cn>\n"
+"PO-Revision-Date: 2010-01-07 23:41+0800\n"
+"Last-Translator: Hunt Xu <mhuntxu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -709,7 +709,6 @@ msgid "Selecting Event and Cup"
 msgstr "选择比赛和锦标赛"
 
 #: chapter5/xinclude.xml:476(para)
-#, fuzzy
 msgid ""
 "The next window prompts you to select a race. As a beginner, you do not have "
 "any option but to continue with the default race. However, do read the "
@@ -1050,7 +1049,7 @@ msgstr "从应用程序菜单中启动该游戏。"
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter5/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "Hunt Xu <huntxu@live.cn>, 2010"
+msgstr "Hunt Xu <mhuntxu@gmail.com>, 2010"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson06_images_005.png'; "

@@ -1,7 +1,8 @@
 # Chinese (Simplified) translation for ubuntu-desktop-course for chapter8 playing-music-and-videos
 # This file is distributed under the same license as the ubuntu-desktop-course package.
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
-# 	YunQiang Su <wzssyqa@gmail.com>, 2010
+#     YunQiang Su <wzssyqa@gmail.com>, 2010.
+#     Yvonne Ye <feidaozhanchen@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
@@ -2451,7 +2452,9 @@ msgstr "此操作隐藏侧边栏，现在可以以更大的空间观看 DVD 了�
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter8/xinclude.xml:0(None)
 msgid "translator-credits"
-msgstr "YunQiang Su <wzssyqa@gmail.com>, 2010"
+msgstr ""
+"YunQiang Su <wzssyqa@gmail.com>, 2010\n"
+"Yvonne Ye <feidaozhanchen@gmail.com>, 2010"
 
 #~ msgid ""
 #~ "@@image: 'images/chapter9_image_067.png'; "
