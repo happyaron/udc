@@ -22,8 +22,6 @@
 
         <para><emphasis role="italic">Playing Audio Files</emphasis></para>
 
-        <para><emphasis role="italic">Using an iPod</emphasis></para>
-
         <para><emphasis role="italic">Viewing DVDs</emphasis></para>
 
         <para><emphasis role="italic">Playing Online Media</emphasis></para>
@@ -1083,169 +1081,6 @@
     </procedure>
   </sect1>
 
-<!--  <sect1>-->
-<!--    <title>Using an iPod</title>-->
-
-<!--    <para>The iPod is a popular portable media player, designed and marketed-->
-<!--    by Apple. You can play music in MP3 and AAC (Advanced Audio Coding) audio-->
-<!--    file formats and store up to ten thousand songs on the device itself. The-->
-<!--    iPod does not support free multimedia formats.</para>-->
-
-<!--    <sect2>-->
-<!--      <title>Playing Music Using an iPod</title>-->
-
-<!--      <procedure>-->
-<!--        <title>To play music using iPod:</title>-->
-
-<!--        <step performance="required">-->
-<!--          <para>Plug your iPod into one of your computer's USB ports. Ubuntu-->
-<!--          automatically mounts it and places it as an icon on your desktop.-->
-<!--          Simultaneously, the iPod device opens in the Rhythmbox Music Player-->
-<!--          window. You can view all the files loaded on your iPod device in the-->
-<!--          lower right pane of the Rhythmbox window. To play a music track from-->
-<!--          your iPod, just select the track from the list and click the-->
-<!--          <emphasis role="strong">Play</emphasis> button.</para>-->
-
-<!--          <figure float="0">-->
-<!--            <title>Plugging in an iPod</title>-->
-
-<!--            <mediaobject>-->
-<!--              <imageobject>-->
-<!--                <imagedata fileref="images/chapter9_image_053.png"-->
-<!--                           format="PNG" width="11cm" />-->
-<!--              </imageobject>-->
-<!--            </mediaobject>-->
-<!--          </figure>-->
-<!--        </step>-->
-
-<!--        <step performance="required">-->
-<!--          <para>The song starts playing in the Rhythmbox Music Player.-->
-<!--          However, if the format of the music file is not supported by the-->
-<!--          Rhythmbox Music Player, you may not be able to play the file and you-->
-<!--          will receive an error message. In this case, you will need to follow-->
-<!--          the procedure described in the previous section to download all the-->
-<!--          necessary software codecs from the Ubuntu repositories.</para>-->
-
-<!--          <figure float="0">-->
-<!--            <title>Playing Music from iPod</title>-->
-
-<!--            <mediaobject>-->
-<!--              <imageobject>-->
-<!--                <imagedata fileref="images/chapter9_image_054.png"-->
-<!--                           format="PNG" width="14cm" />-->
-<!--              </imageobject>-->
-<!--            </mediaobject>-->
-<!--          </figure>-->
-<!--        </step>-->
-
-<!--        <step performance="required">-->
-<!--          <para>Ubuntu also allows you to transfer music files to and from the-->
-<!--          iPod device. However, this is not possible using Rhythmbox. You will-->
-<!--          need to install the <emphasis role="strong">gtkpod</emphasis>-->
-<!--          software to be able to transfer music file between your computer and-->
-<!--          the iPod device. You can easily download this software from the-->
-<!--          Universe repository using the Synaptic Package Manager.</para>-->
-
-<!--          <para>To access gtkpod, after it is successfully installed on your-->
-<!--          computer, on the <emphasis role="strong">Applications</emphasis>-->
-<!--          menu, point to <emphasis role="strong">Sound &amp; Video</emphasis>-->
-<!--          and then click <emphasis role="strong">gtkpod</emphasis>. The-->
-<!--          <emphasis role="strong">gtkpod</emphasis> window opens.</para>-->
-
-<!--          <figure float="0">-->
-<!--            <title>Launching gtkpod</title>-->
-
-<!--            <mediaobject>-->
-<!--              <imageobject>-->
-<!--                <imagedata fileref="images/chapter9_image_055.png"-->
-<!--                           format="PNG" width="12cm" />-->
-<!--              </imageobject>-->
-<!--            </mediaobject>-->
-<!--          </figure>-->
-<!--        </step>-->
-
-<!--        <step performance="required">-->
-<!--          <para>You can view all the music files stored on the iPod device in-->
-<!--          this gtkpod window. Notice that in the gtkpod interface, your music-->
-<!--          files have automatically been categorised based on artists, album-->
-<!--          and genre. This categorisation helps you quickly browse through your-->
-<!--          collection and select.</para>-->
-
-<!--          <para>You can use the gtkpod interface to manage the files on your-->
-<!--          iPod in multiple ways. You can create and edit playlists, normalize-->
-<!--          the volume on single tracks or multiple tracks at a time. You can-->
-<!--          also use the gtkpod interface to add more files in your iPod or-->
-<!--          transfer files from your iPod onto your computer. To add files from-->
-<!--          your computer to your iPod device, click <emphasis-->
-<!--          role="strong">Files</emphasis>. This displays the <emphasis-->
-<!--          role="strong">Add Files to 'device name'</emphasis> dialogue-->
-<!--          box.</para>-->
-
-<!--          <figure float="0">-->
-<!--            <title>Using gtkpod to transfer files to iPod</title>-->
-
-<!--            <mediaobject>-->
-<!--              <imageobject>-->
-<!--                <imagedata fileref="images/chapter9_image_056.png"-->
-<!--                           format="PNG" width="11cm" />-->
-<!--              </imageobject>-->
-<!--            </mediaobject>-->
-<!--          </figure>-->
-<!--        </step>-->
-
-<!--        <step performance="required">-->
-<!--          <para>In the <emphasis role="strong">Add Files to 'device-->
-<!--          name'</emphasis> dialogue box, navigate down to the folder from-->
-<!--          which you want to add the files to your iPod. Depending on your-->
-<!--          preferences you may either add a single file at a time or an entire-->
-<!--          directory. Select the tracks that you want added and click <emphasis-->
-<!--          role="strong">Open.</emphasis></para>-->
-
-<!--          <figure float="0">-->
-<!--            <title>Selecting the Files to Transfer</title>-->
-
-<!--            <mediaobject>-->
-<!--              <imageobject>-->
-<!--                <imagedata fileref="images/chapter9_image_057.png"-->
-<!--                           format="PNG" width="11cm" />-->
-<!--              </imageobject>-->
-<!--            </mediaobject>-->
-<!--          </figure>-->
-<!--        </step>-->
-
-<!--        <step performance="required">-->
-<!--          <para>Gtkpod starts adding the files to your iPod. When the process-->
-<!--          is complete a message "Successfully added files" is quickly flashed-->
-<!--          at the bottom of the gtkpod window. You can also view the recently-->
-<!--          added files in the bottom pane of the gtkpod window.</para>-->
-
-<!--          <para>You can repeat the aforementioned steps to add more files from-->
-<!--          different folders. After you have added all the required files to-->
-<!--          your iPod, click the <emphasis role="strong">Save Changes</emphasis>-->
-<!--          button to load and save the files.</para>-->
-
-<!--          <figure float="0">-->
-<!--            <title>Updating the iPod</title>-->
-
-<!--            <mediaobject>-->
-<!--              <imageobject>-->
-<!--                <imagedata fileref="images/chapter9_image_058.png"-->
-<!--                           format="PNG" width="11cm" />-->
-<!--              </imageobject>-->
-<!--            </mediaobject>-->
-<!--          </figure>-->
-<!--        </step>-->
-
-<!--        <step performance="required">-->
-<!--          <para>When you are done updating your iPod and want to disconnect-->
-<!--          it, close down the Rhythmbox window. Right-click the iPod icon on-->
-<!--          the desktop and then select <emphasis-->
-<!--          role="strong">Eject</emphasis>. You now can safely remove your iPod-->
-<!--          from the computer.</para>-->
-<!--        </step>-->
-<!--      </procedure>-->
-<!--    </sect2>-->
-<!--  </sect1>-->
 
   <sect1>
     <title>Creating and Editing Audio Files</title>
@@ -2775,11 +2610,6 @@
           <para>Playback of proprietary multimedia formats can be enabled in
           Ubuntu by installing additional multimedia codecs from the
           repositories.</para>
-        </listitem>
-
-        <listitem>
-          <para>Ubuntu offers you tools to play music from your iPod through
-          gtkpod.</para>
         </listitem>
 
         <listitem>

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-01-01 21:10+0800\n"
-"PO-Revision-Date: 2010-01-06 04:25+0800\n"
+"PO-Revision-Date: 2010-01-07 14:16+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -697,7 +697,7 @@ msgstr "在线媒体播放"
 
 #: chapter8/xinclude.xml:35(para)
 msgid "Ubuntu fully supports playback of music, videos and DVDs available in free and unrestricted formats. A number of multimedia formats are restricted by licenses and software patents in some jurisdictions. Ubuntu does not offer this capability by default for these formats but it easy to enable playing a variety of proprietary formats. This section will guide you through the patent and copyright restriction considerations for using proprietary file formats."
-msgstr "Ubuntu 支持播放所有自由和非限制格式的音乐、视频和 DVD。一些多媒体格式在某些司法管辖区会受到许可证或软件专利的限制。默认情况下，Ubuntu 不支持播放这些文件，但是用户可以非常容易地启用播放这些特殊格式的文件。本节将教会您成功播放这些格式的文件而无须考虑其版本或所有权。"
+msgstr "Ubuntu 完整支持播放自由和非限制格式的音乐、视频和 DVD。而有一些多媒体格式在某些司法管辖区会受到许可证或软件专利的限制。默认情况下，Ubuntu 不支持播放这些文件，但是用户可以非常容易地启用播放这些特殊格式的文件的功能。本节将指导您越过对专利和版权限制的考虑来播放这些格式的文件。"
 
 #: chapter8/xinclude.xml:43(para)
 msgid "The license of the format is different from the license of the content itself. For example a video's content can be licensed under a Creative Commons license, and be available as MPEG file. While the content can be distributed freely, the format is proprietary and a software for playback may need to be licensed in some jurisdictions."
@@ -705,7 +705,7 @@ msgstr "格式的许可不同于内容的许可。例如，一个视频的内容
 
 #: chapter8/xinclude.xml:49(para)
 msgid "To understand the legal issues associated with the use of proprietary formats, you first need to understand the difference between free and non-free or proprietary formats."
-msgstr "要理解使用私有格式伴随的法律问题，首先需要理解自由和非自由或自由格式间的区别。"
+msgstr "要理解使用专有格式伴随的法律问题，首先需要理解自由和非自由(或者叫私有)格式间的区别。"
 
 #: chapter8/xinclude.xml:55(title)
 msgid "Playing Music Files"
@@ -713,11 +713,11 @@ msgstr "播放音乐文件"
 
 #: chapter8/xinclude.xml:57(para)
 msgid "Ubuntu comes with the Rhythmbox Music Player to play and organise music files. Similar to iTunes in its interface, this music player is a free software application designed to work in the GNOME desktop environment. Using Rhythmbox, you can play your music files, listen to Internet radio, import music from CDs and organise your music files. Rhythmbox offers comprehensive audio support for a large number of audio formats and contains various useful features that make playing music easy and enjoyable."
-msgstr "Ubuntu 自带 Rhythmbox 音乐播放器播放和组织音乐文件。是专为 GNOME 桌面环境设计的一款自由软件，其界面类似于 iTunes。通过 Rhythmbox，您可以播放音乐文件，收听网络电台，或者从 CD 中导入并组织音乐文件。Rhythmbox 提供对大量音频格式的广泛支持，它还包含了很多有用的功能，使播放音乐变得更简单和愉快。"
+msgstr "Ubuntu 自带了 Rhythmbox 音乐播放器以播放和组织音乐文件。Rhythmbox 是专为 GNOME 桌面环境设计的一款自由软件，其界面类似于 iTunes。通过 Rhythmbox，您可以播放音乐文件，收听网络电台，或者从 CD 中导入并组织音乐文件。Rhythmbox 提供对大量音频格式的支持，它还包含了很多有用的功能，使播放音乐变得更简单和愉快。"
 
 #: chapter8/xinclude.xml:69(para)
 msgid "You need to demonstrate and let the students play fully with at least 1 music, 1 DVD playback and 1 audio recording."
-msgstr "这里需要演示播放音乐、DVD 和音频录音，学生应该跟着完整操作至少一首音乐、一张 DVD 和一条音频录音。"
+msgstr "这里需要演示播放音乐、DVD 和音频录音，学生应该跟着完整操作至少一首音乐、一张 DVD 和一条录音。"
 
 #: chapter8/xinclude.xml:74(title)
 msgid "Playing Music using Rhythmbox"
@@ -749,7 +749,7 @@ msgstr "在 Rhythmbox 中播放音乐，首先需要从 <emphasis role=\"strong\
 
 #: chapter8/xinclude.xml:119(para)
 msgid "Library is the main source available in Rhythmbox. You can import all your music files into the Rhythmbox library and can start playing immediately. You also use the music files in your library to create smart customised playlists and play-queues. To start importing individual music files, right-click <emphasis role=\"strong\">Music</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>. It displays the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box."
-msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击 <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。于是弹出 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框。"
+msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击  <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。于是弹出 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:127(title)
 msgid "Importing Music Files"
@@ -757,7 +757,7 @@ msgstr "导入音乐文件"
 
 #: chapter8/xinclude.xml:138(para)
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files. Select the files that you want to import and click <emphasis role=\"strong\">Open</emphasis>."
-msgstr "在 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框中，导航到预导入文件所在的文件夹，选中并点击 <emphasis role=\"strong\">打开</emphasis>按钮。"
+msgstr "在 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框中，导航到预导入文件所在的文件夹，选中并点击 <emphasis role=\"strong\">打开</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:144(title)
 #: chapter8/xinclude.xml:1416(title)
@@ -772,7 +772,7 @@ msgstr "小提示："
 
 #: chapter8/xinclude.xml:156(para)
 msgid "While importing music files from your music collection, Rhythmbox also imports the metadata tags associated with the files. These tags are used by Rhythmbox to categorise the music files by genre, artist, album, title, and track number."
-msgstr "从音乐集中导入文件时，Rhythmbox 也将导入与文件相关联的元数据标签。这些标签被 Rhythmbox 用于对音乐文件进行分类，包括流派(genre)、艺人(artist)、专辑(album)、标题(title)和音轨(track number)等。"
+msgstr "从音乐集中导入文件时，Rhythmbox 也将导入与文件相关联的元数据标签。这些标签被 Rhythmbox 用于对音乐文件进行分类，包括流派(genre)、艺人(artist)、专辑(album)、标题(title)和音轨号(track number)等。"
 
 #: chapter8/xinclude.xml:164(para)
 msgid "The selected music files are imported into the library and displayed in the the Rhythmbox window. You will notice that the main Rhythmbox window is split into various panes. Each pane displays different details about your music collection. To play music from the library, you can use the <emphasis role=\"strong\">Artist, Album</emphasis> and <emphasis role=\"strong\">Track</emphasis> panes to select the music tracks that you want to play and then use the playback controls to start playing the music tracks. Click the <emphasis role=\"strong\">Play</emphasis> button to start playing the selected track."
@@ -784,7 +784,7 @@ msgstr "Rhythmbox 窗口"
 
 #: chapter8/xinclude.xml:187(para)
 msgid "If you click the <emphasis role=\"strong\">Play</emphasis> button without selecting any track, Rhythmbox will start playing the first track from your current view. You can use the <emphasis role=\"strong\">Shuffle</emphasis> button to play tracks randomly. You can also create a play list by right-clicking a music track and selecting <emphasis role=\"strong\">Add to Playlist</emphasis>. To stop or pause a track, click the <emphasis role=\"strong\">Play</emphasis> button again."
-msgstr "如果没有选择任何曲目却点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">随机</emphasis> 按钮随机播放曲目。也可以通过右击某一曲目选择 <emphasis role=\"strong\">添加到播放列表</emphasis>将曲目添加到播放列表。当再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮则将停止或暂停播放。"
+msgstr "如果没有选择任何曲目却点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">随机</emphasis> 按钮随机播放曲目。也可以通过右击某一曲目选择 <emphasis role=\"strong\">添加到播放列表</emphasis> 将曲目添加到播放列表。当再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮则将停止或暂停播放。"
 
 #: chapter8/xinclude.xml:195(title)
 msgid "Creating New Playlist"
@@ -792,7 +792,7 @@ msgstr "新建播放列表"
 
 #: chapter8/xinclude.xml:206(para)
 msgid "Rhythmbox offers many additional useful features in the form of various plugins. Some of these plugins are not turned on by default. To access these plugins, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Plugins.</emphasis> The <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box opens."
-msgstr "Rhythmbox 以插件的形式提供附加功能。默认情况下，某些插件没有打开。要使用这些插件，可在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件.</emphasis>按钮，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
+msgstr "Rhythmbox 以插件的形式提供附加功能。默认情况下，某些插件没有启用。要使用这些插件，可在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件</emphasis> 按钮，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:212(title)
 msgid "Accessing Plugins"
@@ -828,7 +828,7 @@ msgstr "已检索到歌词"
 
 #: chapter8/xinclude.xml:283(para)
 msgid "Similarly, if you wish to view animations while listening to a song, click the <emphasis role=\"strong\"> Visualization</emphasis> button."
-msgstr "类似地，如果想听歌的同时观看动画，可点击 <emphasis role=\"strong\">可视化</emphasis> 按钮。"
+msgstr "类似地，如果想听歌的同时观看视觉效果，可点击 <emphasis role=\"strong\">可视化</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:288(title)
 msgid "Activating Visualisation"
@@ -933,7 +933,7 @@ msgstr "Ogg Vorbis：Ogg Vorbis 是一种自由、非专利和开源的文件格
 # mohu
 #: chapter8/xinclude.xml:465(para)
 msgid "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without discarding any information. A FLAC file is typically half the size of a WAV file containing the same content."
-msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
+msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利限制、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
 
 #: chapter8/xinclude.xml:473(para)
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
@@ -1002,7 +1002,7 @@ msgstr "选择歌曲音轨"
 
 #: chapter8/xinclude.xml:568(para)
 msgid "You can now enjoy listening to your favourite music tracks."
-msgstr "现在可以享受你喜欢的音乐了。"
+msgstr "现在可以享受您喜欢的音乐了。"
 
 #: chapter8/xinclude.xml:572(title)
 msgid "Playing the Selected Tracks"
@@ -1104,7 +1104,7 @@ msgstr "刻录音频 CD"
 
 #: chapter8/xinclude.xml:759(para)
 msgid "Besides copying audio tracks from a CD to your computer, Ubuntu also enables you to copy music files from your computer onto a CD or DVD. Brasero is the CD/DVD burner application that comes bundled with Ubuntu, by default. It is an easy-to-use application that also allows CD/DVD data disc creation, CD/DVD copying and burning of existing images to CD/DVD."
-msgstr "除了可以从 CD 复制音乐曲目到计算机，Ubuntu 也支持从计算机复制音乐文件到光盘。Brasero 是 Ubuntu 默认捆绑的光盘刻录程序。它是一个易用的程序，支持数据光盘创建、光盘复制和刻录已有镜像到光盘。"
+msgstr "除了可以从 CD 复制音乐曲目到计算机，Ubuntu 也支持从计算机复制音乐文件到光盘。Brasero 是 Ubuntu 默认安装的光盘刻录程序。它是一个易用的程序，支持数据光盘创建、光盘复制和刻录已有镜像到光盘。"
 
 #: chapter8/xinclude.xml:766(title)
 #: chapter8/xinclude.xml:3029(title)
@@ -1171,7 +1171,7 @@ msgstr "播放私有多媒体格式"
 
 #: chapter8/xinclude.xml:894(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
-msgstr "如前所述，一些私有格式的使用受到法律限制，Ubuntu 默认不提供对这些格式的支持。如果希望播放这些格式，需要安装附加的多媒体解码器。通过这款软件，您可以用特定的格式观看视频或欣赏音乐。虽然 Ubuntu 默认包含很了多解码器，但您可能还是需要安装其他解码器，毕竟文件格式之多，使用一个解码器支持所有的文件格式是不现实的。"
+msgstr "如前所述，一些专有格式的使用受到法律限制，Ubuntu 默认不提供对这些格式的支持。如果希望播放这些格式，需要安装附加的多媒体解码器。多媒体解码器是一种小软件，它使您可以用特定的格式观看视频或欣赏音乐。虽然 Ubuntu 默认包含很了多解码器，但您可能还是需要安装其他解码器，毕竟文件格式之多，对其全部支持是不现实的。"
 
 #: chapter8/xinclude.xml:903(para)
 msgid "Playback of multimedia files in Ubuntu is handled by the Gstreamer multimedia framework. GStreamer by itself does not provide any multimedia codecs, it relies on codecs that have been packaged into a <emphasis role=\"strong\">plugin</emphasis> that it uses to perform the actual recording and playback.The easist way to install is to install the package \"ubuntu-restricted-extras\".It also contains lots of other restricted softwares,which may be need a licenss."
@@ -1179,11 +1179,11 @@ msgstr "在 Ubuntu 中播放多媒体文件是由 Gstreamer 多媒体框架处�
 
 #: chapter8/xinclude.xml:910(para)
 msgid "Other applications, such as VLC, MPlayer and Xine, do not use the Gstreamer framework."
-msgstr " 也有些应用程序不使用 Gstreamer 框架，如VLC、MPlayer、Xine等。"
+msgstr " 也有些应用程序不使用 Gstreamer 框架，如 VLC、MPlayer、Xine 等。"
 
 #: chapter8/xinclude.xml:913(para)
 msgid "You can use the Synaptic Package Manager, or the Command Line Interface (CLI) to install these multimedia codecs available in the repositories."
-msgstr "可以使用新立得软件包管理器或者命令终端(CLI)来安装那些软件仓库中可可获得的多媒体解码器。"
+msgstr "可以使用新立得软件包管理器或者命令行界面来安装那些可以从软件仓库中获得的多媒体解码器。"
 
 #: chapter8/xinclude.xml:920(para)
 msgid "Codecs can be installed directly from the Movie Player. When Movie Player recognizes a format it cannot play, it checks if a Gstreamer plugin is available for this format. If it finds one, you can install the codec easily without following the lengthy solution presented below."
@@ -1200,7 +1200,7 @@ msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单上， 点击 <emp
 
 #: chapter8/xinclude.xml:939(para)
 msgid "The <emphasis role=\"strong\">Multiverse</emphasis> and <emphasis role=\"strong\">Restricted</emphasis> repositories are not activated by default in Ubuntu. To install the additional multimedia codecs, you need to first activate these repositories. On the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories</emphasis>. The <emphasis role=\"strong\">Software</emphasis><emphasis role=\"strong\">Sources</emphasis> dialogue box is displayed."
-msgstr "<emphasis role=\"strong\">Multiverse</emphasis> and <emphasis role=\"strong\">Restricted</emphasis> 库在 Ubuntu 中没有默认开启。要安装附加的多媒体解码器，需要首选激活这些库。在 <emphasis role=\"strong\">设置</emphasis> 菜单上，点击 <emphasis role=\"strong\">软件库</emphasis> 打开 <emphasis role=\"strong\">软件</emphasis><emphasis role=\"strong\">源</emphasis> 对话框。"
+msgstr "<emphasis role=\"strong\">Multiverse</emphasis> 和 <emphasis role=\"strong\">Restricted</emphasis> 软件库在 Ubuntu 中没有默认开启。要安装附加的多媒体解码器，需要首选激活这些库。在 <emphasis role=\"strong\">设置</emphasis> 菜单上，点击 <emphasis role=\"strong\">软件库</emphasis> 打开 <emphasis role=\"strong\">软件</emphasis><emphasis role=\"strong\">源</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:944(title)
 msgid "Displaying Software Sources"
@@ -1209,16 +1209,16 @@ msgstr "显示软件源"
 #: chapter8/xinclude.xml:955(para)
 #: chapter8/xinclude.xml:3101(para)
 msgid "To enable the Multiverse and Restricted repositories, select the third and fourth check boxes available on the <emphasis role=\"strong\">Ubuntu Software</emphasis> tabbed page, and click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr "要启用 Multiverse 和 Restricted 库，选中在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页上的第三个和第四个复选框，然后点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
+msgstr "要启用 Multiverse 和 Restricted 软件库，选中在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页上的第三个和第四个复选框，然后点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 #: chapter8/xinclude.xml:961(title)
 msgid "Enabling Repositories"
-msgstr "启用软件仓库"
+msgstr "启用软件库"
 
 #: chapter8/xinclude.xml:972(para)
 #: chapter8/xinclude.xml:3108(para)
 msgid "You may receive a notification that your repository information has changed. Click <emphasis role=\"strong\">Close</emphasis> to exit this message."
-msgstr "您将收到一个关于库信息已更改新的提示信息。点击 <emphasis role=\"strong\">关闭</emphasis> 退出此消息。"
+msgstr "您将收到一个关于软件库信息已更改新的提示信息。点击 <emphasis role=\"strong\">关闭</emphasis> 退出此消息。"
 
 #: chapter8/xinclude.xml:977(title)
 msgid "Repositories Information Notification"
@@ -1244,7 +1244,7 @@ msgstr "检查软件包信息"
 
 #: chapter8/xinclude.xml:1020(para)
 msgid "After the Multiverse and Restricted repositories are added in the Ubuntu software sources, you can download and install additional multimedia codecs. To install a software package, you need to first locate the package in the Synaptic Package Manager window. You can either search for a specific software package manually or run a search using the search utility provided in the Synaptic Package Manager. To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>,and begain to install \"ubuntu-restricted-extras\" just like in lession 3."
-msgstr "Multiverse 和 Restricted 库添加到 Ubuntu 软件源之后，就可以下载并安装附加的多媒体解码器。要安装一个软件包，首先需要在新立得软件包管理器窗口中标记此包。也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具执行搜索。对特定包的搜索，可点击 <emphasis role=\"strong\">搜索</emphasis>，然后开始和第三章中一样安装“ubuntu-restricted-extras”。"
+msgstr "把 Multiverse 和 Restricted 软件库添加到 Ubuntu 软件源之后，就可以下载并安装附加的多媒体解码器。要安装一个软件包，首先需要在新立得软件包管理器窗口中标记此包。也可以手动查找指定的软件包或使用新立得软件包管理器提供的搜索工具执行搜索。对特定包的搜索，可点击 <emphasis role=\"strong\">搜索</emphasis>，然后开始和第三章中一样安装“ubuntu-restricted-extras”。"
 
 #: chapter8/xinclude.xml:1035(para)
 msgid "The iPod is a popular portable media player, designed and marketed by Apple. You can play music in MP3 and AAC (Advanced Audio Coding) audio file formats and store up to ten thousand songs on the device itself. The iPod does not support free multimedia formats."
@@ -1276,7 +1276,7 @@ msgstr "从 iPod 播放音乐"
 
 #: chapter8/xinclude.xml:1086(para)
 msgid "Ubuntu also allows you to transfer music files to and from the iPod device. However, this is not possible using Rhythmbox. You will need to install the <emphasis role=\"strong\">gtkpod</emphasis> software to be able to transfer music file between your computer and the iPod device. You can easily download this software from the Universe repository using the Synaptic Package Manager."
-msgstr "Ubuntu 可以向 iPod 发送文件也可以从 iPod 获取文件。这是 Rhythmbox 做不到 的。在计算机和 iPod 设备之间传送文件前需要安装 <emphasis role=\"strong\">gtkpod</emphasis> 软件。可以使用新立得软件包管理器从 Universe 库下载此软件。"
+msgstr "Ubuntu 可以向 iPod 发送文件也可以从 iPod 获取文件。这是 Rhythmbox 做不到 的。在计算机和 iPod 设备之间传送文件前需要安装 <emphasis role=\"strong\">gtkpod</emphasis> 软件。可以使用新立得软件包管理器从 Universe 软件库下载此软件。"
 
 #: chapter8/xinclude.xml:1093(para)
 msgid "To access gtkpod, after it is successfully installed on your computer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">gtkpod</emphasis>. The <emphasis role=\"strong\">gtkpod</emphasis> window opens."
@@ -1349,11 +1349,11 @@ msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 
 
 #: chapter8/xinclude.xml:1211(title)
 msgid "Launching Sound Recorder"
-msgstr "启动录音机(Sound Recorder)"
+msgstr "启动录音机"
 
 #: chapter8/xinclude.xml:1222(para)
 msgid "Sound Recorder allows you to record and play .flac, .ogg, and .wav audio files. To start a recording session, you need to select an input device, such as a microphone, phone or line-in, from the <emphasis role=\"strong\">Record from input</emphasis> drop-down list. You can also select the audio quality from the Record as drop-down list."
-msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。可以从 <emphasis role=\"strong\">录音为</emphasis> 下拉列表中选择音频质量。"
+msgstr "录音机可以录制 .flac、.ogg 和 .wav 音频文件。可以从 <emphasis role=\"strong\">录制为</emphasis> 下拉列表中选择音频质量。"
 
 #: chapter8/xinclude.xml:1230(title)
 msgid "Selecting the Input Device"
@@ -1369,7 +1369,7 @@ msgstr "音量控制"
 
 #: chapter8/xinclude.xml:1257(para)
 msgid "You use the slider buttons on the tracks to set the volume control for all the audio input and output devices. To further specify your volume preferences, click Preferences on the Edit menu. This opens the <emphasis role=\"strong\">Volume Control Preferences</emphasis> dialogue box."
-msgstr "使用对话框上的 <emphasis role=\"strong\">输出音量</emphasis> 滑动条为输出设备设置音量控制。"
+msgstr "使用对话框上的 <emphasis role=\"strong\">输出音量</emphasis> 滑块调整输出设备的音量。"
 
 #: chapter8/xinclude.xml:1264(title)
 msgid "Displaying Volume Preferences"
@@ -1385,7 +1385,7 @@ msgstr "输入标签"
 
 #: chapter8/xinclude.xml:1290(para)
 msgid "You are returned to the <emphasis role=\"strong\">Sound Recorder</emphasis> window. Now, you can start recording the audio from the selected input device by clicking the <emphasis role=\"strong\">Record</emphasis> button. The recording starts."
-msgstr "返回到 <emphasis role=\"strong\">录音机</emphasis> 窗口。点击 <emphasis role=\"strong\">录音</emphasis> 按钮即可从选中的输入设备开始录音了。"
+msgstr "返回到 <emphasis role=\"strong\">录音机</emphasis> 窗口。点击 <emphasis role=\"strong\">录制</emphasis> 按钮即可从选中的输入设备开始录音了。"
 
 #: chapter8/xinclude.xml:1295(title)
 msgid "Recording Sound"
@@ -1406,7 +1406,7 @@ msgstr "编辑音频文件"
 # 此处可能需要修改，添加/删除程序 估计已经废弃
 #: chapter8/xinclude.xml:1328(para)
 msgid "You can use Audacity for editing audio files. Audacity is not included in the default installation of Ubuntu but it is a free and open source software application, which can be installed easily from the Universe repository of Ubuntu. You can install Audacity using either the Add/Remove Applications or the Synaptic Package Manger."
-msgstr "可以使用 Audacity 编辑音频文件。Audacity 不包含在 Ubuntu 的默认安装中，但它是一个自由和开放源代码的应用软件，这样就可以从 Uubntu 的 Universe 库中选择安装。用户可以使用添加/删除程序或使用新立得软件包管理器安装 Audacity。"
+msgstr "可以使用 Audacity 编辑音频文件。Audacity 不包含在 Ubuntu 的默认安装中，但它是一个可以从 Uubntu 的 Universe 软件库中安装的自由和开放源代码的应用软件。用户可以使用 Ubuntu 软件中心或使用新立得软件包管理器安装 Audacity。"
 
 #: chapter8/xinclude.xml:1336(title)
 msgid "To edit audio files using Audacity:"
@@ -1414,7 +1414,7 @@ msgstr "使用 Audacity 编辑音频文件："
 
 #: chapter8/xinclude.xml:1339(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audacity Sound Editor</emphasis>."
-msgstr "在<emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis>  下的 <emphasis role=\"strong\">Audacity 声音编辑器</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Audacity</emphasis>。"
 
 #: chapter8/xinclude.xml:1345(title)
 msgid "Launching Audacity"
@@ -1477,7 +1477,7 @@ msgstr "Envelop tool：可以用来改变声音文件上选定的区域的音量
 
 #: chapter8/xinclude.xml:1469(para)
 msgid "Time Shift tool: Allows you to move the entire sound file in relation to time; helpful when you are working with multiple tracks."
-msgstr "时移工具：允许你移动与时间有关的声音文件，当您进行多个轨道工作时将很有用。"
+msgstr "时移工具：允许您移动与时间有关的声音文件，当您进行多个轨道工作时将很有用。"
 
 #: chapter8/xinclude.xml:1475(para)
 msgid "Selection tool: Enables you to highlight portions of the sound file on which you want to work."
@@ -1561,7 +1561,7 @@ msgstr "验证编辑效果"
 
 #: chapter8/xinclude.xml:1602(para)
 msgid "After you are satisfied with all the edit effects, you can save the edited audio file. Because the default audio format of Audacity is not readily supported by many applications you should save the file in a more popular audio format, such as Ogg Vorbis or MP3."
-msgstr "对编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不容易被很多程序支持，可以将文件保存为其他音频格式，例如 Ogg Vorbis 或 MP3。"
+msgstr "对编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不能被很多程序支持，可以将文件保存为其他音频格式，例如 Ogg Vorbis 或 MP3。"
 
 #: chapter8/xinclude.xml:1608(para)
 msgid "To save the file in a different file format, click <emphasis role=\"strong\">Export</emphasis>."
@@ -1598,7 +1598,7 @@ msgstr "播放 DVD"
 # 原文错误 sotware
 #: chapter8/xinclude.xml:1665(para)
 msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
-msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 库中启用对加密 DVD 的播放。"
+msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System，CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
 
 #: chapter8/xinclude.xml:1677(para)
 msgid "It is possible that the use of some of the following software to play or copy DVDs is not permitted by law in some countries. Please check your rights before proceeding."
@@ -1606,7 +1606,7 @@ msgstr "使用如下软件播放或复制 DVD 在某些国家可能是不被法�
 
 #: chapter8/xinclude.xml:1682(para)
 msgid "You may also consider downloading the following additional applications that are capable of playing certain formats by default:"
-msgstr "您也可以考虑下载如下可以默认播放特定格式的附加程序："
+msgstr "您也可以考虑下载如下可以默认播放某些格式的附加程序："
 
 #: chapter8/xinclude.xml:1688(para)
 msgid "Mplayer movie player"
@@ -1627,7 +1627,7 @@ msgstr "Totem-xine"
 
 #: chapter8/xinclude.xml:1704(para)
 msgid "Totem Movie Player, the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
-msgstr "Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD。但它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 xine 的自由媒体播放软件可以支持 DVD 菜单可用。"
+msgstr "Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD。但它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 Xine 的自由媒体播放软件可以支持 DVD 菜单。"
 
 #: chapter8/xinclude.xml:1710(title)
 msgid "Playing DVDs in Totem Movie Player"
@@ -1651,7 +1651,7 @@ msgstr "在 Totem 中播放 DVD"
 
 #: chapter8/xinclude.xml:1736(para)
 msgid "To view the DVD in full screen mode, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Fullscreen</emphasis>. Alternatively, you can simply press <emphasis role=\"strong\">F</emphasis> on your keyboard."
-msgstr "要在全屏模式观看 DVD，可在 <emphasis role=\"strong\">查看</emphasis> 菜单上点击 <emphasis role=\"strong\">全屏</emphasis>。或者，仅需在键盘上按 <emphasis role=\"strong\">F</emphasis>。"
+msgstr "要以全屏模式观看 DVD，可在 <emphasis role=\"strong\">查看</emphasis> 菜单上点击 <emphasis role=\"strong\">全屏</emphasis>。或者，仅需在键盘上按 <emphasis role=\"strong\">F</emphasis>。"
 
 #: chapter8/xinclude.xml:1740(title)
 msgid "Enabling the Full Screen View"
@@ -1684,7 +1684,7 @@ msgstr "自定义显示设置"
 # 此处菜单条没有翻译
 #: chapter8/xinclude.xml:1798(para)
 msgid "When watching a DVD, you can use the various options provided in the <emphasis role=\"strong\">Go</emphasis> menu to navigate inside the DVD. To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
-msgstr "当您观看 DVD 时，您可以使用 <emphasis role=\"strong\">转到</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一帧，可在 <emphasis role=\"strong\">转到</emphasis> 菜单上，点击 <emphasis role=\"strong\">快进</emphasis>。"
+msgstr "当您观看 DVD 时，您可以使用 <emphasis role=\"strong\">转到</emphasis> 菜单中提供的多个选项在 DVD 中导航。要跳到下一片段，可在 <emphasis role=\"strong\">转到</emphasis> 菜单上，点击 <emphasis role=\"strong\">快进</emphasis>。"
 
 #: chapter8/xinclude.xml:1804(title)
 msgid "Navigating Inside a DVD"
@@ -1704,7 +1704,7 @@ msgstr "观看 DVD"
 
 #: chapter8/xinclude.xml:1840(para)
 msgid "This hides the side bar and now you can view the DVD on a larger space and simultaneously, have all the playback controls right in front of you."
-msgstr "此项隐藏侧边栏，现在您可以以更大的屏幕观看 DVD，同时所有的播放控制正好在您面前。"
+msgstr "此项隐藏侧边栏，现在您可以以更大的屏幕空间观看 DVD，同时所有的播放控制正好在您面前。"
 
 #: chapter8/xinclude.xml:1848(title)
 msgid "Backing up DVDs"
@@ -1728,7 +1728,7 @@ msgstr "HandBrake"
 
 #: chapter8/xinclude.xml:1850(para)
 msgid "If you have a collection of old and not-so-easy-to-find DVDs, you may wish to back up these on your computer or create extra copies of them. You may even want to extract certain tracks from your DVD and watch it later. To do so, Ubuntu provides you with a number of DVD backup applications or DVD rippers. Although these applications are not included in Ubuntu by default, you can download and install them from the Ubuntu repositories. Some of these applications are: <placeholder-1/>"
-msgstr "如果您收集了一些旧的或者市场上不容易找到的 DVD，您可能希望将它们备份到计算机上或者创建一个副本。您可能还想从 DVD 提取特定曲目以便稍候观看。Ubuntu 提供给您一些 DVD 备份程序或 DVD 抓取程序来实现这些操作。虽然这些程序并不默认包含在 Ubuntu 中，但是您可以从 Ubuntu 库下载并安装它们。这些程序有：<placeholder-1/>"
+msgstr "如果您收集了一些旧的或者市场上不容易找到的 DVD，您可能希望将它们备份到计算机上或者创建一个副本。您可能还想从 DVD 提取特定曲目以便稍候观看。Ubuntu 提供给您一些 DVD 备份程序或 DVD 抓取程序来实现这些操作。虽然这些程序并不默认包含在 Ubuntu 中，但是您可以从 Ubuntu 软件库下载并安装它们。这些程序有：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:1877(para)
 msgid "If the students want to know more about the above applications, advise them to visit the following Web pages: For dvd::rip- <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink> For K9copy- <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink> For HandBrake- <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>."
@@ -1740,11 +1740,11 @@ msgstr "使用 Thoggen 备份 DVD"
 
 #: chapter8/xinclude.xml:1886(para)
 msgid "Thoggen is a DVD backup utility for Linux, based on GStreamer and Gtk+. This application is designed to be easy-to-use. Rather than exposing the complexities of the DVD ripping process, which many other applications tend to do, it tries to simplify the process for average users by offering sensible default options."
-msgstr "Thoggen 是一款 Linux 上的基于 GStreamer 和 Gtk+ 的 DVD 备份工具。此程序的设计宗旨在于其易用性。一些程序在设计过程中倾向于暴露 DVD 抓取过程中的复杂性，而它尝试通过提供合理的默认选项为普通用户简化这个过程。"
+msgstr "Thoggen 是一款 Linux 上的基于 GStreamer 和 Gtk+ 的 DVD 备份工具。此程序设计的非常容易使用。很多其它程序倾向于暴露 DVD 抓取过程中的复杂性，而它尝试通过提供合理的默认选项为普通用户简化这个过程。"
 
 #: chapter8/xinclude.xml:1895(para)
 msgid "Is easy to use and has a nice graphical user interface (GUI)"
-msgstr "友好易用的图形用户界面(GUI)"
+msgstr "友好易用的图形用户界面"
 
 #: chapter8/xinclude.xml:1900(para)
 msgid "Supports title preview, picture cropping, and picture resizing"
@@ -1756,7 +1756,7 @@ msgstr "为音频曲目提供语言选择"
 
 #: chapter8/xinclude.xml:1909(para)
 msgid "Encodes into Ogg/Theora video"
-msgstr "以 Ogg/Theora 视频格式编码"
+msgstr "以 Ogg Vorbis/Theora 视频格式编码"
 
 #: chapter8/xinclude.xml:1913(para)
 msgid "Can encode from local directory with video DVD files"
@@ -1777,7 +1777,7 @@ msgstr "Thoggen 虽然是 beta 版的软件，但已经能很好的完成相应�
 
 #: chapter8/xinclude.xml:1931(para)
 msgid "To be able to back up your DVD using Thoggen, you need to first install it. You can easily find this application in the Universe repository of Synaptic Package Manager and install it on your computer."
-msgstr "要使用 Thoggen 备份 DVD ，首先需要安装它。在新立得软件包管理器的 Universe 库中能很方便地找到此程序并在计算机上安装。"
+msgstr "要使用 Thoggen 备份 DVD ，首先需要安装它。在新立得软件包管理器的 Universe 软件库中能很方便地找到此程序并在计算机上安装。"
 
 #: chapter8/xinclude.xml:1937(title)
 msgid "Installing Thoggen"
@@ -1824,7 +1824,7 @@ msgstr "备份 DVD"
 # You can listen and watch online videos and audios directly  这句有问题吧？
 #: chapter8/xinclude.xml:2028(para)
 msgid "Ubuntu provides you with tools to directly play music and videos available on the Internet. You can listen and watch online videos and audios directly from within your browser but may require to install some special player for this. Your ability to watch or listen to online media depends on how the provider of the music and video has made them available."
-msgstr "对于互联网上的视频和音乐，Ubuntu 提供了直接播放的工具。您可以直接从浏览器中收听音乐，观看在线视频，但可能需要安装一些特定的播放器。您能否在线观看多媒体文件取决于文件提供者所做的设置。"
+msgstr "Ubuntu 提供了直接播放互联网上的视频和音乐的工具。您可以直接从浏览器中收听音乐，观看在线视频，但可能需要安装一些特定的播放器。您能否在线观看多媒体文件取决于文件提供者所做的设置。"
 
 #: chapter8/xinclude.xml:2036(title)
 msgid "Watching Videos in a Web Browser"
@@ -1833,7 +1833,7 @@ msgstr "在网页浏览器中观看视频"
 # youtube 需要换掉吗？
 #: chapter8/xinclude.xml:2038(para)
 msgid "You can play many of the videos available on the Internet directly from within your browser. For example, You can watch the Google videos and the You Tube videos directly in your FireFox window without installing any special player or additional browser plugins. The following screenshot displays a video being played inside the Firefox window:"
-msgstr "可以直接在浏览器内播放大多数网络视频。例如，您可以在 Firefox 窗口中观看 Google 视频和 You Tube 视频，而不用安装任何专用播放器或附加浏览器组件。下图显示了一个正在 Firefox 窗口中播放视频的界面。"
+msgstr "可以直接在浏览器内播放大多数网络视频。例如，您可以在 Firefox 窗口中观看优酷视频和土豆视频，而不用安装任何专用播放器或附加浏览器组件。下图显示了一个正在 Firefox 窗口中播放视频的界面。"
 
 #: chapter8/xinclude.xml:2046(title)
 msgid "Watching Video in a Web Browser"
@@ -1845,7 +1845,7 @@ msgstr "Totem Xine 插件:"
 
 #: chapter8/xinclude.xml:2063(para)
 msgid "Install the <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> package from the \"Universe\" repository."
-msgstr "从“Universe\" 库中安装 <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> 包。"
+msgstr "从“Universe”软件库中安装 <emphasis role=\"strong\">totem-xine-firefox-plugin</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2071(title)
 msgid "Totem gstreamer plugin:"
@@ -1853,7 +1853,7 @@ msgstr "Totem gstreamer 插件:"
 
 #: chapter8/xinclude.xml:2073(para)
 msgid "Install the <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> package from the \"Universe\" repository."
-msgstr "从\"Universe\" 库中安装 <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> 包。"
+msgstr "从“Universe”软件库中安装 <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2081(title)
 msgid "Mplayer plugin:"
@@ -1861,7 +1861,7 @@ msgstr "Mplayer 插件:"
 
 #: chapter8/xinclude.xml:2083(para)
 msgid "Install the <emphasis role=\"strong\"> mozilla-mplayer</emphasis> package from the Universe repository"
-msgstr "从\"Universe\" 库中安装 <emphasis role=\"strong\"> mozilla-mplayer</emphasis> 包。"
+msgstr "从“Universe”软件库中安装 <emphasis role=\"strong\"> mozilla-mplayer</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2091(title)
 msgid "Flash plugin:"
@@ -1869,7 +1869,7 @@ msgstr "Flash 插件:"
 
 #: chapter8/xinclude.xml:2093(para)
 msgid "install the <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> package from the \"Multiverse\" repository"
-msgstr "从“Multiverse”库中安装 <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> 包。"
+msgstr "从“Multiverse”软件库中安装 <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> 包。"
 
 #: chapter8/xinclude.xml:2055(para)
 msgid "However, depending on the format of the video that you want to watch, you may also require to download and install certain additional browser plugins. Some of the plugins available for the default Firefox web browser are: <placeholder-1/>"
@@ -1877,16 +1877,16 @@ msgstr "根据视频的格式，可能要求下载并安装特定的附加浏览
 
 #: chapter8/xinclude.xml:2100(para)
 msgid "The plugin installation process depends on the framework you use. If you use Totem-gstreamer, the default movie player included in Ubuntu, you need to install the totem-gstreamer-firefox-plugin package. However, to enable playing streaming video in your browser, you need to first install the Microsoft Windows codec and then install the totem plugin."
-msgstr "插件安装过程依赖于所使用的框架。如果使用 Ubuntu 中默认的电影播放器 Totem-gstreamer，需要安装 totem-gstreamer-firefox-plugin。然而，要在浏览器中启用流媒体播放，首先需要安装微软 Windows 解码器然后安装此 totem 插件。"
+msgstr "插件安装过程依赖于所使用的框架。如果使用 Ubuntu 中默认的电影播放器 Totem-gstreamer，需要安装 totem-gstreamer-firefox-plugin。"
 
 # RealPlayer 10?需要换个版本吗？
 #: chapter8/xinclude.xml:2107(para)
 msgid "You can even install an additional mediaplayer, such as RealPlayer 10, to watch online video streams in Realmedia formats. When you have installed all the above mentioned plugins and codecs, you can watch RealMedia files even with your default media player, such as Totem. But, you may also want to install RealPlayer on your computer because RealPlayer supports streaming RealMedia files slightly better than other players."
-msgstr "您还可以安装额外的多媒体播放器来观看 Realmedia 格式的在线视频流，如 RealPlayer 10 。安装了上述插件和解码器之后，您甚至可以使用默认的多媒体播放器观看 RealMedia 文件，如 Totem 的。但您可能仍希望在计算机上安装 RealPlayer ，因为它比起其它播放器能更好地支持流式 RealMedia 文件。"
+msgstr "您还可以安装额外的多媒体播放器来观看 Realmedia 格式的在线视频流，如 RealPlayer 11。安装了上述插件和解码器之后，您甚至可以使用默认的多媒体播放器观看 RealMedia 文件，如 Totem 的。但您可能仍希望在计算机上安装 RealPlayer ，因为它比起其它播放器能更好地支持流式 RealMedia 文件。"
 
 #: chapter8/xinclude.xml:2115(para)
 msgid "The RealPlayer, developed by RealNetworks, supports a number of audio and video codecs such as realaudio, realvideo 10, mp3, ogg vorbis and theora, h263 and AAC. The RealPlayer for Linux is available in the Canonical commercial repository and can also be freely downloaded from the RealPlayer web site."
-msgstr "RealNetworks 开发的 RealPlayer 支持很多音频和视频编码格式，如  realaudio、realvideo 10、mp3、ogg vorbis、theora、h263 以及 AAC等。Linux 版的 RealPlayer 可以在 Canonical 商业库中找到，也可以从 RealPlayer 网站自由地下载。"
+msgstr "RealNetworks 开发的 RealPlayer 支持很多音频和视频编码格式，如  realaudio、realvideo、mp3、ogg vorbis、theora、h263 以及 AAC等。Linux 版的 RealPlayer 可以在 medibuntu 软件库中找到，也可以从 RealPlayer 网站免费下载。"
 
 #: chapter8/xinclude.xml:2124(para)
 msgid "RealPlayer is a proprietary software and is not supported by the Ubuntu community."
@@ -1898,7 +1898,7 @@ msgstr "安装 RealPlayer "
 
 #: chapter8/xinclude.xml:2131(para)
 msgid "As mentioned above, the realPlayer for Linux is available in the Canonical commercial repository. Ubuntu does not include this repository by default. Therefore, you will first need to add Canonical's commercial repository to your system. Once the repository is added, you can search for the Realplayer package and then install it on your computer."
-msgstr "如前所述，Linux 版 RealPlayer 可在 Canonical 商业库中获得。Ubuntu 默认并不包含此库。因此首先需要向您的系统添加 Canonical 商业库。添加完此库就可以搜索 Realplayer 包并安装在计算机上。"
+msgstr "如前所述，Linux 版 RealPlayer 可在 medibuntu 软件库中获得。Ubuntu 默认并不包含此软件库。因此首先需要向您的系统添加 medibuntu 软件库。添加完此软件库就可以搜索 Realplayer 包并安装到计算机上了。"
 
 #: chapter8/xinclude.xml:2140(title)
 msgid "Watching Online Videos Using RealPlayer"
@@ -1907,7 +1907,7 @@ msgstr "使用 RealPlayer 播放在线视频"
 # realplayer 的版本？
 #: chapter8/xinclude.xml:2145(para)
 msgid "You can now access the realPlayer from the Applications menu. To access RealPlayer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">RealPlayer 10</emphasis>."
-msgstr "现在可以使用应用程序菜单访问 RealPlayer 了。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">RealPlayer 10</emphasis>。"
+msgstr "现在可以使用应用程序菜单访问 RealPlayer 了。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">RealPlayer 11</emphasis>。"
 
 #: chapter8/xinclude.xml:2149(emphasis)
 msgid "Launching RealPlayer"
@@ -1915,7 +1915,7 @@ msgstr "启动 RealPlayer"
 
 #: chapter8/xinclude.xml:2161(para)
 msgid "The <emphasis role=\"strong\">RealPlayer Setup Assistant</emphasis> is displayed to guide you through the set up of the RealPlayer. Click <emphasis role=\"strong\">Forward</emphasis> to start the set up process."
-msgstr "将显示 <emphasis role=\"strong\">RealPlayer 设置助手</emphasis> 实现 RealPlayer 的设置。点击 <emphasis role=\"strong\">前进</emphasis> 开始设置。"
+msgstr "将显示 <emphasis role=\"strong\">RealPlayer 设置助理</emphasis> 实现 RealPlayer 的设置。点击 <emphasis role=\"strong\">前进</emphasis> 开始设置。"
 
 #: chapter8/xinclude.xml:2167(emphasis)
 msgid "Initiating RealPlayer Set up"
@@ -1924,7 +1924,7 @@ msgstr "初始化 RealPlayer 设置"
 # edition of RealPlayer
 #: chapter8/xinclude.xml:2179(para)
 msgid "After reviewing the release notes of the RealPlayer 10, click <emphasis role=\"strong\">Forward</emphasis> again to proceed."
-msgstr "查看了 RealPlayer 10 发行注记后，再次点击 <emphasis role=\"strong\">前进</emphasis> 以继续。"
+msgstr "查看了 RealPlayer 11 发行注记后，再次点击 <emphasis role=\"strong\">前进</emphasis> 以继续。"
 
 #: chapter8/xinclude.xml:2183(emphasis)
 msgid "Reviewing realPlayer Release Notes"
@@ -2026,7 +2026,7 @@ msgstr "<emphasis role=\"strong\">Stopmotion：</emphasis> Stopmotion 是一个�
 
 #: chapter8/xinclude.xml:2377(para)
 msgid "<emphasis role=\"strong\">Subtitle Editor:</emphasis> Subtitle Editor is a GTK+2 tool to edit subtitles for movies and videos. you can use it for creating new subtitles or to transform, edit, correct and refine existing subtitles. This programme also shows sound waves, which makes it easier to synchronise subtitles to voices."
-msgstr "<emphasis role=\"strong\">字幕编辑器(Subtitle Editor)：</emphasis> 字幕编辑器是一款为电影和视频编辑字幕的 GTK+2 工具。可以使用它创建新字幕或传输、编辑、校对和完善已有字幕。此程序也显示声波，使字幕和声音同步变得容易。"
+msgstr "<emphasis role=\"strong\">字幕编辑器(Subtitle Editor)：</emphasis> 字幕编辑器是一款为电影和视频编辑字幕的 GTK+ 工具。可以使用它创建新字幕或传输、编辑、校对和完善已有字幕。此程序也显示声波，使字幕和声音同步变得容易。"
 
 #: chapter8/xinclude.xml:2383(para)
 msgid "<emphasis role=\"strong\">Pitivi Video Editor:</emphasis> Pitivi Video Editor is a non-linear editor, which allows you to easily edit audio and video projects. Using Pitivi, you can capture audio and video, mix, resize, cut, and apply effects to audio and video sources. It also allows you to save the projects in any format supported by the GStreamer framework."
@@ -2039,7 +2039,7 @@ msgstr "使用 Pitivi 视频编辑器编辑视频"
 # 此软件 10.04 已默认安装！！
 #: chapter8/xinclude.xml:2393(para)
 msgid "Pitivi Video Editor is not included in Ubuntu by default. It is available in the Universe repository of Ubuntu. You can install Pitivi using Synaptic Package Manager."
-msgstr "Ubuntu 默认未安装 Pitivi 视频编辑器。 可以在 Ubuntu 的 Universe 库下搜索获得。 可以利用新立得软件包管理器安装 Pitivi。"
+msgstr "Ubuntu 默认未安装 Pitivi 视频编辑器。 可以在 Ubuntu 的 Universe 软件库下搜索获得。 可以利用新立得软件包管理器安装 Pitivi。"
 
 #: chapter8/xinclude.xml:2398(title)
 msgid "To edit video using Pitivi Video Editor:"
@@ -2150,7 +2150,7 @@ msgstr "您可以使用 Rhythmbox 播放和组织音乐，收听网络电台，�
 
 #: chapter8/xinclude.xml:2610(para)
 msgid "Using Sound Juicer, you can play audio tracks direct from the CD, extract audio tracks and convert them into audio files in various file formats. In addition, the default audio CD/DVD burner for Ubuntu, Brasero, can be used to create audio and data CD/DVDs."
-msgstr "使用音乐榨汁机，可以从 CD 播放或提取音频曲目，或者转换成其他格式的音频文件。另外，Ubuntu 默认的音频光盘刻录器 - Brasero 可以用来创建音频和数据光盘。"
+msgstr "使用音乐榨汁机，可以从 CD 播放或提取音频曲目，或者转换成其他格式的音频文件。另外，Ubuntu 默认的音频光盘刻录器——Brasero 可以用来创建音频和数据光盘。"
 
 #: chapter8/xinclude.xml:2617(para)
 msgid "Playback of proprietary multimedia formats can be enabled in Ubuntu by installing additional multimedia codecs from the repositories."
@@ -2186,7 +2186,7 @@ msgstr "Pitivi 视频编辑器可以用于播放和编辑视频。"
 
 #: chapter8/xinclude.xml:2593(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
-msgstr "本课中，您将学到：<placeholder-1/>"
+msgstr "本课中，您学到了：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2660(title)
 msgid "Review Exercise"
@@ -2194,7 +2194,7 @@ msgstr "复习题"
 
 #: chapter8/xinclude.xml:2665(para)
 msgid "List the main features of a free software license."
-msgstr "列出了自由软件许可证的主要特点。"
+msgstr "请列出自由软件许可证的主要特点。"
 
 #: chapter8/xinclude.xml:2672(para)
 msgid "Enables anyone to distribute or sell the software"
@@ -2202,7 +2202,7 @@ msgstr "允许任何人发行或出售此软件"
 
 #: chapter8/xinclude.xml:2676(para)
 msgid "Makes the source code of the software available"
-msgstr "使软件的源代码可用"
+msgstr "提供软件的源代码"
 
 #: chapter8/xinclude.xml:2680(para)
 msgid "Allows users to make modifications and to produce derived works"
@@ -2218,23 +2218,23 @@ msgstr "一款自由软件许可证一般包含如下特点：<placeholder-1/>"
 
 #: chapter8/xinclude.xml:2693(para)
 msgid "Which is the default music player in Ubuntu?"
-msgstr "a) Ubuntu 中的默认音乐播放器是哪个？"
+msgstr "Ubuntu 中的默认音乐播放器是哪个？"
 
 #: chapter8/xinclude.xml:2697(para)
 msgid "Totem"
-msgstr "Totem"
+msgstr "a) Totem"
 
 #: chapter8/xinclude.xml:2701(para)
 msgid "Rhythmbox"
-msgstr "Rhythmbox"
+msgstr "b) Rhythmbox"
 
 #: chapter8/xinclude.xml:2705(para)
 msgid "Audacity"
-msgstr "Audacity"
+msgstr "c) Audacity"
 
 #: chapter8/xinclude.xml:2709(para)
 msgid "gtkpod"
-msgstr "gtkpod"
+msgstr "d) gtkpod"
 
 #: chapter8/xinclude.xml:2715(para)
 msgid "b) Rhythmbox"
@@ -2246,7 +2246,7 @@ msgstr "什么是播客？"
 
 #: chapter8/xinclude.xml:2725(para)
 msgid "Podcasts are audio shows, broadcasted over the Internet, that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
-msgstr "播客是通过订阅，在 Internet 上播放视频秀的一个网站。通过订阅播客可以从播客源下载每个新版音频文件。"
+msgstr "播客是一种在互联网上发布文件并允许用户订阅以自动接收新文件的方法，或用此方法来制作的电台节目。通过订阅播客可以从播客源下载每个新版音频文件。"
 
 #: chapter8/xinclude.xml:2734(para)
 msgid "Which application is available in Ubuntu by default to play and extract audio compact discs?"
@@ -2267,11 +2267,11 @@ msgstr "音乐榨汁机"
 
 #: chapter8/xinclude.xml:2763(para)
 msgid "In which formats does Sound Juicer enable you to extract audio files onto your computer?"
-msgstr "音乐榨汁机可以向计算机提取哪种格式的视听文件？"
+msgstr "音乐榨汁机可以使用何种格式保存提取的音频文件？"
 
 #: chapter8/xinclude.xml:2768(para)
 msgid "Sound Juicer enables you to extract audio files into the following three formats:"
-msgstr "音乐榨汁机可以提取如下格式的音频文件："
+msgstr "音乐榨汁机可以使用如下格式保存提取的音频文件："
 
 #: chapter8/xinclude.xml:2773(para)
 msgid "Ogg Vorbis"
@@ -2308,7 +2308,7 @@ msgstr "为什么需要在 Ubuntu 中安装附加多媒体解码器？"
 
 #: chapter8/xinclude.xml:2818(para)
 msgid "Due to the legal restrictions associated with the use of proprietary formats, by default, Ubuntu does not offer support for such formats. You need to install additional multimedia codecs to enabling such proprietary media formats in Ubuntu."
-msgstr "由于对于使用私有格式的法律限制，默认上，Ubuntu 不提供对这些格式的支持。您需要安装附加的多媒体解码器以支持这些私有媒体格式。"
+msgstr "由于对于使用专有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。您需要安装附加的多媒体解码器以支持这些私有媒体格式。"
 
 #: chapter8/xinclude.xml:2827(para)
 msgid "You can download and install multimedia codecs using the ____________________."
@@ -2495,7 +2495,7 @@ msgstr "使用新立得软件包管理器安装解码插件："
 # 此处原文句号放错地方，又。
 #: chapter8/xinclude.xml:3095(para)
 msgid "The Multiverse and Restricted repositories are not activated by default in Ubuntu. To activate these repositories, on the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories.</emphasis> The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box is displayed."
-msgstr "在 Ubuntu 中，Multiverse 和 Restricted 库默认没有激活。要激活这些仓库，在 <emphasis role=\"strong\">设置</emphasis> 菜单上点击 <emphasis role=\"strong\">软件库</emphasis>，此时显示 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
+msgstr "在 Ubuntu 中，Multiverse 和 Restricted 软件库默认没有激活。要激活这些仓库，在 <emphasis role=\"strong\">设置</emphasis> 菜单上点击 <emphasis role=\"strong\">软件库</emphasis>，此时显示 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:3126(para)
 msgid "To install a software package, you need to first locate the package in the Synaptic Package Manager window."
@@ -2543,7 +2543,7 @@ msgstr "在电影播放器中播放 DVD："
 
 #: chapter8/xinclude.xml:3179(para)
 msgid "Install the following software packages from the Universe and Multiverse repositories using the Synaptic Package Manager."
-msgstr "使用新立得软件包管理器从 Universe 和 Multiverse 库中安装如下软件包。"
+msgstr "使用新立得软件包管理器从 Universe 和 Multiverse 软件库中安装如下软件包。"
 
 #: chapter8/xinclude.xml:3184(para)
 msgid "gxine"
