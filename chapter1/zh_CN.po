@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introducting-ubuntu\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-01-04 02:10+0800\n"
-"PO-Revision-Date: 2010-01-05 02:57+0800\n"
+"POT-Creation-Date: 2010-01-07 14:56+0800\n"
+"PO-Revision-Date: 2010-01-07 14:57+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +90,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:1272(None)
+#: chapter1/xinclude.xml:1270(None)
 msgid ""
 "@@image: 'images/Lesson02_images_009.png'; "
 "md5=2dc5798a29daeb1a8bef38d0a48f2565"
@@ -100,7 +100,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:1313(None)
+#: chapter1/xinclude.xml:1311(None)
 msgid ""
 "@@image: 'images/Lesson02_images_010.png'; "
 "md5=61821237d9c18ef6589fd90e285391e3"
@@ -124,15 +124,15 @@ msgstr "在本课程中，您将了解到："
 msgid "The fundamental concepts of open source."
 msgstr "开源的基础性概念"
 
-#: chapter1/xinclude.xml:14(para) chapter1/xinclude.xml:1327(para)
+#: chapter1/xinclude.xml:14(para) chapter1/xinclude.xml:1325(para)
 msgid "The link between the Free Software Movement, open source and Linux"
 msgstr "自由软件运动、开源和 Linux 之间的联系"
 
-#: chapter1/xinclude.xml:19(para) chapter1/xinclude.xml:1331(para)
+#: chapter1/xinclude.xml:19(para) chapter1/xinclude.xml:1329(para)
 msgid "How Ubuntu ties in with open source"
 msgstr "Ubuntu 如何同开源相结合"
 
-#: chapter1/xinclude.xml:23(para) chapter1/xinclude.xml:1334(para)
+#: chapter1/xinclude.xml:23(para) chapter1/xinclude.xml:1332(para)
 msgid "How Ubuntu is developed"
 msgstr "Ubuntu 是如何发展起来的"
 
@@ -140,7 +140,7 @@ msgstr "Ubuntu 是如何发展起来的"
 msgid "About Ubuntu versions"
 msgstr "关于 Ubuntu 的版本"
 
-#: chapter1/xinclude.xml:31(para) chapter1/xinclude.xml:1340(para)
+#: chapter1/xinclude.xml:31(para) chapter1/xinclude.xml:1338(para)
 msgid "The key differences between Ubuntu and Microsoft Windows"
 msgstr "Ubuntu 与 Microsoft Windows 的主要区别"
 
@@ -150,7 +150,7 @@ msgstr "关于开源"
 
 #: chapter1/xinclude.xml:39(title) chapter1/xinclude.xml:217(title)
 #: chapter1/xinclude.xml:253(title) chapter1/xinclude.xml:276(title)
-#: chapter1/xinclude.xml:1348(title)
+#: chapter1/xinclude.xml:1346(title)
 msgid "Instructor Notes:"
 msgstr "教员注记："
 
@@ -263,8 +263,8 @@ msgid ""
 msgstr ""
 "1983年春天，Richard Matthew Stallman，这位曾经在 MIT 人工智能实验室工作的程序"
 "员，发起了 GNU 项目，旨在开发一个自由的类 Unix 的操作系统。他为专有软件的膨胀"
-"和随之而来的用户不再能够修改他们电脑上的程序而忧心忡忡。软件开发者被束缚，"
-"有悖自由精神的现象随之普遍发生。GNU 项目的创立，标志了自由软件运动的开始，随后"
+"和随之而来的用户不再能够修改他们电脑上的程序而忧心忡忡。软件开发者被束缚，有"
+"悖自由精神的现象随之普遍发生。GNU 项目的创立，标志了自由软件运动的开始，随后"
 "的 1985年10月，Stallman 又创立了自由软件基金会(Free Software Foundation, "
 "FSF)。"
 
@@ -297,12 +297,23 @@ msgstr ""
 
 #: chapter1/xinclude.xml:114(para)
 msgid "Copyleft"
-msgstr "Copyleft 与 Copyright 相对应，它来源于英语中 left 和 right 有“左”和“右”这对相的反意思，这种表达方式意在表明自由软件版权精神与传统版权思想的明显不同。Copyleft 并不是一种许可证，也不是对版权概念的反对或否定；不仅如此，它还是帮助使用法律保护自由软件版权和生态的一种重要方法。Copyleft 用于形容某些自由软件的许可证，这些许可证的共同特点是：其他软件如果使用了基于这些许可证中任意一个所发布的软件的源代码(包括附属于代码本身的图片、文档等)，那么使用这些源代码的软件也必须采用相同或者与之兼容的许可证发布。Copyleft 性质的许可证使自由软件开发者的成果按照其意愿保持在自由软件体系内部自由传递，同时不被专有软件任意使用，借此使得自由软件在同专有软件的竞争中获得优势。"
+msgstr ""
+"Copyleft 与 Copyright 相对应，它来源于英语中 left 和 right 有“左”和“右”这对相"
+"的反意思，这种表达方式意在表明自由软件版权精神与传统版权思想的明显不同。"
+"Copyleft 并不是一种许可证，也不是对版权概念的反对或否定；不仅如此，它还是帮助"
+"使用法律保护自由软件版权和生态的一种重要方法。Copyleft 用于形容某些自由软件的"
+"许可证，这些许可证的共同特点是：其他软件如果使用了基于这些许可证中任意一个所"
+"发布的软件的源代码(包括附属于代码本身的图片、文档等)，那么使用这些源代码的软"
+"件也必须采用相同或者与之兼容的许可证发布。Copyleft 性质的许可证使自由软件开发"
+"者的成果按照其意愿保持在自由软件体系内部自由传递，同时不被专有软件任意使用，"
+"借此使得自由软件在同专有软件的竞争中获得优势。"
 
 #: chapter1/xinclude.xml:115(para)
 msgid "http://www.gnu.org/copyleft/copyleft.html"
-msgstr "更详细的内容请查看 GNU 项目网站上给出的对 Copyleft 的定义：<ulink url=\"http://www.gnu.org/copyleft/copyleft.html\">"
-"http://www.gnu.org/copyleft/copyleft.html</ulink>"
+msgstr ""
+"更详细的内容请查看 GNU 项目网站上给出的对 Copyleft 的定义：<ulink url="
+"\"http://www.gnu.org/copyleft/copyleft.html\">http://www.gnu.org/copyleft/"
+"copyleft.html</ulink>"
 
 #: chapter1/xinclude.xml:117(para)
 msgid ""
@@ -544,13 +555,13 @@ msgstr ""
 "强调 Ubuntu 承诺，因为它包含了 Ubuntu 精神中最精髓的部分，这也是 Ubuntu 成功"
 "的最本质原因。"
 
-#: chapter1/xinclude.xml:283(para) chapter1/xinclude.xml:1390(para)
+#: chapter1/xinclude.xml:283(para) chapter1/xinclude.xml:1388(para)
 msgid ""
 "Ubuntu will always be free of charge, including enterprise releases and "
 "security updates."
 msgstr "Ubuntu 永远免费，包括商业发行版和安全更新。"
 
-#: chapter1/xinclude.xml:287(para) chapter1/xinclude.xml:1394(para)
+#: chapter1/xinclude.xml:287(para) chapter1/xinclude.xml:1392(para)
 msgid ""
 "Ubuntu comes with full commercial support from Canonical and hundreds of "
 "companies around the world."
@@ -1451,26 +1462,26 @@ msgstr "Evolution 邮件客户端"
 msgid "Word Processing:"
 msgstr "文字处理"
 
-#: chapter1/xinclude.xml:1267(emphasis)
-msgid "OpenOffice.org Writer"
-msgstr "Openoffice.org Writer"
-
 #: chapter1/xinclude.xml:1260(para)
 msgid ""
 "The OpenOffice.org suite is installed on Ubuntu by default and provides many "
 "features of Microsoft Office. Vista comes with WordPad by default; the full "
 "version of Microsoft Word (or Office) for Microsoft Windows, is available at "
-"an additional cost. <placeholder-1/>"
+"an additional cost."
 msgstr ""
 "Ubuntu 默认安装了 Openoffice.org 办公套件，提供 Microsoft Office 绝大多数的功"
 "能。Windows7 预装的是写字板，全功能的 Microsoft Word(或者 Office)需要另外付"
 "费。"
 
-#: chapter1/xinclude.xml:1278(title)
+#: chapter1/xinclude.xml:1267(title)
+msgid "OpenOffice.org Writer"
+msgstr "Openoffice.org Writer"
+
+#: chapter1/xinclude.xml:1276(title)
 msgid "Multimedia:"
 msgstr "多媒体："
 
-#: chapter1/xinclude.xml:1279(para)
+#: chapter1/xinclude.xml:1277(para)
 msgid ""
 "Several multimedia programmes are configured by default on Ubuntu, such as "
 "Audio CD Extractor, Brasero Disc Burning, Rhythmbox Music Player, Movie "
@@ -1482,7 +1493,7 @@ msgstr ""
 "器、电影播放器和录音机程序。Rhythmbox 是默认的播放和管理音乐、播放列表的程"
 "序，有些像 Microsoft Windows 媒体播放器。您可以用 Brasero 制作音频光盘。"
 
-#: chapter1/xinclude.xml:1283(para)
+#: chapter1/xinclude.xml:1281(para)
 msgid ""
 "To play the mp3 format on Ubuntu, you need to install a codec pack. This is "
 "because Ubuntu is not distributed with mp3 codecs due to licensing "
@@ -1492,7 +1503,7 @@ msgstr ""
 "要在 Ubuntu 上播放 mp3 文件，您需要安装一个解码器包。因为许可证限制的原因，"
 "Ubuntu 不会默认安装它。某些版本的 Microsoft Windows 中默认支持播放 mp3 文件。"
 
-#: chapter1/xinclude.xml:1288(para)
+#: chapter1/xinclude.xml:1286(para)
 msgid ""
 "Vista has two multimedia programmes, Windows Media Player 11 (WMP for short) "
 "and Windows Media Center (WMC for short). WMP is best for playing music, and "
@@ -1505,11 +1516,11 @@ msgstr ""
 "(简称 WMC)。WMP 用于播放音乐，它支持大音乐库和索引检索系统，您可以按艺术家搜"
 "索，也可以搜索一段具体的音乐。 WMC 则可以把您的计算机变成媒体中心。"
 
-#: chapter1/xinclude.xml:1297(title)
+#: chapter1/xinclude.xml:1295(title)
 msgid "Image Editing and Picture Management:"
 msgstr "图片编辑与管理"
 
-#: chapter1/xinclude.xml:1298(para)
+#: chapter1/xinclude.xml:1296(para)
 msgid ""
 "With the Picture Gallery application of Microsoft Vista, you can upload "
 "thousands of images and add tags. You can also organise the images quickly "
@@ -1522,7 +1533,7 @@ msgstr ""
 "织、处理图片，因为可以一键添加标签。Ubuntu 中 F-Spot 照片管理器组织您的个人照"
 "片，它无缝整合了流行的网络相册，如 Flickr 和 Picasa Web。"
 
-#: chapter1/xinclude.xml:1306(para)
+#: chapter1/xinclude.xml:1304(para)
 msgid ""
 "Ubuntu provides GIMP for image editing which is a powerful Photoshop-like "
 "application. Microsoft Windows Vista provides 'Paint' for basic image "
@@ -1531,156 +1542,156 @@ msgstr ""
 "Ubuntu 提供的 GIMP 是一个强大的类 Photoshop 图像编辑软件。 Microsoft Windows "
 "Vista 的 Paint 程序可以进行基本的图像编辑。"
 
-#: chapter1/xinclude.xml:1310(title)
+#: chapter1/xinclude.xml:1308(title)
 msgid "GIMP"
 msgstr "GIMP"
 
-#: chapter1/xinclude.xml:1320(title)
+#: chapter1/xinclude.xml:1318(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter1/xinclude.xml:1321(para)
+#: chapter1/xinclude.xml:1319(para)
 msgid "In this lesson, you learned:"
 msgstr "在本课中，您学到了："
 
-#: chapter1/xinclude.xml:1324(para)
+#: chapter1/xinclude.xml:1322(para)
 msgid "The fundamental concepts of open source"
 msgstr "开源的基本概念"
 
-#: chapter1/xinclude.xml:1337(para)
+#: chapter1/xinclude.xml:1335(para)
 msgid "The Ubuntu version naming conventions"
 msgstr "Ubuntu 版本命名规则"
 
-#: chapter1/xinclude.xml:1346(title)
+#: chapter1/xinclude.xml:1344(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter1/xinclude.xml:1349(para)
+#: chapter1/xinclude.xml:1347(para)
 msgid ""
 "If you are running short of time, administer this exercise when Exploring "
 "the Ubuntu Desktop in <xref linkend=\"lesson2\"/>."
 msgstr "如果时间紧张，在第二课<xref linkend=lesson2/>的时候做这些练习。"
 
-#: chapter1/xinclude.xml:1355(para)
+#: chapter1/xinclude.xml:1353(para)
 msgid "What is meant by the term free software?"
 msgstr "自由软件的含义是什么？"
 
-#: chapter1/xinclude.xml:1358(para)
+#: chapter1/xinclude.xml:1356(para)
 msgid ""
 "Quoting the Free Software Foundation's 'What is Free Software', the freedoms "
 "at the core of free software are defined as:"
 msgstr "根据自由软件基金会的《什么是自由软件》，自由软件的核心——自由包括："
 
-#: chapter1/xinclude.xml:1363(para)
+#: chapter1/xinclude.xml:1361(para)
 msgid "The freedom to run the programme, for any purpose."
 msgstr "以任何目的运行软件的自由."
 
-#: chapter1/xinclude.xml:1367(para)
+#: chapter1/xinclude.xml:1365(para)
 msgid ""
 "The freedom to study how the programme works and adapt it to your needs."
 msgstr "研究软件工作原理及修改软件的自由——满足自己的需要。"
 
-#: chapter1/xinclude.xml:1371(para)
+#: chapter1/xinclude.xml:1369(para)
 msgid "The freedom to redistribute copies so you can help others."
 msgstr "将软件的拷贝分发给别人的自由——帮助您的邻居。"
 
-#: chapter1/xinclude.xml:1375(para)
+#: chapter1/xinclude.xml:1373(para)
 msgid ""
 "The freedom to improve the programme and release your improvements to the "
 "public, so that everyone benefits."
 msgstr "改进软件及发布您自己的改进版的自由——让每个人都从中受益。"
 
-#: chapter1/xinclude.xml:1384(para)
+#: chapter1/xinclude.xml:1382(para)
 msgid "What is the Ubuntu promise?"
 msgstr "什么是 Ubuntu 的承诺？"
 
-#: chapter1/xinclude.xml:1399(para)
+#: chapter1/xinclude.xml:1397(para)
 msgid ""
 "Ubuntu includes the best translations and accessibility infrastructure that "
 "the open source community has to offer."
 msgstr "Ubuntu 有开源社区提供的优秀的翻译和辅助功能技术。"
 
-#: chapter1/xinclude.xml:1404(para)
+#: chapter1/xinclude.xml:1402(para)
 msgid ""
 "Ubuntu CDs contain only open source applications; Ubuntu encourages you to "
 "use free and open source software, improve it and pass it on."
 msgstr ""
 "Ubuntu 光盘只包含开源软件，Ubuntu 鼓励用户使用、改进、传播自由和开源软件。"
 
-#: chapter1/xinclude.xml:1387(para)
+#: chapter1/xinclude.xml:1385(para)
 msgid "The Ubuntu promise is: <placeholder-1/>"
 msgstr "Ubuntu 的承诺是：<placeholder-1/>"
 
-#: chapter1/xinclude.xml:1414(para)
+#: chapter1/xinclude.xml:1412(para)
 msgid "Match the Ubuntu versions with the years in which they were released."
 msgstr "连线题：Ubuntu 版本和它们发布的日期。"
 
-#: chapter1/xinclude.xml:1423(para) chapter1/xinclude.xml:1465(para)
+#: chapter1/xinclude.xml:1421(para) chapter1/xinclude.xml:1463(para)
 msgid "1) 7.04"
 msgstr "1) 7.04"
 
-#: chapter1/xinclude.xml:1426(para) chapter1/xinclude.xml:1484(para)
+#: chapter1/xinclude.xml:1424(para) chapter1/xinclude.xml:1482(para)
 msgid "a) June 2006"
 msgstr "a) 2006年06月"
 
-#: chapter1/xinclude.xml:1431(para) chapter1/xinclude.xml:1473(para)
+#: chapter1/xinclude.xml:1429(para) chapter1/xinclude.xml:1471(para)
 msgid "2) 4.10"
 msgstr "2) 4.10"
 
-#: chapter1/xinclude.xml:1434(para) chapter1/xinclude.xml:1492(para)
+#: chapter1/xinclude.xml:1432(para) chapter1/xinclude.xml:1490(para)
 msgid "b) October 2007"
 msgstr "b) 2007年10月"
 
-#: chapter1/xinclude.xml:1439(para) chapter1/xinclude.xml:1481(para)
+#: chapter1/xinclude.xml:1437(para) chapter1/xinclude.xml:1479(para)
 msgid "3) 6.06"
 msgstr "3) 6.06"
 
-#: chapter1/xinclude.xml:1442(para) chapter1/xinclude.xml:1468(para)
+#: chapter1/xinclude.xml:1440(para) chapter1/xinclude.xml:1466(para)
 msgid "c) April 2007"
 msgstr "c) 2007年04月"
 
-#: chapter1/xinclude.xml:1447(para) chapter1/xinclude.xml:1489(para)
+#: chapter1/xinclude.xml:1445(para) chapter1/xinclude.xml:1487(para)
 msgid "4) 7.10"
 msgstr "4) 7.10"
 
-#: chapter1/xinclude.xml:1450(para) chapter1/xinclude.xml:1476(para)
+#: chapter1/xinclude.xml:1448(para) chapter1/xinclude.xml:1474(para)
 msgid "d) October 2004"
 msgstr "d) 2004年10月"
 
-#: chapter1/xinclude.xml:1502(para)
+#: chapter1/xinclude.xml:1500(para)
 msgid ""
 "List 3 ways in which non-technical users can contribute towards the "
 "development of Ubuntu."
 msgstr "列举三种非技术型用户为 Ubuntu 开发做贡献的方式。"
 
-#: chapter1/xinclude.xml:1506(para)
+#: chapter1/xinclude.xml:1504(para)
 msgid ""
 "The three ways in which non-technical users can contribute towards Ubuntu "
 "development are artwork, translation and localisation and document solutions."
 msgstr ""
 "三种非技术用户为 Ubuntu 开发做贡献的方式是美工、翻译和本地化、撰写文档。"
 
-#: chapter1/xinclude.xml:1514(para)
+#: chapter1/xinclude.xml:1512(para)
 msgid "The default web browser on Ubuntu is _________________."
 msgstr "Ubuntu 默认的网页浏览器是：_________________"
 
-#: chapter1/xinclude.xml:1518(para)
+#: chapter1/xinclude.xml:1516(para)
 msgid "The default web browser on Ubuntu is Mozilla Firefox."
 msgstr "Ubuntu 默认的网页浏览器是 Mozilla Firefox 。"
 
-#: chapter1/xinclude.xml:1524(para)
+#: chapter1/xinclude.xml:1522(para)
 msgid "The default e-mail client on Ubuntu is __________________."
 msgstr "Ubuntu 默认的邮件客户端是_________________。"
 
-#: chapter1/xinclude.xml:1528(para)
+#: chapter1/xinclude.xml:1526(para)
 msgid "The default e-mail client on Ubuntu is Evolution."
 msgstr "Ubuntu 默认的邮件客户端是 Evolution 。"
 
-#: chapter1/xinclude.xml:1534(para)
+#: chapter1/xinclude.xml:1532(para)
 msgid "What are the advantages of Ubuntu 6 monthly releases?"
 msgstr "Ubuntu 每六个月发布一次有什么好处？"
 
-#: chapter1/xinclude.xml:1538(para)
+#: chapter1/xinclude.xml:1536(para)
 msgid ""
 "Quicker upgrade and availability of new applications, as well as improved "
 "functionality."
