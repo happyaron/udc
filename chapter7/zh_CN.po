@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-01-07 14:32+0800\n"
+"PO-Revision-Date: 2010-01-07 15:57+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -538,7 +538,7 @@ msgstr "GIMP"
 # 10.04 中，默认不安装
 #: chapter7/xinclude.xml:562(para)
 msgid "GNU Image Manipulation Programme (GIMP) is the default graphic application in Ubuntu, licensed under the GNU General Public License. It is an open-source multi-platform image manipulation tool, available in many languages. You can use GIMP to re-touch photos, compose and create images, re-size, crop, manipulate colours and convert image formats."
-msgstr "GNU 图像处理程序 (GIMP)是 Ubuntu 自带的一款图形应用程序，根据 GNU 通用公共许可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过 GIMP 修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格式。"
+msgstr "GNU 图像处理程序 (GIMP) 是 Ubuntu 自带的一款图形应用程序，根据 GNU 通用公共许可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过 GIMP 修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格式。"
 
 #: chapter7/xinclude.xml:571(para)
 msgid "A full suite of painting tools, including brushes, a pencil and an airbrush"
@@ -658,7 +658,7 @@ msgstr "Inkscape 不是 Ubuntu 下默认的图形应用程序，但是用户可�
 
 #: chapter7/xinclude.xml:721(para)
 msgid "You can install this application from the repositories by using Synaptic Package Manager, Ubuntu software center,or from the Command Line Interface (CLI)."
-msgstr "用户可以通过新立得软件包管理器，Ubuntu 软件中心 或命令行(CLI) 在软件库中安装此软件。"
+msgstr "用户可以通过新立得软件包管理器，Ubuntu 软件中心或命令行界面在软件库中安装此软件。"
 
 # 此处菜单项为何？
 #: chapter7/xinclude.xml:724(para)

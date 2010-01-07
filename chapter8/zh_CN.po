@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-01-01 21:10+0800\n"
-"PO-Revision-Date: 2010-01-07 14:16+0800\n"
+"PO-Revision-Date: 2010-01-07 16:25+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -701,11 +701,11 @@ msgstr "Ubuntu 完整支持播放自由和非限制格式的音乐、视频和 D
 
 #: chapter8/xinclude.xml:43(para)
 msgid "The license of the format is different from the license of the content itself. For example a video's content can be licensed under a Creative Commons license, and be available as MPEG file. While the content can be distributed freely, the format is proprietary and a software for playback may need to be licensed in some jurisdictions."
-msgstr "格式的许可不同于内容的许可。例如，一个视频的内容可能以知识共享(Creative Commons)许可证发布，同时以 MPEG 文件格式得到。尽管其内容可以自由分发，但是该文件格式却是私有的且在一些地区使用支持该格式的播放软件可能需要许可证。"
+msgstr "格式的许可不同于内容的许可。例如，一个视频的内容可能以知识共享(Creative Commons)许可证发布，同时以 MPEG 文件格式得到。尽管其内容可以自由分发，但是该文件格式却是专有的且在一些地区使用支持该格式的播放软件可能需要许可证。"
 
 #: chapter8/xinclude.xml:49(para)
 msgid "To understand the legal issues associated with the use of proprietary formats, you first need to understand the difference between free and non-free or proprietary formats."
-msgstr "要理解使用专有格式伴随的法律问题，首先需要理解自由和非自由(或者叫私有)格式间的区别。"
+msgstr "要理解使用专有格式伴随的法律问题，首先需要理解自由和非自由(或者叫专有)格式间的区别。"
 
 #: chapter8/xinclude.xml:55(title)
 msgid "Playing Music Files"
@@ -933,7 +933,7 @@ msgstr "Ogg Vorbis：Ogg Vorbis 是一种自由、非专利和开源的文件格
 # mohu
 #: chapter8/xinclude.xml:465(para)
 msgid "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without discarding any information. A FLAC file is typically half the size of a WAV file containing the same content."
-msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利限制、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
+msgstr "FLAC：FLAC 代表自由的无损音频编码。它是没有专利限制、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
 
 #: chapter8/xinclude.xml:473(para)
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
@@ -1038,7 +1038,7 @@ msgstr "在 <emphasis role=\"strong\">首选项</emphasis> 对话框的最后一
 
 #: chapter8/xinclude.xml:625(para)
 msgid "You can also extract CD audio files to the proprietary, non-free MP3 format. Instructions for extracting audio files into the MP3 format can be found in the help for Sound Juicer. Go to <emphasis role=\"strong\">Help&gt;Content</emphasis> and then navigate to the Preferences section."
-msgstr "也可以以私有、非自由的 MP3 格式提取音频文件。其操作指导可以在音乐榨汁机的帮助文档中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到首选项节。"
+msgstr "也可以以专有、非自由的 MP3 格式提取音频文件。其操作指导可以在音乐榨汁机的帮助文档中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到首选项节。"
 
 #: chapter8/xinclude.xml:633(title)
 msgid "Specifying Audio Format"
@@ -1167,7 +1167,7 @@ msgstr "写入音频 CD"
 
 #: chapter8/xinclude.xml:892(title)
 msgid "Playing Proprietary Multimedia Formats"
-msgstr "播放私有多媒体格式"
+msgstr "播放专有多媒体格式"
 
 #: chapter8/xinclude.xml:894(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
@@ -1236,7 +1236,7 @@ msgstr "提交更改"
 #: chapter8/xinclude.xml:1004(para)
 #: chapter8/xinclude.xml:3120(para)
 msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
-msgstr "点击 <emphasis role=\"strong\">刷新</emphasis> 按钮，系统开始检查软件库以获取新的、已移除的或更新了版本的软件包。"
+msgstr "点击 <emphasis role=\"strong\">刷新</emphasis> 按钮，系统开始检查软件库以获取新加入的或更新了版本的软件包。"
 
 #: chapter8/xinclude.xml:1009(title)
 msgid "Checking Package Information"
@@ -1248,7 +1248,7 @@ msgstr "把 Multiverse 和 Restricted 软件库添加到 Ubuntu 软件源之后�
 
 #: chapter8/xinclude.xml:1035(para)
 msgid "The iPod is a popular portable media player, designed and marketed by Apple. You can play music in MP3 and AAC (Advanced Audio Coding) audio file formats and store up to ten thousand songs on the device itself. The iPod does not support free multimedia formats."
-msgstr "iPod 是由苹果公司设计和销售的一款流行的便携式多媒体播放器。它可以播放 MP3 和 AAC (先进音频编码 Advanced Audio Coding)格式的音频文件并且可以在其中存放万首歌曲。iPod 不支持自由的多媒体格式。"
+msgstr "iPod 是由苹果公司设计和销售的一款流行的便携式多媒体播放器。它可以播放 MP3 和 AAC (先进音频编码,Advanced Audio Coding)格式的音频文件并且可以在其中存放万首歌曲。iPod 不支持自由的多媒体格式。"
 
 #: chapter8/xinclude.xml:1041(title)
 msgid "Playing Music Using an iPod"
@@ -1598,7 +1598,7 @@ msgstr "播放 DVD"
 # 原文错误 sotware
 #: chapter8/xinclude.xml:1665(para)
 msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
-msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System，CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
+msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System,CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
 
 #: chapter8/xinclude.xml:1677(para)
 msgid "It is possible that the use of some of the following software to play or copy DVDs is not permitted by law in some countries. Please check your rights before proceeding."
@@ -2142,7 +2142,7 @@ msgstr "软件使用和发行是由每个国家各自的法律法规控制的。
 
 #: chapter8/xinclude.xml:2600(para)
 msgid "When using or redistributing proprietary media formats, you should be aware of the associated patent or copyright laws."
-msgstr "在使用或重新发布私有媒体格式前，您应该知道与之相关的专利或版权法。"
+msgstr "在使用或重新发布专有媒体格式前，您应该知道与之相关的专利或版权法。"
 
 #: chapter8/xinclude.xml:2605(para)
 msgid "You can use Rhythmbox to play and organise music, listen to Internet radio and import music from CDs."
@@ -2154,7 +2154,7 @@ msgstr "使用音乐榨汁机，可以从 CD 播放或提取音频曲目，或�
 
 #: chapter8/xinclude.xml:2617(para)
 msgid "Playback of proprietary multimedia formats can be enabled in Ubuntu by installing additional multimedia codecs from the repositories."
-msgstr "Ubuntu 中可以通过从软件库安装附加的多媒体解码器来播放私有多媒体格式。"
+msgstr "Ubuntu 中可以通过从软件库安装附加的多媒体解码器来播放专有多媒体格式。"
 
 #: chapter8/xinclude.xml:2623(para)
 msgid "Ubuntu offers you tools to play music from your iPod through gtkpod."
@@ -2246,7 +2246,7 @@ msgstr "什么是播客？"
 
 #: chapter8/xinclude.xml:2725(para)
 msgid "Podcasts are audio shows, broadcasted over the Internet, that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
-msgstr "播客是一种在互联网上发布文件并允许用户订阅以自动接收新文件的方法，或用此方法来制作的电台节目。通过订阅播客可以从播客源下载每个新版音频文件。"
+msgstr "播客是一种在互联网上发布文件并允许用户订阅以自动接收新文件的方法，或用此方法来制作的电台节目。通过订阅播客可以从播客源下载每个新版多媒体文件。"
 
 #: chapter8/xinclude.xml:2734(para)
 msgid "Which application is available in Ubuntu by default to play and extract audio compact discs?"
@@ -2308,7 +2308,7 @@ msgstr "为什么需要在 Ubuntu 中安装附加多媒体解码器？"
 
 #: chapter8/xinclude.xml:2818(para)
 msgid "Due to the legal restrictions associated with the use of proprietary formats, by default, Ubuntu does not offer support for such formats. You need to install additional multimedia codecs to enabling such proprietary media formats in Ubuntu."
-msgstr "由于对于使用专有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。您需要安装附加的多媒体解码器以支持这些私有媒体格式。"
+msgstr "由于对于使用专有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。您需要安装附加的多媒体解码器以支持这些专有媒体格式。"
 
 #: chapter8/xinclude.xml:2827(para)
 msgid "You can download and install multimedia codecs using the ____________________."
@@ -2482,7 +2482,7 @@ msgstr "Brasero 现在开始向光盘写入音乐文件。"
 
 #: chapter8/xinclude.xml:3075(title)
 msgid "Exercise 4: Playing Proprietary Multimedia formats"
-msgstr "练习 4：播放私有多媒体格式"
+msgstr "练习 4：播放专有多媒体格式"
 
 #: chapter8/xinclude.xml:3077(para)
 msgid "You have a huge collection of music in MP3 format stored on your computer and want to play these music files on your Ubuntu desktop. List the steps that you will need to take to be able install the required multimedia codecs."
