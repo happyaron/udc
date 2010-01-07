@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course exploring-the-ubuntu-desktop\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-07 19:54+0800\n"
+"PO-Revision-Date: 2010-01-07 23:32+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -472,11 +472,11 @@ msgstr ""
 msgid ""
 "Ensure that you browse through each element very quickly because more "
 "details will be covered in the subsequent lessons."
-msgstr "快速浏览桌面上的每一个元素，接下来的课程讲详细的对每个进行讲解。"
+msgstr "快速浏览桌面上的每一个元素，接下来的课程将详细地对每个元素进行讲解。"
 
 #: chapter2/xinclude.xml:85(title)
 msgid "Default Ubuntu Desktop"
-msgstr "默认 Ubuntu 桌面"
+msgstr "Ubuntu 默认桌面"
 
 #: chapter2/xinclude.xml:94(para)
 msgid ""
@@ -509,7 +509,7 @@ msgstr "顶部面板的左端是三个主菜单：应用程序，位置和系统
 
 #: chapter2/xinclude.xml:128(title)
 msgid "Applications:"
-msgstr "应用程序："
+msgstr "应用程序"
 
 #: chapter2/xinclude.xml:130(para)
 msgid ""
@@ -524,7 +524,7 @@ msgstr "“应用程序”菜单"
 
 #: chapter2/xinclude.xml:148(title)
 msgid "Places:"
-msgstr "位置："
+msgstr "位置"
 
 #: chapter2/xinclude.xml:150(para)
 msgid ""
@@ -547,19 +547,19 @@ msgid ""
 "takes the username. It contains all user-specific files. In a multi-user "
 "system, every user stores personal data in a sub-directory of this directory."
 msgstr ""
-"默认情况下，系统将自动为每个用户创建以用户名命名的主目录，里面存储了改用户所"
+"默认情况下，系统将自动为每个用户创建以用户名命名的主目录，里面存储了该用户所"
 "有的配置文件。在一个多用户系统中，每个用户都应把他的个人数据存储在他的主目录"
 "中。"
 
 #: chapter2/xinclude.xml:176(title)
 msgid "System:"
-msgstr "系统："
+msgstr "系统"
 
 #: chapter2/xinclude.xml:178(para)
 msgid ""
 "This menu enables you to change the computer settings. You can also access "
 "the Ubuntu help system and turn off your computer here."
-msgstr "此菜单供修改计算机设置、访问 Ubuntu 帮助系统和关闭计算机。"
+msgstr "此菜单供修改计算机设置和访问 Ubuntu 帮助系统。"
 
 #: chapter2/xinclude.xml:184(title)
 msgid "The System Menu"
@@ -648,7 +648,7 @@ msgid ""
 "location."
 msgstr ""
 "新创建的快捷图标的位置是可以改变的，右击它，选择 <emphasis role=\"strong\">移"
-"动</emphasis>。移动鼠标使它到您喜欢的位置后单击固定。"
+"动</emphasis>。使用鼠标将快捷图标移动到您您喜欢的位置后单击固定。"
 
 #: chapter2/xinclude.xml:289(title)
 msgid "Moving Shortcut Icons"
@@ -661,7 +661,7 @@ msgid ""
 "user of your computer. You can click the icon to view other users on the "
 "computer and switch to another user."
 msgstr ""
-"顶部面板的最右端的显示有当前用户名的图标兼有关机、注销、登录、待机、重启等多"
+"顶部面板的最右端的显示当前用户名的图标兼有关机、注销、登录、待机、重启等多"
 "种功能，快速用户切换选项也在这里面。"
 
 #: chapter2/xinclude.xml:306(para)
@@ -965,7 +965,7 @@ msgid ""
 "concept of fast user switching."
 msgstr ""
 "建议学生，如果要理解快速用户切换的概念，他们需要至少两个账户。指导学生在他们"
-"的电脑上创建新用户，然后再讲解快速用户缺陷。"
+"的电脑上创建新用户，然后再讲解快速用户的概念。"
 
 #: chapter2/xinclude.xml:594(para)
 msgid ""
@@ -1110,7 +1110,7 @@ msgid ""
 "lesson of this course. This topic is just an introduction."
 msgstr ""
 "告诉学生，本课程的 <emphasis role=\"strong\">自定义 Ubuntu 和应用程序</"
-"emphasis> 会详细讲解本节内容，这里只是一个介绍。"
+"emphasis> 一节会详细讲解本节内容，这里只是一个介绍。"
 
 #: chapter2/xinclude.xml:733(title)
 msgid "Use the Add/Remove applications when you need to:"
@@ -1136,8 +1136,8 @@ msgid ""
 "emphasis>."
 msgstr ""
 "Ubuntu 包含了很多安装方便的预封装软件包。您可以用 Ubuntu 软件中心或者新立得软"
-"件包管理器来安装它们。在<emphasis role=\"strong\">应用程序</emphasis>菜单，单"
-"击 <emphasis role=strong>Ubuntu 软件中心</emphasis> 启动 Ubuntu 软件中心。"
+"件包管理器来安装它们。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单，单"
+"击 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 启动 Ubuntu 软件中心。"
 
 #: chapter2/xinclude.xml:752(title)
 msgid "Launching Add/Remove Applications"
@@ -1155,7 +1155,7 @@ msgstr ""
 
 #: chapter2/xinclude.xml:764(title)
 msgid "Launching Synaptic Package Manager"
-msgstr "启动新立得让软件包管理器"
+msgstr "启动新立得软件包管理器"
 
 #: chapter2/xinclude.xml:773(para)
 msgid ""
@@ -1164,7 +1164,7 @@ msgid ""
 "Synaptic. It searches all software in the available repositories on Ubuntu."
 msgstr ""
 "新立得提供了一种安装包的高级方式。如果在 Ubuntu 软件中心里没有找到想要的软"
-"件，可以在新立得里搜索它，它会检索 Ubuntu 上仓库提供的所有软件。"
+"件，可以在新立得里搜索，它会检索 Ubuntu 软件仓库提供的所有软件。"
 
 #: chapter2/xinclude.xml:780(title)
 msgid "Desktop Effects - Compiz Fusion"
@@ -1174,7 +1174,7 @@ msgstr "桌面效果—— Compiz Fusion"
 msgid ""
 "Advise students that to view desktop effects, computers must have a 3D-"
 "enabled graphic card."
-msgstr "提醒学生，要使用桌面效果的话，显卡必须支持 3D。"
+msgstr "提醒学生，要使用桌面效果的话，显卡必须支持 3D 加速。"
 
 #: chapter2/xinclude.xml:789(para)
 msgid ""
@@ -1187,8 +1187,8 @@ msgid ""
 msgstr ""
 "Compiz Fusion 是一个 3D 窗口管理器。它需要支持 3D 加速的显卡。现在绝大部分的"
 "桌面电脑和笔记本的显卡都支持。它提供了许多的视觉效果，使 Linux 桌面更加强大﹑"
-"直观﹑易用和有趣。比如，您可以把桌面变成一个立方体，快速地在不同工作区间移"
-"动。"
+"直观﹑易用和有趣。比如，您可以把桌面变成一个立方体，快速地在不同工作区间"
+"之间进行切换。"
 
 #: chapter2/xinclude.xml:796(para)
 msgid ""
@@ -1197,8 +1197,8 @@ msgid ""
 "usability and visual appeal of the system. You really have to see and play "
 "with this application to appreciate the benefits."
 msgstr ""
-"在 Ubuntu 9.10 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特效，提"
-"高了用户体验和系统视觉外观。您一定要试试这个软件，感受一下它的好处。"
+"在 Ubuntu 9.10 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特效，"
+"既增强了用户体验，也提高了系统视觉外观的美观程度。您一定要试试这个软件，感受一下它的好处。"
 
 #: chapter2/xinclude.xml:802(title)
 msgid "To view the visual effects on Ubuntu:"
@@ -1211,8 +1211,7 @@ msgid ""
 "\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
 "Preferences</emphasis> dialogue box appears."
 msgstr ""
-"在 <emphasis role=\"strong\">系统</strong> 菜单中，用鼠标指向 <emphasis role="
-"\"strong\">首选项</emphasis>，然后单击 <emphasis role=\"strong\">外观</"
+"在 <emphasis role=\"strong\">系统</strong> 菜单中，用鼠标指向 <emphasis role=\"strong\">首选项</emphasis>，然后单击 <emphasis role=\"strong\">外观</"
 "emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter2/xinclude.xml:810(title)
@@ -1246,7 +1245,7 @@ msgid ""
 msgstr ""
 "如果您想要一个没有任何特效的普通桌面，选择 <emphasis role=\"strong\">无</"
 "emphasis>。如果您想要一个在性能和外观之间平衡的桌面，选择 <emphasis role="
-"\"strong\"></emphasis>。如果您想要很多桌面效果，比如窗口抖动、桌面立方体等"
+"\"strong\">正常</emphasis>。如果您想要更丰富的桌面效果，比如窗口抖动、桌面立方体等"
 "等，选择 <emphasis role=\"strong\">扩展</emphasis>。比如说窗口抖动效果，在您"
 "等待更新完成或者邮件客户端收取邮件的时候，您可以打开窗口抖动特效，那些窗口就"
 "会开始舞动和出现 3D 效果。和它们玩玩是件有趣的事情！"
@@ -1261,7 +1260,7 @@ msgstr "在这一课，您学到了："
 
 #: chapter2/xinclude.xml:853(para)
 msgid "Ubuntu utilises the GNOME desktop by default"
-msgstr "Ubuntu 默认的 GNOME 桌面环境"
+msgstr "Ubuntu 默认采用的 GNOME 桌面环境。"
 
 #: chapter2/xinclude.xml:857(para)
 msgid ""
@@ -1280,7 +1279,7 @@ msgstr ""
 msgid ""
 "You can install software by using the Add/Remove application or the Synaptic "
 "Package Manager utility of Ubuntu"
-msgstr "使用Ubuntu 软件中心和新立得软件包管理器给 Ubuntu 安装新的程序。"
+msgstr "使用 Ubuntu 软件中心和新立得软件包管理器给 Ubuntu 安装新的程序。"
 
 #: chapter2/xinclude.xml:872(para)
 msgid ""
@@ -1313,7 +1312,7 @@ msgstr "Mozilla Firefox 网页浏览器， Evolution 邮件客户端， Ubuntu �
 
 #: chapter2/xinclude.xml:909(para)
 msgid "What is fast user switching?"
-msgstr "什么是快速用户切换？"
+msgstr "使用快速用户切换功能的好处是什么？"
 
 #: chapter2/xinclude.xml:913(para)
 msgid ""
@@ -1328,7 +1327,7 @@ msgstr "上机练习"
 
 #: chapter2/xinclude.xml:926(title)
 msgid "Exercise:"
-msgstr "练习："
+msgstr "练习"
 
 #: chapter2/xinclude.xml:928(para)
 msgid ""
@@ -1346,7 +1345,7 @@ msgid ""
 "click <emphasis role=\"strong\">Add User.</emphasis> The <emphasis role="
 "\"strong\">New user account</emphasis> dialogue box appears."
 msgstr ""
-"<emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
+"在 <emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
 "\"strong\">点击以进行变更</emphasis>，按系统提示输入密码。单击 <emphasis "
 "role=\"strong\">添加用户</emphasis>，弹出 <emphasis role=\"strong\">新建用户"
 "账户</emphasis> 对话框。"
@@ -1378,8 +1377,7 @@ msgid ""
 "Type password@1 in the <emphasis role=\"strong\">User password</emphasis> "
 "box."
 msgstr ""
-"在 <emphasis role=\"strong\">用户密码</emphasis> 框和 <emphasis role=\"strong"
-"\">确认</emphasis> 框中输入 password@1。"
+"在 <emphasis role=\"strong\">用户密码</emphasis> 框中输入密码，本例中假设为 password@1 ，然后在 <emphasis role=\"strong\">确认</emphasis> 框中输入刚才设置的密码，本例中亦即 password@1 。"
 
 #: chapter2/xinclude.xml:973(para)
 msgid ""
@@ -1403,7 +1401,7 @@ msgstr "您的朋友现在可以在这个桌面上工作了。"
 msgid ""
 "Your friend cannot access your user account because the computer will ask "
 "for your password to log on to the account. So, your personal data is safe."
-msgstr "他访问属于您的文件的时候会被提示输入密码。所以，您的个人信息是安全的。"
+msgstr "因为访问属于您的文件的时候会被提示输入密码，所以您的个人信息是安全的。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: chapter2/xinclude.xml:0(None)
