@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-01-07 15:57+0800\n"
-"Last-Translator: Yvonne Ye <feidaozhanchen@gmail.com>\n"
+"PO-Revision-Date: 2010-01-08 02:05+0800\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -677,7 +677,7 @@ msgstr "想要充分利用好这个应用程序，要求有一些在相似应用
 # 不确定
 #: chapter7/xinclude.xml:740(title)
 msgid "Page:"
-msgstr "纸张："
+msgstr "纸张"
 
 # 非常不确定
 #: chapter7/xinclude.xml:742(para)
@@ -686,7 +686,7 @@ msgstr "在这里可以对文件输出进行多选项设置。例如，可以指
 
 #: chapter7/xinclude.xml:749(title)
 msgid "Menu Bar:"
-msgstr "菜单栏："
+msgstr "菜单栏"
 
 #: chapter7/xinclude.xml:751(para)
 msgid "This toolbar provides menus such as file save and zoom. You can perform all operations in Inkscape by using the options listed on these menus."
@@ -694,7 +694,7 @@ msgstr "此工具条提供了诸如文件保存和缩放的菜单。可以通过
 
 #: chapter7/xinclude.xml:757(title)
 msgid "Command Bar:"
-msgstr "命令栏："
+msgstr "命令栏"
 
 #: chapter7/xinclude.xml:759(para)
 msgid "This toolbar provides shortcuts to major operations on the menu bar."
@@ -702,7 +702,7 @@ msgstr "此工具栏条列出了菜单栏上主要操作命令的快捷方式。
 
 #: chapter7/xinclude.xml:764(title)
 msgid "Drawing Toolbar:"
-msgstr "绘图工具条："
+msgstr "绘图工具条"
 
 #: chapter7/xinclude.xml:766(para)
 msgid "This toolbar provides options to perform drawing operations. You can create basic shapes such as a rectangle, a square or an ellipse."
@@ -710,7 +710,7 @@ msgstr "此工具栏提供了一些选项来执行绘图操作，可以创建诸
 
 #: chapter7/xinclude.xml:772(title)
 msgid "Tools Control Bar:"
-msgstr "工具控制栏："
+msgstr "工具控制栏"
 
 #: chapter7/xinclude.xml:774(para)
 msgid "This toolbar provides options specific to a tool on the Drawing toolbar. For example, if you select the polygon tool from the Drawing toolbar, the Tools Control Bar displays options to set the corners in the polygon."
@@ -718,7 +718,7 @@ msgstr "此工具条能够提供对应于绘图工具条上不同绘图命令的
 
 #: chapter7/xinclude.xml:781(title)
 msgid "Status Bar:"
-msgstr "状态栏："
+msgstr "状态栏"
 
 #: chapter7/xinclude.xml:783(para)
 msgid "This toolbar indicates the status of objects such as dimensions and layers. For example, when you roll the mouse over the window, the Status Bar indicates the position of the cursor relative to the window."
