@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-01-04 02:48+0800\n"
+"POT-Creation-Date: 2010-01-07 14:56+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -239,115 +239,115 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1296(None)
+#: chapter3/xinclude.xml:1293(None)
 msgid "@@image: 'images/Lesson04_images_051.png'; md5=3f28b42dd1fa02530ec17a348dd4a364"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1314(None)
+#: chapter3/xinclude.xml:1311(None)
 msgid "@@image: 'images/Lesson04_images_052.png'; md5=fd2495b8d232ac53a24a0a7caf3879b4"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1356(None)
+#: chapter3/xinclude.xml:1353(None)
 msgid "@@image: 'images/Lesson04_images_053.png'; md5=bbbddd956b3a2f0425e4232d843ee689"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1428(None)
+#: chapter3/xinclude.xml:1425(None)
 msgid "@@image: 'images/Lesson04_images_054.png'; md5=5eaf0d79120309afd3d6b747ce225a47"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1444(None)
+#: chapter3/xinclude.xml:1441(None)
 msgid "@@image: 'images/Lesson04_images_055.png'; md5=2ef5c7beec99566c262fa20e47c9b6b1"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1465(None)
+#: chapter3/xinclude.xml:1462(None)
 msgid "@@image: 'images/Lesson04_images_056.png'; md5=439085aa024594823dc364c42985bc55"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1480(None)
+#: chapter3/xinclude.xml:1477(None)
 msgid "@@image: 'images/Lesson04_images_057.png'; md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1503(None)
+#: chapter3/xinclude.xml:1500(None)
 msgid "@@image: 'images/Lesson04_images_058.png'; md5=095e9d1a3bceb3597b6e23015c596dfa"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1518(None)
+#: chapter3/xinclude.xml:1515(None)
 msgid "@@image: 'images/Lesson04_images_059.png'; md5=6448c43e3f7ef377d62dafad0aef2747"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1533(None)
+#: chapter3/xinclude.xml:1530(None)
 msgid "@@image: 'images/Lesson04_images_060.png'; md5=dc360984d5ed52de008cb8b70caa0690"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1549(None)
+#: chapter3/xinclude.xml:1546(None)
 msgid "@@image: 'images/Lesson04_images_061.png'; md5=664bdf46e036d5cdba337719e3c0a094"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1617(None)
+#: chapter3/xinclude.xml:1614(None)
 msgid "@@image: 'images/Lesson04_images_062.png'; md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1635(None)
+#: chapter3/xinclude.xml:1632(None)
 msgid "@@image: 'images/Lesson04_images_063.png'; md5=5d22807688590b901e792f2ab5e0c30b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1652(None)
+#: chapter3/xinclude.xml:1649(None)
 msgid "@@image: 'images/Lesson04_images_064.png'; md5=45f2616f137fb9560478644e2abb4684"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1681(None)
+#: chapter3/xinclude.xml:1678(None)
 msgid "@@image: 'images/Lesson04_images_065.png'; md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1701(None)
+#: chapter3/xinclude.xml:1698(None)
 msgid "@@image: 'images/Lesson04_images_068.png'; md5=23abfd38e1d159df3d6ebc2a45d96ec1"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1720(None)
+#: chapter3/xinclude.xml:1717(None)
 msgid "@@image: 'images/Lesson04_images_070.png'; md5=862522513b8247e4235c207e12c8ccba"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1739(None)
+#: chapter3/xinclude.xml:1736(None)
 msgid "@@image: 'images/Lesson04_images_071.png'; md5=99d450295998789380b6f9f5bec71603"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1768(None)
+#: chapter3/xinclude.xml:1765(None)
 msgid "@@image: 'images/Lesson04_images_072.png'; md5=9830493cbd724855b623f26c3c2b9089"
 msgstr ""
 
@@ -463,7 +463,7 @@ msgstr ""
 msgid "Clear the <emphasis role=\"strong\">Enable roaming mode</emphasis> check box to enable the connection."
 msgstr ""
 
-#: chapter3/xinclude.xml:163(title) chapter3/xinclude.xml:184(title) chapter3/xinclude.xml:195(title) chapter3/xinclude.xml:523(title) chapter3/xinclude.xml:566(title) chapter3/xinclude.xml:589(title) chapter3/xinclude.xml:821(title) chapter3/xinclude.xml:849(title) chapter3/xinclude.xml:864(title) chapter3/xinclude.xml:895(title) chapter3/xinclude.xml:1069(title) chapter3/xinclude.xml:1159(title) chapter3/xinclude.xml:1486(title) chapter3/xinclude.xml:1658(title) chapter3/xinclude.xml:1747(title) chapter3/xinclude.xml:1794(title)
+#: chapter3/xinclude.xml:163(title) chapter3/xinclude.xml:184(title) chapter3/xinclude.xml:195(title) chapter3/xinclude.xml:523(title) chapter3/xinclude.xml:566(title) chapter3/xinclude.xml:589(title) chapter3/xinclude.xml:821(title) chapter3/xinclude.xml:849(title) chapter3/xinclude.xml:864(title) chapter3/xinclude.xml:895(title) chapter3/xinclude.xml:1069(title) chapter3/xinclude.xml:1159(title) chapter3/xinclude.xml:1483(title) chapter3/xinclude.xml:1655(title) chapter3/xinclude.xml:1744(title) chapter3/xinclude.xml:1791(title)
 msgid "Note:"
 msgstr ""
 
@@ -603,7 +603,7 @@ msgstr ""
 msgid "Another way to configure."
 msgstr ""
 
-#: chapter3/xinclude.xml:407(title) chapter3/xinclude.xml:757(title) chapter3/xinclude.xml:1087(title) chapter3/xinclude.xml:1132(title) chapter3/xinclude.xml:1580(title) chapter3/xinclude.xml:1755(title)
+#: chapter3/xinclude.xml:407(title) chapter3/xinclude.xml:757(title) chapter3/xinclude.xml:1087(title) chapter3/xinclude.xml:1132(title) chapter3/xinclude.xml:1577(title) chapter3/xinclude.xml:1752(title)
 msgid "Nice to Know:"
 msgstr ""
 
@@ -1123,523 +1123,523 @@ msgstr ""
 msgid "To activate the junk mail filters in Thunderbird:"
 msgstr ""
 
-#: chapter3/xinclude.xml:1274(para)
+#: chapter3/xinclude.xml:1273(para)
 msgid "On the <emphasis role=\"strong\">Tools</emphasis> menu, click <emphasis role=\"strong\">Junk Mail Controls</emphasis>. The <emphasis role=\"strong\">Junk Mail Controls</emphasis> window will be displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:1285(title)
+#: chapter3/xinclude.xml:1282(title)
 msgid "Customise your mail"
 msgstr ""
 
-#: chapter3/xinclude.xml:1287(para)
+#: chapter3/xinclude.xml:1284(para)
 msgid "You have three column views to access you e-mail messages: Classic, Wide and Vertical view."
 msgstr ""
 
-#: chapter3/xinclude.xml:1292(title)
+#: chapter3/xinclude.xml:1289(title)
 msgid "Customising the E-mail View"
 msgstr ""
 
-#: chapter3/xinclude.xml:1304(title)
+#: chapter3/xinclude.xml:1301(title)
 msgid "Built-in Spell Checker"
 msgstr ""
 
-#: chapter3/xinclude.xml:1306(para)
+#: chapter3/xinclude.xml:1303(para)
 msgid "To check for correct spelling, click <emphasis role=\"strong\">Spell</emphasis> on the toolbar."
 msgstr ""
 
-#: chapter3/xinclude.xml:1310(title)
+#: chapter3/xinclude.xml:1307(title)
 msgid "Spell Checker"
 msgstr ""
 
-#: chapter3/xinclude.xml:1322(title)
+#: chapter3/xinclude.xml:1319(title)
 msgid "Security"
 msgstr ""
 
-#: chapter3/xinclude.xml:1324(para)
+#: chapter3/xinclude.xml:1321(para)
 msgid "Thunderbird provides enhanced security features, which is equivalent to enterprise and government-grade security. It offers built-in support for Secure/Multipurpose Internet Mail Extensions (S/MIME) secure e-mail message."
 msgstr ""
 
-#: chapter3/xinclude.xml:1333(title)
+#: chapter3/xinclude.xml:1330(title)
 msgid "Extensions"
 msgstr ""
 
-#: chapter3/xinclude.xml:1335(para)
+#: chapter3/xinclude.xml:1332(para)
 msgid "Extensions are powerful tools to help you build a mail client that meets your specific needs. Mozilla Thunderbird has several features, such as quick search, a smart address book, advanced message filtering and more."
 msgstr ""
 
-#: chapter3/xinclude.xml:1344(title)
+#: chapter3/xinclude.xml:1341(title)
 msgid "News Reader"
 msgstr ""
 
-#: chapter3/xinclude.xml:1346(para)
+#: chapter3/xinclude.xml:1343(para)
 msgid "Mozilla Thunderbird makes it easier to subscribe to your favourite newsgroups, downloading headers and messages and offline support."
 msgstr ""
 
-#: chapter3/xinclude.xml:1352(title)
+#: chapter3/xinclude.xml:1349(title)
 msgid "Thunderbird as a Newsgroup"
 msgstr ""
 
-#: chapter3/xinclude.xml:1364(title)
+#: chapter3/xinclude.xml:1361(title)
 msgid "Themes"
 msgstr ""
 
-#: chapter3/xinclude.xml:1366(para)
+#: chapter3/xinclude.xml:1363(para)
 msgid "As with most elements on Ubuntu, you can personalise the themes to change the look and feel of Mozilla Thunderbird. A theme can change the toolbar icons or the complete appearance of an application."
 msgstr ""
 
-#: chapter3/xinclude.xml:1375(title)
+#: chapter3/xinclude.xml:1372(title)
 msgid "Cross-Platform Support"
 msgstr ""
 
-#: chapter3/xinclude.xml:1377(para)
+#: chapter3/xinclude.xml:1374(para)
 msgid "Thunderbird is used on various platforms, such as Ubuntu, Microsoft Windows, Mac OS X and Unix-based operating systems."
 msgstr ""
 
-#: chapter3/xinclude.xml:1387(title)
+#: chapter3/xinclude.xml:1384(title)
 msgid "Instant Messaging"
 msgstr ""
 
-#: chapter3/xinclude.xml:1389(para)
+#: chapter3/xinclude.xml:1386(para)
 msgid "E-mail message is not expected to be real-time, which means you can respond to it when time allows. But when 'Immediacy' is required, instant messaging (IM) is the way to go. Using IM over the Internet can bring down costs of long distance phone calls when you want to stay in contact with friends. While in office, if you want an answer to a simple question, IM facilitates quick and easy communication and reduces the amount of e-mail messages sent and received in a day. IM also enables you to view a person using Web-cams or talk over the Internet for free."
 msgstr ""
 
-#: chapter3/xinclude.xml:1398(para)
+#: chapter3/xinclude.xml:1395(para)
 msgid "The default instant messenger client on Ubuntu is Pidgin, a cross-platform instant messenger that supports various popular IM network protocols. Using Pidgin, you can communicate with people who use America Online (AOL) Instant Messenger (AIM/ICQ), Gadu-Gadu, GroupWise, IRC, Jabber, MSN, Napster and Yahoo. It allows you to list all your friends in one window. Pidgin users can log on to multiple accounts on multiple IM networks simultaneously. This means that you can chat with friends on AIM, talk to a friend on Yahoo Messenger, and sit in an IRC channel, all at the same time. Pidgin supports many features of the various networks, such as file transfer, away messages, typing notification, and MSN window closing notification. A few popular features are Buddy Pounces, which give the ability to notify you, send a message, play a sound or run a programme when a specific buddy goes away, signs online or returns from idle."
 msgstr ""
 
-#: chapter3/xinclude.xml:1413(title)
+#: chapter3/xinclude.xml:1410(title)
 msgid "To connect to an existing e-mail account using the Pidgin instant messenger, perform the following steps:"
 msgstr ""
 
-#: chapter3/xinclude.xml:1417(para)
+#: chapter3/xinclude.xml:1414(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Pidgin Internet Messenger</emphasis>. The <emphasis role=\"strong\">Accounts</emphasis> dialogue box with a welcome message will be displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:1424(title)
+#: chapter3/xinclude.xml:1421(title)
 msgid "Launching Pidgin Internet Messenger"
 msgstr ""
 
-#: chapter3/xinclude.xml:1435(para)
+#: chapter3/xinclude.xml:1432(para)
 msgid "Click <emphasis role=\"strong\">Add</emphasis> to configure your any existing e-mail account on Pidgin. The <emphasis role=\"strong\">Add Account</emphasis> dialogue box will be displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:1440(title)
+#: chapter3/xinclude.xml:1437(title)
 msgid "Adding a New IM Account"
 msgstr ""
 
-#: chapter3/xinclude.xml:1451(para)
+#: chapter3/xinclude.xml:1448(para)
 msgid "In the <emphasis role=\"strong\">Add Account</emphasis> dialogue box, select the protocol, which is your e-mail account server name from the <emphasis role=\"strong\">Protocol</emphasis> box. The protocol is the name of the server you want to use for chat. Type your selected protocol's e-mail ID in the <emphasis role=\"strong\">Screen name</emphasis> box and the corresponding password. Type your nick name that you would like to be known by while chatting in the <emphasis role=\"strong\">Local alias</emphasis> box. Click <emphasis role=\"strong\">Save</emphasis> to create the account. The <emphasis role=\"strong\">Accounts</emphasis> window will be displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:1461(title)
+#: chapter3/xinclude.xml:1458(title)
 msgid "Providing Basic Account Information"
 msgstr ""
 
-#: chapter3/xinclude.xml:1472(para)
+#: chapter3/xinclude.xml:1469(para)
 msgid "You can see the newly created account with a check mark indicating that it is active in the <emphasis role=\"strong\">Accounts</emphasis> window. Click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1476(title)
+#: chapter3/xinclude.xml:1473(title)
 msgid "Viewing Added Accounts"
 msgstr ""
 
-#: chapter3/xinclude.xml:1488(para)
+#: chapter3/xinclude.xml:1485(para)
 msgid "If you want to add another e-mail account, click <emphasis role=\"strong\">Add</emphasis> in the <emphasis role=\"strong\">Accounts</emphasis> window and perform steps 1-4."
 msgstr ""
 
-#: chapter3/xinclude.xml:1494(para)
+#: chapter3/xinclude.xml:1491(para)
 msgid "Now, click the <emphasis role=\"strong\">Pidgin</emphasis> icon on the top panel of the desktop to view the <emphasis role=\"strong\">Buddy List</emphasis> window for your current account."
 msgstr ""
 
-#: chapter3/xinclude.xml:1499(title)
+#: chapter3/xinclude.xml:1496(title)
 msgid "Viewing Buddy List"
 msgstr ""
 
-#: chapter3/xinclude.xml:1510(para)
+#: chapter3/xinclude.xml:1507(para)
 msgid "To start using Pidgin, on the <emphasis role=\"strong\">Buddies</emphasis> menu, click <emphasis role=\"strong\">New Instant Message</emphasis>. The <emphasis role=\"strong\">New Instant Message</emphasis> window will be displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:1514(title)
+#: chapter3/xinclude.xml:1511(title)
 msgid "New Instant Message"
 msgstr ""
 
-#: chapter3/xinclude.xml:1525(para)
+#: chapter3/xinclude.xml:1522(para)
 msgid "To interact with other users, type the screen name or alias of the person you would like to chat with in the <emphasis role=\"strong\">Name</emphasis> box and click <emphasis role=\"strong\">OK</emphasis>. An IM window will be displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:1529(title)
+#: chapter3/xinclude.xml:1526(title)
 msgid "Specifying Buddy Name"
 msgstr ""
 
-#: chapter3/xinclude.xml:1540(para)
+#: chapter3/xinclude.xml:1537(para)
 msgid "You can use the box at the bottom of the window to type your messages and press Enter to send them. This is how you can start your conversation."
 msgstr ""
 
-#: chapter3/xinclude.xml:1545(title)
+#: chapter3/xinclude.xml:1542(title)
 msgid "IM Window"
 msgstr ""
 
-#: chapter3/xinclude.xml:1559(title)
+#: chapter3/xinclude.xml:1556(title)
 msgid "Making Phone Calls Using Softphones"
 msgstr ""
 
-#: chapter3/xinclude.xml:1561(para)
+#: chapter3/xinclude.xml:1558(para)
 msgid "A softphone is a software programme that is used to make telephone calls over the Internet using a computer instead of using a regular phone. Your service provider may offer computer-to-computer calls for free, but PC-to-phone and phone-to-PC calls usually are charged. You need to have the same communication protocol and use a common audio codec to communicate with another person. The audio codec defines how voice is translated into digital signals. Examples of SIP softphones are Ekiga, SIP Express Router and many more."
 msgstr ""
 
-#: chapter3/xinclude.xml:1570(para)
+#: chapter3/xinclude.xml:1567(para)
 msgid "You use a softphone with a headset connected to the computer or with a USB phone. The features of softphone include all standard telephony features, such as mute, flash, hold and transfer. It also includes new features, such as presence, video, wideband audio and many more. The softphone requirements to make voice calls over the Internet are a computer with a microphone and speaker, a headset or USB phone, Internet connectivity and an account with an Internet telephony service provider."
 msgstr ""
 
-#: chapter3/xinclude.xml:1582(para)
+#: chapter3/xinclude.xml:1579(para)
 msgid "Skype, Google Talk and Vonage are Internet telephony service providers whose software you would need to install on your computer. But these three providers are not interoperable, and you cannot place a direct call between them."
 msgstr ""
 
-#: chapter3/xinclude.xml:1588(para)
+#: chapter3/xinclude.xml:1585(para)
 msgid "The configuration of Ekiga is described below."
 msgstr ""
 
-#: chapter3/xinclude.xml:1592(title)
+#: chapter3/xinclude.xml:1589(title)
 msgid "Using Ekiga"
 msgstr ""
 
-#: chapter3/xinclude.xml:1594(para)
+#: chapter3/xinclude.xml:1591(para)
 msgid "Ekiga is an open source softphone application for Ubuntu. It is a free Voice over IP (VoIP) and video conferencing application. VoIP routes voice conversations over the Internet or through any other IP-based network. You can use Ekiga to call, send instant messages and be contacted by other Ekiga users."
 msgstr ""
 
-#: chapter3/xinclude.xml:1600(para)
+#: chapter3/xinclude.xml:1597(para)
 msgid "The First Time Configuration Assistant helps you configure Ekiga. It appears automatically when you open Ekiga for the first time."
 msgstr ""
 
-#: chapter3/xinclude.xml:1604(title)
+#: chapter3/xinclude.xml:1601(title)
 msgid "To configure Ekiga on Ubuntu:"
 msgstr ""
 
-#: chapter3/xinclude.xml:1607(para)
+#: chapter3/xinclude.xml:1604(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Ekiga</emphasis>. The <emphasis role=\"strong\">Configuration Assistant</emphasis> page will be displayed. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1613(title)
+#: chapter3/xinclude.xml:1610(title)
 msgid "Launching Ekiga Softphone"
 msgstr ""
 
-#: chapter3/xinclude.xml:1624(para)
+#: chapter3/xinclude.xml:1621(para)
 msgid "On the <emphasis role=\"strong\">Personal Information</emphasis> page, type your full name in the <emphasis role=\"strong\">Please enter your first name and your surname</emphasis> box. The name that you specify is used for display purposes when you connect to other audio or video applications. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1631(title)
+#: chapter3/xinclude.xml:1628(title)
 msgid "Specifying Display Name"
 msgstr ""
 
-#: chapter3/xinclude.xml:1642(para)
+#: chapter3/xinclude.xml:1639(para)
 msgid "On the <emphasis role=\"strong\">ekiga.net Account</emphasis> page, type your Ekiga's account user name and password that you use to log in to your existing Ekiga account. You will get this detail from the ekiga.net free SIP service. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1648(title)
+#: chapter3/xinclude.xml:1645(title)
 msgid "Specifying ekiga.net Account Username and Password"
 msgstr ""
 
-#: chapter3/xinclude.xml:1660(para)
+#: chapter3/xinclude.xml:1657(para)
 msgid "If you do not have an SIP account, you can click the link <emphasis role=\"strong\">Get an ekiga.net SIP account</emphasis> on the page to create an SIP account on ekiga.net."
 msgstr ""
 
-#: chapter3/xinclude.xml:1667(para)
+#: chapter3/xinclude.xml:1664(para)
 msgid "On the <emphasis role=\"strong\">Connection Type</emphasis> page, select the type of Internet connection you are using on your computer from the <emphasis role=\"strong\">Please choose your connection type</emphasis> box. This connection type determines the best quality settings that Ekiga will use during calls. If you do not know the connection type, contact your system administrator. Click <emphasis role=\"strong\">Forward</emphasis>. You can change these settings later."
 msgstr ""
 
-#: chapter3/xinclude.xml:1677(title)
+#: chapter3/xinclude.xml:1674(title)
 msgid "Selecting Connection Type"
 msgstr ""
 
-#: chapter3/xinclude.xml:1688(para)
+#: chapter3/xinclude.xml:1685(para)
 msgid "Ekiga requires audio output and input devices to play and record sound files. The audio output device is used to play audio and audio input device to record your voice. So, on the <emphasis role=\"strong\">Audio Devices</emphasis> page, select the audio output and input devices. For example, headset or speakers are the output device and your microphone the audio input device. Now, click <emphasis role=\"strong\">Test Settings</emphasis> to check the functionality of audio devices and the click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1697(title)
+#: chapter3/xinclude.xml:1694(title)
 msgid "Selecting Audio Devices"
 msgstr ""
 
-#: chapter3/xinclude.xml:1708(para)
+#: chapter3/xinclude.xml:1705(para)
 msgid "On the <emphasis role=\"strong\">Video Devices</emphasis> page, select the video input device from the <emphasis role=\"strong\">Please choose the video input device</emphasis> box. The video input device is the device managed by the video manager that will be used to capture video. If you do not want to do video conferencing or if you do not have a video device, you may skip this page."
 msgstr ""
 
-#: chapter3/xinclude.xml:1716(title)
+#: chapter3/xinclude.xml:1713(title)
 msgid "Selecting Video Devices"
 msgstr ""
 
-#: chapter3/xinclude.xml:1727(para)
+#: chapter3/xinclude.xml:1724(para)
 msgid "The configuration of Ekiga is now complete. This window displays a configuration summary of the settings you have selected. You can verify your settings here. If you want to make any modification, navigate to the required page by using <emphasis role=\"strong\">Back</emphasis> and <emphasis role=\"strong\">Next</emphasis> and make appropriate changes. Click <emphasis role=\"strong\">Apply</emphasis> to save the configuration."
 msgstr ""
 
-#: chapter3/xinclude.xml:1735(title)
+#: chapter3/xinclude.xml:1732(title)
 msgid "Account Configuration Summary"
 msgstr ""
 
-#: chapter3/xinclude.xml:1744(para)
+#: chapter3/xinclude.xml:1741(para)
 msgid "The Configuration Assistant will close."
 msgstr ""
 
-#: chapter3/xinclude.xml:1749(para)
+#: chapter3/xinclude.xml:1746(para)
 msgid "After installing Ekiga, if you want to modify any configuration, you can run the configuration assistant again by <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu in the Ekiga window."
 msgstr ""
 
-#: chapter3/xinclude.xml:1757(para)
+#: chapter3/xinclude.xml:1754(para)
 msgid "For more information on Ekiga, refer to <ulink url=\"http://www.ekiga.org\">http://www.ekiga.org</ulink>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1760(para)
+#: chapter3/xinclude.xml:1757(para)
 msgid "The Ekiga window will be displayed. It is the default softphone application available on Ubuntu."
 msgstr ""
 
-#: chapter3/xinclude.xml:1764(title)
+#: chapter3/xinclude.xml:1761(title)
 msgid "Ekiga Window"
 msgstr ""
 
-#: chapter3/xinclude.xml:1776(title)
+#: chapter3/xinclude.xml:1773(title)
 msgid "Making Calls Using Ekiga"
 msgstr ""
 
-#: chapter3/xinclude.xml:1778(term)
+#: chapter3/xinclude.xml:1775(term)
 msgid "From Computer to Computer"
 msgstr ""
 
-#: chapter3/xinclude.xml:1780(para)
+#: chapter3/xinclude.xml:1777(para)
 msgid "Using Ekiga, you can call anyone who is registered to the public SIP provider and uses SIP software or hardware. You can use the online address book of Ekiga to find the SIP addresses of other Ekiga users. It is of course possible to call non-Ekiga users, registered to any public SIP provider. To make calls, type the URL address of the user you wish to call in the <emphasis role=\"strong\">sip:</emphasis> : input box and click the connect icon on the right of the text box. With the default setup, you can simply type <emphasis role=\"strong\">sip:foo</emphasis> to call user <emphasis role=\"strong\">foo@ekiga.net</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1796(para)
+#: chapter3/xinclude.xml:1793(para)
 msgid "To learn more about making phone calls by using Ekiga, refer to <ulink url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?rub=3</ulink>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1803(title)
+#: chapter3/xinclude.xml:1800(title)
 msgid "Skype"
 msgstr ""
 
-#: chapter3/xinclude.xml:1805(para)
+#: chapter3/xinclude.xml:1802(para)
 msgid "Skype is another softphone that can be used on Ubuntu to make calls over the Internet. The source code of Skype is proprietary, but the software is free to use. Your calls go through distributed servers and not through a central server. To accomplish this, Skype uses a decentralized peer-to-peer technologies and its own proprietary communication protocol. Skype uses encrypted communication, which means all communications are encrypted from end-to-end so that others cannot listen in. We will not go into detail over Skype communication here."
 msgstr ""
 
-#: chapter3/xinclude.xml:1820(title)
+#: chapter3/xinclude.xml:1817(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter3/xinclude.xml:1823(para)
+#: chapter3/xinclude.xml:1820(para)
 msgid "In this lesson, you learned that:"
 msgstr ""
 
-#: chapter3/xinclude.xml:1826(para)
+#: chapter3/xinclude.xml:1823(para)
 msgid "You can connect a computer to the Internet using cable, wireless and dial-up connections."
 msgstr ""
 
-#: chapter3/xinclude.xml:1831(para)
+#: chapter3/xinclude.xml:1828(para)
 msgid "Mozilla Firefox is an open source, powerful and secure Web browser. It is available for free and is the default browser on Ubuntu."
 msgstr ""
 
-#: chapter3/xinclude.xml:1837(para)
+#: chapter3/xinclude.xml:1834(para)
 msgid "Firefox includes two powerful features that make your online experience better and more productive -integrated search system and bookmarking."
 msgstr ""
 
-#: chapter3/xinclude.xml:1843(para)
+#: chapter3/xinclude.xml:1840(para)
 msgid "Liferea is an RSS feed reader, which offers useful features to manage your newsgroup subscription."
 msgstr ""
 
-#: chapter3/xinclude.xml:1848(para)
+#: chapter3/xinclude.xml:1845(para)
 msgid "Evolution is the default e-mail client for Ubuntu."
 msgstr ""
 
-#: chapter3/xinclude.xml:1852(para)
+#: chapter3/xinclude.xml:1849(para)
 msgid "Mozilla Thunderbird is the e-mail application developed by Mozilla Foundation. It is a free, cross-platform e-mail and news client."
 msgstr ""
 
-#: chapter3/xinclude.xml:1858(para)
+#: chapter3/xinclude.xml:1855(para)
 msgid "The default instant messenger client on Ubuntu is Pidgin. It is a cross-platform instant messenger that supports multiple popular IM network protocols."
 msgstr ""
 
-#: chapter3/xinclude.xml:1864(para)
+#: chapter3/xinclude.xml:1861(para)
 msgid "Ekiga is the default open source softphone application for Ubuntu."
 msgstr ""
 
-#: chapter3/xinclude.xml:1871(title)
+#: chapter3/xinclude.xml:1868(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter3/xinclude.xml:1876(para)
+#: chapter3/xinclude.xml:1873(para)
 msgid "What are the three main ways to connect to the Internet?"
 msgstr ""
 
-#: chapter3/xinclude.xml:1881(para)
+#: chapter3/xinclude.xml:1878(para)
 msgid "The three main ways to connect to the Internet are through cable, wireless and dial-up connections."
 msgstr ""
 
-#: chapter3/xinclude.xml:1888(para)
+#: chapter3/xinclude.xml:1885(para)
 msgid "Why do you require a bookmark in Firefox?"
 msgstr ""
 
-#: chapter3/xinclude.xml:1892(para)
+#: chapter3/xinclude.xml:1889(para)
 msgid "Mozilla Firefox uses a bookmark for quick access to saved Web addresses."
 msgstr ""
 
-#: chapter3/xinclude.xml:1899(para)
+#: chapter3/xinclude.xml:1896(para)
 msgid "What is a feed?"
 msgstr ""
 
-#: chapter3/xinclude.xml:1903(para)
+#: chapter3/xinclude.xml:1900(para)
 msgid "A feed is an XML Web page that contains a list of links to other Web pages."
 msgstr ""
 
-#: chapter3/xinclude.xml:1910(para)
+#: chapter3/xinclude.xml:1907(para)
 msgid "Match the following:"
 msgstr ""
 
-#: chapter3/xinclude.xml:1916(para)
+#: chapter3/xinclude.xml:1913(para)
 msgid "1) Evolution"
 msgstr ""
 
-#: chapter3/xinclude.xml:1918(para)
+#: chapter3/xinclude.xml:1915(para)
 msgid "a) Web browser"
 msgstr ""
 
-#: chapter3/xinclude.xml:1922(para)
+#: chapter3/xinclude.xml:1919(para)
 msgid "2) Firefox"
 msgstr ""
 
-#: chapter3/xinclude.xml:1924(para)
+#: chapter3/xinclude.xml:1921(para)
 msgid "b) Mail client"
 msgstr ""
 
-#: chapter3/xinclude.xml:1928(para)
+#: chapter3/xinclude.xml:1925(para)
 msgid "3) Ekiga"
 msgstr ""
 
-#: chapter3/xinclude.xml:1930(para)
+#: chapter3/xinclude.xml:1927(para)
 msgid "c) Instant messenger"
 msgstr ""
 
-#: chapter3/xinclude.xml:1934(para)
+#: chapter3/xinclude.xml:1931(para)
 msgid "4) Pidgin"
 msgstr ""
 
-#: chapter3/xinclude.xml:1936(para)
+#: chapter3/xinclude.xml:1933(para)
 msgid "d) Phone calls"
 msgstr ""
 
-#: chapter3/xinclude.xml:1944(para)
+#: chapter3/xinclude.xml:1941(para)
 msgid "1-b, 2-a, 3-d and 4-c"
 msgstr ""
 
-#: chapter3/xinclude.xml:1950(para)
+#: chapter3/xinclude.xml:1947(para)
 msgid "You can get an SIP address from _____________________."
 msgstr ""
 
-#: chapter3/xinclude.xml:1954(para)
+#: chapter3/xinclude.xml:1951(para)
 msgid "You can get an SIP address from <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink>."
 msgstr ""
 
-#: chapter3/xinclude.xml:1960(para)
+#: chapter3/xinclude.xml:1957(para)
 msgid "The source code of Skype software is _____________________, but the software is _____________________to use."
 msgstr ""
 
-#: chapter3/xinclude.xml:1965(para)
+#: chapter3/xinclude.xml:1962(para)
 msgid "The source code of Skype software is proprietary, but the software is free to use."
 msgstr ""
 
-#: chapter3/xinclude.xml:1972(para)
+#: chapter3/xinclude.xml:1969(para)
 msgid "Which of the following is an RSS feed reader?"
 msgstr ""
 
-#: chapter3/xinclude.xml:1974(para)
+#: chapter3/xinclude.xml:1971(para)
 msgid "A. Ekiga"
 msgstr ""
 
-#: chapter3/xinclude.xml:1976(para) chapter3/xinclude.xml:1984(para)
+#: chapter3/xinclude.xml:1973(para) chapter3/xinclude.xml:1981(para)
 msgid "B. Liferea"
 msgstr ""
 
-#: chapter3/xinclude.xml:1978(para)
+#: chapter3/xinclude.xml:1975(para)
 msgid "C. Pan"
 msgstr ""
 
-#: chapter3/xinclude.xml:1980(para)
+#: chapter3/xinclude.xml:1977(para)
 msgid "D. Skype"
 msgstr ""
 
-#: chapter3/xinclude.xml:1990(para)
+#: chapter3/xinclude.xml:1987(para)
 msgid "Which of the following is proprietary software?"
 msgstr ""
 
-#: chapter3/xinclude.xml:1992(para) chapter3/xinclude.xml:2002(para)
+#: chapter3/xinclude.xml:1989(para) chapter3/xinclude.xml:1999(para)
 msgid "A. Skype"
 msgstr ""
 
-#: chapter3/xinclude.xml:1994(para)
+#: chapter3/xinclude.xml:1991(para)
 msgid "B. Ekiga"
 msgstr ""
 
-#: chapter3/xinclude.xml:1996(para)
+#: chapter3/xinclude.xml:1993(para)
 msgid "C. Liferea"
 msgstr ""
 
-#: chapter3/xinclude.xml:1998(para)
+#: chapter3/xinclude.xml:1995(para)
 msgid "D. Firefox"
 msgstr ""
 
-#: chapter3/xinclude.xml:2009(title)
+#: chapter3/xinclude.xml:2006(title)
 msgid "Lab Exercise"
 msgstr ""
 
-#: chapter3/xinclude.xml:2011(title)
+#: chapter3/xinclude.xml:2008(title)
 msgid "Exercise 1"
 msgstr ""
 
-#: chapter3/xinclude.xml:2013(para)
+#: chapter3/xinclude.xml:2010(para)
 msgid "You use Liferea as a newsreader on your computer. Recently, you met a friend who informed you about a Web site that offers RSS feeds, <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. Now, you want to configure Liferea for the latest updates from this Web site."
 msgstr ""
 
-#: chapter3/xinclude.xml:2022(para)
+#: chapter3/xinclude.xml:2019(para)
 msgid "Open the following Web site <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. This site offers RSS feeds."
 msgstr ""
 
-#: chapter3/xinclude.xml:2027(para)
+#: chapter3/xinclude.xml:2024(para)
 msgid "In the left pane, under <emphasis role=\"strong\">syndication</emphasis>, click <emphasis role=\"strong\">Full content (with ads).</emphasis> Save the URL in the <emphasis role=\"strong\">Address bar</emphasis> of Mozilla Firefox. This URL, <ulink url=\"http://feeds.gawker.com/lifehacker/full\">http://feeds.gawker.com/lifehacker/full</ulink>, is the feed."
 msgstr ""
 
-#: chapter3/xinclude.xml:2034(para)
+#: chapter3/xinclude.xml:2031(para)
 msgid "Open Liferea."
 msgstr ""
 
-#: chapter3/xinclude.xml:2038(para)
+#: chapter3/xinclude.xml:2035(para)
 msgid "Right-click in the left pane, point to <emphasis role=\"strong\">New</emphasis> and click <emphasis role=\"strong\">New Subscription</emphasis>. The <emphasis role=\"strong\">New Subscription</emphasis> dialogue box is displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:2044(para)
+#: chapter3/xinclude.xml:2041(para)
 msgid "In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, type the saved URL <ulink url=\"http://feeds.gawker.com/lifehacker/full\">http://feeds.gawker.com/lifehacker/full</ulink> and click OK."
 msgstr ""
 
-#: chapter3/xinclude.xml:2051(title)
+#: chapter3/xinclude.xml:2048(title)
 msgid "Exercise 2"
 msgstr ""
 
-#: chapter3/xinclude.xml:2053(para)
+#: chapter3/xinclude.xml:2050(para)
 msgid "You want to chat with your friend, who uses Google talk (gtalk). Configure Pidgin to chat using gtalk."
 msgstr ""
 
-#: chapter3/xinclude.xml:2059(para)
+#: chapter3/xinclude.xml:2056(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Internet</emphasis> and click <emphasis role=\"strong\">Pidgin Internet Messenger</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:2065(para)
+#: chapter3/xinclude.xml:2062(para)
 msgid "On the <emphasis role=\"strong\">Accounts</emphasis> menu, click <emphasis role=\"strong\">Add/Edit</emphasis>. The <emphasis role=\"strong\">Accounts</emphasis> window is displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:2070(para)
+#: chapter3/xinclude.xml:2067(para)
 msgid "In the <emphasis role=\"strong\">Accounts</emphasis> window, click <emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add Account</emphasis> window is displayed."
 msgstr ""
 
-#: chapter3/xinclude.xml:2075(para)
+#: chapter3/xinclude.xml:2072(para)
 msgid "In the <emphasis role=\"strong\">Add Account</emphasis> window, select <emphasis role=\"strong\">xmpp</emphasis> from the <emphasis role=\"strong\">Protocol</emphasis> box, type your gtalk e-mail id in the <emphasis role=\"strong\">Screen name</emphasis> box, your account password in the <emphasis role=\"strong\">Password</emphasis> box and your nickname in the <emphasis role=\"strong\">Local alias</emphasis> box. Click <emphasis role=\"strong\">Save</emphasis>."
 msgstr ""
 
-#: chapter3/xinclude.xml:2084(para)
+#: chapter3/xinclude.xml:2081(para)
 msgid "You are now connected to the gtalk server."
 msgstr ""
 

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-04 22:50+0800\n"
-"PO-Revision-Date: 2010-01-06 04:26+0800\n"
+"PO-Revision-Date: 2010-01-07 15:59+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -183,7 +183,7 @@ msgstr "关于文件系统"
 # ext4
 #: chapter10/xinclude.xml:118(para)
 msgid "Partitioning a disk is only the beginning. Once the disk has been divided up, those partitions need to be formatted so that the operating system can place files on the disk in a structured manner. There are many different filesystem types, each with their own advantages. With Microsoft Windows the two main filesystems are FAT (File Allocation Table) and NTFS (New Technology File System). With Ubuntu there are many options including ext2, ext3, reiserfs, xfs and many others. The Ubuntu installer chooses ext3 by default, but of course it is possible to override this."
-msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以按结构化的方式放置文件。有许多中不同的文件系统类型，每种都有其优点。对于 Microsoft Windows，最主要的两种文件系统是 FAT(文件分配表 File Allocation Table)和 NTFS (新技术文件系统 New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，ext4，reiserfs，xfs 已及很多其它种。Ubuntu 安装程序默认选择 ext4，但是当然也可以换成其它的。"
+msgstr "对硬盘进行分区只是开始。一旦磁盘被分割，这些分区需要格式化以使操作系统可以按结构化的方式放置文件。有许多种不同的文件系统类型，每种都有其优点。对于 Microsoft Windows，最主要的两种文件系统是 FAT(文件分配表,File Allocation Table)和 NTFS (新技术文件系统,New Technology File System)。对于 Ubuntu，有很多选项，包括 ext2，ext3，ext4，reiserfs，xfs 已及很多其它种类。Ubuntu 安装程序默认选择 ext4，但是当然也可以换成其它的。"
 
 #: chapter10/xinclude.xml:130(title)
 #: chapter10/xinclude.xml:150(title)
@@ -370,11 +370,11 @@ msgstr "创建新分区对话框"
 # 原文有误
 #: chapter10/xinclude.xml:408(para)
 msgid "If you are creating a partition on a new hard drive, select Primary Partition. An SCSI or S-ATA hard disk can have a maximum of 4 primary partitions and 11 logical partitions while an integrated development environment (IDE) hard drive can have up to 63 partitions overall. The primary partition used to house the logical partitions is called an extended partition. Unlike primary partitions, logical partitions must be contiguous: the blocks in the partition are following each other without any gap."
-msgstr "如果正在新硬盘驱动器上创建分区，选择主分区。一个 SCSI 或 S-ATA 硬盘驱动器可以最多有 4 个主分区和 11 个逻辑分区而集成设备电路(Integrated Device Electronics IDE)硬盘驱动器可以最多总共拥有 63 个分区。用于放置逻辑分区的主分区称为扩展分区。不像主分区，逻辑分区必须是相邻的：分区中的块没有缺口地一个跟一个相连。"
+msgstr "如果正在新硬盘驱动器上创建分区，选择主分区。一个 SCSI 或 S-ATA 硬盘驱动器可以最多有 4 个主分区和 11 个逻辑分区而集成设备电路(Integrated Device Electronics,IDE)硬盘驱动器可以最多总共拥有 63 个分区。用于放置逻辑分区的主分区称为扩展分区。不像主分区，逻辑分区必须是相邻的：分区中的块没有缺口地一个跟一个相连。"
 
 #: chapter10/xinclude.xml:420(para)
 msgid "In the <emphasis role=\"strong\">New Size (MiB)</emphasis> field, specify the size of the partition by using the up or down arrow key. You can also define the size by dragging the black bold arrows on the top white bar."
-msgstr "在 <emphasis role=\"strong\">新大小 (MiB)</emphasis>域中，通过使用下方向键指定分区大小。您也可以通过拖动顶部白条上的黑色粗体箭头指定大小。"
+msgstr "在 <emphasis role=\"strong\">新大小 (MiB)</emphasis> 域中，通过使用下方向键指定分区大小。您也可以通过拖动顶部白条上的黑色粗体箭头指定大小。"
 
 #: chapter10/xinclude.xml:427(para)
 msgid "Select Primary, Logical or Extended partition from the <emphasis role=\"strong\">Create as</emphasis> drop-down list."
