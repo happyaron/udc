@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-01-07 21:24+0800\n"
-"PO-Revision-Date: 2010-01-07 21:28+0800\n"
+"PO-Revision-Date: 2010-01-08 05:29+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -691,7 +691,7 @@ msgstr "在 Rhythmbox 中播放音乐，首先需要从 <emphasis role=\"strong\
 
 #: chapter8/xinclude.xml:117(para)
 msgid "Library is the main source available in Rhythmbox. You can import all your music files into the Rhythmbox library and can start playing immediately. You also use the music files in your library to create smart customised playlists and play-queues. To start importing individual music files, right-click <emphasis role=\"strong\">Music</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>. It displays the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box."
-msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击  <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。于是弹出 <emphasis role=\"strong\">将文件导入音乐库</emphasis> 对话框。"
+msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击  <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。于是弹出 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:125(title)
 msgid "Importing Music Files"
@@ -727,7 +727,7 @@ msgstr "Rhythmbox 窗口"
 
 #: chapter8/xinclude.xml:185(para)
 msgid "If you click the <emphasis role=\"strong\">Play</emphasis> button without selecting any track, Rhythmbox will start playing the first track from your current view. You can use the <emphasis role=\"strong\">Shuffle</emphasis> button to play tracks randomly. You can also create a play list by right-clicking a music track and selecting <emphasis role=\"strong\">Add to Playlist</emphasis>. To stop or pause a track, click the <emphasis role=\"strong\">Play</emphasis> button again."
-msgstr "如果没有选择任何曲目却点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">随机</emphasis> 按钮随机播放曲目。也可以通过右击某一曲目选择 <emphasis role=\"strong\">添加到播放列表</emphasis> 将曲目添加到播放列表。当再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮则将停止或暂停播放。"
+msgstr "如果没有选择任何曲目却点击 <emphasis role=\"strong\">播放</emphasis> 按钮，Rhythmbox 将开始播放当前视图的第一首曲目。您可以使用 <emphasis role=\"strong\">乱序</emphasis> 按钮随机播放曲目。也可以通过右击某一曲目选择 <emphasis role=\"strong\">添加到播放列表</emphasis> 将曲目添加到播放列表。当再次点击 <emphasis role=\"strong\">播放</emphasis> 按钮则将停止或暂停播放。"
 
 #: chapter8/xinclude.xml:193(title)
 msgid "Creating New Playlist"
@@ -735,7 +735,7 @@ msgstr "新建播放列表"
 
 #: chapter8/xinclude.xml:204(para)
 msgid "Rhythmbox offers many additional useful features in the form of various plugins. Some of these plugins are not turned on by default. To access these plugins, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Plugins.</emphasis> The <emphasis role=\"strong\">Configure Plugins</emphasis> dialogue box opens."
-msgstr "Rhythmbox 以插件的形式提供附加功能。默认情况下，某些插件没有启用。要使用这些插件，可在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件</emphasis> 按钮，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
+msgstr "Rhythmbox 以插件的形式提供附加功能。默认情况下，某些插件没有启用。要使用这些插件，可在 <emphasis role=\"strong\">编辑</emphasis> 菜单上点击 <emphasis role=\"strong\">插件</emphasis>，打开 <emphasis role=\"strong\">配置插件</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:210(title)
 msgid "Accessing Plugins"
@@ -779,11 +779,11 @@ msgstr "激活可视化"
 
 #: chapter8/xinclude.xml:297(para)
 msgid "You can view animations while playing a song."
-msgstr "可在听歌的同时播放动画。"
+msgstr "可在听歌的同时播放视觉效果。"
 
 #: chapter8/xinclude.xml:300(title)
 msgid "Viewing Animations"
-msgstr "观看动画"
+msgstr "观看视觉效果"
 
 #: chapter8/xinclude.xml:311(para)
 msgid "Rhythmbox also enables you to listen to music from a variety of sources, such as Internet radio stations and podcasts."
@@ -810,7 +810,7 @@ msgstr "注："
 # mohu
 #: chapter8/xinclude.xml:330(para)
 msgid "Podcasts are audio shows broadcast over the Internet that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
-msgstr "播客是通过订阅在 Internet 播放音频文件的网站。您可以从所订阅的播客源下载音频文件的新版本。"
+msgstr "播客是通过订阅在 Internet 播放音频文件的网站。您可以从所订阅的播客源下载多媒体文件的新版本。"
 
 #: chapter8/xinclude.xml:339(para)
 msgid "If the students want to know more about podcasts, advise them to read the Wikipedia article on podcasting: <ulink url=\"http://en.wikipedia.org/wiki/Podcasting\">http://en.wikipedia.org/wiki/Podcasting</ulink>."
@@ -854,7 +854,7 @@ msgstr "关于网络电台的更多背景资料可查阅维基百科相关文章
 
 #: chapter8/xinclude.xml:417(para)
 msgid "You can also add a new radio station to the existing list by clicking <emphasis role=\"strong\">New Internet Radio Station</emphasis> and pasting the URL of the new radio station in the <emphasis role=\"strong\">URL of Internet radio station</emphasis> text box. Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in the existing list."
-msgstr "还可以通过点击 <emphasis role=\"strong\">新建网络电台</emphasis> 并向 <emphasis role=\"strong\">网络电台的 URL</emphasis> 文本框粘贴新电台的 URL 将新电台添加到当前列表。"
+msgstr "还可以通过点击 <emphasis role=\"strong\">新建 Internet 电台</emphasis> 并向 <emphasis role=\"strong\">Internet 电台的 URL</emphasis> 文本框粘贴新电台的 URL 将新电台添加到当前列表。"
 
 #: chapter8/xinclude.xml:425(title)
 msgid "Adding New Radio Station"
@@ -875,7 +875,7 @@ msgstr "Ogg Vorbis：Ogg Vorbis 是一种自由、非专利和开源的文件格
 
 #: chapter8/xinclude.xml:463(para)
 msgid "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without discarding any information. A FLAC file is typically half the size of a WAV file containing the same content."
-msgstr "FLAC：FLAC 代表自由无损音频编码。它是没有专利限制、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
+msgstr "FLAC：FLAC 代表自由的无损音频编码。它是没有专利限制、开源的音频格式。与 MP3 和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的一半。"
 
 #: chapter8/xinclude.xml:471(para)
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
@@ -908,7 +908,7 @@ msgstr "使用音乐榨汁机播放音频 CD。"
 
 #: chapter8/xinclude.xml:499(para)
 msgid "Insert an audio CD in the CD drive of your computer. The Sound Juicer CD player and ripper is launched automatically. To start Sound Juicer manually, click the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audio CD Extractor</emphasis>."
-msgstr "向计算机的 CD 驱动器插入 CD。音乐榨汁机 CD 播放器和提取器自动启动。要手动启动音乐榨汁机，可选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单，点击 <emphasis role=\"strong\">影音</emphasis> 项下的 <emphasis role=\"strong\">音频 CD 提取器</emphasis>。"
+msgstr "向计算机的 CD 驱动器插入 CD。音乐榨汁机 CD 播放器和提取器自动启动。要手动启动音乐榨汁机，可选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单，点击 <emphasis role=\"strong\">影音</emphasis> 项下的 <emphasis role=\"strong\">音频 CD 榨汁机</emphasis>。"
 
 #: chapter8/xinclude.xml:504(title)
 msgid "Launching Sound Juicer"
@@ -1055,7 +1055,7 @@ msgstr "启动 Brasero"
 # 怀疑此处原文有错
 #: chapter8/xinclude.xml:768(para)
 msgid "The <emphasis role=\"strong\">Brasero Window</emphasis> displays. Click the <emphasis role=\"strong\">Audio Project</emphasis> button. You will need to navigate to the folder containing the audio tracks you wish to add to the new CD project."
-msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。您需要在这里导航到包含所需曲目的文件夹。"
+msgstr "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis role=\"strong\">音频项目</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:774(title)
 msgid "The New Audio Project window"
@@ -1728,7 +1728,7 @@ msgstr "插件安装过程依赖于所使用的框架。如果使用 Ubuntu 中�
 # RealPlayer 10?需要换个版本吗？
 #: chapter8/xinclude.xml:1914(para)
 msgid "You can even install an additional mediaplayer, such as RealPlayer 10, to watch online video streams in Realmedia formats. When you have installed all the above mentioned plugins and codecs, you can watch RealMedia files even with your default media player, such as Totem. But, you may also want to install RealPlayer on your computer because RealPlayer supports streaming RealMedia files slightly better than other players."
-msgstr "您还可以安装额外的多媒体播放器来观看 Realmedia 格式的在线视频流，如 RealPlayer 11。安装了上述插件和解码器之后，您甚至可以使用默认的多媒体播放器观看 RealMedia 文件，如 Totem 的。但您可能仍希望在计算机上安装 RealPlayer ，因为它比起其它播放器能更好地支持流式 RealMedia 文件。"
+msgstr "您还可以安装额外的多媒体播放器来观看 Realmedia 格式的在线视频流，如 RealPlayer 11。安装了上述插件和解码器之后，您甚至可以使用默认的多媒体播放器观看 RealMedia 文件，如 Totem 的。但您可能仍希望在计算机上安装 RealPlayer ，因为它能比其它播放器更好地支持流式 RealMedia 文件。"
 
 #: chapter8/xinclude.xml:1922(para)
 msgid "The RealPlayer, developed by RealNetworks, supports a number of audio and video codecs such as realaudio, realvideo 10, mp3, ogg vorbis and theora, h263 and AAC. The RealPlayer for Linux is available in the Canonical commercial repository and can also be freely downloaded from the RealPlayer web site."
@@ -1736,7 +1736,7 @@ msgstr "RealNetworks 开发的 RealPlayer 支持很多音频和视频编码格�
 
 #: chapter8/xinclude.xml:1931(para)
 msgid "RealPlayer is a proprietary software and is not supported by the Ubuntu community."
-msgstr "RealPlayer 是一款商业软件，并不由 Ubuntu 社区提供支持。"
+msgstr "RealPlayer 是一款商业软件，并不由 Ubuntu 社区提供支持。但是其核心是开源的，可以从 Ubuntu 社区获得支持，但是其功能相对较少。"
 
 #: chapter8/xinclude.xml:1936(title)
 msgid "Installing RealPlayer"
@@ -1744,7 +1744,7 @@ msgstr "安装 RealPlayer "
 
 #: chapter8/xinclude.xml:1938(para)
 msgid "As mentioned above, the realPlayer for Linux is available in the Canonical commercial repository. Ubuntu does not include this repository by default. Therefore, you will first need to add Canonical's commercial repository to your system. Once the repository is added, you can search for the Realplayer package and then install it on your computer."
-msgstr "如前所述，Linux 版 RealPlayer 可在 medibuntu 软件库中获得。Ubuntu 默认并不包含此软件库。因此首先需要向您的系统添加 medibuntu 软件库。添加完此软件库就可以搜索 Realplayer 包并安装到计算机上了。"
+msgstr "如前所述，Linux 版 RealPlayer 可在 medibuntu 软件库中获得。Ubuntu 默认并不包含此软件库。因此首先需要向您的系统添加 medibuntu 软件库，请按照第六章的方法向软件源中添加“deb http://packages.medibuntu.org/ karmic free non-free”。添加完此软件库就可以搜索 Realplayer 包并安装到计算机上了。"
 
 #: chapter8/xinclude.xml:1947(title)
 msgid "Watching Online Videos Using RealPlayer"
@@ -1761,7 +1761,7 @@ msgstr "启动 RealPlayer"
 
 #: chapter8/xinclude.xml:1968(para)
 msgid "The <emphasis role=\"strong\">RealPlayer Setup Assistant</emphasis> is displayed to guide you through the set up of the RealPlayer. Click <emphasis role=\"strong\">Forward</emphasis> to start the set up process."
-msgstr "将显示 <emphasis role=\"strong\">RealPlayer 设置助理</emphasis> 实现 RealPlayer 的设置。点击 <emphasis role=\"strong\">前进</emphasis> 开始设置。"
+msgstr "将显示 <emphasis role=\"strong\">RealPlayer 设置助理</emphasis> 实现 RealPlayer 的设置。点击 <emphasis role=\"strong\">下一步</emphasis> 开始设置。"
 
 #: chapter8/xinclude.xml:1974(emphasis)
 msgid "Initiating RealPlayer Set up"
@@ -1770,7 +1770,7 @@ msgstr "初始化 RealPlayer 设置"
 # edition of RealPlayer
 #: chapter8/xinclude.xml:1986(para)
 msgid "After reviewing the release notes of the RealPlayer 10, click <emphasis role=\"strong\">Forward</emphasis> again to proceed."
-msgstr "查看了 RealPlayer 11 发行注记后，再次点击 <emphasis role=\"strong\">前进</emphasis> 以继续。"
+msgstr "查看了 RealPlayer 11 发行注记后，再次点击 <emphasis role=\"strong\">下一步</emphasis> 以继续。"
 
 #: chapter8/xinclude.xml:1990(emphasis)
 msgid "Reviewing realPlayer Release Notes"
@@ -1779,7 +1779,7 @@ msgstr "查看 RealPlayer 发行注记"
 # . again
 #: chapter8/xinclude.xml:2002(para)
 msgid "Before installing the RealPlayer application on your computer, you need to review the terms of the end user license agreement and accept it to be able to proceed with the setup. Click <emphasis role=\"strong\">Accept.</emphasis>"
-msgstr "安装 RealPlayer 前，您需要阅读并接受终端用户协议以继续。点击 <emphasis role=\"strong\">接受</emphasis>。"
+msgstr "安装 RealPlayer 前，您需要阅读并接受终端用户协议以继续。选中 <emphasis role=\"strong\">接受</emphasis> 复选框，并点击 <emphasis role=\"strong\">下一步</emphasis>。"
 
 #: chapter8/xinclude.xml:2007(emphasis)
 msgid "Accepting the License Agreement"
@@ -1787,7 +1787,7 @@ msgstr "接受许可协议"
 
 #: chapter8/xinclude.xml:2019(para)
 msgid "You have reached the final screen of the Realplayer setup Assistant. Specify the provided options and click <emphasis role=\"strong\">OK</emphasis> to complete the set up."
-msgstr "已经到达 RealPlayer 安装助手的最后一项。指定提供的选项并点击 <emphasis role=\"strong\">确定</emphasis> 以结束安装。"
+msgstr "已经到达 RealPlayer 安装助手的最后一项。指定提供的选项并点击 <emphasis role=\"strong\">完成</emphasis> 以结束安装。"
 
 #: chapter8/xinclude.xml:2023(emphasis)
 msgid "Completing the Set-up Process"
@@ -1831,15 +1831,15 @@ msgstr "在 RealPlayer 中观看在线视频"
 
 #: chapter8/xinclude.xml:2110(para)
 msgid "You can add the link to your <emphasis role=\"strong\">Favorites</emphasis> list to be able to view the video again without searching for it on the Internet. To save the video as a <emphasis role=\"strong\">Favorite,</emphasis> on the the <emphasis role=\"strong\">Favorites</emphasis> menu, click <emphasis role=\"strong\">Add to Favorite</emphasis>."
-msgstr "可以添加链接到 <emphasis role=\"strong\">搜藏</emphasis> 列表，下次再看此视频时便不用从互联网上搜索。要作为 <emphasis role=\"strong\">收藏</emphasis> 保存，在 <emphasis role=\"strong\">收藏</emphasis> 菜单下点击 <emphasis role=\"strong\">添加到收藏</emphasis>。"
+msgstr "可以添加链接到 <emphasis role=\"strong\">收藏夹</emphasis> 中，下次再看此视频时便不用从互联网上搜索。要保存到 <emphasis role=\"strong\">收藏夹</emphasis> 中，在 <emphasis role=\"strong\">收藏夹</emphasis> 菜单下点击 <emphasis role=\"strong\">添加到收藏夹</emphasis>。"
 
 #: chapter8/xinclude.xml:2115(emphasis)
 msgid "Saving a Video as Favourite"
-msgstr "搜藏视频链接"
+msgstr "收藏视频链接"
 
 #: chapter8/xinclude.xml:2127(para)
 msgid "The video is now saved as your favorite. In future, you can view this video directly from inside your RealPlayer by selecting the link from the <emphasis role=\"strong\">Favorites</emphasis> menu. You can also play an online video directly from inside the RealPlayer by specifying the location of the video. To do so, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open Location</emphasis>."
-msgstr "视频链接现在已经收藏。可以直接在 RealPlayer 内通过从 <emphasis role=\"strong\">搜藏</emphasis> 菜单中选择观看此视频。也可以通过指定视频的位置直接在 RealPlayer 内播放视频，即在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开位置</emphasis>。"
+msgstr "视频链接现在已经收藏。可以直接在 RealPlayer 内通过从 <emphasis role=\"strong\">收藏夹</emphasis> 菜单中选择观看此视频。也可以通过指定视频的位置直接在 RealPlayer 内播放视频，即在 <emphasis role=\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开位置</emphasis>。"
 
 #: chapter8/xinclude.xml:2135(emphasis)
 msgid "Viewing Online Video Directly from RealPlayer"

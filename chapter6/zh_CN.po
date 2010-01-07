@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course customizing-the-desktop-and-applications\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-29 15:59+0800\n"
-"PO-Revision-Date: 2010-01-04 00:07+0800\n"
-"Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
+"PO-Revision-Date: 2010-01-08 04:45+0800\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese Simplified <kde-china@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,552 +21,332 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:91(None)
-msgid ""
-"@@image: 'images/Lesson07_images_001.png'; "
-"md5=e627f283bb8aa3b210a4861c557ae301"
-msgstr ""
-"@@image: 'images/Lesson07_images_001.png'; "
-"md5=e627f283bb8aa3b210a4861c557ae301"
+msgid "@@image: 'images/Lesson07_images_001.png'; md5=e627f283bb8aa3b210a4861c557ae301"
+msgstr "@@image: 'images/Lesson07_images_001.png'; md5=e627f283bb8aa3b210a4861c557ae301"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:115(None)
-msgid ""
-"@@image: 'images/Lesson07_images_002.png'; "
-"md5=ee89b05ac13cde98ec0e3ac67b7cae09"
-msgstr ""
-"@@image: 'images/Lesson07_images_002.png'; "
-"md5=ee89b05ac13cde98ec0e3ac67b7cae09"
+msgid "@@image: 'images/Lesson07_images_002.png'; md5=ee89b05ac13cde98ec0e3ac67b7cae09"
+msgstr "@@image: 'images/Lesson07_images_002.png'; md5=ee89b05ac13cde98ec0e3ac67b7cae09"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:138(None)
-msgid ""
-"@@image: 'images/Lesson07_images_003.png'; "
-"md5=68056732e97da1a10c305f69d72201bc"
-msgstr ""
-"@@image: 'images/Lesson07_images_003.png'; "
-"md5=68056732e97da1a10c305f69d72201bc"
+msgid "@@image: 'images/Lesson07_images_003.png'; md5=68056732e97da1a10c305f69d72201bc"
+msgstr "@@image: 'images/Lesson07_images_003.png'; md5=68056732e97da1a10c305f69d72201bc"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:163(None)
-msgid ""
-"@@image: 'images/Lesson07_images_004.png'; "
-"md5=26f0bb3d4a0d92ffc8470eed23b3b3f7"
-msgstr ""
-"@@image: 'images/Lesson07_images_004.png'; "
-"md5=26f0bb3d4a0d92ffc8470eed23b3b3f7"
+msgid "@@image: 'images/Lesson07_images_004.png'; md5=26f0bb3d4a0d92ffc8470eed23b3b3f7"
+msgstr "@@image: 'images/Lesson07_images_004.png'; md5=26f0bb3d4a0d92ffc8470eed23b3b3f7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:194(None)
-msgid ""
-"@@image: 'images/Lesson07_images_005.png'; "
-"md5=553106e10de279aac821dab2fac6ee74"
-msgstr ""
-"@@image: 'images/Lesson07_images_005.png'; "
-"md5=553106e10de279aac821dab2fac6ee74"
+msgid "@@image: 'images/Lesson07_images_005.png'; md5=553106e10de279aac821dab2fac6ee74"
+msgstr "@@image: 'images/Lesson07_images_005.png'; md5=553106e10de279aac821dab2fac6ee74"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:210(None)
-msgid ""
-"@@image: 'images/Lesson07_images_006.png'; "
-"md5=d89a24ddcfc5f20aa8bfd84b20e83b62"
-msgstr ""
-"@@image: 'images/Lesson07_images_006.png'; "
-"md5=d89a24ddcfc5f20aa8bfd84b20e83b62"
+msgid "@@image: 'images/Lesson07_images_006.png'; md5=d89a24ddcfc5f20aa8bfd84b20e83b62"
+msgstr "@@image: 'images/Lesson07_images_006.png'; md5=d89a24ddcfc5f20aa8bfd84b20e83b62"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:229(None)
-msgid ""
-"@@image: 'images/Lesson07_images_007.png'; "
-"md5=c35beea99014895253aa1f6c495bc5ca"
-msgstr ""
-"@@image: 'images/Lesson07_images_007.png'; "
-"md5=c35beea99014895253aa1f6c495bc5ca"
+msgid "@@image: 'images/Lesson07_images_007.png'; md5=c35beea99014895253aa1f6c495bc5ca"
+msgstr "@@image: 'images/Lesson07_images_007.png'; md5=c35beea99014895253aa1f6c495bc5ca"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:269(None)
-msgid ""
-"@@image: 'images/Lesson07_images_008.png'; "
-"md5=96602e35c28c5485dd9b7105f66aa27b"
-msgstr ""
-"@@image: 'images/Lesson07_images_008.png'; "
-"md5=96602e35c28c5485dd9b7105f66aa27b"
+msgid "@@image: 'images/Lesson07_images_008.png'; md5=96602e35c28c5485dd9b7105f66aa27b"
+msgstr "@@image: 'images/Lesson07_images_008.png'; md5=96602e35c28c5485dd9b7105f66aa27b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:288(None)
-msgid ""
-"@@image: 'images/Lesson07_images_009.png'; "
-"md5=1f2c5c94d962974dfba591b93ada8e2d"
-msgstr ""
-"@@image: 'images/Lesson07_images_009.png'; "
-"md5=1f2c5c94d962974dfba591b93ada8e2d"
+msgid "@@image: 'images/Lesson07_images_009.png'; md5=1f2c5c94d962974dfba591b93ada8e2d"
+msgstr "@@image: 'images/Lesson07_images_009.png'; md5=1f2c5c94d962974dfba591b93ada8e2d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:305(None)
-msgid ""
-"@@image: 'images/Lesson07_images_010.png'; "
-"md5=2e78cc862c7e8a92ec0f25aa6bad9ae3"
-msgstr ""
-"@@image: 'images/Lesson07_images_010.png'; "
-"md5=2e78cc862c7e8a92ec0f25aa6bad9ae3"
+msgid "@@image: 'images/Lesson07_images_010.png'; md5=2e78cc862c7e8a92ec0f25aa6bad9ae3"
+msgstr "@@image: 'images/Lesson07_images_010.png'; md5=2e78cc862c7e8a92ec0f25aa6bad9ae3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:322(None)
-msgid ""
-"@@image: 'images/Lesson07_images_011.png'; "
-"md5=5a497ad0b9f1d65dc7b8fa8f3447b26a"
-msgstr ""
-"@@image: 'images/Lesson07_images_011.png'; "
-"md5=5a497ad0b9f1d65dc7b8fa8f3447b26a"
+msgid "@@image: 'images/Lesson07_images_011.png'; md5=5a497ad0b9f1d65dc7b8fa8f3447b26a"
+msgstr "@@image: 'images/Lesson07_images_011.png'; md5=5a497ad0b9f1d65dc7b8fa8f3447b26a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:357(None)
-msgid ""
-"@@image: 'images/Lesson07_images_012.png'; "
-"md5=901f196343cf92fa5d49ab7224077c9e"
-msgstr ""
-"@@image: 'images/Lesson07_images_012.png'; "
-"md5=901f196343cf92fa5d49ab7224077c9e"
+msgid "@@image: 'images/Lesson07_images_012.png'; md5=901f196343cf92fa5d49ab7224077c9e"
+msgstr "@@image: 'images/Lesson07_images_012.png'; md5=901f196343cf92fa5d49ab7224077c9e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:442(None)
-msgid ""
-"@@image: 'images/Lesson07_images_013.png'; "
-"md5=b80ff949229816d4b7eb739fc60a5f9b"
-msgstr ""
-"@@image: 'images/Lesson07_images_013.png'; "
-"md5=b80ff949229816d4b7eb739fc60a5f9b"
+msgid "@@image: 'images/Lesson07_images_013.png'; md5=b80ff949229816d4b7eb739fc60a5f9b"
+msgstr "@@image: 'images/Lesson07_images_013.png'; md5=b80ff949229816d4b7eb739fc60a5f9b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:461(None)
-msgid ""
-"@@image: 'images/Lesson07_images_014.png'; "
-"md5=464a894e9a2c18d911c5a256d391f564"
-msgstr ""
-"@@image: 'images/Lesson07_images_014.png'; "
-"md5=464a894e9a2c18d911c5a256d391f564"
+msgid "@@image: 'images/Lesson07_images_014.png'; md5=464a894e9a2c18d911c5a256d391f564"
+msgstr "@@image: 'images/Lesson07_images_014.png'; md5=464a894e9a2c18d911c5a256d391f564"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:477(None)
-msgid ""
-"@@image: 'images/Lesson07_images_015.png'; "
-"md5=9ea6df2d490e0775e4727f92ac7022b2"
-msgstr ""
-"@@image: 'images/Lesson07_images_015.png'; "
-"md5=9ea6df2d490e0775e4727f92ac7022b2"
+msgid "@@image: 'images/Lesson07_images_015.png'; md5=9ea6df2d490e0775e4727f92ac7022b2"
+msgstr "@@image: 'images/Lesson07_images_015.png'; md5=9ea6df2d490e0775e4727f92ac7022b2"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:497(None)
-msgid ""
-"@@image: 'images/Lesson07_images_016.png'; "
-"md5=515901ca2528b2550303ee2af096a9ed"
-msgstr ""
-"@@image: 'images/Lesson07_images_016.png'; "
-"md5=515901ca2528b2550303ee2af096a9ed"
+msgid "@@image: 'images/Lesson07_images_016.png'; md5=515901ca2528b2550303ee2af096a9ed"
+msgstr "@@image: 'images/Lesson07_images_016.png'; md5=515901ca2528b2550303ee2af096a9ed"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:518(None)
-msgid ""
-"@@image: 'images/Lesson07_images_017.png'; "
-"md5=dc8fcc3dcdba7869ca808e5eca20bfe1"
-msgstr ""
-"@@image: 'images/Lesson07_images_017.png'; "
-"md5=dc8fcc3dcdba7869ca808e5eca20bfe1"
+msgid "@@image: 'images/Lesson07_images_017.png'; md5=dc8fcc3dcdba7869ca808e5eca20bfe1"
+msgstr "@@image: 'images/Lesson07_images_017.png'; md5=dc8fcc3dcdba7869ca808e5eca20bfe1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:546(None)
-msgid ""
-"@@image: 'images/Lesson07_images_018.png'; "
-"md5=2e1a09ad471f343bf9cb4464d3c948b4"
-msgstr ""
-"@@image: 'images/Lesson07_images_018.png'; "
-"md5=2e1a09ad471f343bf9cb4464d3c948b4"
+msgid "@@image: 'images/Lesson07_images_018.png'; md5=2e1a09ad471f343bf9cb4464d3c948b4"
+msgstr "@@image: 'images/Lesson07_images_018.png'; md5=2e1a09ad471f343bf9cb4464d3c948b4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:561(None)
-msgid ""
-"@@image: 'images/Lesson07_images_019.png'; "
-"md5=fd4b551a382228708819a1b0eb082732"
-msgstr ""
-"@@image: 'images/Lesson07_images_019.png'; "
-"md5=fd4b551a382228708819a1b0eb082732"
+msgid "@@image: 'images/Lesson07_images_019.png'; md5=fd4b551a382228708819a1b0eb082732"
+msgstr "@@image: 'images/Lesson07_images_019.png'; md5=fd4b551a382228708819a1b0eb082732"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:578(None)
-msgid ""
-"@@image: 'images/Lesson07_images_020.png'; "
-"md5=5f2fbdd162c2d34fd354fad156bc8084"
-msgstr ""
-"@@image: 'images/Lesson07_images_020.png'; "
-"md5=5f2fbdd162c2d34fd354fad156bc8084"
+msgid "@@image: 'images/Lesson07_images_020.png'; md5=5f2fbdd162c2d34fd354fad156bc8084"
+msgstr "@@image: 'images/Lesson07_images_020.png'; md5=5f2fbdd162c2d34fd354fad156bc8084"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:598(None)
-msgid ""
-"@@image: 'images/Lesson07_images_021.png'; "
-"md5=2dd43ca0defd1aaebcce475ddd133ef5"
-msgstr ""
-"@@image: 'images/Lesson07_images_021.png'; "
-"md5=2dd43ca0defd1aaebcce475ddd133ef5"
+msgid "@@image: 'images/Lesson07_images_021.png'; md5=2dd43ca0defd1aaebcce475ddd133ef5"
+msgstr "@@image: 'images/Lesson07_images_021.png'; md5=2dd43ca0defd1aaebcce475ddd133ef5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:629(None)
-msgid ""
-"@@image: 'images/Lesson07_images_022.png'; "
-"md5=eb98e8080fd9f67dbe5c6314339e7860"
-msgstr ""
-"@@image: 'images/Lesson07_images_022.png'; "
-"md5=eb98e8080fd9f67dbe5c6314339e7860"
+msgid "@@image: 'images/Lesson07_images_022.png'; md5=eb98e8080fd9f67dbe5c6314339e7860"
+msgstr "@@image: 'images/Lesson07_images_022.png'; md5=eb98e8080fd9f67dbe5c6314339e7860"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:644(None)
-msgid ""
-"@@image: 'images/Lesson07_images_023.png'; "
-"md5=b5ece558720b0ed263c77318ae184891"
-msgstr ""
-"@@image: 'images/Lesson07_images_023.png'; "
-"md5=b5ece558720b0ed263c77318ae184891"
+msgid "@@image: 'images/Lesson07_images_023.png'; md5=b5ece558720b0ed263c77318ae184891"
+msgstr "@@image: 'images/Lesson07_images_023.png'; md5=b5ece558720b0ed263c77318ae184891"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:697(None)
-msgid ""
-"@@image: 'images/Lesson07_images_024.png'; "
-"md5=8e6fce6a7c1ee6318ecd7252b8fdb748"
-msgstr ""
-"@@image: 'images/Lesson07_images_024.png'; "
-"md5=8e6fce6a7c1ee6318ecd7252b8fdb748"
+msgid "@@image: 'images/Lesson07_images_024.png'; md5=8e6fce6a7c1ee6318ecd7252b8fdb748"
+msgstr "@@image: 'images/Lesson07_images_024.png'; md5=8e6fce6a7c1ee6318ecd7252b8fdb748"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:712(None)
-msgid ""
-"@@image: 'images/Lesson07_images_025.png'; "
-"md5=9b2087da58fdf7099ae5521053e47e26"
-msgstr ""
-"@@image: 'images/Lesson07_images_025.png'; "
-"md5=9b2087da58fdf7099ae5521053e47e26"
+msgid "@@image: 'images/Lesson07_images_025.png'; md5=9b2087da58fdf7099ae5521053e47e26"
+msgstr "@@image: 'images/Lesson07_images_025.png'; md5=9b2087da58fdf7099ae5521053e47e26"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:729(None)
-msgid ""
-"@@image: 'images/Lesson07_images_026.png'; "
-"md5=0edae1a08f1ff137e28939a73e872818"
-msgstr ""
-"@@image: 'images/Lesson07_images_026.png'; "
-"md5=0edae1a08f1ff137e28939a73e872818"
+msgid "@@image: 'images/Lesson07_images_026.png'; md5=0edae1a08f1ff137e28939a73e872818"
+msgstr "@@image: 'images/Lesson07_images_026.png'; md5=0edae1a08f1ff137e28939a73e872818"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:892(None)
-msgid ""
-"@@image: 'images/Lesson07_images_027.png'; "
-"md5=1d978f559ad76a94169ff272d714eb46"
-msgstr ""
-"@@image: 'images/Lesson07_images_027.png'; "
-"md5=1d978f559ad76a94169ff272d714eb46"
+msgid "@@image: 'images/Lesson07_images_027.png'; md5=1d978f559ad76a94169ff272d714eb46"
+msgstr "@@image: 'images/Lesson07_images_027.png'; md5=1d978f559ad76a94169ff272d714eb46"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:908(None)
-msgid ""
-"@@image: 'images/Lesson07_images_028.png'; "
-"md5=167fb86de27a0b8a141ea20788ef5a80"
-msgstr ""
-"@@image: 'images/Lesson07_images_028.png'; "
-"md5=167fb86de27a0b8a141ea20788ef5a80"
+msgid "@@image: 'images/Lesson07_images_028.png'; md5=167fb86de27a0b8a141ea20788ef5a80"
+msgstr "@@image: 'images/Lesson07_images_028.png'; md5=167fb86de27a0b8a141ea20788ef5a80"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:937(None)
-msgid ""
-"@@image: 'images/Lesson07_images_029.png'; "
-"md5=e9887a12ac476e88879397f3a5d69947"
-msgstr ""
-"@@image: 'images/Lesson07_images_029.png'; "
-"md5=e9887a12ac476e88879397f3a5d69947"
+msgid "@@image: 'images/Lesson07_images_029.png'; md5=e9887a12ac476e88879397f3a5d69947"
+msgstr "@@image: 'images/Lesson07_images_029.png'; md5=e9887a12ac476e88879397f3a5d69947"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:954(None)
-msgid ""
-"@@image: 'images/Lesson07_images_030.png'; "
-"md5=4cc7861b8581ca5e69786ba6845e1e94"
-msgstr ""
-"@@image: 'images/Lesson07_images_030.png'; "
-"md5=4cc7861b8581ca5e69786ba6845e1e94"
+msgid "@@image: 'images/Lesson07_images_030.png'; md5=4cc7861b8581ca5e69786ba6845e1e94"
+msgstr "@@image: 'images/Lesson07_images_030.png'; md5=4cc7861b8581ca5e69786ba6845e1e94"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:970(None)
-msgid ""
-"@@image: 'images/Lesson07_images_031.png'; "
-"md5=01baee9acf210293cedffeb6f0a0114b"
-msgstr ""
-"@@image: 'images/Lesson07_images_031.png'; "
-"md5=01baee9acf210293cedffeb6f0a0114b"
+msgid "@@image: 'images/Lesson07_images_031.png'; md5=01baee9acf210293cedffeb6f0a0114b"
+msgstr "@@image: 'images/Lesson07_images_031.png'; md5=01baee9acf210293cedffeb6f0a0114b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1070(None)
-msgid ""
-"@@image: 'images/Lesson07_images_032.png'; "
-"md5=45c87517c875ef0e928150fb9c4a01ec"
-msgstr ""
-"@@image: 'images/Lesson07_images_032.png'; "
-"md5=45c87517c875ef0e928150fb9c4a01ec"
+msgid "@@image: 'images/Lesson07_images_032.png'; md5=45c87517c875ef0e928150fb9c4a01ec"
+msgstr "@@image: 'images/Lesson07_images_032.png'; md5=45c87517c875ef0e928150fb9c4a01ec"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1094(None)
-msgid ""
-"@@image: 'images/Lesson07_images_033.png'; "
-"md5=a866364ec51f76682dd89b0fe99ae5cf"
-msgstr ""
-"@@image: 'images/Lesson07_images_033.png'; "
-"md5=a866364ec51f76682dd89b0fe99ae5cf"
+msgid "@@image: 'images/Lesson07_images_033.png'; md5=a866364ec51f76682dd89b0fe99ae5cf"
+msgstr "@@image: 'images/Lesson07_images_033.png'; md5=a866364ec51f76682dd89b0fe99ae5cf"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1119(None)
-msgid ""
-"@@image: 'images/Lesson07_images_034.png'; "
-"md5=16ed00c02ed614b1b9db97dd66fd0560"
-msgstr ""
-"@@image: 'images/Lesson07_images_034.png'; "
-"md5=16ed00c02ed614b1b9db97dd66fd0560"
+msgid "@@image: 'images/Lesson07_images_034.png'; md5=16ed00c02ed614b1b9db97dd66fd0560"
+msgstr "@@image: 'images/Lesson07_images_034.png'; md5=16ed00c02ed614b1b9db97dd66fd0560"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1135(None)
-msgid ""
-"@@image: 'images/Lesson07_images_035.png'; "
-"md5=c0e610db8537885780242757fb13c541"
-msgstr ""
-"@@image: 'images/Lesson07_images_035.png'; "
-"md5=c0e610db8537885780242757fb13c541"
+msgid "@@image: 'images/Lesson07_images_035.png'; md5=c0e610db8537885780242757fb13c541"
+msgstr "@@image: 'images/Lesson07_images_035.png'; md5=c0e610db8537885780242757fb13c541"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1149(None)
-msgid ""
-"@@image: 'images/Lesson07_images_036.png'; "
-"md5=453736e2c625c6784cf3d6d9f8812431"
-msgstr ""
-"@@image: 'images/Lesson07_images_036.png'; "
-"md5=453736e2c625c6784cf3d6d9f8812431"
+msgid "@@image: 'images/Lesson07_images_036.png'; md5=453736e2c625c6784cf3d6d9f8812431"
+msgstr "@@image: 'images/Lesson07_images_036.png'; md5=453736e2c625c6784cf3d6d9f8812431"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1164(None)
-msgid ""
-"@@image: 'images/Lesson07_images_037.png'; "
-"md5=b517f47dc56b713dfd2b6abddacb6abb"
-msgstr ""
-"@@image: 'images/Lesson07_images_037.png'; "
-"md5=b517f47dc56b713dfd2b6abddacb6abb"
+msgid "@@image: 'images/Lesson07_images_037.png'; md5=b517f47dc56b713dfd2b6abddacb6abb"
+msgstr "@@image: 'images/Lesson07_images_037.png'; md5=b517f47dc56b713dfd2b6abddacb6abb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1179(None)
-msgid ""
-"@@image: 'images/Lesson07_images_038.png'; "
-"md5=9e353a84dde7273e5de53ba2d632cc48"
-msgstr ""
-"@@image: 'images/Lesson07_images_038.png'; "
-"md5=9e353a84dde7273e5de53ba2d632cc48"
+msgid "@@image: 'images/Lesson07_images_038.png'; md5=9e353a84dde7273e5de53ba2d632cc48"
+msgstr "@@image: 'images/Lesson07_images_038.png'; md5=9e353a84dde7273e5de53ba2d632cc48"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1198(None)
-msgid ""
-"@@image: 'images/Lesson07_images_039.png'; "
-"md5=e13aea2faf52e76ad5c3fbcd9f6de4d3"
-msgstr ""
-"@@image: 'images/Lesson07_images_039.png'; "
-"md5=e13aea2faf52e76ad5c3fbcd9f6de4d3"
+msgid "@@image: 'images/Lesson07_images_039.png'; md5=e13aea2faf52e76ad5c3fbcd9f6de4d3"
+msgstr "@@image: 'images/Lesson07_images_039.png'; md5=e13aea2faf52e76ad5c3fbcd9f6de4d3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1244(None)
-msgid ""
-"@@image: 'images/Lesson07_images_040.png'; "
-"md5=389c0e9f1c853ff05baf3f49d2e746f8"
-msgstr ""
-"@@image: 'images/Lesson07_images_040.png'; "
-"md5=389c0e9f1c853ff05baf3f49d2e746f8"
+msgid "@@image: 'images/Lesson07_images_040.png'; md5=389c0e9f1c853ff05baf3f49d2e746f8"
+msgstr "@@image: 'images/Lesson07_images_040.png'; md5=389c0e9f1c853ff05baf3f49d2e746f8"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1273(None)
-msgid ""
-"@@image: 'images/Lesson07_images_041.png'; "
-"md5=46f0d797e95634bb9936603ac841a1f0"
-msgstr ""
-"@@image: 'images/Lesson07_images_041.png'; "
-"md5=46f0d797e95634bb9936603ac841a1f0"
+msgid "@@image: 'images/Lesson07_images_041.png'; md5=46f0d797e95634bb9936603ac841a1f0"
+msgstr "@@image: 'images/Lesson07_images_041.png'; md5=46f0d797e95634bb9936603ac841a1f0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1297(None)
-msgid ""
-"@@image: 'images/Lesson07_images_042.png'; "
-"md5=48d54c44f3e6770478e57183dad187ef"
-msgstr ""
-"@@image: 'images/Lesson07_images_042.png'; "
-"md5=48d54c44f3e6770478e57183dad187ef"
+msgid "@@image: 'images/Lesson07_images_042.png'; md5=48d54c44f3e6770478e57183dad187ef"
+msgstr "@@image: 'images/Lesson07_images_042.png'; md5=48d54c44f3e6770478e57183dad187ef"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1314(None)
-msgid ""
-"@@image: 'images/Lesson07_images_043.png'; "
-"md5=dca5efccee42a0d5fb3b490135d407db"
-msgstr ""
-"@@image: 'images/Lesson07_images_043.png'; "
-"md5=dca5efccee42a0d5fb3b490135d407db"
+msgid "@@image: 'images/Lesson07_images_043.png'; md5=dca5efccee42a0d5fb3b490135d407db"
+msgstr "@@image: 'images/Lesson07_images_043.png'; md5=dca5efccee42a0d5fb3b490135d407db"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1330(None)
-msgid ""
-"@@image: 'images/Lesson07_images_044.png'; "
-"md5=4d7db4bf87195d8d7f00c77774887a16"
-msgstr ""
-"@@image: 'images/Lesson07_images_044.png'; "
-"md5=4d7db4bf87195d8d7f00c77774887a16"
+msgid "@@image: 'images/Lesson07_images_044.png'; md5=4d7db4bf87195d8d7f00c77774887a16"
+msgstr "@@image: 'images/Lesson07_images_044.png'; md5=4d7db4bf87195d8d7f00c77774887a16"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1345(None)
-msgid ""
-"@@image: 'images/Lesson07_images_045.png'; "
-"md5=4d8b8f9388a1aad9c89b61b40fdd70bf"
-msgstr ""
-"@@image: 'images/Lesson07_images_045.png'; "
-"md5=4d8b8f9388a1aad9c89b61b40fdd70bf"
+msgid "@@image: 'images/Lesson07_images_045.png'; md5=4d8b8f9388a1aad9c89b61b40fdd70bf"
+msgstr "@@image: 'images/Lesson07_images_045.png'; md5=4d8b8f9388a1aad9c89b61b40fdd70bf"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1362(None)
-msgid ""
-"@@image: 'images/Lesson07_images_046.png'; "
-"md5=12103d3774763a47167c8b873dd03374"
-msgstr ""
-"@@image: 'images/Lesson07_images_046.png'; "
-"md5=12103d3774763a47167c8b873dd03374"
+msgid "@@image: 'images/Lesson07_images_046.png'; md5=12103d3774763a47167c8b873dd03374"
+msgstr "@@image: 'images/Lesson07_images_046.png'; md5=12103d3774763a47167c8b873dd03374"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1378(None)
-msgid ""
-"@@image: 'images/Lesson07_images_047.png'; "
-"md5=96545d06bd12a09e51b621e6d93ed2cd"
-msgstr ""
-"@@image: 'images/Lesson07_images_047.png'; "
-"md5=96545d06bd12a09e51b621e6d93ed2cd"
+msgid "@@image: 'images/Lesson07_images_047.png'; md5=96545d06bd12a09e51b621e6d93ed2cd"
+msgstr "@@image: 'images/Lesson07_images_047.png'; md5=96545d06bd12a09e51b621e6d93ed2cd"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1394(None)
-msgid ""
-"@@image: 'images/Lesson07_images_048.png'; "
-"md5=eb60d65ea2b29170fb93f0a4c8575d21"
-msgstr ""
-"@@image: 'images/Lesson07_images_048.png'; "
-"md5=eb60d65ea2b29170fb93f0a4c8575d21"
+msgid "@@image: 'images/Lesson07_images_048.png'; md5=eb60d65ea2b29170fb93f0a4c8575d21"
+msgstr "@@image: 'images/Lesson07_images_048.png'; md5=eb60d65ea2b29170fb93f0a4c8575d21"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1613(None)
-msgid ""
-"@@image: 'images/Lesson07_images_049.png'; "
-"md5=9b7e2454304b63e1d57f734b386a0858"
-msgstr ""
-"@@image: 'images/Lesson07_images_049.png'; "
-"md5=9b7e2454304b63e1d57f734b386a0858"
+msgid "@@image: 'images/Lesson07_images_049.png'; md5=9b7e2454304b63e1d57f734b386a0858"
+msgstr "@@image: 'images/Lesson07_images_049.png'; md5=9b7e2454304b63e1d57f734b386a0858"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1627(None)
-msgid ""
-"@@image: 'images/Lesson07_images_050.png'; "
-"md5=5e25dc335c5b75cd04618d3d02c8deb8"
-msgstr ""
-"@@image: 'images/Lesson07_images_050.png'; "
-"md5=5e25dc335c5b75cd04618d3d02c8deb8"
+msgid "@@image: 'images/Lesson07_images_050.png'; md5=5e25dc335c5b75cd04618d3d02c8deb8"
+msgstr "@@image: 'images/Lesson07_images_050.png'; md5=5e25dc335c5b75cd04618d3d02c8deb8"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1652(None)
-msgid ""
-"@@image: 'images/Lesson07_images_051.png'; "
-"md5=75230712e216a8cea22fb90c6e8616ec"
-msgstr ""
-"@@image: 'images/Lesson07_images_051.png'; "
-"md5=75230712e216a8cea22fb90c6e8616ec"
+msgid "@@image: 'images/Lesson07_images_051.png'; md5=75230712e216a8cea22fb90c6e8616ec"
+msgstr "@@image: 'images/Lesson07_images_051.png'; md5=75230712e216a8cea22fb90c6e8616ec"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1676(None)
-msgid ""
-"@@image: 'images/Lesson07_images_052.png'; "
-"md5=af339f67b1807a26eafceab6654d2054"
-msgstr ""
-"@@image: 'images/Lesson07_images_052.png'; "
-"md5=af339f67b1807a26eafceab6654d2054"
+msgid "@@image: 'images/Lesson07_images_052.png'; md5=af339f67b1807a26eafceab6654d2054"
+msgstr "@@image: 'images/Lesson07_images_052.png'; md5=af339f67b1807a26eafceab6654d2054"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1693(None)
-msgid ""
-"@@image: 'images/Lesson07_images_053.png'; "
-"md5=98476086c4e90b2b9659cf93e7b3314a"
-msgstr ""
-"@@image: 'images/Lesson07_images_053.png'; "
-"md5=98476086c4e90b2b9659cf93e7b3314a"
+msgid "@@image: 'images/Lesson07_images_053.png'; md5=98476086c4e90b2b9659cf93e7b3314a"
+msgstr "@@image: 'images/Lesson07_images_053.png'; md5=98476086c4e90b2b9659cf93e7b3314a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1708(None)
-msgid ""
-"@@image: 'images/Lesson07_images_054.png'; "
-"md5=e9779428ad65af0efb6ddf6e83a086ca"
-msgstr ""
-"@@image: 'images/Lesson07_images_054.png'; "
-"md5=e9779428ad65af0efb6ddf6e83a086ca"
+msgid "@@image: 'images/Lesson07_images_054.png'; md5=e9779428ad65af0efb6ddf6e83a086ca"
+msgstr "@@image: 'images/Lesson07_images_054.png'; md5=e9779428ad65af0efb6ddf6e83a086ca"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter6/xinclude.xml:1732(None)
-msgid ""
-"@@image: 'images/Lesson07_images_055.png'; "
-"md5=cbbc1be65a5903eaf0978abd83429140"
-msgstr ""
-"@@image: 'images/Lesson07_images_055.png'; "
-"md5=cbbc1be65a5903eaf0978abd83429140"
+msgid "@@image: 'images/Lesson07_images_055.png'; md5=cbbc1be65a5903eaf0978abd83429140"
+msgstr "@@image: 'images/Lesson07_images_055.png'; md5=cbbc1be65a5903eaf0978abd83429140"
 
 #: chapter6/xinclude.xml:4(title)
 msgid "Customising the Desktop and Applications"
@@ -613,64 +393,46 @@ msgid "Introduction"
 msgstr "简介"
 
 #: chapter6/xinclude.xml:43(para)
-msgid ""
-"The Ubuntu desktop comes completely clean and free of pre-determined icons "
-"and buttons. Customising your desktop allows you to add icons to suit your "
-"work style."
-msgstr ""
-"Ubuntu 桌面预设的图标和按钮非常简洁，完全自由。通过自定义桌面，您可添加图标以"
-"配合您的工作风格。"
+msgid "The Ubuntu desktop comes completely clean and free of pre-determined icons and buttons. Customising your desktop allows you to add icons to suit your work style."
+msgstr "Ubuntu 桌面预设的图标和按钮非常简洁，完全自由。通过自定义桌面，您可添加图标以配合您的工作风格。"
 
 #: chapter6/xinclude.xml:47(para)
-msgid ""
-"In this lesson, you will learn about various ways to set up your Ubuntu "
-"desktop to suit your requirements. You will also learn how to install and "
-"uninstall various software applications."
-msgstr ""
-"在本课程中，您将学会通过多种不同的途径设置 Ubuntu 桌面，以使它符合您的需求。您还会"
-"学到如何安装和卸载各种软件应用程序。"
+msgid "In this lesson, you will learn about various ways to set up your Ubuntu desktop to suit your requirements. You will also learn how to install and uninstall various software applications."
+msgstr "在本课程中，您将学会通过多种不同的途径设置 Ubuntu 桌面，以使它符合您的需求。您还会学到如何安装和卸载各种软件应用程序。"
 
 #: chapter6/xinclude.xml:53(title)
 msgid "Customising the Desktop"
 msgstr "自定义桌面"
 
 #: chapter6/xinclude.xml:55(para)
-msgid ""
-"Ubuntu and its derivatives can be customised through a Graphical User "
-"Interface or a Command Line Interface."
+msgid "Ubuntu and its derivatives can be customised through a Graphical User Interface or a Command Line Interface."
 msgstr "Ubuntu 及其衍生版本皆可通过图形用户界面或命令行界面进行自定义。"
 
 #: chapter6/xinclude.xml:58(para)
-msgid ""
-"The graphical tools to customize the desktop are available as menu options "
-"in the <emphasis role=\"strong\">System</emphasis> menu. Point to <emphasis "
-"role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong"
-"\">System menu</emphasis> to view the tools."
-msgstr ""
-"自定义桌面的图形工具在 <emphasis role=\"strong\">系统</emphasis> 菜单中作为菜单"
-"选项出现。点击 <emphasis role=\"strong\">系统</emphasis> 菜单的 <emphasis role="
-"\"strong\">首选项</emphasis> 可查看这些工具。"
+msgid "The graphical tools to customize the desktop are available as menu options in the <emphasis role=\"strong\">System</emphasis> menu. Point to <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">System menu</emphasis> to view the tools."
+msgstr "自定义桌面的图形工具在 <emphasis role=\"strong\">系统</emphasis> 菜单中作为菜单选项出现。点击 <emphasis role=\"strong\">系统</emphasis> 菜单的 <emphasis role=\"strong\">首选项</emphasis> 可查看这些工具。"
 
-#: chapter6/xinclude.xml:63(title) chapter6/xinclude.xml:370(title)
-#: chapter6/xinclude.xml:426(title) chapter6/xinclude.xml:919(title)
-#: chapter6/xinclude.xml:976(title) chapter6/xinclude.xml:1031(title)
-#: chapter6/xinclude.xml:1049(title) chapter6/xinclude.xml:1082(title)
-#: chapter6/xinclude.xml:1204(title) chapter6/xinclude.xml:1260(title)
-#: chapter6/xinclude.xml:1285(title) chapter6/xinclude.xml:1413(title)
-#: chapter6/xinclude.xml:1442(title) chapter6/xinclude.xml:1633(title)
+#: chapter6/xinclude.xml:63(title)
+#: chapter6/xinclude.xml:370(title)
+#: chapter6/xinclude.xml:426(title)
+#: chapter6/xinclude.xml:919(title)
+#: chapter6/xinclude.xml:976(title)
+#: chapter6/xinclude.xml:1031(title)
+#: chapter6/xinclude.xml:1049(title)
+#: chapter6/xinclude.xml:1082(title)
+#: chapter6/xinclude.xml:1204(title)
+#: chapter6/xinclude.xml:1260(title)
+#: chapter6/xinclude.xml:1285(title)
+#: chapter6/xinclude.xml:1413(title)
+#: chapter6/xinclude.xml:1442(title)
+#: chapter6/xinclude.xml:1633(title)
 #: chapter6/xinclude.xml:1665(title)
 msgid "Note:"
 msgstr "注："
 
 #: chapter6/xinclude.xml:65(para)
-msgid ""
-"The System - Preferences menu enables users to customise their own desktop "
-"environment but not that of other users on the same computer. In contrast, "
-"applications on the System - Administration menu will make changes to the "
-"computer that will affect all users."
-msgstr ""
-"系统 - 首选项菜单让用户可自定义其自己的桌面环境，但不能自定义同一台计算机上其"
-"它用户的桌面。相反，系统 - 管理菜单中的更改会应用于计算机上的所有用户。"
+msgid "The System - Preferences menu enables users to customise their own desktop environment but not that of other users on the same computer. In contrast, applications on the System - Administration menu will make changes to the computer that will affect all users."
+msgstr "系统 - 首选项菜单让用户可自定义其自己的桌面环境，但不能自定义同一台计算机上其它用户的桌面。相反，系统 - 管理菜单中的更改会应用于计算机上的所有用户。"
 
 #: chapter6/xinclude.xml:72(title)
 msgid "Changing the Background"
@@ -685,42 +447,27 @@ msgid "To change the default Ubuntu background select:"
 msgstr "更改默认 Ubuntu 背景配置："
 
 #: chapter6/xinclude.xml:81(para)
-msgid ""
-"On the <emphasis role=\"strong\">System </emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong"
-"\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
-"Preferences</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</"
-"emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System </emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:87(title)
 msgid "Launching Appearance Preferences Dialogue Box"
 msgstr "启动外观首选项对话框"
 
-#: chapter6/xinclude.xml:97(title) chapter6/xinclude.xml:121(title)
-#: chapter6/xinclude.xml:988(title) chapter6/xinclude.xml:1108(title)
+#: chapter6/xinclude.xml:97(title)
+#: chapter6/xinclude.xml:121(title)
+#: chapter6/xinclude.xml:988(title)
+#: chapter6/xinclude.xml:1108(title)
 msgid "Nice to Know:"
 msgstr "小提示："
 
 #: chapter6/xinclude.xml:99(para)
-msgid ""
-"You can also right-click the desktop and select <emphasis role=\"strong"
-"\">Change Desktop Background</emphasis> to open the <emphasis role=\"strong"
-"\">Appearance Preferences</emphasis> dialogue box."
-msgstr ""
-"您也可以右键点击桌面并选择 <emphasis role=\"strong\">更改桌面背景</emphasis> 来"
-"打开 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
+msgid "You can also right-click the desktop and select <emphasis role=\"strong\">Change Desktop Background</emphasis> to open the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr "您也可以右键点击桌面并选择 <emphasis role=\"strong\">更改桌面背景</emphasis> 来打开 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:106(para)
-msgid ""
-"In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
-"box, select a desktop wallpaper from the available wallpapers. The "
-"background changes immediately."
-msgstr ""
-"在 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中，选择一张可用的墙"
-"纸。背景将立即更改。"
+msgid "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box, select a desktop wallpaper from the available wallpapers. The background changes immediately."
+msgstr "在 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中，选择一张可用的墙纸。背景将立即更改。"
 
 #: chapter6/xinclude.xml:111(title)
 msgid "Changing the Desktop Wallpaper"
@@ -731,83 +478,45 @@ msgid "To view the name of the wallpaper, move the pointer over its name."
 msgstr "要查看墙纸的名称，请将指针移到其名称上。"
 
 #: chapter6/xinclude.xml:129(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role="
-"\"strong\">Appearance Preferences</emphasis> dialogue box to apply the "
-"changes."
-msgstr ""
-"点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role="
-"\"strong\">关闭</emphasis> 以应用更改。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box to apply the changes."
+msgstr "点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role=\"strong\">关闭</emphasis> 以应用更改。"
 
 #: chapter6/xinclude.xml:134(title)
 msgid "Applying Preference Change"
 msgstr "应用首选项更改"
 
-#: chapter6/xinclude.xml:146(title) chapter6/xinclude.xml:189(emphasis)
+#: chapter6/xinclude.xml:146(title)
+#: chapter6/xinclude.xml:189(emphasis)
 msgid "Adding a New Wallpaper"
 msgstr "添加新墙纸"
 
 #: chapter6/xinclude.xml:148(para)
-msgid ""
-"In addition to the wallpapers available with Ubuntu, you can download "
-"wallpapers from other sources and add them to the available wallpapers list "
-"in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
-"box. To do this:"
-msgstr ""
-"除了 Ubuntu 提供的墙纸之外，您可以从其它来源下载墙纸并将它们添入 <emphasis "
-"role=\"strong\">外观对话框</emphasis> 中的可用墙纸列表。步骤如下："
+msgid "In addition to the wallpapers available with Ubuntu, you can download wallpapers from other sources and add them to the available wallpapers list in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box. To do this:"
+msgstr "除了 Ubuntu 提供的墙纸之外，您可以从其它来源下载墙纸并将它们添入 <emphasis role=\"strong\">外观对话框</emphasis> 中的可用墙纸列表。步骤如下："
 
 #: chapter6/xinclude.xml:154(para)
-msgid ""
-"Open the Web site <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/"
-"</ulink> and click <emphasis role=\"strong\">Backgrounds</emphasis>."
-msgstr ""
-"打开网站 <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> 然"
-"后点击 <emphasis role=\"strong\">背景</emphasis>。"
+msgid "Open the Web site <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> and click <emphasis role=\"strong\">Backgrounds</emphasis>."
+msgstr "打开网站 <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> 然后点击 <emphasis role=\"strong\">背景</emphasis>。"
 
 #: chapter6/xinclude.xml:158(emphasis)
 msgid "Opening Wallpaper Source"
 msgstr "打开墙纸来源"
 
 #: chapter6/xinclude.xml:170(para)
-msgid ""
-"Download the wallpaper of your choice. During the download, you can view the "
-"screen resolutions available for the selected wallpaper. You should download "
-"and save the version of your chosen wallpaper that matches the screen "
-"resolution of your computer."
-msgstr ""
-"下载您中意的墙纸。在下载过程中，您可以查看所选墙纸的可用屏幕分辨率。您应该下"
-"载并保存所选墙纸中符合您计算机屏幕分辨率的版本。"
+msgid "Download the wallpaper of your choice. During the download, you can view the screen resolutions available for the selected wallpaper. You should download and save the version of your chosen wallpaper that matches the screen resolution of your computer."
+msgstr "下载您中意的墙纸。在下载过程中，您可以查看所选墙纸的可用屏幕分辨率。您应该下载并保存所选墙纸中符合您计算机屏幕分辨率的版本。"
 
 #: chapter6/xinclude.xml:178(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong"
-"\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
-"Preferences</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</"
-"emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:185(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Background</emphasis> tab and then click "
-"<emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add "
-"Wallpaper</emphasis> dialogue box opens."
-msgstr ""
-"点击 <emphasis role=\"strong\">背景</emphasis> 标签，然后点击 <emphasis role="
-"\"strong\">添加</emphasis>。将弹出 <emphasis role=\"strong\">添加壁纸</"
-"emphasis> 对话框。"
+msgid "Click the <emphasis role=\"strong\">Background</emphasis> tab and then click <emphasis role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add Wallpaper</emphasis> dialogue box opens."
+msgstr "点击 <emphasis role=\"strong\">背景</emphasis> 标签，然后点击 <emphasis role=\"strong\">添加</emphasis>。将弹出 <emphasis role=\"strong\">添加壁纸</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:201(para)
-msgid ""
-"In the <emphasis role=\"strong\">Add Wallpaper</emphasis> dialogue box, "
-"select the downloaded image and click <emphasis role=\"strong\">Open</"
-"emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">添加壁纸</emphasis> 对话框中，选择下载的图像，点击"
-" <emphasis role=\"strong\">打开</emphasis>。"
+msgid "In the <emphasis role=\"strong\">Add Wallpaper</emphasis> dialogue box, select the downloaded image and click <emphasis role=\"strong\">Open</emphasis>."
+msgstr "在 <emphasis role=\"strong\">添加壁纸</emphasis> 对话框中，选择下载的图像，点击 <emphasis role=\"strong\">打开</emphasis>。"
 
 #: chapter6/xinclude.xml:205(emphasis)
 msgid "Selecting Downloaded Wallpaper"
@@ -818,13 +527,8 @@ msgid "This step adds the image as new wallpaper."
 msgstr "这步会把图像添加为墙纸。"
 
 #: chapter6/xinclude.xml:219(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role="
-"\"strong\">Appearance Preferences</emphasis> dialogue box to accept the "
-"changes. You can now view the new desktop background."
-msgstr ""
-"点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role="
-"\"strong\">关闭</emphasis> 以接受更改。您现在可以看到新的桌面背景了。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box to accept the changes. You can now view the new desktop background."
+msgstr "点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role=\"strong\">关闭</emphasis> 以接受更改。您现在可以看到新的桌面背景了。"
 
 #: chapter6/xinclude.xml:225(emphasis)
 msgid "Added Wallpaper"
@@ -835,15 +539,8 @@ msgid "Nice to know:"
 msgstr "小提示："
 
 #: chapter6/xinclude.xml:239(para)
-msgid ""
-"You can, of course, use a picture from any other source to use as your "
-"desktop background. Many popular online photo collaboration sites allow "
-"visitors to download and use their content for personal use. Many people "
-"also use their own digital photographs as backgrounds."
-msgstr ""
-"当然，您也可以将其它任何来源的图片用作桌面背景。许多热门的在线照片分享站点允许访"
-"客以个人使用名义下载并使用他们的内容。还有很多人把他们自己的数码照片设为背"
-"景。"
+msgid "You can, of course, use a picture from any other source to use as your desktop background. Many popular online photo collaboration sites allow visitors to download and use their content for personal use. Many people also use their own digital photographs as backgrounds."
+msgstr "当然，您也可以将其它任何来源的图片用作桌面背景。许多热门的在线照片分享站点允许访客以个人使用名义下载并使用他们的内容。还有很多人把他们自己的数码照片设为背景。"
 
 #: chapter6/xinclude.xml:247(title)
 msgid "Changing the Colour of the Background"
@@ -854,68 +551,36 @@ msgid "To change the colour of the background:"
 msgstr "更改背景颜色步骤："
 
 #: chapter6/xinclude.xml:252(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong"
-"\">Appearance</emphasis> to open the <emphasis role=\"strong\">Appearance "
-"Preferences</emphasis> dialogue box."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</"
-"emphasis> 以打开 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong\">Appearance</emphasis> to open the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</emphasis> 以打开 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:258(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Background</emphasis> tab and select the "
-"wallpaper <emphasis role=\"strong\">No Wallpaper</emphasis>. You can only "
-"view colours if you have not set any desktop wallpaper."
-msgstr ""
-"点击 <emphasis role=\"strong\">背景</emphasis> 标签并选择 <emphasis role="
-"\"strong\">无墙纸</emphasis>。如果您未设定任何桌面墙纸，您将只能看到颜色。"
+msgid "Click the <emphasis role=\"strong\">Background</emphasis> tab and select the wallpaper <emphasis role=\"strong\">No Wallpaper</emphasis>. You can only view colours if you have not set any desktop wallpaper."
+msgstr "点击 <emphasis role=\"strong\">背景</emphasis> 标签并选择 <emphasis role=\"strong\">无墙纸</emphasis>。如果您未设定任何桌面墙纸，您将只能看到颜色。"
 
 #: chapter6/xinclude.xml:264(emphasis)
 msgid "Changing Background Colour"
 msgstr "更改背景颜色"
 
 #: chapter6/xinclude.xml:276(para)
-msgid ""
-"The <emphasis role=\"strong\">Colours</emphasis> box provides three types of "
-"background: <emphasis role=\"strong\">Solid colour, Horizontal gradient</"
-"emphasis> and <emphasis role=\"strong\">Vertical gradient</emphasis>. Select "
-"the desktop colour of your choice and then click the colour chip next to the "
-"<emphasis role=\"strong\">Colours</emphasis> box. The <emphasis role=\"strong"
-"\">Pick a Colour</emphasis> dialogue box opens."
-msgstr ""
-"<emphasis role=\"strong\">颜色</emphasis> 框提供三种背景类型：<emphasis role="
-"\"strong\">纯色、水平渐变</emphasis> 以及 <emphasis role=\"strong\">垂直渐变</"
-"emphasis>。选择您中意的桌面颜色，然后点击 <emphasis role=\"strong\">颜色</"
-"emphasis> 框旁边的彩色方块，弹出 <emphasis role=\"strong\">拾取颜色</"
-"emphasis> 对话框。"
+msgid "The <emphasis role=\"strong\">Colours</emphasis> box provides three types of background: <emphasis role=\"strong\">Solid colour, Horizontal gradient</emphasis> and <emphasis role=\"strong\">Vertical gradient</emphasis>. Select the desktop colour of your choice and then click the colour chip next to the <emphasis role=\"strong\">Colours</emphasis> box. The <emphasis role=\"strong\">Pick a Colour</emphasis> dialogue box opens."
+msgstr "<emphasis role=\"strong\">颜色</emphasis> 框提供三种背景类型：<emphasis role=\"strong\">纯色、水平渐变</emphasis> 以及 <emphasis role=\"strong\">垂直渐变</emphasis>。选择您中意的桌面颜色，然后点击 <emphasis role=\"strong\">颜色</emphasis> 框旁边的彩色方块，弹出 <emphasis role=\"strong\">拾取颜色</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:283(emphasis)
 msgid "Selecting a colour Option"
 msgstr "选择颜色选项"
 
 #: chapter6/xinclude.xml:295(para)
-msgid ""
-"Select a colour or the attributes of a colour such as hue and saturation to "
-"create a colour of your choice. Click <emphasis role=\"strong\">OK</"
-"emphasis>. The desktop reflects the new settings immediately."
-msgstr ""
-"选择一种颜色或诸如色调和饱和度之类的颜色属性来创建您中意的颜色。点击 "
-"<emphasis role=\"strong\">确定</emphasis>。桌面会立即按新设置发生变化。"
+msgid "Select a colour or the attributes of a colour such as hue and saturation to create a colour of your choice. Click <emphasis role=\"strong\">OK</emphasis>. The desktop reflects the new settings immediately."
+msgstr "选择一种颜色或诸如色调和饱和度之类的颜色属性来创建您中意的颜色。点击 <emphasis role=\"strong\">确定</emphasis>。桌面会立即按新设置发生变化。"
 
 #: chapter6/xinclude.xml:300(emphasis)
 msgid "Specifying Colour"
 msgstr "拾取颜色"
 
 #: chapter6/xinclude.xml:312(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> to close the <emphasis role="
-"\"strong\">Appearance Preferences</emphasis> dialogue box."
-msgstr ""
-"点击 <emphasis role=\"strong\">关闭</emphasis> 以关闭 <emphasis role=\"strong\">"
-"外观首选项</emphasis> 对话框。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> to close the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr "点击 <emphasis role=\"strong\">关闭</emphasis> 以关闭 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:317(emphasis)
 msgid "Changed Background Colour"
@@ -926,56 +591,28 @@ msgid "Customising the Theme (Buttons &amp; icons etc)"
 msgstr "自定义主题(按钮 &amp; 图标等)"
 
 #: chapter6/xinclude.xml:333(para)
-msgid ""
-"The desktop theme controls the visual appearance of the buttons, scroll "
-"bars, icons, panels, borders etc. A number of themes are provided with "
-"Ubuntu."
-msgstr ""
-"桌面主题控制着按钮、滚动条、图标、面板、边框等元素的外观。Ubuntu 便提供了一些"
-"主题。"
+msgid "The desktop theme controls the visual appearance of the buttons, scroll bars, icons, panels, borders etc. A number of themes are provided with Ubuntu."
+msgstr "桌面主题控制着按钮、滚动条、图标、面板、边框等元素的外观。Ubuntu 便提供了一些主题。"
 
 #: chapter6/xinclude.xml:338(title)
 msgid "To select a theme for your desktop:"
 msgstr "为您的桌面选择主题："
 
 #: chapter6/xinclude.xml:341(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong"
-"\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
-"Preferences</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</"
-"emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:348(para)
-msgid ""
-"On the <emphasis role=\"strong\">Theme</emphasis> tab, select the theme of "
-"your choice. The desktop reflects the theme automatically. To customise your "
-"theme further, click <emphasis role=\"strong\">Customise</emphasis>. The "
-"<emphasis role=\"strong\">Customise Theme</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">主题</emphasis> 标签内选择您中意的主题。桌面将立即"
-"改变其主题。想要更全面地自定义您的主题，请点击 <emphasis role=\"strong\">自定"
-"义</emphasis>，弹出 <emphasis role=\"strong\">自定义主题</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">Theme</emphasis> tab, select the theme of your choice. The desktop reflects the theme automatically. To customise your theme further, click <emphasis role=\"strong\">Customise</emphasis>. The <emphasis role=\"strong\">Customise Theme</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">主题</emphasis> 标签内选择您中意的主题。桌面将立即改变其主题。想要更全面地自定义您的主题，请点击 <emphasis role=\"strong\">自定义</emphasis>，弹出 <emphasis role=\"strong\">自定义主题</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:353(title)
 msgid "Customising Desktop Theme"
 msgstr "自定义桌面主题"
 
 #: chapter6/xinclude.xml:364(para)
-msgid ""
-"The default selection is <emphasis role=\"strong\">Controls</emphasis> tab. "
-"The setting on the <emphasis role=\"strong\">Controls</emphasis> tabbed page "
-"defines the visual appearance of windows, panels and applets. Select a "
-"control from the <emphasis role=\"strong\">Controls</emphasis> list. You "
-"will see an immediate change in the appearance of the open windows."
-msgstr ""
-"默认选中的标签是 <emphasis role=\"strong\">控件</emphasis>。<emphasis role="
-"\"strong\">控件</emphasis> 标签页中的设置决定了窗口、面板和小程序的外观。请在 "
-"<emphasis role=\"strong\">控件</emphasis> 列表中选择一种控件。您将立即看到已打"
-"开窗口外观的变化。"
+msgid "The default selection is <emphasis role=\"strong\">Controls</emphasis> tab. The setting on the <emphasis role=\"strong\">Controls</emphasis> tabbed page defines the visual appearance of windows, panels and applets. Select a control from the <emphasis role=\"strong\">Controls</emphasis> list. You will see an immediate change in the appearance of the open windows."
+msgstr "默认选中的标签是 <emphasis role=\"strong\">控件</emphasis>。<emphasis role=\"strong\">控件</emphasis> 标签页中的设置决定了窗口、面板和小程序的外观。请在 <emphasis role=\"strong\">控件</emphasis> 列表中选择一种控件。您将立即看到已打开窗口外观的变化。"
 
 #: chapter6/xinclude.xml:372(para)
 msgid "You can customise the following objects on the screen:"
@@ -986,26 +623,16 @@ msgid "Window:"
 msgstr "窗口："
 
 #: chapter6/xinclude.xml:378(para)
-msgid ""
-"A rectangular area of the screen with a border and a title bar at the top. "
-"All graphical applications run inside windows."
-msgstr ""
-"一个矩形屏幕区域，带有边框和位于上部的标题栏。所有图形应用程序都在窗口内运"
-"行。"
+msgid "A rectangular area of the screen with a border and a title bar at the top. All graphical applications run inside windows."
+msgstr "一个矩形屏幕区域，带有边框和位于上部的标题栏。所有图形应用程序都在窗口内运行。"
 
 #: chapter6/xinclude.xml:384(title)
 msgid "Panel:"
 msgstr "面板："
 
 #: chapter6/xinclude.xml:386(para)
-msgid ""
-"An area on the desktop from where you can access information such as date "
-"and time. You can also launch applications and add or remove objects from "
-"panels. The Ubuntu desktop contains two panels, the top edge panel at the "
-"top of the screen and the bottom edge panel at the bottom of the screen."
-msgstr ""
-"一块桌面区域，您访问如日期和时间之类信息的地方。您也从面板上启动应用程序以及"
-"添加或删除对象。Ubuntu 桌面包含两块面板，一块在屏幕顶部，一块在屏幕底部。"
+msgid "An area on the desktop from where you can access information such as date and time. You can also launch applications and add or remove objects from panels. The Ubuntu desktop contains two panels, the top edge panel at the top of the screen and the bottom edge panel at the bottom of the screen."
+msgstr "一块桌面区域，您访问如日期和时间之类信息的地方。您也从面板上启动应用程序以及添加或删除对象。Ubuntu 桌面包含两块面板，一块在屏幕顶部，一块在屏幕底部。"
 
 #: chapter6/xinclude.xml:395(title)
 msgid "Applet:"
@@ -1020,108 +647,55 @@ msgid "Window Border:"
 msgstr "窗口边框："
 
 #: chapter6/xinclude.xml:404(para)
-msgid ""
-"The border that appears around windows. It has a frame at the top of the "
-"window that contains the name of the application and the edges that allow "
-"you to resize the window."
-msgstr ""
-"窗口周围所显示的边框。它在窗口顶部有个包含应用程序名称的结构，以及允许您调整"
-"窗口大小的边。"
+msgid "The border that appears around windows. It has a frame at the top of the window that contains the name of the application and the edges that allow you to resize the window."
+msgstr "窗口周围所显示的边框。它在窗口顶部有个包含应用程序名称的结构，以及允许您调整窗口大小的边。"
 
 #: chapter6/xinclude.xml:410(title)
 msgid "Icon:"
 msgstr "图标："
 
 #: chapter6/xinclude.xml:412(para)
-msgid ""
-"A graphical symbol for the applications and options on the panels and "
-"windows."
+msgid "A graphical symbol for the applications and options on the panels and windows."
 msgstr "一种面板和窗口上的图形，代表应用程序和选项。"
 
 #: chapter6/xinclude.xml:417(para)
-msgid ""
-"Similarly, you can customise the background and text colour of your windows, "
-"input boxes and selected items by configuring the settings on the <emphasis "
-"role=\"strong\">Colours</emphasis> tab."
-msgstr ""
-"同样，您还能通过配置 <emphasis role=\"strong\">颜色</emphasis> 标签中的设置自定"
-"义窗口、输入框和选中项的背景色及文本颜色。"
+msgid "Similarly, you can customise the background and text colour of your windows, input boxes and selected items by configuring the settings on the <emphasis role=\"strong\">Colours</emphasis> tab."
+msgstr "同样，您还能通过配置 <emphasis role=\"strong\">颜色</emphasis> 标签中的设置自定义窗口、输入框和选中项的背景色及文本颜色。"
 
 #: chapter6/xinclude.xml:422(para)
-msgid ""
-"If you want to customise your window borders and icons, click the <emphasis "
-"role=\"strong\">Window Border</emphasis> and <emphasis role=\"strong"
-"\">Icons</emphasis> tabs in the <emphasis role=\"strong\">Customise Theme</"
-"emphasis> dialogue box."
-msgstr ""
-"如果您想要自定义窗口边框和图标，请点击 <emphasis role=\"strong\">自定义主题</"
-"emphasis> 对话框中的 <emphasis role=\"strong\">窗口边框</emphasis> 和 <emphasis "
-"role=\"strong\">图标</emphasis> 标签。"
+msgid "If you want to customise your window borders and icons, click the <emphasis role=\"strong\">Window Border</emphasis> and <emphasis role=\"strong\">Icons</emphasis> tabs in the <emphasis role=\"strong\">Customise Theme</emphasis> dialogue box."
+msgstr "如果您想要自定义窗口边框和图标，请点击 <emphasis role=\"strong\">自定义主题</emphasis> 对话框中的 <emphasis role=\"strong\">窗口边框</emphasis> 和 <emphasis role=\"strong\">图标</emphasis> 标签。"
 
 #: chapter6/xinclude.xml:428(para)
-msgid ""
-"Ubuntu provides additional options to customise your themes. You can "
-"download more controls, window borders and icons from the Web site <ulink "
-"url=\"http://art.gnome.org\">http://art.gnome.org</ulink> and save it at any "
-"location on your computer. While customising the theme, click <emphasis role="
-"\"strong\">Install</emphasis> in the <emphasis role=\"strong\">Appearance "
-"Preferences</emphasis> dialogue box. The <emphasis role=\"strong\">Select "
-"Theme</emphasis> dialogue box opens, and you can select the downloaded "
-"objects."
-msgstr ""
-"Ubuntu 提供了更多选项方便您自定义主题。您可以从网站 <ulink url=\"http://art."
-"gnome.org\">http://art.gnome.org</ulink> 下载更多控件、窗口边框和图标并保存在"
-"您计算机上任何位置。当自定义主题时，只需点击 <emphasis role=\"strong\">外观首"
-"选项</emphasis> 对话框中的 <emphasis role=\"strong\">安装</emphasis>。弹出 "
-"<emphasis role=\"strong\">选择主题</emphasis> 对话框后，您便可选择下载的东西。"
+msgid "Ubuntu provides additional options to customise your themes. You can download more controls, window borders and icons from the Web site <ulink url=\"http://art.gnome.org\">http://art.gnome.org</ulink> and save it at any location on your computer. While customising the theme, click <emphasis role=\"strong\">Install</emphasis> in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box. The <emphasis role=\"strong\">Select Theme</emphasis> dialogue box opens, and you can select the downloaded objects."
+msgstr "Ubuntu 提供了更多选项方便您自定义主题。您可以从网站 <ulink url=\"http://art.gnome.org\">http://art.gnome.org</ulink> 下载更多控件、窗口边框和图标并保存在您计算机上任何位置。当自定义主题时，只需点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role=\"strong\">安装</emphasis>。弹出 <emphasis role=\"strong\">选择主题</emphasis> 对话框后，您便可选择下载的东西。"
 
 #: chapter6/xinclude.xml:438(title)
 msgid "Selecting Theme Controls"
 msgstr "选择主题控件"
 
 #: chapter6/xinclude.xml:449(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role="
-"\"strong\">Customise Theme</emphasis> dialogue box. To save the theme, click "
-"<emphasis role=\"strong\">Save As</emphasis> in the <emphasis role=\"strong"
-"\">Appearance Preferences</emphasis> dialogue box. The <emphasis role="
-"\"strong\">Save Theme As</emphasis> dialogue box opens."
-msgstr ""
-"点击 <emphasis role=\"strong\">自定义主题</emphasis> 对话框中的 <emphasis role="
-"\"strong\">关闭</emphasis>。要保存主题，请点击 <emphasis role=\"strong\">外观"
-"首选项</emphasis> 对话框中的 <emphasis role=\"strong\">另存为</emphasis>，弹出 "
-"<emphasis role=\"strong\">主题另存为</emphasis> 对话框。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">Customise Theme</emphasis> dialogue box. To save the theme, click <emphasis role=\"strong\">Save As</emphasis> in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box. The <emphasis role=\"strong\">Save Theme As</emphasis> dialogue box opens."
+msgstr "点击 <emphasis role=\"strong\">自定义主题</emphasis> 对话框中的 <emphasis role=\"strong\">关闭</emphasis>。要保存主题，请点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role=\"strong\">另存为</emphasis>，弹出 <emphasis role=\"strong\">主题另存为</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:457(title)
 msgid "Saving a Modified Theme"
 msgstr "保存已修改的主题"
 
 #: chapter6/xinclude.xml:468(para)
-msgid ""
-"Provide a name for the theme in the <emphasis role=\"strong\">Name </"
-"emphasis> box and a description, if you want, in the <emphasis role=\"strong"
-"\">Description </emphasis> box. Click <emphasis role=\"strong\">Save</"
-"emphasis>."
-msgstr ""
-"为主题提供一个 <emphasis role=\"strong\">名称</emphasis>，如果你愿意的话，还可"
-"在 <emphasis role=\"strong\">描述</emphasis> 框中写下描述。点击 <emphasis role="
-"\"strong\">保存</emphasis>。"
+msgid "Provide a name for the theme in the <emphasis role=\"strong\">Name </emphasis> box and a description, if you want, in the <emphasis role=\"strong\">Description </emphasis> box. Click <emphasis role=\"strong\">Save</emphasis>."
+msgstr "为主题提供一个 <emphasis role=\"strong\">名称</emphasis>，如果你愿意的话，还可在 <emphasis role=\"strong\">描述</emphasis> 框中写下描述。点击 <emphasis role=\"strong\">保存</emphasis>。"
 
 #: chapter6/xinclude.xml:473(title)
 msgid "Specifying Theme Name and Description"
 msgstr "指定主题名称和描述"
 
 #: chapter6/xinclude.xml:484(para)
-msgid ""
-"In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
-"box, click <emphasis role=\"strong\">Close</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中，点击 <emphasis "
-"role=\"strong\">关闭</emphasis>。"
+msgid "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box, click <emphasis role=\"strong\">Close</emphasis>."
+msgstr "在 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中，点击 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter6/xinclude.xml:489(para)
-msgid ""
-"If you open a menu or window, you can see the changes in their appearance."
+msgid "If you open a menu or window, you can see the changes in their appearance."
 msgstr "如果您打开菜单或窗口，你将会看到其外观的变化。"
 
 #: chapter6/xinclude.xml:493(title)
@@ -1133,60 +707,35 @@ msgid "Installing New Themes"
 msgstr "安装新主题"
 
 #: chapter6/xinclude.xml:505(para)
-msgid ""
-"You can also download other Ubuntu-compatible themes from Ubuntu's "
-"recommended source. To install these themes:"
-msgstr ""
-"您还可以从 Ubuntu 推荐的来源下载其它与 Ubuntu 兼容的主题。安装这些主题的步"
-"骤："
+msgid "You can also download other Ubuntu-compatible themes from Ubuntu's recommended source. To install these themes:"
+msgstr "您还可以从 Ubuntu 推荐的来源下载其它与 Ubuntu 兼容的主题。安装这些主题的步骤："
 
 #: chapter6/xinclude.xml:509(para)
-msgid ""
-"Open the Web site(<ulink url=\"http://art.gnome.org/\">http://art.gnome.org/"
-"</ulink>) and click <emphasis role=\"strong\">DesktopThemes</emphasis>."
-msgstr ""
-"打开网站(<ulink url=\"http://art.gnome.org/\">http://art.gnome.org</ulink>)然"
-"后点击 <emphasis role=\"strong\">桌面主题</emphasis>。"
+msgid "Open the Web site(<ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>) and click <emphasis role=\"strong\">DesktopThemes</emphasis>."
+msgstr "打开网站(<ulink url=\"http://art.gnome.org/\">http://art.gnome.org</ulink>)然后点击 <emphasis role=\"strong\">桌面主题</emphasis>。"
 
 #: chapter6/xinclude.xml:513(emphasis)
 msgid "Opening Theme Source"
 msgstr "打开主题来源"
 
 #: chapter6/xinclude.xml:525(para)
-msgid ""
-"Download a theme of your choice. Select any theme and follow the "
-"instructions as they appear."
+msgid "Download a theme of your choice. Select any theme and follow the instructions as they appear."
 msgstr "下载您中意的主题。选择其一并按照其所给的步骤进行。"
 
 #: chapter6/xinclude.xml:530(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences </emphasis> and click <emphasis role=\"strong"
-"\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
-"Preferences</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</"
-"emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences </emphasis> and click <emphasis role=\"strong\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">外观</emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:537(para)
-msgid ""
-"On the <emphasis role=\"strong\">Theme</emphasis> tab, click <emphasis role="
-"\"strong\">Install</emphasis>. The <emphasis role=\"strong\">Select Theme</"
-"emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">主题</emphasis> 标签中，点击 <emphasis role="
-"\"strong\">安装</emphasis>，弹出 <emphasis role=\"strong\">选择主题</emphasis> "
-"对话框。"
+msgid "On the <emphasis role=\"strong\">Theme</emphasis> tab, click <emphasis role=\"strong\">Install</emphasis>. The <emphasis role=\"strong\">Select Theme</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">主题</emphasis> 标签中，点击 <emphasis role=\"strong\">安装</emphasis>，弹出 <emphasis role=\"strong\">选择主题</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:541(emphasis)
 msgid "Installing a New Theme"
 msgstr "安装新主题"
 
 #: chapter6/xinclude.xml:553(para)
-msgid ""
-"Select the downloaded theme and click <emphasis role=\"strong\">Open</"
-"emphasis>."
+msgid "Select the downloaded theme and click <emphasis role=\"strong\">Open</emphasis>."
 msgstr "选择下载的主题并点击 <emphasis role=\"strong\">打开</emphasis>。"
 
 #: chapter6/xinclude.xml:556(emphasis)
@@ -1194,25 +743,16 @@ msgid "Selecting the Downloaded Theme"
 msgstr "选择已下载的主题"
 
 #: chapter6/xinclude.xml:568(para)
-msgid ""
-"You can apply a new theme or retain the current theme. Click <emphasis role="
-"\"strong\">Apply New Theme</emphasis> to apply the new theme. The screen "
-"will reflect the new theme immediately."
-msgstr ""
-"您可应用新的主题或保持当前主题。点击 <emphasis role=\"strong\">应用新主题</"
-"emphasis> 以应用新的主题。屏幕上的主题将立即发生变化。"
+msgid "You can apply a new theme or retain the current theme. Click <emphasis role=\"strong\">Apply New Theme</emphasis> to apply the new theme. The screen will reflect the new theme immediately."
+msgstr "您可应用新的主题或保持当前主题。点击 <emphasis role=\"strong\">应用新主题</emphasis> 以应用新的主题。屏幕上的主题将立即发生变化。"
 
 #: chapter6/xinclude.xml:573(emphasis)
 msgid "Applying New Theme"
 msgstr "应用新主题"
 
 #: chapter6/xinclude.xml:585(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role="
-"\"strong\">Appearance Preferences</emphasis> dialogue box."
-msgstr ""
-"点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role="
-"\"strong\">关闭</emphasis>。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue box."
+msgstr "点击 <emphasis role=\"strong\">外观首选项</emphasis> 对话框中的 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter6/xinclude.xml:589(para)
 msgid "If you open any menu or window, it will reflect the selected theme."
@@ -1227,38 +767,23 @@ msgid "Customising a Screensaver"
 msgstr "自定义屏幕保护"
 
 #: chapter6/xinclude.xml:609(para)
-msgid ""
-"A screensaver displays (often moving) images on the screen when your "
-"computer is switched on but not in use. To go back to the workspace, you can "
-"move the mouse or press any key on the keyboard."
-msgstr ""
-"屏幕保护会在您计算机开启却不用时在屏幕上显示图像(经常是动态的)。要返回工作"
-"区，您可以移动下鼠标或按下键盘上的任意键。"
+msgid "A screensaver displays (often moving) images on the screen when your computer is switched on but not in use. To go back to the workspace, you can move the mouse or press any key on the keyboard."
+msgstr "屏幕保护会在您计算机开启却不用时在屏幕上显示图像(经常是动态的)。要返回工作区，您可以移动下鼠标或按下键盘上的任意键。"
 
 #: chapter6/xinclude.xml:615(title)
-msgid ""
-"You can choose a screensaver and customise it. To customise a screensaver:"
+msgid "You can choose a screensaver and customise it. To customise a screensaver:"
 msgstr "您可以选择一个屏幕保护来自定义。自定义屏幕保护步骤："
 
 #: chapter6/xinclude.xml:619(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong"
-"\">Screensaver</emphasis>. The <emphasis role=\"strong\">Screensaver "
-"Preferences </emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">屏幕保护程序</"
-"emphasis>，弹出 <emphasis role=\"strong\">屏幕保护程序首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong\">Screensaver</emphasis>. The <emphasis role=\"strong\">Screensaver Preferences </emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">屏幕保护程序</emphasis>，弹出 <emphasis role=\"strong\">屏幕保护程序首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:625(title)
 msgid "Launching Screensaver Preferences Dialogue Box"
 msgstr "启动屏幕保护程序首选项对话框"
 
 #: chapter6/xinclude.xml:636(para)
-msgid ""
-"Select a screensaver from the list. You can preview the screensaver in the "
-"right pane."
+msgid "Select a screensaver from the list. You can preview the screensaver in the right pane."
 msgstr "从列表中选择一个屏幕保护。您可在右侧面板中预览该屏幕保护。"
 
 #: chapter6/xinclude.xml:640(title)
@@ -1266,37 +791,19 @@ msgid "Customising Screensaver Settings"
 msgstr "自定义屏幕保护程序设置"
 
 #: chapter6/xinclude.xml:651(para)
-msgid ""
-"The <emphasis role=\"strong\">Regard the computer as idle after</emphasis> "
-"slider specifies when a screensaver starts to work if the computer is not in "
-"use. The default time is set to 10 minutes. You can use this slider to "
-"select how long the computer needs to be idle before the screensaver "
-"activates."
-msgstr ""
-"<emphasis role=\"strong\">于此时间后视计算机为空闲</emphasis> 滑块指定计算机未"
-"使用时启动屏幕保护的时机。默认时间设为 10 分钟。您可使用此滑块选择屏幕保护激"
-"活前计算机需要处于空闲状态的时间长度。"
+msgid "The <emphasis role=\"strong\">Regard the computer as idle after</emphasis> slider specifies when a screensaver starts to work if the computer is not in use. The default time is set to 10 minutes. You can use this slider to select how long the computer needs to be idle before the screensaver activates."
+msgstr "<emphasis role=\"strong\">于此时间后视计算机为空闲</emphasis> 滑块指定计算机未使用时启动屏幕保护的时机。默认时间设为 10 分钟。您可使用此滑块选择屏幕保护激活前计算机需要处于空闲状态的时间长度。"
 
 #: chapter6/xinclude.xml:659(para)
-msgid ""
-"To prevent any tampering of your computer in your absence, you can "
-"automatically lock your screen the moment the screensaver activates. Locking "
-"requires users to type their password to reactivate the desktop. Select the "
-"<emphasis role=\"strong\">Lock screen when screensaver is active</emphasis> "
-"check box to lock the screen when the screensaver starts."
-msgstr ""
-"为了您不在时防止您的计算机被恶搞，您可以在屏幕保护激活时自动锁定您的屏幕。锁"
-"定后需要用户输入他的密码后才能重新返回桌面。选择 <emphasis role=\"strong\">屏"
-"幕保护程序激活时锁定屏幕</emphasis> 复选框以使屏幕保护启动时锁定屏幕。"
+msgid "To prevent any tampering of your computer in your absence, you can automatically lock your screen the moment the screensaver activates. Locking requires users to type their password to reactivate the desktop. Select the <emphasis role=\"strong\">Lock screen when screensaver is active</emphasis> check box to lock the screen when the screensaver starts."
+msgstr "为了您不在时防止您的计算机被恶搞，您可以在屏幕保护激活时自动锁定您的屏幕。锁定后需要用户输入他的密码后才能重新返回桌面。选择 <emphasis role=\"strong\">屏幕保护程序激活时锁定屏幕</emphasis> 复选框以使屏幕保护启动时锁定屏幕。"
 
 #: chapter6/xinclude.xml:668(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis>."
 msgstr "点击 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter6/xinclude.xml:672(para)
-msgid ""
-"The selected screensaver displays when the computer is idle for the "
-"specified period."
+msgid "The selected screensaver displays when the computer is idle for the specified period."
 msgstr "所选的屏幕保护将在计算机处于空闲状态一段特定时间后显示。"
 
 #: chapter6/xinclude.xml:677(title)
@@ -1304,9 +811,7 @@ msgid "Customising the Screen Resolution"
 msgstr "自定义屏幕分辨率"
 
 #: chapter6/xinclude.xml:679(para)
-msgid ""
-"The screen resolution determines how large or small an item looks on the "
-"screen."
+msgid "The screen resolution determines how large or small an item looks on the screen."
 msgstr "屏幕分辨率决定着屏幕各项目看上去的大小。"
 
 #: chapter6/xinclude.xml:683(title)
@@ -1314,45 +819,24 @@ msgid "To modify the desktop screen resolution:"
 msgstr "修改桌面屏幕分辨率步骤："
 
 #: chapter6/xinclude.xml:686(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong"
-"\">Screen Resolution</emphasis>. The <emphasis role=\"strong\">Screen "
-"Resolution Preferences</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">显示</"
-"emphasis>，弹出 <emphasis role=\"strong\">显示首选项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Preferences</emphasis> and then click <emphasis role=\"strong\">Screen Resolution</emphasis>. The <emphasis role=\"strong\">Screen Resolution Preferences</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，然后点击 <emphasis role=\"strong\">显示</emphasis>，弹出 <emphasis role=\"strong\">显示首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:692(title)
 msgid "Launching Screen Resolution Preferences Dialogue Box"
 msgstr "启动显示首选项对话框"
 
 #: chapter6/xinclude.xml:704(para)
-msgid ""
-"The default resolution is <emphasis role=\"strong\">1280x1024</emphasis>. "
-"You can change the resolution in the <emphasis role=\"strong\">Resolution</"
-"emphasis> box."
-msgstr ""
-"默认分辨率为 <emphasis role=\"strong\">1280x1024</emphasis>。您可在 <emphasis "
-"role=\"strong\">分辨率</emphasis> 框中更改分辨率。"
+msgid "The default resolution is <emphasis role=\"strong\">1280x1024</emphasis>. You can change the resolution in the <emphasis role=\"strong\">Resolution</emphasis> box."
+msgstr "默认分辨率为 <emphasis role=\"strong\">1280x1024</emphasis>。您可在 <emphasis role=\"strong\">分辨率</emphasis> 框中更改分辨率。"
 
 #: chapter6/xinclude.xml:708(title)
 msgid "Customising Screen Resolution"
 msgstr "自定义屏幕分辨率"
 
 #: chapter6/xinclude.xml:719(para)
-msgid ""
-"Click <emphasis role=\"strong\">Apply</emphasis>. The <emphasis role=\"strong"
-"\">Keep Resolution</emphasis> dialogue box opens, prompting you to confirm "
-"settings or use the previous resolution and revert to the original settings. "
-"Click <emphasis role=\"strong\">Keep resolution</emphasis> to apply new "
-"changes."
-msgstr ""
-"点击 <emphasis role=\"strong\">应用</emphasis>。此时将弹出 <emphasis role="
-"\"strong\">显示是否正常</emphasis> 对话框，提示您确认设置或使用先前的分辨率和恢"
-"复到初始设置。点击 <emphasis role=\"strong\">保持当前配置</emphasis> 以应用新的更"
-"改。"
+msgid "Click <emphasis role=\"strong\">Apply</emphasis>. The <emphasis role=\"strong\">Keep Resolution</emphasis> dialogue box opens, prompting you to confirm settings or use the previous resolution and revert to the original settings. Click <emphasis role=\"strong\">Keep resolution</emphasis> to apply new changes."
+msgstr "点击 <emphasis role=\"strong\">应用</emphasis>。此时将弹出 <emphasis role=\"strong\">显示是否正常</emphasis> 对话框，提示您确认设置或使用先前的分辨率和恢复到初始设置。点击 <emphasis role=\"strong\">保持当前配置</emphasis> 以应用新的更改。"
 
 #: chapter6/xinclude.xml:725(title)
 msgid "Resolution Confirmation Dialogue Box"
@@ -1367,67 +851,31 @@ msgid "3D Effects"
 msgstr "3D 特效"
 
 #: chapter6/xinclude.xml:743(para)
-msgid ""
-"A computer screen is two-dimensional (2D) and until recently most "
-"applications were developed in a 2D layout."
+msgid "A computer screen is two-dimensional (2D) and until recently most applications were developed in a 2D layout."
 msgstr "计算机屏幕是二维的(2D)，直到最近大多数应用程序以 2D 布局开发。"
 
 #: chapter6/xinclude.xml:746(para)
-msgid ""
-"However, advancements in technology fuelled the demand for more life-like on "
-"screen visuals, as in three-dimensional (3D) modelling and games. The "
-"operating system needs to perform complex calculations to display 3D images "
-"in 2D. Consequently, to reduce the burden on the operating system and "
-"increase the speed of applications, 3D accelerator cards were developed, "
-"which use the graphics processor on the graphics card instead of consuming "
-"valuable CPU resources. Almost all modern graphics cards have a built-in "
-"acceleration to display 3D."
-msgstr ""
-"然而，技术的进步助长了屏幕视野的需要，力求更逼近真实生活，如三维(3D)建模和游"
-"戏。操作系统需要进行复杂的计算以使 3D 图像显示在 2D 屏幕上。因而，为了减轻操"
-"作系统的负担和加速应用程序，3D 加速卡开发出来了。加速卡使用显卡上的图形处理器"
-"而不是消耗宝贵的 CPU 资源。几乎所有的现代显卡都内建显示 3D 的加速功能。"
+msgid "However, advancements in technology fuelled the demand for more life-like on screen visuals, as in three-dimensional (3D) modelling and games. The operating system needs to perform complex calculations to display 3D images in 2D. Consequently, to reduce the burden on the operating system and increase the speed of applications, 3D accelerator cards were developed, which use the graphics processor on the graphics card instead of consuming valuable CPU resources. Almost all modern graphics cards have a built-in acceleration to display 3D."
+msgstr "然而，技术的进步助长了屏幕视野的需要，力求更逼近真实生活，如三维(3D)建模和游戏。操作系统需要进行复杂的计算以使 3D 图像显示在 2D 屏幕上。因而，为了减轻操作系统的负担和加速应用程序，3D 加速卡开发出来了。加速卡使用显卡上的图形处理器而不是消耗宝贵的 CPU 资源。几乎所有的现代显卡都内建显示 3D 的加速功能。"
 
 #: chapter6/xinclude.xml:755(para)
-msgid ""
-"Ubuntu can utilize the 3D capabilities of a graphics card for desktop "
-"effects. An example of these can be seen with Compiz Fusion – spinning "
-"cubes, floating windows etc. Compiz Fusion is a fun application used to "
-"liven up your desktop experience and make it 3D in appearance."
-msgstr ""
-"Ubuntu 将显卡的 3D 功能利用于桌面特效。其显见的一例便是 Compiz Fusion – 旋转"
-"立方体、浮动窗口等。Compiz Fusion 是款供娱乐用的应用程序，它使您的桌面体验充"
-"满生气并展示 3D 外观。"
+msgid "Ubuntu can utilize the 3D capabilities of a graphics card for desktop effects. An example of these can be seen with Compiz Fusion – spinning cubes, floating windows etc. Compiz Fusion is a fun application used to liven up your desktop experience and make it 3D in appearance."
+msgstr "Ubuntu 将显卡的 3D 功能利用于桌面特效。其显见的一例便是 Compiz Fusion – 旋转立方体、浮动窗口等。Compiz Fusion 是款供娱乐用的应用程序，它使您的桌面体验充满生气并展示 3D 外观。"
 
 #: chapter6/xinclude.xml:761(para)
-msgid ""
-"The effects are enabled by default and can be controlled from the <emphasis "
-"role=\"strong\">Appearance</emphasis> menu. From here the desktop effects "
-"can either be completely disabled or enabled. The number of effects can be "
-"controlled via the <emphasis role=\"strong\">normal effects</emphasis> and "
-"<emphasis role=\"strong\">extra effects</emphasis> setting."
-msgstr ""
-"特效默认启用，并可通过 <emphasis role=\"strong\">外观</emphasis> 菜单控制。在那"
-"儿可完全禁用或启用桌面特效。特效的数量可通过 <emphasis role=\"strong\">普通特"
-"效</emphasis> 和 <emphasis role=\"strong\">其它特效</emphasis> 设置控制。"
+msgid "The effects are enabled by default and can be controlled from the <emphasis role=\"strong\">Appearance</emphasis> menu. From here the desktop effects can either be completely disabled or enabled. The number of effects can be controlled via the <emphasis role=\"strong\">normal effects</emphasis> and <emphasis role=\"strong\">extra effects</emphasis> setting."
+msgstr "特效默认启用，并可通过 <emphasis role=\"strong\">外观</emphasis> 菜单控制。在那儿可完全禁用或启用桌面特效。特效的数量可通过 <emphasis role=\"strong\">普通特效</emphasis> 和 <emphasis role=\"strong\">其它特效</emphasis> 设置控制。"
 
 #: chapter6/xinclude.xml:768(para)
-msgid ""
-"If a graphics card does not have 3D capabilities or support for 3D is "
-"missing from the Linux drivers for the card, you will be notified that "
-"<emphasis role=\"strong\">Desktop effects could not be enabled</emphasis>."
-msgstr ""
-"如果显卡不具备 3D 功能或显卡的 Linux 驱动缺少 3D 支持，您将得到 <emphasis "
-"role=\"strong\">无法启用桌面特效</emphasis> 的通知。"
+msgid "If a graphics card does not have 3D capabilities or support for 3D is missing from the Linux drivers for the card, you will be notified that <emphasis role=\"strong\">Desktop effects could not be enabled</emphasis>."
+msgstr "如果显卡不具备 3D 功能或显卡的 Linux 驱动缺少 3D 支持，您将得到 <emphasis role=\"strong\">无法启用桌面特效</emphasis> 的通知。"
 
 #: chapter6/xinclude.xml:775(title)
 msgid "Working with Files Using Nautilus"
 msgstr "使用 Nautilus 管理文件"
 
 #: chapter6/xinclude.xml:777(para)
-msgid ""
-"The Nautilus file manager in Ubuntu provides a simple and integrated way to "
-"manage files and applications."
+msgid "The Nautilus file manager in Ubuntu provides a simple and integrated way to manage files and applications."
 msgstr "Ubuntu 中的文件管理器 Nautilus 提供了简单而综合的文件和应用程序管理方式。"
 
 #: chapter6/xinclude.xml:781(title)
@@ -1435,27 +883,19 @@ msgid "Features of Nautilus"
 msgstr "Nautilus 的特性"
 
 #: chapter6/xinclude.xml:783(para)
-msgid ""
-"The Nautilus file manager enables you to organise files into folders and "
-"perform tasks such as:"
+msgid "The Nautilus file manager enables you to organise files into folders and perform tasks such as:"
 msgstr "Nautilus 文件管理器让您能按文件夹组织文件和进行如下任务："
 
 #: chapter6/xinclude.xml:788(para)
-msgid ""
-"Create and display folders and documents: Create new files, organise them "
-"into folders and save them."
+msgid "Create and display folders and documents: Create new files, organise them into folders and save them."
 msgstr "创建和显示文件夹和文档：创建新文件、按文件夹组织文件和保存文件。"
 
 #: chapter6/xinclude.xml:793(para)
-msgid ""
-"Search and manage your files: Classify files and search them as per their "
-"classification."
+msgid "Search and manage your files: Classify files and search them as per their classification."
 msgstr "搜索和管理您的文件：为文件分级并按其分级搜索。"
 
 #: chapter6/xinclude.xml:798(para)
-msgid ""
-"Open special locations on your computer: Access the local network and save "
-"your files."
+msgid "Open special locations on your computer: Access the local network and save your files."
 msgstr "打开您计算机的特殊位置：访问本地网络并保存您的文件。"
 
 #: chapter6/xinclude.xml:803(para)
@@ -1467,31 +907,22 @@ msgid "Navigate using two modes:"
 msgstr "使用两种模式导航："
 
 #: chapter6/xinclude.xml:811(para)
-msgid ""
-"Spatial mode: Allows you to open each folder in a separate window, which "
-"then helps open your files as physical objects in different locations. You "
-"can view the content of various folders simultaneously."
-msgstr ""
-"空间模式：允许您在分离的窗口中打开各个文件夹。这样能帮助您打开处于不同位置物"
-"理对象的文件。您可以同时查看各文件夹的内容。"
+msgid "Spatial mode: Allows you to open each folder in a separate window, which then helps open your files as physical objects in different locations. You can view the content of various folders simultaneously."
+msgstr "空间模式：允许您在分离的窗口中打开各个文件夹。这样能帮助您打开处于不同位置物理对象的文件。您可以同时查看各文件夹的内容。"
 
 #: chapter6/xinclude.xml:818(para)
-msgid ""
-"Browser mode: Opens your folders in a single window. Only one file manager "
-"opens in browser mode, and it is updated when you click another folder in "
-"the file manager."
-msgstr ""
-"浏览模式：在单一窗口中打开您的文件夹。在浏览模式中只打开一个文件管理器，当您"
-"点击文件管理器中的另一个文件夹时，其内容将更新。"
+msgid "Browser mode: Opens your folders in a single window. Only one file manager opens in browser mode, and it is updated when you click another folder in the file manager."
+msgstr "浏览模式：在单一窗口中打开您的文件夹。在浏览模式中只打开一个文件管理器，当您点击文件管理器中的另一个文件夹时，其内容将更新。"
 
-#: chapter6/xinclude.xml:827(title) chapter6/xinclude.xml:1566(title)
-#: chapter6/xinclude.xml:1586(title) chapter6/xinclude.xml:1908(title)
+#: chapter6/xinclude.xml:827(title)
+#: chapter6/xinclude.xml:1566(title)
+#: chapter6/xinclude.xml:1586(title)
+#: chapter6/xinclude.xml:1908(title)
 msgid "Instructor Notes:"
 msgstr "教员注记："
 
 #: chapter6/xinclude.xml:829(para)
-msgid ""
-"Compare browser mode with Firefox to help students appreciate the similarity."
+msgid "Compare browser mode with Firefox to help students appreciate the similarity."
 msgstr "可以把浏览模式与火狐浏览器做比较以帮助学生领会其相似性。"
 
 #: chapter6/xinclude.xml:835(title)
@@ -1507,9 +938,7 @@ msgid "Home Folder:"
 msgstr "主文件夹："
 
 #: chapter6/xinclude.xml:847(para)
-msgid ""
-"This is a personal folder created by default for every user to create and "
-"work on files. It takes the user name by default."
+msgid "This is a personal folder created by default for every user to create and work on files. It takes the user name by default."
 msgstr "这是默认为每位用户创建的私人文件夹，让用户创建和处理文件。默认取名为用户名。"
 
 #: chapter6/xinclude.xml:855(title)
@@ -1517,9 +946,7 @@ msgid "Desktop:"
 msgstr "桌面："
 
 #: chapter6/xinclude.xml:857(para)
-msgid ""
-"An active component that lies behind all the screens on your computer and "
-"provides easy and quick access to the files saved on it."
+msgid "An active component that lies behind all the screens on your computer and provides easy and quick access to the files saved on it."
 msgstr "铺在您计算机所有屏幕后方的活动组件，为保存于桌面的文件提供简便快捷的访问。"
 
 #: chapter6/xinclude.xml:865(title)
@@ -1527,9 +954,7 @@ msgid "Computer:"
 msgstr "计算机："
 
 #: chapter6/xinclude.xml:867(para)
-msgid ""
-"Contains all drives and file systems; makes document backup onto CD and DVD "
-"really simple."
+msgid "Contains all drives and file systems; makes document backup onto CD and DVD really simple."
 msgstr "包含全部驱动器和文件系统；使得将文档备份到 CD 和 DVD 变得特别容易。"
 
 #: chapter6/xinclude.xml:874(title)
@@ -1537,25 +962,15 @@ msgid "CD/DVD Creator:"
 msgstr "CD/DVD 创建器："
 
 #: chapter6/xinclude.xml:876(para)
-msgid ""
-"It consists of folders that you can write to a CD or a DVD. You can also "
-"back up your documents on a CD or a DVD."
-msgstr ""
-"它由一些您可向 CD 或 DVD 写入数据的文件夹所组成。您也可以将您的文档备份到 CD "
-"或 DVD。"
+msgid "It consists of folders that you can write to a CD or a DVD. You can also back up your documents on a CD or a DVD."
+msgstr "它由一些您可向 CD 或 DVD 写入数据的文件夹所组成。您也可以将您的文档备份到 CD 或 DVD。"
 
 #: chapter6/xinclude.xml:841(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Places</emphasis> menu. A list of items "
-"appears: <placeholder-1/>"
-msgstr ""
-"点击 <emphasis role=\"strong\">位置</emphasis> 菜单，将弹出以下项目列表："
-"<placeholder-1/>"
+msgid "Click the <emphasis role=\"strong\">Places</emphasis> menu. A list of items appears: <placeholder-1/>"
+msgstr "点击 <emphasis role=\"strong\">位置</emphasis> 菜单，将弹出以下项目列表：<placeholder-1/>"
 
 #: chapter6/xinclude.xml:885(para)
-msgid ""
-"Click any of the above items on the <emphasis role=\"strong\">Places </"
-"emphasis> menu."
+msgid "Click any of the above items on the <emphasis role=\"strong\">Places </emphasis> menu."
 msgstr "在 <emphasis role=\"strong\">位置</emphasis> 菜单中点击任何一个上述项目。"
 
 #: chapter6/xinclude.xml:888(title)
@@ -1563,252 +978,123 @@ msgid "Using File Browser"
 msgstr "使用文件浏览器"
 
 #: chapter6/xinclude.xml:897(para)
-msgid ""
-"The Nautilus file manager opens files in browser mode by default. If you "
-"open a folder in this mode, the folder will open in the same window. The "
-"location bar shows the current location of the opened folder in the "
-"hierarchy of folders, and the sidebar shows other folders saved on your "
-"computer."
-msgstr ""
-"Nautilus 文件管理器默认以浏览模式打开文件。如果您以此模式打开文件夹，文件夹将"
-"会在同一窗口内打开。位置栏以层级文件夹方式显示已打开文件夹的当前位置，而侧边"
-"栏显示存储于您计算机的其它文件夹。"
+msgid "The Nautilus file manager opens files in browser mode by default. If you open a folder in this mode, the folder will open in the same window. The location bar shows the current location of the opened folder in the hierarchy of folders, and the sidebar shows other folders saved on your computer."
+msgstr "Nautilus 文件管理器默认以浏览模式打开文件。如果您以此模式打开文件夹，文件夹将会在同一窗口内打开。位置栏以层级文件夹方式显示已打开文件夹的当前位置，而侧边栏显示存储于您计算机的其它文件夹。"
 
 #: chapter6/xinclude.xml:904(title)
 msgid "Files Display"
 msgstr "文件显示"
 
 #: chapter6/xinclude.xml:913(para)
-msgid ""
-"While in browser mode, you can move to the parent folder that contains the "
-"currently open folder. To move to the parent folder, click <emphasis role="
-"\"strong\">Open Parent</emphasis> on the <emphasis role=\"strong\">Go</"
-"emphasis> menu in the window."
-msgstr ""
-"在浏览模式中，您可以转到包含当前文件夹的父文件夹。要转到父文件夹，请点击窗口 "
-"<emphasis role=\"strong\">转到</emphasis> 菜单中的 <emphasis role=\"strong\">打"
-"开父文件夹</emphasis>。"
+msgid "While in browser mode, you can move to the parent folder that contains the currently open folder. To move to the parent folder, click <emphasis role=\"strong\">Open Parent</emphasis> on the <emphasis role=\"strong\">Go</emphasis> menu in the window."
+msgstr "在浏览模式中，您可以转到包含当前文件夹的父文件夹。要转到父文件夹，请点击窗口 <emphasis role=\"strong\">转到</emphasis> 菜单中的 <emphasis role=\"strong\">打开父文件夹</emphasis>。"
 
 #: chapter6/xinclude.xml:921(para)
-msgid ""
-"You can also click <emphasis role=\"strong\">Up</emphasis> on the navigation "
-"toolbar or press the BACKSPACE key to move to the parent folder."
-msgstr ""
-"您也可点击导航工具栏上的 <emphasis role=\"strong\">向上</emphasis> 或按退格键来"
-"转到父文件夹。"
+msgid "You can also click <emphasis role=\"strong\">Up</emphasis> on the navigation toolbar or press the BACKSPACE key to move to the parent folder."
+msgstr "您也可点击导航工具栏上的 <emphasis role=\"strong\">向上</emphasis> 或按退格键来转到父文件夹。"
 
 #: chapter6/xinclude.xml:928(para)
-msgid ""
-"On the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role="
-"\"strong\">Preferences</emphasis>. The <emphasis role=\"strong\">File "
-"Management Preferences</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">编辑</emphasis >菜单中，点击 <emphasis role="
-"\"strong\">首选项</emphasis>，将弹出 <emphasis role=\"strong\">文件管理器首选"
-"项</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences</emphasis>. The <emphasis role=\"strong\">File Management Preferences</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">编辑</emphasis > 菜单中，点击 <emphasis role=\"strong\">首选项</emphasis>，将弹出 <emphasis role=\"strong\">文件管理器首选项</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:933(title)
 msgid "Launching File Management Preferences"
 msgstr "启动文件管理首选项"
 
 #: chapter6/xinclude.xml:944(para)
-msgid ""
-"Click the <emphasis role=\"strong\">Behaviour</emphasis> tab in the dialogue "
-"box. To change the mode to spatial mode, clear the <emphasis role=\"strong"
-"\">Always open in browser windows</emphasis> check box and then click "
-"<emphasis role=\"strong\">Close</emphasis>."
-msgstr ""
-"点击对话框中的 <emphasis role=\"strong\">行为</emphasis> 标签。要将模式更改为空"
-"间模式，请取消勾选 <emphasis role=\"strong\">总是在浏览器窗口中打开</emphasis> 复"
-"选框，然后点击 <emphasis role=\"strong\">关闭</emphasis>。"
+msgid "Click the <emphasis role=\"strong\">Behaviour</emphasis> tab in the dialogue box. To change the mode to spatial mode, clear the <emphasis role=\"strong\">Always open in browser windows</emphasis> check box and then click <emphasis role=\"strong\">Close</emphasis>."
+msgstr "点击对话框中的 <emphasis role=\"strong\">行为</emphasis> 标签。要将模式更改为空间模式，请取消勾选 <emphasis role=\"strong\">总是在浏览器窗口中打开</emphasis> 复选框，然后点击 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #: chapter6/xinclude.xml:950(title)
 msgid "Changing File Management Behaviour"
 msgstr "更改文件管理行为"
 
 #: chapter6/xinclude.xml:961(para)
-msgid ""
-"Close the file manager window and open it again. Your files will now open in "
-"spatial mode. If you open another folder, it will open in a different file "
-"manager window."
-msgstr ""
-"关闭文件管理器窗口，然后重新打开。您的文件将以空间模式打开。如果您打开另一个"
-"文件夹，它将在不同的文件管理器窗口中打开。"
+msgid "Close the file manager window and open it again. Your files will now open in spatial mode. If you open another folder, it will open in a different file manager window."
+msgstr "关闭文件管理器窗口，然后重新打开。您的文件将以空间模式打开。如果您打开另一个文件夹，它将在不同的文件管理器窗口中打开。"
 
 #: chapter6/xinclude.xml:966(title)
 msgid "Confirming File Management Behaviour Changes"
 msgstr "确认文件管理行为更改"
 
 #: chapter6/xinclude.xml:978(para)
-msgid ""
-"Each time you open a particular folder in spatial mode, you will find its "
-"window displayed in the same place on the screen and of the same size as "
-"during the last view. For this reason, this mode is referred to as spatial "
-"mode."
-msgstr ""
-"每次您以空间模式打开特定文件夹，您会发现其窗口在与上次浏览时相同的屏幕位置及"
-"相同大小显示。正因为这个原因，该模式被称为空间模式。"
+msgid "Each time you open a particular folder in spatial mode, you will find its window displayed in the same place on the screen and of the same size as during the last view. For this reason, this mode is referred to as spatial mode."
+msgstr "每次您以空间模式打开特定文件夹，您会发现其窗口在与上次浏览时相同的屏幕位置及相同大小显示。正因为这个原因，该模式被称为空间模式。"
 
 #: chapter6/xinclude.xml:984(para)
-msgid ""
-"To move to the parent folder in spatial mode, click <emphasis role=\"strong"
-"\">Open Parent</emphasis> on the <emphasis role=\"strong\">File</emphasis> "
-"menu. Alternatively, you can press the ALT+UP arrow key."
-msgstr ""
-"要以空间模式转到父文件夹，请点击 <emphasis role=\"strong\">文件</emphasis> 中的 "
-"<emphasis role=\"strong\">打开父文件夹</emphasis>。同样，您也可以按 ALT+ 向上"
-"箭头键。"
+msgid "To move to the parent folder in spatial mode, click <emphasis role=\"strong\">Open Parent</emphasis> on the <emphasis role=\"strong\">File</emphasis> menu. Alternatively, you can press the ALT+UP arrow key."
+msgstr "要以空间模式转到父文件夹，请点击 <emphasis role=\"strong\">文件</emphasis> 中的 <emphasis role=\"strong\">打开父文件夹</emphasis>。同样，您也可以按 ALT+ 向上箭头键。"
 
 #: chapter6/xinclude.xml:990(para)
-msgid ""
-"Konqueror is KDE equivalent of Nautilus file manager, which is used in the "
-"Kubuntu derivative of Ubuntu. It is a multi-purpose application that can act "
-"as a file manager, Web browser and universal viewer. As well as allowing you "
-"to browse Web sites, this application provides basic file management and can "
-"many view different file types."
-msgstr ""
-"Dolphin 是 KDE 下 Nautilus 文件管理器的等价品，用在 Ubuntu 衍生版本 "
-"Kubuntu 中。它是个多用途应用程序，能够用作文件管理器、网页浏览器和通用查看"
-"器。在让您浏览网站的同时，这个应用程序还能提供基本的文件管理并能够查看许多不"
-"同格式的文件。"
+msgid "Konqueror is KDE equivalent of Nautilus file manager, which is used in the Kubuntu derivative of Ubuntu. It is a multi-purpose application that can act as a file manager, Web browser and universal viewer. As well as allowing you to browse Web sites, this application provides basic file management and can many view different file types."
+msgstr "Dolphin 是 KDE 下 Nautilus 文件管理器的等价品，用在 Ubuntu 衍生版本 Kubuntu 中。它是个多用途应用程序，能够用作文件管理器、网页浏览器和通用查看器。在让您浏览网站的同时，这个应用程序还能提供基本的文件管理并能够查看许多不同格式的文件。"
 
 #: chapter6/xinclude.xml:1003(title)
 msgid "Package Managers"
 msgstr "软件包管理器"
 
 #: chapter6/xinclude.xml:1005(para)
-msgid ""
-"One of the biggest differences between Ubuntu and other operating systems is "
-"how you install and uninstall applications. In Microsoft Windows, most "
-"applications provide their own installation and removal methods. Some "
-"applications provide a method to keep themselves up to date, but others do "
-"not and there is no easy way to ensure that everything on your computer is "
-"up to date. Keeping track of all the programmes that have been installed and "
-"keeping all those programmes updated is largely up to you."
-msgstr ""
-"Ubuntu 与其它操作系统间最大的区别之一是您安装和卸载应用程序的方式。在 "
-"Microsoft Windows 中，大多数应用程序提供其自己的安装和删除方式。有些应用程序"
-"提供一种保持更新的途径，而另外一些则没有，它们无法确保您计算机上的所有东西都"
-"是最新的。跟踪已安装程序并保持更新很大程度上都需要您自己完成。"
+msgid "One of the biggest differences between Ubuntu and other operating systems is how you install and uninstall applications. In Microsoft Windows, most applications provide their own installation and removal methods. Some applications provide a method to keep themselves up to date, but others do not and there is no easy way to ensure that everything on your computer is up to date. Keeping track of all the programmes that have been installed and keeping all those programmes updated is largely up to you."
+msgstr "Ubuntu 与其它操作系统间最大的区别之一是您安装和卸载应用程序的方式。在 Microsoft Windows 中，大多数应用程序提供其自己的安装和删除方式。有些应用程序提供一种保持更新的途径，而另外一些则没有，它们无法确保您计算机上的所有东西都是最新的。跟踪已安装程序并保持更新很大程度上都需要您自己完成。"
 
 #: chapter6/xinclude.xml:1014(para)
-msgid ""
-"Ubuntu has a sophisticated <emphasis role=\"strong\">package management "
-"framework </emphasis> that keeps track of all the software installed, "
-"automates the process of installing and removing applications, and ensures "
-"that all the software is kept up to date with the latest enhancements and "
-"fixes. All you have to do is decide what applications you want installed, "
-"and then use a <emphasis role=\"strong\">package manager</emphasis> to tell "
-"Ubuntu to install them."
-msgstr ""
-"Ubuntu 拥有先进的 <emphasis role=\"strong\">软件包管理框架</emphasis>，它能跟"
-"踪所有已安装的软件、自动化进行安装和删除应用程序、以及确保所有软件都保持更新"
-"以获得最新的增强功能和错误修复。您所做的仅仅是决定您想安装哪个应用程序，然后"
-"使用 <emphasis role=\"strong\">软件包管理器</emphasis> 来告诉 Ubuntu 去安装它"
-"们。"
+msgid "Ubuntu has a sophisticated <emphasis role=\"strong\">package management framework </emphasis> that keeps track of all the software installed, automates the process of installing and removing applications, and ensures that all the software is kept up to date with the latest enhancements and fixes. All you have to do is decide what applications you want installed, and then use a <emphasis role=\"strong\">package manager</emphasis> to tell Ubuntu to install them."
+msgstr "Ubuntu 拥有先进的 <emphasis role=\"strong\">软件包管理框架</emphasis>，它能跟踪所有已安装的软件、自动化进行安装和删除应用程序、以及确保所有软件都保持更新以获得最新的增强功能和错误修复。您所做的仅仅是决定您想安装哪个应用程序，然后使用 <emphasis role=\"strong\">软件包管理器</emphasis> 来告诉 Ubuntu 去安装它们。"
 
 #: chapter6/xinclude.xml:1023(title)
 msgid "Types of Package Managers"
 msgstr "软件包管理器种类"
 
 #: chapter6/xinclude.xml:1025(para)
-msgid ""
-"Ubuntu includes a few package managers by default and which one you use "
-"depends on how advanced the package management tasks are that you want to "
-"achieve. This course covers Add/Remove applications utility and the Synaptic "
-"Package Manager."
-msgstr ""
-"Ubuntu 默认包含了一些软件包管理器，使用哪一个取决于您所要完成软件包管理任务的"
-"复杂和精细程度。本课程涵盖添加/删除应用程序工具和新立得软件包管理器。"
+msgid "Ubuntu includes a few package managers by default and which one you use depends on how advanced the package management tasks are that you want to achieve. This course covers Add/Remove applications utility and the Synaptic Package Manager."
+msgstr "Ubuntu 默认包含了一些软件包管理器，使用哪一个取决于您所要完成软件包管理任务的复杂和精细程度。本课程涵盖添加/删除应用程序工具和新立得软件包管理器。"
 
 #: chapter6/xinclude.xml:1033(para)
-msgid ""
-"If you open more than one package manager at the same time, they may not "
-"work. Close all the package managers and open just one."
-msgstr ""
-"如果您同时打开超过一个软件包管理器，它们可能无法正常工作。请关闭所有软件包管"
-"理器后再打开其中一个。"
+msgid "If you open more than one package manager at the same time, they may not work. Close all the package managers and open just one."
+msgstr "如果您同时打开超过一个软件包管理器，它们可能无法正常工作。请关闭所有软件包管理器后再打开其中一个。"
 
 #: chapter6/xinclude.xml:1040(title)
 msgid "Using Add/Remove Applications"
 msgstr "使用 Ubuntu 软件中心"
 
 #: chapter6/xinclude.xml:1042(para)
-msgid ""
-"The Add/Remove tool is the easiest to use and will enable you to install and "
-"uninstall many popular packages. You can search for the package or packages "
-"you want to install by simply searching a keyword such as 'email' or by "
-"looking through the given categories, selecting applications and choosing "
-"\"Apply\" to start the installation."
-msgstr ""
-"Ubuntu 软件中心是最容易使用的，它能让您安装和卸载许多流行软件包。您可以简单地搜"
-"索如 'email' 这种关键字来搜索您想安装的软件包，或浏览给出的分类，选择应用程"
-"序，然后按下软件名称右边的前进按钮，将进入应用程序介绍页面，此页面将给出应用程序截图"
-"和简要介绍，点击下方的“安装”按钮，获得授权后即开始安装软件。"
+msgid "The Add/Remove tool is the easiest to use and will enable you to install and uninstall many popular packages. You can search for the package or packages you want to install by simply searching a keyword such as 'email' or by looking through the given categories, selecting applications and choosing \"Apply\" to start the installation."
+msgstr "Ubuntu 软件中心是最容易使用的，它能让您安装和卸载许多流行软件包。您可以简单地搜索如 'email' 这种关键字来搜索您想安装的软件包，或浏览给出的分类，选择应用程序，然后按下软件名称右边的前进按钮，将进入应用程序介绍页面，此页面将给出应用程序截图和简要介绍，点击下方的“安装”按钮，获得授权后即开始安装软件。"
 
 #: chapter6/xinclude.xml:1051(para)
-msgid ""
-"You need administrative access to use any package manager. Type the password "
-"for your user name at the prompt. This means that applications can not be "
-"added / removed from your computer without your knowledge (and password)."
-msgstr ""
-"您使用任何软件包管理器都需要管理员权限。请在提示框内输入您用户名对应的密码。"
-"这意味着在您不知情(及不知道密码)的情况下，将无法在您的计算机中添加/删除应用程"
-"序。"
+msgid "You need administrative access to use any package manager. Type the password for your user name at the prompt. This means that applications can not be added / removed from your computer without your knowledge (and password)."
+msgstr "您使用任何软件包管理器都需要管理员权限。请在提示框内输入您用户名对应的密码。这意味着在您不知情(及不知道密码)的情况下，将无法在您的计算机中添加/删除应用程序。"
 
 #: chapter6/xinclude.xml:1058(title)
-msgid ""
-"The procedure to add or remove software by using Add/Remove Applications is:"
+msgid "The procedure to add or remove software by using Add/Remove Applications is:"
 msgstr "使用 Ubuntu 软件中心来安装或删除软件的步骤为："
 
 #: chapter6/xinclude.xml:1062(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, click "
-"<emphasis role=\"strong\">Add/Remove</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中点击 <emphasis role="
-"\"strong\">Ubuntu 软件中心</emphasis>。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, click <emphasis role=\"strong\">Add/Remove</emphasis>."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中点击 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis>。"
 
 #: chapter6/xinclude.xml:1066(title)
 msgid "Launching Add/Remove Applications"
 msgstr "启动 Ubuntu 软件中心"
 
 #: chapter6/xinclude.xml:1077(para)
-msgid ""
-"The <emphasis role=\"strong\">Add/Remove Applications</emphasis> dialogue "
-"box displays a list of applications. The check boxes against the "
-"applications that are already installed are pre-selected."
-msgstr ""
-"<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis "
-"role=\"strong\">获取自由软件</emphasis> 首页将显示程序分类。"
-"已安装的应用程序则显示在 <emphasis role=\"strong\">已安装的软件</emphasis> "
-"页面中。"
+msgid "The <emphasis role=\"strong\">Add/Remove Applications</emphasis> dialogue box displays a list of applications. The check boxes against the applications that are already installed are pre-selected."
+msgstr "<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis role=\"strong\">获取自由软件</emphasis> 首页将显示程序分类。已安装的应用程序则显示在 <emphasis role=\"strong\">已安装的软件</emphasis> 页面中。"
 
 #: chapter6/xinclude.xml:1084(para)
-msgid ""
-"Many package names in Ubuntu are quite obscure, so the package manager will "
-"also look at the package description when searching."
-msgstr ""
-"Ubuntu 中的很多软件包名称都十分难以理解，所以软件包管理器还会在搜索时查找软件"
-"包描述。"
+msgid "Many package names in Ubuntu are quite obscure, so the package manager will also look at the package description when searching."
+msgstr "Ubuntu 中的很多软件包名称都十分难以理解，所以软件包管理器还会在搜索时查找软件包描述。"
 
 #: chapter6/xinclude.xml:1090(title)
 msgid "Add/Remove Applications Window"
 msgstr "Ubuntu 软件中心窗口"
 
 #: chapter6/xinclude.xml:1101(para)
-msgid ""
-"If you know the name of the package to be installed, you can type the name "
-"in the <emphasis role=\"strong\">Search</emphasis> box. Otherwise, you can "
-"click the appropriate software category in the left pane and select the "
-"check box next to the required package in the right pane."
-msgstr ""
-"如果您知道要安装的软件包名称，您可以在右上角的搜索框中输入名称。否则，您可以"
-"在 <emphasis>获取自由软件</emphasis> 首页中点击恰当的软件分类并选择需要的软件包。"
+msgid "If you know the name of the package to be installed, you can type the name in the <emphasis role=\"strong\">Search</emphasis> box. Otherwise, you can click the appropriate software category in the left pane and select the check box next to the required package in the right pane."
+msgstr "如果您知道要安装的软件包名称，您可以在右上角的搜索框中输入名称。否则，您可以在 <emphasis>获取自由软件</emphasis> 首页中点击恰当的软件分类并选择需要的软件包。"
 
 #: chapter6/xinclude.xml:1110(para)
-msgid ""
-"For more details about a package, click the package and view the bottom pane."
+msgid "For more details about a package, click the package and view the bottom pane."
 msgstr "想要获取更多软件包细节，可点击软件包名称旁边的前进按钮，进入软件介绍页面。"
 
 #: chapter6/xinclude.xml:1115(title)
@@ -1816,37 +1102,24 @@ msgid "Searching for a Package in All Available Applications"
 msgstr "在全部可用应用程序中搜索软件包"
 
 #: chapter6/xinclude.xml:1126(para)
-msgid ""
-"When you have finished selecting the packages to be installed or removed, "
-"click <emphasis role=\"strong\">Apply Changes</emphasis>."
-msgstr ""
-"在软件介绍页面中，点击下方 <emphasis role=\"strong\">安装</emphasis> 或者 "
-"<emphasis role=\"strong\">移除</emphasis> 按钮来执行相应操作。更多的信息可以点击 "
-"<emphasis role=\"strong\">网站</emphasis> 按钮以浏览该项目的主页。"
+msgid "When you have finished selecting the packages to be installed or removed, click <emphasis role=\"strong\">Apply Changes</emphasis>."
+msgstr "在软件介绍页面中，点击下方 <emphasis role=\"strong\">安装</emphasis> 或者 <emphasis role=\"strong\">移除</emphasis> 按钮来执行相应操作。更多的信息可以点击 <emphasis role=\"strong\">网站</emphasis> 按钮以浏览该项目的主页。"
 
 #: chapter6/xinclude.xml:1131(title)
 msgid "Applying Changes to the Package List"
 msgstr "对所选软件包应用更改"
 
 #: chapter6/xinclude.xml:1142(para)
-msgid ""
-"You are prompted to confirm your selection. Click <emphasis role=\"strong"
-"\">Apply</emphasis> to proceed."
-msgstr ""
-"您会被提示需要授权操作。输入密码并点击 <emphasis role=\"strong\">授权</"
-"emphasis> 继续。"
+msgid "You are prompted to confirm your selection. Click <emphasis role=\"strong\">Apply</emphasis> to proceed."
+msgstr "您会被提示需要授权操作。输入密码并点击 <emphasis role=\"strong\">授权</emphasis> 继续。"
 
 #: chapter6/xinclude.xml:1145(title)
 msgid "Confirming Changes"
 msgstr "认证操作"
 
 #: chapter6/xinclude.xml:1156(para)
-msgid ""
-"The progress indicator shows the status of the package being installed or "
-"removed."
-msgstr ""
-"<emphasis role=\"strong\">正在执行</emphasis> 页面中的进度条指示器将显示正在安"
-"装或删除的软件包状态。"
+msgid "The progress indicator shows the status of the package being installed or removed."
+msgstr "<emphasis role=\"strong\">正在执行</emphasis> 页面中的进度条指示器将显示正在安装或删除的软件包状态。"
 
 #: chapter6/xinclude.xml:1160(title)
 msgid "Installing Selected Package from Repositories"
@@ -1856,31 +1129,21 @@ msgstr "从仓库安装所选的软件包"
 msgid "After the changes are applied successfully, the package is installed."
 msgstr "执行完毕，软件包安装完成，返回该软件介绍页面。"
 
-#: chapter6/xinclude.xml:1175(title) chapter6/xinclude.xml:1374(title)
+#: chapter6/xinclude.xml:1175(title)
+#: chapter6/xinclude.xml:1374(title)
 msgid "Installation Confirmation"
 msgstr "安装完成"
 
 #: chapter6/xinclude.xml:1186(para)
-msgid ""
-"Double-click the package to launch it. If you want to add or remove more "
-"applications, click <emphasis role=\"strong\">Add/Remove More Applications</"
-"emphasis> or else click <emphasis role=\"strong\">Close</emphasis> in the "
-"<emphasis role=\"strong\">New application has been installed</emphasis> "
-"dialogue box. The following figure shows <emphasis role=\"strong\">Atomix</"
-"emphasis>, which has been installed by performing this procedure."
-msgstr ""
-"如果您想安装或删除更多应用程序，请返回 <emphasis role=\"strong\">获取自由软件"
-"</emphasis> 首页继续操作。下图展示了 <emphasis role=\"strong\">Atomix</"
-"emphasis>，它就是通过以上步骤安装的。"
+msgid "Double-click the package to launch it. If you want to add or remove more applications, click <emphasis role=\"strong\">Add/Remove More Applications</emphasis> or else click <emphasis role=\"strong\">Close</emphasis> in the <emphasis role=\"strong\">New application has been installed</emphasis> dialogue box. The following figure shows <emphasis role=\"strong\">Atomix</emphasis>, which has been installed by performing this procedure."
+msgstr "如果您想安装或删除更多应用程序，请返回 <emphasis role=\"strong\">获取自由软件</emphasis> 首页继续操作。下图展示了 <emphasis role=\"strong\">Atomix</emphasis>，它就是通过以上步骤安装的。"
 
 #: chapter6/xinclude.xml:1194(title)
 msgid "Launching the Installed Application - Atomix"
 msgstr "启动安装的应用程序 - Atomix"
 
 #: chapter6/xinclude.xml:1206(para)
-msgid ""
-"After installing a package, you can open it by using a particular menu based "
-"on its category."
+msgid "After installing a package, you can open it by using a particular menu based on its category."
 msgstr "安装软件包后，您可按其分类，使用特定的菜单项打开它。"
 
 #: chapter6/xinclude.xml:1214(title)
@@ -1888,137 +1151,67 @@ msgid "Using Synaptic Package Manager"
 msgstr "使用新立得软件包管理器"
 
 #: chapter6/xinclude.xml:1216(para)
-msgid ""
-"Add/Remove Applications does not enable you to install and remove some more "
-"advanced packages, such as the Apache web server, the PHP programming "
-"language or Scribe. In such cases, use Synaptic Package Manager."
-msgstr ""
-"添加/删除应用程序无法让您安装和删除某些更高级的软件包，比如 Apache 网络服务、"
-"PHP 编程语言或 Scribus。这时，就得用新立得软件包管理器。"
+msgid "Add/Remove Applications does not enable you to install and remove some more advanced packages, such as the Apache web server, the PHP programming language or Scribe. In such cases, use Synaptic Package Manager."
+msgstr "添加/删除应用程序无法让您安装和删除某些更高级的软件包，比如 Apache 网络服务、PHP 编程语言或 Scribus。这时，就得用新立得软件包管理器。"
 
 #: chapter6/xinclude.xml:1221(para)
-msgid ""
-"You can install, remove, configure or upgrade software packages, browse, "
-"sort and search the list of available software packages, manage repositories "
-"or upgrade the whole system. You can queue up a number of actions before you "
-"execute them. Synaptic informs you about the additional packages required by "
-"the software package you have chosen as well as conflicts with other "
-"packages that are already installed on your system. In addition, it presents "
-"more information such as package status, origin and filters."
-msgstr ""
-"您可以使用新立得来安装、删除、配置或升级软件包，浏览、排序和搜索可用软件包列表，管理仓库"
-"或升级整个系统。您可以在执行更改前将一系列动作加入操作队列。新立得会通知您安"
-"装您所选软件包需要的额外软件包，以及与您计算机上已安装软件包之间的冲突。除此"
-"之外，它还展示更多诸如软件包状态、来源和过滤器信息。"
+msgid "You can install, remove, configure or upgrade software packages, browse, sort and search the list of available software packages, manage repositories or upgrade the whole system. You can queue up a number of actions before you execute them. Synaptic informs you about the additional packages required by the software package you have chosen as well as conflicts with other packages that are already installed on your system. In addition, it presents more information such as package status, origin and filters."
+msgstr "您可以使用新立得来安装、删除、配置或升级软件包，浏览、排序和搜索可用软件包列表，管理仓库或升级整个系统。您可以在执行更改前将一系列动作加入操作队列。新立得会通知您安装您所选软件包需要的额外软件包，以及与您计算机上已安装软件包之间的冲突。除此之外，它还展示更多诸如软件包状态、来源和过滤器信息。"
 
 #: chapter6/xinclude.xml:1231(title)
 msgid "To add and remove any package using Synaptic Packager Manager:"
 msgstr "使用新立得添加和删除软件包步骤："
 
 #: chapter6/xinclude.xml:1235(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and then click <emphasis role="
-"\"strong\">Synaptic Package Manager</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">系统管理</emphasis>，然后点击 <emphasis role=\"strong\">新立得软件包管"
-"理器</emphasis>。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">系统管理</emphasis>，然后点击 <emphasis role=\"strong\">新立得软件包管理器</emphasis>。"
 
 #: chapter6/xinclude.xml:1240(title)
 msgid "Launching Synaptic Package Manager"
 msgstr "启动新立得软件包管理器"
 
 #: chapter6/xinclude.xml:1251(para)
-msgid ""
-"In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
-"dialogue box, you can select the package you need. The left pane lists the "
-"categories, and the right pane lists the packages. If you do not know the "
-"name of the package, select the category in the left pane to filter the list "
-"of packages. You can then select the check box next to the required package "
-"in the right pane."
-msgstr ""
-"在 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 对话框中，您可以选择"
-"您需要的软件包。左侧面板列出的是分类，右侧面板列出的是软件包。如果您不清楚软"
-"件包的名称，选择左侧面板中的分类来过滤软件包列表，然后在右侧面板中勾选所需软"
-"件包旁的复选框。"
+msgid "In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> dialogue box, you can select the package you need. The left pane lists the categories, and the right pane lists the packages. If you do not know the name of the package, select the category in the left pane to filter the list of packages. You can then select the check box next to the required package in the right pane."
+msgstr "在 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 对话框中，您可以选择您需要的软件包。左侧面板列出的是分类，右侧面板列出的是软件包。如果您不清楚软件包的名称，选择左侧面板中的分类来过滤软件包列表，然后在右侧面板中勾选所需软件包旁的复选框。"
 
 #: chapter6/xinclude.xml:1262(para)
-msgid ""
-"If you want to view the installed and uninstalled packages, click <emphasis "
-"role=\"strong\">Status</emphasis>. To know the source repository of the "
-"package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis "
-"role=\"strong\">Custom Filters</emphasis> if you want to know the whether a "
-"package is broken or can be upgraded."
-msgstr ""
-"如果您想要查看已安装和已卸载的软件包，点击 <emphasis role=\"strong\">状态</"
-"emphasis>。要了解软件包来源仓库，请点击 <emphasis role=\"strong\">源自</"
-"emphasis>。如果您想要知道某个软件包是否已损坏或能够升级，请点击 <emphasis "
-"role=\"strong\">自定义过滤器</emphasis>。"
+msgid "If you want to view the installed and uninstalled packages, click <emphasis role=\"strong\">Status</emphasis>. To know the source repository of the package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis role=\"strong\">Custom Filters</emphasis> if you want to know the whether a package is broken or can be upgraded."
+msgstr "如果您想要查看已安装和已卸载的软件包，点击 <emphasis role=\"strong\">状态</emphasis>。要了解软件包来源仓库，请点击 <emphasis role=\"strong\">源自</emphasis>。如果您想要知道某个软件包是否已损坏或能够升级，请点击 <emphasis role=\"strong\">自定义过滤器</emphasis>。"
 
 #: chapter6/xinclude.xml:1269(title)
 msgid "Synaptic Package Manager Window"
 msgstr "新立得软件包管理器窗口"
 
 #: chapter6/xinclude.xml:1280(para)
-msgid ""
-"If you know the name of the package, click <emphasis role=\"strong\">Search</"
-"emphasis>. The <emphasis role=\"strong\">Find</emphasis> dialogue box opens. "
-"Type the name of the package in the <emphasis role=\"strong\">Search</"
-"emphasis> field and click <emphasis role=\"strong\">Search</emphasis>."
-msgstr ""
-"如果您知道软件包的名称，点击 <emphasis role=\"strong\">搜索</emphasis>，将弹出 "
-"<emphasis role=\"strong\">查找</emphasis> 对话框。在 <emphasis role=\"strong\">"
-"搜索</emphasis> 字段中输入软件包的名称并点击 <emphasis role=\"strong\">搜索</"
-"emphasis>。"
+msgid "If you know the name of the package, click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role=\"strong\">Find</emphasis> dialogue box opens. Type the name of the package in the <emphasis role=\"strong\">Search</emphasis> field and click <emphasis role=\"strong\">Search</emphasis>."
+msgstr "如果您知道软件包的名称，点击 <emphasis role=\"strong\">搜索</emphasis>，将弹出 <emphasis role=\"strong\">查找</emphasis> 对话框。在 <emphasis role=\"strong\">搜索</emphasis> 字段中输入软件包的名称并点击 <emphasis role=\"strong\">搜索</emphasis>。"
 
 #: chapter6/xinclude.xml:1287(para)
-msgid ""
-"To return to the list of categories after searching the packages using "
-"<emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong"
-"\">Sections</emphasis>."
-msgstr ""
-"使用 <emphasis role=\"strong\">搜索</emphasis> 功能搜索软件包后要返回分类列表，"
-"请点击 <emphasis role=\"strong\">组别</emphasis>。"
+msgid "To return to the list of categories after searching the packages using <emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong\">Sections</emphasis>."
+msgstr "使用 <emphasis role=\"strong\">搜索</emphasis> 功能搜索软件包后要返回分类列表，请点击 <emphasis role=\"strong\">组别</emphasis>。"
 
 #: chapter6/xinclude.xml:1293(title)
 msgid "Searching a Package to Install"
 msgstr "搜索要安装的软件包"
 
 #: chapter6/xinclude.xml:1304(para)
-msgid ""
-"Choose the action to be performed on the selected package. Select the "
-"<emphasis role=\"strong\">Mark for Installation</emphasis> check box to "
-"install the package or select the <emphasis role=\"strong\">Mark for "
-"Removal</emphasis> check box to remove it. If you change your mind, select "
-"the <emphasis role=\"strong\">Unmark</emphasis> check box."
-msgstr ""
-"选择所选软件包要进行的动作。选择 <emphasis role=\"strong\">标记以便安装</"
-"emphasis> 复选框来安装软件包，或选择 <emphasis role=\"strong\">标记以便删除</"
-"emphasis> 复选框来删除它。如果您想改变主意，选择 <emphasis role=\"strong\">取消"
-"标记</emphasis> 复选框。"
+msgid "Choose the action to be performed on the selected package. Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box to install the package or select the <emphasis role=\"strong\">Mark for Removal</emphasis> check box to remove it. If you change your mind, select the <emphasis role=\"strong\">Unmark</emphasis> check box."
+msgstr "选择所选软件包要进行的动作。选择 <emphasis role=\"strong\">标记以便安装</emphasis> 复选框来安装软件包，或选择 <emphasis role=\"strong\">标记以便删除</emphasis> 复选框来删除它。如果您想改变主意，选择 <emphasis role=\"strong\">取消标记</emphasis> 复选框。"
 
 #: chapter6/xinclude.xml:1310(title)
 msgid "Marking the Package for Installation"
 msgstr "标记软件包以便安装"
 
 #: chapter6/xinclude.xml:1321(para)
-msgid ""
-"If the package that you choose to remove or install depends on other "
-"packages, you will be notified about the dependencies. To continue making "
-"changes, click <emphasis role=\"strong\">Mark</emphasis>."
-msgstr ""
-"如果您选择删除或安装的软件包依赖于其它软件包，您将得到依赖关系的通知。点击 "
-"<emphasis role=\"strong\">标记</emphasis> 以继续作出更改。"
+msgid "If the package that you choose to remove or install depends on other packages, you will be notified about the dependencies. To continue making changes, click <emphasis role=\"strong\">Mark</emphasis>."
+msgstr "如果您选择删除或安装的软件包依赖于其它软件包，您将得到依赖关系的通知。点击 <emphasis role=\"strong\">标记</emphasis> 以继续作出更改。"
 
 #: chapter6/xinclude.xml:1326(title)
 msgid "Confirming Additional Changes"
 msgstr "确认附加的更改"
 
 #: chapter6/xinclude.xml:1337(para)
-msgid ""
-"To confirm that you want to make the marked changes, click <emphasis role="
-"\"strong\">Apply</emphasis>."
+msgid "To confirm that you want to make the marked changes, click <emphasis role=\"strong\">Apply</emphasis>."
 msgstr "要确认您想要进行标记的更改，请点击 <emphasis role=\"strong\">应用</emphasis>。"
 
 #: chapter6/xinclude.xml:1341(title)
@@ -2026,37 +1219,20 @@ msgid "Applying Changes to Update Software Information"
 msgstr "应用更新软件信息的更改"
 
 #: chapter6/xinclude.xml:1352(para)
-msgid ""
-"The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, "
-"prompting you for a final check before making the marked changes. Click "
-"<emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
-msgstr ""
-"弹出 <emphasis role=\"strong\">摘要</emphasis> 对话框，提示您在应用标记的更改之"
-"前进行最后一次确认。点击 <emphasis role=\"strong\">应用</emphasis> 以继续作出更"
-"改。"
+msgid "The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, prompting you for a final check before making the marked changes. Click <emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
+msgstr "弹出 <emphasis role=\"strong\">摘要</emphasis> 对话框，提示您在应用标记的更改之前进行最后一次确认。点击 <emphasis role=\"strong\">应用</emphasis> 以继续作出更改。"
 
 #: chapter6/xinclude.xml:1358(title)
 msgid "Final Confirmation to Install the Package"
 msgstr "最后确认安装软件包"
 
 #: chapter6/xinclude.xml:1369(para)
-msgid ""
-"When all the marked changes are made, you are notified about the changes "
-"applied. Click <emphasis role=\"strong\">Close</emphasis> to close Synaptic "
-"Package Manager."
-msgstr ""
-"当所有标记的更改完成后，您将得到有关更改已应用的通知。点击 <emphasis role="
-"\"strong\">关闭</emphasis> 以关闭新立得软件包管理器。"
+msgid "When all the marked changes are made, you are notified about the changes applied. Click <emphasis role=\"strong\">Close</emphasis> to close Synaptic Package Manager."
+msgstr "当所有标记的更改完成后，您将得到有关更改已应用的通知。点击 <emphasis role=\"strong\">关闭</emphasis> 以关闭新立得软件包管理器。"
 
 #: chapter6/xinclude.xml:1383(para)
-msgid ""
-"This step completes the procedure of installing packages by using Synaptic "
-"Package Manager. You can access the installed package by selecting a "
-"particular menu, depending on the category of the package. The following "
-"figure shows Abiword, which has been installed using this procedure."
-msgstr ""
-"使用新立得软件包管理器安装软件包的过程在这步完成。您可以选择软件包相应分类的"
-"特定菜单访问已安装的软件包。下图展示了 Abiword，它就是使用本过程安装的。"
+msgid "This step completes the procedure of installing packages by using Synaptic Package Manager. You can access the installed package by selecting a particular menu, depending on the category of the package. The following figure shows Abiword, which has been installed using this procedure."
+msgstr "使用新立得软件包管理器安装软件包的过程在这步完成。您可以选择软件包相应分类的特定菜单访问已安装的软件包。下图展示了 Abiword，它就是使用本过程安装的。"
 
 #: chapter6/xinclude.xml:1390(title)
 msgid "Launching the Installed Application - Abiword"
@@ -2067,82 +1243,39 @@ msgid "Installing a Single Package File"
 msgstr "安装单个软件包文件"
 
 #: chapter6/xinclude.xml:1405(para)
-msgid ""
-"The preferred method of installing programmes is by using package managers. "
-"If some packages or files are not available, you can download and install "
-"them from Web sites. These files are associated with the package managers of "
-"specific Linux distributions and are referred to as single package files. "
-"Examples are Debian package files-.deb files and tarballs-.tar files."
-msgstr ""
-"安装程序的首选方案是使用软件包管理器。如果某些软件包或文件不可用，您可以从网"
-"站上下载并安装它们。这些文件与特定 Linux 发行版的软件包管理器相关，称之为单个"
-"软件包文件。例如 Debian 软件包 .deb 文件以及源码包 .tar 文件。"
+msgid "The preferred method of installing programmes is by using package managers. If some packages or files are not available, you can download and install them from Web sites. These files are associated with the package managers of specific Linux distributions and are referred to as single package files. Examples are Debian package files-.deb files and tarballs-.tar files."
+msgstr "安装程序的首选方案是使用软件包管理器。如果某些软件包或文件不可用，您可以从网站上下载并安装它们。这些文件与特定 Linux 发行版的软件包管理器相关，称之为单个软件包文件。例如 Debian 软件包 .deb 文件以及源码包 .tar 文件。"
 
 #: chapter6/xinclude.xml:1415(para)
-msgid ""
-"You should download files that are not present in Ubuntu archives only from "
-"a safe source."
+msgid "You should download files that are not present in Ubuntu archives only from a safe source."
 msgstr "您应该只从安全的来源下载那些 Ubuntu 中不存在的文件。"
 
 #: chapter6/xinclude.xml:1421(para)
-msgid ""
-"Debian Package files: These files are associated with Ubuntu and have the ."
-"deb suffix."
+msgid "Debian Package files: These files are associated with Ubuntu and have the .deb suffix."
 msgstr "Debian 软件包文件：这些文件和 Ubuntu 有关，后缀名为 .deb。"
 
 #: chapter6/xinclude.xml:1426(para)
-msgid ""
-"Tarballs: Zipped archive files that contain the source code of a programme. "
-"This source code needs to be compiled before use. Installing programmes by "
-"compiling them from source is not covered by this course."
-msgstr ""
-"源码包：包含程序源代码的压缩文件包。使用前需要编译源代码。本课程不包括如何"
-"从源代码编译安装程序。"
+msgid "Tarballs: Zipped archive files that contain the source code of a programme. This source code needs to be compiled before use. Installing programmes by compiling them from source is not covered by this course."
+msgstr "源码包：包含程序源代码的压缩文件包。使用前需要编译源代码。本课程不包括如何从源代码编译安装程序。"
 
 #: chapter6/xinclude.xml:1433(para)
-msgid ""
-"Compiling and installing programmes from source tarballs can can be very "
-"complex to debug when things go wrong. Tarballs are simple structures which "
-"don't specify what dependencies are required to enable compilation to take "
-"place. For this reason it can also be time consuming and complex to "
-"determine the necessary dependencies and either install or compile them "
-"also. Compiling from tarball is therefore not covered on this course."
-msgstr ""
-"从源码包编译安装程序会使得出错时的调试变得十分复杂。源码包的结构简单，不明确"
-"指定需要那些依赖来正确编译。因此，确定到底有那些需要的依赖关系以及如何正确安"
-"装或编译都很费时费力。所以本课程不涉及从源码包编译。"
+msgid "Compiling and installing programmes from source tarballs can can be very complex to debug when things go wrong. Tarballs are simple structures which don't specify what dependencies are required to enable compilation to take place. For this reason it can also be time consuming and complex to determine the necessary dependencies and either install or compile them also. Compiling from tarball is therefore not covered on this course."
+msgstr "从源码包编译安装程序会使得出错时的调试变得十分复杂。源码包的结构简单，不明确指定需要那些依赖来正确编译。因此，确定到底有那些需要的依赖关系以及如何正确安装或编译都很费时费力。所以本课程不涉及从源码包编译。"
 
 #: chapter6/xinclude.xml:1444(para)
-msgid ""
-"It is not guaranteed that the single package files will be compatible with "
-"your system. Also, you will not receive security updates if you install "
-"these files. Therefore, wherever possible use a native Ubuntu package of the "
-"application available through a package manager."
-msgstr ""
-"单个软件包文件不保证与您的系统兼容。而且，如果您安装这些文件，您不会收到这些"
-"程序的安全更新。所以，尽可能通过软件包管理器使用原生的 Ubuntu 软件包来安装可"
-"用程序。"
+msgid "It is not guaranteed that the single package files will be compatible with your system. Also, you will not receive security updates if you install these files. Therefore, wherever possible use a native Ubuntu package of the application available through a package manager."
+msgstr "单个软件包文件不保证与您的系统兼容。而且，如果您安装这些文件，您不会收到这些程序的安全更新。所以，尽可能通过软件包管理器使用原生的 Ubuntu 软件包来安装可用程序。"
 
 #: chapter6/xinclude.xml:1452(title)
 msgid "Installing/Uninstalling Debian Packages"
 msgstr "安装/卸载 Debian 软件包"
 
 #: chapter6/xinclude.xml:1454(para)
-msgid ""
-"Debian packages are installed and uninstalled using the graphical installer "
-"(gdebi). gdebi will attempt to install any dependencies which are in the "
-"Ubuntu repositories, however if the package requires further dependencies "
-"which are not in the Ubuntu repositories these will also need to be "
-"installed manually."
-msgstr ""
-"Debian 软件包使用图形安装器 (gdebi) 安装和卸载。gdebi 会尝试在 Ubuntu 仓库中安"
-"装任何需要的依赖软件包，然而，如果软件包需要的额外依赖软件包不存在于 Ubuntu "
-"仓库，那么您得手动安装它们。"
+msgid "Debian packages are installed and uninstalled using the graphical installer (gdebi). gdebi will attempt to install any dependencies which are in the Ubuntu repositories, however if the package requires further dependencies which are not in the Ubuntu repositories these will also need to be installed manually."
+msgstr "Debian 软件包使用图形安装器 (gdebi) 安装和卸载。gdebi 会尝试在 Ubuntu 仓库中安装任何需要的依赖软件包，然而，如果软件包需要的额外依赖软件包不存在于 Ubuntu 仓库，那么您得手动安装它们。"
 
 #: chapter6/xinclude.xml:1460(para)
-msgid ""
-"To install a Debian package, open the .deb file from the folder in which it "
-"resides."
+msgid "To install a Debian package, open the .deb file from the folder in which it resides."
 msgstr "要安装 Debian 软件包，请从其所处的文件夹中打开 .deb 文件。"
 
 #: chapter6/xinclude.xml:1464(title)
@@ -2150,36 +1283,15 @@ msgid "Installing a Debian package:"
 msgstr "安装 Debian 软件包："
 
 #: chapter6/xinclude.xml:1467(para)
-msgid ""
-"Download the package XVidCap <emphasis role=\"strong\"> xvidcap_1.1.6_i386."
-"deb</emphasis>. As this package is not in the Ubuntu repositories, you will "
-"need to download it from the following website: <ulink url=\"http://"
-"sourceforge.net/projects/xvidcap/\">http://sourceforge.net/projects/xvidcap/"
-"</ulink>."
-msgstr ""
-"下载软件包 XVidCap <emphasis role=\"strong\">xvidcap_1.1.6_i386.deb</"
-"emphasis>。由于这个软件包不在 Ubuntu 仓库，您需要从以下网站下载：<ulink url="
-"\"http://sourceforge.net/projects/xvidcap/\">http://sourceforge.net/projects/"
-"xvidcap/</ulink>。"
+msgid "Download the package XVidCap <emphasis role=\"strong\"> xvidcap_1.1.6_i386.deb</emphasis>. As this package is not in the Ubuntu repositories, you will need to download it from the following website: <ulink url=\"http://sourceforge.net/projects/xvidcap/\">http://sourceforge.net/projects/xvidcap/</ulink>."
+msgstr "下载软件包 XVidCap <emphasis role=\"strong\">xvidcap_1.1.6_i386.deb</emphasis>。由于这个软件包不在 Ubuntu 仓库，您需要从以下网站下载：<ulink url=\"http://sourceforge.net/projects/xvidcap/\">http://sourceforge.net/projects/xvidcap/</ulink>。"
 
 #: chapter6/xinclude.xml:1474(para)
-msgid ""
-"Once downloaded, simply double click the .deb file and the gdebi installer "
-"will start. It will check to see if you have all the necessary dependents, "
-"and if so will offer an <emphasis role=\"strong\">Install</emphasis> button. "
-"Simply press the button to start the installation. In the event that "
-"dependencies cannot be resolved, an error message will be displayed and you "
-"will not be able to install the package until they are fulfilled."
-msgstr ""
-"一旦下载完毕，只需双击 .deb 文件，gdebi 安装器便会启动。它会检查您是否已安装"
-"了所有需要的依赖软件包，如果是的话，它会提供一个 <emphasis role=\"strong\">安"
-"装</emphasis> 按钮。简单地按下按钮以开始安装。要是无法解决依赖关系，将显示错误"
-"消息，您将无法安装软件包直到这些依赖关系被满足。"
+msgid "Once downloaded, simply double click the .deb file and the gdebi installer will start. It will check to see if you have all the necessary dependents, and if so will offer an <emphasis role=\"strong\">Install</emphasis> button. Simply press the button to start the installation. In the event that dependencies cannot be resolved, an error message will be displayed and you will not be able to install the package until they are fulfilled."
+msgstr "一旦下载完毕，只需双击 .deb 文件，gdebi 安装器便会启动。它会检查您是否已安装了所有需要的依赖软件包，如果是的话，它会提供一个 <emphasis role=\"strong\">安装</emphasis> 按钮。简单地按下按钮以开始安装。要是无法解决依赖关系，将显示错误消息，您将无法安装软件包直到这些依赖关系被满足。"
 
 #: chapter6/xinclude.xml:1483(para)
-msgid ""
-"To uninstall the package, simply use the Synaptic Package Manager, as "
-"outlined previously in this section."
+msgid "To uninstall the package, simply use the Synaptic Package Manager, as outlined previously in this section."
 msgstr "要卸载软件包，只需使用新立得软件包管理器，就如前一章节所述的步骤。"
 
 #: chapter6/xinclude.xml:1491(title)
@@ -2187,27 +1299,16 @@ msgid "Software Repositories"
 msgstr "软件仓库"
 
 #: chapter6/xinclude.xml:1493(para)
-msgid ""
-"A software repository is a library of packages (applications) available over "
-"the Internet. The Ubuntu software repository contains tens of thousands of "
-"freely available packages for you to download and install. These packages "
-"have been specially built and selected for Ubuntu."
-msgstr ""
-"软件仓库是收藏互联网上可用软件包(应用程序)的“图书馆”。Ubuntu 仓库包含数万个可供您自"
-"由下载和安装的可用软件包。这些软件包是专门为 Ubuntu 构建和挑选的。"
+msgid "A software repository is a library of packages (applications) available over the Internet. The Ubuntu software repository contains tens of thousands of freely available packages for you to download and install. These packages have been specially built and selected for Ubuntu."
+msgstr "软件仓库是收藏互联网上可用软件包(应用程序)的“图书馆”。Ubuntu 仓库包含数万个可供您自由下载和安装的可用软件包。这些软件包是专门为 Ubuntu 构建和挑选的。"
 
 #: chapter6/xinclude.xml:1503(title)
 msgid "Software Repository Categories"
 msgstr "软件仓库分类"
 
 #: chapter6/xinclude.xml:1505(para)
-msgid ""
-"Ubuntu repositories are categorised into four groups based on the level of "
-"support that software development teams provide for a programme and the "
-"level of compliance the programme has with the free software philosophy."
-msgstr ""
-"Ubuntu 仓库分为四个类别，每个类别对应于不同的等级，包括软件开发团队对某个程序"
-"的支持程度，以及该程序与自由软件观念的符合性。"
+msgid "Ubuntu repositories are categorised into four groups based on the level of support that software development teams provide for a programme and the level of compliance the programme has with the free software philosophy."
+msgstr "Ubuntu 仓库分为四个类别，每个类别对应于不同的等级，包括软件开发团队对某个程序的支持程度，以及该程序与自由软件观念的符合程度。"
 
 #: chapter6/xinclude.xml:1512(emphasis)
 msgid "Main"
@@ -2230,172 +1331,87 @@ msgid "The Main Component"
 msgstr "Main 组件"
 
 #: chapter6/xinclude.xml:1531(para)
-msgid ""
-"The Main component contains software packages that are free and fully "
-"supported by the Canonical team. These packages comply with the free "
-"software philosophy and are available by default while installing Ubuntu. "
-"For all packages in the Main component, security updates and technical "
-"support are available free of cost. OpenOffice.org, Abiword and the Apache "
-"web server are some of the packages available there."
-msgstr ""
-"Main 组件包含自由软件的软件包，由 Canonical 团队完全支持。这些软件包与自由软件观念一致，并且安装 Ubuntu 时就默认可用。所有 "
-"Main 组件中的软件包都可免费获得安全更新和技术支持。OpenOffice.org、Abiword 和 Apache 网络服务器就在其中。"
+msgid "The Main component contains software packages that are free and fully supported by the Canonical team. These packages comply with the free software philosophy and are available by default while installing Ubuntu. For all packages in the Main component, security updates and technical support are available free of cost. OpenOffice.org, Abiword and the Apache web server are some of the packages available there."
+msgstr "Main 组件包含自由软件的软件包，由 Canonical 团队完全支持。这些软件包与自由软件观念一致，并且安装 Ubuntu 时就默认可用。所有 Main 组件中的软件包都可免费获得安全更新和技术支持。OpenOffice.org、Abiword 和 Apache 网络服务器就在其中。"
 
 #: chapter6/xinclude.xml:1541(title)
 msgid "The Restricted Component"
 msgstr "Restricted 组件"
 
 #: chapter6/xinclude.xml:1543(para)
-msgid ""
-"The Restricted component consists of packages for commonly used software "
-"that are supported by the Ubuntu team but not available under a completely "
-"free license. Binary drivers produced by some video card vendors are an "
-"example of packages available there. Packages in this component are also "
-"available on the standard Ubuntu installation CD, but they can be easily "
-"removed."
-msgstr ""
-"Restricted 组件包含通常使用的软件，由 Ubuntu "
-"团队支持，但不是完全的自由软件许可授权。一些显卡厂商生产的二进制驱动。此组件中的软件包在标准 Ubuntu 安装 CD 中同样可用，但能很容易删除。"
+msgid "The Restricted component consists of packages for commonly used software that are supported by the Ubuntu team but not available under a completely free license. Binary drivers produced by some video card vendors are an example of packages available there. Packages in this component are also available on the standard Ubuntu installation CD, but they can be easily removed."
+msgstr "Restricted 组件包含通常使用的软件，由 Ubuntu 团队支持，但不是完全的自由软件许可授权。一些显卡厂商生产的二进制驱动。此组件中的软件包在标准 Ubuntu 安装 CD 中同样可用，但能很容易删除。"
 
 #: chapter6/xinclude.xml:1552(title)
 msgid "The Universe Component"
 msgstr "Universe 组件"
 
 #: chapter6/xinclude.xml:1554(para)
-msgid ""
-"The Universe component includes thousands of packages for software that is "
-"not officially supported by Canonical. The software is available under a "
-"variety of free licenses, taken from a variety of public sources. This "
-"component is available only through Internet downloading."
-msgstr ""
-"Universe 组件包含了数千个不由 Canonical "
-"官方支持的软件包。这些软件授权于各种自由软件许可协议，来自各种公共来源。此组件只能通过互联网下载获得。"
+msgid "The Universe component includes thousands of packages for software that is not officially supported by Canonical. The software is available under a variety of free licenses, taken from a variety of public sources. This component is available only through Internet downloading."
+msgstr "Universe 组件包含了数千个不由 Canonical 官方支持的软件包。这些软件授权于各种自由软件许可协议，来自各种公共来源。此组件只能通过互联网下载获得。"
 
 #: chapter6/xinclude.xml:1561(para)
-msgid ""
-"All the packages in this component are expected to work perfectly. However, "
-"there is no guarantee of security fixes and support for these packages. "
-"These packages are maintained by the community."
-msgstr ""
-"在此组件中的所有软件包都能完美地运行工作。不过，这些软件包不保证有安全修正和"
-"支持。这些软件包由社区维护。"
+msgid "All the packages in this component are expected to work perfectly. However, there is no guarantee of security fixes and support for these packages. These packages are maintained by the community."
+msgstr "在此组件中的所有软件包都能完美地运行工作。不过，这些软件包不保证有安全修正和支持。这些软件包由社区维护。"
 
 #: chapter6/xinclude.xml:1568(para)
-msgid ""
-"It could be considered risky to use packages from the Universe component, "
-"especially because the lack of guaranteed security updates."
-msgstr ""
-"使用 Universe 组件的软件包可以认为是有风险的，尤其是因为它们不保证有安全更"
-"新。"
+msgid "It could be considered risky to use packages from the Universe component, especially because the lack of guaranteed security updates."
+msgstr "使用 Universe 组件的软件包可以认为是有风险的，尤其是因为它们不保证有安全更新。"
 
 #: chapter6/xinclude.xml:1574(title)
 msgid "The Multiverse Component"
 msgstr "Multiverse 组件"
 
 #: chapter6/xinclude.xml:1576(para)
-msgid ""
-"The Multiverse component contains packages of non-free software, which means "
-"that the licensing requirements of the software does not meet the license "
-"policy of Ubuntu's Main component. It is the user's responsibility to verify "
-"their rights to use the software and comply with the individual licensing "
-"terms. Support and security updates are not provided. Examples of these "
-"packages include VLC and the Adobe Flash plugin."
-msgstr ""
-"Multiverse 组件包含非自由软件，也就是说软件的许可协议需求与 Ubuntu Main "
-"组件的许可协议规则不符。用户需负责验证自己是否有权使用该软件并接受单一的许可协议条款。Ubuntu 不提供支持和安全更新。这些软件包包括 VLC 和 "
-"Adobe Flash 插件。"
+msgid "The Multiverse component contains packages of non-free software, which means that the licensing requirements of the software does not meet the license policy of Ubuntu's Main component. It is the user's responsibility to verify their rights to use the software and comply with the individual licensing terms. Support and security updates are not provided. Examples of these packages include VLC and the Adobe Flash plugin."
+msgstr "Multiverse 组件包含非自由软件，也就是说软件的许可协议需求与 Ubuntu Main 组件的许可协议规则不符。用户需负责验证自己是否有权使用该软件并接受单一的许可协议条款。Ubuntu 不提供支持和安全更新。这些软件包包括 VLC 和 Adobe Flash 插件。"
 
 #: chapter6/xinclude.xml:1588(para)
-msgid ""
-"Software from the Multiverse component could be hindered by patents and "
-"restriction on usage and distribution. It is the user's responsibility to "
-"determine if the software can be used in its jurisdiction and complies with "
-"local laws."
-msgstr ""
-"使用 Multiverse 组件的软件必须考虑到专利和使用目的限制因素，以及发行版的阻碍。用户得承担责任，确保能在当地法律允许范围内使用这些软件。"
+msgid "Software from the Multiverse component could be hindered by patents and restriction on usage and distribution. It is the user's responsibility to determine if the software can be used in its jurisdiction and complies with local laws."
+msgstr "使用 Multiverse 组件的软件必须考虑到专利和使用目的限制因素，以及发行版的阻碍。用户得承担责任，确保能在当地法律允许范围内使用这些软件。"
 
 #: chapter6/xinclude.xml:1594(para)
-msgid ""
-"Many packages are not available in default Ubuntu repositories. These "
-"packages can either be installed from other Ubuntu repositories or from "
-"third-party software. To use the packages present in third-party software, "
-"you need to add the software and the repositories."
-msgstr ""
-"很多软件包在默认的 Ubuntu 仓库中不可用。这些软件包可以从其它 Ubuntu 仓库或第"
-"三方软件中安装。要安装第三方软件中存在的软件包，您需要添加该软件和其仓库。"
+msgid "Many packages are not available in default Ubuntu repositories. These packages can either be installed from other Ubuntu repositories or from third-party software. To use the packages present in third-party software, you need to add the software and the repositories."
+msgstr "很多软件包在默认的 Ubuntu 仓库中不可用。这些软件包可以从其它 Ubuntu 仓库或第三方软件中安装。要安装第三方软件中存在的软件包，您需要添加该软件和其仓库。"
 
 #: chapter6/xinclude.xml:1600(title)
-msgid ""
-"Perform the following steps to add the third-party software and repositories:"
+msgid "Perform the following steps to add the third-party software and repositories:"
 msgstr "添加第三方软件和仓库的步骤如下："
 
 #: chapter6/xinclude.xml:1604(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and then click <emphasis role="
-"\"strong\">Software Sources</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role="
-"\"strong\">系统管理</emphasis>，然后点击 <emphasis role=\"strong\">软件源</"
-"emphasis>。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Software Sources</emphasis>."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击 <emphasis role=\"strong\">系统管理</emphasis>，然后点击 <emphasis role=\"strong\">软件源</emphasis>。"
 
 #: chapter6/xinclude.xml:1609(title)
 msgid "Launching Software Sources Dialogue Box"
 msgstr "启动软件源对话框"
 
 #: chapter6/xinclude.xml:1618(para)
-msgid ""
-"The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box "
-"opens. The software sources for Ubuntu are selected by default."
-msgstr ""
-"弹出 <emphasis role=\"strong\">软件源</emphasis> 对话框。默认已经选择了 Ubuntu "
-"的软件源。"
+msgid "The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box opens. The software sources for Ubuntu are selected by default."
+msgstr "弹出 <emphasis role=\"strong\">软件源</emphasis> 对话框。默认已经选择了 Ubuntu 的软件源。"
 
 #: chapter6/xinclude.xml:1623(title)
 msgid "Selecting the Required Sources"
 msgstr "选择需要的源"
 
 #: chapter6/xinclude.xml:1635(para)
-msgid ""
-"You can also open the <emphasis role=\"strong\">Software Sources</emphasis> "
-"dialogue box by using the Add/Remove applications or Synaptic Package "
-"Manager to enable the repositories under the <emphasis role=\"strong"
-"\">Ubuntu Software</emphasis> tab."
-msgstr ""
-"您也可以使用软件中心或新立得软件包管理器打开 <emphasis role=\"strong\">软件源"
-"</emphasis>。在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页中启用仓"
-"库。"
+msgid "You can also open the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box by using the Add/Remove applications or Synaptic Package Manager to enable the repositories under the <emphasis role=\"strong\">Ubuntu Software</emphasis> tab."
+msgstr "您也可以使用软件中心或新立得软件包管理器打开 <emphasis role=\"strong\">软件源</emphasis>。在 <emphasis role=\"strong\">Ubuntu 软件</emphasis> 标签页中启用仓库。"
 
 #: chapter6/xinclude.xml:1644(para)
-msgid ""
-"To add a repository from the third party, click the <emphasis role=\"strong"
-"\">Third-Party Software</emphasis> tab and then click <emphasis role=\"strong"
-"\">Add</emphasis>."
-msgstr ""
-"要添加第三方仓库，请点击 <emphasis role=\"strong\">其它软件</emphasis> 标签，"
-"然后点击 <emphasis role=\"strong\">添加</emphasis>。"
+msgid "To add a repository from the third party, click the <emphasis role=\"strong\">Third-Party Software</emphasis> tab and then click <emphasis role=\"strong\">Add</emphasis>."
+msgstr "要添加第三方仓库，请点击 <emphasis role=\"strong\">其它软件</emphasis> 标签，然后点击 <emphasis role=\"strong\">添加</emphasis>。"
 
 #: chapter6/xinclude.xml:1648(title)
 msgid "Adding a Third Party Software Source"
 msgstr "添加其它软件源"
 
 #: chapter6/xinclude.xml:1659(para)
-msgid ""
-"Type the APT line for the repository you want to add as a source. To access "
-"the Debian main repositories, type <emphasis role=\"strong\">deb <ulink url="
-"\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge main</"
-"emphasis> in the <emphasis role=\"strong\">APT line</emphasis> box. Click "
-"<emphasis role=\"strong\">Add Source</emphasis>."
-msgstr ""
-"在 APT 行中输入您想要添加为软件源的仓库。要访问 Debian main 仓库，请在 "
-"<emphasis role=\"strong\">APT 行</emphasis> 框中输入 <emphasis role=\"strong"
-"\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> "
-"sarge main</emphasis>。点击 <emphasis role=\"strong\">添加源 </emphasis>。"
+msgid "Type the APT line for the repository you want to add as a source. To access the Debian main repositories, type <emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge main</emphasis> in the <emphasis role=\"strong\">APT line</emphasis> box. Click <emphasis role=\"strong\">Add Source</emphasis>."
+msgstr "在 APT 行中输入您想要添加为软件源的仓库。要访问 Debian main 仓库，请在 <emphasis role=\"strong\">APT 行</emphasis> 框中输入 <emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge main</emphasis>。点击 <emphasis role=\"strong\">添加源 </emphasis>。"
 
 #: chapter6/xinclude.xml:1667(para)
-msgid ""
-"The APT line should include the type, location and components of a "
-"repository."
+msgid "The APT line should include the type, location and components of a repository."
 msgstr "APT 行应该包含类型、位置和仓库组件信息。"
 
 #: chapter6/xinclude.xml:1672(title)
@@ -2403,54 +1419,28 @@ msgid "Stating the Source APT Line"
 msgstr "填写软件源 APT 行"
 
 #: chapter6/xinclude.xml:1683(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> to save changes. The "
-"repository specified in the APT line is added to the third-party software "
-"box."
-msgstr ""
-"点击 <emphasis role=\"strong\">关闭</emphasis> 以保存更改。在 APT 行中指定的仓"
-"库会添加到第三方软件列表框中。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> to save changes. The repository specified in the APT line is added to the third-party software box."
+msgstr "点击 <emphasis role=\"strong\">关闭</emphasis> 以保存更改。在 APT 行中指定的仓库会添加到第三方软件列表框中。"
 
 #: chapter6/xinclude.xml:1688(title)
 msgid "Software Sources Dialogue Box Displaying the Added Source"
 msgstr "显示已添加软件源的软件源对话框"
 
 #: chapter6/xinclude.xml:1700(para)
-msgid ""
-"With the addition of an extra repository, you will be prompted to update "
-"information about available software. Click <emphasis role=\"strong"
-"\">Reload</emphasis> to do so."
-msgstr ""
-"添加额外的仓库后，会提示您更新可用软件的信息。点击 <emphasis role=\"strong\">"
-"重新载入</emphasis> 更新。"
+msgid "With the addition of an extra repository, you will be prompted to update information about available software. Click <emphasis role=\"strong\">Reload</emphasis> to do so."
+msgstr "添加额外的仓库后，会提示您更新可用软件的信息。点击 <emphasis role=\"strong\">重新载入</emphasis> 更新。"
 
 #: chapter6/xinclude.xml:1704(title)
 msgid "Reloading Available Software Information"
 msgstr "刷新可用软件信息"
 
 #: chapter6/xinclude.xml:1715(para)
-msgid ""
-"The progress indicator shows the status of package being installed or "
-"removed."
+msgid "The progress indicator shows the status of package being installed or removed."
 msgstr "进度指示条显示正在安装或删除的软件包状态。"
 
 #: chapter6/xinclude.xml:1718(para)
-msgid ""
-"You can authenticate your downloads from the <emphasis role=\"strong"
-"\">Authentication</emphasis> tab in the <emphasis role=\"strong\">Software "
-"Sources</emphasis> dialogue box. When you do not authenticate your "
-"downloads, your computer may show the error shown below after downloading "
-"the package information. This error can be ignored. To authenticate the "
-"downloading process, you need to import the GPG key, which is different for "
-"every repository. Click <emphasis role=\"strong\">Close</emphasis> in the "
-"dialogue box showing the error. This step will end the process of adding "
-"extra repositories and updating package information."
-msgstr ""
-"您可以在 <emphasis role=\"strong\">软件源</emphasis> 对话框的 <emphasis role="
-"\"strong\">身份验证</emphasis> 标签中对您的下载进行认证。如果您不认证下载，计算机"
-"可能会在下载软件包信息后显示如下的错误。此错误可以忽略。要认证下载流程，您需"
-"要导入 GPG 公钥。每个仓库有不同的公钥。点击错误对话框中的 <emphasis role="
-"\"strong\">关闭</emphasis>。这步将完成添加额外仓库和更新软件包信息过程。"
+msgid "You can authenticate your downloads from the <emphasis role=\"strong\">Authentication</emphasis> tab in the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box. When you do not authenticate your downloads, your computer may show the error shown below after downloading the package information. This error can be ignored. To authenticate the downloading process, you need to import the GPG key, which is different for every repository. Click <emphasis role=\"strong\">Close</emphasis> in the dialogue box showing the error. This step will end the process of adding extra repositories and updating package information."
+msgstr "您可以在 <emphasis role=\"strong\">软件源</emphasis> 对话框的 <emphasis role=\"strong\">身份验证</emphasis> 标签中对您的下载进行认证。如果您不认证下载，计算机可能会在下载软件包信息后显示如下的错误。此错误可以忽略。要认证下载流程，您需要导入 GPG 公钥。每个仓库有不同的公钥。点击错误对话框中的 <emphasis role=\"strong\">关闭</emphasis>。这步将完成添加额外仓库和更新软件包信息过程。"
 
 #: chapter6/xinclude.xml:1728(title)
 msgid "Public Key Error"
@@ -2461,27 +1451,12 @@ msgid "Adding New Language Settings"
 msgstr "添加新语言设置"
 
 #: chapter6/xinclude.xml:1746(para)
-msgid ""
-"Ubuntu provides the option to enable numerous language settings for your "
-"desktop."
+msgid "Ubuntu provides the option to enable numerous language settings for your desktop."
 msgstr "Ubuntu 为您的桌面提供了启用数种语言设置的选项。"
 
 #: chapter6/xinclude.xml:1749(para)
-msgid ""
-"Support for new languages can be installed via <emphasis role=\"strong"
-"\">Language Support</emphasis>, which is found in the <emphasis role=\"strong"
-"\">Administration/System</emphasis> menu. Depending on the language, the "
-"input method and keyboard mapping may need to be changed as well. The "
-"<emphasis>Smart Common Input Method</emphasis>(SCIM) is used in Ubuntu to "
-"switch between different input methods for complex characters in many non-"
-"Latin languages. The <emphasis>ctrl space</emphasis> hotkey is a convenient "
-"switch between different input methods."
-msgstr ""
-"新语言支持可通过 <emphasis role=\"strong\">管理/系统管理</emphasis> 菜单中的 <emphasis "
-"role=\"strong\">语言支持</emphasis> 安装。对于不同的语言，可能还需要安装输入法和键盘映射。<emphasis>"
-"Intelligent Input Bus for Linux / Unix OS</emphasis>(IBus)是 Ubuntu "
-"在许多非拉丁语言支持上使用的输入法，可输入各种复杂的字符及互相切换输入语言。使用热键<emphasis>ctrl space</emphasis> "
-"可以方便地切换输入法。"
+msgid "Support for new languages can be installed via <emphasis role=\"strong\">Language Support</emphasis>, which is found in the <emphasis role=\"strong\">Administration/System</emphasis> menu. Depending on the language, the input method and keyboard mapping may need to be changed as well. The <emphasis>Smart Common Input Method</emphasis>(SCIM) is used in Ubuntu to switch between different input methods for complex characters in many non-Latin languages. The <emphasis>ctrl space</emphasis> hotkey is a convenient switch between different input methods."
+msgstr "新语言支持可通过 <emphasis role=\"strong\">管理/系统管理</emphasis> 菜单中的 <emphasis role=\"strong\">语言支持</emphasis> 安装。对于不同的语言，可能还需要安装输入法和键盘映射。<emphasis>Intelligent Input Bus for Linux / Unix OS</emphasis>(IBus)是 Ubuntu 在许多非拉丁语言支持上使用的输入法，可输入各种复杂的字符及互相切换输入语言。使用热键<emphasis>ctrl space</emphasis> 可以方便地切换输入法。"
 
 #: chapter6/xinclude.xml:1758(title)
 msgid "Lesson Summary"
@@ -2492,49 +1467,27 @@ msgid "In this lesson, you learned that:"
 msgstr "在本课程中，您学到了："
 
 #: chapter6/xinclude.xml:1764(para)
-msgid ""
-"GNOME is the default desktop for Ubuntu. You can use the <emphasis role="
-"\"strong\">Preferences</emphasis> option on the <emphasis role=\"strong"
-"\">System</emphasis> menu to customise the Ubuntu desktop look and feel."
-msgstr ""
-"GNOME 是 Ubuntu 的默认桌面。您可以使用 <emphasis role=\"strong\">系统</"
-"emphasis> 菜单中的 <emphasis role=\"strong\">首选项</emphasis> 来自定义 Ubuntu "
-"桌面的外观。"
+msgid "GNOME is the default desktop for Ubuntu. You can use the <emphasis role=\"strong\">Preferences</emphasis> option on the <emphasis role=\"strong\">System</emphasis> menu to customise the Ubuntu desktop look and feel."
+msgstr "GNOME 是 Ubuntu 的默认桌面。您可以使用 <emphasis role=\"strong\">系统</emphasis> 菜单中的 <emphasis role=\"strong\">首选项</emphasis> 来自定义 Ubuntu 桌面的外观。"
 
 #: chapter6/xinclude.xml:1770(para)
-msgid ""
-"You can manage your file system using the Nautilus file manager. Use the "
-"spatial mode to open each folder in a separate window and view the content "
-"of various folders simultaneously. Use the browser mode to open folders in a "
-"single window."
-msgstr ""
-"您可以使用 Nautilus "
-"文件管理器管理您的文件系统。使用空间模式在分离的窗口中打开每个文件夹并同时查看各个文件夹的内容。使用浏览模式在单一窗口中打开文件夹。"
+msgid "You can manage your file system using the Nautilus file manager. Use the spatial mode to open each folder in a separate window and view the content of various folders simultaneously. Use the browser mode to open folders in a single window."
+msgstr "您可以使用 Nautilus 文件管理器管理您的文件系统。使用空间模式在分离的窗口中打开每个文件夹并同时查看各个文件夹的内容。使用浏览模式在单一窗口中打开文件夹。"
 
 #: chapter6/xinclude.xml:1777(para)
-msgid ""
-"Add/Remove Applications is the easiest tool to install or uninstall packages."
+msgid "Add/Remove Applications is the easiest tool to install or uninstall packages."
 msgstr "软件中心是安装或卸载软件包最简单易用的工具。"
 
 #: chapter6/xinclude.xml:1782(para)
-msgid ""
-"You can use Synaptic Package Manager to install or uninstall advanced "
-"applications that cannot be installed using Add/Remove."
+msgid "You can use Synaptic Package Manager to install or uninstall advanced applications that cannot be installed using Add/Remove."
 msgstr "您可以使用新立得软件包管理器来安装或卸载无法使用软件中心安装的高级应用程序。"
 
 #: chapter6/xinclude.xml:1788(para)
-msgid ""
-"To install a package that is not available in the Ubuntu archives, you can "
-"download and install it from Web sites. These files are associated with the "
-"package managers of specific Linux distribution and are referred to as "
-"single package files."
+msgid "To install a package that is not available in the Ubuntu archives, you can download and install it from Web sites. These files are associated with the package managers of specific Linux distribution and are referred to as single package files."
 msgstr "要安装 Ubuntu 归档中没有的软件包，可以从网站下下载并安装。这些文件与特定 Linux 发行版的软件包管理器相关，称为单个软件包文件。"
 
 #: chapter6/xinclude.xml:1795(para)
-msgid ""
-"Tarballs are zipped archive files that contain the source code of a "
-"programme. You can use advanced command line tools to install or uninstall "
-"the tarball file."
+msgid "Tarballs are zipped archive files that contain the source code of a programme. You can use advanced command line tools to install or uninstall the tarball file."
 msgstr "源码包是种经过压缩的归档文件，包含程序的源代码。您可使用高级的命令行工具来安装或卸载源码包文件。"
 
 #: chapter6/xinclude.xml:1803(title)
@@ -2550,17 +1503,12 @@ msgid "GNOME is the default desktop for Ubuntu."
 msgstr "GNOME 是 Ubuntu 的默认桌面。"
 
 #: chapter6/xinclude.xml:1818(para)
-msgid ""
-"From which Web site can you download additional Ubuntu wallpapers and themes?"
+msgid "From which Web site can you download additional Ubuntu wallpapers and themes?"
 msgstr "您可以从哪个网站上下载额外的 Ubuntu 墙纸和主题？"
 
 #: chapter6/xinclude.xml:1823(para)
-msgid ""
-"You can download additional wallpapers and themes from the Web site <ulink "
-"url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>."
-msgstr ""
-"您可以从网站 <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> "
-"上下载额外的墙纸和主题。"
+msgid "You can download additional wallpapers and themes from the Web site <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>."
+msgstr "您可以从网站 <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink> 上下载额外的墙纸和主题。"
 
 #: chapter6/xinclude.xml:1830(para)
 msgid "Mention any three features of the Nautilus file manager."
@@ -2595,39 +1543,27 @@ msgid "What is a package manager?"
 msgstr "软件包管理器是什么？"
 
 #: chapter6/xinclude.xml:1869(para)
-msgid ""
-"A package manager is a programme that helps add or remove packages in Ubuntu."
+msgid "A package manager is a programme that helps add or remove packages in Ubuntu."
 msgstr "软件包管理器是帮助您添加和删除 Ubuntu 软件包的程序。"
 
 #: chapter6/xinclude.xml:1876(para)
-msgid ""
-"Differentiate between a graphical package manager and a command line package "
-"manager. Provide examples of each."
+msgid "Differentiate between a graphical package manager and a command line package manager. Provide examples of each."
 msgstr "请辨别图形软件包管理器和命令行软件包管理器之间的区别。各举一例。"
 
 #: chapter6/xinclude.xml:1881(para)
-msgid ""
-"To add and remove packages, a graphical package manager uses the graphical "
-"interface while a command line package manager uses the command line "
-"interface."
+msgid "To add and remove packages, a graphical package manager uses the graphical interface while a command line package manager uses the command line interface."
 msgstr "对于安装和卸载软件包，图形软件包管理器使用图形用户界面，而命令行软件包管理器使用命令行界面。"
 
 #: chapter6/xinclude.xml:1885(para)
-msgid ""
-"Add/Remove Applications is a graphical package manager and apt-get is a "
-"command line package manager."
+msgid "Add/Remove Applications is a graphical package manager and apt-get is a command line package manager."
 msgstr "软件中心应用程序是图形界面的软件包管理器，而 apt-get 是命令行软件包管理器。"
 
 #: chapter6/xinclude.xml:1892(para)
-msgid ""
-"Software that is not licensed under Ubuntu's main component licensing policy "
-"is referred to as _______________."
+msgid "Software that is not licensed under Ubuntu's main component licensing policy is referred to as _______________."
 msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被称为_______________。"
 
 #: chapter6/xinclude.xml:1897(para)
-msgid ""
-"Software that is not licensed under Ubuntu's main component licensing policy "
-"is referred to as non-free software."
+msgid "Software that is not licensed under Ubuntu's main component licensing policy is referred to as non-free software."
 msgstr "不符合 Ubuntu 的 main 组件许可协议规定的软件被称为非自由软件。"
 
 #: chapter6/xinclude.xml:1905(title)
@@ -2635,26 +1571,16 @@ msgid "Lab Exercise"
 msgstr "上机练习"
 
 #: chapter6/xinclude.xml:1910(para)
-msgid ""
-"Explain to the students the purpose of each application. xpdf is a suite of "
-"tools used to view Portable Document Format (pdf). This package supports "
-"standard X fonts, true type fonts and type1 fonts. Gnumeric is a stand-alone "
-"spreadsheet application that interoperates well with other spreadsheets."
-msgstr ""
-"向学生们解释各个应用程序的用途。xpdf 是一套用来显示可移植文档格式(pdf)的工具。这个软件包支持标准 X 字体、true type 字体和 "
-"type 1 字体。Gnumeric 是款独立的电子表格应用程序，能与其它电子表格程序相互操作。"
+msgid "Explain to the students the purpose of each application. xpdf is a suite of tools used to view Portable Document Format (pdf). This package supports standard X fonts, true type fonts and type1 fonts. Gnumeric is a stand-alone spreadsheet application that interoperates well with other spreadsheets."
+msgstr "向学生们解释各个应用程序的用途。xpdf 是一套用来显示可移植文档格式(pdf)的工具。这个软件包支持标准 X 字体、true type 字体和 type 1 字体。Gnumeric 是款独立的电子表格应用程序，能与其它电子表格程序相互操作。"
 
 #: chapter6/xinclude.xml:1918(title)
 msgid "Exercise 1"
 msgstr "练习 1"
 
 #: chapter6/xinclude.xml:1920(para)
-msgid ""
-"You have installed Ubuntu 8.04 on your personal computer. You want to view "
-"your pdf files, use a spreadsheet application for creating your daily tasks "
-"and archive your files. Install the following packages:"
-msgstr ""
-"您在您的个人计算机上安装了 Ubuntu 9.10。您想要查看您的 pdf 文件，使用电子表格应用程序创建您的每日任务并打包您的文件。需要安装以下软件包："
+msgid "You have installed Ubuntu 8.04 on your personal computer. You want to view your pdf files, use a spreadsheet application for creating your daily tasks and archive your files. Install the following packages:"
+msgstr "您在您的个人计算机上安装了 Ubuntu 9.10。您想要查看您的 pdf 文件，使用电子表格应用程序创建您的每日任务并打包您的文件。需要安装以下软件包："
 
 #: chapter6/xinclude.xml:1926(para)
 msgid "a) xpdf"
@@ -2669,28 +1595,16 @@ msgid "a) Installing xpdf using Add/Remove Applications:"
 msgstr "a) 使用 Ubuntu 软件中心安装 xpdf："
 
 #: chapter6/xinclude.xml:1934(para)
-msgid ""
-"On the <emphasis role=\"strong\">Application</emphasis> menu, click "
-"<emphasis role=\"strong\">Add/Remove</emphasis>. The <emphasis role=\"strong"
-"\">Add/Remove</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，点击 <emphasis role=\"strong\">"
-"Ubuntu 软件中心</emphasis>，弹出 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> "
-"对话框。"
+msgid "On the <emphasis role=\"strong\">Application</emphasis> menu, click <emphasis role=\"strong\">Add/Remove</emphasis>. The <emphasis role=\"strong\">Add/Remove</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，点击 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis>，弹出 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:1939(para)
-msgid ""
-"In the <emphasis role=\"strong\">Search</emphasis> box, type <emphasis role="
-"\"strong\">xpdf</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">搜索</emphasis> 框中，输入 <emphasis role=\"strong\">"
-"xpdf</emphasis>。"
+msgid "In the <emphasis role=\"strong\">Search</emphasis> box, type <emphasis role=\"strong\">xpdf</emphasis>."
+msgstr "在 <emphasis role=\"strong\">搜索</emphasis> 框中，输入 <emphasis role=\"strong\">xpdf</emphasis>。"
 
 #: chapter6/xinclude.xml:1944(para)
 msgid "Select the check box next to <emphasis role=\"strong\">xpdf</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">xpdf</emphasis> 介绍页面中，点击下方 <emphasis "
-"role=\"strong\">安装</emphasis> 按钮来执行相应操作。"
+msgstr "在 <emphasis role=\"strong\">xpdf</emphasis> 介绍页面中，点击下方 <emphasis role=\"strong\">安装</emphasis> 按钮来执行相应操作。"
 
 #: chapter6/xinclude.xml:1948(para)
 msgid "Click <emphasis role=\"strong\">Apply Changes</emphasis>."
@@ -2701,9 +1615,7 @@ msgid "Click <emphasis role=\"strong\">Apply</emphasis> to make the changes."
 msgstr "页面中的进度条指示器将显示正在安装或删除的软件包状态。"
 
 #: chapter6/xinclude.xml:1957(para)
-msgid ""
-"In the <emphasis role=\"strong\">New application has been installed</"
-"emphasis> dialogue box, click <emphasis role=\"strong\">Close</emphasis>."
+msgid "In the <emphasis role=\"strong\">New application has been installed</emphasis> dialogue box, click <emphasis role=\"strong\">Close</emphasis>."
 msgstr "执行完毕，软件包安装完成，返回该软件介绍页面。"
 
 #: chapter6/xinclude.xml:1963(title)
@@ -2711,58 +1623,31 @@ msgid "b) Installing gnumeric from Synaptic:"
 msgstr "b) 从新立得安装 gnumeric："
 
 #: chapter6/xinclude.xml:1966(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and then click <emphasis role="
-"\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong"
-"\">Synaptic Package Manager</emphasis> dialogue box opens."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击<emphasis role=\"strong\">"
-"系统管理<"
-"/emphasis>，然后点击 <emphasis role=\"strong\">新立得软件包管理器</emphasis>，弹出 <emphasis "
-"role=\"strong\">新立得软件包管理器</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> dialogue box opens."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，点击<emphasis role=\"strong\">系统管理</emphasis>，然后点击 <emphasis role=\"strong\">新立得软件包管理器</emphasis>，弹出 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 对话框。"
 
 #: chapter6/xinclude.xml:1974(para)
-msgid ""
-"Click <emphasis role=\"strong\">Search</emphasis> to find gnumeric and "
-"select the <emphasis role=\"strong\">gnumeric</emphasis> check box."
-msgstr ""
-"点击 <emphasis role=\"strong\">搜索</emphasis> 查找 gnumeric，然后选中 <emphasis "
-"role=\"strong\">gnumeric</emphasis> 复选框。"
+msgid "Click <emphasis role=\"strong\">Search</emphasis> to find gnumeric and select the <emphasis role=\"strong\">gnumeric</emphasis> check box."
+msgstr "点击 <emphasis role=\"strong\">搜索</emphasis> 查找 gnumeric，然后选中 <emphasis role=\"strong\">gnumeric</emphasis> 复选框。"
 
 #: chapter6/xinclude.xml:1980(para)
-msgid ""
-"Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check "
-"box. A dialogue box displaying the dependencies of this package on other "
-"packages opens."
-msgstr ""
-"选中 <emphasis role=\"strong\">标记以便安装</emphasis> 复选框，弹出对话框显示此软件包需要依赖的其它软件包。"
+msgid "Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box. A dialogue box displaying the dependencies of this package on other packages opens."
+msgstr "选中 <emphasis role=\"strong\">标记以便安装</emphasis> 复选框，弹出对话框显示此软件包需要依赖的其它软件包。"
 
 #: chapter6/xinclude.xml:1986(para)
-msgid ""
-"To continue making the required changes, click <emphasis role=\"strong"
-"\">Mark</emphasis>."
+msgid "To continue making the required changes, click <emphasis role=\"strong\">Mark</emphasis>."
 msgstr "点击 <emphasis role=\"strong\">标记</emphasis> 继续标记所需的更改。"
 
 #: chapter6/xinclude.xml:1990(para)
-msgid ""
-"To confirm making the marked changes, click <emphasis role=\"strong\">Apply</"
-"emphasis>. The <emphasis role=\"strong\">Summary</emphasis> dialogue box "
-"opens, prompting you for a final check before making the marked changes."
-msgstr ""
-"点击 <emphasis role=\"strong\">应用</emphasis> 确认进行标记的更改。弹出 <emphasis "
-"role=\"strong\">摘要</emphasis> 对话框提示您在进行标记的更改前进行最后一次检查。"
+msgid "To confirm making the marked changes, click <emphasis role=\"strong\">Apply</emphasis>. The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, prompting you for a final check before making the marked changes."
+msgstr "点击 <emphasis role=\"strong\">应用</emphasis> 确认进行标记的更改。弹出 <emphasis role=\"strong\">摘要</emphasis> 对话框提示您在进行标记的更改前进行最后一次检查。"
 
 #: chapter6/xinclude.xml:1995(para)
-msgid ""
-"Click <emphasis role=\"strong\">Apply</emphasis> to continue with the "
-"changes."
+msgid "Click <emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
 msgstr "点击 <emphasis role=\"strong\">应用</emphasis> 继续此更改。"
 
 #: chapter6/xinclude.xml:2000(para)
-msgid ""
-"When all the marked changes are made, you are notified of the changes "
-"applied. Click <emphasis role=\"strong\">Close</emphasis>."
+msgid "When all the marked changes are made, you are notified of the changes applied. Click <emphasis role=\"strong\">Close</emphasis>."
 msgstr "当所有标记的更改完成后，您将得到更改已应用的通知。点击 <emphasis role=\"strong\">关闭</emphasis>。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
@@ -2771,5 +1656,4 @@ msgid "translator-credits"
 msgstr ""
 "Ni Hui <shuizhuyuanluo@126.com>, 2010\n"
 "Hunt Xu <mhuntxu@gmail.com>, 2010"
-
 

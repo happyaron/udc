@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-and-games\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-07 23:41+0800\n"
-"Last-Translator: Hunt Xu <mhuntxu@gmail.com>\n"
+"PO-Revision-Date: 2010-01-08 04:30+0800\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,192 +18,116 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:69(None)
-msgid ""
-"@@image: 'images/Lesson06_images_001.png'; "
-"md5=af6ff955bf126cce08a091518fb4c573"
-msgstr ""
-"@@image: 'images/Lesson06_images_001.png'; "
-"md5=af6ff955bf126cce08a091518fb4c573"
+msgid "@@image: 'images/Lesson06_images_001.png'; md5=af6ff955bf126cce08a091518fb4c573"
+msgstr "@@image: 'images/Lesson06_images_001.png'; md5=af6ff955bf126cce08a091518fb4c573"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:88(None)
-msgid ""
-"@@image: 'images/Lesson06_images_002.png'; "
-"md5=fd0a4b39d510548ebbb8d5ad5b9963bd"
-msgstr ""
-"@@image: 'images/Lesson06_images_002.png'; "
-"md5=fd0a4b39d510548ebbb8d5ad5b9963bd"
+msgid "@@image: 'images/Lesson06_images_002.png'; md5=fd0a4b39d510548ebbb8d5ad5b9963bd"
+msgstr "@@image: 'images/Lesson06_images_002.png'; md5=fd0a4b39d510548ebbb8d5ad5b9963bd"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:104(None)
-msgid ""
-"@@image: 'images/Lesson06_images_003.png'; "
-"md5=a1b83eac6ea8200dfb5548e347c79016"
-msgstr ""
-"@@image: 'images/Lesson06_images_003.png'; "
-"md5=a1b83eac6ea8200dfb5548e347c79016"
+msgid "@@image: 'images/Lesson06_images_003.png'; md5=a1b83eac6ea8200dfb5548e347c79016"
+msgstr "@@image: 'images/Lesson06_images_003.png'; md5=a1b83eac6ea8200dfb5548e347c79016"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:125(None)
-msgid ""
-"@@image: 'images/Lesson06_images_004.png'; "
-"md5=b4e5c3b6309b2d3389acf903bc5efb90"
-msgstr ""
-"@@image: 'images/Lesson06_images_004.png'; "
-"md5=b4e5c3b6309b2d3389acf903bc5efb90"
+msgid "@@image: 'images/Lesson06_images_004.png'; md5=b4e5c3b6309b2d3389acf903bc5efb90"
+msgstr "@@image: 'images/Lesson06_images_004.png'; md5=b4e5c3b6309b2d3389acf903bc5efb90"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:158(None)
-msgid ""
-"@@image: 'images/Lesson06_images_007.png'; "
-"md5=579352c827e9599ae7fff6c41a116948"
-msgstr ""
-"@@image: 'images/Lesson06_images_007.png'; "
-"md5=579352c827e9599ae7fff6c41a116948"
+msgid "@@image: 'images/Lesson06_images_007.png'; md5=579352c827e9599ae7fff6c41a116948"
+msgstr "@@image: 'images/Lesson06_images_007.png'; md5=579352c827e9599ae7fff6c41a116948"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:232(None)
-msgid ""
-"@@image: 'images/Lesson06_images_008.png'; "
-"md5=579352c827e9599ae7fff6c41a116948"
-msgstr ""
-"@@image: 'images/Lesson06_images_008.png'; "
-"md5=579352c827e9599ae7fff6c41a116948"
+msgid "@@image: 'images/Lesson06_images_008.png'; md5=579352c827e9599ae7fff6c41a116948"
+msgstr "@@image: 'images/Lesson06_images_008.png'; md5=579352c827e9599ae7fff6c41a116948"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:250(None)
-msgid ""
-"@@image: 'images/Lesson06_images_009.png'; "
-"md5=45f90642f5f67450411733a8218b2848"
-msgstr ""
-"@@image: 'images/Lesson06_images_009.png'; "
-"md5=45f90642f5f67450411733a8218b2848"
+msgid "@@image: 'images/Lesson06_images_009.png'; md5=45f90642f5f67450411733a8218b2848"
+msgstr "@@image: 'images/Lesson06_images_009.png'; md5=45f90642f5f67450411733a8218b2848"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:265(None)
-msgid ""
-"@@image: 'images/Lesson06_images_010.png'; "
-"md5=2e9d018f7e78d6dba2985211c26b8b00"
-msgstr ""
-"@@image: 'images/Lesson06_images_010.png'; "
-"md5=2e9d018f7e78d6dba2985211c26b8b00"
+msgid "@@image: 'images/Lesson06_images_010.png'; md5=2e9d018f7e78d6dba2985211c26b8b00"
+msgstr "@@image: 'images/Lesson06_images_010.png'; md5=2e9d018f7e78d6dba2985211c26b8b00"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:294(None)
-msgid ""
-"@@image: 'images/Lesson06_images_011.png'; "
-"md5=49dc4c699fe5d22fdc7da995b2a0d2ac"
-msgstr ""
-"@@image: 'images/Lesson06_images_011.png'; "
-"md5=49dc4c699fe5d22fdc7da995b2a0d2ac"
+msgid "@@image: 'images/Lesson06_images_011.png'; md5=49dc4c699fe5d22fdc7da995b2a0d2ac"
+msgstr "@@image: 'images/Lesson06_images_011.png'; md5=49dc4c699fe5d22fdc7da995b2a0d2ac"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:311(None)
-msgid ""
-"@@image: 'images/Lesson06_images_012.png'; "
-"md5=ca34b3ca6c6ddd13cba33eadb179e49a"
-msgstr ""
-"@@image: 'images/Lesson06_images_012.png'; "
-"md5=ca34b3ca6c6ddd13cba33eadb179e49a"
+msgid "@@image: 'images/Lesson06_images_012.png'; md5=ca34b3ca6c6ddd13cba33eadb179e49a"
+msgstr "@@image: 'images/Lesson06_images_012.png'; md5=ca34b3ca6c6ddd13cba33eadb179e49a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:330(None)
-msgid ""
-"@@image: 'images/Lesson06_images_013.png'; "
-"md5=67100e546a77ceb635b7a8b319066e49"
-msgstr ""
-"@@image: 'images/Lesson06_images_013.png'; "
-"md5=67100e546a77ceb635b7a8b319066e49"
+msgid "@@image: 'images/Lesson06_images_013.png'; md5=67100e546a77ceb635b7a8b319066e49"
+msgstr "@@image: 'images/Lesson06_images_013.png'; md5=67100e546a77ceb635b7a8b319066e49"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:355(None)
-msgid ""
-"@@image: 'images/Lesson06_images_014.png'; "
-"md5=e289b35d52aea81cc904d721880a9d98"
-msgstr ""
-"@@image: 'images/Lesson06_images_014.png'; "
-"md5=e289b35d52aea81cc904d721880a9d98"
+msgid "@@image: 'images/Lesson06_images_014.png'; md5=e289b35d52aea81cc904d721880a9d98"
+msgstr "@@image: 'images/Lesson06_images_014.png'; md5=e289b35d52aea81cc904d721880a9d98"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:403(None)
-msgid ""
-"@@image: 'images/Lesson06_images_015.png'; "
-"md5=8d58720a4f4c11e8758711d4bf33620e"
-msgstr ""
-"@@image: 'images/Lesson06_images_015.png'; "
-"md5=8d58720a4f4c11e8758711d4bf33620e"
+msgid "@@image: 'images/Lesson06_images_015.png'; md5=8d58720a4f4c11e8758711d4bf33620e"
+msgstr "@@image: 'images/Lesson06_images_015.png'; md5=8d58720a4f4c11e8758711d4bf33620e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:418(None)
-msgid ""
-"@@image: 'images/Lesson06_images_016.png'; "
-"md5=217f34dcc88e1dc3af97901e6094da16"
-msgstr ""
-"@@image: 'images/Lesson06_images_016.png'; "
-"md5=217f34dcc88e1dc3af97901e6094da16"
+msgid "@@image: 'images/Lesson06_images_016.png'; md5=217f34dcc88e1dc3af97901e6094da16"
+msgstr "@@image: 'images/Lesson06_images_016.png'; md5=217f34dcc88e1dc3af97901e6094da16"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:435(None)
-msgid ""
-"@@image: 'images/Lesson06_images_017.png'; "
-"md5=170818e5a8eecc1d291cd41155b43d00"
-msgstr ""
-"@@image: 'images/Lesson06_images_017.png'; "
-"md5=170818e5a8eecc1d291cd41155b43d00"
+msgid "@@image: 'images/Lesson06_images_017.png'; md5=170818e5a8eecc1d291cd41155b43d00"
+msgstr "@@image: 'images/Lesson06_images_017.png'; md5=170818e5a8eecc1d291cd41155b43d00"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:453(None)
-msgid ""
-"@@image: 'images/Lesson06_images_018.png'; "
-"md5=ba6059aa20655be89a31e1be8d74e8e8"
-msgstr ""
-"@@image: 'images/Lesson06_images_018.png'; "
-"md5=ba6059aa20655be89a31e1be8d74e8e8"
+msgid "@@image: 'images/Lesson06_images_018.png'; md5=ba6059aa20655be89a31e1be8d74e8e8"
+msgstr "@@image: 'images/Lesson06_images_018.png'; md5=ba6059aa20655be89a31e1be8d74e8e8"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:469(None)
-msgid ""
-"@@image: 'images/Lesson06_images_019.png'; "
-"md5=c2f15436dd62d6a344f8fd6de01de6a7"
-msgstr ""
-"@@image: 'images/Lesson06_images_019.png'; "
-"md5=c2f15436dd62d6a344f8fd6de01de6a7"
+msgid "@@image: 'images/Lesson06_images_019.png'; md5=c2f15436dd62d6a344f8fd6de01de6a7"
+msgstr "@@image: 'images/Lesson06_images_019.png'; md5=c2f15436dd62d6a344f8fd6de01de6a7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:492(None)
-msgid ""
-"@@image: 'images/Lesson06_images_020.png'; "
-"md5=98daa2a0fd320e9260d70cc798402dd3"
-msgstr ""
-"@@image: 'images/Lesson06_images_020.png'; "
-"md5=98daa2a0fd320e9260d70cc798402dd3"
+msgid "@@image: 'images/Lesson06_images_020.png'; md5=98daa2a0fd320e9260d70cc798402dd3"
+msgstr "@@image: 'images/Lesson06_images_020.png'; md5=98daa2a0fd320e9260d70cc798402dd3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter5/xinclude.xml:514(None)
-msgid ""
-"@@image: 'images/Lesson06_images_021.png'; "
-"md5=23440834a2ecf24f3138b73f20b6c1da"
-msgstr ""
-"@@image: 'images/Lesson06_images_021.png'; "
-"md5=23440834a2ecf24f3138b73f20b6c1da"
+msgid "@@image: 'images/Lesson06_images_021.png'; md5=23440834a2ecf24f3138b73f20b6c1da"
+msgstr "@@image: 'images/Lesson06_images_021.png'; md5=23440834a2ecf24f3138b73f20b6c1da"
 
 #: chapter5/xinclude.xml:4(title)
 msgid "Ubuntu and Games"
@@ -234,160 +158,94 @@ msgid "Installing Games on Ubuntu"
 msgstr "在 Ubuntu 上安装游戏"
 
 #: chapter5/xinclude.xml:27(para)
-msgid ""
-"The default installation package of Ubuntu 8.04 LTS comes with 17 Ubuntu "
-"games, including Aisleriot, Solitaire, Gnometris and Mines. In addition, you "
-"can install many games from other repositories."
-msgstr ""
-"默认安装的 Ubuntu 9.10 有 16 个 Ubuntu 游戏，包括 Aisleriot、纸牌、Gnome 方块"
-"和扫雷等。另外，您还可以从其他的软件仓库中安装更多的游戏。"
+msgid "The default installation package of Ubuntu 8.04 LTS comes with 17 Ubuntu games, including Aisleriot, Solitaire, Gnometris and Mines. In addition, you can install many games from other repositories."
+msgstr "默认安装的 Ubuntu 9.10 有 16 个 Ubuntu 游戏，包括 Aisleriot、纸牌、Gnome 方块和扫雷等。另外，您还可以从其他的软件仓库中安装更多的游戏。"
 
-#: chapter5/xinclude.xml:32(title) chapter5/xinclude.xml:173(title)
-#: chapter5/xinclude.xml:192(title) chapter5/xinclude.xml:366(title)
-#: chapter5/xinclude.xml:538(title) chapter5/xinclude.xml:572(title)
+#: chapter5/xinclude.xml:32(title)
+#: chapter5/xinclude.xml:173(title)
+#: chapter5/xinclude.xml:192(title)
+#: chapter5/xinclude.xml:366(title)
+#: chapter5/xinclude.xml:538(title)
+#: chapter5/xinclude.xml:572(title)
 msgid "Instructor Notes:"
 msgstr "教员注记："
 
 #: chapter5/xinclude.xml:34(para)
-msgid ""
-"Understanding repositories is important because games are available for "
-"download from different locations. You may need to recap on the Lesson 1 "
-"topic of Enabling Repositories. You will also want to pre-install the two "
-"games covered in the lesson on every computer prior to starting the session "
-"otherwise this will take up much time during class."
-msgstr ""
-"由于游戏需要从不同的地方下载，因此了解软件仓库的概念非常重要。您可能需要复述"
-"第一节课中关于启用软件仓库的主题。您还需要提前在每台机器上安装好本节课内容中"
-"所涉及到的两个游戏，否则安装游戏将有可能占用过多的课堂时间。"
+msgid "Understanding repositories is important because games are available for download from different locations. You may need to recap on the Lesson 1 topic of Enabling Repositories. You will also want to pre-install the two games covered in the lesson on every computer prior to starting the session otherwise this will take up much time during class."
+msgstr "由于游戏需要从不同的地方下载，因此了解软件仓库的概念非常重要。您可能需要复述第一节课中关于启用软件仓库的主题。您还需要提前在每台机器上安装好本节课内容中所涉及到的两个游戏，否则安装游戏将有可能占用过多的课堂时间。"
 
-#: chapter5/xinclude.xml:42(title) chapter5/xinclude.xml:131(title)
-#: chapter5/xinclude.xml:185(title) chapter5/xinclude.xml:210(title)
-#: chapter5/xinclude.xml:271(title) chapter5/xinclude.xml:336(title)
+#: chapter5/xinclude.xml:42(title)
+#: chapter5/xinclude.xml:131(title)
+#: chapter5/xinclude.xml:185(title)
+#: chapter5/xinclude.xml:210(title)
+#: chapter5/xinclude.xml:271(title)
+#: chapter5/xinclude.xml:336(title)
 msgid "Note:"
 msgstr "注："
 
 #: chapter5/xinclude.xml:44(para)
-msgid ""
-"Enabling a repository is a one-time task. You do not have to enable the "
-"repositories every time before installing software."
-msgstr ""
-"启用一个软件仓库是一项一次性的操作。您不必在每次安装软件之前启用该软件仓库。"
+msgid "Enabling a repository is a one-time task. You do not have to enable the repositories every time before installing software."
+msgstr "启用一个软件仓库是一项一次性的操作。您不必在每次安装软件之前启用该软件仓库。"
 
 #: chapter5/xinclude.xml:49(title)
 msgid "Installing a Game from a Repository"
 msgstr "从软件仓库中安装一个游戏"
 
 #: chapter5/xinclude.xml:51(para)
-msgid ""
-"<emphasis role=\"strong\">Add/Remove Applications</emphasis>&gt;and "
-"<emphasis role=\"strong\">Synaptic Package Manager</emphasis> are the "
-"Graphical User Interfaces (GUI) that enables you to install applications "
-"from the Ubuntu repositories. However, using <emphasis role=\"strong\">Add/"
-"Remove Applications</emphasis> is the easiest way to install a game on your "
-"computer."
-msgstr ""
-"<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 和 <emphasis role="
-"\"strong\">新立得软件包管理器</emphasis> 是图形化用户界面(GUI)工具，允许您方"
-"便地安装 Ubuntu 软件仓库中的应用程序。但是在大多数情况下，在 Ubuntu 中使用 "
-"<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 来安装一个游戏是最简单的"
-"方式。"
+msgid "<emphasis role=\"strong\">Add/Remove Applications</emphasis>&gt;and <emphasis role=\"strong\">Synaptic Package Manager</emphasis> are the Graphical User Interfaces (GUI) that enables you to install applications from the Ubuntu repositories. However, using <emphasis role=\"strong\">Add/Remove Applications</emphasis> is the easiest way to install a game on your computer."
+msgstr "<emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 和 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 是图形化用户界面(GUI)工具，允许您方便地安装 Ubuntu 软件仓库中的应用程序。但是在大多数情况下，在 Ubuntu 中使用 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 来安装一个游戏是最简单的方式。"
 
 #: chapter5/xinclude.xml:58(title)
 msgid "To install a game from a repository:"
 msgstr "从软件仓库中安装一个游戏："
 
 #: chapter5/xinclude.xml:61(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, select "
-"<emphasis role=\"strong\">Add/Remove</emphasis>."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中选择 <emphasis role="
-"\"strong\">Ubuntu 软件中心</emphasis>。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, select <emphasis role=\"strong\">Add/Remove</emphasis>."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中选择 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis>。"
 
 #: chapter5/xinclude.xml:65(title)
 msgid "Launching Add/Remove"
 msgstr "启动 Ubuntu 软件中心"
 
 #: chapter5/xinclude.xml:76(para)
-msgid ""
-"In the <emphasis role=\"strong\">Add/Remove Applications</emphasis> window, "
-"select <emphasis role=\"strong\">Games</emphasis> from the left pane of the "
-"window to display a list of games in the top section of the right pane, "
-"along with the popularity of each game among users. The bottom section in "
-"the right pane displays a brief description of the game selected."
-msgstr ""
-"在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis role="
-"\"strong\">获取自由软件</emphasis> 首页的软件分类选择 <emphasis role=\"strong"
-"\">游戏</emphasis>，将前进到游戏列表。"
+msgid "In the <emphasis role=\"strong\">Add/Remove Applications</emphasis> window, select <emphasis role=\"strong\">Games</emphasis> from the left pane of the window to display a list of games in the top section of the right pane, along with the popularity of each game among users. The bottom section in the right pane displays a brief description of the game selected."
+msgstr "在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis role=\"strong\">获取自由软件</emphasis> 首页的软件分类选择 <emphasis role=\"strong\">游戏</emphasis>，将前进到游戏列表。"
 
 #: chapter5/xinclude.xml:84(title)
 msgid "Add/Remove Applications window"
 msgstr "Ubuntu 软件中心窗口"
 
 #: chapter5/xinclude.xml:95(para)
-msgid ""
-"The right pane, by default, displays the games supported by Canonical "
-"Limited. To change the list of games, click <emphasis role=\"strong"
-"\">Supported Applications</emphasis> and select the appropriate option from "
-"the drop-down list."
-msgstr ""
-"列表默认情况下显示全部应用程序。要更改游戏列表，在菜单栏中点击 <emphasis "
-"role=\"strong\">视图</emphasis> 并从下拉菜单中选择相应的选项。"
+msgid "The right pane, by default, displays the games supported by Canonical Limited. To change the list of games, click <emphasis role=\"strong\">Supported Applications</emphasis> and select the appropriate option from the drop-down list."
+msgstr "列表默认情况下显示全部应用程序。要更改游戏列表，在菜单栏中点击 <emphasis role=\"strong\">视图</emphasis> 并从下拉菜单中选择相应的选项。"
 
 #: chapter5/xinclude.xml:100(title)
 msgid "Changing List Option"
 msgstr "改变列表选项"
 
 #: chapter5/xinclude.xml:111(para)
-msgid ""
-"You can navigate through the list of games or search a game by its name. To "
-"initiate a search, type the name of the game in the <emphasis role=\"strong"
-"\">Search</emphasis> box and press Enter. The top section of the right pane "
-"displays the search results. Select the check box next to the game to mark "
-"it for installation and click <emphasis role=\"strong\">Apply Changes</"
-"emphasis>. A dialogue box opens, which requires confirmation to proceed with "
-"the installation."
-msgstr ""
-"您可以在游戏列表选择游戏，或者基于名称搜索相应游戏。要进行搜索，请在右上角的"
-"搜索框中输入游戏的名字。会显示搜索结果。点击游戏名称右边的前进按钮，将进入游"
-"戏介绍页面，此页面将给出游戏截图和简要介绍，点击下方的 <emphasis role="
-"\"strong\">安装</emphasis> 按钮。获得授权后即开始安装游戏。"
+msgid "You can navigate through the list of games or search a game by its name. To initiate a search, type the name of the game in the <emphasis role=\"strong\">Search</emphasis> box and press Enter. The top section of the right pane displays the search results. Select the check box next to the game to mark it for installation and click <emphasis role=\"strong\">Apply Changes</emphasis>. A dialogue box opens, which requires confirmation to proceed with the installation."
+msgstr "您可以在游戏列表选择游戏，或者基于名称搜索相应游戏。要进行搜索，请在右上角的搜索框中输入游戏的名字。会显示搜索结果。点击游戏名称右边的前进按钮，将进入游戏介绍页面，此页面将给出游戏截图和简要介绍，点击下方的 <emphasis role=\"strong\">安装</emphasis> 按钮。获得授权后即开始安装游戏。"
 
 #: chapter5/xinclude.xml:121(title)
 msgid "Searching a Game"
 msgstr "查找游戏"
 
 #: chapter5/xinclude.xml:133(para)
-msgid ""
-"The search result is dependent on the display mode selected in the previous "
-"step. To widen the scope of search, select <emphasis role=\"strong\">All "
-"Available Applications</emphasis> in the <emphasis role=\"strong\">Show</"
-"emphasis> drop-down list."
-msgstr ""
-"搜索结果的内容取决于您在上一步之中选择的列表选项。要扩大搜索范围，请在 "
-"<emphasis role=\"strong\">视图</emphasis> 菜单中选择 <emphasis role=\"strong"
-"\">全部应用程序</emphasis>。"
+msgid "The search result is dependent on the display mode selected in the previous step. To widen the scope of search, select <emphasis role=\"strong\">All Available Applications</emphasis> in the <emphasis role=\"strong\">Show</emphasis> drop-down list."
+msgstr "搜索结果的内容取决于您在上一步之中选择的列表选项。要扩大搜索范围，请在 <emphasis role=\"strong\">视图</emphasis> 菜单中选择 <emphasis role=\"strong\">全部应用程序</emphasis>。"
 
 #: chapter5/xinclude.xml:140(title)
 msgid "Nice to Know:"
 msgstr "小提示："
 
 #: chapter5/xinclude.xml:142(para)
-msgid ""
-"To remove a game from your computer, clear the check box next to that game "
-"and click <emphasis role=\"strong\">Apply Changes</emphasis>."
-msgstr ""
-"要从系统中删除一个游戏，在游戏介绍页面点击 <emphasis role=\"strong\">移除</"
-"emphasis>。"
+msgid "To remove a game from your computer, clear the check box next to that game and click <emphasis role=\"strong\">Apply Changes</emphasis>."
+msgstr "要从系统中删除一个游戏，在游戏介绍页面点击 <emphasis role=\"strong\">移除</emphasis>。"
 
 #: chapter5/xinclude.xml:149(para)
-msgid ""
-"To launch the installed game from the desktop, point to <emphasis role="
-"\"strong\">Games</emphasis> on the <emphasis role=\"strong\">Applications</"
-"emphasis> menu and click the name of the game."
-msgstr ""
-"要从桌面启动已安装的游戏，选择 <emphasis role=\"strong\">应用程序</emphasis> "
-"菜单中的 <emphasis role=\"strong\">游戏</emphasis>，然后点击该游戏的名字。"
+msgid "To launch the installed game from the desktop, point to <emphasis role=\"strong\">Games</emphasis> on the <emphasis role=\"strong\">Applications</emphasis> menu and click the name of the game."
+msgstr "要从桌面启动已安装的游戏，选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单中的 <emphasis role=\"strong\">游戏</emphasis>，然后点击该游戏的名字。"
 
 #: chapter5/xinclude.xml:154(title)
 msgid "Launching a Game"
@@ -406,109 +264,52 @@ msgid "Allow the students to play these games for about 10 - 15 minutes."
 msgstr "给学生 10 到 15 分钟的时间玩一下这些游戏。"
 
 #: chapter5/xinclude.xml:179(para)
-msgid ""
-"Playing a game on Ubuntu is no different than playing it on any other "
-"Graphical User Interface (GUI)-based operating system. There are no pre-"
-"requisites to play these games and the real fun is in exploring these games "
-"yourself."
-msgstr ""
-"在 Ubuntu 中玩游戏，应该与在以其他图形化用户界面(GUI)为基础的操作系统上玩游戏"
-"类似。玩这些游戏没有任何前提要求，而至于游戏中的乐趣，就等您玩的时候慢慢发现"
-"了。"
+msgid "Playing a game on Ubuntu is no different than playing it on any other Graphical User Interface (GUI)-based operating system. There are no pre-requisites to play these games and the real fun is in exploring these games yourself."
+msgstr "在 Ubuntu 中玩游戏，应该与在以其他图形化用户界面(GUI)为基础的操作系统上玩游戏类似。玩这些游戏没有任何前提要求，而至于游戏中的乐趣，就等您玩的时候慢慢发现了。"
 
 #: chapter5/xinclude.xml:187(para)
-msgid ""
-"Ensure that you have hardware-accelerated 3D drivers installed for your "
-"video card."
+msgid "Ensure that you have hardware-accelerated 3D drivers installed for your video card."
 msgstr "确保您系统上已安装适合您显卡的硬件加速 3D 驱动。"
 
 #: chapter5/xinclude.xml:194(para)
-msgid ""
-"To configure 3D acceleration on video cards see lesson 3 of this course or "
-"visit the following Web site: <ulink url=\"http://doc.ubuntu.com/ubuntu/"
-"desktopguide/C/graphics-cards.html\">http://doc.ubuntu.com/ubuntu/"
-"desktopguide/C/graphics-cards.html</ulink>."
-msgstr ""
-"要配置显卡的 3D 加速，请浏览以下网站: <ulink url=\"http://doc.ubuntu.com/"
-"ubuntu/desktopguide/C/graphics-cards.html\">http://doc.ubuntu.com/ubuntu/"
-"desktopguide/C/graphics-cards.html</ulink>."
+msgid "To configure 3D acceleration on video cards see lesson 3 of this course or visit the following Web site: <ulink url=\"http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html\">http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html</ulink>."
+msgstr "要配置显卡的 3D 加速，请浏览以下网站: <ulink url=\"http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html\">http://doc.ubuntu.com/ubuntu/desktopguide/C/graphics-cards.html</ulink>."
 
 #: chapter5/xinclude.xml:199(title)
 msgid "Playing Frozen-Bubble"
 msgstr "玩 Frozen-Bubble"
 
 #: chapter5/xinclude.xml:201(para)
-msgid ""
-"In Frozen-Bubble, you attempt to shoot bubbles into groups of the same "
-"colour to cause them to pop. Frozen-Bubble is a clone of the popular Puzzle "
-"Bobble game and features 100 single-player levels, two-player mode, music "
-"and striking graphics. You can play this game with another player on your "
-"Local Area Network (LAN) or invite a player on the Internet to play. Frozen-"
-"Bubble is not in the list of default games so you should install it from the "
-"Universe repository."
-msgstr ""
-"在 Frozen-Bubble 中，相同颜色三个以上的泡泡连在一起就会爆掉。Frozen-Bubble 是"
-"受欢迎的 Puzzle Bobble 游戏的一个克隆，并且其中还有 100 个单人游戏关卡、支持"
-"双人游戏模式、游戏音效和好看的画面。您可以在局域网或者互联网上邀请另外的玩家"
-"联机。Frozen-Bubble 并未包括在默认安装的游戏中，因此您必须从 Universe 软件仓"
-"库中安装该游戏。"
+msgid "In Frozen-Bubble, you attempt to shoot bubbles into groups of the same colour to cause them to pop. Frozen-Bubble is a clone of the popular Puzzle Bobble game and features 100 single-player levels, two-player mode, music and striking graphics. You can play this game with another player on your Local Area Network (LAN) or invite a player on the Internet to play. Frozen-Bubble is not in the list of default games so you should install it from the Universe repository."
+msgstr "在 Frozen-Bubble 中，相同颜色三个以上的泡泡连在一起就会爆掉。Frozen-Bubble 是受欢迎的 Puzzle Bobble 游戏的一个克隆，并且其中还有 100 个单人游戏关卡、支持双人游戏模式、游戏音效和好看的画面。您可以在局域网或者互联网上邀请另外的玩家联机。Frozen-Bubble 并未包括在默认安装的游戏中，因此您必须从 Universe 软件仓库中安装该游戏。"
 
 #: chapter5/xinclude.xml:212(para)
-msgid ""
-"This game does not have the option to turn off the sound. Therefore, if you "
-"are playing this game at your workplace and do not want other people to "
-"know, ensure that the speakers are turned off before launching this game."
-msgstr ""
-"该游戏并未提供关闭声音的选项。因此，如果您在您工作的地点玩该游戏而不想让其他"
-"人知道的话，请确保在启动游戏之前扬声器已关闭。"
+msgid "This game does not have the option to turn off the sound. Therefore, if you are playing this game at your workplace and do not want other people to know, ensure that the speakers are turned off before launching this game."
+msgstr "该游戏并未提供关闭声音的选项。因此，如果您在您工作的地点玩该游戏而不想让其他人知道的话，请确保在启动游戏之前扬声器已关闭。"
 
 #: chapter5/xinclude.xml:219(title)
 msgid "To play Frozen-Bubble:"
 msgstr "开始玩 Frozen-Bubble："
 
 #: chapter5/xinclude.xml:222(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Games</emphasis> and click <emphasis role=\"strong"
-"\">Frozen-Bubble</emphasis> to launch the game."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，选择 <emphasis role="
-"\"strong\">游戏</emphasis> 然后点击 <emphasis role=\"strong\">Frozen-Bubble</"
-"emphasis> 以启动该游戏。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Games</emphasis> and click <emphasis role=\"strong\">Frozen-Bubble</emphasis> to launch the game."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，选择 <emphasis role=\"strong\">游戏</emphasis> 然后点击 <emphasis role=\"strong\">Frozen-Bubble</emphasis> 以启动该游戏。"
 
 #: chapter5/xinclude.xml:228(title)
 msgid "Launching Frozen-Bubble"
 msgstr "启动 Frozen-Bubble"
 
 #: chapter5/xinclude.xml:239(para)
-msgid ""
-"The <emphasis role=\"strong\">Frozen-Bubble 2</emphasis> window lists "
-"options to select the playing mode, customise the levels, change the "
-"resolution of the graphics, specify the keys on your keyboard with which you "
-"want to play this game or view the high scores list."
-msgstr ""
-"在 <emphasis role=\"strong\">Frozen-Bubble 2</emphasis> 主窗口中通过列出的选"
-"项选择游戏模式、自定义关卡、修改游戏图像的分辨率、自定义游戏中的键位或者查看"
-"高分列表。"
+msgid "The <emphasis role=\"strong\">Frozen-Bubble 2</emphasis> window lists options to select the playing mode, customise the levels, change the resolution of the graphics, specify the keys on your keyboard with which you want to play this game or view the high scores list."
+msgstr "在 <emphasis role=\"strong\">Frozen-Bubble 2</emphasis> 主窗口中通过列出的选项选择游戏模式、自定义关卡、修改游戏图像的分辨率、自定义游戏中的键位或者查看高分列表。"
 
 #: chapter5/xinclude.xml:246(title)
 msgid "Frozen-Bubble Main Menu"
 msgstr "Frozen-Bubble 主菜单"
 
 #: chapter5/xinclude.xml:257(para)
-msgid ""
-"To start playing the game in single player mode, select <emphasis role="
-"\"strong\">START 1P GAMe</emphasis> and press <emphasis role=\"strong"
-"\">Enter</emphasis> to display the <emphasis role=\"strong\">Start 1- player "
-"game menu</emphasis>. Select <emphasis role=\"strong\">PLAY DEFAULT LEVEL "
-"SeT</emphasis> and press <emphasis role=\"strong\">Enter</emphasis> to "
-"launch Level 1 of the game."
-msgstr ""
-"要以单人游戏模式进行游戏，选择<emphasis role=\"strong\">开始单人游戏</"
-"emphasis>然后按下<emphasis role=\"strong\">回车键</emphasis>，将出现"
-"<emphasis role=\"strong\">开始单人游戏菜单</emphasis>。选择<emphasis role="
-"\"strong\">游玩默认关卡</emphasis>然后按下<emphasis role=\"strong\">回车键</"
-"emphasis>以启动游戏的第一关。"
+msgid "To start playing the game in single player mode, select <emphasis role=\"strong\">START 1P GAMe</emphasis> and press <emphasis role=\"strong\">Enter</emphasis> to display the <emphasis role=\"strong\">Start 1- player game menu</emphasis>. Select <emphasis role=\"strong\">PLAY DEFAULT LEVEL SeT</emphasis> and press <emphasis role=\"strong\">Enter</emphasis> to launch Level 1 of the game."
+msgstr "要以单人游戏模式进行游戏，选择 <emphasis role=\"strong\">开始单人游戏</emphasis> 然后按下 <emphasis role=\"strong\">回车键</emphasis>，将出现 <emphasis role=\"strong\">开始单人游戏菜单</emphasis>。选择 <emphasis role=\"strong\">游玩默认关卡</emphasis> 然后按下 <emphasis role=\"strong\">回车键</emphasis> 以启动游戏的第一关。"
 
 #: chapter5/xinclude.xml:261(title)
 msgid "Single Player Game Menu"
@@ -519,137 +320,73 @@ msgid "Use the up or down arrow keys to navigate through the options."
 msgstr "使用上下方向键在选项中进行选择。"
 
 #: chapter5/xinclude.xml:279(para)
-msgid ""
-"The aim of the game is to prevent the bubbles from reaching the penguin next "
-"to the igloo. At the start of the game, you will see an arrangement of "
-"coloured bubbles on the window, a bubble gun that contains a bubble, and a "
-"pointer. Use the left and right arrow keys to change the direction of the "
-"pointer and the space bar to fire the bubble. To pop the bubbles, you should "
-"hit at least three bubbles of the same colour. If the fired bubble hits a "
-"bubble of a different colour, it sticks to that bubble and is added to the "
-"arrangement."
-msgstr ""
-"游戏的目标是保护小屋旁的企鹅不被泡泡压到。游戏开始时，窗口中会出现一些泡泡，"
-"一个装载了泡泡的射击枪和一个瞄准器。使用左右方向键调整瞄准器的方向，按下空格"
-"键将泡泡发射出去。要将至少三个以上同颜色的泡泡连在一起才能使泡泡爆破。如果发"
-"射出去的泡泡击中不同颜色的泡泡，就会粘到被击中的泡泡旁边。"
+msgid "The aim of the game is to prevent the bubbles from reaching the penguin next to the igloo. At the start of the game, you will see an arrangement of coloured bubbles on the window, a bubble gun that contains a bubble, and a pointer. Use the left and right arrow keys to change the direction of the pointer and the space bar to fire the bubble. To pop the bubbles, you should hit at least three bubbles of the same colour. If the fired bubble hits a bubble of a different colour, it sticks to that bubble and is added to the arrangement."
+msgstr "游戏的目标是保护小屋旁的企鹅不被泡泡压到。游戏开始时，窗口中会出现一些泡泡，一个装载了泡泡的射击枪和一个瞄准器。使用左右方向键调整瞄准器的方向，按下空格键将泡泡发射出去。要将至少三个以上同颜色的泡泡连在一起才能使泡泡爆破。如果发射出去的泡泡击中不同颜色的泡泡，就会粘到被击中的泡泡旁边。"
 
 #: chapter5/xinclude.xml:290(title)
 msgid "Playing Window"
 msgstr "游戏窗口"
 
 #: chapter5/xinclude.xml:301(para)
-msgid ""
-"You have to fire the bubble from the bubble gun within seven seconds of "
-"firing the previous one; otherwise, a <emphasis role=\"strong\">Hurry</"
-"emphasis> warning flashes three times and the bubble gun fires the bubble "
-"automatically. The bubble appearing in the igloo window is the next bubble "
-"to appear in the gun."
-msgstr ""
-"您有七秒钟的时间来发射一个泡泡，否则将会在出现三次 <emphasis role=\"strong"
-"\">Hurry</emphasis> 警告之后，泡泡将会自动发射出去。在小屋中出现的泡泡表示是"
-"下一个准备发射的。"
+msgid "You have to fire the bubble from the bubble gun within seven seconds of firing the previous one; otherwise, a <emphasis role=\"strong\">Hurry</emphasis> warning flashes three times and the bubble gun fires the bubble automatically. The bubble appearing in the igloo window is the next bubble to appear in the gun."
+msgstr "您有七秒钟的时间来发射一个泡泡，否则将会在出现三次 <emphasis role=\"strong\">Hurry</emphasis> 警告之后，泡泡将会自动发射出去。在小屋中出现的泡泡表示是下一个准备发射的。"
 
 #: chapter5/xinclude.xml:307(title)
 msgid "Flashing Hurry Warning"
 msgstr "闪烁的 Hurry 警告"
 
 #: chapter5/xinclude.xml:316(para)
-msgid ""
-"To add to the plight of the poor penguin, FB-01 and FB-02 keep pushing the "
-"plank towards the penguin, reducing the area for the bubble arrangement."
-msgstr ""
-"FB-01 和 FB-02 将会不断地将顶上的板往下压，减小可用来排列泡泡的区域，使我们的"
-"小企鹅陷入困境。"
+msgid "To add to the plight of the poor penguin, FB-01 and FB-02 keep pushing the plank towards the penguin, reducing the area for the bubble arrangement."
+msgstr "FB-01 和 FB-02 将会不断地将顶上的板往下压，减小可用来排列泡泡的区域，使我们的小企鹅陷入困境。"
 
 #: chapter5/xinclude.xml:322(para)
-msgid ""
-"If you succeed in popping all the bubbles, you win! You can then press any "
-"key to proceed to the next level."
-msgstr ""
-"如果成功地爆破了所有泡泡，您就获得了游戏的胜利！然后按下任意键进入下一关卡。"
+msgid "If you succeed in popping all the bubbles, you win! You can then press any key to proceed to the next level."
+msgstr "如果成功地爆破了所有泡泡，您就获得了游戏的胜利！然后按下任意键进入下一关卡。"
 
 #: chapter5/xinclude.xml:326(title)
 msgid "Displaying Level Results"
 msgstr "显示各关卡的游戏记录"
 
 #: chapter5/xinclude.xml:338(para)
-msgid ""
-"Press the <emphasis role=\"strong\">ESC</emphasis> key to go back to the "
-"previous window or close the application."
-msgstr ""
-"按下 <emphasis role=\"strong\">ESC</emphasis> 键以返回之前的窗口或者关闭程"
-"序。"
+msgid "Press the <emphasis role=\"strong\">ESC</emphasis> key to go back to the previous window or close the application."
+msgstr "按下 <emphasis role=\"strong\">ESC</emphasis> 键以返回之前的窗口或者关闭程序。"
 
 #: chapter5/xinclude.xml:344(para)
-msgid ""
-"If you leave the game after achieving a high score, type your name in the "
-"window that opens and press <emphasis role=\"strong\">Enter</emphasis> to "
-"display the high score listings. In the list, you can view the level you "
-"reached and the time taken to reach that level. Press <emphasis role=\"strong"
-"\">ESC</emphasis> to return to the main menu."
-msgstr ""
-"如果您获得一个高分然后准备退出游戏，在弹出的窗口中输入您的名字然后按下 "
-"<emphasis role=\"strong\">回车键</emphasis>，将会出现高分列表。在该列表中，您"
-"可以查看到到达的关卡和所用的时长。按 <emphasis role=\"strong\">ESC</"
-"emphasis> 键返回主菜单。"
+msgid "If you leave the game after achieving a high score, type your name in the window that opens and press <emphasis role=\"strong\">Enter</emphasis> to display the high score listings. In the list, you can view the level you reached and the time taken to reach that level. Press <emphasis role=\"strong\">ESC</emphasis> to return to the main menu."
+msgstr "如果您获得一个高分然后准备退出游戏，在弹出的窗口中输入您的名字然后按下 <emphasis role=\"strong\">回车键</emphasis>，将会出现高分列表。在该列表中，您可以查看到到达的关卡和所用的时长。按 <emphasis role=\"strong\">ESC</emphasis> 键返回主菜单。"
 
 #: chapter5/xinclude.xml:351(title)
 msgid "High Score Windows"
 msgstr "高分窗口"
 
 #: chapter5/xinclude.xml:362(para)
-msgid ""
-"If you do not like the pre-defined arrangement of the bubbles, you can "
-"create your own arrangement by selecting <emphasis role=\"strong\">Level "
-"editor</emphasis> from the main menu."
-msgstr ""
-"如果您不喜欢默认的泡泡排列，您可以通过主菜单中的 <emphasis role=\"strong\">关"
-"卡编辑器</emphasis> 来创建您自己的关卡。"
+msgid "If you do not like the pre-defined arrangement of the bubbles, you can create your own arrangement by selecting <emphasis role=\"strong\">Level editor</emphasis> from the main menu."
+msgstr "如果您不喜欢默认的泡泡排列，您可以通过主菜单中的 <emphasis role=\"strong\">关卡编辑器</emphasis> 来创建您自己的关卡。"
 
 #: chapter5/xinclude.xml:368(para)
-msgid ""
-"If time permits, ask the learners to use the level editor, create some "
-"arrangements of their own and try the other options in the window."
-msgstr ""
-"如果时间允许，就让学生们使用关卡编辑器创建一些关卡，并尝试窗口中其他的选项。"
+msgid "If time permits, ask the learners to use the level editor, create some arrangements of their own and try the other options in the window."
+msgstr "如果时间允许，就让学生们使用关卡编辑器创建一些关卡，并尝试窗口中其他的选项。"
 
-#: chapter5/xinclude.xml:375(title) chapter5/xinclude.xml:510(title)
+#: chapter5/xinclude.xml:375(title)
+#: chapter5/xinclude.xml:510(title)
 msgid "Playing PlanetPenguin Racer"
 msgstr "玩 Extreme Tux Racer"
 
 #: chapter5/xinclude.xml:377(para)
-msgid ""
-"PlanetPenguin Racer, also called ppracer, is a simple racing game featuring "
-"Tux, the Linux mascot. This game is based on the popular Linux game Tux "
-"Racer. The goal of the game is to slide down a snow and ice covered mountain "
-"as quickly as possible, avoiding the trees and rocks that will slow you down."
-msgstr ""
-"Extreme Racer，是一个以 Linux 吉祥物 Tux 为主人公的竞速游戏。该游戏基于一款很"
-"受欢迎的 Linux 游戏 Tux Racer。游戏的目标时从一座被冰雪覆盖的山上往下尽快的滑"
-"行到终点，并避免撞到路上会使你减速的树木和石头。"
+msgid "PlanetPenguin Racer, also called ppracer, is a simple racing game featuring Tux, the Linux mascot. This game is based on the popular Linux game Tux Racer. The goal of the game is to slide down a snow and ice covered mountain as quickly as possible, avoiding the trees and rocks that will slow you down."
+msgstr "Extreme Racer，是一个以 Linux 吉祥物 Tux 为主人公的竞速游戏。该游戏基于一款很受欢迎的 Linux 游戏 Tux Racer。游戏的目标时从一座被冰雪覆盖的山上往下尽快的滑行到终点，并避免撞到路上会使你减速的树木和石头。"
 
 #: chapter5/xinclude.xml:384(title)
 msgid "To play PlanetPenguin Racer:"
 msgstr "要开始玩 Extreme Tux Racer:"
 
 #: chapter5/xinclude.xml:387(para)
-msgid ""
-"Install the <emphasis role=\"strong\"> planetpenguin-racer</emphasis> "
-"package from the Universe repository."
-msgstr ""
-"从 Universe 软件仓库中安装 <emphasis role=\"strong\">ExtremeTuxRacer</"
-"emphasis>。"
+msgid "Install the <emphasis role=\"strong\"> planetpenguin-racer</emphasis> package from the Universe repository."
+msgstr "从 Universe 软件仓库中安装 <emphasis role=\"strong\">ExtremeTuxRacer</emphasis>。"
 
 #: chapter5/xinclude.xml:393(para)
-msgid ""
-"On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
-"<emphasis role=\"strong\">Games</emphasis> and click <emphasis role=\"strong"
-"\">Planet Penguin Racer</emphasis> to launch the game."
-msgstr ""
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，选择 <emphasis role="
-"\"strong\">游戏</emphasis> 然后点击 <emphasis role=\"strong\">Extreme Tux "
-"Racer</emphasis> 以启动游戏。"
+msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Games</emphasis> and click <emphasis role=\"strong\">Planet Penguin Racer</emphasis> to launch the game."
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，选择 <emphasis role=\"strong\">游戏</emphasis> 然后点击 <emphasis role=\"strong\">Extreme Tux Racer</emphasis> 以启动游戏。"
 
 #: chapter5/xinclude.xml:399(title)
 msgid "Launching PlanetPenguin Racer"
@@ -664,60 +401,32 @@ msgid "Starting Window"
 msgstr "启动窗口"
 
 #: chapter5/xinclude.xml:425(para)
-msgid ""
-"The next window displays the main menu of the game. Click the options on "
-"this menu to take part in a racing event, practise before entering any "
-"event, configure the game settings, view credits and quit the game."
-msgstr ""
-"下一个窗口显示游戏的主菜单。选择菜单中的选项以参与比赛、进行赛前练习、配置游"
-"戏设置、查看鸣谢列表或者退出游戏。"
+msgid "The next window displays the main menu of the game. Click the options on this menu to take part in a racing event, practise before entering any event, configure the game settings, view credits and quit the game."
+msgstr "下一个窗口显示游戏的主菜单。选择菜单中的选项以参与比赛、进行赛前练习、配置游戏设置、查看鸣谢列表或者退出游戏。"
 
 #: chapter5/xinclude.xml:431(title)
 msgid "Entering an Event"
 msgstr "参与一项比赛"
 
 #: chapter5/xinclude.xml:442(para)
-msgid ""
-"You can play this game by using a computer keyboard or a joystick. On the "
-"main menu, click <emphasis role=\"strong\">Configuration</emphasis> and then "
-"click <emphasis role=\"strong\">Keyboard</emphasis> or <emphasis role="
-"\"strong\">Joystick</emphasis> to know their default key settings. You can "
-"also change the key settings according to your preferences. Click <emphasis "
-"role=\"strong\">Back</emphasis> to return to the main menu."
-msgstr ""
-"您可以使用键盘或者手柄来玩这个游戏。在主菜单中，点击 <emphasis role=\"strong"
-"\">配置</emphasis> 然后点击 <emphasis role=\"strong\">键盘</emphasis> 或者 "
-"<emphasis role=\"strong\">手柄</emphasis> 以了解默认的键位设置。您可以按自己"
-"的需求定义键位。点击 <emphasis role=\"strong\">后退</emphasis> 返回主菜单。"
+msgid "You can play this game by using a computer keyboard or a joystick. On the main menu, click <emphasis role=\"strong\">Configuration</emphasis> and then click <emphasis role=\"strong\">Keyboard</emphasis> or <emphasis role=\"strong\">Joystick</emphasis> to know their default key settings. You can also change the key settings according to your preferences. Click <emphasis role=\"strong\">Back</emphasis> to return to the main menu."
+msgstr "您可以使用键盘或者手柄来玩这个游戏。在主菜单中，点击 <emphasis role=\"strong\">配置</emphasis> 然后点击 <emphasis role=\"strong\">键盘</emphasis> 或者 <emphasis role=\"strong\">手柄</emphasis> 以了解默认的键位设置。您可以按自己的需求定义键位。点击 <emphasis role=\"strong\">后退</emphasis> 返回主菜单。"
 
 #: chapter5/xinclude.xml:449(title)
 msgid "Configuration Options"
 msgstr "配置选项"
 
 #: chapter5/xinclude.xml:460(para)
-msgid ""
-"On the main menu, click <emphasis role=\"strong\">Enter an Event</emphasis>, "
-"select the event and the cup in which you want to participate and then click "
-"<emphasis role=\"strong\">Continue</emphasis> to proceed."
-msgstr ""
-"在主菜单中，点击 <emphasis role=\"strong\">参加一项比赛</emphasis>，然后选择"
-"你想要参加的比赛和锦标赛，然后点击 <emphasis role=\"strong\">继续</"
-"emphasis>。"
+msgid "On the main menu, click <emphasis role=\"strong\">Enter an Event</emphasis>, select the event and the cup in which you want to participate and then click <emphasis role=\"strong\">Continue</emphasis> to proceed."
+msgstr "在主菜单中，点击 <emphasis role=\"strong\">参加一项比赛</emphasis>，然后选择你想要参加的比赛和锦标赛，然后点击 <emphasis role=\"strong\">继续</emphasis>。"
 
 #: chapter5/xinclude.xml:465(title)
 msgid "Selecting Event and Cup"
 msgstr "选择比赛和锦标赛"
 
 #: chapter5/xinclude.xml:476(para)
-msgid ""
-"The next window prompts you to select a race. As a beginner, you do not have "
-"any option but to continue with the default race. However, do read the "
-"<emphasis role=\"strong\">Needed to advance</emphasis> information to know "
-"the minimum requirement to qualify for the next round in the cup."
-msgstr ""
-"在下一个窗口选择赛道。刚开始，除了继续默认的赛道没有其他任何选择。请注意查看 "
-"<emphasis role=\"strong\">Needed to advance</emphasis> 的信息以了解获得参加锦"
-"标赛下一轮资格的最低要求。"
+msgid "The next window prompts you to select a race. As a beginner, you do not have any option but to continue with the default race. However, do read the <emphasis role=\"strong\">Needed to advance</emphasis> information to know the minimum requirement to qualify for the next round in the cup."
+msgstr "在下一个窗口选择赛道。刚开始，除了继续默认的赛道没有其他任何选择。请注意查看 <emphasis role=\"strong\">Needed to advance</emphasis> 的信息以了解获得参加锦标赛下一轮资格的最低要求。"
 
 #: chapter5/xinclude.xml:484(para)
 msgid "Click <emphasis role=\"strong\">Race!</emphasis> to start the race."
@@ -728,26 +437,11 @@ msgid "Selecting a Race"
 msgstr "选择赛道"
 
 #: chapter5/xinclude.xml:499(para)
-msgid ""
-"The next window starts the race. The intent of the game is to make Tux reach "
-"the <emphasis role=\"strong\">Finish</emphasis> line, collecting herrings on "
-"the way. If you succeed in reaching the <emphasis role=\"strong\">Finish</"
-"emphasis> line within the parameters mentioned in <emphasis role=\"strong"
-"\">Needed to advance</emphasis>, you proceed to the next round; otherwise, "
-"you have to play the round again. There are four attempts or lives that you "
-"get to compete in an event. If you fail to satisfy the wining criteria, one "
-"life is deducted."
-msgstr ""
-"下一个窗口就将开始游戏。这个游戏的目标是控制 Tux 到达 <emphasis role=\"strong"
-"\">终点</emphasis> 线，并在赛道上收集足够的鲱鱼。收集到多于 <emphasis role="
-"\"strong\">Needed to advance</emphasis> 中要求收集的数目并且到达 <emphasis "
-"role=\"strong\">终点</emphasis> 线，就能够进入下一关，否则则必须重玩当前关"
-"卡。每项比赛有四个机会可以完成。每次无法达到过关的要求都会扣除一次机会。"
+msgid "The next window starts the race. The intent of the game is to make Tux reach the <emphasis role=\"strong\">Finish</emphasis> line, collecting herrings on the way. If you succeed in reaching the <emphasis role=\"strong\">Finish</emphasis> line within the parameters mentioned in <emphasis role=\"strong\">Needed to advance</emphasis>, you proceed to the next round; otherwise, you have to play the round again. There are four attempts or lives that you get to compete in an event. If you fail to satisfy the wining criteria, one life is deducted."
+msgstr "下一个窗口就将开始游戏。这个游戏的目标是控制 Tux 到达 <emphasis role=\"strong\">终点</emphasis> 线，并在赛道上收集足够的鲱鱼。收集到多于 <emphasis role=\"strong\">Needed to advance</emphasis> 中要求收集的数目并且到达 <emphasis role=\"strong\">终点</emphasis> 线，就能够进入下一关，否则则必须重玩当前关卡。每项比赛有四个机会可以完成。每次无法达到过关的要求都会扣除一次机会。"
 
 #: chapter5/xinclude.xml:521(para)
-msgid ""
-"You can win the cups only by practising and focusing on improving your "
-"performance."
+msgid "You can win the cups only by practising and focusing on improving your performance."
 msgstr "要赢得奖杯，您只能多做练习，并努力提高您的表现。"
 
 #: chapter5/xinclude.xml:527(title)
@@ -755,111 +449,53 @@ msgid "Playing Other Popular Games"
 msgstr "玩其他流行的游戏"
 
 #: chapter5/xinclude.xml:529(para)
-msgid ""
-"In addition to all the games available in Ubuntu, you can play games created "
-"for Microsoft Windows. However, to do so, you need the ability to run "
-"Windows applications in Ubuntu. One of the programmes that provides this "
-"ability is named Wine."
-msgstr ""
-"除了 Ubuntu 中可用的所有游戏之外，您还可以玩为 Microsoft Windows 设计的游戏。"
-"但是，前提要求是您必须能够在 Ubuntu 上运行 Windows 的应用程序。有一款名为 "
-"Wine 的软件能够提供这项功能。"
+msgid "In addition to all the games available in Ubuntu, you can play games created for Microsoft Windows. However, to do so, you need the ability to run Windows applications in Ubuntu. One of the programmes that provides this ability is named Wine."
+msgstr "除了 Ubuntu 中可用的所有游戏之外，您还可以玩为 Microsoft Windows 设计的游戏。但是，前提要求是您必须能够在 Ubuntu 上运行 Windows 的应用程序。有一款名为 Wine 的软件能够提供这项功能。"
 
 #: chapter5/xinclude.xml:535(title)
 msgid "Installing Wine"
 msgstr "安装 Wine"
 
 #: chapter5/xinclude.xml:540(para)
-msgid ""
-"Before performing the following steps, ensure that all the students have a "
-"Microsoft Windows game copied on their computer."
-msgstr ""
-"在执行下面的步骤之前，请确保所有学生的计算机上都已有一个 Microsoft Windows 游"
-"戏。"
+msgid "Before performing the following steps, ensure that all the students have a Microsoft Windows game copied on their computer."
+msgstr "在执行下面的步骤之前，请确保所有学生的计算机上都已有一个 Microsoft Windows 游戏。"
 
 #: chapter5/xinclude.xml:546(title)
 msgid "To install and configure Wine:"
 msgstr "安装和配置 Wine："
 
-#: chapter5/xinclude.xml:549(para) chapter5/xinclude.xml:566(para)
-msgid ""
-"Install the <emphasis role=\"strong\">wine</emphasis> and <emphasis role="
-"\"strong\">wine-dev</emphasis> packages from <emphasis role=\"strong"
-"\">Synaptic Package Manager</emphasis>."
-msgstr ""
-"从 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中安装 <emphasis "
-"role=\"strong\">wine</emphasis> 和 <emphasis role=\"strong\">wine-dev</"
-"emphasis>。"
+#: chapter5/xinclude.xml:549(para)
+#: chapter5/xinclude.xml:566(para)
+msgid "Install the <emphasis role=\"strong\">wine</emphasis> and <emphasis role=\"strong\">wine-dev</emphasis> packages from <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
+msgstr "从 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中安装 <emphasis role=\"strong\">wine</emphasis> 和 <emphasis role=\"strong\">wine-dev</emphasis>。"
 
 #: chapter5/xinclude.xml:554(para)
-msgid ""
-"The configuration of wine can be altered through <emphasis role=\"strong"
-"\">Applications</emphasis>, <emphasis role=\"strong\">Wine</emphasis>, "
-"<emphasis role=\"strong\">Configure Wine</emphasis>."
-msgstr ""
-"Wine 可以通过 <emphasis role=\"strong\">应用程序</emphasis>，<emphasis role="
-"\"strong\">Wine</emphasis>，<emphasis role=\"strong\">配置 Wine</emphasis> 来"
-"进行配置。"
+msgid "The configuration of wine can be altered through <emphasis role=\"strong\">Applications</emphasis>, <emphasis role=\"strong\">Wine</emphasis>, <emphasis role=\"strong\">Configure Wine</emphasis>."
+msgstr "Wine 可以通过 <emphasis role=\"strong\">应用程序</emphasis>，<emphasis role=\"strong\">Wine</emphasis>，<emphasis role=\"strong\">配置 Wine</emphasis> 来进行配置。"
 
 #: chapter5/xinclude.xml:559(para)
-msgid ""
-"This window allows you to customise a variety of settings for Wine, such as "
-"the Microsoft Windows version that is being simulated, drive mappings, as "
-"well as application-specific settings. Click <emphasis role=\"strong\">OK</"
-"emphasis> to close the window."
-msgstr ""
-"此窗口允许您设置 Wine 的众多选项，例如要模拟的 Microsoft Windows 版本、驱动器"
-"映射、以及应用程序单独的设置。点击 <emphasis role=\"strong\">OK</emphasis> 以"
-"关闭此窗口。"
+msgid "This window allows you to customise a variety of settings for Wine, such as the Microsoft Windows version that is being simulated, drive mappings, as well as application-specific settings. Click <emphasis role=\"strong\">OK</emphasis> to close the window."
+msgstr "此窗口允许您设置 Wine 的众多选项，例如要模拟的 Microsoft Windows 版本、驱动器映射、以及应用程序单独的设置。点击 <emphasis role=\"strong\">OK</emphasis> 以关闭此窗口。"
 
 #: chapter5/xinclude.xml:568(para)
-msgid ""
-"Wine is configured on your computer with an artificial C: drive. You can now "
-"access many Microsoft Windows application on Ubuntu."
-msgstr ""
-"Wine 在您的机器有一个虚拟的 C: 驱动器。于是，您就可以在您的 Ubuntu 中使用许多"
-"的 Microsoft Windows 应用程序了。"
+msgid "Wine is configured on your computer with an artificial C: drive. You can now access many Microsoft Windows application on Ubuntu."
+msgstr "Wine 在您的机器有一个虚拟的 C: 驱动器。于是，您就可以在您的 Ubuntu 中使用许多的 Microsoft Windows 应用程序了。"
 
 #: chapter5/xinclude.xml:574(para)
-msgid ""
-"The information included in this document is sufficient for the students to "
-"start playing games. The most suitable and easy method is chosen for "
-"illustration. However, performing other tasks, such as adding CD and DVD "
-"drives to Wine or using Microsoft Windows themes in Wine requires further "
-"configuration. If the students want to learn more about configuring Wine, "
-"refer them to <ulink url=\"https://help.ubuntu.com/community/Wine\">https://"
-"help.ubuntu.com/community/Wine</ulink>."
-msgstr ""
-"本文档中所包含的信息已足够让学生们学会启动并玩游戏。我们选择了最适当且最简单"
-"的方法来进行说明。但是，要完成其他目标，例如给 Wine 添加 CD 或者 DVD 驱动器，"
-"或者在 Wine 中使用 Microsoft Windows 主题等，都需要进一步地进行配置。如果您的"
-"学想要了解更多关于如何配置 Wine 的信息，请让他们参考 <ulink url=\"https://"
-"help.ubuntu.com/community/Wine\">https://help.ubuntu.com/community/Wine</"
-"ulink>。"
+msgid "The information included in this document is sufficient for the students to start playing games. The most suitable and easy method is chosen for illustration. However, performing other tasks, such as adding CD and DVD drives to Wine or using Microsoft Windows themes in Wine requires further configuration. If the students want to learn more about configuring Wine, refer them to <ulink url=\"https://help.ubuntu.com/community/Wine\">https://help.ubuntu.com/community/Wine</ulink>."
+msgstr "本文档中所包含的信息已足够让学生们学会启动并玩游戏。我们选择了最适当且最简单的方法来进行说明。但是，要完成其他目标，例如给 Wine 添加 CD 或者 DVD 驱动器，或者在 Wine 中使用 Microsoft Windows 主题等，都需要进一步地进行配置。如果您的学想要了解更多关于如何配置 Wine 的信息，请让他们参考 <ulink url=\"https://help.ubuntu.com/community/Wine\">https://help.ubuntu.com/community/Wine</ulink>。"
 
 #: chapter5/xinclude.xml:584(title)
 msgid "Playing a Microsoft Windows Game on Ubuntu"
 msgstr "在 Ubuntu 中玩 Microsoft Windows 操作系统上的游戏"
 
 #: chapter5/xinclude.xml:586(para)
-msgid ""
-"A Microsoft Windows executable file can be started with Wine through "
-"<emphasis role=\"strong\">right-click</emphasis>, <emphasis role=\"strong"
-"\">Open with</emphasis> \"<emphasis>Wine Windows Emulator</emphasis>\"."
-msgstr ""
-"一个 Microsoft Windows 操作系统中的可执行文件可以通过 <emphasis role=\"strong"
-"\">右键单击</emphasis> 该文件，选择 <emphasis role=\"strong\">以...打开</"
-"emphasis>“<emphasis>Wine Windows 模拟器</emphasis>”来运行。"
+msgid "A Microsoft Windows executable file can be started with Wine through <emphasis role=\"strong\">right-click</emphasis>, <emphasis role=\"strong\">Open with</emphasis> \"<emphasis>Wine Windows Emulator</emphasis>\"."
+msgstr "一个 Microsoft Windows 操作系统中的可执行文件可以通过 <emphasis role=\"strong\">右键单击</emphasis> 该文件，选择 <emphasis role=\"strong\">以...打开</emphasis>“<emphasis>Wine Windows 模拟器</emphasis>”来运行。"
 
 #: chapter5/xinclude.xml:590(para)
-msgid ""
-"If you install a Microsoft Windows application with Wine, an icon may be "
-"found in <emphasis role=\"strong\">Applications</emphasis>, <emphasis role="
-"\"strong\">Other</emphasis>."
-msgstr ""
-"如果您使用 Wine 安装了一个 Microsoft Windows 操作系统中的程序，图标可能会出现"
-"在 <emphasis role=\"strong\">应用程序</emphasis> 菜单的 <emphasis role="
-"\"strong\">其他</emphasis> 项目下。"
+msgid "If you install a Microsoft Windows application with Wine, an icon may be found in <emphasis role=\"strong\">Applications</emphasis>, <emphasis role=\"strong\">Other</emphasis>."
+msgstr "如果您使用 Wine 安装了一个 Microsoft Windows 操作系统中的程序，图标可能会出现在 <emphasis role=\"strong\">应用程序</emphasis> 菜单的 <emphasis role=\"strong\">其他</emphasis> 项目下。"
 
 #: chapter5/xinclude.xml:599(title)
 msgid "Lesson Summary"
@@ -870,26 +506,16 @@ msgid "In this lesson, you learned that:"
 msgstr "在本节课中，您学到了："
 
 #: chapter5/xinclude.xml:605(para)
-msgid ""
-"You can install and play many games available by default on Ubuntu and in "
-"repositories."
-msgstr ""
-"您可以从 Ubuntu 默认的和其他的软件仓库中获得游戏，将其安装到您的系统上并游"
-"玩。"
+msgid "You can install and play many games available by default on Ubuntu and in repositories."
+msgstr "您可以从 Ubuntu 默认的和其他的软件仓库中获得游戏，将其安装到您的系统上并游玩。"
 
 #: chapter5/xinclude.xml:610(para)
-msgid ""
-"You can install games by using the Add/Remove Applications or Synaptic "
-"Package Manager."
+msgid "You can install games by using the Add/Remove Applications or Synaptic Package Manager."
 msgstr "您可以使用 Ubuntu 软件中心或者新立得软件包管理器来安装游戏。"
 
 #: chapter5/xinclude.xml:615(para)
-msgid ""
-"You can play Microsoft Windows games on Ubuntu by installing a programme "
-"that provides a Microsoft Windows environment, such as Wine."
-msgstr ""
-"通过安装提供 Microsoft Windows 操作系统模拟环境的程序，例如 Wine，您可以在您"
-"的 Ubuntu 系统中玩 Microsoft Windows 操作系统下的游戏。"
+msgid "You can play Microsoft Windows games on Ubuntu by installing a programme that provides a Microsoft Windows environment, such as Wine."
+msgstr "通过安装提供 Microsoft Windows 操作系统模拟环境的程序，例如 Wine，您可以在您的 Ubuntu 系统中玩 Microsoft Windows 操作系统下的游戏。"
 
 #: chapter5/xinclude.xml:623(title)
 msgid "Review Exercise"
@@ -908,135 +534,60 @@ msgid "Exercise 1: Installing a game on Ubuntu"
 msgstr "练习 1：在 Ubuntu 上安装游戏"
 
 #: chapter5/xinclude.xml:634(para)
-msgid ""
-"During a recent get together with your friends, you heard a lot of good "
-"things about a game that they play on their Linux operating system. You wish "
-"to play the same game, but you cannot find that game in the games package "
-"that got installed with Ubuntu. What do you need to do in order to play this "
-"game on your computer?"
-msgstr ""
-"假如最近您和朋友在一起的时候听他们提起 Linux 操作系统上有个游戏非常好玩。于是"
-"您也心痒痒想试试该游戏，但您在您的 Ubuntu 系统上已安装的游戏包中却找不到该游"
-"戏。那么问题来了，您该如何做才能在您的 Ubuntu 上玩那个好玩的游戏呢？"
+msgid "During a recent get together with your friends, you heard a lot of good things about a game that they play on their Linux operating system. You wish to play the same game, but you cannot find that game in the games package that got installed with Ubuntu. What do you need to do in order to play this game on your computer?"
+msgstr "假如最近您和朋友在一起的时候听他们提起 Linux 操作系统上有个游戏非常好玩。于是您也心痒痒想试试该游戏，但您在您的 Ubuntu 系统上已安装的游戏包中却找不到该游戏。那么问题来了，您该如何做才能在您的 Ubuntu 上玩那个好玩的游戏呢？"
 
 #: chapter5/xinclude.xml:642(title)
 msgid "To perform the required task:"
 msgstr "要完成该项任务："
 
 #: chapter5/xinclude.xml:645(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong"
-"\">Software Sources</emphasis> to display the <emphasis role=\"strong"
-"\">Software Sources</emphasis> dialogue box."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单中，选择 <emphasis role="
-"\"strong\">管理</emphasis> 并点击 <emphasis role=\"strong\">软件源</"
-"emphasis> ，将出现 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and click <emphasis role=\"strong\">Software Sources</emphasis> to display the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box."
+msgstr "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，选择 <emphasis role=\"strong\">管理</emphasis> 并点击 <emphasis role=\"strong\">软件源</emphasis> ，将出现 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
 
 #: chapter5/xinclude.xml:650(para)
-msgid ""
-"On the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box, "
-"select the check boxes next to main and universe options. Retain the "
-"<emphasis role=\"strong\">Main server</emphasis> option in the <emphasis "
-"role=\"strong\">Download from</emphasis> category and clear the <emphasis "
-"role=\"strong\">CDrom</emphasis> check box."
-msgstr ""
-"在 <emphasis role=\"strong\">软件源</emphasis> 对话框中，选中 main 和 "
-"universe 选项前的复选框。在 <emphasis role=\"strong\">下载至</emphasis> 下拉"
-"列表中选择您合适的软件源，并清除 <emphasis role=\"strong\">CDrom</emphasis> "
-"复选框的选中状态。"
+msgid "On the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box, select the check boxes next to main and universe options. Retain the <emphasis role=\"strong\">Main server</emphasis> option in the <emphasis role=\"strong\">Download from</emphasis> category and clear the <emphasis role=\"strong\">CDrom</emphasis> check box."
+msgstr "在 <emphasis role=\"strong\">软件源</emphasis> 对话框中，选中 main 和 universe 选项前的复选框。在 <emphasis role=\"strong\">下载至</emphasis> 下拉列表中选择您合适的软件源，并清除 <emphasis role=\"strong\">CDrom</emphasis> 复选框的选中状态。"
 
 #: chapter5/xinclude.xml:658(para)
-msgid ""
-"Click <emphasis role=\"strong\">Close</emphasis> to display a prompt and "
-"then click <emphasis role=\"strong\">Reload</emphasis> on the prompt to "
-"update the list of applications available."
-msgstr ""
-"点击 <emphasis role=\"strong\">关闭</emphasis> 按钮将出现一个提示对话框，然后"
-"在该提示对话框中点击 <emphasis role=\"strong\">重新载入</emphasis> 以重新载入"
-"可用的应用程序列表。"
+msgid "Click <emphasis role=\"strong\">Close</emphasis> to display a prompt and then click <emphasis role=\"strong\">Reload</emphasis> on the prompt to update the list of applications available."
+msgstr "点击 <emphasis role=\"strong\">关闭</emphasis> 按钮将出现一个提示对话框，然后在该提示对话框中点击 <emphasis role=\"strong\">重新载入</emphasis> 以重新载入可用的应用程序列表。"
 
 #: chapter5/xinclude.xml:664(para)
-msgid ""
-"To install the game, select <emphasis role=\"strong\">Add/Remove</emphasis> "
-"on the <emphasis role=\"strong\">Applications</emphasis> menu to display the "
-"<emphasis role=\"strong\">Add/Remove Applications</emphasis> window."
-msgstr ""
-"要安装游戏，选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单中的 "
-"<emphasis role=\"strong\">添加删除</emphasis>，将会出现 <emphasis role="
-"\"strong\">添加/删除 应用程序</emphasis> 窗口。"
+msgid "To install the game, select <emphasis role=\"strong\">Add/Remove</emphasis> on the <emphasis role=\"strong\">Applications</emphasis> menu to display the <emphasis role=\"strong\">Add/Remove Applications</emphasis> window."
+msgstr "要安装游戏，选择 <emphasis role=\"strong\">应用程序</emphasis> 菜单中的 <emphasis role=\"strong\">添加删除</emphasis>，将会出现 <emphasis role=\"strong\">添加/删除 应用程序</emphasis> 窗口。"
 
 #: chapter5/xinclude.xml:668(para)
-msgid ""
-"Select <emphasis role=\"strong\">Games</emphasis> in the left pane of the "
-"window, change the Show list option to <emphasis role=\"strong\">All Open "
-"Source Applications</emphasis>, type the name of the game in the <emphasis "
-"role=\"strong\">Search</emphasis> box and press Enter."
-msgstr ""
-"在窗口左边的程序类别中选择 <emphasis role=\"strong\">游戏</emphasis>，将显示"
-"选项更改为 <emphasis role=\"strong\">所有开源应用程序</emphasis>，在 "
-"<emphasis role=\"strong\">搜索</emphasis> 框中输入游戏名称并按回车键。"
+msgid "Select <emphasis role=\"strong\">Games</emphasis> in the left pane of the window, change the Show list option to <emphasis role=\"strong\">All Open Source Applications</emphasis>, type the name of the game in the <emphasis role=\"strong\">Search</emphasis> box and press Enter."
+msgstr "在窗口左边的程序类别中选择 <emphasis role=\"strong\">游戏</emphasis>，将显示选项更改为 <emphasis role=\"strong\">所有开源应用程序</emphasis>，在 <emphasis role=\"strong\">搜索</emphasis> 框中输入游戏名称并按回车键。"
 
 #: chapter5/xinclude.xml:675(para)
-msgid ""
-"Select the check box next to the game to mark it for installation and click "
-"<emphasis role=\"strong\">Apply Changes</emphasis>."
-msgstr ""
-"勾选该游戏前的复选框将其标记为待安装并点击 <emphasis role=\"strong\">应用更改"
-"</emphasis>。"
+msgid "Select the check box next to the game to mark it for installation and click <emphasis role=\"strong\">Apply Changes</emphasis>."
+msgstr "勾选该游戏前的复选框将其标记为待安装并点击 <emphasis role=\"strong\">应用更改</emphasis>。"
 
 #: chapter5/xinclude.xml:681(para)
-msgid ""
-"On the confirmation dialogue box, click <emphasis role=\"strong\">Apply</"
-"emphasis> to proceed."
-msgstr ""
-"在确认对话框中，点击 <emphasis role=\"strong\">应用</emphasis> 开始游戏的安"
-"装。"
+msgid "On the confirmation dialogue box, click <emphasis role=\"strong\">Apply</emphasis> to proceed."
+msgstr "在确认对话框中，点击 <emphasis role=\"strong\">应用</emphasis> 开始游戏的安装。"
 
 #: chapter5/xinclude.xml:685(para)
-msgid ""
-"After the installation of the game is complete, a dialogue box confirms the "
-"installation and provides the option to launch the installed game. Double-"
-"click the name of the game to launch it. Alternatively, you can close this "
-"dialogue box and launch the game by using the <emphasis role=\"strong"
-"\">Applications</emphasis> menu on the desktop."
-msgstr ""
-"在该游戏的安装完成之后将出现一个对话框提醒您安装已完成并让您选择是否马上启动"
-"已安装的游戏。双击该游戏的名称以启动它。或者，您可以关闭该对话框并在以后从桌"
-"面上的 <emphasis role=\"strong\">应用程序</emphasis> 菜单中启动该游戏。"
+msgid "After the installation of the game is complete, a dialogue box confirms the installation and provides the option to launch the installed game. Double-click the name of the game to launch it. Alternatively, you can close this dialogue box and launch the game by using the <emphasis role=\"strong\">Applications</emphasis> menu on the desktop."
+msgstr "在该游戏的安装完成之后将出现一个对话框提醒您安装已完成并让您选择是否马上启动已安装的游戏。双击该游戏的名称以启动它。或者，您可以关闭该对话框并在以后从桌面上的 <emphasis role=\"strong\">应用程序</emphasis> 菜单中启动该游戏。"
 
 #: chapter5/xinclude.xml:695(title)
-msgid ""
-"Exercise 2: Installing Wine and playing a Microsoft Windows game on Ubuntu"
-msgstr ""
-"练习 2：在 Ubuntu 上安装 Wine 软件并使用它来运行 Microsoft Windows 游戏"
+msgid "Exercise 2: Installing Wine and playing a Microsoft Windows game on Ubuntu"
+msgstr "练习 2：在 Ubuntu 上安装 Wine 软件并使用它来运行 Microsoft Windows 游戏"
 
 #: chapter5/xinclude.xml:698(para)
-msgid ""
-"You were browsing the Web one day and came across an interesting game. You "
-"downloaded it and every thing seemed fine until you realise that the game "
-"could be played only on Microsoft Windows, which is not installed on your "
-"computer. You really liked the game, how do you play this on Ubuntu?"
-msgstr ""
-"假如您有一天正在浏览网络时发现一款好玩的游戏。您将它下载到您的系统里，看起来"
-"一切正常，突然您发现该游戏只能在 Microsoft Windows 操作系统上运行，而您的机器"
-"上并没有 Windows 操作系统。您确实很喜欢该游戏，如何在 Ubuntu 系统中运行该游戏"
-"呢？"
+msgid "You were browsing the Web one day and came across an interesting game. You downloaded it and every thing seemed fine until you realise that the game could be played only on Microsoft Windows, which is not installed on your computer. You really liked the game, how do you play this on Ubuntu?"
+msgstr "假如您有一天正在浏览网络时发现一款好玩的游戏。您将它下载到您的系统里，看起来一切正常，突然您发现该游戏只能在 Microsoft Windows 操作系统上运行，而您的机器上并没有 Windows 操作系统。您确实很喜欢该游戏，如何在 Ubuntu 系统中运行该游戏呢？"
 
 #: chapter5/xinclude.xml:706(title)
 msgid "To play a Windows game on Ubuntu:"
 msgstr "在 Ubuntu 中运行 Windows 游戏："
 
 #: chapter5/xinclude.xml:709(para)
-msgid ""
-"Install <emphasis role=\"strong\">wine</emphasis> and <emphasis role=\"strong"
-"\">wine-dev</emphasis> packages from <emphasis role=\"strong\">Synaptic "
-"Package Manager</emphasis>."
-msgstr ""
-"从 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中安装 <emphasis "
-"role=\"strong\">wine</emphasis> 和 <emphasis role=\"strong\">wine-dev</"
-"emphasis>。"
+msgid "Install <emphasis role=\"strong\">wine</emphasis> and <emphasis role=\"strong\">wine-dev</emphasis> packages from <emphasis role=\"strong\">Synaptic Package Manager</emphasis>."
+msgstr "从 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 中安装 <emphasis role=\"strong\">wine</emphasis> 和 <emphasis role=\"strong\">wine-dev</emphasis>。"
 
 #: chapter5/xinclude.xml:713(para)
 msgid "Open the games setup tool with Wine."
@@ -1057,7 +608,6 @@ msgstr "Hunt Xu <mhuntxu@gmail.com>, 2010"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson06_images_005.png'; "
 #~ "md5=812b3f373bbea5267d8319b150ac869f"
-
 #~ msgid ""
 #~ "@@image: 'images/Lesson06_images_006.png'; "
 #~ "md5=26b50bb981f6aef395c8d672a726a6b3"
@@ -1094,3 +644,4 @@ msgstr "Hunt Xu <mhuntxu@gmail.com>, 2010"
 #, fuzzy
 #~ msgid "Dialogue Box Confirming Installation"
 #~ msgstr "确认安装对话框"
+

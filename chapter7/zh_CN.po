@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-01-08 02:05+0800\n"
+"PO-Revision-Date: 2010-01-08 04:54+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -385,7 +385,7 @@ msgstr "还可以通过单击 <emphasis role=\"strong\">照片</emphasis> 菜单
 # 此处怀疑有误
 #: chapter7/xinclude.xml:293(para)
 msgid "In the <emphasis role=\"strong\">Import Source</emphasis> box, the <emphasis role=\"strong\">Select Folder</emphasis> option is selected by default. Retain the option, navigate to the folder that contains the photographs and click <emphasis role=\"strong\">Open</emphasis>."
-msgstr "在 <emphasis role=\"strong\">导入源</emphasis> 对话框中，<emphasis role=\"strong\">选择文件夹</emphasis> 选项是设置的默认路径。保留这个选项，单击导航到包含照片的文件夹，单击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择需要的照片单击 <emphasis role=\"strong\">打开</emphasis>按钮。"
+msgstr "在 <emphasis role=\"strong\">导入源</emphasis> 菜单中，<emphasis role=\"strong\">选择文件夹</emphasis> 选项是设置的默认路径。点击这个选项，单击导航到包含照片的文件夹，单击 <emphasis role=\"strong\">打开</emphasis> 按钮，选择需要的照片单击 <emphasis role=\"strong\">打开</emphasis> 按钮。"
 
 #: chapter7/xinclude.xml:299(emphasis)
 #: chapter7/xinclude.xml:375(emphasis)
@@ -452,7 +452,7 @@ msgstr "选定一个小图标并单击工具条上的 <emphasis role=\"strong\">
 
 #: chapter7/xinclude.xml:414(para)
 msgid "After importing, you can view all the photographs as thumbnails in the right pane of the <emphasis role=\"strong\">F-Spot</emphasis> window. You can view photographs in F-Spot by: <placeholder-1/>"
-msgstr "导入后，所有的照片将在<emphasis role=\"strong\">F-Spot</emphasis> 窗体的右侧窗格中以缩略图的形式显示。在F-Spot下浏览相片，可以通过：<placeholder-1/>"
+msgstr "导入后，所有的照片将在 <emphasis role=\"strong\">F-Spot</emphasis> 窗体的右侧窗格中以缩略图的形式显示。在 F-Spot 下浏览相片，可以通过：<placeholder-1/>"
 
 #: chapter7/xinclude.xml:426(para)
 msgid "The image opens in fullscreen mode."
@@ -594,7 +594,7 @@ msgstr "从桌面启动 GIMP："
 # 此处需要更新
 #: chapter7/xinclude.xml:624(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">GIMP Image Editor</emphasis>. The <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt is displayed. Click <emphasis role=\"strong\">Close</emphasis> on the <emphasis role=\"strong\">GIMP Tip of the Day</emphasis> prompt. The <emphasis role=\"strong\">GIMP</emphasis> window opens."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，指向 <emphasis role=\"strong\">图形</emphasis> 下的 <emphasis role=\"strong\">GIMP 图片编辑器</emphasis> 并单击打开。此时将显示<emphasis role=\"strong\">GNU 图像处理程序</emphasis> 窗口和 <emphasis role=\"strong\">工具箱</emphasis> 工具条。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，指向 <emphasis role=\"strong\">图形</emphasis> 下的 <emphasis role=\"strong\">GIMP 图片编辑器</emphasis> 并单击打开。此时将显示 <emphasis role=\"strong\">GNU 图像处理程序</emphasis> 窗口和 <emphasis role=\"strong\">工具箱</emphasis> 工具条。"
 
 #: chapter7/xinclude.xml:630(title)
 msgid "GIMP Tip of the Day Dialogue Box"
