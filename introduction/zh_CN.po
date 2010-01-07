@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-08-06 12:43+0200\n"
-"PO-Revision-Date: 2010-01-05 09:14+0800\n"
+"PO-Revision-Date: 2010-01-07 14:33+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +32,8 @@ msgid ""
 "key applications including mainstream office applications, Internet "
 "connectivity and browsing, graphics arts tools, multi-media and music."
 msgstr ""
-"Ubuntu 是由社区开发的适用于笔记本电脑、台式电脑和服务器的基于 Linux 的操作"
-"系统，您可以免费获得该系统。本课程以 Ubuntu 9.10 版本系统的使用为例，旨在"
+"Ubuntu 是基于 Linux 的操作系统，它由社区开发，可供免费使用，广泛适用于笔记"
+"本电脑、台式电脑和服务器等各种设备。本课程以 Ubuntu 9.10 版本系统的使用为例，旨在"
 "对于一些主要程序诸如主流的办公室应用程序、网络连接和浏览、图像处理工具、多"
 "媒体工具和音乐工具等的使用方面给新的 Ubuntu 用户以简单的入门指导。"
 
@@ -119,7 +119,7 @@ msgid ""
 "designed to suit the key learning objectives."
 msgstr ""
 "本课程以模块为单位来组织。在教室中进行全日制学习的话，两天就可以学习完整个"
-"课程。尽管如此，主题和课程可以按需选择，其中关键的部分内容可以在一天之内学"
+"课程。另外，您可以按需选择主题和课程，本课程的关键部分可以在一天之内学"
 "完。"
 
 #: introduction/xinclude.xml:72(para)
@@ -178,15 +178,14 @@ msgid ""
 "All students must complete the course evaluation form at the end of the last "
 "day in order to receive a certificate of completion."
 msgstr ""
-"您的反馈对我们课程的改进和传播非常有用。所有学生在最后一天的课程结束后必须通过"
-"一次测验以获得毕业证书。"
+"所有学生在最后一天的课程结束后必须通过一次测验以获得毕业证书。"
 
 #: introduction/xinclude.xml:111(para)
 msgid ""
 "Please provide any and all feedback regarding this course to: "
 "training@canonical.com."
 msgstr ""
-"请将您的反馈发送至: training@canonical.com。"
+"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: training@canonical.com。"
 
 #: introduction/xinclude.xml:117(title)
 msgid "Ubuntu Session Plan"
@@ -341,11 +340,11 @@ msgstr "OpenOffice.org 套件介绍"
 
 #: introduction/xinclude.xml:423(para)
 msgid "Using OpenOffice.org Writer"
-msgstr "使用 OpenOffice.org Writer"
+msgstr "使用 OpenOffice.org 文字处理"
 
 #: introduction/xinclude.xml:431(para)
 msgid "Using OpenOffice.org Calc"
-msgstr "使用 OpenOffice.org Calc"
+msgstr "使用 OpenOffice.org 电子表格"
 
 #: introduction/xinclude.xml:439(para)
 msgid "Using OpenOffice.org Impress"
@@ -677,7 +676,7 @@ msgid ""
 "Lab exercises: At regular intervals, students will be performing hands-on "
 "lab exercises that replicate the real life scenarios."
 msgstr ""
-"上机练习: 每个一段时间，应让学生亲自动手做一些练习来模拟现实生活中可能会遇到"
+"上机练习: 每隔一段时间，应让学生亲自动手做一些练习来模拟现实生活中可能会遇到"
 "的情况。"
 
 #: introduction/xinclude.xml:1169(title)
@@ -726,7 +725,7 @@ msgid ""
 "quickly return attention to the students. Avoid reading out the slide word "
 "by word."
 msgstr ""
-"使用幻灯片帮助您专注于当前主题而避免离题，确保不遗漏任何有关信息的同时着重对"
+"使用幻灯片帮助您专注于当前主题而避免离题，确保不遗漏任何有关信息的同时着重"
 "对主要的知识点进行讲解。偶尔看一眼特定的知识点，并尽快将您的注意力重新放回学"
 "生身上。避免单调地逐字复述幻灯片上的内容。"
 
@@ -734,7 +733,7 @@ msgstr ""
 msgid ""
 "To encourage interactivity, use the lab exercises throughout the lesson."
 msgstr ""
-"为了激发学生的积极性，在课堂上贯穿使用实验练习。"
+"为了激发学生的积极性，在课堂上贯穿进行实验练习。"
 
 #: introduction/xinclude.xml:1209(title)
 msgid "Lecture Components"
@@ -742,7 +741,7 @@ msgstr "课程结构"
 
 #: introduction/xinclude.xml:1210(para)
 msgid "Each lecture can be divided in the following components."
-msgstr "每个课程可以看作是由以下各个部分组成。"
+msgstr "每个课程包括以下几个部分。"
 
 #: introduction/xinclude.xml:1215(para)
 msgid "On the first day,"

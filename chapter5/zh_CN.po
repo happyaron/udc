@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-and-games\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-28 23:05+0800\n"
-"PO-Revision-Date: 2010-01-05 09:18+0800\n"
+"PO-Revision-Date: 2010-01-07 14:35+0800\n"
 "Last-Translator: Hunt Xu <huntxu@live.cn>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -461,7 +461,7 @@ msgid ""
 "know, ensure that the speakers are turned off before launching this game."
 msgstr ""
 "该游戏并未提供关闭声音的选项。因此，如果您在您工作的地点玩该游戏而不想让其他"
-"知道的话，请确保在启动游戏之前扬声器已关闭。"
+"人知道的话，请确保在启动游戏之前扬声器已关闭。"
 
 #: chapter5/xinclude.xml:219(title)
 msgid "To play Frozen-Bubble:"
@@ -753,7 +753,7 @@ msgstr "要赢得奖杯，您只能多做练习，并努力提高您的表现。
 
 #: chapter5/xinclude.xml:527(title)
 msgid "Playing Other Popular Games"
-msgstr "游玩其他流行的游戏"
+msgstr "玩其他流行的游戏"
 
 #: chapter5/xinclude.xml:529(para)
 msgid ""
@@ -762,7 +762,7 @@ msgid ""
 "Windows applications in Ubuntu. One of the programmes that provides this "
 "ability is named Wine."
 msgstr ""
-"除了 Ubuntu 中可用的所有游戏之外，您还可以游玩为 Microsoft Windows 设计的游"
+"除了 Ubuntu 中可用的所有游戏之外，您还可以玩为 Microsoft Windows 设计的游"
 "戏。但是，前提要求是您必须能够在 Ubuntu 上运行 Windows 的应用程序。有一款名"
 "为 Wine 的软件能够提供这项功能。"
 
