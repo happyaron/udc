@@ -2296,7 +2296,7 @@ msgstr "顾名思义，动态表格可以根据表中数据的变化进行自动
 
 #: chapter4/xinclude.xml:1086(title)
 msgid "Opening and Saving Microsoft Files:"
-msgstr "打开和保存 Microsoft Office 专用格式的文件。"
+msgstr "打开和保存 Microsoft Office 专用格式的文件"
 
 #: chapter4/xinclude.xml:1088(para)
 msgid ""
@@ -2675,7 +2675,7 @@ msgstr ""
 
 #: chapter4/xinclude.xml:1442(title)
 msgid "Selecting the Cell Range"
-msgstr "选定单元格区域。"
+msgstr "选定单元格区域"
 
 #: chapter4/xinclude.xml:1453(para)
 msgid ""
@@ -2795,7 +2795,7 @@ msgid ""
 "emphasis> dialogue box appears."
 msgstr ""
 "在 <emphasis role=\"strong\">文件</emphasis> 菜单中单击 <emphasis role="
-"\"strong\">输出成 PDF</emphasis>。会出现 <emphasis role=\"strong\">PDF 选项</"
+"\"strong\">输出成 PDF</emphasis>，会出现 <emphasis role=\"strong\">PDF 选项</"
 "emphasis> 对话框。"
 
 #: chapter4/xinclude.xml:1577(title)
@@ -2951,7 +2951,7 @@ msgid ""
 "international OpenDocument format. It also allows you to save your work in "
 "other formats such as PowerPoint."
 msgstr ""
-"和其他 OpenOffice.Org 程序一样，在 Impress 中您可以把文件保存为开放文档格式，"
+"和其他 OpenOffice.org 程序一样，在 Impress 中您可以把文件保存为开放文档格式，"
 "同时您也可以保存为其他格式，例如 PowerPoint 格式。"
 
 #: chapter4/xinclude.xml:1708(title)
