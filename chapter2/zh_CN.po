@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course exploring-the-ubuntu-desktop\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-07 14:57+0800\n"
+"PO-Revision-Date: 2010-01-07 19:54+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -372,7 +372,7 @@ msgstr "探索 Ubuntu 桌面"
 
 #: chapter2/xinclude.xml:7(title)
 msgid "Objectives"
-msgstr "课程目标"
+msgstr "目标"
 
 #: chapter2/xinclude.xml:9(para)
 msgid "In this lesson, you will learn:"
@@ -388,7 +388,7 @@ msgstr "如何更改默认语言"
 
 #: chapter2/xinclude.xml:20(para)
 msgid "How to create a new user account and take advantage of user switching"
-msgstr "如何创建一个新用户和使用用户切换"
+msgstr "如何创建一个新用户和进行用户切换"
 
 #: chapter2/xinclude.xml:24(para)
 msgid "To add and remove applications"
@@ -448,7 +448,7 @@ msgid ""
 msgstr ""
 "GNOME 是 Ubuntu 的默认桌面环境。 GNOME (GNU 网络对象模型环境，GNU Network "
 "Object Model Environment)是一个国际性的项目，为开发完整的，由自由软件组成的桌"
-"面环境而努力。桌面系统，即图形用户界面，是计算机系统中最外层的软件。这个目标"
+"面环境而努力。桌面环境，即图形用户界面，是计算机系统中最外层的软件。GNOME 项目的目标"
 "包括创建软件开发框架，选择桌面应用程序，编写负责引导应用软件的程序，文件句"
 "柄，窗口和任务管理器等。来自世界各地的社区成员将 GNOME 翻译到各种语言中，让使"
 "用不同的语言的人们都能享用 GNOME。(参考：<ulink url=\"http://en.wikipedia."
