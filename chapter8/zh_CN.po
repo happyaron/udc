@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-01-07 21:24+0800\n"
-"PO-Revision-Date: 2010-01-08 05:29+0800\n"
+"PO-Revision-Date: 2010-01-08 22:24+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -2211,7 +2211,7 @@ msgstr "双击某一广播台以收听流媒体。"
 
 #: chapter8/xinclude.xml:2706(para)
 msgid "To add a new radio station to the existing list of stations, click <emphasis role=\"strong\">New Internet Radio Station</emphasis> and paste the URL of the new radio station in the <emphasis role=\"strong\">URL of Internet radio station</emphasis> text box."
-msgstr "要向现有电台列表中添加新电台，点击 <emphasis role=\"strong\">新建网络电台</emphasis> 并在 <emphasis role=\"strong\">网络电台的 URL</emphasis> 文本框中粘贴新电台的 URL。"
+msgstr "要向现有电台列表中添加新电台，点击 <emphasis role=\"strong\">新建 Internet 电台</emphasis> 并在 <emphasis role=\"strong\">Internet 电台的 URL</emphasis> 文本框中粘贴新电台的 URL。"
 
 #: chapter8/xinclude.xml:2713(para)
 msgid "Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in the existing list."
@@ -2304,7 +2304,7 @@ msgstr "点击 <emphasis role=\"strong\">制作音频 CD</emphasis> 按钮，启
 
 #: chapter8/xinclude.xml:2844(para)
 msgid "Click the <emphasis role=\"strong\">New Audio Project</emphasis> button."
-msgstr "点击 <emphasis role=\"strong\">新建音频工程</emphasis> 按钮。"
+msgstr "点击 <emphasis role=\"strong\">新建音频项目</emphasis> 按钮。"
 
 #: chapter8/xinclude.xml:2849(para)
 msgid "Navigate to the desired folder with the files you wish to add to display its contents."
