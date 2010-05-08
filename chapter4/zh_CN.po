@@ -646,7 +646,7 @@ msgstr "使用 OpenOffice.org 图画进行基本的绘图操作。"
 
 #: chapter4/xinclude.xml:31(para)
 msgid "Create and edit formulae using OpenOffice.org Math."
-msgstr "使用 OpenOfficeorg Math 创建和编辑公式。"
+msgstr "使用 OpenOffice.org 公式创建和编辑表达式。"
 
 #: chapter4/xinclude.xml:36(title)
 #: chapter4/xinclude.xml:435(title)
@@ -679,7 +679,7 @@ msgstr "OpenOffice.org 图画"
 #: chapter4/xinclude.xml:181(title)
 #: chapter4/xinclude.xml:3678(para)
 msgid "OpenOffice.org Math"
-msgstr "OpenOffice.org Math"
+msgstr "OpenOffice.org 公式"
 
 #: chapter4/xinclude.xml:50(para)
 msgid "Students, who are familiar with office applications, may want further exposure to these applications. However, ensure to conclude the lesson within the permitted time span."
@@ -2566,7 +2566,7 @@ msgstr "Draw 还提供了更多的特性和工具。如果学生欲获得更多�
 
 #: chapter4/xinclude.xml:3168(title)
 msgid "Using OpenOffice.org Math"
-msgstr "使用 OpenOffice.org Math"
+msgstr "使用 OpenOffice.org 公式"
 
 #: chapter4/xinclude.xml:3170(para)
 msgid "Math is the equation writer component of OpenOffice.org office software suite. It contains a number of functions, operators and formatting assistants to help you create properly formatted equations and formulae. These formulae can then be imported for display in any other OpenOffice.org applications."
@@ -2574,7 +2574,7 @@ msgstr "Math 是 OpenOffice.org 办公套件中的公式编辑工具。它包括
 
 #: chapter4/xinclude.xml:3177(title)
 msgid "Key Features of OpenOffice.org Math"
-msgstr "OpenOffice.org Math 的主要特性"
+msgstr "OpenOffice.org 公式的主要特性"
 
 #: chapter4/xinclude.xml:3183(title)
 msgid "Creating a Formula:"
@@ -2826,19 +2826,19 @@ msgstr "OpenOffice.org 套件包括5个组成部分，使您能够高效处理�
 
 #: chapter4/xinclude.xml:3615(para)
 msgid "Writer forms the word processor component of the OpenOffice.org office software suite and contains all the features that you expect from a modern, fully equipped word processor."
-msgstr "Writer 是 OpenOffice.org 办公套件的字处理组件。它包括了一个现代化全功能字处理软件的所有特性。"
+msgstr "Openoffice.org 文字是 OpenOffice.org 办公套件的字处理组件。它包括了一个现代化全功能字处理软件的所有特性。"
 
 #: chapter4/xinclude.xml:3621(para)
 msgid "Calc forms the spreadsheet component of the OpenOffice.org office software suite and offers a whole range of advanced functions to help accomplish complex tasks."
-msgstr "Calc 是 OpenOffice.org 办公套件的电子表格制作组件。它提供了大量先进功能来帮助您完成复杂的制表任务。"
+msgstr "Openoffice.org 电子表格是 OpenOffice.org 办公套件的电子表格制作组件。它提供了大量先进功能来帮助您完成复杂的制表任务。"
 
 #: chapter4/xinclude.xml:3627(para)
 msgid "Impress is a fully featured presentation tool included in the OpenOffice.org office software suite."
-msgstr "Impress 是 OpenOffice.org 办公套件中的全功能演示文稿制作工具。"
+msgstr "Openoffice.org 演示是 OpenOffice.org 办公套件中的全功能演示文稿制作工具。"
 
 #: chapter4/xinclude.xml:3632(para)
 msgid "Math is the equation writer component of OpenOffice.org office software suite."
-msgstr "Math 是 OpenOffice.org 办公套件中的表达式编辑器。"
+msgstr "Openoffice.org 公式是 OpenOffice.org 办公套件中的表达式编辑器。"
 
 #: chapter4/xinclude.xml:3637(para)
 msgid "GnuCash is extremely useful application software for managing your home and/or small business finances."
@@ -2882,7 +2882,7 @@ msgstr "OpenOffice.org 办公套件中的表达式编辑组件叫什么名字？
 
 #: chapter4/xinclude.xml:3708(para)
 msgid "OpenOffice.org Math."
-msgstr "OpenOffice.org Math."
+msgstr "OpenOffice.org 公式."
 
 #: chapter4/xinclude.xml:3714(para)
 msgid "Which software feature help you create multiple personalised form letters?"
