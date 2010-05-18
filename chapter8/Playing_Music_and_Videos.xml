@@ -237,6 +237,7 @@
           <emphasis role="strong">Configure Plugins</emphasis> dialogue box.
           Selecting a plugin displays its details in the right pane of the
           dialogue box.</para>
+
         </step>
 
         <step performance="required">
@@ -337,7 +338,7 @@
 
           <para>To play music from a podcast of your choice, right-click the
           <emphasis role="strong">Podcast</emphasis> option in the <emphasis
-          role="strong">Source</emphasis> list and select <emphasis
+          role="strong">Library</emphasis> list and select <emphasis
           role="strong">New Podcast Feed</emphasis>.</para>
 
           <figure float="0">
@@ -408,7 +409,7 @@
           <para>Rhythmbox also allows you to listen to radio streamed from
           Internet radio stations across the world. To listen to Internet
           radio, click the <emphasis role="strong">Radio</emphasis> source in
-          the <emphasis role="strong">Source</emphasis> pane.</para>
+          the <emphasis role="strong">Library</emphasis> pane.</para>
 
           <figure float="0">
             <title>Playing Internet Radio</title>
@@ -833,7 +834,7 @@
         you wish to add to the new CD project.</para>
     
         <figure float="0">
-          <title>The New Audio Project window</title>
+          <title>The main window of Brasero</title>
 
           <mediaobject>
             <imageobject>
@@ -875,7 +876,7 @@
         computer to the CD.</para>
 
         <figure float="0">
-          <title>Writing Audio Files to Disc</title>
+          <title>Audio Files to Write to Disc</title>
 
           <mediaobject>
             <imageobject>
@@ -1120,14 +1121,12 @@
 
         <step performance="required">
           <para>Sound Recorder allows you to record and play .flac, .ogg,
-          and .wav audio files. To start a recording session, you need to
-          select an input device, such as a microphone, phone or line-in, from
-          the <emphasis role="strong">Record from input</emphasis> drop-down
-          list. You can also select the audio quality from the Record as
+          and .wav audio files. You can also select the audio quality and formate 
+          from the <emphasis role="strong">Record as</emphasis>
           drop-down list.</para>
 
           <figure float="0">
-            <title>Selecting the Input Device</title>
+            <title>Selecting the quality and formate</title>
 
             <mediaobject>
               <imageobject>
@@ -1847,10 +1846,8 @@
       <note>
         <title>Note:</title>
 
-        <para>Thoggen is still beta software, but should work fine
-        nevertheless. It is advisable, however, to check the list of known
-        issues at <ulink
-        url="http://thoggen.net/download/">http://thoggen.net/download/</ulink>.</para>
+        <para>Thoggen should work just fine for the most part, but make still sure to check the list of known issues. <ulink
+        url="http://thoggen.net/download/index.html#known-issues">http://thoggen.net/download/index.html#known-issues</ulink>.</para>
       </note>
 
       <para>To be able to back up your DVD using Thoggen, you need to first
@@ -2856,7 +2853,7 @@
       <listitem>
         <para>To play music from a podcast of your choice, right-click the
         <emphasis role="strong">Podcast</emphasis> option in the <emphasis
-        role="strong">Source</emphasis> list and select <emphasis
+        role="strong">Library</emphasis> list and select <emphasis
         role="strong">New Podcast Feed</emphasis>.</para>
       </listitem>
 
@@ -2875,7 +2872,7 @@
       <listitem>
         <para>To listen to Internet radio, click the <emphasis
         role="strong">Radio</emphasis> source in the <emphasis
-        role="strong">Source</emphasis> pane.</para>
+        role="strong">Library</emphasis> pane.</para>
       </listitem>
 
       <listitem>

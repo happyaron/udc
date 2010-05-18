@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-01-07 21:24+0800\n"
-"PO-Revision-Date: 2010-01-08 22:24+0800\n"
+"PO-Revision-Date: 2010-05-18 22:20+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -691,7 +691,7 @@ msgstr "在 Rhythmbox 中播放音乐，首先需要从 <emphasis role=\"strong\
 
 #: chapter8/xinclude.xml:117(para)
 msgid "Library is the main source available in Rhythmbox. You can import all your music files into the Rhythmbox library and can start playing immediately. You also use the music files in your library to create smart customised playlists and play-queues. To start importing individual music files, right-click <emphasis role=\"strong\">Music</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>. It displays the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box."
-msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击  <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。于是弹出 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框。"
+msgstr "音乐库是 Rhythmbox 中可用的主要源。向 Rhythmbox 音乐库中导入任何音乐文件便可立即开始播放。您还可以使用音乐库中的音乐文件自定义一个精致的播放列表。要导入单独的音乐文件，可右键点击  <emphasis role=\"strong\">音乐</emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>按钮。将弹出 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:125(title)
 msgid "Importing Music Files"
@@ -1315,11 +1315,11 @@ msgstr "放大镜工具：如果由于当前文件的长度，不能查看想要
 # mohu
 #: chapter8/xinclude.xml:1262(para)
 msgid "Envelop tool: This enables you to change the volume of specific selections of the sound file."
-msgstr "Envelop tool：可以用来改变声音文件上选定的区域的音量。"
+msgstr "包络工具：可以用来改变声音文件上选定的区域的音量。"
 
 #: chapter8/xinclude.xml:1267(para)
 msgid "Time Shift tool: Allows you to move the entire sound file in relation to time; helpful when you are working with multiple tracks."
-msgstr "时移工具：允许您移动与时间有关的声音文件，当您进行多个轨道工作时将很有用。"
+msgstr "时间移动工具：允许您移动与时间有关的声音文件，当您进行多个轨道工作时将很有用。"
 
 #: chapter8/xinclude.xml:1273(para)
 msgid "Selection tool: Enables you to highlight portions of the sound file on which you want to work."
@@ -1351,7 +1351,7 @@ msgstr "增幅 - 增大或减小声音而不改变音质"
 
 #: chapter8/xinclude.xml:1323(para)
 msgid "BassBoost - Increases the volume of a specific frequency."
-msgstr "BassBoost-增加某一特定音频的音量"
+msgstr "低音增强 - 增加某一特定音频的音量"
 
 #: chapter8/xinclude.xml:1328(para)
 msgid "Echo - Allows you to add an echo specify the delay time."
@@ -1375,7 +1375,7 @@ msgstr "噪声消除 - 消除背景噪音"
 
 #: chapter8/xinclude.xml:1349(para)
 msgid "Reverse - Allows you to play the selection backward"
-msgstr "反向-用来反向播放指定片段"
+msgstr "反向 - 用来反向播放指定片段"
 
 #: chapter8/xinclude.xml:1353(para)
 msgid "To increase the volume of the selected portion, on the <emphasis role=\"strong\">Effect</emphasis> menu, select <emphasis role=\"strong\">Amplify</emphasis>. The <emphasis role=\"strong\">Amplify</emphasis> window opens."
@@ -1440,7 +1440,7 @@ msgstr "播放 DVD"
 # 原文错误 sotware
 #: chapter8/xinclude.xml:1463(para)
 msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
-msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System,CSS) 加密的，以播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
+msgstr "多数商业 DVD 是使用内容加扰系统(Content Scrambling System,CSS) 加密的，以试图对播放 DVD 的软件加以限制。默认上，Ubuntu 可以播放未加密的 DVD。由于围绕着 CSS 格式的法律限制，以及 Ubuntu 对自由多媒体格式的承诺，播放加密 DVD 需要的一些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的功能。"
 
 #: chapter8/xinclude.xml:1475(para)
 msgid "It is possible that the use of some of the following software to play or copy DVDs is not permitted by law in some countries. Please check your rights before proceeding."
@@ -1469,7 +1469,7 @@ msgstr "Totem-xine"
 
 #: chapter8/xinclude.xml:1502(para)
 msgid "Totem Movie Player, the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
-msgstr "Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD。但它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 Xine 的自由媒体播放软件可以支持 DVD 菜单。"
+msgstr "Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD。但它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 Xine 等媒体播放自由软件可以支持 DVD 菜单。"
 
 #: chapter8/xinclude.xml:1508(title)
 msgid "Playing DVDs in Totem Movie Player"
@@ -1744,7 +1744,7 @@ msgstr "安装 RealPlayer "
 
 #: chapter8/xinclude.xml:1938(para)
 msgid "As mentioned above, the realPlayer for Linux is available in the Canonical commercial repository. Ubuntu does not include this repository by default. Therefore, you will first need to add Canonical's commercial repository to your system. Once the repository is added, you can search for the Realplayer package and then install it on your computer."
-msgstr "如前所述，Linux 版 RealPlayer 可在 medibuntu 软件库中获得。Ubuntu 默认并不包含此软件库。因此首先需要向您的系统添加 medibuntu 软件库，请按照第六章的方法向软件源中添加“deb http://packages.medibuntu.org/ karmic free non-free”。添加完此软件库就可以搜索 Realplayer 包并安装到计算机上了。"
+msgstr "如前所述，Linux 版 RealPlayer 可在 medibuntu 软件库中获得。Ubuntu 默认并不包含此软件库。因此首先需要向您的系统添加 medibuntu 软件库，请按照第六章的方法向软件源中添加“deb http://packages.medibuntu.org/ lucid free non-free”。添加完此软件库就可以搜索 Realplayer 包并安装到计算机上了。"
 
 #: chapter8/xinclude.xml:1947(title)
 msgid "Watching Online Videos Using RealPlayer"
