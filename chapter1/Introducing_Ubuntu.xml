@@ -427,8 +427,14 @@
         <listitem>
           <formalpara>
             <title>Ubuntu 10.04 (Lucid Lynx)</title>
-						<para>Scheduled for release in April 2010, Ubuntu 10.04 will be the next 
-						Ubuntu release. This release will be supported until .</para>
+						<para>Ubuntu 10.04 LTS is the third Long Term Support Release of Ubuntu.</para>
+          </formalpara>
+        </listitem>
+        <listitem>
+          <formalpara>
+            <title>Ubuntu 10.10 (Maverick Meerkat)</title>
+						<para>Scheduled for release in October 2010, Ubuntu 10.10 will be the next 
+						Ubuntu release. This release will be supported until April 2012.</para>
           </formalpara>
         </listitem>
       </itemizedlist>

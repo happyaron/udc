@@ -1407,7 +1407,7 @@ msgstr "F-Spot 照片管理器"
 
 #: chapter1/xinclude.xml:1204(para)
 msgid "Gimp for image editing"
-msgstr "用于编辑图片的 GIMP"
+msgstr "用于编辑视频的 Pitivi"
 
 #: chapter1/xinclude.xml:1213(para)
 msgid "Picture Gallery application"
@@ -1415,7 +1415,7 @@ msgstr "图片与传真查看器"
 
 #: chapter1/xinclude.xml:1216(para)
 msgid "Paint"
-msgstr "画图"
+msgstr "Movie Maker"
 
 #: chapter1/xinclude.xml:1229(title)
 msgid "Networking, Web browsing and E-mail"
@@ -1500,8 +1500,8 @@ msgid ""
 "restrictions. Playback of mp3 files is enabled by default on some versions "
 "of Microsoft Windows."
 msgstr ""
-"要在 Ubuntu 上播放 mp3 文件，您需要安装一个解码器包。因为许可证限制的原因，"
-"Ubuntu 不会默认安装它。某些版本的 Microsoft Windows 中默认支持播放 mp3 文件。"
+"要在 Ubuntu 上播放 MP3 文件，您需要安装一个解码器包。因为许可证限制的原因，"
+"Ubuntu 不会默认安装它。某些版本的 Microsoft Windows 中默认支持播放 MP3 文件。"
 
 #: chapter1/xinclude.xml:1286(para)
 msgid ""
@@ -1518,7 +1518,7 @@ msgstr ""
 
 #: chapter1/xinclude.xml:1295(title)
 msgid "Image Editing and Picture Management:"
-msgstr "图片编辑与管理"
+msgstr "图片和视频"
 
 #: chapter1/xinclude.xml:1296(para)
 msgid ""
@@ -1539,12 +1539,12 @@ msgid ""
 "application. Microsoft Windows Vista provides 'Paint' for basic image "
 "editing."
 msgstr ""
-"Ubuntu 提供的 GIMP 是一个强大的类 Photoshop 图像编辑软件。 Microsoft Windows "
-"Vista 的 Paint 程序可以进行基本的图像编辑。"
+"Ubuntu 提供的 Pitivi 是一个简易的视频剪辑制作软件。 Microsoft Windows "
+"7 的 Movie Maker 程序拥有类似的功能。"
 
 #: chapter1/xinclude.xml:1308(title)
 msgid "GIMP"
-msgstr "GIMP"
+msgstr "Pitivi"
 
 #: chapter1/xinclude.xml:1318(title)
 msgid "Lesson Summary"
@@ -1628,7 +1628,7 @@ msgstr "连线题：Ubuntu 版本和它们发布的日期。"
 
 #: chapter1/xinclude.xml:1421(para) chapter1/xinclude.xml:1463(para)
 msgid "1) 7.04"
-msgstr "1) Feisty Fawn"
+msgstr "1) Lucid Lynx"
 
 #: chapter1/xinclude.xml:1424(para) chapter1/xinclude.xml:1482(para)
 msgid "a) June 2006"
@@ -1648,7 +1648,7 @@ msgstr "3) Hardy Heron"
 
 #: chapter1/xinclude.xml:1440(para) chapter1/xinclude.xml:1466(para)
 msgid "c) April 2007"
-msgstr "c) 2007年04月"
+msgstr "c) 2010年04月"
 
 #: chapter1/xinclude.xml:1445(para) chapter1/xinclude.xml:1487(para)
 msgid "4) 7.10"
