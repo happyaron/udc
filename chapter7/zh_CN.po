@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-01-08 04:54+0800\n"
+"PO-Revision-Date: 2010-05-18 21:32+0800\n"
 "Last-Translator: Yvonne Ye <feidaozhanchen@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -284,7 +284,7 @@ msgstr "Dia："
 
 #: chapter7/xinclude.xml:159(para)
 msgid "A diagram editor similar to Microsoft Visio. Dia offers the capability to produce precise and professional-level graphics. You can draw entity relationship diagrams, flowcharts and network diagrams and export them to various formats, including EPS, SVG, XFIG, WMF and PNG. You can also print diagrams spanning multiple pages. Visit the Web site <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> for more information."
-msgstr "一款类似于 Microsoft Visio 的图标编辑器。Dia 能够制作精密的专业水平的图表。可以绘制实体关系图、流程图和网络图，并以多种格式导出，包括 EPS、SVG、XFIG、WMF 和 PNG 等，还可以跨越多页面进行图标打印。可以登录网站 <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> 获得更多相关信息。"
+msgstr "一款类似于 Microsoft Visio 的图标编辑器。Dia 能够制作精密的专业水平的图标。可以绘制实体关系图、流程图和网络图，并以多种格式导出，包括 EPS、SVG、XFIG、WMF 和 PNG 等，还可以跨越多页面进行图标打印。可以登录网站 <ulink url=\"http://live.gnome.org/Dia\">http://live.gnome.org/Dia</ulink> 获得更多相关信息。"
 
 #: chapter7/xinclude.xml:177(title)
 msgid "Gcolor2:"
