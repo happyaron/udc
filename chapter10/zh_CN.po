@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-04 22:50+0800\n"
-"PO-Revision-Date: 2010-01-07 15:59+0800\n"
+"PO-Revision-Date: 2010-05-18 21:31+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -197,7 +197,7 @@ msgstr "小提示："
 # ext4
 #: chapter10/xinclude.xml:132(para)
 msgid "ext3 is a great general purpose journalling filesystem. It handles most tasks well however, xfs is sometimes chosen instead on media-centre systems as it performs better when handling very large files - such as music and video files."
-msgstr "ext4 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs，因为它在除了非常大的文件 - 例如音乐和视频文件时表现得更好。"
+msgstr "ext4 是一个很好的通用日志文件系统。它可以很好地处理多数任务，但是有时在媒体中心上转而选择 xfs，因为它在除理非常大的文件 - 例如音乐和视频文件时表现得更好。"
 
 #: chapter10/xinclude.xml:139(title)
 msgid "Mount points"
@@ -341,7 +341,7 @@ msgstr "如果驱动器上存在的分区还未被使用，将有一个白条穿
 #: chapter10/xinclude.xml:354(title)
 #: chapter10/xinclude.xml:780(title)
 msgid "Instructor Notes:"
-msgstr "教师注意："
+msgstr "教师注记："
 
 #: chapter10/xinclude.xml:356(para)
 msgid "Explain how to read the specifications of the current partitions and file systems."
@@ -486,7 +486,7 @@ msgstr "在终端中，输入如下命令以打开 rc.local 文件："
 #: chapter10/xinclude.xml:595(screen)
 #, no-wrap
 msgid "$ sudo nano /etc/rc.local"
-msgstr "$ sudo nano /etc/rc.local"
+msgstr "sudo nano /etc/rc.local"
 
 #: chapter10/xinclude.xml:598(title)
 msgid "Terminal Window"
@@ -503,7 +503,7 @@ msgstr "在终端窗口打开 rc.local 文件。在行 exit 0 之前输入您想
 #: chapter10/xinclude.xml:618(screen)
 #, no-wrap
 msgid "$ date &gt; /home/oem/newbackup"
-msgstr "$ date &gt; /home/oem/newbackup"
+msgstr "date &gt; /home/oem/newbackup"
 
 # 此为病句，我自己都看不懂
 #: chapter10/xinclude.xml:621(title)
@@ -521,7 +521,7 @@ msgstr "当重启系统时，执行 rc.local 文件。如果想显示上边命�
 #: chapter10/xinclude.xml:643(screen)
 #, no-wrap
 msgid "$ cat newbackup"
-msgstr "$ cat newbackup"
+msgstr "cat newbackup"
 
 #: chapter10/xinclude.xml:645(para)
 msgid "The following image shows the output of the above command:"
@@ -550,8 +550,8 @@ msgid ""
 "$ sudo cp /etc/default/grub /etc/default/grub_backup \n"
 "$ sudo gedit /etc/default/grub"
 msgstr ""
-"$ sudo cp /etc/default/grub /etc/default/grub_backup \n"
-"$ sudo gedit /etc/default/grub"
+"sudo cp /etc/default/grub /etc/default/grub_backup \n"
+"sudo gedit /etc/default/grub"
 
 #: chapter10/xinclude.xml:679(para)
 msgid "Find the line written below to change the default sequence:"

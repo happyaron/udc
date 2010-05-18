@@ -385,9 +385,6 @@
           <para>Security Options</para>
         </step>
         <step performance="required">
-          <para>Security Options</para>
-        </step>
-        <step performance="required">
           <para>Clear the <emphasis role="strong">Enable roaming
           mode</emphasis> check box to enable the connection.</para>
 
