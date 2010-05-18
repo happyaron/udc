@@ -69,19 +69,6 @@
     within two full days. However, topics and lessons can be
     selected as required and a day's content designed to suit the
     key learning objectives.</para>
-    <para>Sample material for various exercises is available
-    through the ubuntu-desktop-course-resources package. The most
-    current package is available through the canonical-training PPA
-    (Personal Package Archive) in Launchpad:
-    https://launchpad.net/~canonical-training/+archive.</para>
-    <note userlevel="instructor">
-      <title>Instructor Notes:</title>
-      <para>The ubuntu-desktop-course-resource package should be
-      installed on all systems before the course starts. The sample
-      files are placed in /usr/share/ubuntu-desktop-course. It is
-      recommended to add a link to the directory on the students
-      desktop.</para>
-    </note>
   </sect1>
   <sect1>
     <title>Student Responsibilities</title>

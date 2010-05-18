@@ -33,7 +33,7 @@ msgid ""
 "connectivity and browsing, graphics arts tools, multi-media and music."
 msgstr ""
 "Ubuntu 是基于 Linux 的操作系统，它由社区开发，可供免费使用，广泛适用于笔记"
-"本电脑、台式电脑和服务器等各种设备。本课程以 Ubuntu 9.10 版本系统的使用为例，旨在"
+"本电脑、台式电脑和服务器等各种设备。本课程以 Ubuntu 10.04 LTS 版本系统的使用为例，旨在"
 "对于一些主要程序诸如主流的办公室应用程序、网络连接和浏览、图像处理工具、多"
 "媒体工具和音乐工具等的使用方面给新的 Ubuntu 用户以简单的入门指导。"
 
@@ -185,7 +185,7 @@ msgid ""
 "Please provide any and all feedback regarding this course to: "
 "training@canonical.com."
 msgstr ""
-"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: training@canonical.com。"
+"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: sbyy@googlegroups.com。"
 
 #: introduction/xinclude.xml:117(title)
 msgid "Ubuntu Session Plan"
