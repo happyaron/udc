@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-01-07 21:24+0800\n"
-"PO-Revision-Date: 2010-05-18 22:20+0800\n"
+"PO-Revision-Date: 2010-05-19 20:53+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1907,7 +1907,7 @@ msgstr "Pitivi 界面"
 
 #: chapter8/xinclude.xml:2235(para)
 msgid "In the Import a clip dialogue box, navigate to the folder from where you want to import the video clip, select the single or multiple clips to be edited and click <emphasis role=\"strong\">Add</emphasis> to import it in the <emphasis role=\"strong\">Pitivi</emphasis> window."
-msgstr "在导入剪辑对话框中，导航到视频剪辑所在的文件夹，选择单个或多个剪辑以编辑，并点击 <emphasis role=\"strong\">添加</emphasis> 导入到 <emphasis role=\"strong\">Pitivi</emphasis> 窗口。"
+msgstr "在导入一个片段对话框中，导航到视频剪辑所在的文件夹，选择单个或多个剪辑以编辑，并点击 <emphasis role=\"strong\">添加</emphasis> 导入到 <emphasis role=\"strong\">Pitivi</emphasis> 窗口。"
 
 #: chapter8/xinclude.xml:2240(title)
 msgid "Importing Video Clips in Pitivi"
@@ -1923,15 +1923,15 @@ msgstr "查看导入的视频"
 
 #: chapter8/xinclude.xml:2268(para)
 msgid "To edit the imported video clip, you need to drag them to the bottom pane to add them to the time line and then select the <emphasis role=\"strong\">Project Settings</emphasis> option from the <emphasis role=\"strong\">File</emphasis> menu. This opens the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box."
-msgstr "要编辑导入的视频剪辑，您需要将其拖动到底部嵌板以添加它们到时间线上，然后从 <emphasis role=\"strong\">工程</emphasis> 菜单选择 <emphasis role=\"strong\">工程设置</emphasis> 选项，打开 <emphasis role=\"strong\">工程设置</emphasis> 对话框。"
+msgstr "要编辑导入的视频剪辑，您需要将其拖动到底部嵌板以添加它们到时间线上，然后从 <emphasis role=\"strong\">项目</emphasis> 菜单选择 <emphasis role=\"strong\">项目设置</emphasis> 选项，打开 <emphasis role=\"strong\">项目设置</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2276(title)
 msgid "Displaying the Project Settings Dialogue Box"
-msgstr "显示工程设置对话框"
+msgstr "显示项目设置对话框"
 
 #: chapter8/xinclude.xml:2287(para)
 msgid "In the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box, you can edit the various aspects of the selected movie clip by defining various specifications according to your preferences. You can use the <emphasis role=\"strong\">Video Output</emphasis> section to define the height, width and the frame rate of the video. Similarly, you can define the audio specifications under the <emphasis role=\"strong\">Audio Output</emphasis> section. Click <emphasis role=\"strong\">OK</emphasis> after specifying your preferences."
-msgstr "在 <emphasis role=\"strong\">工程设置</emphasis> 对话框中，可通过定义参数设置电影剪辑的多个属性。可以使用 <emphasis role=\"strong\">视频输出</emphasis> 节定义视频的高度、宽度和帧速率。类似地，可以在 <emphasis role=\"strong\">音频输出</emphasis> 节下定义音频参数。制定好之后点击 <emphasis role=\"strong\">确定</emphasis>。"
+msgstr "在 <emphasis role=\"strong\">项目设置</emphasis> 对话框中，可通过定义参数设置电影剪辑的多个属性。可以使用 <emphasis role=\"strong\">视频输出</emphasis> 节定义视频的高度、宽度和帧速率。类似地，可以在 <emphasis role=\"strong\">音频输出</emphasis> 节下定义音频参数。制定好之后点击 <emphasis role=\"strong\">确定</emphasis>。"
 
 #: chapter8/xinclude.xml:2298(title)
 msgid "Specifying Edit Preferences"
@@ -1939,7 +1939,7 @@ msgstr "设定编辑首选项"
 
 #: chapter8/xinclude.xml:2309(para)
 msgid "You return to the Pitivi window. To start applying your specifications on the selected video clip, click the <emphasis role=\"strong\">Render project</emphasis> button. This displays the <emphasis role=\"strong\">Render project</emphasis> dialogue box. You can use the <emphasis role=\"strong\">Modify</emphasis> button on the <emphasis role=\"strong\">Render project</emphasis> dialogue box to further modify your specifications for the video clip. Otherwise, click the <emphasis role=\"strong\">Choose file</emphasis> button to specify a file name for the edited video clip."
-msgstr "返回到 Pitivi 窗口。点击 <emphasis role=\"strong\">渲染工程</emphasis> 按钮对视频剪辑应用该设定。显示 <emphasis role=\"strong\">渲染工程</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染工程</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮对视频剪辑做进一步的修改。最后点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
+msgstr "返回到 Pitivi 窗口。点击 <emphasis role=\"strong\">渲染项目</emphasis> 按钮对视频剪辑应用该设定。显示 <emphasis role=\"strong\">渲染项目</emphasis> 对话框。可以使用 <emphasis role=\"strong\">渲染项目</emphasis> 对话框上的 <emphasis role=\"strong\">修改</emphasis> 按钮对视频剪辑做进一步的修改。最后点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定一个文件名。"
 
 #: chapter8/xinclude.xml:2319(title)
 msgid "Specifying the Output File"
@@ -2092,7 +2092,7 @@ msgstr "播客是一种在互联网上发布文件并允许用户订阅以自动
 
 #: chapter8/xinclude.xml:2536(para)
 msgid "Which application is available in Ubuntu by default to play and extract audio compact discs?"
-msgstr "Ubuntu 中默认用于播放和提取音频光盘的程序是以下哪个？"
+msgstr "以下哪个是 Ubuntu 中专用于播放和提取音频光盘的程序？"
 
 #: chapter8/xinclude.xml:2545(para)
 msgid "RealPlayer"

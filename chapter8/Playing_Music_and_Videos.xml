@@ -2350,9 +2350,7 @@
     <sect2>
       <title>Editing Videos Using Pitivi Video Editor</title>
 
-      <para>Pitivi Video Editor is not included in Ubuntu by default. It is
-      available in the Universe repository of Ubuntu. You can install Pitivi
-      using Synaptic Package Manager.</para>
+      <para>Pitivi Video Editor is installed in Ubuntu by default.So you can use it right now.</para>
 
       <procedure>
         <title>To edit video using Pitivi Video Editor:</title>
@@ -2361,7 +2359,7 @@
           <para>On the <emphasis role="strong">Applications</emphasis> menu,
           point to <emphasis role="strong">Sound &amp; Video</emphasis> and
           then click <emphasis role="strong">Pitivi Video Editor</emphasis>.
-          The <emphasis role="strong">Pitivi vo 11.1</emphasis> window
+          The <emphasis role="strong">Pitivi</emphasis> window
           opens.</para>
         </step>
 
