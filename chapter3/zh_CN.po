@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-08 14:54+0800\n"
+"PO-Revision-Date: 2010-05-19 19:57+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -728,7 +728,7 @@ msgstr "如果您在浏览互联网时碰巧发现了一个感兴趣的网站并
 
 #: chapter3/xinclude.xml:525(para)
 msgid "A Bookmark in Firefox, similar to favourites in Internet Explorer, is a useful browser feature."
-msgstr "Firefox 中的书签，与 IE 中的收藏夹很相似，是一个很有用的功能。"
+msgstr "Firefox 中的书签，与 IE 中的收藏夹很相似，但使用起来更加方便、高效。"
 
 #: chapter3/xinclude.xml:530(title)
 msgid "To create a bookmark in Firefox:"
@@ -1053,7 +1053,7 @@ msgstr "Evolution"
 
 #: chapter3/xinclude.xml:1071(para)
 msgid "For more information on how to use the Evolution e-mail client, refer to: <ulink url=\"https://help.ubuntu.com/8.04/internet/C/email.html\">https://help.ubuntu.com/8.04/internet/C/email.html</ulink>."
-msgstr "更多关于如何使用 Evolution 电子邮件客户端的信息，参见：<ulink url=\"https://help.ubuntu.com/9.10/internet/C/email.html\">https://help.ubuntu.com/9.10/internet/C/email.html</ulink>"
+msgstr "更多关于如何使用 Evolution 电子邮件客户端的信息，参见：<ulink url=\"https://help.ubuntu.com/10.04/internet/C/email.html\">https://help.ubuntu.com/10.04/internet/C/email.html</ulink>"
 
 #: chapter3/xinclude.xml:1077(title)
 msgid "Using an Alternative E-Mail Client"
@@ -1255,7 +1255,8 @@ msgstr "电子邮件不能即时地传送消息，这使得它在一些需要快
 
 #: chapter3/xinclude.xml:1395(para)
 msgid "The default instant messenger client on Ubuntu is Pidgin, a cross-platform instant messenger that supports various popular IM network protocols. Using Pidgin, you can communicate with people who use America Online (AOL) Instant Messenger (AIM/ICQ), Gadu-Gadu, GroupWise, IRC, Jabber, MSN, Napster and Yahoo. It allows you to list all your friends in one window. Pidgin users can log on to multiple accounts on multiple IM networks simultaneously. This means that you can chat with friends on AIM, talk to a friend on Yahoo Messenger, and sit in an IRC channel, all at the same time. Pidgin supports many features of the various networks, such as file transfer, away messages, typing notification, and MSN window closing notification. A few popular features are Buddy Pounces, which give the ability to notify you, send a message, play a sound or run a programme when a specific buddy goes away, signs online or returns from idle."
-msgstr "Ubuntu 默认的即使消息程序是 Empathy，它支持多种流行的即时通讯网络协议。您可以通过它使用 IRC、Jabber、Google Talk、MSN、AIM/ICQ、Gadu-Gadu、GroupWise、Yahoo 等协议同自己的朋友们聊天，Empathy 会针对不同的帐号分别存储聊天记录。Empathy 支持这些协议中的多种功能，诸如文件传送、离开消息、输入提示和 MSN 窗口关闭提示等。"
+msgstr "Ubuntu 默认的即使消息程序是 Empathy，它支持多种流行的即时通讯网络协议。您可以通过它使用 IRC、Jabber、Google Talk、MSN、AIM/ICQ、Gadu-Gadu、GroupWise、Yahoo 等协议同自己的朋友们聊天，Empathy 会针对不同的帐号分别存储聊天记录。Empathy 支持这些协议中的多种功能，诸如文件传送、离开消息、输入提示和 MSN 窗口关闭提示等。如果不习惯 Empathy 或者需要跨平台，还可以使用 Pidgin，它提供了更丰富的功能和"
+"更好的跨平台兼容性，同时可以作为下一节中所述的 VoIP 音视频客户端。"
 
 #: chapter3/xinclude.xml:1410(title)
 msgid "To connect to an existing e-mail account using the Pidgin instant messenger, perform the following steps:"
@@ -1335,7 +1336,7 @@ msgstr "使用软电话拨打电话"
 
 #: chapter3/xinclude.xml:1558(para)
 msgid "A softphone is a software programme that is used to make telephone calls over the Internet using a computer instead of using a regular phone. Your service provider may offer computer-to-computer calls for free, but PC-to-phone and phone-to-PC calls usually are charged. You need to have the same communication protocol and use a common audio codec to communicate with another person. The audio codec defines how voice is translated into digital signals. Examples of SIP softphones are Ekiga, SIP Express Router and many more."
-msgstr "软电话是帮助您使用电脑打电话的应用程序。您的服务商可能免费提供电脑到电脑的呼叫，但电脑到电话或者电话到电脑的呼叫则是收费的。您需要和通信对方使用相同的音频编码格式，编码器会将您的声音编码为数字格式，待传输至对方电脑后再由解码器转回声音信号。常见的软电话有 Ekiga，Skype 等。"
+msgstr "软电话是帮助您使用电脑打电话的应用程序。您的服务商可能免费提供电脑到电脑的呼叫，但电脑到电话或者电话到电脑的呼叫则是收费的。您需要和通信对方使用相同的音频编码格式，编码器会将您的声音编码为数字格式，待传输至对方电脑后再由解码器转回声音信号。常见的软电话有 Ekiga，Skype 等。您还可以使用 Pidgin 等程序通过 Google Talk 一类的 XMPP 协议来进行在线的音视频联系，其工作原理与本节中所述的内容基本相同，虽然可配置项相对较少，但使用起来更加便捷。"
 
 #: chapter3/xinclude.xml:1567(para)
 msgid "You use a softphone with a headset connected to the computer or with a USB phone. The features of softphone include all standard telephony features, such as mute, flash, hold and transfer. It also includes new features, such as presence, video, wideband audio and many more. The softphone requirements to make voice calls over the Internet are a computer with a microphone and speaker, a headset or USB phone, Internet connectivity and an account with an Internet telephony service provider."
@@ -1645,7 +1646,7 @@ msgstr "练习 1"
 
 #: chapter3/xinclude.xml:2010(para)
 msgid "You use Liferea as a newsreader on your computer. Recently, you met a friend who informed you about a Web site that offers RSS feeds, <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. Now, you want to configure Liferea for the latest updates from this Web site."
-msgstr "假设您使用 Liferea 作为新闻阅读器。最近您的一位朋友告诉您 <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink> 提供 Feed。现在您希望配置 Liferea 接收该网站的最新头条。"
+msgstr "假设您使用 Liferea 作为新闻阅读器。最近您的一位朋友告诉您 <ulink url=\"http://forum.ubuntu.org.cn\">http://forum.ubuntu.org.cn</ulink> 提供 Feed。现在您希望配置 Liferea 接收该网站的最新头条。"
 
 #: chapter3/xinclude.xml:2019(para)
 msgid "Open the following Web site <ulink url=\"http://www.lifehacker.com\">http://www.lifehacker.com</ulink>. This site offers RSS feeds."
