@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-05-18 21:32+0800\n"
-"Last-Translator: Yvonne Ye <feidaozhanchen@gmail.com>\n"
+"PO-Revision-Date: 2010-05-19 22:32+0800\n"
+"Last-Translator: \n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -236,7 +236,7 @@ msgstr "Ubuntu 安装后就可以使用的程序"
 
 #: chapter7/xinclude.xml:66(para)
 msgid "<emphasis role=\"strong\">GIMP Image Editor:</emphasis> An image editor used for advanced image creation and editing such as changing the contrast, colour or the texture of an image."
-msgstr "<emphasis role=\"strong\">GIMP 图像编辑器：</emphasis> 这款图像编辑器可用于图像的创建和编辑，比如改变图像的对比度、色彩和纹理等。"
+msgstr "<emphasis role=\"strong\">OpenOffice.org 画图:</emphasis> 是一个矢量图绘制工具。能够胜任从简单到复杂的各种绘图任务，并将所绘图形以多种常见图片格式输出。您还可以在图片绘制中插入表格，图表，公式和其他 使用 OpenOffice.org 套件创建的项目。其具体应用参看前面章节。"
 
 #: chapter7/xinclude.xml:72(para)
 msgid "<emphasis role=\"strong\">F-Spot Photo Manager:</emphasis> A photo manager used to organise and manage photos. F-Spot enables you to tag (label), categorise and sort photos."
@@ -244,7 +244,7 @@ msgstr "<emphasis role=\"strong\">F-Spot 照片管理器：</emphasis> 一个管
 
 #: chapter7/xinclude.xml:78(para)
 msgid "<emphasis role=\"strong\">XSane Image Scanner:</emphasis> An image scanner which also enables you to photocopy documents and fax or e-mail scanned images."
-msgstr "<emphasis role=\"strong\">XSane 图像扫描仪：</emphasis> 用来影印文件并以传真或者电子邮件的形式发送扫描图像的图像扫描器，。"
+msgstr "<emphasis role=\"strong\">扫描易：</emphasis> 用来影印文件并以传真或者电子邮件的形式发送扫描图像的图像扫描器，。"
 
 #: chapter7/xinclude.xml:63(para)
 msgid "The following applications are included in the Ubuntu installation package: <placeholder-1/>"
@@ -539,7 +539,7 @@ msgstr "GIMP"
 # 10.04 中，默认不安装
 #: chapter7/xinclude.xml:562(para)
 msgid "GNU Image Manipulation Programme (GIMP) is the default graphic application in Ubuntu, licensed under the GNU General Public License. It is an open-source multi-platform image manipulation tool, available in many languages. You can use GIMP to re-touch photos, compose and create images, re-size, crop, manipulate colours and convert image formats."
-msgstr "GNU 图像处理程序 (GIMP) 是 Ubuntu 自带的一款图形应用程序，根据 GNU 通用公共许可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过 GIMP 修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格式。"
+msgstr "GNU 图像处理程序 (GIMP) 是一款图形应用程序，根据 GNU 通用公共许可证进行授权。它是一款开源多平台的图像处理工具，支持多种语言。用户可以通过 GIMP 修改图片、合成和创建新图像、设置图片大小、裁剪、设置颜色或者改变图像的格式。GIMP 不再是 Ubuntu 10.04 下默认的图形应用程序，用户可以通过新立得软件包管理器，Ubuntu 软件中心或命令行界面在软件库中安装此软件。"
 
 #: chapter7/xinclude.xml:571(para)
 msgid "A full suite of painting tools, including brushes, a pencil and an airbrush"
