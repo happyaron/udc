@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-help-and-support\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-29 04:03+0800\n"
-"PO-Revision-Date: 2010-01-08 05:29+0800\n"
+"PO-Revision-Date: 2010-05-19 20:09+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -320,7 +320,7 @@ msgstr "以下是 Ubuntu 文档网站的截图："
 
 #: chapter9/xinclude.xml:136(para)
 msgid "The documentation is classified according to the various Ubuntu releases, such as Ubuntu 8.04 LTS, 7.10 and 6.06 LTS."
-msgstr "文档按照不同的 Ubuntu 版本分类，如 Ubuntu 9.10，9.04，8.10 和 Ubuntu 8.04 LTS。"
+msgstr "文档按照不同的 Ubuntu 版本分类，如 Ubuntu 10.04 LTS，9.10，9.04，8.10 和 Ubuntu 8.04 LTS。"
 
 #: chapter9/xinclude.xml:139(para)
 msgid "To access the official documentation locally from your Ubuntu desktop, without connecting to the Internet, on the <emphasis role=\"strong\">System</emphasis> menu, click <emphasis role=\"strong\">Help and Support</emphasis>. You can also use the Help icon on the top panel of the desktop."
@@ -436,7 +436,7 @@ msgstr "本地团队支持"
 #: chapter9/xinclude.xml:591(title)
 #: chapter9/xinclude.xml:602(title)
 msgid "The Ubuntu Team Wiki"
-msgstr "Ubuntu 团队 Wiki"
+msgstr "Ubuntu 中文 Wiki"
 
 #: chapter9/xinclude.xml:283(title)
 msgid "Mailing Lists"
@@ -472,7 +472,7 @@ msgstr "您需要在相应的栏内输入您的电子邮件地址、名字和要
 
 #: chapter9/xinclude.xml:324(para)
 msgid "When you subscribe to a mailing list, a confirmation mail is sent to your provided e-mail to verify that it is your address. To activate this mailing list, you need to first open your e-mail account and then click the link provided in the confirmation e-mail."
-msgstr "当订阅一个邮件列表时，您会受到一封邮件来对订阅进行确认。所以要激活您在该邮件列表的订阅，您需要打开电子邮箱，然后点击确认邮件中给出的链接。"
+msgstr "当订阅一个邮件列表时，您会收到一封邮件来对订阅进行确认。所以要激活您在该邮件列表的订阅，您需要打开电子邮箱，然后点击确认邮件中给出的链接。"
 
 #: chapter9/xinclude.xml:330(title)
 msgid "Confirmation Mail"
@@ -504,7 +504,7 @@ msgstr "回复您的电子邮件可能多到像潮水涌来一样。在 <emphasi
 
 #: chapter9/xinclude.xml:385(para)
 msgid "To use the mailing lists, some guidelines are given in the Mailing List Etiquette page. To read these guidelines, go to <ulink url=\"http://www.ubuntu.com/support/community/mailinglists/etiquette\">http://www.ubuntu.com/support/community/mailinglists/etiquette</ulink>."
-msgstr "邮件列表行为守则 中有一些使用邮件列表的行为准则。参见 <ulink url=\"http://www.ubuntu.com/support/community/mailinglists/etiquette\">http://www.ubuntu.com/support/community/mailinglists/etiquette</ulink>"
+msgstr "邮件列表行为守则 中有一些使用邮件列表的行为准则。参见 <ulink url=\"http://www.ubuntu.org.cn/support/community/mailinglists/etiquette\">http://www.ubuntu.org.cn/support/community/mailinglists/etiquette</ulink>"
 
 #: chapter9/xinclude.xml:390(para)
 msgid "The mailing lists archive is an excellent resource of information, as quite a few questions have been discussed on the lists already. The archive can be seen as a memory for the mailing lists expertise."
@@ -596,7 +596,7 @@ msgstr "Ubuntu 用户 IRC 频道"
 
 #: chapter9/xinclude.xml:547(para)
 msgid "The Ubuntu LoCo (short for 'Local Community') teams are a vital resource for providing localised support. With the incredible success of Ubuntu around the world, the Loco project helps groups of Ubuntu fans and enthusiasts work together in their regional teams to help advocate, promote, translate, develop and otherwise improve Ubuntu.You can access them through: <ulink url=\"http://www.ubuntu.com/support/community/locallanguage\">http://www.ubuntu.com/support/community/locallanguage</ulink>."
-msgstr "Ubuntu 本地社区团队 (Local Community, LoCo) 是提供本地化支持的最重要资源。由于 Ubuntu 在全世界范围所取得的巨大成功，本地社区项目汇聚了当地众多的 Ubuntu 爱好者一起帮助推广、翻译、开发 Ubuntu 和更多形式地对 Ubuntu 做出贡献。您可以在 <ulink url=\"http://www.ubuntu.com/support/community/locallanguage\">http://www.ubuntu.com/support/community/locallanguage</ulink> 找到全部本地社区团队的列表。"
+msgstr "Ubuntu 本地社区团队 (Local Community, LoCo) 是提供本地化支持的最重要资源。由于 Ubuntu 在全世界范围所取得的巨大成功，本地社区项目汇聚了当地众多的 Ubuntu 爱好者一起帮助推广、翻译、开发 Ubuntu 和更多形式地对 Ubuntu 做出贡献。您可以在 <ulink url=\"http://www.ubuntu.org.cn/support/community/locallanguage\">http://www.ubuntu.org.cn/support/community/locallanguage</ulink> 找到全部本地社区团队的列表。"
 
 #: chapter9/xinclude.xml:554(para)
 msgid "The following screenshot displays the list of languages in which you can receive help and support on Ubuntu:"
@@ -620,11 +620,11 @@ msgstr "如果您希望创建或加入一个本地社区团队，请前往：<ul
 
 #: chapter9/xinclude.xml:593(para)
 msgid "The Ubuntu Team Wiki is a central Web site that provides access to useful information on Ubuntu and the supporting Ubuntu project. The pages are continually updated by the Ubuntu community members. The Ubuntu Team Wiki can be accessed at <ulink url=\"https://wiki.ubuntu.com/\">https://wiki.ubuntu.com/</ulink>."
-msgstr "Ubuntu 团队 Wiki 是提供 Ubuntu 相关的信息和支持的中心站点，其页面不断地由 Ubuntu 社区成员进行更新。您可以通过 <ulink url=\"https://wiki.ubuntu.com/\">https://wiki.ubuntu.com/</ulink> 访问。"
+msgstr "Ubuntu 中文 Wiki 是提供 Ubuntu 相关的信息和支持的中心站点，其页面不断地由 Ubuntu 中文社区成员进行更新。您可以通过 <ulink url=\"http://wiki.ubuntu.org.cn/\">http://wiki.ubuntu.org.cn/</ulink> 访问。"
 
 #: chapter9/xinclude.xml:598(para)
 msgid "The following is a screenshot of the Ubuntu Team Wiki home page:"
-msgstr "以下是 Ubuntu 团队 Wiki 页面的截图："
+msgstr "以下是 Ubuntu 中文 Wiki 页面的截图："
 
 #: chapter9/xinclude.xml:611(para)
 msgid "As an Ubuntu user, you can also contribute to the wiki content and edit any of the pages on this site. However, you must observe the Ubuntu code of conduct while editing any content."
@@ -760,7 +760,7 @@ msgstr "您需要提供关于此问题的详细信息，例如如何才能重现
 
 #: chapter9/xinclude.xml:826(para)
 msgid "Visit Malone at <ulink url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>."
-msgstr "访问 Malone：<ulink url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>"
+msgstr "更详细的错误报告指南：<ulink url=\"http://wiki.ubuntu.org.cn/%E9%94%99%E8%AF%AF%E6%8A%A5%E5%91%8A">http://wiki.ubuntu.org.cn/错误报告</ulink>"
 
 #: chapter9/xinclude.xml:831(title)
 msgid "Shipit"
@@ -882,7 +882,7 @@ msgstr "系统和在线文档是最基本的帮助信息来源，它们包含了
 
 #: chapter9/xinclude.xml:1017(para)
 msgid "The Ubuntu community also provides vital support through mailing lists, Web forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
-msgstr "Ubuntu 社区还通过邮件列表、网络论坛、IRC 频道、本地社区团队和 Ubuntu 团队 Wiki 提供重要的支持。"
+msgstr "Ubuntu 社区还通过邮件列表、网络论坛、IRC 频道、本地社区团队和 Wiki 提供重要的支持。"
 
 #: chapter9/xinclude.xml:1023(para)
 msgid "You can use Launchpad to perform tasks such as searching Ubuntu related information, tracking bugs in Ubuntu and placing orders for Ubuntu CDs."
