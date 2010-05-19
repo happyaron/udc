@@ -715,7 +715,18 @@
                          width="10cm" />
             </imageobject>
           </mediaobject>
-        </figure>
+  	</figure>
+
+        <figure float="0">
+	  <title>User Password</title>
+
+          <mediaobject>
+	    <imageobject>
+	      <imagedata fileref="images/Lesson03_images_039.png" format="PNG"
+	                 width="10cm" />
+	    </imageobject>
+	  </mediaobject>
+	</figure>
       </step>
 
       <step performance="required">

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course exploring-the-ubuntu-desktop\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-07 14:56+0800\n"
-"PO-Revision-Date: 2010-01-07 23:32+0800\n"
+"PO-Revision-Date: 2010-05-19 19:37+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis "
 "role=\"strong\">系统管理</emphasis>，单击 <emphasis role=\"strong\">语言支持"
-"</emphasis>。如果已安装的语言包有更新，系统会提示安装它们。"
+"</emphasis>。程序会自动检测语言支持完整性，若安装不完整或已安装的语言包有更新，程序会提示安装它们。"
 
 #: chapter2/xinclude.xml:510(title)
 msgid "Configuring Language Support"
@@ -896,11 +896,11 @@ msgid ""
 msgstr ""
 "单击 <emphasis role=\"strong\">安装</emphasis> 继续。升级完成后，弹出 "
 "<emphasis role=\"strong\">语言</emphasis> 对话框。单击 <emphasis role="
-"\"strong\">安装/移除语言</emphasis>。"
+"\"strong\">安装或删除语言</emphasis>。"
 
 #: chapter2/xinclude.xml:526(title)
 msgid "Installing Language Support Updates"
-msgstr "语言对话框"
+msgstr "语言和文本对话框"
 
 #: chapter2/xinclude.xml:537(para)
 msgid ""
@@ -932,9 +932,10 @@ msgid ""
 "Select the language that you want set as default, and click <emphasis role="
 "\"strong\">OK</emphasis>."
 msgstr ""
-"分别在 <emphasis role=\"strong\"> 对于我的菜单和窗口，使用 </emphasis> 和 "
-"<emphasis role=\"strong\"> 对于所有用户在启动和登录时使用</emphasis> 为当前用"
-"户和登录界面选择语言。"
+"分别在 <emphasis role=\"strong\">语言</emphasis> 和 "
+"<emphasis role=\"strong\">文本</emphasis> 标签中为当前用"
+"户和登录界面选择语言，若要应用到整个系统，则点击 "
+"<emphasis role=\"strong\">应用到整个系统</emphasis>。"
 
 #: chapter2/xinclude.xml:567(para)
 msgid "For the changes to take effect, log off and then log on again."
@@ -1009,9 +1010,8 @@ msgid ""
 "emphasis> dialogue box opens."
 msgstr ""
 "<emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
-"\"strong\">点击以进行更改</emphasis>，系统提示输入用户密码，验证成功后才能进"
-"行下一步操作。单击 <emphasis role=\"strong\">添加用户</emphasis> 添加一个新用"
-"户账户，弹出 <emphasis role=\"strong\">新建用户账户</emphasis> 对话框。"
+"\"strong\">添加</emphasis>，系统将提示输入用户密码，验证成功后才能进"
+"行下一步操作。"
 
 #: chapter2/xinclude.xml:628(title)
 msgid "Adding a User"
@@ -1023,34 +1023,36 @@ msgid ""
 "information in the <emphasis role=\"strong\">New user account</emphasis> "
 "dialogue box."
 msgstr ""
-"在<emphasis role=\"strong\">新用户账户</emphasis>对话框中指定新用户账户的基本"
+"在<emphasis role=\"strong\">创建新用户</emphasis>对话框中指定新用户账户的基本"
 "信息和密码。"
 
 #: chapter2/xinclude.xml:645(para)
 msgid ""
 "Type the name with which you want to log on to your computer in the "
 "<emphasis role=\"strong\">Username</emphasis> box."
-msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入想要的登录名。"
+msgstr "在 <emphasis role=\"strong\">名称</emphasis> 框中输入用户的全名。"
 
 #: chapter2/xinclude.xml:650(para)
 msgid ""
 "Type your full name in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
-msgstr "在 <emphasis role=\"strong\">真实姓名</emphasis> 框里输入全名。"
+msgstr "在 <emphasis role=\"strong\">短名称</emphasis> 框里输入想要的登录帐号名。"
 
 #: chapter2/xinclude.xml:655(para)
 msgid ""
 "Select your user type from the <emphasis role=\"strong\">Profile</emphasis> "
 "box."
 msgstr ""
-"在 <emphasis role=\"strong\">配置文件</emphasis> 下拉列表中选择用户类型。"
+"如需加密用户数据，点击以勾选 <emphasis role=\"strong\">加密主文件夹以保护敏感"
+"信息</emphasis>。然后点击 <emphasis role=\"strong\">确定。</emphasis>"
 
 #: chapter2/xinclude.xml:659(para)
 msgid ""
 "Type the password for your user account in the <emphasis role=\"strong"
 "\">User password</emphasis> box."
 msgstr ""
-"在 <emphasis role=\"strong\">用户密码</emphasis> 框和 <emphasis role=\"strong"
+"在 <emphasis role=\"strong\">更改用户口令</emphasis> 对话框中"
+"的 <emphasis role=\"strong\">新密码</emphasis> 和 <emphasis role=\"strong"
 "\">确认</emphasis> 框中两次输入新用户账户的密码。"
 
 #: chapter2/xinclude.xml:663(para) chapter2/xinclude.xml:964(para)
@@ -1060,6 +1062,9 @@ msgstr "单击 <emphasis role=\"strong\">确定</emphasis> 保存设置。"
 #: chapter2/xinclude.xml:667(title)
 msgid "Configuring New User Account"
 msgstr "配置新用户账户"
+
+msgid "User Password"
+msgstr "更改用户密码"
 
 #: chapter2/xinclude.xml:678(para)
 msgid ""
@@ -1197,7 +1202,7 @@ msgid ""
 "usability and visual appeal of the system. You really have to see and play "
 "with this application to appreciate the benefits."
 msgstr ""
-"在 Ubuntu 9.10 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特效，"
+"在 Ubuntu 10.04 LTS 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特效，"
 "既增强了用户体验，也提高了系统视觉外观的美观程度。您一定要试试这个软件，感受一下它的好处。"
 
 #: chapter2/xinclude.xml:802(title)
@@ -1286,7 +1291,7 @@ msgid ""
 "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D "
 "desktop visual effects"
 msgstr ""
-"Compiz Fusion 在 Ubuntu 9.10 里默认启用，它能带给您有趣的 3D 桌面效果。"
+"Compiz Fusion 在 Ubuntu 10.04 LTS 里默认启用，它能带给您有趣的 3D 桌面效果。"
 
 #: chapter2/xinclude.xml:880(title)
 msgid "Review Exercise"
