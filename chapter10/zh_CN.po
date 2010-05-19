@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-04 22:50+0800\n"
-"PO-Revision-Date: 2010-05-18 21:31+0800\n"
+"PO-Revision-Date: 2010-05-19 21:13+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -171,7 +171,7 @@ msgstr "或者，可以创建多个大小不同的分区，不同类型的应用
 
 #: chapter10/xinclude.xml:102(para)
 msgid "Which ever partitioning scheme has been chosen, this is not set in stone. It is possible to use a partition editing utility to resize partitions (subject to sufficient free space in each partition), however this is quite an advanced topic, and generally nto done while the system is in use."
-msgstr "分区方案选定以后，并不就是固定死了。还是可以使用分区编辑工具调整分区大小的(subject to sufficient free space in each partition)，然而，这是一个相当高级的主题并且通常不能在正在使用时系统处理。"
+msgstr "分区方案选定以后，并不就是固定死了。还是可以使用分区编辑工具调整分区大小的 (以使每个分区都有足够的剩余空间)，然而，这是一个相当高级的主题并且通常不能在正在使用的系统上进行。"
 
 #: chapter10/xinclude.xml:110(para)
 msgid "Whilst it is possible to change the disk partitioning layout after the system has been installed, it is important to make backups before making any changes to the partitions."
@@ -263,7 +263,7 @@ msgstr "/var：此目录包含可变数据，例如新闻文章、电子邮件�
 # 怎么最后只有半句话？
 #: chapter10/xinclude.xml:246(para)
 msgid "/tmp: This directory contains temporary data created by programmes. Some applications, including archive manipulators, CD/DVD authoring tools and multi-media software also use this directory to temporarily store image files. You need to plan space allocation for this directory based on your usage of these applications."
-msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括压缩包包处理程序、光盘创作工具和多媒体软件也使用此目录来临时纯放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。"
+msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括压缩包包处理程序、光盘创作工具和多媒体软件也使用此目录来临时存放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。"
 
 # 这句不好听
 #: chapter10/xinclude.xml:255(para)
@@ -448,7 +448,7 @@ msgstr "引导选项"
 
 #: chapter10/xinclude.xml:549(para)
 msgid "Booting up is a process through which the operating system is loaded into the computer's main memory or random access memory (RAM). The boot-up process starts when you turn on your computer. During this process, the BIOS takes control of your computer and decides where to look for software on the computer and in which order.Your computer's BIOS settings determine whether your computer will first check the hard disk or a floppy disc, CD, DVD or flash memory to start the booting-up process. If you have multiple operating systems installed on your computer, the BIOS configuration determines which operating system will be loaded first at boot-up."
-msgstr "引导是将操作系统加载到计算机的主存储器或随机访问存储器(RAM)的处理过程。引导过程在打开计算机的电源时开始。在这个过程中，BIOS 获取计算机的控制权并且决定何处寻找计算机上的软件以及以何种顺序。计算机的设置决定先计算机先检查硬盘还是软盘、光盘或闪存盘以启动此引导过程。如果有多个操作系统安装在您的计算机上，BIOS 配置决定引导时先加载哪个操作系统。"
+msgstr "引导是将操作系统加载到计算机的主存储器或随机访问存储器(RAM)的处理过程。引导过程在打开计算机的电源时开始。在这个过程中，BIOS 获取计算机的控制权并且决定何处寻找计算机上的软件以及以何种顺序。计算机的设置决定计算机先检查硬盘还是软盘、光盘或闪存盘以启动此引导过程。如果有多个操作系统安装在您的计算机上，BIOS 配置决定引导时先加载哪个操作系统。"
 
 #: chapter10/xinclude.xml:559(para)
 msgid "Only after all system files have been loaded into the main memory, is the operating system given control of the computer. The operating system performs the requested initial commands and then waits for the first interactive user input."
