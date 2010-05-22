@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-help-and-support\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2009-12-29 04:03+0800\n"
+"POT-Creation-Date: 2010-05-22 16:29+0800\n"
 "PO-Revision-Date: 2010-05-19 20:09+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -19,212 +19,342 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:56(None)
-msgid "@@image: 'images/Lesson10_images_001.png'; md5=e915bba976451f7b3e2468fe1bc82989"
-msgstr "@@image: 'images/Lesson10_images_001.png'; md5=e915bba976451f7b3e2468fe1bc82989"
+msgid ""
+"@@image: 'images/Lesson10_images_001.png'; "
+"md5=e915bba976451f7b3e2468fe1bc82989"
+msgstr ""
+"@@image: 'images/Lesson10_images_001.png'; "
+"md5=e915bba976451f7b3e2468fe1bc82989"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:82(None)
-msgid "@@image: 'images/Lesson10_images_002.png'; md5=76e4a2387bc2ed13431afbbc7e4df5c4"
-msgstr "@@image: 'images/Lesson10_images_002.png'; md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+msgid ""
+"@@image: 'images/Lesson10_images_002.png'; "
+"md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+msgstr ""
+"@@image: 'images/Lesson10_images_002.png'; "
+"md5=76e4a2387bc2ed13431afbbc7e4df5c4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:131(None)
-msgid "@@image: 'images/Lesson10_images_003.png'; md5=4516deca4721171cb90f84e24c3138b5"
-msgstr "@@image: 'images/Lesson10_images_003.png'; md5=4516deca4721171cb90f84e24c3138b5"
+msgid ""
+"@@image: 'images/Lesson10_images_003.png'; "
+"md5=4516deca4721171cb90f84e24c3138b5"
+msgstr ""
+"@@image: 'images/Lesson10_images_003.png'; "
+"md5=4516deca4721171cb90f84e24c3138b5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:192(None)
-msgid "@@image: 'images/Lesson10_images_004.png'; md5=f581330fbdbac89582ad56d0fe5cc516"
-msgstr "@@image: 'images/Lesson10_images_004.png'; md5=f581330fbdbac89582ad56d0fe5cc516"
+msgid ""
+"@@image: 'images/Lesson10_images_004.png'; "
+"md5=f581330fbdbac89582ad56d0fe5cc516"
+msgstr ""
+"@@image: 'images/Lesson10_images_004.png'; "
+"md5=f581330fbdbac89582ad56d0fe5cc516"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:217(None)
-msgid "@@image: 'images/Lesson10_images_005.png'; md5=8fc250755a7fc2589e3fc8c02cc83520"
-msgstr "@@image: 'images/Lesson10_images_005.png'; md5=8fc250755a7fc2589e3fc8c02cc83520"
+msgid ""
+"@@image: 'images/Lesson10_images_005.png'; "
+"md5=8fc250755a7fc2589e3fc8c02cc83520"
+msgstr ""
+"@@image: 'images/Lesson10_images_005.png'; "
+"md5=8fc250755a7fc2589e3fc8c02cc83520"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:238(None)
-msgid "@@image: 'images/Lesson10_images_006.png'; md5=8f999cc18ef54c08352392a0d6f1dac2"
-msgstr "@@image: 'images/Lesson10_images_006.png'; md5=8f999cc18ef54c08352392a0d6f1dac2"
+msgid ""
+"@@image: 'images/Lesson10_images_006.png'; "
+"md5=8f999cc18ef54c08352392a0d6f1dac2"
+msgstr ""
+"@@image: 'images/Lesson10_images_006.png'; "
+"md5=8f999cc18ef54c08352392a0d6f1dac2"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:301(None)
-msgid "@@image: 'images/Lesson10_images_007.png'; md5=36e2f61c6c284797e1033a8581cba4e9"
-msgstr "@@image: 'images/Lesson10_images_007.png'; md5=36e2f61c6c284797e1033a8581cba4e9"
+msgid ""
+"@@image: 'images/Lesson10_images_007.png'; "
+"md5=36e2f61c6c284797e1033a8581cba4e9"
+msgstr ""
+"@@image: 'images/Lesson10_images_007.png'; "
+"md5=36e2f61c6c284797e1033a8581cba4e9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:316(None)
-msgid "@@image: 'images/Lesson10_images_008.png'; md5=d4efcf45890a3c5d609a1ec70eee6e2d"
-msgstr "@@image: 'images/Lesson10_images_008.png'; md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+msgid ""
+"@@image: 'images/Lesson10_images_008.png'; "
+"md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+msgstr ""
+"@@image: 'images/Lesson10_images_008.png'; "
+"md5=d4efcf45890a3c5d609a1ec70eee6e2d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:334(None)
-msgid "@@image: 'images/Lesson10_images_009.png'; md5=7860881cb910500753e6618870bf9b28"
-msgstr "@@image: 'images/Lesson10_images_009.png'; md5=7860881cb910500753e6618870bf9b28"
+msgid ""
+"@@image: 'images/Lesson10_images_009.png'; "
+"md5=7860881cb910500753e6618870bf9b28"
+msgstr ""
+"@@image: 'images/Lesson10_images_009.png'; "
+"md5=7860881cb910500753e6618870bf9b28"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:349(None)
-msgid "@@image: 'images/Lesson10_images_010.png'; md5=a56d81763de07e8c82c576e0e61290f9"
-msgstr "@@image: 'images/Lesson10_images_010.png'; md5=a56d81763de07e8c82c576e0e61290f9"
+msgid ""
+"@@image: 'images/Lesson10_images_010.png'; "
+"md5=a56d81763de07e8c82c576e0e61290f9"
+msgstr ""
+"@@image: 'images/Lesson10_images_010.png'; "
+"md5=a56d81763de07e8c82c576e0e61290f9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:363(None)
-msgid "@@image: 'images/Lesson10_images_011.png'; md5=c1c56334f8afcf929c62dce7c246c121"
-msgstr "@@image: 'images/Lesson10_images_011.png'; md5=c1c56334f8afcf929c62dce7c246c121"
+msgid ""
+"@@image: 'images/Lesson10_images_011.png'; "
+"md5=c1c56334f8afcf929c62dce7c246c121"
+msgstr ""
+"@@image: 'images/Lesson10_images_011.png'; "
+"md5=c1c56334f8afcf929c62dce7c246c121"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:412(None)
-msgid "@@image: 'images/Lesson10_images_012.png'; md5=75bda44452a7a610f3a9199f9fefa751"
-msgstr "@@image: 'images/Lesson10_images_012.png'; md5=75bda44452a7a610f3a9199f9fefa751"
+msgid ""
+"@@image: 'images/Lesson10_images_012.png'; "
+"md5=75bda44452a7a610f3a9199f9fefa751"
+msgstr ""
+"@@image: 'images/Lesson10_images_012.png'; "
+"md5=75bda44452a7a610f3a9199f9fefa751"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:436(None)
-msgid "@@image: 'images/Lesson10_images_013.png'; md5=19c9d8c3013d2ffc0c494b10839aad4b"
-msgstr "@@image: 'images/Lesson10_images_013.png'; md5=19c9d8c3013d2ffc0c494b10839aad4b"
+msgid ""
+"@@image: 'images/Lesson10_images_013.png'; "
+"md5=19c9d8c3013d2ffc0c494b10839aad4b"
+msgstr ""
+"@@image: 'images/Lesson10_images_013.png'; "
+"md5=19c9d8c3013d2ffc0c494b10839aad4b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:450(None)
-msgid "@@image: 'images/Lesson10_images_014.png'; md5=576fd5224bd2af6fd60110056c47846a"
-msgstr "@@image: 'images/Lesson10_images_014.png'; md5=576fd5224bd2af6fd60110056c47846a"
+#: chapter9/xinclude.xml:495(None)
+msgid ""
+"@@image: 'images/Lesson10_images_015.png'; "
+"md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+msgstr ""
+"@@image: 'images/Lesson10_images_015.png'; "
+"md5=ed2d237abe0e6d2cb63199dbceffe0cf"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:505(None)
-msgid "@@image: 'images/Lesson10_images_015.png'; md5=ed2d237abe0e6d2cb63199dbceffe0cf"
-msgstr "@@image: 'images/Lesson10_images_015.png'; md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+#: chapter9/xinclude.xml:510(None)
+msgid ""
+"@@image: 'images/Lesson10_images_016.png'; "
+"md5=74de2a36f128e97dd46c7e9046b0d4da"
+msgstr ""
+"@@image: 'images/Lesson10_images_016.png'; "
+"md5=74de2a36f128e97dd46c7e9046b0d4da"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:520(None)
-msgid "@@image: 'images/Lesson10_images_016.png'; md5=74de2a36f128e97dd46c7e9046b0d4da"
-msgstr "@@image: 'images/Lesson10_images_016.png'; md5=74de2a36f128e97dd46c7e9046b0d4da"
+#: chapter9/xinclude.xml:526(None)
+msgid ""
+"@@image: 'images/Lesson10_images_018.png'; "
+"md5=0521700b06b668ae31897f31e9c086a7"
+msgstr ""
+"@@image: 'images/Lesson10_images_018.png'; "
+"md5=0521700b06b668ae31897f31e9c086a7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:536(None)
-msgid "@@image: 'images/Lesson10_images_018.png'; md5=0521700b06b668ae31897f31e9c086a7"
-msgstr "@@image: 'images/Lesson10_images_018.png'; md5=0521700b06b668ae31897f31e9c086a7"
+#: chapter9/xinclude.xml:552(None)
+msgid ""
+"@@image: 'images/Lesson10_images_019.png'; "
+"md5=3e8207cbfcfcc242774714ae195ff360"
+msgstr ""
+"@@image: 'images/Lesson10_images_019.png'; "
+"md5=3e8207cbfcfcc242774714ae195ff360"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:562(None)
-msgid "@@image: 'images/Lesson10_images_019.png'; md5=3e8207cbfcfcc242774714ae195ff360"
-msgstr "@@image: 'images/Lesson10_images_019.png'; md5=3e8207cbfcfcc242774714ae195ff360"
+#: chapter9/xinclude.xml:566(None)
+msgid ""
+"@@image: 'images/Lesson10_images_020.png'; "
+"md5=0df8bfdec16f42137670df1b19afcb15"
+msgstr ""
+"@@image: 'images/Lesson10_images_020.png'; "
+"md5=0df8bfdec16f42137670df1b19afcb15"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:576(None)
-msgid "@@image: 'images/Lesson10_images_020.png'; md5=0df8bfdec16f42137670df1b19afcb15"
-msgstr "@@image: 'images/Lesson10_images_020.png'; md5=0df8bfdec16f42137670df1b19afcb15"
+#: chapter9/xinclude.xml:596(None)
+msgid ""
+"@@image: 'images/Lesson10_images_021.png'; "
+"md5=4fbe18b5540818faad59ff696c4393eb"
+msgstr ""
+"@@image: 'images/Lesson10_images_021.png'; "
+"md5=4fbe18b5540818faad59ff696c4393eb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:606(None)
-msgid "@@image: 'images/Lesson10_images_021.png'; md5=4fbe18b5540818faad59ff696c4393eb"
-msgstr "@@image: 'images/Lesson10_images_021.png'; md5=4fbe18b5540818faad59ff696c4393eb"
+#: chapter9/xinclude.xml:637(None)
+msgid ""
+"@@image: 'images/Lesson10_images_022.png'; "
+"md5=b787be41e41204c97240a11ac501ad2b"
+msgstr ""
+"@@image: 'images/Lesson10_images_022.png'; "
+"md5=b787be41e41204c97240a11ac501ad2b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:647(None)
-msgid "@@image: 'images/Lesson10_images_022.png'; md5=b787be41e41204c97240a11ac501ad2b"
-msgstr "@@image: 'images/Lesson10_images_022.png'; md5=b787be41e41204c97240a11ac501ad2b"
+#: chapter9/xinclude.xml:656(None)
+msgid ""
+"@@image: 'images/Lesson10_images_023.png'; "
+"md5=ad23761748ed0732f480b8eeaa4159e0"
+msgstr ""
+"@@image: 'images/Lesson10_images_023.png'; "
+"md5=ad23761748ed0732f480b8eeaa4159e0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:666(None)
-msgid "@@image: 'images/Lesson10_images_023.png'; md5=ad23761748ed0732f480b8eeaa4159e0"
-msgstr "@@image: 'images/Lesson10_images_023.png'; md5=ad23761748ed0732f480b8eeaa4159e0"
+#: chapter9/xinclude.xml:689(None)
+msgid ""
+"@@image: 'images/Lesson10_images_024.png'; "
+"md5=4d974ef3cd00828995a855e7ff7c0f7c"
+msgstr ""
+"@@image: 'images/Lesson10_images_024.png'; "
+"md5=4d974ef3cd00828995a855e7ff7c0f7c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:699(None)
-msgid "@@image: 'images/Lesson10_images_024.png'; md5=4d974ef3cd00828995a855e7ff7c0f7c"
-msgstr "@@image: 'images/Lesson10_images_024.png'; md5=4d974ef3cd00828995a855e7ff7c0f7c"
+#: chapter9/xinclude.xml:706(None)
+msgid ""
+"@@image: 'images/Lesson10_images_025.png'; "
+"md5=c574ffd1b99578759473fff2b4d4d458"
+msgstr ""
+"@@image: 'images/Lesson10_images_025.png'; "
+"md5=c574ffd1b99578759473fff2b4d4d458"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:716(None)
-msgid "@@image: 'images/Lesson10_images_025.png'; md5=c574ffd1b99578759473fff2b4d4d458"
-msgstr "@@image: 'images/Lesson10_images_025.png'; md5=c574ffd1b99578759473fff2b4d4d458"
+#: chapter9/xinclude.xml:721(None)
+msgid ""
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
+msgstr ""
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:731(None)
-msgid "@@image: 'images/Lesson10_images_026.png'; md5=d565d8f3620b96ddc2d7de4b27167a86"
-msgstr "@@image: 'images/Lesson10_images_026.png'; md5=d565d8f3620b96ddc2d7de4b27167a86"
+#: chapter9/xinclude.xml:736(None)
+msgid ""
+"@@image: 'images/Lesson10_images_027.png'; "
+"md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
+msgstr ""
+"@@image: 'images/Lesson10_images_027.png'; "
+"md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:746(None)
-msgid "@@image: 'images/Lesson10_images_027.png'; md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
-msgstr "@@image: 'images/Lesson10_images_027.png'; md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
+#: chapter9/xinclude.xml:770(None)
+msgid ""
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
+msgstr ""
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:780(None)
-msgid "@@image: 'images/Lesson10_images_028.png'; md5=c43fccd218eaa732d5c9a7948c46c3ea"
-msgstr "@@image: 'images/Lesson10_images_028.png'; md5=c43fccd218eaa732d5c9a7948c46c3ea"
+#: chapter9/xinclude.xml:785(None)
+msgid ""
+"@@image: 'images/Lesson10_images_029.png'; "
+"md5=555c1ab6556d75cbb01aeea4889a8dde"
+msgstr ""
+"@@image: 'images/Lesson10_images_029.png'; "
+"md5=555c1ab6556d75cbb01aeea4889a8dde"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:795(None)
-msgid "@@image: 'images/Lesson10_images_029.png'; md5=555c1ab6556d75cbb01aeea4889a8dde"
-msgstr "@@image: 'images/Lesson10_images_029.png'; md5=555c1ab6556d75cbb01aeea4889a8dde"
+#: chapter9/xinclude.xml:802(None)
+msgid ""
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
+msgstr ""
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:812(None)
-msgid "@@image: 'images/Lesson10_images_030.png'; md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
-msgstr "@@image: 'images/Lesson10_images_030.png'; md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
+#: chapter9/xinclude.xml:837(None)
+msgid ""
+"@@image: 'images/Lesson10_images_031.png'; "
+"md5=6e57129bb90caec2ee5c2f73a2fcd63a"
+msgstr ""
+"@@image: 'images/Lesson10_images_031.png'; "
+"md5=6e57129bb90caec2ee5c2f73a2fcd63a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:847(None)
-msgid "@@image: 'images/Lesson10_images_031.png'; md5=6e57129bb90caec2ee5c2f73a2fcd63a"
-msgstr "@@image: 'images/Lesson10_images_031.png'; md5=6e57129bb90caec2ee5c2f73a2fcd63a"
+#: chapter9/xinclude.xml:873(None)
+msgid ""
+"@@image: 'images/Lesson10_images_032.png'; "
+"md5=9e46bc184b317ea17c31017b911e1899"
+msgstr ""
+"@@image: 'images/Lesson10_images_032.png'; "
+"md5=9e46bc184b317ea17c31017b911e1899"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:883(None)
-msgid "@@image: 'images/Lesson10_images_032.png'; md5=9e46bc184b317ea17c31017b911e1899"
-msgstr "@@image: 'images/Lesson10_images_032.png'; md5=9e46bc184b317ea17c31017b911e1899"
+#: chapter9/xinclude.xml:908(None)
+msgid ""
+"@@image: 'images/Lesson10_images_033.png'; "
+"md5=fad9bd35e30210d7c255b6c039f9e19e"
+msgstr ""
+"@@image: 'images/Lesson10_images_033.png'; "
+"md5=fad9bd35e30210d7c255b6c039f9e19e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:918(None)
-msgid "@@image: 'images/Lesson10_images_033.png'; md5=fad9bd35e30210d7c255b6c039f9e19e"
-msgstr "@@image: 'images/Lesson10_images_033.png'; md5=fad9bd35e30210d7c255b6c039f9e19e"
+#: chapter9/xinclude.xml:928(None)
+msgid ""
+"@@image: 'images/Lesson10_images_034.png'; "
+"md5=b05eca7f15e29eb93348ed9d779eee4f"
+msgstr ""
+"@@image: 'images/Lesson10_images_034.png'; "
+"md5=b05eca7f15e29eb93348ed9d779eee4f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:938(None)
-msgid "@@image: 'images/Lesson10_images_034.png'; md5=b05eca7f15e29eb93348ed9d779eee4f"
-msgstr "@@image: 'images/Lesson10_images_034.png'; md5=b05eca7f15e29eb93348ed9d779eee4f"
+#: chapter9/xinclude.xml:952(None)
+msgid ""
+"@@image: 'images/Lesson10_images_035.png'; "
+"md5=0d34db061c8c7fabbe5b94a2319ef27f"
+msgstr ""
+"@@image: 'images/Lesson10_images_035.png'; "
+"md5=0d34db061c8c7fabbe5b94a2319ef27f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:962(None)
-msgid "@@image: 'images/Lesson10_images_035.png'; md5=0d34db061c8c7fabbe5b94a2319ef27f"
-msgstr "@@image: 'images/Lesson10_images_035.png'; md5=0d34db061c8c7fabbe5b94a2319ef27f"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:983(None)
-msgid "@@image: 'images/Lesson10_images_036.png'; md5=fd4be2c49135a50cf636fd32d1a2f059"
-msgstr "@@image: 'images/Lesson10_images_036.png'; md5=fd4be2c49135a50cf636fd32d1a2f059"
+#: chapter9/xinclude.xml:973(None)
+msgid ""
+"@@image: 'images/Lesson10_images_036.png'; "
+"md5=fd4be2c49135a50cf636fd32d1a2f059"
+msgstr ""
+"@@image: 'images/Lesson10_images_036.png'; "
+"md5=fd4be2c49135a50cf636fd32d1a2f059"
 
 #: chapter9/xinclude.xml:4(title)
 msgid "Ubuntu Help and Support"
@@ -239,66 +369,123 @@ msgid "In this lesson, you will learn:"
 msgstr "这一课，您将学到："
 
 #: chapter9/xinclude.xml:12(para)
-msgid "How to seek help for Ubuntu from various sources such as system documentation, online documentation, commercial support, community support, Launchpad and The Fridge."
-msgstr "如何查找各种帮助信息，诸如：系统文档、在线文档、商业支持、社区支持、Launchpad 和 Fridge 新闻站。"
+msgid ""
+"How to seek help for Ubuntu from various sources such as system "
+"documentation, online documentation, commercial support, community support, "
+"Launchpad and The Fridge."
+msgstr ""
+"如何查找各种帮助信息，诸如：系统文档、在线文档、商业支持、社区支持、"
+"Launchpad 和 Fridge 新闻站。"
 
-#: chapter9/xinclude.xml:19(title)
-#: chapter9/xinclude.xml:108(title)
+#: chapter9/xinclude.xml:19(title) chapter9/xinclude.xml:108(title)
 #: chapter9/xinclude.xml:383(title)
 msgid "Instructor Notes:"
 msgstr "教员注记："
 
 #: chapter9/xinclude.xml:21(para)
-msgid "This lesson includes an optional hour. In addition to covering the lesson content, you can devote this hour to elaborate on topics already covered in the previous lessons or select something from the optional material, such as partitioning and booting or sections from the music and video lesson."
-msgstr "本课包含一个可选学时。您可以选择利用这些时间复习前面课程的内容，或者选择其他材料进行学习，例如分区、启动或者影音相关的课程。"
+msgid ""
+"This lesson includes an optional hour. In addition to covering the lesson "
+"content, you can devote this hour to elaborate on topics already covered in "
+"the previous lessons or select something from the optional material, such as "
+"partitioning and booting or sections from the music and video lesson."
+msgstr ""
+"本课包含一个可选学时。您可以选择利用这些时间复习前面课程的内容，或者选择其他"
+"材料进行学习，例如分区、启动或者影音相关的课程。"
 
 #: chapter9/xinclude.xml:29(title)
 msgid "Introduction"
 msgstr "简介"
 
 #: chapter9/xinclude.xml:31(para)
-msgid "Help and support for Ubuntu is readily available through a number of sources so you need not panic if you run into a problem. Essentially there are two channels for accessing support:"
-msgstr "Ubuntu 的帮助和支持可以从多种来源获得，所以当您遇到问题时大可不必惊慌。您有两种主要的渠道获得支持："
+msgid ""
+"Help and support for Ubuntu is readily available through a number of sources "
+"so you need not panic if you run into a problem. Essentially there are two "
+"channels for accessing support:"
+msgstr ""
+"Ubuntu 的帮助和支持可以从多种来源获得，所以当您遇到问题时大可不必惊慌。您有两"
+"种主要的渠道获得支持："
 
 #: chapter9/xinclude.xml:37(para)
-msgid "<emphasis role=\"italic\">The first level is: </emphasis> Free, community based and involves system and online documentation, mailing lists, forums, IRC channels and Launchpad."
-msgstr "<emphasis role=\"italic\">第一种渠道是：</emphasis>社区提供的免费的系统文档、在线文档、邮件列表、论坛、IRC 频道和 Launchpad。"
+msgid ""
+"<emphasis role=\"italic\">The first level is: </emphasis> Free, community "
+"based and involves system and online documentation, mailing lists, forums, "
+"IRC channels and Launchpad."
+msgstr ""
+"<emphasis role=\"italic\">第一种渠道是：</emphasis>社区提供的免费的系统文档、"
+"在线文档、邮件列表、论坛、IRC 频道和 Launchpad。"
 
 #: chapter9/xinclude.xml:45(para)
-msgid "<emphasis role=\"italic\">The second level is: </emphasis> Paid for, commercial services through Canonical itself and / or various partners."
-msgstr "<emphasis role=\"italic\">第二种渠道是：</emphasis>付费从 Canonical 及其合作伙伴购买商业支持服务。"
+msgid ""
+"<emphasis role=\"italic\">The second level is: </emphasis> Paid for, "
+"commercial services through Canonical itself and / or various partners."
+msgstr ""
+"<emphasis role=\"italic\">第二种渠道是：</emphasis>付费从 Canonical 及其合作"
+"伙伴购买商业支持服务。"
 
 #: chapter9/xinclude.xml:52(title)
 msgid "Accessing System Documentation"
 msgstr "获取系统文档"
 
-#: chapter9/xinclude.xml:63(title)
-#: chapter9/xinclude.xml:78(title)
+#: chapter9/xinclude.xml:63(title) chapter9/xinclude.xml:78(title)
 msgid "System Documentation"
 msgstr "系统文档"
 
 #: chapter9/xinclude.xml:65(para)
-msgid "The first resource that you should explore is the offline system documentation. The <ulink url=\"https://wiki.ubuntu.com/DocumentationTeam\">Ubuntu Documentation Team</ulink> maintains and updates the documentation for each release. This documentation is very reliable and available in different languages."
-msgstr "您最先查找的应当是离线系统文档。这些文档由 <ulink url=\"https://wiki.ubuntu.com/DocumentationTeam\">Ubuntu 文档团队</ulink> 维护，因此它们非常可靠并且拥有多个语言的版本。"
+msgid ""
+"The first resource that you should explore is the offline system "
+"documentation. The <ulink url=\"https://wiki.ubuntu.com/DocumentationTeam"
+"\">Ubuntu Documentation Team</ulink> maintains and updates the documentation "
+"for each release. This documentation is very reliable and available in "
+"different languages."
+msgstr ""
+"您最先查找的应当是离线系统文档。这些文档由 <ulink url=\"https://wiki.ubuntu."
+"com/DocumentationTeam\">Ubuntu 文档团队</ulink> 维护，因此它们非常可靠并且拥"
+"有多个语言的版本。"
 
 #: chapter9/xinclude.xml:71(para)
-msgid "Ubuntu System documentation is organised into topic based help, including answers to common questions. It is accessed by clicking the <emphasis role=\"strong\">Help and Support</emphasis> button located under the System Menu. The following screenshot shows the home page of the Help and Support offline system documentation."
-msgstr "Ubuntu 系统文档是以主题为线索组织的，包括对常见问题的解答。点击 <emphasis role=\"strong\">系统</emphasis> 菜单下的 <emphasis role=\"strong\">帮助和支持</emphasis> 来访问这些文档。以下是离线文档系统的 <emphasis role=\"strong\">帮助和支持</emphasis> 的首页截图。"
+msgid ""
+"Ubuntu System documentation is organised into topic based help, including "
+"answers to common questions. It is accessed by clicking the <emphasis role="
+"\"strong\">Help and Support</emphasis> button located under the System Menu. "
+"The following screenshot shows the home page of the Help and Support offline "
+"system documentation."
+msgstr ""
+"Ubuntu 系统文档是以主题为线索组织的，包括对常见问题的解答。点击 <emphasis "
+"role=\"strong\">系统</emphasis> 菜单下的 <emphasis role=\"strong\">帮助和支持"
+"</emphasis> 来访问这些文档。以下是离线文档系统的 <emphasis role=\"strong\">帮"
+"助和支持</emphasis> 的首页截图。"
 
 #: chapter9/xinclude.xml:87(para)
-msgid "New to Ubuntu? This section introduces you to the wonderful world of Ubuntu including an easy to use guide if you are migrating from Microsoft Windows to Ubuntu. Also in this section, the help guide will explain how to use your desktop, the role of the administrator and basic computer skills. A great resource for any newcomers and a top-up to this desktop course."
-msgstr "Ubuntu 新手？这一节将会把您带入 Ubuntu 的精彩世界，并且提供了从 Microsoft Windows 迁移到 Ubuntu 的简易指导，还阐述了如何使用桌面系统、管理员的角色和基本的计算机操作技巧。这些文档是很有用的资源，也是对本教程的补充。"
+msgid ""
+"New to Ubuntu? This section introduces you to the wonderful world of Ubuntu "
+"including an easy to use guide if you are migrating from Microsoft Windows "
+"to Ubuntu. Also in this section, the help guide will explain how to use your "
+"desktop, the role of the administrator and basic computer skills. A great "
+"resource for any newcomers and a top-up to this desktop course."
+msgstr ""
+"Ubuntu 新手？这一节将会把您带入 Ubuntu 的精彩世界，并且提供了从 Microsoft "
+"Windows 迁移到 Ubuntu 的简易指导，还阐述了如何使用桌面系统、管理员的角色和基"
+"本的计算机操作技巧。这些文档是很有用的资源，也是对本教程的补充。"
 
 #: chapter9/xinclude.xml:94(para)
-msgid "Some applications do also offer access to the help system through the <emphasis>Help</emphasis> menu or keyboard shortcut <emphasis>F1</emphasis>."
-msgstr "部分应用程序也支持通过 <emphasis>帮助</emphasis> 菜单或者 <emphasis>F1</emphasis> 快捷键访问帮助系统。"
+msgid ""
+"Some applications do also offer access to the help system through the "
+"<emphasis>Help</emphasis> menu or keyboard shortcut <emphasis>F1</emphasis>."
+msgstr ""
+"部分应用程序也支持通过 <emphasis>帮助</emphasis> 菜单或者 <emphasis>F1</"
+"emphasis> 快捷键访问帮助系统。"
 
 #: chapter9/xinclude.xml:98(para)
-msgid "One of the great features of the system documentation is the ability to search the documentation to help solve the problem you have. Simply type in the term you are looking for and the system will search all the documents and guides with related information."
-msgstr "系统文档的一项重要特性是它支持搜索，指引您获得解决问题所需的文档。只需输入要查找的关键词，系统将搜索全部文档和指南并给出相关的信息。"
+msgid ""
+"One of the great features of the system documentation is the ability to "
+"search the documentation to help solve the problem you have. Simply type in "
+"the term you are looking for and the system will search all the documents "
+"and guides with related information."
+msgstr ""
+"系统文档的一项重要特性是它支持搜索，指引您获得解决问题所需的文档。只需输入要"
+"查找的关键词，系统将搜索全部文档和指南并给出相关的信息。"
 
-#: chapter9/xinclude.xml:105(title)
-#: chapter9/xinclude.xml:127(title)
+#: chapter9/xinclude.xml:105(title) chapter9/xinclude.xml:127(title)
 msgid "Online Documentation"
 msgstr "在线文档"
 
@@ -307,35 +494,80 @@ msgid "Guide the students through each one of the options on the Web."
 msgstr "指导学生尝试网页上每一项内容。"
 
 #: chapter9/xinclude.xml:114(para)
-msgid "The online Ubuntu documentation is available at <ulink url=\"https://help.ubuntu.com\"> https://help.ubuntu.com</ulink>. There are two different types of documentation available on this site, official and community."
-msgstr "Ubuntu 在线文档可以在 <ulink url=\"https://help.ubuntu.com\">https://help.ubuntu.com</ulink> 获得，有两种不同类型的文档：官方文档和社区文档。"
+msgid ""
+"The online Ubuntu documentation is available at <ulink url=\"https://help."
+"ubuntu.com\"> https://help.ubuntu.com</ulink>. There are two different types "
+"of documentation available on this site, official and community."
+msgstr ""
+"Ubuntu 在线文档可以在 <ulink url=\"https://help.ubuntu.com\">https://help."
+"ubuntu.com</ulink> 获得，有两种不同类型的文档：官方文档和社区文档。"
 
 #: chapter9/xinclude.xml:118(para)
-msgid "The official documentation is the documentation that is included with your Ubuntu installation by default and is locally accessible from your Ubuntu desktop. You can also access this documentation on the Internet at the Web site mentioned above."
-msgstr "官方文档是随着您的 Ubuntu 系统一起被装入系统的，您可以在桌面环境中在本地访问。当然，也可以在上面提及的网站中获得。"
+msgid ""
+"The official documentation is the documentation that is included with your "
+"Ubuntu installation by default and is locally accessible from your Ubuntu "
+"desktop. You can also access this documentation on the Internet at the Web "
+"site mentioned above."
+msgstr ""
+"官方文档是随着您的 Ubuntu 系统一起被装入系统的，您可以在桌面环境中在本地访"
+"问。当然，也可以在上面提及的网站中获得。"
 
 #: chapter9/xinclude.xml:123(para)
-msgid "The following screenshot shows the home page of the Ubuntu documentation site:"
+msgid ""
+"The following screenshot shows the home page of the Ubuntu documentation "
+"site:"
 msgstr "以下是 Ubuntu 文档网站的截图："
 
 #: chapter9/xinclude.xml:136(para)
-msgid "The documentation is classified according to the various Ubuntu releases, such as Ubuntu 8.04 LTS, 7.10 and 6.06 LTS."
-msgstr "文档按照不同的 Ubuntu 版本分类，如 Ubuntu 10.04 LTS，9.10，9.04，8.10 和 Ubuntu 8.04 LTS。"
+msgid ""
+"The documentation is classified according to the various Ubuntu releases, "
+"such as Ubuntu 8.04 LTS, 7.10 and 6.06 LTS."
+msgstr ""
+"文档按照不同的 Ubuntu 版本分类，如 Ubuntu 10.04 LTS，9.10，9.04，8.10 和 "
+"Ubuntu 8.04 LTS。"
 
 #: chapter9/xinclude.xml:139(para)
-msgid "To access the official documentation locally from your Ubuntu desktop, without connecting to the Internet, on the <emphasis role=\"strong\">System</emphasis> menu, click <emphasis role=\"strong\">Help and Support</emphasis>. You can also use the Help icon on the top panel of the desktop."
-msgstr "要在 Ubuntu 桌面中访问本地的官方文档，请在 <emphasis role=\"strong\">系统</emphasis>菜单中点击 <emphasis role=\"strong\">帮助和支持</emphasis>，或者点击桌面顶部面板的帮助图标。"
+msgid ""
+"To access the official documentation locally from your Ubuntu desktop, "
+"without connecting to the Internet, on the <emphasis role=\"strong\">System</"
+"emphasis> menu, click <emphasis role=\"strong\">Help and Support</emphasis>. "
+"You can also use the Help icon on the top panel of the desktop."
+msgstr ""
+"要在 Ubuntu 桌面中访问本地的官方文档，请在 <emphasis role=\"strong\">系统</"
+"emphasis>菜单中点击 <emphasis role=\"strong\">帮助和支持</emphasis>，或者点击"
+"桌面顶部面板的帮助图标。"
 
 #: chapter9/xinclude.xml:144(para)
-msgid "The information available in the official documentation will be enough to guide you through most topics and problems. However, if you are unable to find an answer to your queries here, you can look for answers in the second type of documentation available on this site. This is documentation created by the community, without following the stringent quality control process of the Ubuntu Documentation Team. Access this documentation via the tab labelled <emphasis role=\"strong\">Community Docs</emphasis>. The community documentation is stored on a Wiki, which allows the documentation to be changed quickly. While the community documentation covers more topics and some subjects in greater depth than the official documentation, the lack of quality assurance control and especially maintenance makes it a slightly less reliably alternative."
-msgstr "官方文档所涉及的内容足够解决大多数的问题。然而，如果无法在其中找到需要的内容，您可以查找社区文档看是否能够获得答案。这些文档由社区创建，没有 Ubuntu 文档团队那样严格的质量控制流程。您可以通过站点上的 <emphasis role=\"strong\">社区文档</emphasis> 标签访问它们，这些文档被储存在 Wiki 上，能很快地修改。社区文档的益处在于它覆盖了更广的内容，深度也远大于官方文档；然而它缺少完善的质量控制流程，因此您应当将其作为官方文档之后的备用选择。"
+msgid ""
+"The information available in the official documentation will be enough to "
+"guide you through most topics and problems. However, if you are unable to "
+"find an answer to your queries here, you can look for answers in the second "
+"type of documentation available on this site. This is documentation created "
+"by the community, without following the stringent quality control process of "
+"the Ubuntu Documentation Team. Access this documentation via the tab "
+"labelled <emphasis role=\"strong\">Community Docs</emphasis>. The community "
+"documentation is stored on a Wiki, which allows the documentation to be "
+"changed quickly. While the community documentation covers more topics and "
+"some subjects in greater depth than the official documentation, the lack of "
+"quality assurance control and especially maintenance makes it a slightly "
+"less reliably alternative."
+msgstr ""
+"官方文档所涉及的内容足够解决大多数的问题。然而，如果无法在其中找到需要的内"
+"容，您可以查找社区文档看是否能够获得答案。这些文档由社区创建，没有 Ubuntu 文"
+"档团队那样严格的质量控制流程。您可以通过站点上的 <emphasis role=\"strong\">社"
+"区文档</emphasis> 标签访问它们，这些文档被储存在 Wiki 上，能很快地修改。社区"
+"文档的益处在于它覆盖了更广的内容，深度也远大于官方文档；然而它缺少完善的质量"
+"控制流程，因此您应当将其作为官方文档之后的备用选择。"
 
 #: chapter9/xinclude.xml:158(para)
-msgid "The community documentation is a large collection of community-contributed documents, primarily covering the following topics:"
+msgid ""
+"The community documentation is a large collection of community-contributed "
+"documents, primarily covering the following topics:"
 msgstr "社区文档整合了大量社区贡献的内容，主要包含以下几类："
 
 #: chapter9/xinclude.xml:164(para)
-msgid "Migrating from other operating systems, such as Microsoft Windows and Red Hat"
+msgid ""
+"Migrating from other operating systems, such as Microsoft Windows and Red Hat"
 msgstr "从其他操作系统迁移，例如 Microsoft Windows 和 Redhat。"
 
 #: chapter9/xinclude.xml:169(para)
@@ -351,7 +583,9 @@ msgid "Connecting and configuring hardware"
 msgstr "连接和配置硬件"
 
 #: chapter9/xinclude.xml:184(para)
-msgid "The following screenshot displays the information available in the community documentation:"
+msgid ""
+"The following screenshot displays the information available in the community "
+"documentation:"
 msgstr "以下是社区文档的一个网页截图："
 
 #: chapter9/xinclude.xml:188(title)
@@ -359,82 +593,119 @@ msgid "Community Documentation"
 msgstr "社区文档"
 
 #: chapter9/xinclude.xml:197(para)
-msgid "The community documentation is also classified under various categories. You can select the desired category from the page index at the right of the page. You can also use the <emphasis role=\"strong\">Search</emphasis> field in the top-right corner of the page to look for specific information within the community documentation. Be aware that <emphasis role=\"strong\">Titles</emphasis> will restrict the search of your term to the pages titles only. If a search via titles does not produce any results, a full <emphasis role=\"strong\">Text</emphasis> search may find the right page."
-msgstr "同官方文档类似，社区文档也被分为多个类别。您可以在页面右侧的分类索引中选择要访问的类别。还可以使用页面右上角的 <emphasis role=\"strong\">搜索</emphasis> 来进行信息检索。请记住 <emphasis role=\"strong\">标题</emphasis> 选项意味着只搜索文档的标题，如果没有获得有用的结果，请尝试使用  <emphasis role=\"strong\">全文</emphasis> 搜索。"
+msgid ""
+"The community documentation is also classified under various categories. You "
+"can select the desired category from the page index at the right of the "
+"page. You can also use the <emphasis role=\"strong\">Search</emphasis> field "
+"in the top-right corner of the page to look for specific information within "
+"the community documentation. Be aware that <emphasis role=\"strong\">Titles</"
+"emphasis> will restrict the search of your term to the pages titles only. If "
+"a search via titles does not produce any results, a full <emphasis role="
+"\"strong\">Text</emphasis> search may find the right page."
+msgstr ""
+"同官方文档类似，社区文档也被分为多个类别。您可以在页面右侧的分类索引中选择要"
+"访问的类别。还可以使用页面右上角的 <emphasis role=\"strong\">搜索</emphasis> "
+"来进行信息检索。请记住 <emphasis role=\"strong\">标题</emphasis> 选项意味着只"
+"搜索文档的标题，如果没有获得有用的结果，请尝试使用  <emphasis role=\"strong"
+"\">全文</emphasis> 搜索。"
 
 #: chapter9/xinclude.xml:206(para)
-msgid "You can also find relevant information on the <emphasis role=\"strong\">CommonQuestions</emphasis> page. Access the <emphasis role=\"strong\">CommonQuestions</emphasis> page by clicking the <emphasis role=\"strong\">Common Questions</emphasis> link on the community documentation page."
-msgstr "您还可以在 <emphasis role=\"strong\">常见问题</emphasis> 页面寻找需要的信息。可以点击社区文档页上的 <emphasis role=\"strong\">常见问题</emphasis> 链接进行访问。"
+msgid ""
+"You can also find relevant information on the <emphasis role=\"strong"
+"\">CommonQuestions</emphasis> page. Access the <emphasis role=\"strong"
+"\">CommonQuestions</emphasis> page by clicking the <emphasis role=\"strong"
+"\">Common Questions</emphasis> link on the community documentation page."
+msgstr ""
+"您还可以在 <emphasis role=\"strong\">常见问题</emphasis> 页面寻找需要的信息。"
+"可以点击社区文档页上的 <emphasis role=\"strong\">常见问题</emphasis> 链接进行"
+"访问。"
 
 #: chapter9/xinclude.xml:209(para)
-msgid "The following screenshot displays the <emphasis role=\"strong\">CommonQuestions</emphasis> page on the Ubuntu Web site:"
-msgstr "以下是 Ubuntu 网站上 <emphasis role=\"strong\">常见</emphasis> 页面的截图："
+msgid ""
+"The following screenshot displays the <emphasis role=\"strong"
+"\">CommonQuestions</emphasis> page on the Ubuntu Web site:"
+msgstr ""
+"以下是 Ubuntu 网站上 <emphasis role=\"strong\">常见</emphasis> 页面的截图："
 
 #: chapter9/xinclude.xml:213(title)
 msgid "The CommonQuestions Page"
 msgstr "常见问题 页面"
 
 #: chapter9/xinclude.xml:222(para)
-msgid "Additional help is available to you in the form of Ubuntu screencasts. You can click the <emphasis role=\"strong\">Ubuntu Screencasts</emphasis> link on the <emphasis role=\"strong\">Community Documentation</emphasis> page to access a number of videos on using and installing Ubuntu. Each video is created with the aim of educating new users of Ubuntu. Each video is available in three sizes, large, medium and small, and two formats, OGG and Flash."
-msgstr "您还可以在 Ubuntu 屏幕录像站点获得更多帮助。在 <emphasis role=\"strong\">社区文档</emphasis> 页面点击 <emphasis role=\"strong\">Ubuntu 屏幕录像</emphasis> 链接即可进入，您可以在这里获得若干关于如何安装和使用 Ubuntu 的屏幕录像。这些录像都是为新用户准备，有三种不同的尺寸：大、中、小，两种格式： OGG 和 Flash。"
+msgid ""
+"Additional help is available to you in the form of Ubuntu screencasts. You "
+"can click the <emphasis role=\"strong\">Ubuntu Screencasts</emphasis> link "
+"on the <emphasis role=\"strong\">Community Documentation</emphasis> page to "
+"access a number of videos on using and installing Ubuntu. Each video is "
+"created with the aim of educating new users of Ubuntu. Each video is "
+"available in three sizes, large, medium and small, and two formats, OGG and "
+"Flash."
+msgstr ""
+"您还可以在 Ubuntu 屏幕录像站点获得更多帮助。在 <emphasis role=\"strong\">社区"
+"文档</emphasis> 页面点击 <emphasis role=\"strong\">Ubuntu 屏幕录像</"
+"emphasis> 链接即可进入，您可以在这里获得若干关于如何安装和使用 Ubuntu 的屏幕"
+"录像。这些录像都是为新用户准备，有三种不同的尺寸：大、中、小，两种格式： OGG "
+"和 Flash。"
 
 #: chapter9/xinclude.xml:230(para)
-msgid "The following is an example of a screenshot from a video on installing applications:"
+msgid ""
+"The following is an example of a screenshot from a video on installing "
+"applications:"
 msgstr "以下是一个关于安装应用程序的录像的截图："
 
 #: chapter9/xinclude.xml:234(title)
 msgid "The Screencasts Page"
 msgstr "屏幕录像 页面"
 
-#: chapter9/xinclude.xml:244(title)
-#: chapter9/xinclude.xml:418(title)
-#: chapter9/xinclude.xml:482(title)
-#: chapter9/xinclude.xml:582(title)
-#: chapter9/xinclude.xml:621(title)
-#: chapter9/xinclude.xml:824(title)
-#: chapter9/xinclude.xml:853(title)
-#: chapter9/xinclude.xml:871(title)
-#: chapter9/xinclude.xml:968(title)
-#: chapter9/xinclude.xml:989(title)
+#: chapter9/xinclude.xml:244(title) chapter9/xinclude.xml:418(title)
+#: chapter9/xinclude.xml:472(title) chapter9/xinclude.xml:572(title)
+#: chapter9/xinclude.xml:611(title) chapter9/xinclude.xml:814(title)
+#: chapter9/xinclude.xml:843(title) chapter9/xinclude.xml:861(title)
+#: chapter9/xinclude.xml:958(title) chapter9/xinclude.xml:979(title)
 msgid "Note:"
 msgstr "注："
 
 #: chapter9/xinclude.xml:246(para)
-msgid "These screen casts are licensed under the Creative Commons Attributions-Share Alike 3.0 License. You are free to modify, share, sell or distribute these screencasts as long as the attribution to Ubuntu is intact."
-msgstr "这些屏幕录像都是以 Creative Commons Attributions-Share Alike 3.0 许可发布的。您可以自由修改、分享、销售或者重新分发，但必须同时注明它们来自于 Ubuntu。"
+msgid ""
+"These screen casts are licensed under the Creative Commons Attributions-"
+"Share Alike 3.0 License. You are free to modify, share, sell or distribute "
+"these screencasts as long as the attribution to Ubuntu is intact."
+msgstr ""
+"这些屏幕录像都是以 Creative Commons Attributions-Share Alike 3.0 许可发布的。"
+"您可以自由修改、分享、销售或者重新分发，但必须同时注明它们来自于 Ubuntu。"
 
 #: chapter9/xinclude.xml:254(title)
 msgid "Community Support"
 msgstr "社区支持"
 
 #: chapter9/xinclude.xml:256(para)
-msgid "The vast and ever growing Ubuntu community also offers a range of free support options for your Ubuntu desktop. Apart from the community documentation, the Ubuntu community provides support through:"
-msgstr "不断壮大的 Ubuntu 社区也在一定范围内提供对 Ubuntu 桌面的免费支持。除社区文档外还提供以下的支持方式："
+msgid ""
+"The vast and ever growing Ubuntu community also offers a range of free "
+"support options for your Ubuntu desktop. Apart from the community "
+"documentation, the Ubuntu community provides support through:"
+msgstr ""
+"不断壮大的 Ubuntu 社区也在一定范围内提供对 Ubuntu 桌面的免费支持。除社区文档"
+"外还提供以下的支持方式："
 
-#: chapter9/xinclude.xml:262(para)
-#: chapter9/xinclude.xml:1103(para)
+#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:1093(para)
 msgid "Mailing lists"
 msgstr "邮件列表"
 
-#: chapter9/xinclude.xml:266(para)
-#: chapter9/xinclude.xml:396(title)
+#: chapter9/xinclude.xml:266(para) chapter9/xinclude.xml:396(title)
 #: chapter9/xinclude.xml:408(title)
 msgid "Web Forums"
 msgstr "网络论坛"
 
-#: chapter9/xinclude.xml:270(para)
-#: chapter9/xinclude.xml:469(title)
+#: chapter9/xinclude.xml:270(para) chapter9/xinclude.xml:459(title)
 msgid "IRC Channels"
 msgstr "IRC 频道"
 
-#: chapter9/xinclude.xml:274(para)
-#: chapter9/xinclude.xml:545(title)
+#: chapter9/xinclude.xml:274(para) chapter9/xinclude.xml:535(title)
 msgid "LoCo Teams"
 msgstr "本地团队支持"
 
-#: chapter9/xinclude.xml:278(para)
-#: chapter9/xinclude.xml:591(title)
-#: chapter9/xinclude.xml:602(title)
+#: chapter9/xinclude.xml:278(para) chapter9/xinclude.xml:581(title)
+#: chapter9/xinclude.xml:592(title)
 msgid "The Ubuntu Team Wiki"
 msgstr "Ubuntu 中文 Wiki"
 
@@ -443,15 +714,30 @@ msgid "Mailing Lists"
 msgstr "邮件列表"
 
 #: chapter9/xinclude.xml:285(para)
-msgid "To get help on a specific problem, all you need to do is to send your query through e-mail to the relevant mailing list and you will get a quick response from the team."
-msgstr "要针对一个特定的问题获得帮助，您只需向相关的邮件列表发送一份电子邮件，随后您将会得到快速的响应。"
+msgid ""
+"To get help on a specific problem, all you need to do is to send your query "
+"through e-mail to the relevant mailing list and you will get a quick "
+"response from the team."
+msgstr ""
+"要针对一个特定的问题获得帮助，您只需向相关的邮件列表发送一份电子邮件，随后您"
+"将会得到快速的响应。"
 
 #: chapter9/xinclude.xml:289(para)
-msgid "You will need to subscribe to the mailing list first by visiting the Ubuntu Mailing Lists Web site at <ulink url=\"https://lists.ubuntu.com/\">https://lists.ubuntu.com/</ulink>. The <emphasis role=\"strong\">Mailing Lists</emphasis> page displays all the public mailing lists to which you can subscribe and their topic."
-msgstr "您首先需要访问位于 <ulink url=\"https://lists.ubuntu.com/\">https://lists.ubuntu.com/</ulink> 的 <emphasis role=\"strong\">邮件列表</emphasis> 网站，其中显示了所有您可以订阅的邮件列表和它们各自的内容主题。"
+msgid ""
+"You will need to subscribe to the mailing list first by visiting the Ubuntu "
+"Mailing Lists Web site at <ulink url=\"https://lists.ubuntu.com/\">https://"
+"lists.ubuntu.com/</ulink>. The <emphasis role=\"strong\">Mailing Lists</"
+"emphasis> page displays all the public mailing lists to which you can "
+"subscribe and their topic."
+msgstr ""
+"您首先需要访问位于 <ulink url=\"https://lists.ubuntu.com/\">https://lists."
+"ubuntu.com/</ulink> 的 <emphasis role=\"strong\">邮件列表</emphasis> 网站，其"
+"中显示了所有您可以订阅的邮件列表和它们各自的内容主题。"
 
 #: chapter9/xinclude.xml:294(para)
-msgid "The following screenshot displays the <emphasis role=\"strong\">Mailing Lists</emphasis> page:"
+msgid ""
+"The following screenshot displays the <emphasis role=\"strong\">Mailing "
+"Lists</emphasis> page:"
 msgstr "以下截图展示了 <emphasis role=\"strong\">邮件列表</emphasis> 页面："
 
 #: chapter9/xinclude.xml:297(title)
@@ -459,35 +745,64 @@ msgid "The Mailing Lists Page"
 msgstr "邮件列表 页面"
 
 #: chapter9/xinclude.xml:306(para)
-msgid "To get help for your Ubuntu desktop, you should go to the <emphasis role=\"strong\">Community Support</emphasis> and select the <emphasis role=\"strong\">ubuntu-users</emphasis> mailing list. This will take you to a page like the following:"
-msgstr "要获得 Ubuntu 桌面相关的帮助，您应当前往 <emphasis role=\"strong\">社区支持</emphasis> 一节，然后选择 <emphasis role=\"strong\">ubuntu-users</emphasis>(英语) 或 <emphasis role=\"strong\">ubuntu-zh</emphasis>(中文) 邮件列表。这样您将看到一个这样的页面："
+msgid ""
+"To get help for your Ubuntu desktop, you should go to the <emphasis role="
+"\"strong\">Community Support</emphasis> and select the <emphasis role="
+"\"strong\">ubuntu-users</emphasis> mailing list. This will take you to a "
+"page like the following:"
+msgstr ""
+"要获得 Ubuntu 桌面相关的帮助，您应当前往 <emphasis role=\"strong\">社区支持</"
+"emphasis> 一节，然后选择 <emphasis role=\"strong\">ubuntu-users</emphasis>(英"
+"语) 或 <emphasis role=\"strong\">ubuntu-zh</emphasis>(中文) 邮件列表。这样您"
+"将看到一个这样的页面："
 
 #: chapter9/xinclude.xml:312(title)
 msgid "Subscribing to Ubuntu-users Mailing List"
 msgstr "订阅 ubuntu-zh 邮件列表"
 
 #: chapter9/xinclude.xml:321(para)
-msgid "You need to provide your e-mail address, your name and a password in the appropriate boxes and then click the <emphasis role=\"strong\">Subscribe</emphasis> button."
-msgstr "您需要在相应的栏内输入您的电子邮件地址、名字和要设置的订阅管理密码，然后点击 <emphasis role=\"strong\">订阅</emphasis> 按钮。"
+msgid ""
+"You need to provide your e-mail address, your name and a password in the "
+"appropriate boxes and then click the <emphasis role=\"strong\">Subscribe</"
+"emphasis> button."
+msgstr ""
+"您需要在相应的栏内输入您的电子邮件地址、名字和要设置的订阅管理密码，然后点击 "
+"<emphasis role=\"strong\">订阅</emphasis> 按钮。"
 
 #: chapter9/xinclude.xml:324(para)
-msgid "When you subscribe to a mailing list, a confirmation mail is sent to your provided e-mail to verify that it is your address. To activate this mailing list, you need to first open your e-mail account and then click the link provided in the confirmation e-mail."
-msgstr "当订阅一个邮件列表时，您会收到一封邮件来对订阅进行确认。所以要激活您在该邮件列表的订阅，您需要打开电子邮箱，然后点击确认邮件中给出的链接。"
+msgid ""
+"When you subscribe to a mailing list, a confirmation mail is sent to your "
+"provided e-mail to verify that it is your address. To activate this mailing "
+"list, you need to first open your e-mail account and then click the link "
+"provided in the confirmation e-mail."
+msgstr ""
+"当订阅一个邮件列表时，您会收到一封邮件来对订阅进行确认。所以要激活您在该邮件"
+"列表的订阅，您需要打开电子邮箱，然后点击确认邮件中给出的链接。"
 
 #: chapter9/xinclude.xml:330(title)
 msgid "Confirmation Mail"
 msgstr "确认邮件"
 
 #: chapter9/xinclude.xml:339(para)
-msgid "Clicking this link takes you to the <emphasis role=\"strong\">Confirm subscription request</emphasis> page, where you can verify the details of your subscription request and subscribe to the selected mailing list by clicking the <emphasis role=\"strong\">Subscribe to list ubuntu-users</emphasis> button."
-msgstr "点击该链接会将您带到 <emphasis role=\"strong\">确认订阅请求</emphasis> 页面，您需要在这里确认订阅邮件列表时的详细信息，如果没有问题，请点击 <emphasis role=\"strong\">订阅邮件列表 ubuntu-zh</emphasis> 按钮。"
+msgid ""
+"Clicking this link takes you to the <emphasis role=\"strong\">Confirm "
+"subscription request</emphasis> page, where you can verify the details of "
+"your subscription request and subscribe to the selected mailing list by "
+"clicking the <emphasis role=\"strong\">Subscribe to list ubuntu-users</"
+"emphasis> button."
+msgstr ""
+"点击该链接会将您带到 <emphasis role=\"strong\">确认订阅请求</emphasis> 页面，"
+"您需要在这里确认订阅邮件列表时的详细信息，如果没有问题，请点击 <emphasis "
+"role=\"strong\">订阅邮件列表 ubuntu-zh</emphasis> 按钮。"
 
 #: chapter9/xinclude.xml:345(title)
 msgid "Confirm Subscription Request Page"
 msgstr "确认订阅请求"
 
 #: chapter9/xinclude.xml:354(para)
-msgid "Finally, you will receive a confirmation message saying that your subscription request to the selected mailing list has been confirmed."
+msgid ""
+"Finally, you will receive a confirmation message saying that your "
+"subscription request to the selected mailing list has been confirmed."
 msgstr "最后您会看到关于已确认订阅到邮件列表的通知。"
 
 #: chapter9/xinclude.xml:359(title)
@@ -495,36 +810,85 @@ msgid "Confirmation of Subscription Request Page"
 msgstr "订阅请求已确认"
 
 #: chapter9/xinclude.xml:368(para)
-msgid "Soon after, you will receive a welcome mail containing the mailing address of your selected mailing list and you will then be able to send e-mail messages to this list. Before sending your first query, it is good practice to read a bit of the archive, as the topic may have already been covered. The archive will also give you an idea of how much volume to expect from a list and get a \"feel\" of others who are active on the list."
-msgstr "不久，您就会收到一封欢迎邮件，里面带有您向该邮件列表投送邮件时应发往的地址。在您发送第一封邮件前，建议先阅读一些前一段时间的内容存档，看看相同的问题是否已经被讨论过。这些存档还可以让您大概了解邮件列表的活跃程度，以及哪些人比较活跃。"
+msgid ""
+"Soon after, you will receive a welcome mail containing the mailing address "
+"of your selected mailing list and you will then be able to send e-mail "
+"messages to this list. Before sending your first query, it is good practice "
+"to read a bit of the archive, as the topic may have already been covered. "
+"The archive will also give you an idea of how much volume to expect from a "
+"list and get a \"feel\" of others who are active on the list."
+msgstr ""
+"不久，您就会收到一封欢迎邮件，里面带有您向该邮件列表投送邮件时应发往的地址。"
+"在您发送第一封邮件前，建议先阅读一些前一段时间的内容存档，看看相同的问题是否"
+"已经被讨论过。这些存档还可以让您大概了解邮件列表的活跃程度，以及哪些人比较活"
+"跃。"
 
 #: chapter9/xinclude.xml:376(para)
-msgid "It is possible that you will be flooded with many responses to your posting. The level of emails received can be controlled by adjusting your preferences on the <emphasis role=\"strong\">UserCP (User Control Panel)</emphasis>. You can use this panel to customize your profile and preferences too."
-msgstr "回复您的电子邮件可能多到像潮水涌来一样。在 <emphasis role=\"strong\">用户控制面板</emphasis> 调整订阅选项可以更改您想收到邮件的数量，和有关您帐户的其他设置。"
+msgid ""
+"It is possible that you will be flooded with many responses to your posting. "
+"The level of emails received can be controlled by adjusting your preferences "
+"on the <emphasis role=\"strong\">UserCP (User Control Panel)</emphasis>. You "
+"can use this panel to customize your profile and preferences too."
+msgstr ""
+"回复您的电子邮件可能多到像潮水涌来一样。在 <emphasis role=\"strong\">用户控制"
+"面板</emphasis> 调整订阅选项可以更改您想收到邮件的数量，和有关您帐户的其他设"
+"置。"
 
 #: chapter9/xinclude.xml:385(para)
-msgid "To use the mailing lists, some guidelines are given in the Mailing List Etiquette page. To read these guidelines, go to <ulink url=\"http://www.ubuntu.com/support/community/mailinglists/etiquette\">http://www.ubuntu.com/support/community/mailinglists/etiquette</ulink>."
-msgstr "邮件列表行为守则 中有一些使用邮件列表的行为准则。参见 <ulink url=\"http://www.ubuntu.org.cn/support/community/mailinglists/etiquette\">http://www.ubuntu.org.cn/support/community/mailinglists/etiquette</ulink>"
+msgid ""
+"To use the mailing lists, some guidelines are given in the Mailing List "
+"Etiquette page. To read these guidelines, go to <ulink url=\"http://www."
+"ubuntu.com/support/community/mailinglists/etiquette\">http://www.ubuntu.com/"
+"support/community/mailinglists/etiquette</ulink>."
+msgstr ""
+"邮件列表行为守则 中有一些使用邮件列表的行为准则。参见 <ulink url=\"http://"
+"www.ubuntu.org.cn/support/community/mailinglists/etiquette\">http://www."
+"ubuntu.org.cn/support/community/mailinglists/etiquette</ulink>"
 
 #: chapter9/xinclude.xml:390(para)
-msgid "The mailing lists archive is an excellent resource of information, as quite a few questions have been discussed on the lists already. The archive can be seen as a memory for the mailing lists expertise."
-msgstr "因为很多问题都已经在邮件列表上进行过讨论，所以邮件列表归档是非常有价值的信息来源，它被视为一种邮件列表储存技术。"
+msgid ""
+"The mailing lists archive is an excellent resource of information, as quite "
+"a few questions have been discussed on the lists already. The archive can be "
+"seen as a memory for the mailing lists expertise."
+msgstr ""
+"因为很多问题都已经在邮件列表上进行过讨论，所以邮件列表归档是非常有价值的信息"
+"来源，它被视为一种邮件列表储存技术。"
 
 #: chapter9/xinclude.xml:398(para)
-msgid "Web forums are often an easier and more immediate alternative to mailing lists as you can receive help on various issues without subscribing to a high-traffic mailing list. They are easier to use, available in a Web browser and are an ideal way for you to meet other Ubuntu users and developers."
-msgstr "网络论坛常常比邮件列表更容易访问，您不需要订阅一个大流量的邮件列表便可以在很多情况下得到帮助。它们简单易用，对于用户和开发者都是不错的选择。"
+msgid ""
+"Web forums are often an easier and more immediate alternative to mailing "
+"lists as you can receive help on various issues without subscribing to a "
+"high-traffic mailing list. They are easier to use, available in a Web "
+"browser and are an ideal way for you to meet other Ubuntu users and "
+"developers."
+msgstr ""
+"网络论坛常常比邮件列表更容易访问，您不需要订阅一个大流量的邮件列表便可以在很"
+"多情况下得到帮助。它们简单易用，对于用户和开发者都是不错的选择。"
 
 #: chapter9/xinclude.xml:404(para)
-msgid "The following screenshot displays the home page of the Ubuntu forums Web site:"
+msgid ""
+"The following screenshot displays the home page of the Ubuntu forums Web "
+"site:"
 msgstr "以下是 Ubuntu 论坛页面的截图："
 
 #: chapter9/xinclude.xml:420(para)
-msgid "To access the Ubuntu forums, go to: <ulink url=\"http://ubuntuforums.org/\">http://ubuntuforums.org/</ulink> or <ulink url=\"http://www.ubuntu.com/community/forums\">http://www.ubuntu.com/community/forums</ulink>."
-msgstr "要访问 Ubuntu 论坛，请点击 <ulink url=\"http://ubuntuforums.org/\">http://ubuntuforums.org/</ulink> 或 <ulink url=\"http://www.ubuntu.com/community/forums\">http://www.ubuntu.com/community/forums</ulink>"
+msgid ""
+"To access the Ubuntu forums, go to: <ulink url=\"http://ubuntuforums.org/"
+"\">http://ubuntuforums.org/</ulink> or <ulink url=\"http://www.ubuntu.com/"
+"community/forums\">http://www.ubuntu.com/community/forums</ulink>."
+msgstr ""
+"要访问 Ubuntu 论坛，请点击 <ulink url=\"http://ubuntuforums.org/\">http://"
+"ubuntuforums.org/</ulink> 或 <ulink url=\"http://www.ubuntu.com/community/"
+"forums\">http://www.ubuntu.com/community/forums</ulink>"
 
 #: chapter9/xinclude.xml:424(para)
-msgid "The Ubuntu forums are entirely maintained and moderated by volunteers and are available in many languages such as Chinese, Dutch, German, Finnish and French."
-msgstr "Ubuntu 论坛完全由志愿者管理和维护，同时拥有中文、荷兰语、德语、芬兰语和法语等站点。"
+msgid ""
+"The Ubuntu forums are entirely maintained and moderated by volunteers and "
+"are available in many languages such as Chinese, Dutch, German, Finnish and "
+"French."
+msgstr ""
+"Ubuntu 论坛完全由志愿者管理和维护，同时拥有中文、荷兰语、德语、芬兰语和法语等"
+"站点。"
 
 #: chapter9/xinclude.xml:428(para)
 msgid "The following screenshot displays a view of the Ubuntu French forum:"
@@ -535,452 +899,850 @@ msgid "Ubuntu French Forum"
 msgstr "Ubuntu 中文论坛"
 
 #: chapter9/xinclude.xml:441(para)
-msgid "You need to register on the forum to be able to post messages and get support. To do this, click the <emphasis role=\"strong\">Register</emphasis> link displayed on the home page which will lead to the following page:"
-msgstr "您需要在论坛上注册才能发表帖子。请点击以下页面左上方的 <emphasis role=\"strong\">注册</emphasis> 链接进行注册。"
+msgid ""
+"You need to register on the forum to be able to post messages and get "
+"support. To do this, click the <emphasis role=\"strong\">Register</emphasis> "
+"link displayed on the home page which will lead to the following page:"
+msgstr ""
+"您需要在论坛上注册才能发表帖子。请点击以下页面左上方的 <emphasis role="
+"\"strong\">注册</emphasis> 链接进行注册。"
 
-#: chapter9/xinclude.xml:446(title)
-msgid "Ubuntu Forum Rules Page"
-msgstr "Ubuntu 论坛守则"
-
-#: chapter9/xinclude.xml:455(para)
-msgid "Follow all the instructions on this and the following pages to sign on to the Ubuntu forum. You will then receive a confirmation that your registration is complete."
+#: chapter9/xinclude.xml:445(para)
+msgid ""
+"Follow all the instructions on this and the following pages to sign on to "
+"the Ubuntu forum. You will then receive a confirmation that your "
+"registration is complete."
 msgstr "接下来请按照提示的信息登录论坛，同时您会收到通知以确认注册成功。"
 
-#: chapter9/xinclude.xml:459(para)
-msgid "You can now sign in with your new user name and password and start using the Web forum for posting new messages and searching the existing ones. The postings on the Web forum are segregated into several categories based on their subject. To get an answer for a specific question, you may first look into the related category. Each category contains threads to all the postings already made under that category."
-msgstr "现在可以使用新注册的用户搜索已有的帖子或发表新帖了。建议在提问前先进行搜索，您遇到的问题非常有可能已经有人提出过。如果没有找到满意的答复，再发表新帖描述遇到的问题，然后等待其他人的回复，并且在必要的时候提供所需的更多信息。"
+#: chapter9/xinclude.xml:449(para)
+msgid ""
+"You can now sign in with your new user name and password and start using the "
+"Web forum for posting new messages and searching the existing ones. The "
+"postings on the Web forum are segregated into several categories based on "
+"their subject. To get an answer for a specific question, you may first look "
+"into the related category. Each category contains threads to all the "
+"postings already made under that category."
+msgstr ""
+"现在可以使用新注册的用户搜索已有的帖子或发表新帖了。建议在提问前先进行搜索，"
+"您遇到的问题非常有可能已经有人提出过。如果没有找到满意的答复，再发表新帖描述"
+"遇到的问题，然后等待其他人的回复，并且在必要的时候提供所需的更多信息。"
 
-#: chapter9/xinclude.xml:471(para)
-msgid "The IRC channels are a form of real-time Internet chat that enable users to talk directly (and immediately) with one another."
+#: chapter9/xinclude.xml:461(para)
+msgid ""
+"The IRC channels are a form of real-time Internet chat that enable users to "
+"talk directly (and immediately) with one another."
 msgstr "IRC 是一种即时互联网聊天工具，它使不同的人可以直接、即时地进行交流。"
 
+#: chapter9/xinclude.xml:464(para)
+msgid ""
+"IRC channels are available on the freenode network, irc.freenode.net. The "
+"best channel for you to interact with other Ubuntu users is #ubuntu. Other "
+"specialised channels related to Ubuntu variants, such as #kubuntu, #edubuntu "
+"and #xubuntu are also available. In addition, channels related to bugs, "
+"development, LoCo teams, accessibility and documentation are also available."
+msgstr ""
+"Ubuntu 的 IRC 频道在 Freenode 上，地址是 irc.freenode.net。中文用户最佳的交流"
+"场所是 #ubuntu-cn 频道，还有 #ubuntu-cn-translators 频道用于反应中文支持及翻"
+"译的问题，或者到 #ubuntu 频道使用英文同来自世界各地的用户进行交流。"
+
 #: chapter9/xinclude.xml:474(para)
-msgid "IRC channels are available on the freenode network, irc.freenode.net. The best channel for you to interact with other Ubuntu users is #ubuntu. Other specialised channels related to Ubuntu variants, such as #kubuntu, #edubuntu and #xubuntu are also available. In addition, channels related to bugs, development, LoCo teams, accessibility and documentation are also available."
-msgstr "Ubuntu 的 IRC 频道在 Freenode 上，地址是 irc.freenode.net。中文用户最佳的交流场所是 #ubuntu-cn 频道，还有 #ubuntu-cn-translators 频道用于反应中文支持及翻译的问题，或者到 #ubuntu 频道使用英文同来自世界各地的用户进行交流。"
+msgid ""
+"To see a list of IRC channels and clients, go to <ulink url=\"https://help."
+"ubuntu.com/community/InternetRelayChat\">https://help.ubuntu.com/community/"
+"InternetRelayChat</ulink>."
+msgstr ""
+"查看完整的 Ubuntu 相关 IRC 频道列表和可用的客户端程序在 <ulink url=\"https://"
+"help.ubuntu.com/community/InternetRelayChat\">https://help.ubuntu.com/"
+"community/InternetRelayChat</ulink>"
 
-#: chapter9/xinclude.xml:484(para)
-msgid "To see a list of IRC channels and clients, go to <ulink url=\"https://help.ubuntu.com/community/InternetRelayChat\">https://help.ubuntu.com/community/InternetRelayChat</ulink>."
-msgstr "查看完整的 Ubuntu 相关 IRC 频道列表和可用的客户端程序在 <ulink url=\"https://help.ubuntu.com/community/InternetRelayChat\">https://help.ubuntu.com/community/InternetRelayChat</ulink>"
-
-#: chapter9/xinclude.xml:487(para)
-msgid "There are many ways to connect to an IRC channel and one of them is by using the Pidgin instant messenger. Connecting to Pidgin was covered in Lesson 3."
+#: chapter9/xinclude.xml:477(para)
+msgid ""
+"There are many ways to connect to an IRC channel and one of them is by using "
+"the Pidgin instant messenger. Connecting to Pidgin was covered in Lesson 3."
 msgstr "有多种方法连接到 IRC 频道，比如第三课介绍过的 Empathy IM 客户端。"
 
-#: chapter9/xinclude.xml:492(title)
+#: chapter9/xinclude.xml:482(title)
 msgid "Once in Pidgin, you can access various IRC channels by:"
 msgstr "如何使用 Empathy 连接到 IRC 频道："
 
-#: chapter9/xinclude.xml:495(para)
-msgid "Open the <emphasis role=\"strong\">Buddies</emphasis> menu to view the available options, and click <emphasis role=\"strong\">Add Chat</emphasis>. This displays the <emphasis role=\"strong\">Add Chat</emphasis> dialogue box."
-msgstr "这里假定您已经按照第三课所讲述的内容添加了 IRC 类型的帐号。在联系人列表窗口点击 <emphasis role=\"strong\">聊天室</emphasis> 菜单，选择 <emphasis role=\"strong\">加入</emphasis>。"
+#: chapter9/xinclude.xml:485(para)
+msgid ""
+"Open the <emphasis role=\"strong\">Buddies</emphasis> menu to view the "
+"available options, and click <emphasis role=\"strong\">Add Chat</emphasis>. "
+"This displays the <emphasis role=\"strong\">Add Chat</emphasis> dialogue box."
+msgstr ""
+"这里假定您已经按照第三课所讲述的内容添加了 IRC 类型的帐号。在联系人列表窗口点"
+"击 <emphasis role=\"strong\">聊天室</emphasis> 菜单，选择 <emphasis role="
+"\"strong\">加入</emphasis>。"
 
-#: chapter9/xinclude.xml:501(title)
+#: chapter9/xinclude.xml:491(title)
 msgid "Buddies Menu"
 msgstr "联系人列表"
 
-#: chapter9/xinclude.xml:512(para)
-msgid "To interact with ubuntu users, type <emphasis role=\"strong\">#Ubuntu</emphasis> in the <emphasis role=\"strong\">Screen name</emphasis> field. Then click <emphasis role=\"strong\">Add</emphasis>. This adds the Ubuntu users' account to your <emphasis role=\"strong\">Buddies List</emphasis>."
-msgstr "在 <emphasis role=\"strong\">聊天室</emphasis> 一栏中填入 <emphasis role=\"strong\">#ubuntu-cn</emphasis>，然后点击 <emphasis role=\"strong\">加入</emphasis>。"
+#: chapter9/xinclude.xml:502(para)
+msgid ""
+"To interact with ubuntu users, type <emphasis role=\"strong\">#Ubuntu</"
+"emphasis> in the <emphasis role=\"strong\">Screen name</emphasis> field. "
+"Then click <emphasis role=\"strong\">Add</emphasis>. This adds the Ubuntu "
+"users' account to your <emphasis role=\"strong\">Buddies List</emphasis>."
+msgstr ""
+"在 <emphasis role=\"strong\">聊天室</emphasis> 一栏中填入 <emphasis role="
+"\"strong\">#ubuntu-cn</emphasis>，然后点击 <emphasis role=\"strong\">加入</"
+"emphasis>。"
 
-#: chapter9/xinclude.xml:516(title)
+#: chapter9/xinclude.xml:506(title)
 msgid "Add Chat Dialogue Box"
 msgstr "加入聊天室"
 
-#: chapter9/xinclude.xml:527(para)
-msgid "You have now entered the IRC channel for Ubuntu users. You can use the box at the bottom of the window to type your messages, and press <emphasis role=\"strong\">Enter</emphasis> to send them."
-msgstr "至此您已经进入 Ubuntu 用户 IRC 频道。您可以在窗口下方的栏内输入您要发送的信息，并按下 <emphasis role=\"strong\">回车</emphasis> 进行发送。"
+#: chapter9/xinclude.xml:517(para)
+msgid ""
+"You have now entered the IRC channel for Ubuntu users. You can use the box "
+"at the bottom of the window to type your messages, and press <emphasis role="
+"\"strong\">Enter</emphasis> to send them."
+msgstr ""
+"至此您已经进入 Ubuntu 用户 IRC 频道。您可以在窗口下方的栏内输入您要发送的信"
+"息，并按下 <emphasis role=\"strong\">回车</emphasis> 进行发送。"
 
-#: chapter9/xinclude.xml:532(title)
+#: chapter9/xinclude.xml:522(title)
 msgid "IRC Channel for Ubuntu Users"
 msgstr "Ubuntu 用户 IRC 频道"
 
-#: chapter9/xinclude.xml:547(para)
-msgid "The Ubuntu LoCo (short for 'Local Community') teams are a vital resource for providing localised support. With the incredible success of Ubuntu around the world, the Loco project helps groups of Ubuntu fans and enthusiasts work together in their regional teams to help advocate, promote, translate, develop and otherwise improve Ubuntu.You can access them through: <ulink url=\"http://www.ubuntu.com/support/community/locallanguage\">http://www.ubuntu.com/support/community/locallanguage</ulink>."
-msgstr "Ubuntu 本地社区团队 (Local Community, LoCo) 是提供本地化支持的最重要资源。由于 Ubuntu 在全世界范围所取得的巨大成功，本地社区项目汇聚了当地众多的 Ubuntu 爱好者一起帮助推广、翻译、开发 Ubuntu 和更多形式地对 Ubuntu 做出贡献。您可以在 <ulink url=\"http://www.ubuntu.org.cn/support/community/locallanguage\">http://www.ubuntu.org.cn/support/community/locallanguage</ulink> 找到全部本地社区团队的列表。"
+#: chapter9/xinclude.xml:537(para)
+msgid ""
+"The Ubuntu LoCo (short for 'Local Community') teams are a vital resource for "
+"providing localised support. With the incredible success of Ubuntu around "
+"the world, the Loco project helps groups of Ubuntu fans and enthusiasts work "
+"together in their regional teams to help advocate, promote, translate, "
+"develop and otherwise improve Ubuntu.You can access them through: <ulink url="
+"\"http://www.ubuntu.com/support/community/locallanguage\">http://www.ubuntu."
+"com/support/community/locallanguage</ulink>."
+msgstr ""
+"Ubuntu 本地社区团队 (Local Community, LoCo) 是提供本地化支持的最重要资源。由"
+"于 Ubuntu 在全世界范围所取得的巨大成功，本地社区项目汇聚了当地众多的 Ubuntu "
+"爱好者一起帮助推广、翻译、开发 Ubuntu 和更多形式地对 Ubuntu 做出贡献。您可以"
+"在 <ulink url=\"http://www.ubuntu.org.cn/support/community/locallanguage"
+"\">http://www.ubuntu.org.cn/support/community/locallanguage</ulink> 找到全部"
+"本地社区团队的列表。"
 
-#: chapter9/xinclude.xml:554(para)
-msgid "The following screenshot displays the list of languages in which you can receive help and support on Ubuntu:"
+#: chapter9/xinclude.xml:544(para)
+msgid ""
+"The following screenshot displays the list of languages in which you can "
+"receive help and support on Ubuntu:"
 msgstr "以下截图显示了您可以获得支持的语言列表："
 
-#: chapter9/xinclude.xml:558(title)
+#: chapter9/xinclude.xml:548(title)
 msgid "The LoCo Teams Page"
 msgstr "本地社区团队"
 
-#: chapter9/xinclude.xml:567(para)
-msgid "To receive help and support on Ubuntu in your local language, select the desired language from the <emphasis role=\"strong\">Non-English Support</emphasis> list."
-msgstr "要获得您本地语言的支持，请在 <emphasis role=\"strong\">非英语支持</emphasis> 列表中选择您想要的语言。"
+#: chapter9/xinclude.xml:557(para)
+msgid ""
+"To receive help and support on Ubuntu in your local language, select the "
+"desired language from the <emphasis role=\"strong\">Non-English Support</"
+"emphasis> list."
+msgstr ""
+"要获得您本地语言的支持，请在 <emphasis role=\"strong\">非英语支持</emphasis> "
+"列表中选择您想要的语言。"
 
-#: chapter9/xinclude.xml:572(title)
+#: chapter9/xinclude.xml:562(title)
 msgid "Non-English Support Page"
 msgstr "非英语支持"
 
-#: chapter9/xinclude.xml:584(para)
-msgid "If you want to start a LoCo team or join an existing one, go to: <ulink url=\"https://wiki.ubuntu.com/LoCoTeams\">https://wiki.ubuntu.com/LoCoTeams</ulink>. To view the list of LoCo teams, visit <ulink url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeamList</ulink>."
-msgstr "如果您希望创建或加入一个本地社区团队，请前往：<ulink url=\"https://wiki.ubuntu.com/LoCoTeams\">https://wiki.ubuntu.com/LoCoTeams</ulink>。要查看现有本地社区团队的列表，请访问 <ulink url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeamList</ulink>"
+#: chapter9/xinclude.xml:574(para)
+msgid ""
+"If you want to start a LoCo team or join an existing one, go to: <ulink url="
+"\"https://wiki.ubuntu.com/LoCoTeams\">https://wiki.ubuntu.com/LoCoTeams</"
+"ulink>. To view the list of LoCo teams, visit <ulink url=\"https://wiki."
+"ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeamList</ulink>."
+msgstr ""
+"如果您希望创建或加入一个本地社区团队，请前往：<ulink url=\"https://wiki."
+"ubuntu.com/LoCoTeams\">https://wiki.ubuntu.com/LoCoTeams</ulink>。要查看现有"
+"本地社区团队的列表，请访问 <ulink url=\"https://wiki.ubuntu.com/LoCoTeamList"
+"\">https://wiki.ubuntu.com/LoCoTeamList</ulink>"
 
-#: chapter9/xinclude.xml:593(para)
-msgid "The Ubuntu Team Wiki is a central Web site that provides access to useful information on Ubuntu and the supporting Ubuntu project. The pages are continually updated by the Ubuntu community members. The Ubuntu Team Wiki can be accessed at <ulink url=\"https://wiki.ubuntu.com/\">https://wiki.ubuntu.com/</ulink>."
-msgstr "Ubuntu 中文 Wiki 是提供 Ubuntu 相关的信息和支持的中心站点，其页面不断地由 Ubuntu 中文社区成员进行更新。您可以通过 <ulink url=\"http://wiki.ubuntu.org.cn/\">http://wiki.ubuntu.org.cn/</ulink> 访问。"
+#: chapter9/xinclude.xml:583(para)
+msgid ""
+"The Ubuntu Team Wiki is a central Web site that provides access to useful "
+"information on Ubuntu and the supporting Ubuntu project. The pages are "
+"continually updated by the Ubuntu community members. The Ubuntu Team Wiki "
+"can be accessed at <ulink url=\"https://wiki.ubuntu.com/\">https://wiki."
+"ubuntu.com/</ulink>."
+msgstr ""
+"Ubuntu 中文 Wiki 是提供 Ubuntu 相关的信息和支持的中心站点，其页面不断地由 "
+"Ubuntu 中文社区成员进行更新。您可以通过 <ulink url=\"http://wiki.ubuntu.org."
+"cn/\">http://wiki.ubuntu.org.cn/</ulink> 访问。"
 
-#: chapter9/xinclude.xml:598(para)
+#: chapter9/xinclude.xml:588(para)
 msgid "The following is a screenshot of the Ubuntu Team Wiki home page:"
 msgstr "以下是 Ubuntu 中文 Wiki 页面的截图："
 
-#: chapter9/xinclude.xml:611(para)
-msgid "As an Ubuntu user, you can also contribute to the wiki content and edit any of the pages on this site. However, you must observe the Ubuntu code of conduct while editing any content."
-msgstr "作为一位 Ubuntu 用户，您可以编辑站点上的任意页面并对内容做出贡献。然而，编辑的过程中您必须遵守 Ubuntu 品行准则(Code of Conduct, CoC)。"
+#: chapter9/xinclude.xml:601(para)
+msgid ""
+"As an Ubuntu user, you can also contribute to the wiki content and edit any "
+"of the pages on this site. However, you must observe the Ubuntu code of "
+"conduct while editing any content."
+msgstr ""
+"作为一位 Ubuntu 用户，您可以编辑站点上的任意页面并对内容做出贡献。然而，编辑"
+"的过程中您必须遵守 Ubuntu 品行准则(Code of Conduct, CoC)。"
 
-#: chapter9/xinclude.xml:615(para)
-msgid "Although the official Ubuntu wiki is available only in English, many wikis exist through the LoCo Web sites. For instance, the French wiki URL is <ulink url=\"http://wiki.ubuntu-fr.org\">http://wiki.ubuntu-fr.org</ulink>. You can find other LoCo teams in <ulink url=\"https://wiki.ubuntu.com/LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeamList</ulink>."
-msgstr "尽管 Ubuntu 官方 Wiki 只有英文版本，许多本地社区网站都提供各自语言的 Wiki。例如，简体中文 Wiki 的地址是 <ulink url=\"http://wiki.ubuntu.org.cn\">http://wiki.ubuntu.org.cn</ulink>"
+#: chapter9/xinclude.xml:605(para)
+msgid ""
+"Although the official Ubuntu wiki is available only in English, many wikis "
+"exist through the LoCo Web sites. For instance, the French wiki URL is "
+"<ulink url=\"http://wiki.ubuntu-fr.org\">http://wiki.ubuntu-fr.org</ulink>. "
+"You can find other LoCo teams in <ulink url=\"https://wiki.ubuntu.com/"
+"LoCoTeamList\">https://wiki.ubuntu.com/LoCoTeamList</ulink>."
+msgstr ""
+"尽管 Ubuntu 官方 Wiki 只有英文版本，许多本地社区网站都提供各自语言的 Wiki。例"
+"如，简体中文 Wiki 的地址是 <ulink url=\"http://wiki.ubuntu.org.cn\">http://"
+"wiki.ubuntu.org.cn</ulink>"
 
-#: chapter9/xinclude.xml:623(para)
-msgid "For more information on editing the Ubuntu wiki, visit <ulink url=\"https://wiki.ubuntu.com/HelpOnEditing\">https://wiki.ubuntu.com/HelpOnEditing</ulink>."
-msgstr "更多关于编辑 Ubuntu Wiki 的信息，请访问 <ulink url=\"https://wiki.ubuntu.com/HelpOnEditing\">https://wiki.ubuntu.com/HelpOnEditing</ulink>"
+#: chapter9/xinclude.xml:613(para)
+msgid ""
+"For more information on editing the Ubuntu wiki, visit <ulink url=\"https://"
+"wiki.ubuntu.com/HelpOnEditing\">https://wiki.ubuntu.com/HelpOnEditing</"
+"ulink>."
+msgstr ""
+"更多关于编辑 Ubuntu Wiki 的信息，请访问 <ulink url=\"https://wiki.ubuntu.com/"
+"HelpOnEditing\">https://wiki.ubuntu.com/HelpOnEditing</ulink>"
 
-#: chapter9/xinclude.xml:629(title)
+#: chapter9/xinclude.xml:619(title)
 msgid "Launchpad"
 msgstr "Launchpad"
 
-#: chapter9/xinclude.xml:631(para)
-msgid "Launchpad is a collaborative Web-based suite that helps people develop directly or contribute to the development of free and open source software. It is a collaborative system developed by Canonical, with Ubuntu as the most popular project hosted on it. You can use Shipit with your Launchpad ID and order Ubuntu CDs, report a bug, assist in translation of Ubuntu and more. This course covers the Launchpad Technical Answers section, Launchpad Bug Tracking and Shipit (ordering Ubuntu CDs)."
-msgstr "Launchpad 是一个基于 Web 界面的自由软件开发工具套件，由 Canonical 开发并以为开源软件开放提供多项跟踪服务为基本目标。Ubuntu 及许多其他著名项目都使用它提供的服务。您可以通过 Launchpad ID 报告错误、协助翻译、访问 Shipit 以获得邮寄的 Ubuntu 光盘等。本教程涵盖了 Launchpad 科技问答、Launchpad 错误跟踪和 Shipit 三个部分。"
+#: chapter9/xinclude.xml:621(para)
+msgid ""
+"Launchpad is a collaborative Web-based suite that helps people develop "
+"directly or contribute to the development of free and open source software. "
+"It is a collaborative system developed by Canonical, with Ubuntu as the most "
+"popular project hosted on it. You can use Shipit with your Launchpad ID and "
+"order Ubuntu CDs, report a bug, assist in translation of Ubuntu and more. "
+"This course covers the Launchpad Technical Answers section, Launchpad Bug "
+"Tracking and Shipit (ordering Ubuntu CDs)."
+msgstr ""
+"Launchpad 是一个基于 Web 界面的自由软件开发工具套件，由 Canonical 开发并以为"
+"开源软件开放提供多项跟踪服务为基本目标。Ubuntu 及许多其他著名项目都使用它提供"
+"的服务。您可以通过 Launchpad ID 报告错误、协助翻译、访问 Shipit 以获得邮寄的 "
+"Ubuntu 光盘等。本教程涵盖了 Launchpad 科技问答、Launchpad 错误跟踪和 Shipit "
+"三个部分。"
 
-#: chapter9/xinclude.xml:639(para)
-msgid "You can visit Launchpad at <ulink url=\"https://launchpad.net\">https://launchpad.net</ulink>. The following screenshot displays the home page of the Launchpad site:"
-msgstr "您可以通过 <ulink url=\"https://launchpad.net\">https://launchpad.net</ulink> 访问 Launchpad。以下是 Launchpad 首页的截图："
+#: chapter9/xinclude.xml:629(para)
+msgid ""
+"You can visit Launchpad at <ulink url=\"https://launchpad.net\">https://"
+"launchpad.net</ulink>. The following screenshot displays the home page of "
+"the Launchpad site:"
+msgstr ""
+"您可以通过 <ulink url=\"https://launchpad.net\">https://launchpad.net</"
+"ulink> 访问 Launchpad。以下是 Launchpad 首页的截图："
 
-#: chapter9/xinclude.xml:643(title)
+#: chapter9/xinclude.xml:633(title)
 msgid "The Launchpad Page"
 msgstr "Launchpad"
 
-#: chapter9/xinclude.xml:652(para)
-msgid "Information stored on Launchpad can be retrieved anonymously. To submit information on Launchpad, you need to first create an account on Launchpad. You can create a Launchpad account by clicking the <emphasis role=\"strong\">Register</emphasis> link at the top-right corner of the home page and filling the required details under the <emphasis role=\"strong\">Not registered yet?</emphasis> section. Click <emphasis role=\"strong\">Register</emphasis> to complete the registration process. You may also use an OpenID login to access Launchpad. For more information on on OpenID see the project website at: <ulink url=\"https://openid.net\">http://openid.net</ulink>."
-msgstr "储存在 Launchpad 上的信息均可通过匿名方式获取。要提交信息到 Launchpad，需要首先创建帐号。点击首页右上角的 <emphasis role=\"strong\">Register</emphasis> 链接，在打开的页面中的 <emphasis role=\"strong\">Not registered yet?</emphasis> 下方填入对应的信息，然后点击 <emphasis role=\"strong\">Register</emphasis> 完成注册。也可以使用 OpenID 访问 Launchpad。更多关于 OpenID 的信息，请访问 OpenID 项目网站：<ulink url=\"https://openid.net\">http://openid.net</ulink>"
+#: chapter9/xinclude.xml:642(para)
+msgid ""
+"Information stored on Launchpad can be retrieved anonymously. To submit "
+"information on Launchpad, you need to first create an account on Launchpad. "
+"You can create a Launchpad account by clicking the <emphasis role=\"strong"
+"\">Register</emphasis> link at the top-right corner of the home page and "
+"filling the required details under the <emphasis role=\"strong\">Not "
+"registered yet?</emphasis> section. Click <emphasis role=\"strong"
+"\">Register</emphasis> to complete the registration process. You may also "
+"use an OpenID login to access Launchpad. For more information on on OpenID "
+"see the project website at: <ulink url=\"https://openid.net\">http://openid."
+"net</ulink>."
+msgstr ""
+"储存在 Launchpad 上的信息均可通过匿名方式获取。要提交信息到 Launchpad，需要首"
+"先创建帐号。点击首页右上角的 <emphasis role=\"strong\">Register</emphasis> 链"
+"接，在打开的页面中的 <emphasis role=\"strong\">Not registered yet?</"
+"emphasis> 下方填入对应的信息，然后点击 <emphasis role=\"strong\">Register</"
+"emphasis> 完成注册。也可以使用 OpenID 访问 Launchpad。更多关于 OpenID 的信"
+"息，请访问 OpenID 项目网站：<ulink url=\"https://openid.net\">http://openid."
+"net</ulink>"
 
-#: chapter9/xinclude.xml:662(title)
+#: chapter9/xinclude.xml:652(title)
 msgid "Registration Page"
 msgstr "注册"
 
-#: chapter9/xinclude.xml:671(para)
-msgid "After you register, you can log on again and return to the home page to search the required information. You can do this by either asking a fresh question or searching the relevant information within the existing answers on the Launchpad site."
-msgstr "完成注册后，您可以登录帐号并在首页上查找需要的信息：在已有的问答中搜索答案，或者提出一个新的问题。"
+#: chapter9/xinclude.xml:661(para)
+msgid ""
+"After you register, you can log on again and return to the home page to "
+"search the required information. You can do this by either asking a fresh "
+"question or searching the relevant information within the existing answers "
+"on the Launchpad site."
+msgstr ""
+"完成注册后，您可以登录帐号并在首页上查找需要的信息：在已有的问答中搜索答案，"
+"或者提出一个新的问题。"
 
-#: chapter9/xinclude.xml:677(title)
+#: chapter9/xinclude.xml:667(title)
 msgid "Launchpad Technical Answers"
 msgstr "Launchpad 技术问答"
 
-#: chapter9/xinclude.xml:679(para)
-msgid "To search for an answer in the existing questions, click the <emphasis role=\"strong\">Answers</emphasis> icon on the right. This displays the <emphasis role=\"strong\">Questions and answers</emphasis> page. To obtain information about a specific project, such as Ubuntu, you can select the project name from the <emphasis role=\"strong\">Most active projects</emphasis> list. This displays the <emphasis role=\"strong\">Question for Ubuntu</emphasis> page on Launchpad."
-msgstr "要搜索一个已存在问题的答案，请点击右侧的 <emphasis role=\"strong\">Answers</emphasis> 图标。此时会显示 <emphasis role=\"strong\">Questions and answers</emphasis> 页面。要查找某个特定项目的信息，例如 Ubuntu，您可以在 <emphasis role=\"strong\">Most active projects</emphasis> 列表中进行选择，这样将会显示 <emphasis role=\"strong\">Question for Ubuntu</emphasis> 页面。"
+#: chapter9/xinclude.xml:669(para)
+msgid ""
+"To search for an answer in the existing questions, click the <emphasis role="
+"\"strong\">Answers</emphasis> icon on the right. This displays the <emphasis "
+"role=\"strong\">Questions and answers</emphasis> page. To obtain information "
+"about a specific project, such as Ubuntu, you can select the project name "
+"from the <emphasis role=\"strong\">Most active projects</emphasis> list. "
+"This displays the <emphasis role=\"strong\">Question for Ubuntu</emphasis> "
+"page on Launchpad."
+msgstr ""
+"要搜索一个已存在问题的答案，请点击右侧的 <emphasis role=\"strong\">Answers</"
+"emphasis> 图标。此时会显示 <emphasis role=\"strong\">Questions and answers</"
+"emphasis> 页面。要查找某个特定项目的信息，例如 Ubuntu，您可以在 <emphasis "
+"role=\"strong\">Most active projects</emphasis> 列表中进行选择，这样将会显示 "
+"<emphasis role=\"strong\">Question for Ubuntu</emphasis> 页面。"
 
-#: chapter9/xinclude.xml:687(title)
+#: chapter9/xinclude.xml:677(title)
 msgid "Nice to Know"
 msgstr "小提示"
 
-#: chapter9/xinclude.xml:689(para)
-msgid "Many applications on Ubuntu provide the <emphasis role=\"strong\">Get Help Online</emphasis> menu entry in their Help menu. This can be used as a shortcut to visit the Technical Answers section in Launchpad."
-msgstr "Ubuntu 中许多应用程序的帮助菜单中都有 <emphasis role=\"strong\">获取在线帮助</emphasis> 项，它是可用于访问 Launchpad 技术问答的快捷方式。"
+#: chapter9/xinclude.xml:679(para)
+msgid ""
+"Many applications on Ubuntu provide the <emphasis role=\"strong\">Get Help "
+"Online</emphasis> menu entry in their Help menu. This can be used as a "
+"shortcut to visit the Technical Answers section in Launchpad."
+msgstr ""
+"Ubuntu 中许多应用程序的帮助菜单中都有 <emphasis role=\"strong\">获取在线帮助"
+"</emphasis> 项，它是可用于访问 Launchpad 技术问答的快捷方式。"
 
-#: chapter9/xinclude.xml:695(title)
+#: chapter9/xinclude.xml:685(title)
 msgid "Questions and Answers Page"
 msgstr "Questions and Answers 页面"
 
-#: chapter9/xinclude.xml:704(para)
-msgid "On this page, all answers specific to the Ubuntu project are listed under various categories. You can type your question in the <emphasis role=\"strong\">Search</emphasis> field to search for an answer in the existing questions. Alternatively, you can click the <emphasis role=\"strong\">Ask a question</emphasis> button to display the <emphasis role=\"strong\">Ask a question</emphasis> page."
-msgstr "所有与 Ubuntu 项目相关的答案都分类地列在这页上，您可以在 <emphasis role=\"strong\">Search</emphasis> 栏中输入您的问题，搜索是否已经有人提出了相同的。除此之外，您可以点击 <emphasis role=\"strong\">Ask a question</emphasis> 以便提出一个新的问题。"
+#: chapter9/xinclude.xml:694(para)
+msgid ""
+"On this page, all answers specific to the Ubuntu project are listed under "
+"various categories. You can type your question in the <emphasis role=\"strong"
+"\">Search</emphasis> field to search for an answer in the existing "
+"questions. Alternatively, you can click the <emphasis role=\"strong\">Ask a "
+"question</emphasis> button to display the <emphasis role=\"strong\">Ask a "
+"question</emphasis> page."
+msgstr ""
+"所有与 Ubuntu 项目相关的答案都分类地列在这页上，您可以在 <emphasis role="
+"\"strong\">Search</emphasis> 栏中输入您的问题，搜索是否已经有人提出了相同的。"
+"除此之外，您可以点击 <emphasis role=\"strong\">Ask a question</emphasis> 以便"
+"提出一个新的问题。"
 
-#: chapter9/xinclude.xml:712(title)
+#: chapter9/xinclude.xml:702(title)
 msgid "Questions for Ubuntu Page"
 msgstr "Questions for Ubuntu 页面"
 
-#: chapter9/xinclude.xml:721(para)
-msgid "You can ask a question by selecting your preferred language and then typing the summary of your question in the <emphasis role=\"strong\">Summary</emphasis> field. Clicking <emphasis role=\"strong\">Continue</emphasis> displays a list of questions that may be similar to what you asked."
-msgstr "然后选择您使用的语言，在 <emphasis role=\"strong\">Summary</emphasis> 一栏写出对问题的概述。点击 <emphasis role=\"strong\">Continue</emphasis>，将会显示一系列相似的问题。"
+#: chapter9/xinclude.xml:711(para)
+msgid ""
+"You can ask a question by selecting your preferred language and then typing "
+"the summary of your question in the <emphasis role=\"strong\">Summary</"
+"emphasis> field. Clicking <emphasis role=\"strong\">Continue</emphasis> "
+"displays a list of questions that may be similar to what you asked."
+msgstr ""
+"然后选择您使用的语言，在 <emphasis role=\"strong\">Summary</emphasis> 一栏写"
+"出对问题的概述。点击 <emphasis role=\"strong\">Continue</emphasis>，将会显示"
+"一系列相似的问题。"
 
-#: chapter9/xinclude.xml:727(title)
+#: chapter9/xinclude.xml:717(title)
 msgid "Ask a Question Page"
 msgstr "Ask a Question 页面"
 
-#: chapter9/xinclude.xml:736(para)
-msgid "If you still do not find the required answer, go ahead and type the description of the problem in the <emphasis role=\"strong\">Description</emphasis> field. You can then click <emphasis role=\"strong\">Add</emphasis> to add the question to the main Launchpad database."
-msgstr "如果仍然没有找到答案，直接在 <emphasis role=\"strong\">Description</emphasis> 栏中详细描述您的问题，然后点击 <emphasis role=\"strong\">Add</emphasis> 进行提交。"
+#: chapter9/xinclude.xml:726(para)
+msgid ""
+"If you still do not find the required answer, go ahead and type the "
+"description of the problem in the <emphasis role=\"strong\">Description</"
+"emphasis> field. You can then click <emphasis role=\"strong\">Add</emphasis> "
+"to add the question to the main Launchpad database."
+msgstr ""
+"如果仍然没有找到答案，直接在 <emphasis role=\"strong\">Description</"
+"emphasis> 栏中详细描述您的问题，然后点击 <emphasis role=\"strong\">Add</"
+"emphasis> 进行提交。"
 
-#: chapter9/xinclude.xml:742(title)
+#: chapter9/xinclude.xml:732(title)
 msgid "Question Page"
 msgstr "Question 页面"
 
-#: chapter9/xinclude.xml:751(para)
-msgid "When your question is answered, you will receive an e-mail notification, stating that your question has been replied to."
+#: chapter9/xinclude.xml:741(para)
+msgid ""
+"When your question is answered, you will receive an e-mail notification, "
+"stating that your question has been replied to."
 msgstr "如果有人回答了您提出的问题，Launchpad 将会给您发送提示邮件。"
 
-#: chapter9/xinclude.xml:756(title)
+#: chapter9/xinclude.xml:746(title)
 msgid "Launchpad Bug Tracker: Malone"
 msgstr "Launchpad 缺陷跟踪系统：Malone"
 
-#: chapter9/xinclude.xml:758(para)
-msgid "Malone is a Web-based, collaborative, bug-tracking tool available with Launchpad. It provides you with a location to report any bugs that you find in Ubuntu and its various applications. It also enables you to track the bugs during their life, right until they have been resolved."
-msgstr "Malone 是 Launchpad 上基于网页的团队协作式缺陷跟踪工具。您可以通过它来提交包括 Ubuntu 在内的一大批应用程序的错误报告。它可以跟踪每个缺陷从提出直至被解决的整个生命周期。"
+#: chapter9/xinclude.xml:748(para)
+msgid ""
+"Malone is a Web-based, collaborative, bug-tracking tool available with "
+"Launchpad. It provides you with a location to report any bugs that you find "
+"in Ubuntu and its various applications. It also enables you to track the "
+"bugs during their life, right until they have been resolved."
+msgstr ""
+"Malone 是 Launchpad 上基于网页的团队协作式缺陷跟踪工具。您可以通过它来提交包"
+"括 Ubuntu 在内的一大批应用程序的错误报告。它可以跟踪每个缺陷从提出直至被解决"
+"的整个生命周期。"
 
-#: chapter9/xinclude.xml:764(para)
-msgid "If you find any problems in Ubuntu and its related applications, you can report it on Launchpad by clicking the <emphasis role=\"strong\">Bugs</emphasis> icon on home page. This displays the <emphasis role=\"strong\">Bug tracking</emphasis> page of the Launchpad Web site."
-msgstr "如果发现 Ubuntu 中应用程序存在某些问题，在 Launchpad 首页上点击 <emphasis role=\"strong\">Bugs</emphasis> 以便进入 Launchpad 的 <emphasis role=\"strong\">错误缺陷</emphasis> 页面。"
+#: chapter9/xinclude.xml:754(para)
+msgid ""
+"If you find any problems in Ubuntu and its related applications, you can "
+"report it on Launchpad by clicking the <emphasis role=\"strong\">Bugs</"
+"emphasis> icon on home page. This displays the <emphasis role=\"strong\">Bug "
+"tracking</emphasis> page of the Launchpad Web site."
+msgstr ""
+"如果发现 Ubuntu 中应用程序存在某些问题，在 Launchpad 首页上点击 <emphasis "
+"role=\"strong\">Bugs</emphasis> 以便进入 Launchpad 的 <emphasis role=\"strong"
+"\">错误缺陷</emphasis> 页面。"
 
-#: chapter9/xinclude.xml:770(para)
-msgid "The <emphasis role=\"strong\">Bug tracking</emphasis> page displays all the recently reported and recently fixed bugs. Before reporting a new bug on Launchpad, you must run a search in the existing bug reports to ensure that this bug has not been reported already."
-msgstr "<emphasis role=\"strong\">缺陷跟踪</emphasis> 页面显示了最近报告和修复的缺陷。在您提交一个新的报告前，请先进行搜索看是否已经有人对相同的缺陷进行过报告。"
+#: chapter9/xinclude.xml:760(para)
+msgid ""
+"The <emphasis role=\"strong\">Bug tracking</emphasis> page displays all the "
+"recently reported and recently fixed bugs. Before reporting a new bug on "
+"Launchpad, you must run a search in the existing bug reports to ensure that "
+"this bug has not been reported already."
+msgstr ""
+"<emphasis role=\"strong\">缺陷跟踪</emphasis> 页面显示了最近报告和修复的缺"
+"陷。在您提交一个新的报告前，请先进行搜索看是否已经有人对相同的缺陷进行过报"
+"告。"
 
-#: chapter9/xinclude.xml:776(title)
+#: chapter9/xinclude.xml:766(title)
 msgid "The Bug Tracking Page"
 msgstr "缺陷跟踪"
 
-#: chapter9/xinclude.xml:785(para)
-msgid "You can report a fresh bug on the <emphasis role=\"strong\">Report a bug</emphasis> page, which can be displayed by clicking the <emphasis role=\"strong\">Report a bug</emphasis> button on the <emphasis role=\"strong\">Bug tracking</emphasis> page."
-msgstr "您可以使用 <emphasis role=\"strong\">缺陷跟踪</emphasis> 页面上的 <emphasis role=\"strong\">Report a bug</emphasis> 链接提交一个新的缺陷报告。"
+#: chapter9/xinclude.xml:775(para)
+msgid ""
+"You can report a fresh bug on the <emphasis role=\"strong\">Report a bug</"
+"emphasis> page, which can be displayed by clicking the <emphasis role="
+"\"strong\">Report a bug</emphasis> button on the <emphasis role=\"strong"
+"\">Bug tracking</emphasis> page."
+msgstr ""
+"您可以使用 <emphasis role=\"strong\">缺陷跟踪</emphasis> 页面上的 <emphasis "
+"role=\"strong\">Report a bug</emphasis> 链接提交一个新的缺陷报告。"
 
-#: chapter9/xinclude.xml:788(para)
-msgid "Type a small description of the bug in the <emphasis role=\"strong\">Summary</emphasis> field, and click <emphasis role=\"strong\">Continue</emphasis> to report the bug."
-msgstr "在 <emphasis role=\"strong\">Summary</emphasis> 处填写一个简短的描述，然后点击 <emphasis role=\"strong\">Continue</emphasis>。"
+#: chapter9/xinclude.xml:778(para)
+msgid ""
+"Type a small description of the bug in the <emphasis role=\"strong"
+"\">Summary</emphasis> field, and click <emphasis role=\"strong\">Continue</"
+"emphasis> to report the bug."
+msgstr ""
+"在 <emphasis role=\"strong\">Summary</emphasis> 处填写一个简短的描述，然后点"
+"击 <emphasis role=\"strong\">Continue</emphasis>。"
 
-#: chapter9/xinclude.xml:791(title)
+#: chapter9/xinclude.xml:781(title)
 msgid "Report a Bug Page"
 msgstr "缺陷报告"
 
-#: chapter9/xinclude.xml:800(para)
-msgid "When you click the <emphasis role=\"strong\">Continue</emphasis> button, the bug tracker displays a list containing similar bugs reported earlier on Launchpad. If you do not find your bug listed here, you can still report the bug as a fresh bug by clicking the <emphasis role=\"strong\">No, I'd like to report a new bug</emphasis> radio button at the bottom of this page. This displays a new section at the bottom of the page."
-msgstr "在您点下 <emphasis role=\"strong\">Continue</emphasis> 按钮后将会自动显示一组相似的缺陷报告，如果您没有在其中找到自己想要报告的问题，那么请点击 <emphasis role=\"strong\">No, I'd like to report a new bug</emphasis> 以继续进行报告，这时页面下方将会显示一个新的可输入位置。"
+#: chapter9/xinclude.xml:790(para)
+msgid ""
+"When you click the <emphasis role=\"strong\">Continue</emphasis> button, the "
+"bug tracker displays a list containing similar bugs reported earlier on "
+"Launchpad. If you do not find your bug listed here, you can still report the "
+"bug as a fresh bug by clicking the <emphasis role=\"strong\">No, I'd like to "
+"report a new bug</emphasis> radio button at the bottom of this page. This "
+"displays a new section at the bottom of the page."
+msgstr ""
+"在您点下 <emphasis role=\"strong\">Continue</emphasis> 按钮后将会自动显示一组"
+"相似的缺陷报告，如果您没有在其中找到自己想要报告的问题，那么请点击 <emphasis "
+"role=\"strong\">No, I'd like to report a new bug</emphasis> 以继续进行报告，"
+"这时页面下方将会显示一个新的可输入位置。"
 
-#: chapter9/xinclude.xml:808(title)
+#: chapter9/xinclude.xml:798(title)
 msgid "Look for the Reported Bug"
 msgstr "查看已报告的缺陷"
 
-#: chapter9/xinclude.xml:817(para)
-msgid "You are then required to provide further detailed information about the bug, such as the steps to reproduce the bug and version information. After providing the required details, you can finally submit the bug report by clicking the <emphasis role=\"strong\">Submit Bug Report</emphasis> button."
-msgstr "您需要提供关于此问题的详细信息，例如如何才能重现这个缺陷、您使用的程序的版本。输入这些信息后点击 <emphasis role=\"strong\">Submit Bug Report</emphasis> 完成提交。"
+#: chapter9/xinclude.xml:807(para)
+msgid ""
+"You are then required to provide further detailed information about the bug, "
+"such as the steps to reproduce the bug and version information. After "
+"providing the required details, you can finally submit the bug report by "
+"clicking the <emphasis role=\"strong\">Submit Bug Report</emphasis> button."
+msgstr ""
+"您需要提供关于此问题的详细信息，例如如何才能重现这个缺陷、您使用的程序的版"
+"本。输入这些信息后点击 <emphasis role=\"strong\">Submit Bug Report</"
+"emphasis> 完成提交。"
 
-#: chapter9/xinclude.xml:826(para)
-msgid "Visit Malone at <ulink url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>."
-msgstr "更详细的错误报告指南：<ulink url=\"http://wiki.ubuntu.org.cn/%E9%94%99%E8%AF%AF%E6%8A%A5%E5%91%8A">http://wiki.ubuntu.org.cn/错误报告</ulink>"
+#: chapter9/xinclude.xml:816(para)
+msgid ""
+"Visit Malone at <ulink url=\"https://launchpad.net/malone\">https://"
+"launchpad.net/malone</ulink>."
+msgstr ""
+"更详细的错误报告指南：<ulink url=\"http://wiki.ubuntu.org.cn/%E9%94%99%E8%AF%"
+"AF%E6%8A%A5%E5%91%8A\">http://wiki.ubuntu.org.cn/错误报告/</ulink>"
 
-#: chapter9/xinclude.xml:831(title)
+#: chapter9/xinclude.xml:821(title)
 msgid "Shipit"
 msgstr "Shipit"
 
-#: chapter9/xinclude.xml:833(para)
-msgid "Shipit is an application you can use to request the delivery of Ubuntu CDs. Although Ubuntu can be freely downloaded from the Internet, you can also request a free-of-charge mail delivery of the Ubuntu CD. This is especially useful if you have slow Internet connection, as downloading the OS can take a while. Delivery may take up to 10 weeks."
-msgstr "Shipit 是申请 Ubuntu CD 的网站。虽然任何人都可以从互联网自由下载 Ubuntu，我们依然乐于为那些下载或刻录光盘有困难的新用户免费寄送 Ubuntu CD。相比下载花费的几十分钟到数小时的时间，光盘寄送可能需要 10 个星期才能抵达。"
+#: chapter9/xinclude.xml:823(para)
+msgid ""
+"Shipit is an application you can use to request the delivery of Ubuntu CDs. "
+"Although Ubuntu can be freely downloaded from the Internet, you can also "
+"request a free-of-charge mail delivery of the Ubuntu CD. This is especially "
+"useful if you have slow Internet connection, as downloading the OS can take "
+"a while. Delivery may take up to 10 weeks."
+msgstr ""
+"Shipit 是申请 Ubuntu CD 的网站。虽然任何人都可以从互联网自由下载 Ubuntu，我们"
+"依然乐于为那些下载或刻录光盘有困难的新用户免费寄送 Ubuntu CD。相比下载花费的"
+"几十分钟到数小时的时间，光盘寄送可能需要 10 个星期才能抵达。"
 
-#: chapter9/xinclude.xml:840(para)
+#: chapter9/xinclude.xml:830(para)
 msgid "The following screenshot displays the Shipit site:"
 msgstr "以下是 Shipit 站点的截图："
 
-#: chapter9/xinclude.xml:843(title)
+#: chapter9/xinclude.xml:833(title)
 msgid "The Shipit Page"
 msgstr "Shipit"
 
-#: chapter9/xinclude.xml:855(para)
-msgid "Visit Shipit at <ulink url=\"http://Shipit.ubuntu.com\">http://Shipit.ubuntu.com</ulink>."
-msgstr "访问 Shipit：<ulink url=\"http://shipit.ubuntu.com\">http://shipit.ubuntu.com</ulink>"
+#: chapter9/xinclude.xml:845(para)
+msgid ""
+"Visit Shipit at <ulink url=\"http://Shipit.ubuntu.com\">http://Shipit.ubuntu."
+"com</ulink>."
+msgstr ""
+"访问 Shipit：<ulink url=\"http://shipit.ubuntu.com\">http://shipit.ubuntu."
+"com</ulink>"
 
-#: chapter9/xinclude.xml:861(title)
-#: chapter9/xinclude.xml:879(title)
+#: chapter9/xinclude.xml:851(title) chapter9/xinclude.xml:869(title)
 msgid "The Fridge"
 msgstr "Fridge 新闻站"
 
+#: chapter9/xinclude.xml:853(para)
+msgid ""
+"The Fridge is an information hub for the Ubuntu community, bringing together "
+"news, grassroots marketing, advocacy, team collaboration and great original "
+"content. Just like the family fridge at home, this is where the Ubuntu "
+"family can exhibit its best work for everyone to see, along with the "
+"requisite jokes, reminders, invitations, news clippings and photos."
+msgstr ""
+"Fridge 新闻站是 Ubuntu 社区的信息中心，同时提供了新闻、基层营销、宣传、团队协"
+"作和许多原创内容。它就像您家中的冰箱，这是 Ubuntu 大家庭中展示作品给其他人的"
+"场所，其中还必不可少地包含了各种提醒、邀请、新闻剪辑、照片和很多有趣的故事。"
+
 #: chapter9/xinclude.xml:863(para)
-msgid "The Fridge is an information hub for the Ubuntu community, bringing together news, grassroots marketing, advocacy, team collaboration and great original content. Just like the family fridge at home, this is where the Ubuntu family can exhibit its best work for everyone to see, along with the requisite jokes, reminders, invitations, news clippings and photos."
-msgstr "Fridge 新闻站是 Ubuntu 社区的信息中心，同时提供了新闻、基层营销、宣传、团队协作和许多原创内容。它就像您家中的冰箱，这是 Ubuntu 大家庭中展示作品给其他人的场所，其中还必不可少地包含了各种提醒、邀请、新闻剪辑、照片和很多有趣的故事。"
+msgid ""
+"Visit The Fridge at <ulink url=\"http://fridge.ubuntu.com/\">http://fridge."
+"ubuntu.com/</ulink>."
+msgstr ""
+"访问 Fridge 新闻站： <ulink url=\"http://fridge.ubuntu.com/\">http://fridge."
+"ubuntu.com/</ulink>"
 
-#: chapter9/xinclude.xml:873(para)
-msgid "Visit The Fridge at <ulink url=\"http://fridge.ubuntu.com/\">http://fridge.ubuntu.com/</ulink>."
-msgstr "访问 Fridge 新闻站： <ulink url=\"http://fridge.ubuntu.com/\">http://fridge.ubuntu.com/</ulink>"
-
-#: chapter9/xinclude.xml:876(para)
+#: chapter9/xinclude.xml:866(para)
 msgid "The following is a screenshot of The Fridge home page:"
 msgstr "以下是 Fridge 新闻站的首页截图："
 
-#: chapter9/xinclude.xml:890(title)
+#: chapter9/xinclude.xml:880(title)
 msgid "Paid For Commercial Services"
 msgstr "购买商业服务"
 
-#: chapter9/xinclude.xml:892(para)
-msgid "Canonical provides professional support across the globe. You can purchase this support by contacting the Global Support Services team on the Ubuntu Web site at <ulink url=\"http://www.ubuntu.com/support/paid\">http://www.ubuntu.com/support/paid</ulink>. Professional support services can also be obtained through the network of companies and partners listed in the Canonical Marketplace."
-msgstr "Canonical 提供全球商业支持。您可以在 <ulink url=\"http://www.ubuntu.com/support/paid\">http://www.ubuntu.com/support/paid</ulink> 联系全球支持服务团队订购支持，也可以在 Canonical 市场寻找 Canonical 合作伙伴提供的专业支持服务。"
+#: chapter9/xinclude.xml:882(para)
+msgid ""
+"Canonical provides professional support across the globe. You can purchase "
+"this support by contacting the Global Support Services team on the Ubuntu "
+"Web site at <ulink url=\"http://www.ubuntu.com/support/paid\">http://www."
+"ubuntu.com/support/paid</ulink>. Professional support services can also be "
+"obtained through the network of companies and partners listed in the "
+"Canonical Marketplace."
+msgstr ""
+"Canonical 提供全球商业支持。您可以在 <ulink url=\"http://www.ubuntu.com/"
+"support/paid\">http://www.ubuntu.com/support/paid</ulink> 联系全球支持服务团"
+"队订购支持，也可以在 Canonical 市场寻找 Canonical 合作伙伴提供的专业支持服"
+"务。"
 
-#: chapter9/xinclude.xml:899(title)
+#: chapter9/xinclude.xml:889(title)
 msgid "Professional Support Services from Canonical"
 msgstr "Canonical 提供的专业支持服务"
 
-#: chapter9/xinclude.xml:901(para)
-msgid "Canonical Global Support Services are deployed to enable 24x7 assistance to customers. The Global Support Services team utilises its vast experience and knowledge base to identify the challenges that customers may face when installing and maintaining new platforms and applications. From optimising your small office set-up to providing guidance on very large deployments, the Global Support Services team is always ready to help you get the most out of Ubuntu."
-msgstr "Canonical 全球支持服务为客户提供 7x24 小时服务。全球支持服务团队以其丰富的经验和知识帮助用户安装和维护全新的平台和应用程序。小至优化桌面程序，大到为大型应用提供支持，全球支持服务团队随时都可以为您解决使用 Ubuntu 过程中遇到的问题。"
+#: chapter9/xinclude.xml:891(para)
+msgid ""
+"Canonical Global Support Services are deployed to enable 24x7 assistance to "
+"customers. The Global Support Services team utilises its vast experience and "
+"knowledge base to identify the challenges that customers may face when "
+"installing and maintaining new platforms and applications. From optimising "
+"your small office set-up to providing guidance on very large deployments, "
+"the Global Support Services team is always ready to help you get the most "
+"out of Ubuntu."
+msgstr ""
+"Canonical 全球支持服务为客户提供 7x24 小时服务。全球支持服务团队以其丰富的经"
+"验和知识帮助用户安装和维护全新的平台和应用程序。小至优化桌面程序，大到为大型"
+"应用提供支持，全球支持服务团队随时都可以为您解决使用 Ubuntu 过程中遇到的问"
+"题。"
 
-#: chapter9/xinclude.xml:909(para)
-msgid "Support is provided for desktops, servers and thin client servers, and clusters. The following screenshot shows the various types of support services offered:"
-msgstr "您可以获得对桌面系统、服务器以及瘦客户端和集群服务的支持。以下是提供的多种支持服务列表的截图："
+#: chapter9/xinclude.xml:899(para)
+msgid ""
+"Support is provided for desktops, servers and thin client servers, and "
+"clusters. The following screenshot shows the various types of support "
+"services offered:"
+msgstr ""
+"您可以获得对桌面系统、服务器以及瘦客户端和集群服务的支持。以下是提供的多种支"
+"持服务列表的截图："
 
-#: chapter9/xinclude.xml:914(title)
+#: chapter9/xinclude.xml:904(title)
 msgid "The Various Type of Support Page"
 msgstr "多种支持类型"
 
-#: chapter9/xinclude.xml:923(para)
-msgid "To purchase commercial support, click the <emphasis role=\"strong\">contact us</emphasis> link available at the bottom of the <emphasis role=\"strong\">Canonical Global Support Services</emphasis> page. This takes you to the <emphasis role=\"strong\">About us</emphasis> page. You can fill the form provided on this page to request more information about Canonical Global Support Services. Alternatively, you may click the <emphasis role=\"strong\">Purchase Support</emphasis> button present in the left <emphasis role=\"strong\">Navigation</emphasis> pane. If you are a company employee, ask your I.S. team for details of your support options as this will vary from company to company."
-msgstr "要购买商业支持，请点击 <emphasis role=\"strong\">Canonical Global Support Services</emphasis> 页面下方的 <emphasis role=\"strong\">Contact us</emphasis>。您可以填写表单要求获得更多关于 Canonical 全球支持服务的信息，或者点击 <emphasis role=\"strong\">Purchase Support</emphasis> 购买。如果您是一家公司的雇员，请先询问系统管理人员以了解需要的支持选项，不同的公司通常需要不同的服务。"
+#: chapter9/xinclude.xml:913(para)
+msgid ""
+"To purchase commercial support, click the <emphasis role=\"strong\">contact "
+"us</emphasis> link available at the bottom of the <emphasis role=\"strong"
+"\">Canonical Global Support Services</emphasis> page. This takes you to the "
+"<emphasis role=\"strong\">About us</emphasis> page. You can fill the form "
+"provided on this page to request more information about Canonical Global "
+"Support Services. Alternatively, you may click the <emphasis role=\"strong"
+"\">Purchase Support</emphasis> button present in the left <emphasis role="
+"\"strong\">Navigation</emphasis> pane. If you are a company employee, ask "
+"your I.S. team for details of your support options as this will vary from "
+"company to company."
+msgstr ""
+"要购买商业支持，请点击 <emphasis role=\"strong\">Canonical Global Support "
+"Services</emphasis> 页面下方的 <emphasis role=\"strong\">Contact us</"
+"emphasis>。您可以填写表单要求获得更多关于 Canonical 全球支持服务的信息，或者"
+"点击 <emphasis role=\"strong\">Purchase Support</emphasis> 购买。如果您是一家"
+"公司的雇员，请先询问系统管理人员以了解需要的支持选项，不同的公司通常需要不同"
+"的服务。"
 
-#: chapter9/xinclude.xml:934(title)
+#: chapter9/xinclude.xml:924(title)
 msgid "About Us Page"
 msgstr "关于我们"
 
-#: chapter9/xinclude.xml:943(para)
-msgid "After you purchase the support, you will receive a confirmation e-mail message containing your support ID number. You will also receive a phone call welcoming you to the service."
-msgstr "当您完成付费后会收到一封确认电子邮件，其中包含了您的支持 ID 编号。您还会接到一个电话确认您已知道订购成功。"
+#: chapter9/xinclude.xml:933(para)
+msgid ""
+"After you purchase the support, you will receive a confirmation e-mail "
+"message containing your support ID number. You will also receive a phone "
+"call welcoming you to the service."
+msgstr ""
+"当您完成付费后会收到一封确认电子邮件，其中包含了您的支持 ID 编号。您还会接到"
+"一个电话确认您已知道订购成功。"
 
-#: chapter9/xinclude.xml:949(title)
-#: chapter9/xinclude.xml:958(title)
+#: chapter9/xinclude.xml:939(title) chapter9/xinclude.xml:948(title)
 msgid "The Canonical Marketplace"
 msgstr "Canonical 市场"
 
-#: chapter9/xinclude.xml:951(para)
-msgid "The Canonical Marketplace lists a number of companies and partners located in various regions of the world which provide local support for desktops and servers running Ubuntu."
-msgstr "Canonical 市场列出了能为 Ubuntu 桌面和服务器系统提供本地支持的 Canonical 合作伙伴。"
+#: chapter9/xinclude.xml:941(para)
+msgid ""
+"The Canonical Marketplace lists a number of companies and partners located "
+"in various regions of the world which provide local support for desktops and "
+"servers running Ubuntu."
+msgstr ""
+"Canonical 市场列出了能为 Ubuntu 桌面和服务器系统提供本地支持的 Canonical 合作"
+"伙伴。"
 
-#: chapter9/xinclude.xml:955(para)
-msgid "The following screenshot displays the <emphasis role=\"strong\">Marketplace</emphasis> page on the Ubuntu Web site:"
-msgstr "以下是 <emphasis role=\"strong\">Canonical Marketplace</emphasis> 页面的截图："
+#: chapter9/xinclude.xml:945(para)
+msgid ""
+"The following screenshot displays the <emphasis role=\"strong\">Marketplace</"
+"emphasis> page on the Ubuntu Web site:"
+msgstr ""
+"以下是 <emphasis role=\"strong\">Canonical Marketplace</emphasis> 页面的截"
+"图："
 
-#: chapter9/xinclude.xml:970(para)
-msgid "To find support and solutions from local providers, visit <ulink url=\"http://www.ubuntu.com/support/commercial/marketplace\">http://www.ubuntu.com/support/commercial/marketplace</ulink>."
-msgstr "要寻找更多来自本地供应商的支持，请访问 <ulink url=\"http://www.ubuntu.com/support/commercial/marketplace\">http://www.ubuntu.com/support/commercial/marketplace</ulink>"
+#: chapter9/xinclude.xml:960(para)
+msgid ""
+"To find support and solutions from local providers, visit <ulink url="
+"\"http://www.ubuntu.com/support/commercial/marketplace\">http://www.ubuntu."
+"com/support/commercial/marketplace</ulink>."
+msgstr ""
+"要寻找更多来自本地供应商的支持，请访问 <ulink url=\"http://www.ubuntu.com/"
+"support/commercial/marketplace\">http://www.ubuntu.com/support/commercial/"
+"marketplace</ulink>"
 
-#: chapter9/xinclude.xml:973(para)
-msgid "Selecting your region from the list provided will lead you to a comprehensive list of all the Local Support Service providers in that region. The following screenshot displays a list of all the Local Support Services providers existing in Africa:"
-msgstr "选择您的地区后您将被带往一个列出所有本地支持服务提供商的列表，以下是所有位于亚洲的本地支持服务提供商列表的截图："
+#: chapter9/xinclude.xml:963(para)
+msgid ""
+"Selecting your region from the list provided will lead you to a "
+"comprehensive list of all the Local Support Service providers in that "
+"region. The following screenshot displays a list of all the Local Support "
+"Services providers existing in Africa:"
+msgstr ""
+"选择您的地区后您将被带往一个列出所有本地支持服务提供商的列表，以下是所有位于"
+"亚洲的本地支持服务提供商列表的截图："
 
-#: chapter9/xinclude.xml:979(title)
+#: chapter9/xinclude.xml:969(title)
 msgid "Local Support Services Page"
 msgstr "本地支持服务"
 
-#: chapter9/xinclude.xml:991(para)
-msgid "If your company is providing Ubuntu-related services then you too have the option of being listed in the Canonical Marketplace as a Local Services Provider. To do this simply click the <emphasis role=\"strong\">send us your information</emphasis> link at the bottom of the <emphasis role=\"strong\">Marketplace</emphasis> page."
-msgstr "如果您的公司正提供 Ubuntu 相关的支持服务，您可以选择使您的公司被列于 Canonical 市场之中。您只需点击 <emphasis role=\"strong\">Canonical 市场</emphasis> 页下方的 <emphasis role=\"strong\">send us your information</emphasis> 链接即可。"
+#: chapter9/xinclude.xml:981(para)
+msgid ""
+"If your company is providing Ubuntu-related services then you too have the "
+"option of being listed in the Canonical Marketplace as a Local Services "
+"Provider. To do this simply click the <emphasis role=\"strong\">send us your "
+"information</emphasis> link at the bottom of the <emphasis role=\"strong"
+"\">Marketplace</emphasis> page."
+msgstr ""
+"如果您的公司正提供 Ubuntu 相关的支持服务，您可以选择使您的公司被列于 "
+"Canonical 市场之中。您只需点击 <emphasis role=\"strong\">Canonical 市场</"
+"emphasis> 页下方的 <emphasis role=\"strong\">send us your information</"
+"emphasis> 链接即可。"
 
-#: chapter9/xinclude.xml:1000(title)
+#: chapter9/xinclude.xml:990(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter9/xinclude.xml:1002(para)
+#: chapter9/xinclude.xml:992(para)
 msgid "In this lesson, you learned:"
 msgstr "在本课中，您已经学习了："
 
-#: chapter9/xinclude.xml:1006(para)
-msgid "The various sources where you can find both free and paid for support on Ubuntu - system and online documentation, commercial support, community support, Launchpad and The Fridge."
-msgstr "您可以获得关于 Ubuntu 的帮助的各种资源 - 系统和在线文档、社区支持、Launchpad、Fridge 新闻站和商业支持。"
+#: chapter9/xinclude.xml:996(para)
+msgid ""
+"The various sources where you can find both free and paid for support on "
+"Ubuntu - system and online documentation, commercial support, community "
+"support, Launchpad and The Fridge."
+msgstr ""
+"您可以获得关于 Ubuntu 的帮助的各种资源 - 系统和在线文档、社区支持、"
+"Launchpad、Fridge 新闻站和商业支持。"
 
-#: chapter9/xinclude.xml:1012(para)
-msgid "System and Online documentation provide the primary source of help and contains both official and community documentation."
+#: chapter9/xinclude.xml:1002(para)
+msgid ""
+"System and Online documentation provide the primary source of help and "
+"contains both official and community documentation."
 msgstr "系统和在线文档是最基本的帮助信息来源，它们包含了官方文档和社区文档。"
 
-#: chapter9/xinclude.xml:1017(para)
-msgid "The Ubuntu community also provides vital support through mailing lists, Web forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
-msgstr "Ubuntu 社区还通过邮件列表、网络论坛、IRC 频道、本地社区团队和 Wiki 提供重要的支持。"
+#: chapter9/xinclude.xml:1007(para)
+msgid ""
+"The Ubuntu community also provides vital support through mailing lists, Web "
+"forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
+msgstr ""
+"Ubuntu 社区还通过邮件列表、网络论坛、IRC 频道、本地社区团队和 Wiki 提供重要的"
+"支持。"
 
-#: chapter9/xinclude.xml:1023(para)
-msgid "You can use Launchpad to perform tasks such as searching Ubuntu related information, tracking bugs in Ubuntu and placing orders for Ubuntu CDs."
-msgstr "您可以使用 Launchpad 搜索 Ubuntu 相关的信息，初步掌握缺陷报告的方法，并且了解如何申请 Ubuntu CD。"
+#: chapter9/xinclude.xml:1013(para)
+msgid ""
+"You can use Launchpad to perform tasks such as searching Ubuntu related "
+"information, tracking bugs in Ubuntu and placing orders for Ubuntu CDs."
+msgstr ""
+"您可以使用 Launchpad 搜索 Ubuntu 相关的信息，初步掌握缺陷报告的方法，并且了解"
+"如何申请 Ubuntu CD。"
 
-#: chapter9/xinclude.xml:1029(para)
-msgid "The Fridge is an information hub for the Ubuntu community, bringing together news, grassroots marketing, advocacy, team collaboration and great original content."
-msgstr "Fridge 新闻站是 Ubuntu 社区重要的新闻汇聚地，它囊括了新闻、基层营销、宣传推广、团队合作和很多原创内容。"
+#: chapter9/xinclude.xml:1019(para)
+msgid ""
+"The Fridge is an information hub for the Ubuntu community, bringing together "
+"news, grassroots marketing, advocacy, team collaboration and great original "
+"content."
+msgstr ""
+"Fridge 新闻站是 Ubuntu 社区重要的新闻汇聚地，它囊括了新闻、基层营销、宣传推"
+"广、团队合作和很多原创内容。"
 
-#: chapter9/xinclude.xml:1035(para)
-msgid "Canonical provides professional support across the globe, which you can purchase by contacting the Global Support Services team."
-msgstr "Canonical 提供全球专业支持，您可以通过与全球支持服务团队联系以进行购买。"
+#: chapter9/xinclude.xml:1025(para)
+msgid ""
+"Canonical provides professional support across the globe, which you can "
+"purchase by contacting the Global Support Services team."
+msgstr ""
+"Canonical 提供全球专业支持，您可以通过与全球支持服务团队联系以进行购买。"
 
-#: chapter9/xinclude.xml:1041(para)
-msgid "Professional support services can also be obtained through the companies and partners listed in the Canonical Marketplace."
+#: chapter9/xinclude.xml:1031(para)
+msgid ""
+"Professional support services can also be obtained through the companies and "
+"partners listed in the Canonical Marketplace."
 msgstr "您还可以通过 Canonical 市场所列出的公司获得专业支持。"
 
-#: chapter9/xinclude.xml:1048(title)
+#: chapter9/xinclude.xml:1038(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter9/xinclude.xml:1053(para)
+#: chapter9/xinclude.xml:1043(para)
 msgid "Name the major sources of help and support for Ubuntu."
 msgstr "Ubuntu 的主要帮助和支持资源的名称各是哪些？"
 
-#: chapter9/xinclude.xml:1057(para)
-msgid "The major sources of help and support for Ubuntu are system and online documentation, commercial support, community support, Launchpad and the Fridge."
-msgstr "Ubuntu 的主要帮助和支持资源有系统和在线文档、社区支持、商业支持、Launchpad 和 Fridge 新闻站。"
+#: chapter9/xinclude.xml:1047(para)
+msgid ""
+"The major sources of help and support for Ubuntu are system and online "
+"documentation, commercial support, community support, Launchpad and the "
+"Fridge."
+msgstr ""
+"Ubuntu 的主要帮助和支持资源有系统和在线文档、社区支持、商业支持、Launchpad "
+"和 Fridge 新闻站。"
 
-#: chapter9/xinclude.xml:1065(para)
-msgid "What types of documentation is available on the documentation site of Ubuntu?"
+#: chapter9/xinclude.xml:1055(para)
+msgid ""
+"What types of documentation is available on the documentation site of Ubuntu?"
 msgstr "Ubuntu 文档网站上有哪些类型的文档？"
 
-#: chapter9/xinclude.xml:1070(para)
-msgid "Four types of documentations are available on the Ubuntu documentation site. These are the Ubuntu official documentation, community documentation, common questions and Ubuntu screencasts."
-msgstr "Ubuntu 文档网站上共有四种类型的文档，它们分别是：Ubuntu 官方文档、社区文档、常见问题和 Ubuntu 屏幕录像。"
+#: chapter9/xinclude.xml:1060(para)
+msgid ""
+"Four types of documentations are available on the Ubuntu documentation site. "
+"These are the Ubuntu official documentation, community documentation, common "
+"questions and Ubuntu screencasts."
+msgstr ""
+"Ubuntu 文档网站上共有四种类型的文档，它们分别是：Ubuntu 官方文档、社区文档、"
+"常见问题和 Ubuntu 屏幕录像。"
 
-#: chapter9/xinclude.xml:1079(para)
+#: chapter9/xinclude.xml:1069(para)
 msgid "What are the options for obtaining commercial support for Ubuntu?"
 msgstr "要获得 Ubuntu 的商业支持有哪些选择？"
 
-#: chapter9/xinclude.xml:1084(para)
-msgid "The options for obtaining commercial support are either by getting the support directly from Canonical through their Global Support Services team or through the network of companies and partners that are listed in the Canonical Marketplace."
-msgstr "可以通过 Canonical 全球支持服务小组或其他在 Canonical 市场列出的合作伙伴获得商业支持。"
+#: chapter9/xinclude.xml:1074(para)
+msgid ""
+"The options for obtaining commercial support are either by getting the "
+"support directly from Canonical through their Global Support Services team "
+"or through the network of companies and partners that are listed in the "
+"Canonical Marketplace."
+msgstr ""
+"可以通过 Canonical 全球支持服务小组或其他在 Canonical 市场列出的合作伙伴获得"
+"商业支持。"
 
-#: chapter9/xinclude.xml:1093(para)
-msgid "What are the different platforms through which the Ubuntu community extends its help and support?"
+#: chapter9/xinclude.xml:1083(para)
+msgid ""
+"What are the different platforms through which the Ubuntu community extends "
+"its help and support?"
 msgstr "Ubuntu 社区通过哪些平台来扩展其帮助和支持？"
 
-#: chapter9/xinclude.xml:1098(para)
-msgid "The different platforms through which the Ubuntu community extends its help and support are:"
+#: chapter9/xinclude.xml:1088(para)
+msgid ""
+"The different platforms through which the Ubuntu community extends its help "
+"and support are:"
 msgstr "Ubuntu 社区通过以下平台扩展其帮助和支持："
 
-#: chapter9/xinclude.xml:1107(para)
+#: chapter9/xinclude.xml:1097(para)
 msgid "Web forums"
 msgstr "网络论坛"
 
-#: chapter9/xinclude.xml:1111(para)
+#: chapter9/xinclude.xml:1101(para)
 msgid "IRC channels"
 msgstr "IRC 频道"
 
-#: chapter9/xinclude.xml:1115(para)
+#: chapter9/xinclude.xml:1105(para)
 msgid "LoCo teams"
 msgstr "本地社区团队"
 
-#: chapter9/xinclude.xml:1119(para)
+#: chapter9/xinclude.xml:1109(para)
 msgid "The Ubuntu wiki"
 msgstr "Ubuntu Wiki"
 
-#: chapter9/xinclude.xml:1127(para)
+#: chapter9/xinclude.xml:1117(para)
 msgid "What are IRC channels?"
 msgstr "什么是 IRC 频道？"
 
-#: chapter9/xinclude.xml:1131(para)
-msgid "IRC channels are a form of real-time Internet chat that allows users to talk directly to one another."
-msgstr "IRC 频道是一种即时互联网聊天工具，它使不同的人可以直接、即时地进行交流。"
+#: chapter9/xinclude.xml:1121(para)
+msgid ""
+"IRC channels are a form of real-time Internet chat that allows users to talk "
+"directly to one another."
+msgstr ""
+"IRC 频道是一种即时互联网聊天工具，它使不同的人可以直接、即时地进行交流。"
 
-#: chapter9/xinclude.xml:1138(para)
+#: chapter9/xinclude.xml:1128(para)
 msgid "What help and support do the LoCo teams provide to Ubuntu users?"
 msgstr "本地社区团队为 Ubuntu 用户提供哪些帮助和支持？"
 
-#: chapter9/xinclude.xml:1143(para)
-msgid "The LoCo teams are primarily involved in providing free local support, such as one-on-one troubleshooting, group sessions and presentations about Ubuntu. Simultaneously, these teams are actively engaged in providing non-English support to the Ubuntu users."
-msgstr "本地社区团队主要提供免费的本地支持，例如一对一的问题处理、进行关于 Ubuntu 的演讲和聚会。同时，这些团队都积极地参与对非英语用户提供支持。"
+#: chapter9/xinclude.xml:1133(para)
+msgid ""
+"The LoCo teams are primarily involved in providing free local support, such "
+"as one-on-one troubleshooting, group sessions and presentations about "
+"Ubuntu. Simultaneously, these teams are actively engaged in providing non-"
+"English support to the Ubuntu users."
+msgstr ""
+"本地社区团队主要提供免费的本地支持，例如一对一的问题处理、进行关于 Ubuntu 的"
+"演讲和聚会。同时，这些团队都积极地参与对非英语用户提供支持。"
 
-#: chapter9/xinclude.xml:1152(para)
+#: chapter9/xinclude.xml:1142(para)
 msgid "What is Launchpad?"
 msgstr "什么是 Launchpad？"
 
-#: chapter9/xinclude.xml:1156(para)
-msgid "Launchpad is a Web-based suite that helps people develop free and open source software. It is a collaborative system developed by Canonical and is primarily used to track many aspects of open source development."
-msgstr "Launchpad 是一个基于 Web 界面的自由软件开发工具套件，由 Canonical 开发并以为开源软件开放提供多项跟踪服务为基本目标。"
+#: chapter9/xinclude.xml:1146(para)
+msgid ""
+"Launchpad is a Web-based suite that helps people develop free and open "
+"source software. It is a collaborative system developed by Canonical and is "
+"primarily used to track many aspects of open source development."
+msgstr ""
+"Launchpad 是一个基于 Web 界面的自由软件开发工具套件，由 Canonical 开发并以为"
+"开源软件开放提供多项跟踪服务为基本目标。"
 
-#: chapter9/xinclude.xml:1165(para)
+#: chapter9/xinclude.xml:1155(para)
 msgid "What is the name of the bug-tracking tool available with Launchpad?"
 msgstr "Launchpad 提供的缺陷跟踪工具的名字是什么？"
 
-#: chapter9/xinclude.xml:1170(para)
+#: chapter9/xinclude.xml:1160(para)
 msgid "Malone is the bug-tracking tool available with Launchpad."
 msgstr "Malone 是 Launchpad 所提供的缺陷跟踪工具。"
 
@@ -996,9 +1758,18 @@ msgstr ""
 "  wzssyqa https://launchpad.net/~wzssyqa"
 
 #~ msgid ""
+#~ "@@image: 'images/Lesson10_images_014.png'; "
+#~ "md5=576fd5224bd2af6fd60110056c47846a"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_014.png'; "
+#~ "md5=576fd5224bd2af6fd60110056c47846a"
+
+#~ msgid "Ubuntu Forum Rules Page"
+#~ msgstr "Ubuntu 论坛守则"
+
+#~ msgid ""
 #~ "@@image: 'images/Lesson10_images_017.png'; "
 #~ "md5=967f8515f6267d3893957f7ece56f95a"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson10_images_017.png'; "
 #~ "md5=967f8515f6267d3893957f7ece56f95a"
-

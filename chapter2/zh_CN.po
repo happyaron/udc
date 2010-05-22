@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course exploring-the-ubuntu-desktop\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-01-07 14:56+0800\n"
+"POT-Creation-Date: 2010-05-22 16:22+0800\n"
 "PO-Revision-Date: 2010-05-19 19:37+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -308,7 +308,18 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:688(None)
+#: chapter2/xinclude.xml:681(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson03_images_039.png'; "
+"md5=4ef58140609e512aa37489bfdb594c2b"
+msgstr ""
+"@@image: 'images/Lesson03_images_030.png'; "
+"md5=4ef58140609e512aa37489bfdb594c2b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter2/xinclude.xml:698(None)
 msgid ""
 "@@image: 'images/Lesson03_images_031.png'; "
 "md5=e4d913cb1b0557f4baef9267ab3b3cab"
@@ -318,7 +329,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:704(None)
+#: chapter2/xinclude.xml:714(None)
 msgid ""
 "@@image: 'images/Lesson03_images_032.png'; "
 "md5=c0409804a1fc8a9bcdd9009f34649cc0"
@@ -328,7 +339,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:756(None)
+#: chapter2/xinclude.xml:766(None)
 msgid ""
 "@@image: 'images/Lesson03_images_033.png'; "
 "md5=26ad6647d0dd3c6e7c18b46f8955983f"
@@ -338,7 +349,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:768(None)
+#: chapter2/xinclude.xml:778(None)
 msgid ""
 "@@image: 'images/Lesson03_images_034.png'; "
 "md5=626428fbcea23e5c0ac7eb6b3c3d5b55"
@@ -348,7 +359,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:814(None)
+#: chapter2/xinclude.xml:824(None)
 msgid ""
 "@@image: 'images/Lesson03_images_035.png'; "
 "md5=c6e6c9ffef9c99ddef5430bd4dc4de2d"
@@ -358,7 +369,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter2/xinclude.xml:831(None)
+#: chapter2/xinclude.xml:841(None)
 msgid ""
 "@@image: 'images/Lesson03_images_036.png'; "
 "md5=5979adf62f7ef6352f97c8f3449bc630"
@@ -400,7 +411,7 @@ msgstr "如何启用 3D 桌面效果"
 
 #: chapter2/xinclude.xml:33(title) chapter2/xinclude.xml:50(title)
 #: chapter2/xinclude.xml:78(title) chapter2/xinclude.xml:586(title)
-#: chapter2/xinclude.xml:723(title) chapter2/xinclude.xml:783(title)
+#: chapter2/xinclude.xml:733(title) chapter2/xinclude.xml:793(title)
 msgid "Instructor Notes:"
 msgstr "教员注记："
 
@@ -448,11 +459,11 @@ msgid ""
 msgstr ""
 "GNOME 是 Ubuntu 的默认桌面环境。 GNOME (GNU 网络对象模型环境，GNU Network "
 "Object Model Environment)是一个国际性的项目，为开发完整的，由自由软件组成的桌"
-"面环境而努力。桌面环境，即图形用户界面，是计算机系统中最外层的软件。GNOME 项目的目标"
-"包括创建软件开发框架，选择桌面应用程序，编写负责引导应用软件的程序，文件句"
-"柄，窗口和任务管理器等。来自世界各地的社区成员将 GNOME 翻译到各种语言中，让使"
-"用不同的语言的人们都能享用 GNOME。(参考：<ulink url=\"http://en.wikipedia."
-"org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME</ulink>)"
+"面环境而努力。桌面环境，即图形用户界面，是计算机系统中最外层的软件。GNOME 项"
+"目的目标包括创建软件开发框架，选择桌面应用程序，编写负责引导应用软件的程序，"
+"文件句柄，窗口和任务管理器等。来自世界各地的社区成员将 GNOME 翻译到各种语言"
+"中，让使用不同的语言的人们都能享用 GNOME。(参考：<ulink url=\"http://en."
+"wikipedia.org/wiki/GNOME\">http://en.wikipedia.org/wiki/GNOME</ulink>)"
 
 #: chapter2/xinclude.xml:69(title)
 msgid "Key Desktop Components on Ubuntu"
@@ -661,8 +672,8 @@ msgid ""
 "user of your computer. You can click the icon to view other users on the "
 "computer and switch to another user."
 msgstr ""
-"顶部面板的最右端的显示当前用户名的图标兼有关机、注销、登录、待机、重启等多"
-"种功能，快速用户切换选项也在这里面。"
+"顶部面板的最右端的显示当前用户名的图标兼有关机、注销、登录、待机、重启等多种"
+"功能，快速用户切换选项也在这里面。"
 
 #: chapter2/xinclude.xml:306(para)
 msgid ""
@@ -882,7 +893,8 @@ msgid ""
 msgstr ""
 "在 <emphasis role=\"strong\">系统</emphasis> 菜单中，用鼠标指向 <emphasis "
 "role=\"strong\">系统管理</emphasis>，单击 <emphasis role=\"strong\">语言支持"
-"</emphasis>。程序会自动检测语言支持完整性，若安装不完整或已安装的语言包有更新，程序会提示安装它们。"
+"</emphasis>。程序会自动检测语言支持完整性，若安装不完整或已安装的语言包有更"
+"新，程序会提示安装它们。"
 
 #: chapter2/xinclude.xml:510(title)
 msgid "Configuring Language Support"
@@ -932,10 +944,9 @@ msgid ""
 "Select the language that you want set as default, and click <emphasis role="
 "\"strong\">OK</emphasis>."
 msgstr ""
-"分别在 <emphasis role=\"strong\">语言</emphasis> 和 "
-"<emphasis role=\"strong\">文本</emphasis> 标签中为当前用"
-"户和登录界面选择语言，若要应用到整个系统，则点击 "
-"<emphasis role=\"strong\">应用到整个系统</emphasis>。"
+"分别在 <emphasis role=\"strong\">语言</emphasis> 和 <emphasis role=\"strong"
+"\">文本</emphasis> 标签中为当前用户和登录界面选择语言，若要应用到整个系统，则"
+"点击 <emphasis role=\"strong\">应用到整个系统</emphasis>。"
 
 #: chapter2/xinclude.xml:567(para)
 msgid "For the changes to take effect, log off and then log on again."
@@ -1010,8 +1021,8 @@ msgid ""
 "emphasis> dialogue box opens."
 msgstr ""
 "<emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
-"\"strong\">添加</emphasis>，系统将提示输入用户密码，验证成功后才能进"
-"行下一步操作。"
+"\"strong\">添加</emphasis>，系统将提示输入用户密码，验证成功后才能进行下一步"
+"操作。"
 
 #: chapter2/xinclude.xml:628(title)
 msgid "Adding a User"
@@ -1036,7 +1047,8 @@ msgstr "在 <emphasis role=\"strong\">名称</emphasis> 框中输入用户的全
 msgid ""
 "Type your full name in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
-msgstr "在 <emphasis role=\"strong\">短名称</emphasis> 框里输入想要的登录帐号名。"
+msgstr ""
+"在 <emphasis role=\"strong\">短名称</emphasis> 框里输入想要的登录帐号名。"
 
 #: chapter2/xinclude.xml:655(para)
 msgid ""
@@ -1051,11 +1063,11 @@ msgid ""
 "Type the password for your user account in the <emphasis role=\"strong"
 "\">User password</emphasis> box."
 msgstr ""
-"在 <emphasis role=\"strong\">更改用户口令</emphasis> 对话框中"
-"的 <emphasis role=\"strong\">新密码</emphasis> 和 <emphasis role=\"strong"
-"\">确认</emphasis> 框中两次输入新用户账户的密码。"
+"在 <emphasis role=\"strong\">更改用户口令</emphasis> 对话框中的 <emphasis "
+"role=\"strong\">新密码</emphasis> 和 <emphasis role=\"strong\">确认</"
+"emphasis> 框中两次输入新用户账户的密码。"
 
-#: chapter2/xinclude.xml:663(para) chapter2/xinclude.xml:964(para)
+#: chapter2/xinclude.xml:663(para) chapter2/xinclude.xml:974(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis> to save the settings."
 msgstr "单击 <emphasis role=\"strong\">确定</emphasis> 保存设置。"
 
@@ -1063,10 +1075,11 @@ msgstr "单击 <emphasis role=\"strong\">确定</emphasis> 保存设置。"
 msgid "Configuring New User Account"
 msgstr "配置新用户账户"
 
+#: chapter2/xinclude.xml:677(title)
 msgid "User Password"
 msgstr "更改用户密码"
 
-#: chapter2/xinclude.xml:678(para)
+#: chapter2/xinclude.xml:688(para)
 msgid ""
 "A new user account will be displayed in the User settings dialogue box. This "
 "dialogue box displays the new user's full name and login name. It also tells "
@@ -1074,21 +1087,21 @@ msgid ""
 msgstr ""
 "用户设置对话框中就会显示出这个新用户账户了，包括他的全名、登录名和主目录。"
 
-#: chapter2/xinclude.xml:684(title)
+#: chapter2/xinclude.xml:694(title)
 msgid "The New User Account"
 msgstr "一个新用户账户"
 
-#: chapter2/xinclude.xml:695(para)
+#: chapter2/xinclude.xml:705(para)
 msgid ""
 "Now, if you click the fast user switch icon, there will be two users "
 "displayed and the current user logged on to the computer will be marked."
 msgstr "现在，登录界面就会显示出两个用户，被标记的是已经登录了的。"
 
-#: chapter2/xinclude.xml:700(title)
+#: chapter2/xinclude.xml:710(title)
 msgid "Switching Users"
 msgstr "切换用户"
 
-#: chapter2/xinclude.xml:709(para)
+#: chapter2/xinclude.xml:719(para)
 msgid ""
 "This feature prevents you from logging off and logging on all the time to "
 "switch users. It allows multiple users to switch quickly while staying "
@@ -1104,11 +1117,11 @@ msgstr ""
 "眼前。当您切换到其他用户时，当前用户的屏幕会自动锁定，所以其他人不能对它做任"
 "何改动。"
 
-#: chapter2/xinclude.xml:720(title)
+#: chapter2/xinclude.xml:730(title)
 msgid "Adding/Removing Applications"
 msgstr "添加/删除应用程序"
 
-#: chapter2/xinclude.xml:725(para)
+#: chapter2/xinclude.xml:735(para)
 msgid ""
 "Advise students that you will cover this topic in detail while teaching the "
 "<emphasis role=\"strong\">Customising Ubuntu and Applications</emphasis> "
@@ -1117,21 +1130,21 @@ msgstr ""
 "告诉学生，本课程的 <emphasis role=\"strong\">自定义 Ubuntu 和应用程序</"
 "emphasis> 一节会详细讲解本节内容，这里只是一个介绍。"
 
-#: chapter2/xinclude.xml:733(title)
+#: chapter2/xinclude.xml:743(title)
 msgid "Use the Add/Remove applications when you need to:"
 msgstr "当您遇到以下情况时，需要添加/删除应用程序："
 
-#: chapter2/xinclude.xml:736(para)
+#: chapter2/xinclude.xml:746(para)
 msgid "Use software not provided as a default application on Ubuntu."
 msgstr "Ubuntu 默认没有提供您需要的软件。"
 
-#: chapter2/xinclude.xml:741(para)
+#: chapter2/xinclude.xml:751(para)
 msgid "Try an alternative application to the one already installed"
 msgstr ""
 "您已经安装了您需要的软件，但有另外的软件和它提供相同或类似的功能，并且您想尝"
 "试一下。"
 
-#: chapter2/xinclude.xml:746(para)
+#: chapter2/xinclude.xml:756(para)
 msgid ""
 "Ubuntu contains pre-loaded software that you can easily install on your "
 "computer when required. You can install this software by using the Add/"
@@ -1141,14 +1154,15 @@ msgid ""
 "emphasis>."
 msgstr ""
 "Ubuntu 包含了很多安装方便的预封装软件包。您可以用 Ubuntu 软件中心或者新立得软"
-"件包管理器来安装它们。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单，单"
-"击 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 启动 Ubuntu 软件中心。"
+"件包管理器来安装它们。在 <emphasis role=\"strong\">应用程序</emphasis> 菜单，"
+"单击 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 启动 Ubuntu 软件中"
+"心。"
 
-#: chapter2/xinclude.xml:752(title)
+#: chapter2/xinclude.xml:762(title)
 msgid "Launching Add/Remove Applications"
 msgstr "启动 Ubuntu 软件中心"
 
-#: chapter2/xinclude.xml:761(para)
+#: chapter2/xinclude.xml:771(para)
 msgid ""
 "To access Synaptic Package Manager, on the <emphasis role=\"strong\">System</"
 "emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> "
@@ -1158,11 +1172,11 @@ msgstr ""
 "role=\"strong\">系统管理</emphasis>，然后单击 <emphasis role=\"strong\">新立"
 "得软件包管理器</emphasis> 以启动它。"
 
-#: chapter2/xinclude.xml:764(title)
+#: chapter2/xinclude.xml:774(title)
 msgid "Launching Synaptic Package Manager"
 msgstr "启动新立得软件包管理器"
 
-#: chapter2/xinclude.xml:773(para)
+#: chapter2/xinclude.xml:783(para)
 msgid ""
 "Synaptic offers an advanced way of installing packages. If you do not find a "
 "software programme in the Add/Remove tool, you can search for it in "
@@ -1171,17 +1185,17 @@ msgstr ""
 "新立得提供了一种安装包的高级方式。如果在 Ubuntu 软件中心里没有找到想要的软"
 "件，可以在新立得里搜索，它会检索 Ubuntu 软件仓库提供的所有软件。"
 
-#: chapter2/xinclude.xml:780(title)
+#: chapter2/xinclude.xml:790(title)
 msgid "Desktop Effects - Compiz Fusion"
 msgstr "桌面效果—— Compiz Fusion"
 
-#: chapter2/xinclude.xml:785(para)
+#: chapter2/xinclude.xml:795(para)
 msgid ""
 "Advise students that to view desktop effects, computers must have a 3D-"
 "enabled graphic card."
 msgstr "提醒学生，要使用桌面效果的话，显卡必须支持 3D 加速。"
 
-#: chapter2/xinclude.xml:789(para)
+#: chapter2/xinclude.xml:799(para)
 msgid ""
 "Compiz Fusion is a 3D window manager that makes use of 3D accelerated "
 "graphics cards found today on many desktops and laptops. It provides a "
@@ -1192,38 +1206,40 @@ msgid ""
 msgstr ""
 "Compiz Fusion 是一个 3D 窗口管理器。它需要支持 3D 加速的显卡。现在绝大部分的"
 "桌面电脑和笔记本的显卡都支持。它提供了许多的视觉效果，使 Linux 桌面更加强大﹑"
-"直观﹑易用和有趣。比如，您可以把桌面变成一个立方体，快速地在不同工作区间"
-"之间进行切换。"
+"直观﹑易用和有趣。比如，您可以把桌面变成一个立方体，快速地在不同工作区间之间"
+"进行切换。"
 
-#: chapter2/xinclude.xml:796(para)
+#: chapter2/xinclude.xml:806(para)
 msgid ""
 "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS with appropriate "
 "graphics cards. It enables the 3D desktop visual effects that improve the "
 "usability and visual appeal of the system. You really have to see and play "
 "with this application to appreciate the benefits."
 msgstr ""
-"在 Ubuntu 10.04 LTS 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特效，"
-"既增强了用户体验，也提高了系统视觉外观的美观程度。您一定要试试这个软件，感受一下它的好处。"
+"在 Ubuntu 10.04 LTS 中， Compiz Fusion 是默认开启的。它带来了 3D 桌面视觉特"
+"效，既增强了用户体验，也提高了系统视觉外观的美观程度。您一定要试试这个软件，"
+"感受一下它的好处。"
 
-#: chapter2/xinclude.xml:802(title)
+#: chapter2/xinclude.xml:812(title)
 msgid "To view the visual effects on Ubuntu:"
 msgstr "在 Ubuntu 上开启视觉效果："
 
-#: chapter2/xinclude.xml:805(para)
+#: chapter2/xinclude.xml:815(para)
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Preferences</emphasis> and click <emphasis role=\"strong"
 "\">Appearance</emphasis>. The <emphasis role=\"strong\">Appearance "
 "Preferences</emphasis> dialogue box appears."
 msgstr ""
-"在 <emphasis role=\"strong\">系统</strong> 菜单中，用鼠标指向 <emphasis role=\"strong\">首选项</emphasis>，然后单击 <emphasis role=\"strong\">外观</"
+"在 <emphasis role=\"strong\">系统</strong> 菜单中，用鼠标指向 <emphasis role="
+"\"strong\">首选项</emphasis>，然后单击 <emphasis role=\"strong\">外观</"
 "emphasis>，弹出 <emphasis role=\"strong\">外观首选项</emphasis> 对话框。"
 
-#: chapter2/xinclude.xml:810(title)
+#: chapter2/xinclude.xml:820(title)
 msgid "Opening the Appearance Preferences Dialogue Box"
 msgstr "打开外观首选项对话框"
 
-#: chapter2/xinclude.xml:821(para)
+#: chapter2/xinclude.xml:831(para)
 msgid ""
 "In the <emphasis role=\"strong\">Appearance Preferences</emphasis> dialogue "
 "box, there are three pre-configured levels of special effects settings: No "
@@ -1232,11 +1248,11 @@ msgstr ""
 "在 <emphasis rote=\"strong\">外观首选项</emphasis> 对话框中，有三个预定义的特"
 "效级别：无、正常和扩展，您可以从其中选择一个。"
 
-#: chapter2/xinclude.xml:827(title)
+#: chapter2/xinclude.xml:837(title)
 msgid "Configuring Visual Effects"
 msgstr "配置视觉效果"
 
-#: chapter2/xinclude.xml:838(para)
+#: chapter2/xinclude.xml:848(para)
 msgid ""
 "If you want a simple desktop without any special effects, select <emphasis "
 "role=\"strong\">None</emphasis>. If you want a desktop with a balance of "
@@ -1250,91 +1266,91 @@ msgid ""
 msgstr ""
 "如果您想要一个没有任何特效的普通桌面，选择 <emphasis role=\"strong\">无</"
 "emphasis>。如果您想要一个在性能和外观之间平衡的桌面，选择 <emphasis role="
-"\"strong\">正常</emphasis>。如果您想要更丰富的桌面效果，比如窗口抖动、桌面立方体等"
-"等，选择 <emphasis role=\"strong\">扩展</emphasis>。比如说窗口抖动效果，在您"
-"等待更新完成或者邮件客户端收取邮件的时候，您可以打开窗口抖动特效，那些窗口就"
-"会开始舞动和出现 3D 效果。和它们玩玩是件有趣的事情！"
+"\"strong\">正常</emphasis>。如果您想要更丰富的桌面效果，比如窗口抖动、桌面立"
+"方体等等，选择 <emphasis role=\"strong\">扩展</emphasis>。比如说窗口抖动效"
+"果，在您等待更新完成或者邮件客户端收取邮件的时候，您可以打开窗口抖动特效，那"
+"些窗口就会开始舞动和出现 3D 效果。和它们玩玩是件有趣的事情！"
 
-#: chapter2/xinclude.xml:848(title)
+#: chapter2/xinclude.xml:858(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter2/xinclude.xml:850(para)
+#: chapter2/xinclude.xml:860(para)
 msgid "In this lesson, you learned that:"
 msgstr "在这一课，您学到了："
 
-#: chapter2/xinclude.xml:853(para)
+#: chapter2/xinclude.xml:863(para)
 msgid "Ubuntu utilises the GNOME desktop by default"
 msgstr "Ubuntu 默认采用的 GNOME 桌面环境。"
 
-#: chapter2/xinclude.xml:857(para)
+#: chapter2/xinclude.xml:867(para)
 msgid ""
 "You can set the default language of your computer either during the "
 "installation of Ubuntu or at a later stage"
 msgstr "您可以在安装或之后的任何时候更改默认的语言。"
 
-#: chapter2/xinclude.xml:862(para)
+#: chapter2/xinclude.xml:872(para)
 msgid ""
 "Fast user switching enables you to share your computer with other users "
 "without sharing your files"
 msgstr ""
 "通过快速用户切换，您可以和别人共享您的电脑，而且自己的文件不会被其他人看到。"
 
-#: chapter2/xinclude.xml:867(para)
+#: chapter2/xinclude.xml:877(para)
 msgid ""
 "You can install software by using the Add/Remove application or the Synaptic "
 "Package Manager utility of Ubuntu"
 msgstr "使用 Ubuntu 软件中心和新立得软件包管理器给 Ubuntu 安装新的程序。"
 
-#: chapter2/xinclude.xml:872(para)
+#: chapter2/xinclude.xml:882(para)
 msgid ""
 "Compiz Fusion is enabled by default on Ubuntu 8.04 LTS and provides fun, 3D "
 "desktop visual effects"
 msgstr ""
 "Compiz Fusion 在 Ubuntu 10.04 LTS 里默认启用，它能带给您有趣的 3D 桌面效果。"
 
-#: chapter2/xinclude.xml:880(title)
+#: chapter2/xinclude.xml:890(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter2/xinclude.xml:885(para)
+#: chapter2/xinclude.xml:895(para)
 msgid ""
 "At the top and bottom of the desktop, you have two bars, called "
 "_________________."
 msgstr "在桌面的顶部和底部各有一个长条形的区域，叫做_________________。"
 
-#: chapter2/xinclude.xml:890(para)
+#: chapter2/xinclude.xml:900(para)
 msgid "At the top and bottom of the desktop, you have two bars, called panels."
 msgstr "在桌面的顶部和底部各有一个长条形的区域，叫做面板。"
 
-#: chapter2/xinclude.xml:897(para)
+#: chapter2/xinclude.xml:907(para)
 msgid "Which are the three shortcut icons already present on the top panel?"
 msgstr "在顶部的面板上默认的三个快捷图标为？"
 
-#: chapter2/xinclude.xml:902(para)
+#: chapter2/xinclude.xml:912(para)
 msgid "Mozilla Firefox, Evolution e-mail client and Ubuntu help."
 msgstr "Mozilla Firefox 网页浏览器， Evolution 邮件客户端， Ubuntu 帮助。"
 
-#: chapter2/xinclude.xml:909(para)
+#: chapter2/xinclude.xml:919(para)
 msgid "What is fast user switching?"
 msgstr "使用快速用户切换功能的好处是什么？"
 
-#: chapter2/xinclude.xml:913(para)
+#: chapter2/xinclude.xml:923(para)
 msgid ""
 "Fast user switching is a feature that avoids you having to log off and log "
 "on all the time to switch users. It enables multiple users to switch quickly "
 "while staying"
 msgstr "快速用户切换使您可以随时在不同用户之间进行切换，而不用频繁的登录注销。"
 
-#: chapter2/xinclude.xml:923(title)
+#: chapter2/xinclude.xml:933(title)
 msgid "Lab Exercise"
 msgstr "上机练习"
 
-#: chapter2/xinclude.xml:926(title)
+#: chapter2/xinclude.xml:936(title)
 msgid "Exercise:"
 msgstr "练习"
 
-#: chapter2/xinclude.xml:928(para)
+#: chapter2/xinclude.xml:938(para)
 msgid ""
 "You have bank-related information on your computer and want to block others' "
 "access to it. Your friend wants to use your computer for some time. To "
@@ -1344,53 +1360,55 @@ msgstr ""
 "您的电脑上存储有您的银行信息，您不想让他人看到他们，但您的朋友想用一用您的电"
 "脑。为您的朋友创建一个新用户并且使用快速用户切换来解决这个问题。"
 
-#: chapter2/xinclude.xml:937(para)
+#: chapter2/xinclude.xml:947(para)
 msgid ""
 "In the <emphasis role=\"strong\">User settings</emphasis> dialogue box, "
 "click <emphasis role=\"strong\">Add User.</emphasis> The <emphasis role="
 "\"strong\">New user account</emphasis> dialogue box appears."
 msgstr ""
-"在 <emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis role="
-"\"strong\">点击以进行变更</emphasis>，按系统提示输入密码。单击 <emphasis "
-"role=\"strong\">添加用户</emphasis>，弹出 <emphasis role=\"strong\">新建用户"
-"账户</emphasis> 对话框。"
+"在 <emphasis role=\"strong\">用户设置</emphasis> 对话框中，单击 <emphasis "
+"role=\"strong\">点击以进行变更</emphasis>，按系统提示输入密码。单击 "
+"<emphasis role=\"strong\">添加用户</emphasis>，弹出 <emphasis role=\"strong"
+"\">新建用户账户</emphasis> 对话框。"
 
-#: chapter2/xinclude.xml:942(para)
+#: chapter2/xinclude.xml:952(para)
 msgid "In the dialogue box, specify the following information:"
 msgstr "在对话框中指定下列信息："
 
-#: chapter2/xinclude.xml:946(para)
+#: chapter2/xinclude.xml:956(para)
 msgid "Type charles in the <emphasis role=\"strong\">Username</emphasis> box."
 msgstr "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 charles。"
 
-#: chapter2/xinclude.xml:950(para)
+#: chapter2/xinclude.xml:960(para)
 msgid ""
 "Select Desktop user from the <emphasis role=\"strong\">Profile</emphasis> "
 "box."
 msgstr ""
 "从 <emphasis role=\"strong\">配置文件</emphasis> 下拉列表中选择”桌面用户“。"
 
-#: chapter2/xinclude.xml:954(para)
+#: chapter2/xinclude.xml:964(para)
 msgid ""
 "Type charles windsor in the <emphasis role=\"strong\">Real name</emphasis> "
 "box."
 msgstr ""
 "在 <emphasis role=\"strong\">真实姓名</emphasis> 框中输入 Charles Windsor。"
 
-#: chapter2/xinclude.xml:959(para)
+#: chapter2/xinclude.xml:969(para)
 msgid ""
 "Type password@1 in the <emphasis role=\"strong\">User password</emphasis> "
 "box."
 msgstr ""
-"在 <emphasis role=\"strong\">用户密码</emphasis> 框中输入密码，本例中假设为 password@1 ，然后在 <emphasis role=\"strong\">确认</emphasis> 框中输入刚才设置的密码，本例中亦即 password@1 。"
+"在 <emphasis role=\"strong\">用户密码</emphasis> 框中输入密码，本例中假设为 "
+"password@1 ，然后在 <emphasis role=\"strong\">确认</emphasis> 框中输入刚才设"
+"置的密码，本例中亦即 password@1 。"
 
-#: chapter2/xinclude.xml:973(para)
+#: chapter2/xinclude.xml:983(para)
 msgid ""
 "Click the fast user switch icon on the top panel. Click charles. The logon "
 "screen appears."
 msgstr "单击屏幕顶部面板最右端的图标，选择“切换用户”，出现登录界面。"
 
-#: chapter2/xinclude.xml:978(para)
+#: chapter2/xinclude.xml:988(para)
 msgid ""
 "Type charles in the <emphasis role=\"strong\">Username</emphasis> box and "
 "password@1 in the <emphasis role=\"strong\">Password</emphasis> box."
@@ -1398,11 +1416,11 @@ msgstr ""
 "在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 charles，<emphasis "
 "role=\"strong\">密码</emphasis> 框中输入 password@1。"
 
-#: chapter2/xinclude.xml:984(para)
+#: chapter2/xinclude.xml:994(para)
 msgid "Your friend can now work on this desktop."
 msgstr "您的朋友现在可以在这个桌面上工作了。"
 
-#: chapter2/xinclude.xml:988(para)
+#: chapter2/xinclude.xml:998(para)
 msgid ""
 "Your friend cannot access your user account because the computer will ask "
 "for your password to log on to the account. So, your personal data is safe."
@@ -1414,6 +1432,13 @@ msgid "translator-credits"
 msgstr ""
 "Eleanor Chen <chenyueg@gmail.com>, 2010\n"
 "Aron Xu <happyaron.xu@gmail.com>, 2010"
+
+#, fuzzy
+#~ msgid ""
+#~ "@@image: 'images/Lesson03_images_039.png'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson03_images_003.png'; "
+#~ "md5=d69f7858c373afb66de36d6f10b20a72"
 
 #~ msgid ""
 #~ "The last icon on the top panel shuts down, restarts, hibernates, locks "

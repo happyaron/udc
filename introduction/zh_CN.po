@@ -3,12 +3,11 @@
 # Copyright (C) 2010 Canonical Ltd and translation contributors:
 #     Hunt Xu <mhuntxu@gmail.com>, 2010.
 #
-
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2009-08-06 12:43+0200\n"
+"POT-Creation-Date: 2010-05-22 16:21+0800\n"
 "PO-Revision-Date: 2010-01-07 14:33+0800\n"
 "Last-Translator: Hunt Xu <mhuntxu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -32,10 +31,10 @@ msgid ""
 "key applications including mainstream office applications, Internet "
 "connectivity and browsing, graphics arts tools, multi-media and music."
 msgstr ""
-"Ubuntu 是基于 Linux 的操作系统，它由社区开发，可供免费使用，广泛适用于笔记"
-"本电脑、台式电脑和服务器等各种设备。本课程以 Ubuntu 10.04 LTS 版本系统的使用为例，旨在"
-"对于一些主要程序诸如主流的办公室应用程序、网络连接和浏览、图像处理工具、多"
-"媒体工具和音乐工具等的使用方面给新的 Ubuntu 用户以简单的入门指导。"
+"Ubuntu 是基于 Linux 的操作系统，它由社区开发，可供免费使用，广泛适用于笔记本"
+"电脑、台式电脑和服务器等各种设备。本课程以 Ubuntu 10.04 LTS 版本系统的使用为"
+"例，旨在对于一些主要程序诸如主流的办公室应用程序、网络连接和浏览、图像处理工"
+"具、多媒体工具和音乐工具等的使用方面给新的 Ubuntu 用户以简单的入门指导。"
 
 #: introduction/xinclude.xml:15(title)
 msgid "Objectives"
@@ -69,8 +68,7 @@ msgstr "如何连接并使用互联网"
 msgid ""
 "How to perform basic word-processing and spreadsheet functions using "
 "OpenOffice.org"
-msgstr ""
-"如何使用 OpenOffice.org 进行简单的文本处理和使用电子表格"
+msgstr "如何使用 OpenOffice.org 进行简单的文本处理和使用电子表格"
 
 #: introduction/xinclude.xml:41(para)
 msgid "How to Install and play games"
@@ -108,8 +106,8 @@ msgid ""
 "computer hard disk before starting this course."
 msgstr ""
 "本课程为家庭用户和办公室用户提供 Ubuntu 操作系统的培训。目标对象不必预先了解 "
-"Ubuntu，但必须具备基本的计算机使用能力。要开始学习本课程，请先在您的计算机硬盘"
-"上安装 Ubuntu 9.10。"
+"Ubuntu，但必须具备基本的计算机使用能力。要开始学习本课程，请先在您的计算机硬"
+"盘上安装 Ubuntu 9.10。"
 
 #: introduction/xinclude.xml:67(para)
 msgid ""
@@ -118,48 +116,20 @@ msgid ""
 "However, topics and lessons can be selected as required and a day's content "
 "designed to suit the key learning objectives."
 msgstr ""
-"本课程以模块为单位来组织。在教室中进行全日制学习的话，两天就可以学习完整个"
-"课程。另外，您可以按需选择主题和课程，本课程的关键部分可以在一天之内学"
-"完。"
+"本课程以模块为单位来组织。在教室中进行全日制学习的话，两天就可以学习完整个课"
+"程。另外，您可以按需选择主题和课程，本课程的关键部分可以在一天之内学完。"
 
-#: introduction/xinclude.xml:72(para)
-msgid ""
-"Sample material for various exercises is available through the ubuntu-"
-"desktop-course-resources package. The most current package is available "
-"through the canonical-training PPA (Personal Package Archive) in Launchpad: "
-"https://launchpad.net/~canonical-training/+archive."
-msgstr ""
-"可以通过安装 ubuntu-desktop-course-resources 软件包以获得本课程中各个练习的"
-"样例。最新版本的软件包可以通过 Canonical-training 的 PPA(个人软件仓库) 获得: "
-"https://launchpad.net/~canonical-training/+archive。"
-
-#: introduction/xinclude.xml:78(title)
-msgid "Instructor Notes:"
-msgstr "教员注记："
-
-#: introduction/xinclude.xml:79(para)
-msgid ""
-"The ubuntu-desktop-course-resource package should be installed on all "
-"systems before the course starts. The sample files are placed in /usr/share/"
-"ubuntu-desktop-course. It is recommended to add a link to the directory on "
-"the students desktop."
-msgstr ""
-"开始本课程之前，每个学生系统中必须提前安装 ubuntu-desktop-course-resource 软"
-"件包。参考样例文件位于 /usr/share/ubuntu-desktop-course。推荐在每个学生的桌面"
-"上添加指向该目录的一个快捷方式。"
-
-#: introduction/xinclude.xml:87(title)
+#: introduction/xinclude.xml:74(title)
 msgid "Student Responsibilities"
 msgstr "学生职责"
 
-#: introduction/xinclude.xml:90(para)
+#: introduction/xinclude.xml:77(para)
 msgid ""
 "Students should arrive on time and stay until the session is dismissed. The "
 "instructor should be notified if you expect to arrive late."
-msgstr ""
-"学生应该按时到达并认真听课。如果学生可能会迟到，必须事先通知教员。"
+msgstr "学生应该按时到达并认真听课。如果学生可能会迟到，必须事先通知教员。"
 
-#: introduction/xinclude.xml:95(para)
+#: introduction/xinclude.xml:82(para)
 msgid ""
 "Participation in class discussions is strongly encouraged. Even when some "
 "topics are already familiar to some, sharing relevant experiences can be "
@@ -168,510 +138,500 @@ msgstr ""
 "鼓励学生参与课堂讨论。即使某些人对其中一些课程主题已经非常熟悉，分享相关经验"
 "对其他人来说也是相当有帮助的。"
 
-#: introduction/xinclude.xml:101(para)
+#: introduction/xinclude.xml:88(para)
 msgid "Cell phones and pagers should be placed on silent mode during class."
 msgstr "上课期间，请将手机和传呼机设置成静音模式。"
 
-#: introduction/xinclude.xml:105(para)
+#: introduction/xinclude.xml:92(para)
 msgid ""
 "Feedback is vital to the improvement of our course development and delivery. "
 "All students must complete the course evaluation form at the end of the last "
 "day in order to receive a certificate of completion."
-msgstr ""
-"所有学生在最后一天的课程结束后必须通过一次测验以获得毕业证书。"
+msgstr "所有学生在最后一天的课程结束后必须通过一次测验以获得毕业证书。"
 
-#: introduction/xinclude.xml:111(para)
+#: introduction/xinclude.xml:98(para)
 msgid ""
 "Please provide any and all feedback regarding this course to: "
 "training@canonical.com."
 msgstr ""
-"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: sbyy@googlegroups.com。"
+"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: "
+"sbyy@googlegroups.com。"
 
-#: introduction/xinclude.xml:117(title)
+#: introduction/xinclude.xml:104(title)
 msgid "Ubuntu Session Plan"
 msgstr "Ubuntu 课程计划"
 
-#: introduction/xinclude.xml:126(emphasis)
-#: introduction/xinclude.xml:564(emphasis)
+#: introduction/xinclude.xml:113(emphasis)
+#: introduction/xinclude.xml:551(emphasis)
 msgid "Session"
 msgstr "章节"
 
-#: introduction/xinclude.xml:131(emphasis)
+#: introduction/xinclude.xml:118(emphasis)
 msgid "Duration (in minutes)"
 msgstr "时长 (分钟)"
 
-#: introduction/xinclude.xml:139(emphasis)
+#: introduction/xinclude.xml:126(emphasis)
 msgid "DAY 1"
 msgstr "第一天"
 
-#: introduction/xinclude.xml:148(emphasis)
+#: introduction/xinclude.xml:135(emphasis)
 msgid "Welcome and Course Overview"
 msgstr "欢迎和课程概况"
 
-#: introduction/xinclude.xml:154(emphasis)
+#: introduction/xinclude.xml:141(emphasis)
 msgid "20"
 msgstr "20"
 
-#: introduction/xinclude.xml:161(emphasis)
+#: introduction/xinclude.xml:148(emphasis)
 msgid "Introducing Ubuntu"
 msgstr "介绍 Ubuntu"
 
-#: introduction/xinclude.xml:167(emphasis)
-#: introduction/xinclude.xml:702(emphasis)
-#: introduction/xinclude.xml:787(emphasis)
-#: introduction/xinclude.xml:914(emphasis)
-#: introduction/xinclude.xml:1015(emphasis)
+#: introduction/xinclude.xml:154(emphasis)
+#: introduction/xinclude.xml:689(emphasis)
+#: introduction/xinclude.xml:774(emphasis)
+#: introduction/xinclude.xml:901(emphasis)
+#: introduction/xinclude.xml:1002(emphasis)
 msgid "60"
 msgstr "60"
 
-#: introduction/xinclude.xml:173(para)
+#: introduction/xinclude.xml:160(para)
 msgid "About Open Source"
 msgstr "关于开源"
 
-#: introduction/xinclude.xml:181(para)
+#: introduction/xinclude.xml:168(para)
 msgid "Free Software Movement, Open Source and Linux"
 msgstr "自由软件运动、开源和 Linux"
 
-#: introduction/xinclude.xml:190(para)
+#: introduction/xinclude.xml:177(para)
 msgid "About Ubuntu"
 msgstr "关于 Ubuntu"
 
-#: introduction/xinclude.xml:198(para)
+#: introduction/xinclude.xml:185(para)
 msgid "Software Repositories and Categories"
 msgstr "软件源和软件分类"
 
-#: introduction/xinclude.xml:206(para)
+#: introduction/xinclude.xml:193(para)
 msgid "Key Differences between Ubuntu and Microsoft Windows"
 msgstr "Ubuntu 和 Microsoft Windows 的主要区别"
 
-#: introduction/xinclude.xml:215(para) introduction/xinclude.xml:293(para)
-#: introduction/xinclude.xml:471(para) introduction/xinclude.xml:539(para)
-#: introduction/xinclude.xml:663(para) introduction/xinclude.xml:748(para)
-#: introduction/xinclude.xml:875(para) introduction/xinclude.xml:984(para)
-#: introduction/xinclude.xml:1045(para)
+#: introduction/xinclude.xml:202(para) introduction/xinclude.xml:280(para)
+#: introduction/xinclude.xml:458(para) introduction/xinclude.xml:526(para)
+#: introduction/xinclude.xml:650(para) introduction/xinclude.xml:735(para)
+#: introduction/xinclude.xml:862(para) introduction/xinclude.xml:971(para)
+#: introduction/xinclude.xml:1032(para)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: introduction/xinclude.xml:223(para) introduction/xinclude.xml:378(para)
-#: introduction/xinclude.xml:479(para) introduction/xinclude.xml:671(para)
-#: introduction/xinclude.xml:756(para) introduction/xinclude.xml:883(para)
-#: introduction/xinclude.xml:992(para) introduction/xinclude.xml:1053(para)
+#: introduction/xinclude.xml:210(para) introduction/xinclude.xml:365(para)
+#: introduction/xinclude.xml:466(para) introduction/xinclude.xml:658(para)
+#: introduction/xinclude.xml:743(para) introduction/xinclude.xml:870(para)
+#: introduction/xinclude.xml:979(para) introduction/xinclude.xml:1040(para)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: introduction/xinclude.xml:240(emphasis)
+#: introduction/xinclude.xml:227(emphasis)
 msgid "Exploring the Ubuntu Desktop"
 msgstr "探索 Ubuntu 桌面"
 
-#: introduction/xinclude.xml:246(emphasis)
+#: introduction/xinclude.xml:233(emphasis)
 msgid "75"
 msgstr "75"
 
-#: introduction/xinclude.xml:252(para)
+#: introduction/xinclude.xml:239(para)
 msgid "Ubuntu Desktop Components"
 msgstr "Ubuntu 桌面组件"
 
-#: introduction/xinclude.xml:260(para)
+#: introduction/xinclude.xml:247(para)
 msgid "Changing the Default Language"
 msgstr "更改默认语言"
 
-#: introduction/xinclude.xml:268(para)
+#: introduction/xinclude.xml:255(para)
 msgid "Creating a User Account and Fast User Switching"
 msgstr "创建一个用户账户和快速切换用户"
 
-#: introduction/xinclude.xml:277(para)
+#: introduction/xinclude.xml:264(para)
 msgid "Adding/Removing Applications"
 msgstr "添加/删除 应用程序"
 
-#: introduction/xinclude.xml:285(para)
+#: introduction/xinclude.xml:272(para)
 msgid "Desktop Effects - Compiz Fusion"
 msgstr "桌面效果 - Compiz Fusion"
 
-#: introduction/xinclude.xml:301(para) introduction/xinclude.xml:386(para)
-#: introduction/xinclude.xml:487(para) introduction/xinclude.xml:547(para)
-#: introduction/xinclude.xml:679(para) introduction/xinclude.xml:764(para)
-#: introduction/xinclude.xml:891(para) introduction/xinclude.xml:1061(para)
+#: introduction/xinclude.xml:288(para) introduction/xinclude.xml:373(para)
+#: introduction/xinclude.xml:474(para) introduction/xinclude.xml:534(para)
+#: introduction/xinclude.xml:666(para) introduction/xinclude.xml:751(para)
+#: introduction/xinclude.xml:878(para) introduction/xinclude.xml:1048(para)
 msgid "Lab Exercise"
 msgstr "上机练习"
 
-#: introduction/xinclude.xml:318(emphasis)
+#: introduction/xinclude.xml:305(emphasis)
 msgid "Using the Internet"
 msgstr "使用互联网"
 
-#: introduction/xinclude.xml:324(emphasis)
+#: introduction/xinclude.xml:311(emphasis)
 msgid "100"
 msgstr "100"
 
-#: introduction/xinclude.xml:330(para)
+#: introduction/xinclude.xml:317(para)
 msgid "Connecting to and Using the Internet"
 msgstr "连接和使用互联网"
 
-#: introduction/xinclude.xml:338(para)
+#: introduction/xinclude.xml:325(para)
 msgid "Browsing the Web"
 msgstr "浏览网络"
 
-#: introduction/xinclude.xml:346(para)
+#: introduction/xinclude.xml:333(para)
 msgid "Accessing RSS Feeds"
 msgstr "阅读 RSS"
 
-#: introduction/xinclude.xml:354(para)
+#: introduction/xinclude.xml:341(para)
 msgid "Sending and Receiving E-mail Messages"
 msgstr "收发邮件"
 
-#: introduction/xinclude.xml:362(para)
+#: introduction/xinclude.xml:349(para)
 msgid "Instant Messaging"
 msgstr "即时通信"
 
-#: introduction/xinclude.xml:370(para)
+#: introduction/xinclude.xml:357(para)
 msgid "Making Phone Calls using Softphones"
 msgstr "使用软电话拨打电话"
 
-#: introduction/xinclude.xml:403(emphasis)
+#: introduction/xinclude.xml:390(emphasis)
 msgid "Using OpenOffice Applications"
 msgstr "使用 OpenOffice 应用程序"
 
-#: introduction/xinclude.xml:409(emphasis)
+#: introduction/xinclude.xml:396(emphasis)
 msgid "180"
 msgstr "180"
 
-#: introduction/xinclude.xml:415(para)
+#: introduction/xinclude.xml:402(para)
 msgid "Introducing the OpenOffice.org Suite"
 msgstr "OpenOffice.org 套件介绍"
 
-#: introduction/xinclude.xml:423(para)
+#: introduction/xinclude.xml:410(para)
 msgid "Using OpenOffice.org Writer"
 msgstr "使用 OpenOffice.org 文字处理"
 
-#: introduction/xinclude.xml:431(para)
+#: introduction/xinclude.xml:418(para)
 msgid "Using OpenOffice.org Calc"
 msgstr "使用 OpenOffice.org 电子表格"
 
-#: introduction/xinclude.xml:439(para)
+#: introduction/xinclude.xml:426(para)
 msgid "Using OpenOffice.org Impress"
 msgstr "使用 OpenOffice.org 演示"
 
-#: introduction/xinclude.xml:447(para)
+#: introduction/xinclude.xml:434(para)
 msgid "Using OpenOffice.org Draw"
 msgstr "使用 OpenOffice.org 图画"
 
-#: introduction/xinclude.xml:455(para)
+#: introduction/xinclude.xml:442(para)
 msgid "Using OpenOffice.org Math"
 msgstr "使用 OpenOffice.org Math"
 
-#: introduction/xinclude.xml:463(para)
+#: introduction/xinclude.xml:450(para)
 msgid "Additional Applications"
 msgstr "附加程序"
 
-#: introduction/xinclude.xml:504(emphasis)
+#: introduction/xinclude.xml:491(emphasis)
 msgid "Ubuntu and Games"
 msgstr "Ubuntu 和游戏"
 
-#: introduction/xinclude.xml:509(emphasis)
+#: introduction/xinclude.xml:496(emphasis)
 msgid "40"
 msgstr "40"
 
-#: introduction/xinclude.xml:515(para)
+#: introduction/xinclude.xml:502(para)
 msgid "Installing Ubuntu Games"
 msgstr "在 Ubuntu 中安装游戏"
 
-#: introduction/xinclude.xml:523(para)
+#: introduction/xinclude.xml:510(para)
 msgid "Playing Ubuntu Games"
 msgstr "在 Ubuntu 中玩游戏"
 
-#: introduction/xinclude.xml:531(para)
+#: introduction/xinclude.xml:518(para)
 msgid "Playing Other Popular Games"
 msgstr "游玩其他流行的游戏"
 
-#: introduction/xinclude.xml:569(emphasis)
+#: introduction/xinclude.xml:556(emphasis)
 msgid "Duration (in minutes) excl. exercises"
 msgstr "时长 (分钟) excl. exercises"
 
-#: introduction/xinclude.xml:577(emphasis)
+#: introduction/xinclude.xml:564(emphasis)
 msgid "DAY 2"
 msgstr "第二天"
 
-#: introduction/xinclude.xml:586(emphasis)
+#: introduction/xinclude.xml:573(emphasis)
 msgid "Customising the Desktop and Applications"
 msgstr "自定义桌面和应用程序"
 
-#: introduction/xinclude.xml:592(emphasis)
+#: introduction/xinclude.xml:579(emphasis)
 msgid "80"
 msgstr "80"
 
-#: introduction/xinclude.xml:598(para) introduction/xinclude.xml:920(para)
-#: introduction/xinclude.xml:1214(title)
+#: introduction/xinclude.xml:585(para) introduction/xinclude.xml:907(para)
+#: introduction/xinclude.xml:1201(title)
 msgid "Introduction"
 msgstr "简介"
 
-#: introduction/xinclude.xml:606(para)
+#: introduction/xinclude.xml:593(para)
 msgid "Customising the Desktop"
 msgstr "自定义桌面"
 
-#: introduction/xinclude.xml:614(para)
+#: introduction/xinclude.xml:601(para)
 msgid "The 3D Effects"
 msgstr "3D 特效"
 
-#: introduction/xinclude.xml:622(para)
+#: introduction/xinclude.xml:609(para)
 msgid "Working with Files Using Nautilus"
 msgstr "使用 Nautilus 管理文件"
 
-#: introduction/xinclude.xml:630(para)
+#: introduction/xinclude.xml:617(para)
 msgid ""
 "Adding and removing applications using Add/Remove and Synaptic Package "
 "Manager"
-msgstr ""
-"使用 Ubuntu 软件中心和新立得软件包管理器来添加或删除应用程序"
+msgstr "使用 Ubuntu 软件中心和新立得软件包管理器来添加或删除应用程序"
 
-#: introduction/xinclude.xml:639(para)
+#: introduction/xinclude.xml:626(para)
 msgid "Installing a Single Package File"
 msgstr "安装单个软件包文件"
 
-#: introduction/xinclude.xml:647(para)
+#: introduction/xinclude.xml:634(para)
 msgid "Software Repositories"
 msgstr "软件仓库"
 
-#: introduction/xinclude.xml:655(para)
+#: introduction/xinclude.xml:642(para)
 msgid "Adding New Language Settings"
 msgstr "添加新语言设置"
 
-#: introduction/xinclude.xml:696(emphasis)
+#: introduction/xinclude.xml:683(emphasis)
 msgid "Making the Most of Images and Photos"
 msgstr "处理大多数图像和照片"
 
-#: introduction/xinclude.xml:708(para)
+#: introduction/xinclude.xml:695(para)
 msgid "Introducing Graphics Applications"
 msgstr "图像软件介绍"
 
-#: introduction/xinclude.xml:716(para)
+#: introduction/xinclude.xml:703(para)
 msgid "The GIMP"
 msgstr "The GIMP"
 
-#: introduction/xinclude.xml:724(para)
+#: introduction/xinclude.xml:711(para)
 msgid "Managing Photos with F-Spot"
 msgstr "使用 F-Spot 管理照片"
 
-#: introduction/xinclude.xml:732(para)
+#: introduction/xinclude.xml:719(para)
 msgid "Drawing with Inkscape"
 msgstr "使用 Inkscape 绘图"
 
-#: introduction/xinclude.xml:740(para)
+#: introduction/xinclude.xml:727(para)
 msgid "Using a Scanner"
 msgstr "扫描仪的使用"
 
-#: introduction/xinclude.xml:781(emphasis)
+#: introduction/xinclude.xml:768(emphasis)
 msgid "Playing Music and Videos"
 msgstr "播放音乐和视频"
 
-#: introduction/xinclude.xml:795(para)
+#: introduction/xinclude.xml:782(para)
 msgid "Legal Restrictions"
 msgstr "法律限制"
 
-#: introduction/xinclude.xml:803(para)
+#: introduction/xinclude.xml:790(para)
 msgid "Playing Music Files"
 msgstr "播放音乐文件"
 
-#: introduction/xinclude.xml:811(para)
+#: introduction/xinclude.xml:798(para)
 msgid "Playing and Extracting Audio CDs"
 msgstr "播放音频 CD 和从中提取内容"
 
-#: introduction/xinclude.xml:819(para)
+#: introduction/xinclude.xml:806(para)
 msgid "Burning Audio CDs"
 msgstr "刻录音频 CD"
 
-#: introduction/xinclude.xml:827(para)
+#: introduction/xinclude.xml:814(para)
 msgid "Playing Proprietary Multimedia Formats"
 msgstr "播放私有多媒体格式"
 
-#: introduction/xinclude.xml:835(para)
+#: introduction/xinclude.xml:822(para)
 msgid "Using an iPod"
 msgstr "使用 iPod"
 
-#: introduction/xinclude.xml:843(para)
+#: introduction/xinclude.xml:830(para)
 msgid "Creating and Editing Audio Files"
 msgstr "创建和编辑音频文件"
 
-#: introduction/xinclude.xml:851(para)
+#: introduction/xinclude.xml:838(para)
 msgid "Using DVDs"
 msgstr "播放 DVD"
 
-#: introduction/xinclude.xml:859(para)
+#: introduction/xinclude.xml:846(para)
 msgid "Playing Online Media"
 msgstr "播放在线媒体"
 
-#: introduction/xinclude.xml:867(para)
+#: introduction/xinclude.xml:854(para)
 msgid "Editing Videos"
 msgstr "编辑视频"
 
-#: introduction/xinclude.xml:908(emphasis)
+#: introduction/xinclude.xml:895(emphasis)
 msgid "Ubuntu: Help and Support"
 msgstr "Ubuntu 帮助和支持"
 
-#: introduction/xinclude.xml:928(para)
+#: introduction/xinclude.xml:915(para)
 msgid "Free support resources"
 msgstr "免费的支持资源"
 
-#: introduction/xinclude.xml:936(para)
+#: introduction/xinclude.xml:923(para)
 msgid "System documentation"
 msgstr "系统文档"
 
-#: introduction/xinclude.xml:944(para)
+#: introduction/xinclude.xml:931(para)
 msgid "Online Documentation"
 msgstr "在线文档"
 
-#: introduction/xinclude.xml:952(para)
+#: introduction/xinclude.xml:939(para)
 msgid "Community Support"
 msgstr "社区支持"
 
-#: introduction/xinclude.xml:960(para)
+#: introduction/xinclude.xml:947(para)
 msgid "Launchpad"
 msgstr "Launchpad"
 
-#: introduction/xinclude.xml:968(para)
+#: introduction/xinclude.xml:955(para)
 msgid "The Fridge"
 msgstr "Fridge 新闻站"
 
-#: introduction/xinclude.xml:976(para)
+#: introduction/xinclude.xml:963(para)
 msgid "Paid for Commercial Services"
 msgstr "购买商业服务"
 
-#: introduction/xinclude.xml:1009(emphasis)
+#: introduction/xinclude.xml:996(emphasis)
 msgid "Partitioning and Booting - optional"
 msgstr "分区和启动 - 可选内容"
 
-#: introduction/xinclude.xml:1021(para)
+#: introduction/xinclude.xml:1008(para)
 msgid "What is Partitioning"
 msgstr "什么是分区"
 
-#: introduction/xinclude.xml:1029(para)
+#: introduction/xinclude.xml:1016(para)
 msgid "Creating a Partition"
 msgstr "创建分区"
 
-#: introduction/xinclude.xml:1037(para)
+#: introduction/xinclude.xml:1024(para)
 msgid "Boot-up Options"
 msgstr "引导选项"
 
-#: introduction/xinclude.xml:1069(para)
+#: introduction/xinclude.xml:1056(para)
 msgid "Course Summary"
 msgstr "课程总结"
 
-#: introduction/xinclude.xml:1080(title)
+#: introduction/xinclude.xml:1067(title)
 msgid "Instructor Responsibilities"
 msgstr "教员职责"
 
-#: introduction/xinclude.xml:1081(para)
+#: introduction/xinclude.xml:1068(para)
 msgid "Instructors are:"
 msgstr "教员的职责如下："
 
-#: introduction/xinclude.xml:1084(para)
+#: introduction/xinclude.xml:1071(para)
 msgid ""
 "Responsible for conducting classes professionally and ensuring that the "
 "classroom environment is conducive to learning; this includes adhering to "
 "the schedule for start times, breaks, and lunches."
 msgstr ""
-"合理有效地组织课堂学习，并保证教室环境有益于学习；包括按照日程表安排上课"
-"时间、课间休息和午餐时间。"
+"合理有效地组织课堂学习，并保证教室环境有益于学习；包括按照日程表安排上课时"
+"间、课间休息和午餐时间。"
 
-#: introduction/xinclude.xml:1090(para)
+#: introduction/xinclude.xml:1077(para)
 msgid ""
 "Available during lab sessions to answer questions and assist students in "
 "completing the exercises."
-msgstr ""
-"在实验课上回答学生提问，并帮助学生完成练习。"
+msgstr "在实验课上回答学生提问，并帮助学生完成练习。"
 
-#: introduction/xinclude.xml:1094(para)
+#: introduction/xinclude.xml:1081(para)
 msgid ""
 "Committed to delivering a positive learning experience for all students."
-msgstr ""
-"向学生传授有价值的学习经验。"
+msgstr "向学生传授有价值的学习经验。"
 
-#: introduction/xinclude.xml:1098(para)
+#: introduction/xinclude.xml:1085(para)
 msgid ""
 "Responsible for providing students with a course feedback questionnaire at "
 "the end of the course."
-msgstr ""
-"在课程结束时，提供调查问卷以便学生做出反馈。"
+msgstr "在课程结束时，提供调查问卷以便学生做出反馈。"
 
-#: introduction/xinclude.xml:1104(title)
+#: introduction/xinclude.xml:1091(title)
 msgid "Pre-Training Preparation/Checks"
 msgstr "培训前准备和检查"
 
-#: introduction/xinclude.xml:1107(para)
+#: introduction/xinclude.xml:1094(para)
 msgid ""
 "Familiarise yourself with the student profile and expectations. Some "
 "elements of the course may need to be customised."
-msgstr ""
-"了解学生的资质和期望。课程中的某些部分可能要按需进行调整。"
+msgstr "了解学生的资质和期望。课程中的某些部分可能要按需进行调整。"
 
-#: introduction/xinclude.xml:1112(para)
+#: introduction/xinclude.xml:1099(para)
 msgid ""
 "Pre-run and check all student and instructor computers and make sure they "
 "are functional and running well on Ubuntu."
-msgstr ""
-"检查并试运行学生和教员的计算机，确保 Ubuntu 在那些机器上能够正常运行。"
+msgstr "检查并试运行学生和教员的计算机，确保 Ubuntu 在那些机器上能够正常运行。"
 
-#: introduction/xinclude.xml:1117(para)
+#: introduction/xinclude.xml:1104(para)
 msgid ""
 "Ensure you check the classroom set-up guide, test each lab exercise and "
 "troubleshoot problems encountered, if any."
-msgstr ""
-"确保您阅读了课室的设备指南，测试实验练习并且解决可能出现的问题。"
+msgstr "确保您阅读了课室的设备指南，测试实验练习并且解决可能出现的问题。"
 
-#: introduction/xinclude.xml:1122(para)
+#: introduction/xinclude.xml:1109(para)
 msgid ""
 "Go through the Instructor Guide and the presentation slides in detail before "
 "getting into the classroom."
-msgstr ""
-"在正式讲课之前阅读教员指南和教学用幻灯片。"
+msgstr "在正式讲课之前阅读教员指南和教学用幻灯片。"
 
-#: introduction/xinclude.xml:1127(para)
+#: introduction/xinclude.xml:1114(para)
 msgid ""
 "Students may not be able to answer all the questions based on the content in "
 "the presentation slides. Please ensure to cover the related topics prior to "
 "posing the questions to the students."
 msgstr ""
-"学生可能由于教学幻灯片内容的局限而无法回答所有问题。请您在提出问题之前确保"
-"您的教学内容已覆盖相关的主题。"
+"学生可能由于教学幻灯片内容的局限而无法回答所有问题。请您在提出问题之前确保您"
+"的教学内容已覆盖相关的主题。"
 
-#: introduction/xinclude.xml:1133(para)
+#: introduction/xinclude.xml:1120(para)
 msgid ""
 "It is highly recommended that you teach each topic covered in the training "
 "material. However, if you are running short of time, optional topics are "
 "indicated in the Instructor Notes of each lesson."
 msgstr ""
-"强烈推荐您教授培训材料中包含的每个主题。当然，如果您的时间有限，每个章节的"
-"教员注记中也已标明哪些是可选主题。"
+"强烈推荐您教授培训材料中包含的每个主题。当然，如果您的时间有限，每个章节的教"
+"员注记中也已标明哪些是可选主题。"
 
-#: introduction/xinclude.xml:1142(title)
+#: introduction/xinclude.xml:1129(title)
 msgid "Instructional Methods"
 msgstr "教学方法"
 
-#: introduction/xinclude.xml:1143(para)
+#: introduction/xinclude.xml:1130(para)
 msgid "Here are some instructional methods that will be used to teach:"
 msgstr "以下是一些您可能会用到的教学方法："
 
-#: introduction/xinclude.xml:1147(para)
+#: introduction/xinclude.xml:1134(para)
 msgid ""
 "Slides and lecture: Slides will be used to explain concepts and also "
 "illustrate the step-by-step procedure to perform each task."
-msgstr ""
-"幻灯片和讲座: 幻灯片可以用来解释清楚概念和逐步演示操作步骤。"
+msgstr "幻灯片和讲座: 幻灯片可以用来解释清楚概念和逐步演示操作步骤。"
 
-#: introduction/xinclude.xml:1152(para)
+#: introduction/xinclude.xml:1139(para)
 msgid ""
 "Demonstrations: Instructor will perform live demonstrations of procedures "
 "that may be complicated for students, before doing a hands-on exercise."
 msgstr ""
-"示范: 在学生亲自动手开始练习之前，教员可以就一些对学员来说可能比较复杂的"
-"步骤进行示范。"
+"示范: 在学生亲自动手开始练习之前，教员可以就一些对学员来说可能比较复杂的步骤"
+"进行示范。"
 
-#: introduction/xinclude.xml:1157(para)
+#: introduction/xinclude.xml:1144(para)
 msgid ""
 "Review questions: Should be interspersed throughout each lesson, to ensure "
 "student understanding of key concepts."
-msgstr ""
-"复习题: 提问应贯穿在每节课的过程中，以确保学生能够理解关键的概念。"
+msgstr "复习题: 提问应贯穿在每节课的过程中，以确保学生能够理解关键的概念。"
 
-#: introduction/xinclude.xml:1162(para)
+#: introduction/xinclude.xml:1149(para)
 msgid ""
 "Lab exercises: At regular intervals, students will be performing hands-on "
 "lab exercises that replicate the real life scenarios."
@@ -679,75 +639,76 @@ msgstr ""
 "上机练习: 每隔一段时间，应让学生亲自动手做一些练习来模拟现实生活中可能会遇到"
 "的情况。"
 
-#: introduction/xinclude.xml:1169(title)
+#: introduction/xinclude.xml:1156(title)
 msgid "Instructional Tips/Guidelines"
 msgstr "一些教学提示和指导方针"
 
-#: introduction/xinclude.xml:1172(para)
+#: introduction/xinclude.xml:1159(para)
 msgid ""
 "Use conversational language that is easy to understand and sounds natural to "
 "the students."
 msgstr ""
-"使用较为直白的语言讲解，能让学生听起来更加自然舒服，且更有助于其理解相关内容。"
+"使用较为直白的语言讲解，能让学生听起来更加自然舒服，且更有助于其理解相关内"
+"容。"
 
-#: introduction/xinclude.xml:1176(para)
+#: introduction/xinclude.xml:1163(para)
 msgid "Create a comfortable, relaxed environment throughout."
 msgstr "保持环境舒适和轻松。"
 
-#: introduction/xinclude.xml:1180(para)
+#: introduction/xinclude.xml:1167(para)
 msgid ""
 "Be prompt with your responses to student queries. If you are not sure about "
 "anything, inform them and get back with your response the next day."
 msgstr ""
-"请尽快回答学生的疑问。如果有不确定的问题，应向学生说明情况并争取在隔天给出答复。"
+"请尽快回答学生的疑问。如果有不确定的问题，应向学生说明情况并争取在隔天给出答"
+"复。"
 
-#: introduction/xinclude.xml:1185(para)
+#: introduction/xinclude.xml:1172(para)
 msgid ""
 "Circulate around the room as students complete the exercise and reach out to "
 "students struggling with the exercise."
 msgstr ""
-"当学生进行练习时应当在教室中来回走动以发现在练习中遇到问题的学生，并给予"
-"帮助。"
+"当学生进行练习时应当在教室中来回走动以发现在练习中遇到问题的学生，并给予帮"
+"助。"
 
-#: introduction/xinclude.xml:1190(para)
+#: introduction/xinclude.xml:1177(para)
 msgid ""
 "Use technology (slides, demos, and guided lab exercises) in the most "
 "appropriate ways depending on the audience profile and their comfort with "
 "Ubuntu."
 msgstr ""
-"按照对象的资质和对 Ubuntu 的熟练程度，适当地使用各种教学手段 (幻灯片、范例"
-"和引导进行实验练习)。"
+"按照对象的资质和对 Ubuntu 的熟练程度，适当地使用各种教学手段 (幻灯片、范例和"
+"引导进行实验练习)。"
 
-#: introduction/xinclude.xml:1196(para)
+#: introduction/xinclude.xml:1183(para)
 msgid ""
 "Use presentation slides to stay on topic and avoid getting lost and cover "
 "the main points without forgetting anything. Glance at a specific point and "
 "quickly return attention to the students. Avoid reading out the slide word "
 "by word."
 msgstr ""
-"使用幻灯片帮助您专注于当前主题而避免离题，确保不遗漏任何有关信息的同时着重"
-"对主要的知识点进行讲解。偶尔看一眼特定的知识点，并尽快将您的注意力重新放回学"
-"生身上。避免单调地逐字复述幻灯片上的内容。"
+"使用幻灯片帮助您专注于当前主题而避免离题，确保不遗漏任何有关信息的同时着重对"
+"主要的知识点进行讲解。偶尔看一眼特定的知识点，并尽快将您的注意力重新放回学生"
+"身上。避免单调地逐字复述幻灯片上的内容。"
 
-#: introduction/xinclude.xml:1203(para)
+#: introduction/xinclude.xml:1190(para)
 msgid ""
 "To encourage interactivity, use the lab exercises throughout the lesson."
-msgstr ""
-"为了激发学生的积极性，在课堂上贯穿进行实验练习。"
+msgstr "为了激发学生的积极性，在课堂上贯穿进行实验练习。"
 
-#: introduction/xinclude.xml:1209(title)
+#: introduction/xinclude.xml:1196(title)
 msgid "Lecture Components"
 msgstr "课程结构"
 
-#: introduction/xinclude.xml:1210(para)
+#: introduction/xinclude.xml:1197(para)
 msgid "Each lecture can be divided in the following components."
 msgstr "每个课程包括以下几个部分。"
 
-#: introduction/xinclude.xml:1215(para)
+#: introduction/xinclude.xml:1202(para)
 msgid "On the first day,"
 msgstr "在第一天，"
 
-#: introduction/xinclude.xml:1218(para)
+#: introduction/xinclude.xml:1205(para)
 msgid ""
 "Welcome the students and introduce yourself followed by students introducing "
 "themselves - name, professional background, and company, expectations and "
@@ -756,41 +717,40 @@ msgstr ""
 "欢迎学生们，然后做一个自我介绍，再让学生们介绍自己，包括名字、职业背景、所在"
 "公司、对本课程的期望和对 Linux 操作系统的熟悉程度。"
 
-#: introduction/xinclude.xml:1224(para)
+#: introduction/xinclude.xml:1211(para)
 msgid ""
 "Clearly state the purpose and objectives of the training in general terms."
-msgstr ""
-"明确介绍整个培训的教学意图和目标。"
+msgstr "明确介绍整个培训的教学意图和目标。"
 
-#: introduction/xinclude.xml:1228(para)
+#: introduction/xinclude.xml:1215(para)
 msgid "Establish the ground rules for breaks."
 msgstr "制定课间休息的规则。"
 
-#: introduction/xinclude.xml:1233(title)
+#: introduction/xinclude.xml:1220(title)
 msgid "Context Setting"
 msgstr "内容设置"
 
-#: introduction/xinclude.xml:1234(para)
+#: introduction/xinclude.xml:1221(para)
 msgid "Use any/all of the following methods:"
 msgstr "使用下列方法："
 
-#: introduction/xinclude.xml:1237(para)
+#: introduction/xinclude.xml:1224(para)
 msgid "Giving out a brief introduction to the topic."
 msgstr "对主题进行简要介绍。"
 
-#: introduction/xinclude.xml:1241(para)
+#: introduction/xinclude.xml:1228(para)
 msgid "Explaining why the topic is important from learner's perspective."
 msgstr "从学习者的角度解释为何该主题很重要。"
 
-#: introduction/xinclude.xml:1245(para)
+#: introduction/xinclude.xml:1232(para)
 msgid "Providing a link from the previous to the current topic."
 msgstr "联系之前学习的主题"
 
-#: introduction/xinclude.xml:1251(title)
+#: introduction/xinclude.xml:1238(title)
 msgid "Main Body"
 msgstr "主要内容"
 
-#: introduction/xinclude.xml:1252(para)
+#: introduction/xinclude.xml:1239(para)
 msgid ""
 "You could use any or all of the Instructional methods listed above. However, "
 "depending on the student profile and the complexity of the content piece to "
@@ -798,10 +758,10 @@ msgid ""
 "wide range of teaching styles and methods is also a good instructional "
 "practice as it brings in variety and breaks monotony."
 msgstr ""
-"您可以使用以上介绍的任意教学方法，也可以按照学生的资质和教学内容的复杂程度任意"
-"组合以上提到的方法。采用多样的教学风格和方法可以避免单调，有利于教学实践。"
+"您可以使用以上介绍的任意教学方法，也可以按照学生的资质和教学内容的复杂程度任"
+"意组合以上提到的方法。采用多样的教学风格和方法可以避免单调，有利于教学实践。"
 
-#: introduction/xinclude.xml:1261(para)
+#: introduction/xinclude.xml:1248(para)
 msgid ""
 "For complex topics, demonstrate the procedure and then have the students "
 "practice the lab exercise. If the topic is fairly simple, put up the slides "
@@ -811,35 +771,33 @@ msgstr ""
 "对于较复杂的主题，先进行示范，然后再让学生进行上机练习。如果该主题比较简单，"
 "可以在使用幻灯片进行过程演示时让学生自行进行练习。"
 
-#: introduction/xinclude.xml:1268(para)
+#: introduction/xinclude.xml:1255(para)
 msgid "Explain how and when to use each option on the interface."
 msgstr "解释如何和何时需要去使用界面上的选项。"
 
-#: introduction/xinclude.xml:1275(title)
+#: introduction/xinclude.xml:1262(title)
 msgid "Summary"
 msgstr "总结"
 
-#: introduction/xinclude.xml:1276(para)
+#: introduction/xinclude.xml:1263(para)
 msgid ""
 "Always summarize key points of the lesson: The lecture can be summarized by:"
-msgstr ""
-"注意总结每节课的重点: 可以按照以下步骤结束一堂课："
+msgstr "注意总结每节课的重点: 可以按照以下步骤结束一堂课："
 
-#: introduction/xinclude.xml:1280(para)
+#: introduction/xinclude.xml:1267(para)
 msgid "Asking for questions."
 msgstr "让学生提出疑问。"
 
-#: introduction/xinclude.xml:1283(para)
+#: introduction/xinclude.xml:1270(para)
 msgid "Asking questions."
 msgstr "对学生提出问题。"
 
-#: introduction/xinclude.xml:1286(para)
+#: introduction/xinclude.xml:1273(para)
 msgid ""
 "Using the Lesson Summary presentation slide, which highlight the main points."
-msgstr ""
-"使用课程总结幻灯片，并在其中标明重点。"
+msgstr "使用课程总结幻灯片，并在其中标明重点。"
 
-#: introduction/xinclude.xml:1290(para)
+#: introduction/xinclude.xml:1277(para)
 msgid "Reiterating how the topic relates with the learner's job."
 msgstr "重申该主题与学生实际工作之间的相关性。"
 
@@ -853,3 +811,26 @@ msgstr ""
 "  Azrael Green https://launchpad.net/~azrael-green\n"
 "  Jimhu https://launchpad.net/~huyiwei\n"
 "  王英华 https://launchpad.net/~wantinghard"
+
+#~ msgid ""
+#~ "Sample material for various exercises is available through the ubuntu-"
+#~ "desktop-course-resources package. The most current package is available "
+#~ "through the canonical-training PPA (Personal Package Archive) in "
+#~ "Launchpad: https://launchpad.net/~canonical-training/+archive."
+#~ msgstr ""
+#~ "可以通过安装 ubuntu-desktop-course-resources 软件包以获得本课程中各个练习"
+#~ "的样例。最新版本的软件包可以通过 Canonical-training 的 PPA(个人软件仓库) "
+#~ "获得: https://launchpad.net/~canonical-training/+archive。"
+
+#~ msgid "Instructor Notes:"
+#~ msgstr "教员注记："
+
+#~ msgid ""
+#~ "The ubuntu-desktop-course-resource package should be installed on all "
+#~ "systems before the course starts. The sample files are placed in /usr/"
+#~ "share/ubuntu-desktop-course. It is recommended to add a link to the "
+#~ "directory on the students desktop."
+#~ msgstr ""
+#~ "开始本课程之前，每个学生系统中必须提前安装 ubuntu-desktop-course-resource "
+#~ "软件包。参考样例文件位于 /usr/share/ubuntu-desktop-course。推荐在每个学生"
+#~ "的桌面上添加指向该目录的一个快捷方式。"
