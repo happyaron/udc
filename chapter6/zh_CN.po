@@ -1354,7 +1354,7 @@ msgstr "在此组件中的所有软件包都能完美地运行工作。不过，
 
 #: chapter6/xinclude.xml:1568(para)
 msgid "It could be considered risky to use packages from the Universe component, especially because the lack of guaranteed security updates."
-msgstr "使用 Universe 组件的软件包可以认为是有风险的，尤其是因为它们不保证有安全更新。"
+msgstr "使用 Universe 组件的软件包可能会有风险，最重要的原因是它们不保证有安全更新。"
 
 #: chapter6/xinclude.xml:1574(title)
 msgid "The Multiverse Component"
