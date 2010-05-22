@@ -133,7 +133,7 @@
         <title>Linus Benedict Torvalds</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/chapter1_img_02.png" format="PNG"/>
+            <imagedata fileref="images/chapter1_img_02.png"  format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -191,7 +191,7 @@
         <title>Founders of the Open Source Movement</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/chapter1_img_03.png" format="PNG"/>
+            <imagedata fileref="images/chapter1_img_03.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -317,7 +317,7 @@
         <title>Ubuntu Versions</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/chapter1_img_05.png" width="100%" format="PNG"/>
+            <imagedata fileref="images/chapter1_img_05.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1257,7 +1257,7 @@
         <title>Evolution E-mail Client</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson02_images_008.png" width="15cm" format="PNG"/>
+            <imagedata fileref="images/Lesson02_images_008.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1273,7 +1273,7 @@
           <title>OpenOffice.org Writer</title>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson02_images_009.png" width="15cm" format="PNG"/>
+              <imagedata fileref="images/Lesson02_images_009.png" width="17cm" format="PNG"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1314,7 +1314,7 @@
         <title>GIMP</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson02_images_010.png" width="15cm" format="PNG"/>
+            <imagedata fileref="images/Lesson02_images_010.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
