@@ -776,7 +776,7 @@ msgstr "OpenOffice.org 图画(Draw)是一款矢量图形编辑器，为创建小
 
 #: chapter4/xinclude.xml:183(para)
 msgid "You can use Math for creating and editing mathematical equations by using a graphic user interface or by directly typing the formula into the equation editor. The formula created in this manner can then be inserted into other OpenOffice.org programmes, such as Writer, Calc and Impress."
-msgstr "您可使用 Math 的图形用户界面或在表达式编辑器中直接输入公式来创建和编辑数学表达式。通过此方式创建的公式可插入到其它 OpenOffice.org 程序中，如 Writer、Calc 和 Impress。"
+msgstr "您可使用 Openoffice.org 公式（Math）的图形用户界面或在表达式编辑器中直接输入公式来创建和编辑数学表达式。通过此方式创建的公式可插入到其它 OpenOffice.org 程序中，如 Writer、Calc 和 Impress。"
 
 #: chapter4/xinclude.xml:190(title)
 #: chapter4/xinclude.xml:918(title)
@@ -2570,7 +2570,7 @@ msgstr "使用 OpenOffice.org 公式"
 
 #: chapter4/xinclude.xml:3170(para)
 msgid "Math is the equation writer component of OpenOffice.org office software suite. It contains a number of functions, operators and formatting assistants to help you create properly formatted equations and formulae. These formulae can then be imported for display in any other OpenOffice.org applications."
-msgstr "Math 是 OpenOffice.org 办公套件中的公式编辑工具。它包括一系列的函数，运算符和格式助手。您可以使用 Math 来创建格式完整的等式和方程式。这些式子可以插入到其他任意 OpenOffice.org 程序中。"
+msgstr "Openoffice.org 公式（以下简称 Math）是 OpenOffice.org 办公套件中的公式编辑工具。它包括一系列的函数，运算符和格式助手。您可以使用 Math 来创建格式完整的等式和方程式。这些式子可以插入到其他任意 OpenOffice.org 程序中。"
 
 #: chapter4/xinclude.xml:3177(title)
 msgid "Key Features of OpenOffice.org Math"
