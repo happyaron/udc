@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course customizing-the-desktop-and-applications\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-29 15:59+0800\n"
-"PO-Revision-Date: 2010-01-08 04:45+0800\n"
+"PO-Revision-Date: 2010-05-22 17:44+0800\n"
 "Last-Translator: Ni Hui <shuizhuyuanluo@126.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -1406,7 +1406,7 @@ msgstr "添加其它软件源"
 
 #: chapter6/xinclude.xml:1659(para)
 msgid "Type the APT line for the repository you want to add as a source. To access the Debian main repositories, type <emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge main</emphasis> in the <emphasis role=\"strong\">APT line</emphasis> box. Click <emphasis role=\"strong\">Add Source</emphasis>."
-msgstr "在 APT 行中输入您想要添加为软件源的仓库。要访问 Debian main 仓库，请在 <emphasis role=\"strong\">APT 行</emphasis> 框中输入 <emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge main</emphasis>。点击 <emphasis role=\"strong\">添加源 </emphasis>。"
+msgstr "在 APT 行中输入您想要添加为软件源的仓库。要访问 Debian main 仓库，请在 <emphasis role=\"strong\">APT 行</emphasis> 框中输入 <emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> testing main</emphasis>。点击 <emphasis role=\"strong\">添加源 </emphasis>。"
 
 #: chapter6/xinclude.xml:1667(para)
 msgid "The APT line should include the type, location and components of a repository."

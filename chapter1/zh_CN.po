@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introducting-ubuntu\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-05-22 16:21+0800\n"
-"PO-Revision-Date: 2010-05-18 21:28+0800\n"
+"PO-Revision-Date: 2010-05-22 17:28+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -745,24 +745,22 @@ msgid ""
 msgstr "2009年10月发布，支持到2011年04月。"
 
 #: chapter1/xinclude.xml:429(title)
-msgid "Ubuntu 10.04 (Lucid Lynx)"
-msgstr "Ubuntu 10.04 (Lucid Lynx，清醒的猞猁)"
+msgid "Ubuntu 10.04 LTS (Lucid Lynx)"
+msgstr "Ubuntu 10.04 LTS (Lucid Lynx，清醒的猞猁)"
 
 #: chapter1/xinclude.xml:430(para)
 msgid "Ubuntu 10.04 LTS is the third Long Term Support Release of Ubuntu."
-msgstr ""
+msgstr "2010年04月发布，是 Ubuntu 的第三个长期支持版，桌面支持到 2013年04月，服务器支持到 2015年04月。"
 
 #: chapter1/xinclude.xml:435(title)
-#, fuzzy
 msgid "Ubuntu 10.10 (Maverick Meerkat)"
-msgstr "Ubuntu 9.10 (Karmic Koala，幸运的考拉)"
+msgstr "Ubuntu 10.10 (Maverick Meerkat，标新立异的猫鼬)"
 
 #: chapter1/xinclude.xml:436(para)
-#, fuzzy
 msgid ""
 "Scheduled for release in October 2010, Ubuntu 10.10 will be the next Ubuntu "
 "release. This release will be supported until April 2012."
-msgstr "2009年10月发布，支持到2011年04月。"
+msgstr "计划与 2010年10月发布，支持到2012年04月。"
 
 #: chapter1/xinclude.xml:443(title)
 msgid "Ubuntu Derivatives"
