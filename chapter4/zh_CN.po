@@ -2790,7 +2790,7 @@ msgstr "<emphasis role=\"strong\">交易拆分：</emphasis>交易拆分特性�
 
 #: chapter4/xinclude.xml:3555(para)
 msgid "<emphasis role=\"strong\">HBCI Support:</emphasis> GnuCash also supports the German Home Banking Computer Information (HBCI) protocol. This feature is useful for German users who need not enter the details of their bank account manually. They can directly perform online bank account transfers, download bank statements and make direct debits."
-msgstr "<emphasis role=\"strong\">HBCI 支持：</emphasis> GnuCash 支持 HBCI 协议。这一特性对于德国用户来说非常有用。他们无须手工输入自己的银行帐户信息。而可以直接运行在线银行帐户转换，下载银行对帐单并直接进行管理。"
+msgstr "<emphasis role=\"strong\">HBCI 支持：</emphasis> GnuCash 支持 HBCI 协议。这一特性对于身在德国的用户来说特别有用。他们无须手工输入自己的银行帐户信息。而可以直接运行在线银行帐户转换，下载银行对帐单并直接进行管理。"
 
 #: chapter4/xinclude.xml:3564(para)
 msgid "<emphasis role=\"strong\">Scheduled Transactions:</emphasis> Users can schedule transactions in GnuCash as per their requirements, and they can also set a reminder for the transactions. This feature does not require you to remember which transaction needs to run at what time. The software will automatically keep track of the transaction and run the transaction at the scheduled time. You can also re-schedule the transactions, when required."
@@ -2802,7 +2802,7 @@ msgstr "<emphasis role=\"strong\">交易搜索：</emphasis>即使是最细小�
 
 #: chapter4/xinclude.xml:3586(para)
 msgid "<emphasis role=\"strong\">New User Manual and Help:</emphasis> GnuCash provides a new Tutorial and Concepts guide to give an overview of the accounting principles to new users. This helps the users apply the principles effectively and gives them the exact procedure of each task."
-msgstr "<emphasis role=\"strong\">新用户手册和帮助：</emphasis> GnuCash 提供了新用户教程和概念指导，来使新用户逐步了解会计原则。这一特性帮助用户有效应用记账守则，并快速了解每个任务的具体流程。"
+msgstr "<emphasis role=\"strong\">新用户手册和帮助：</emphasis> GnuCash 提供了新用户教程和基本概念指导，来使新用户逐步了解会计原则。这一特性可以帮助用户有效应用记账守则，并快速了解每个任务的具体流程。"
 
 #: chapter4/xinclude.xml:3489(para)
 msgid "Using GnuCash is like filling your personal finance information in a register but in a more organised way. The following features make GnuCash a very useful, powerful, yet flexible software programme: <placeholder-1/>"
