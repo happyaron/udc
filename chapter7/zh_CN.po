@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-05-22 17:46+0800\n"
+"PO-Revision-Date: 2010-05-24 11:28+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -787,7 +787,7 @@ msgstr "<ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\"
 
 #: chapter7/xinclude.xml:880(para)
 msgid "Check the status of your scanner at the following Web site: <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink>. This site lists the drivers distributed with sane-backends-1.0.18 and supported hardware and software."
-msgstr "可在 <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink> 站点检查您的扫描仪状态。该站点列出了 sane-backends-1.0.18 下的驱动程序以及所支持的软硬件。"
+msgstr "可在 <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink> 站点检查您的扫描仪状态。该站点列出了最新的 sane-backends 锁包含的驱动程序以及所支持的软硬件。"
 
 #: chapter7/xinclude.xml:872(para)
 msgid "You can check the compatibility of your scanner with Ubuntu in one of two ways: <placeholder-1/>"
@@ -799,23 +799,23 @@ msgstr "扫描图像"
 
 #: chapter7/xinclude.xml:891(para)
 msgid "You can scan an image by using the scanner interface or the scanning application XSane, which is available in Ubuntu."
-msgstr "用户可以通过扫描仪接口扫描图像，或者使用 Ubuntu 下自带的 XSane 图像扫描器进行。"
+msgstr "用户可以通过扫描仪接口扫描图像，或者使用 Ubuntu 下自带的扫描易图像扫描软件。扫描易是专门为 Ubuntu 10.04 LTS 而全新编制的简易扫描工具，相比于原有的 XSane，扫描易仅提供了最常用的部分功能使得操作更加简便。如果您需要使用更多高级特性，建议您使用软件中心安装 XSane。"
 
 #: chapter7/xinclude.xml:895(title)
 msgid "To scan an image by using XSane:"
-msgstr "使用 XSane 扫描图像："
+msgstr "使用扫描易扫描图像："
 
 #: chapter7/xinclude.xml:898(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">XSane Image Scanner</emphasis>. XSane automatically searches for a scanner attached to the computer. After your computer detects the scanner, the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box is displayed."
-msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单下，单击 <emphasis role=\"strong\">图形</emphasis> 项下的 <emphasis role=\"strong\">XSane 图像扫描器</emphasis>。XSane 将自动搜索电脑上的扫描仪设备。当检测到扫描仪时，将自动打开 <emphasis role=\"strong\">XSane 选项</emphasis> 对话框。"
+msgstr "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单下，单击 <emphasis role=\"strong\">图形</emphasis> 项下的 <emphasis role=\"strong\">扫描易</emphasis>。如果有多个扫描仪或需要修改默认设置，请在主界面上点击 <emphasis role=\"strong\">文档</emphasis> 菜单下的 <emphasis role=\"strong\">首选项</emphasis> 以进行设置。"
 
 #: chapter7/xinclude.xml:907(para)
 msgid "The <emphasis role=\"strong\">XSane Options</emphasis> dialogue box provides options to modify the default settings of the output. You can specify the number of copies to be scanned, the name of the output file, the output file type, and colour and contrast options. After you specify the properties of the output file, place the object on the scanner and click Scan to begin scanning the object."
-msgstr "<emphasis role=\"strong\">XSane 选项</emphasis> 对话框中提供了一些选项来修改默认的输出设置。用户可以指定扫描的份数、输出文件名及文件类型，设置色彩和对比度等选项。在指定的输出文件的属性后，将扫描对象放入扫描仪，点击扫描开始扫描对象。"
+msgstr "<emphasis role=\"strong\">首选项</emphasis> 对话框中提供了一些选项来修改默认的输出设置。用户可以指定使用的扫描仪、文字和图像的分辨率、扫描页面以及页面大小。在指定的输出文件的属性后，将扫描对象放入扫描仪，点击扫描开始扫描对象。"
 
 #: chapter7/xinclude.xml:916(title)
 msgid "Using XSane"
-msgstr "XSane 的使用"
+msgstr "使用扫描易"
 
 #: chapter7/xinclude.xml:927(para)
 msgid "After the object is scanned, a viewer window displays the output."
@@ -831,7 +831,7 @@ msgstr "在开始扫描操作之前，请检查您的扫描仪与 Ubuntu 的的�
 
 #: chapter7/xinclude.xml:951(para)
 msgid "Continue to scan other images or close the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box to exit the application."
-msgstr "继续扫描其他图像或关闭 <emphasis role=\"strong\">XSane选项</emphasis> 对话框，退出应用程序。"
+msgstr "扫描完成后您可以进行简单的旋转和剪裁操作，或继续扫描其他对象。"
 
 #: chapter7/xinclude.xml:959(title)
 msgid "Lesson Summary"
