@@ -159,7 +159,7 @@ msgstr "在 Ubuntu 上安装游戏"
 
 #: chapter5/xinclude.xml:27(para)
 msgid "The default installation package of Ubuntu 8.04 LTS comes with 17 Ubuntu games, including Aisleriot, Solitaire, Gnometris and Mines. In addition, you can install many games from other repositories."
-msgstr "默认安装的 Ubuntu 9.10 有 16 个 Ubuntu 游戏，包括 Aisleriot、纸牌、Gnome 方块和扫雷等。另外，您还可以从其他的软件仓库中安装更多的游戏。"
+msgstr "默认安装的 Ubuntu 10.04 有 6 个游戏，包括对对碰、俄罗斯方块和扫雷等。另外，您还可以从其他的软件仓库中安装更多的游戏。"
 
 #: chapter5/xinclude.xml:32(title)
 #: chapter5/xinclude.xml:173(title)
@@ -209,7 +209,7 @@ msgstr "启动 Ubuntu 软件中心"
 
 #: chapter5/xinclude.xml:76(para)
 msgid "In the <emphasis role=\"strong\">Add/Remove Applications</emphasis> window, select <emphasis role=\"strong\">Games</emphasis> from the left pane of the window to display a list of games in the top section of the right pane, along with the popularity of each game among users. The bottom section in the right pane displays a brief description of the game selected."
-msgstr "在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis role=\"strong\">获取自由软件</emphasis> 首页的软件分类选择 <emphasis role=\"strong\">游戏</emphasis>，将前进到游戏列表。"
+msgstr "在 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 中的 <emphasis role=\"strong\">获取软件</emphasis> 首页的软件分类选择 <emphasis role=\"strong\">游戏</emphasis>，软件中心右下角将显示游戏列表。"
 
 #: chapter5/xinclude.xml:84(title)
 msgid "Add/Remove Applications window"
@@ -225,7 +225,7 @@ msgstr "改变列表选项"
 
 #: chapter5/xinclude.xml:111(para)
 msgid "You can navigate through the list of games or search a game by its name. To initiate a search, type the name of the game in the <emphasis role=\"strong\">Search</emphasis> box and press Enter. The top section of the right pane displays the search results. Select the check box next to the game to mark it for installation and click <emphasis role=\"strong\">Apply Changes</emphasis>. A dialogue box opens, which requires confirmation to proceed with the installation."
-msgstr "您可以在游戏列表选择游戏，或者基于名称搜索相应游戏。要进行搜索，请在右上角的搜索框中输入游戏的名字。会显示搜索结果。点击游戏名称右边的前进按钮，将进入游戏介绍页面，此页面将给出游戏截图和简要介绍，点击下方的 <emphasis role=\"strong\">安装</emphasis> 按钮。获得授权后即开始安装游戏。"
+msgstr "您可以在游戏列表选择游戏，或者基于名称搜索相应游戏。要进行搜索，请在右上角的搜索框中输入游戏的名字。将实时显示搜索结果。点击游戏名称下方的 <emphasis role=\"strong\">更多信息</emphasis> 按钮，将进入游戏介绍页面，此页面将给出游戏截图和简要介绍。点击 <emphasis role=\"strong\">安装</emphasis> 按钮，获得授权后即开始安装游戏。"
 
 #: chapter5/xinclude.xml:121(title)
 msgid "Searching a Game"
