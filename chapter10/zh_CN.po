@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-01-04 22:50+0800\n"
-"PO-Revision-Date: 2010-05-19 21:13+0800\n"
+"PO-Revision-Date: 2010-05-25 19:16+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -263,7 +263,7 @@ msgstr "/var：此目录包含可变数据，例如新闻文章、电子邮件�
 # 怎么最后只有半句话？
 #: chapter10/xinclude.xml:246(para)
 msgid "/tmp: This directory contains temporary data created by programmes. Some applications, including archive manipulators, CD/DVD authoring tools and multi-media software also use this directory to temporarily store image files. You need to plan space allocation for this directory based on your usage of these applications."
-msgstr "/tmp：此目录包含程序创建的临时文件。一些应用程序，包括压缩包包处理程序、光盘创作工具和多媒体软件也使用此目录来临时存放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。"
+msgstr "/tmp：此目录包含程序创建的临时文件。重启之后这个目录将会被清空！一些应用程序，包括压缩包包处理程序、光盘创作工具和多媒体软件也使用此目录来临时存放图像文件。需要根据使用这些程序的情况计划好此目录的空间分配。"
 
 # 这句不好听
 #: chapter10/xinclude.xml:255(para)
