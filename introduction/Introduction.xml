@@ -102,7 +102,7 @@
   </sect1>
   <sect1>
     <title>Ubuntu Session Plan</title>
-    <informaltable>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -215,8 +215,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -293,8 +293,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -378,8 +378,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -479,8 +479,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -539,8 +539,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -671,8 +671,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -756,8 +756,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -883,8 +883,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -984,8 +984,8 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
-    <informaltable>
+    </table>
+    <table>
       <tgroup cols="2">
 	<colspec align="left" colname="col1" colwidth="11cm"/>
 	<colspec align="left" colname="col2" colwidth="2cm"/>
@@ -1061,7 +1061,7 @@
 	  </row>
 	</tbody>
       </tgroup>
-    </informaltable>
+    </table>
   </sect1>
   <sect1 userlevel="instructor">
     <title>Instructor Responsibilities</title>
