@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-05-19 21:00+0800\n"
-"PO-Revision-Date: 2010-05-19 21:34+0800\n"
+"PO-Revision-Date: 2010-05-27 15:08+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1464,8 +1464,8 @@ msgid "Xine"
 msgstr "Xine"
 
 #: chapter8/xinclude.xml:1497(para)
-msgid "Totem-xine"
-msgstr "Totem-xine"
+msgid "GStreamer"
+msgstr "GStreamer"
 
 #: chapter8/xinclude.xml:1501(para)
 msgid "Totem Movie Player, the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."

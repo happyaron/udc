@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-05-22 16:29+0800\n"
+"POT-Creation-Date: 2010-05-27 15:47+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -299,43 +299,43 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1613(None)
+#: chapter6/xinclude.xml:1619(None)
 msgid "@@image: 'images/Lesson07_images_049.png'; md5=9b7e2454304b63e1d57f734b386a0858"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1627(None)
+#: chapter6/xinclude.xml:1633(None)
 msgid "@@image: 'images/Lesson07_images_050.png'; md5=5e25dc335c5b75cd04618d3d02c8deb8"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1652(None)
+#: chapter6/xinclude.xml:1658(None)
 msgid "@@image: 'images/Lesson07_images_051.png'; md5=75230712e216a8cea22fb90c6e8616ec"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1676(None)
+#: chapter6/xinclude.xml:1682(None)
 msgid "@@image: 'images/Lesson07_images_052.png'; md5=af339f67b1807a26eafceab6654d2054"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1693(None)
+#: chapter6/xinclude.xml:1699(None)
 msgid "@@image: 'images/Lesson07_images_053.png'; md5=98476086c4e90b2b9659cf93e7b3314a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1708(None)
+#: chapter6/xinclude.xml:1714(None)
 msgid "@@image: 'images/Lesson07_images_054.png'; md5=e9779428ad65af0efb6ddf6e83a086ca"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter6/xinclude.xml:1732(None)
+#: chapter6/xinclude.xml:1738(None)
 msgid "@@image: 'images/Lesson07_images_055.png'; md5=cbbc1be65a5903eaf0978abd83429140"
 msgstr ""
 
@@ -403,7 +403,7 @@ msgstr ""
 msgid "The graphical tools to customize the desktop are available as menu options in the <emphasis role=\"strong\">System</emphasis> menu. Point to <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">System menu</emphasis> to view the tools."
 msgstr ""
 
-#: chapter6/xinclude.xml:63(title) chapter6/xinclude.xml:370(title) chapter6/xinclude.xml:426(title) chapter6/xinclude.xml:919(title) chapter6/xinclude.xml:976(title) chapter6/xinclude.xml:1031(title) chapter6/xinclude.xml:1049(title) chapter6/xinclude.xml:1082(title) chapter6/xinclude.xml:1204(title) chapter6/xinclude.xml:1260(title) chapter6/xinclude.xml:1285(title) chapter6/xinclude.xml:1413(title) chapter6/xinclude.xml:1442(title) chapter6/xinclude.xml:1633(title) chapter6/xinclude.xml:1665(title)
+#: chapter6/xinclude.xml:63(title) chapter6/xinclude.xml:370(title) chapter6/xinclude.xml:426(title) chapter6/xinclude.xml:919(title) chapter6/xinclude.xml:976(title) chapter6/xinclude.xml:1031(title) chapter6/xinclude.xml:1049(title) chapter6/xinclude.xml:1082(title) chapter6/xinclude.xml:1204(title) chapter6/xinclude.xml:1260(title) chapter6/xinclude.xml:1285(title) chapter6/xinclude.xml:1413(title) chapter6/xinclude.xml:1442(title) chapter6/xinclude.xml:1511(title) chapter6/xinclude.xml:1639(title) chapter6/xinclude.xml:1671(title)
 msgid "Note:"
 msgstr ""
 
@@ -887,7 +887,7 @@ msgstr ""
 msgid "Browser mode: Opens your folders in a single window. Only one file manager opens in browser mode, and it is updated when you click another folder in the file manager."
 msgstr ""
 
-#: chapter6/xinclude.xml:827(title) chapter6/xinclude.xml:1566(title) chapter6/xinclude.xml:1586(title) chapter6/xinclude.xml:1908(title)
+#: chapter6/xinclude.xml:827(title) chapter6/xinclude.xml:1572(title) chapter6/xinclude.xml:1592(title) chapter6/xinclude.xml:1914(title)
 msgid "Instructor Notes:"
 msgstr ""
 
@@ -1279,343 +1279,347 @@ msgstr ""
 msgid "Ubuntu repositories are categorised into four groups based on the level of support that software development teams provide for a programme and the level of compliance the programme has with the free software philosophy."
 msgstr ""
 
-#: chapter6/xinclude.xml:1512(emphasis)
+#: chapter6/xinclude.xml:1513(para)
+msgid "Warnings about installing <emphasis role=\"strong\">third party software</emphasis>."
+msgstr ""
+
+#: chapter6/xinclude.xml:1518(emphasis)
 msgid "Main"
 msgstr ""
 
-#: chapter6/xinclude.xml:1516(emphasis)
+#: chapter6/xinclude.xml:1522(emphasis)
 msgid "Restricted"
 msgstr ""
 
-#: chapter6/xinclude.xml:1520(emphasis)
+#: chapter6/xinclude.xml:1526(emphasis)
 msgid "Universe"
 msgstr ""
 
-#: chapter6/xinclude.xml:1524(emphasis)
+#: chapter6/xinclude.xml:1530(emphasis)
 msgid "Multiverse"
 msgstr ""
 
-#: chapter6/xinclude.xml:1529(title)
+#: chapter6/xinclude.xml:1535(title)
 msgid "The Main Component"
 msgstr ""
 
-#: chapter6/xinclude.xml:1531(para)
+#: chapter6/xinclude.xml:1537(para)
 msgid "The Main component contains software packages that are free and fully supported by the Canonical team. These packages comply with the free software philosophy and are available by default while installing Ubuntu. For all packages in the Main component, security updates and technical support are available free of cost. OpenOffice.org, Abiword and the Apache web server are some of the packages available there."
 msgstr ""
 
-#: chapter6/xinclude.xml:1541(title)
+#: chapter6/xinclude.xml:1547(title)
 msgid "The Restricted Component"
 msgstr ""
 
-#: chapter6/xinclude.xml:1543(para)
+#: chapter6/xinclude.xml:1549(para)
 msgid "The Restricted component consists of packages for commonly used software that are supported by the Ubuntu team but not available under a completely free license. Binary drivers produced by some video card vendors are an example of packages available there. Packages in this component are also available on the standard Ubuntu installation CD, but they can be easily removed."
 msgstr ""
 
-#: chapter6/xinclude.xml:1552(title)
+#: chapter6/xinclude.xml:1558(title)
 msgid "The Universe Component"
 msgstr ""
 
-#: chapter6/xinclude.xml:1554(para)
+#: chapter6/xinclude.xml:1560(para)
 msgid "The Universe component includes thousands of packages for software that is not officially supported by Canonical. The software is available under a variety of free licenses, taken from a variety of public sources. This component is available only through Internet downloading."
 msgstr ""
 
-#: chapter6/xinclude.xml:1561(para)
+#: chapter6/xinclude.xml:1567(para)
 msgid "All the packages in this component are expected to work perfectly. However, there is no guarantee of security fixes and support for these packages. These packages are maintained by the community."
 msgstr ""
 
-#: chapter6/xinclude.xml:1568(para)
+#: chapter6/xinclude.xml:1574(para)
 msgid "It could be considered risky to use packages from the Universe component, especially because the lack of guaranteed security updates."
 msgstr ""
 
-#: chapter6/xinclude.xml:1574(title)
+#: chapter6/xinclude.xml:1580(title)
 msgid "The Multiverse Component"
 msgstr ""
 
-#: chapter6/xinclude.xml:1576(para)
+#: chapter6/xinclude.xml:1582(para)
 msgid "The Multiverse component contains packages of non-free software, which means that the licensing requirements of the software does not meet the license policy of Ubuntu's Main component. It is the user's responsibility to verify their rights to use the software and comply with the individual licensing terms. Support and security updates are not provided. Examples of these packages include VLC and the Adobe Flash plugin."
 msgstr ""
 
-#: chapter6/xinclude.xml:1588(para)
+#: chapter6/xinclude.xml:1594(para)
 msgid "Software from the Multiverse component could be hindered by patents and restriction on usage and distribution. It is the user's responsibility to determine if the software can be used in its jurisdiction and complies with local laws."
 msgstr ""
 
-#: chapter6/xinclude.xml:1594(para)
+#: chapter6/xinclude.xml:1600(para)
 msgid "Many packages are not available in default Ubuntu repositories. These packages can either be installed from other Ubuntu repositories or from third-party software. To use the packages present in third-party software, you need to add the software and the repositories."
 msgstr ""
 
-#: chapter6/xinclude.xml:1600(title)
+#: chapter6/xinclude.xml:1606(title)
 msgid "Perform the following steps to add the third-party software and repositories:"
 msgstr ""
 
-#: chapter6/xinclude.xml:1604(para)
+#: chapter6/xinclude.xml:1610(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Software Sources</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1609(title)
+#: chapter6/xinclude.xml:1615(title)
 msgid "Launching Software Sources Dialogue Box"
 msgstr ""
 
-#: chapter6/xinclude.xml:1618(para)
+#: chapter6/xinclude.xml:1624(para)
 msgid "The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box opens. The software sources for Ubuntu are selected by default."
 msgstr ""
 
-#: chapter6/xinclude.xml:1623(title)
+#: chapter6/xinclude.xml:1629(title)
 msgid "Selecting the Required Sources"
 msgstr ""
 
-#: chapter6/xinclude.xml:1635(para)
+#: chapter6/xinclude.xml:1641(para)
 msgid "You can also open the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box by using the Add/Remove applications or Synaptic Package Manager to enable the repositories under the <emphasis role=\"strong\">Ubuntu Software</emphasis> tab."
 msgstr ""
 
-#: chapter6/xinclude.xml:1644(para)
+#: chapter6/xinclude.xml:1650(para)
 msgid "To add a repository from the third party, click the <emphasis role=\"strong\">Third-Party Software</emphasis> tab and then click <emphasis role=\"strong\">Add</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1648(title)
+#: chapter6/xinclude.xml:1654(title)
 msgid "Adding a Third Party Software Source"
 msgstr ""
 
-#: chapter6/xinclude.xml:1659(para)
+#: chapter6/xinclude.xml:1665(para)
 msgid "Type the APT line for the repository you want to add as a source. To access the Debian main repositories, type <emphasis role=\"strong\">deb <ulink url=\"http://ftp.debian.org\">http://ftp.debian.org</ulink> sarge main</emphasis> in the <emphasis role=\"strong\">APT line</emphasis> box. Click <emphasis role=\"strong\">Add Source</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1667(para)
+#: chapter6/xinclude.xml:1673(para)
 msgid "The APT line should include the type, location and components of a repository."
 msgstr ""
 
-#: chapter6/xinclude.xml:1672(title)
+#: chapter6/xinclude.xml:1678(title)
 msgid "Stating the Source APT Line"
 msgstr ""
 
-#: chapter6/xinclude.xml:1683(para)
+#: chapter6/xinclude.xml:1689(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis> to save changes. The repository specified in the APT line is added to the third-party software box."
 msgstr ""
 
-#: chapter6/xinclude.xml:1688(title)
+#: chapter6/xinclude.xml:1694(title)
 msgid "Software Sources Dialogue Box Displaying the Added Source"
 msgstr ""
 
-#: chapter6/xinclude.xml:1700(para)
+#: chapter6/xinclude.xml:1706(para)
 msgid "With the addition of an extra repository, you will be prompted to update information about available software. Click <emphasis role=\"strong\">Reload</emphasis> to do so."
 msgstr ""
 
-#: chapter6/xinclude.xml:1704(title)
+#: chapter6/xinclude.xml:1710(title)
 msgid "Reloading Available Software Information"
 msgstr ""
 
-#: chapter6/xinclude.xml:1715(para)
+#: chapter6/xinclude.xml:1721(para)
 msgid "The progress indicator shows the status of package being installed or removed."
 msgstr ""
 
-#: chapter6/xinclude.xml:1718(para)
+#: chapter6/xinclude.xml:1724(para)
 msgid "You can authenticate your downloads from the <emphasis role=\"strong\">Authentication</emphasis> tab in the <emphasis role=\"strong\">Software Sources</emphasis> dialogue box. When you do not authenticate your downloads, your computer may show the error shown below after downloading the package information. This error can be ignored. To authenticate the downloading process, you need to import the GPG key, which is different for every repository. Click <emphasis role=\"strong\">Close</emphasis> in the dialogue box showing the error. This step will end the process of adding extra repositories and updating package information."
 msgstr ""
 
-#: chapter6/xinclude.xml:1728(title)
+#: chapter6/xinclude.xml:1734(title)
 msgid "Public Key Error"
 msgstr ""
 
-#: chapter6/xinclude.xml:1744(title)
+#: chapter6/xinclude.xml:1750(title)
 msgid "Adding New Language Settings"
 msgstr ""
 
-#: chapter6/xinclude.xml:1746(para)
+#: chapter6/xinclude.xml:1752(para)
 msgid "Ubuntu provides the option to enable numerous language settings for your desktop."
 msgstr ""
 
-#: chapter6/xinclude.xml:1749(para)
+#: chapter6/xinclude.xml:1755(para)
 msgid "Support for new languages can be installed via <emphasis role=\"strong\">Language Support</emphasis>, which is found in the <emphasis role=\"strong\">Administration/System</emphasis> menu. Depending on the language, the input method and keyboard mapping may need to be changed as well. The <emphasis>Smart Common Input Method</emphasis>(SCIM) is used in Ubuntu to switch between different input methods for complex characters in many non-Latin languages. The <emphasis>ctrl space</emphasis> hotkey is a convenient switch between different input methods."
 msgstr ""
 
-#: chapter6/xinclude.xml:1758(title)
+#: chapter6/xinclude.xml:1764(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter6/xinclude.xml:1760(para)
+#: chapter6/xinclude.xml:1766(para)
 msgid "In this lesson, you learned that:"
 msgstr ""
 
-#: chapter6/xinclude.xml:1764(para)
+#: chapter6/xinclude.xml:1770(para)
 msgid "GNOME is the default desktop for Ubuntu. You can use the <emphasis role=\"strong\">Preferences</emphasis> option on the <emphasis role=\"strong\">System</emphasis> menu to customise the Ubuntu desktop look and feel."
 msgstr ""
 
-#: chapter6/xinclude.xml:1770(para)
+#: chapter6/xinclude.xml:1776(para)
 msgid "You can manage your file system using the Nautilus file manager. Use the spatial mode to open each folder in a separate window and view the content of various folders simultaneously. Use the browser mode to open folders in a single window."
 msgstr ""
 
-#: chapter6/xinclude.xml:1777(para)
+#: chapter6/xinclude.xml:1783(para)
 msgid "Add/Remove Applications is the easiest tool to install or uninstall packages."
 msgstr ""
 
-#: chapter6/xinclude.xml:1782(para)
+#: chapter6/xinclude.xml:1788(para)
 msgid "You can use Synaptic Package Manager to install or uninstall advanced applications that cannot be installed using Add/Remove."
 msgstr ""
 
-#: chapter6/xinclude.xml:1788(para)
+#: chapter6/xinclude.xml:1794(para)
 msgid "To install a package that is not available in the Ubuntu archives, you can download and install it from Web sites. These files are associated with the package managers of specific Linux distribution and are referred to as single package files."
 msgstr ""
 
-#: chapter6/xinclude.xml:1795(para)
+#: chapter6/xinclude.xml:1801(para)
 msgid "Tarballs are zipped archive files that contain the source code of a programme. You can use advanced command line tools to install or uninstall the tarball file."
 msgstr ""
 
-#: chapter6/xinclude.xml:1803(title)
+#: chapter6/xinclude.xml:1809(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter6/xinclude.xml:1808(para)
+#: chapter6/xinclude.xml:1814(para)
 msgid "What is the default desktop for Ubuntu?"
 msgstr ""
 
-#: chapter6/xinclude.xml:1812(para)
+#: chapter6/xinclude.xml:1818(para)
 msgid "GNOME is the default desktop for Ubuntu."
 msgstr ""
 
-#: chapter6/xinclude.xml:1818(para)
+#: chapter6/xinclude.xml:1824(para)
 msgid "From which Web site can you download additional Ubuntu wallpapers and themes?"
 msgstr ""
 
-#: chapter6/xinclude.xml:1823(para)
+#: chapter6/xinclude.xml:1829(para)
 msgid "You can download additional wallpapers and themes from the Web site <ulink url=\"http://art.gnome.org/\">http://art.gnome.org/</ulink>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1830(para)
+#: chapter6/xinclude.xml:1836(para)
 msgid "Mention any three features of the Nautilus file manager."
 msgstr ""
 
-#: chapter6/xinclude.xml:1835(para)
+#: chapter6/xinclude.xml:1841(para)
 msgid "Three features of the Nautilus file manager are:"
 msgstr ""
 
-#: chapter6/xinclude.xml:1839(para)
+#: chapter6/xinclude.xml:1845(para)
 msgid "Creating and displaying folders and documents"
 msgstr ""
 
-#: chapter6/xinclude.xml:1843(para)
+#: chapter6/xinclude.xml:1849(para)
 msgid "Searching and managing files"
 msgstr ""
 
-#: chapter6/xinclude.xml:1847(para)
+#: chapter6/xinclude.xml:1853(para)
 msgid "Navigating using two modes, browser and spatial"
 msgstr ""
 
-#: chapter6/xinclude.xml:1855(para)
+#: chapter6/xinclude.xml:1861(para)
 msgid "Which is the file manager for the KDE environment?"
 msgstr ""
 
-#: chapter6/xinclude.xml:1859(para)
+#: chapter6/xinclude.xml:1865(para)
 msgid "Konqueror is the file manager of the KDE environment."
 msgstr ""
 
-#: chapter6/xinclude.xml:1865(para)
+#: chapter6/xinclude.xml:1871(para)
 msgid "What is a package manager?"
 msgstr ""
 
-#: chapter6/xinclude.xml:1869(para)
+#: chapter6/xinclude.xml:1875(para)
 msgid "A package manager is a programme that helps add or remove packages in Ubuntu."
 msgstr ""
 
-#: chapter6/xinclude.xml:1876(para)
+#: chapter6/xinclude.xml:1882(para)
 msgid "Differentiate between a graphical package manager and a command line package manager. Provide examples of each."
 msgstr ""
 
-#: chapter6/xinclude.xml:1881(para)
+#: chapter6/xinclude.xml:1887(para)
 msgid "To add and remove packages, a graphical package manager uses the graphical interface while a command line package manager uses the command line interface."
 msgstr ""
 
-#: chapter6/xinclude.xml:1885(para)
+#: chapter6/xinclude.xml:1891(para)
 msgid "Add/Remove Applications is a graphical package manager and apt-get is a command line package manager."
 msgstr ""
 
-#: chapter6/xinclude.xml:1892(para)
+#: chapter6/xinclude.xml:1898(para)
 msgid "Software that is not licensed under Ubuntu's main component licensing policy is referred to as _______________."
 msgstr ""
 
-#: chapter6/xinclude.xml:1897(para)
+#: chapter6/xinclude.xml:1903(para)
 msgid "Software that is not licensed under Ubuntu's main component licensing policy is referred to as non-free software."
 msgstr ""
 
-#: chapter6/xinclude.xml:1905(title)
+#: chapter6/xinclude.xml:1911(title)
 msgid "Lab Exercise"
 msgstr ""
 
-#: chapter6/xinclude.xml:1910(para)
+#: chapter6/xinclude.xml:1916(para)
 msgid "Explain to the students the purpose of each application. xpdf is a suite of tools used to view Portable Document Format (pdf). This package supports standard X fonts, true type fonts and type1 fonts. Gnumeric is a stand-alone spreadsheet application that interoperates well with other spreadsheets."
 msgstr ""
 
-#: chapter6/xinclude.xml:1918(title)
+#: chapter6/xinclude.xml:1924(title)
 msgid "Exercise 1"
 msgstr ""
 
-#: chapter6/xinclude.xml:1920(para)
+#: chapter6/xinclude.xml:1926(para)
 msgid "You have installed Ubuntu 8.04 on your personal computer. You want to view your pdf files, use a spreadsheet application for creating your daily tasks and archive your files. Install the following packages:"
 msgstr ""
 
-#: chapter6/xinclude.xml:1926(para)
+#: chapter6/xinclude.xml:1932(para)
 msgid "a) xpdf"
 msgstr ""
 
-#: chapter6/xinclude.xml:1928(para)
+#: chapter6/xinclude.xml:1934(para)
 msgid "b) gnumeric"
 msgstr ""
 
-#: chapter6/xinclude.xml:1931(title)
+#: chapter6/xinclude.xml:1937(title)
 msgid "a) Installing xpdf using Add/Remove Applications:"
 msgstr ""
 
-#: chapter6/xinclude.xml:1934(para)
+#: chapter6/xinclude.xml:1940(para)
 msgid "On the <emphasis role=\"strong\">Application</emphasis> menu, click <emphasis role=\"strong\">Add/Remove</emphasis>. The <emphasis role=\"strong\">Add/Remove</emphasis> dialogue box opens."
 msgstr ""
 
-#: chapter6/xinclude.xml:1939(para)
+#: chapter6/xinclude.xml:1945(para)
 msgid "In the <emphasis role=\"strong\">Search</emphasis> box, type <emphasis role=\"strong\">xpdf</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1944(para)
+#: chapter6/xinclude.xml:1950(para)
 msgid "Select the check box next to <emphasis role=\"strong\">xpdf</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1948(para)
+#: chapter6/xinclude.xml:1954(para)
 msgid "Click <emphasis role=\"strong\">Apply Changes</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1952(para)
+#: chapter6/xinclude.xml:1958(para)
 msgid "Click <emphasis role=\"strong\">Apply</emphasis> to make the changes."
 msgstr ""
 
-#: chapter6/xinclude.xml:1957(para)
+#: chapter6/xinclude.xml:1963(para)
 msgid "In the <emphasis role=\"strong\">New application has been installed</emphasis> dialogue box, click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1963(title)
+#: chapter6/xinclude.xml:1969(title)
 msgid "b) Installing gnumeric from Synaptic:"
 msgstr ""
 
-#: chapter6/xinclude.xml:1966(para)
+#: chapter6/xinclude.xml:1972(para)
 msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> dialogue box opens."
 msgstr ""
 
-#: chapter6/xinclude.xml:1974(para)
+#: chapter6/xinclude.xml:1980(para)
 msgid "Click <emphasis role=\"strong\">Search</emphasis> to find gnumeric and select the <emphasis role=\"strong\">gnumeric</emphasis> check box."
 msgstr ""
 
-#: chapter6/xinclude.xml:1980(para)
+#: chapter6/xinclude.xml:1986(para)
 msgid "Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check box. A dialogue box displaying the dependencies of this package on other packages opens."
 msgstr ""
 
-#: chapter6/xinclude.xml:1986(para)
+#: chapter6/xinclude.xml:1992(para)
 msgid "To continue making the required changes, click <emphasis role=\"strong\">Mark</emphasis>."
 msgstr ""
 
-#: chapter6/xinclude.xml:1990(para)
+#: chapter6/xinclude.xml:1996(para)
 msgid "To confirm making the marked changes, click <emphasis role=\"strong\">Apply</emphasis>. The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, prompting you for a final check before making the marked changes."
 msgstr ""
 
-#: chapter6/xinclude.xml:1995(para)
+#: chapter6/xinclude.xml:2001(para)
 msgid "Click <emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
 msgstr ""
 
-#: chapter6/xinclude.xml:2000(para)
+#: chapter6/xinclude.xml:2006(para)
 msgid "When all the marked changes are made, you are notified of the changes applied. Click <emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
 
