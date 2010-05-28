@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-05-19 21:00+0800\n"
-"PO-Revision-Date: 2010-05-27 15:08+0800\n"
+"PO-Revision-Date: 2010-05-27 16:44+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -2340,7 +2340,7 @@ msgstr "使用新立得软件包管理器安装解码插件："
 # 此处原文句号放错地方，又。
 #: chapter8/xinclude.xml:2892(para)
 msgid "The Multiverse and Restricted repositories are not activated by default in Ubuntu. To activate these repositories, on the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories.</emphasis> The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box is displayed."
-msgstr "在 Ubuntu 中，Multiverse 和 Restricted 软件库默认没有激活。要激活这些仓库，在 <emphasis role=\"strong\">设置</emphasis> 菜单上点击 <emphasis role=\"strong\">软件库</emphasis>，此时显示 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
+msgstr "在 Ubuntu 中，Multiverse 和 Restricted 软件库默认已经是激活的。如果您的系统中没有激活，请在 <emphasis role=\"strong\">设置</emphasis> 菜单上点击 <emphasis role=\"strong\">软件库</emphasis>，此时显示 <emphasis role=\"strong\">软件源</emphasis> 对话框。"
 
 #: chapter8/xinclude.xml:2923(para)
 msgid "To install a software package, you need to first locate the package in the Synaptic Package Manager window."
