@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-05-19 21:00+0800\n"
-"PO-Revision-Date: 2010-05-27 16:44+0800\n"
+"PO-Revision-Date: 2010-05-28 18:57+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1095,8 +1095,11 @@ msgid "Writing an Audio CD"
 msgstr "写入音频 CD"
 
 #: chapter8/xinclude.xml:864(title)
-msgid "Playing Proprietary Multimedia Formats"
-msgstr "播放专有多媒体格式"
+msgid "Playing Multimedia Formats"
+msgstr "播放多媒体音视频"
+
+msgid "Statement about free multimedia formats."
+msgstr ""
 
 #: chapter8/xinclude.xml:866(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
