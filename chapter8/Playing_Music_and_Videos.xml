@@ -50,7 +50,7 @@
   </sect1>
 
   <sect1>
-    <title>Playing Music Files</title>
+    <title>Playing and Managing Music Files</title>
 
     <para>Ubuntu comes with the Rhythmbox Music Player to play and organise
     music files. Similar to iTunes in its interface, this music player is a
@@ -69,7 +69,7 @@
     </note>
 
     <sect2>
-      <title>Playing Music using Rhythmbox</title>
+      <title>Playing and Managing Music using Rhythmbox</title>
 
       <procedure>
         <title>To play music using Rhythmbox:</title>
@@ -475,6 +475,17 @@
           your mouse.</para>
         </step>
       </procedure>
+
+      <procedure>
+        <title>To manage your iPod using Rhythmbox:</title>
+        <step performance="required">
+          <para>Enable the plugin: portable player - iPod.</para>
+        </step>
+
+        <step performance="required">
+          <para>Plug your iPod to your computer.In <emphasis role="strong">Devices</emphasis> pane, you can see your iPod.</para>
+          <para>Now you can play the musics in your iPod,and you can send the music to iPod by drag and drop,or from iPod to PC.</para>
+        </step>
     </sect2>
   </sect1>
 
@@ -967,121 +978,6 @@
       below.</para>
     </tip>
 
-    <procedure>
-      <title>To install a codec plugin using Synaptic Package Manager:</title>
-
-      <step performance="required">
-        <para>On the <emphasis role="strong">System</emphasis> menu, point to
-        <emphasis role="strong">Administration</emphasis> and then click
-        <emphasis role="strong">Synaptic Package Manager</emphasis>. The
-        <emphasis role="strong">Synaptic Package Manager</emphasis> window
-        opens.</para>
-      </step>
-
-      <step performance="required">
-        <para>The <emphasis role="strong">Multiverse</emphasis> and <emphasis
-        role="strong">Restricted</emphasis> repositories are not activated by
-        default in Ubuntu. To install the additional multimedia codecs, you
-        need to first activate these repositories. On the <emphasis
-        role="strong">Settings</emphasis> menu, click <emphasis
-        role="strong">Repositories</emphasis>. The <emphasis
-        role="strong">Software</emphasis> <emphasis
-        role="strong">Sources</emphasis> dialogue box is displayed.</para>
-
-        <figure float="0">
-          <title>Displaying Software Sources</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_041.png" format="PNG"
-                         width="17cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>To enable the Multiverse and Restricted repositories, select the
-        third and fourth check boxes available on the <emphasis
-        role="strong">Ubuntu Software</emphasis> tabbed page, and click
-        <emphasis role="strong">Close</emphasis> to exit the dialogue
-        box.</para>
-
-        <figure float="0">
-          <title>Enabling Repositories</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_042.png" format="PNG"
-                         width="11cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>You may receive a notification that your repository information
-        has changed. Click <emphasis role="strong">Close</emphasis> to exit
-        this message.</para>
-
-        <figure float="0">
-          <title>Repositories Information Notification</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_043.png" format="PNG"
-                         width="11cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>Once you return to the Synaptic Package Manager window, you are
-        required to click the <emphasis role="strong">Reload</emphasis> button
-        to apply your changes.</para>
-
-        <figure float="0">
-          <title>Applying Changes</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_044.png" format="PNG"
-                         width="17cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>On clicking the <emphasis role="strong">Reload</emphasis>
-        button, the system starts checking the repositories for new, removed
-        or upgraded software packages.</para>
-
-        <figure float="0">
-          <title>Checking Package Information</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/chapter9_image_045.png" format="PNG"
-                         width="11cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>After the Multiverse and Restricted repositories are added in
-        the Ubuntu software sources, you can download and install additional
-        multimedia codecs. To install a software package, you need to first
-        locate the package in the Synaptic Package Manager window. You can
-        either search for a specific software package manually or run a search
-        using the search utility provided in the Synaptic Package Manager. To
-        initiate a search for a specific package, click <emphasis
-        role="strong">Search.</emphasis>,and begain to install 
-        "ubuntu-restricted-extras" just like in lession 3.</para>
-      </step>
-    </procedure>
   </sect1>
 
 
@@ -1610,7 +1506,7 @@
       </listitem>
     </itemizedlist>
 
-    <para>Totem Movie Player, the default movie player included in Ubuntu can
+    <para>Totem Movie Player,which uses GStreamer as its backend and is the default movie player included in Ubuntu can
     automatically play a DVD when it is inserted into the DVD drive. However,
     it will not provide access to the DVD menu. Other free software media
     players like VLC, mplayer and xine do make the DVD menu available.</para>
