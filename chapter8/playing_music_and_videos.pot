@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-05-22 16:29+0800\n"
+"POT-Creation-Date: 2010-05-29 10:15+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,469 +119,439 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:509(None)
+#: chapter8/xinclude.xml:521(None)
 msgid "@@image: 'images/chapter9_image_019.png'; md5=f48a78601bb6ec3f5587ba209c694572"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:537(None)
+#: chapter8/xinclude.xml:549(None)
 msgid "@@image: 'images/chapter9_image_020.png'; md5=96537e5d3ddf5f4532ecb2ace853370c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:560(None)
+#: chapter8/xinclude.xml:572(None)
 msgid "@@image: 'images/chapter9_image_021.png'; md5=55c356f7c04df26617e43a6ee62eeae7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:575(None)
+#: chapter8/xinclude.xml:587(None)
 msgid "@@image: 'images/chapter9_image_022.png'; md5=31bb0851218f63da5bbfc1e9a553d4fe"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:603(None)
+#: chapter8/xinclude.xml:615(None)
 msgid "@@image: 'images/chapter9_image_023.png'; md5=542c5d08791ffd1220a30afd4b14c818"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:636(None)
+#: chapter8/xinclude.xml:648(None)
 msgid "@@image: 'images/chapter9_image_024.png'; md5=22df91a1ba492eb7cfda4134956b3214"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:655(None)
+#: chapter8/xinclude.xml:667(None)
 msgid "@@image: 'images/chapter9_image_025.png'; md5=5cbca0f78ab678fe098e33cb84fd14eb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:672(None)
+#: chapter8/xinclude.xml:684(None)
 msgid "@@image: 'images/chapter9_image_026.png'; md5=775342b1f9ca6c286c9c232ba05d2923"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:693(None)
+#: chapter8/xinclude.xml:705(None)
 msgid "@@image: 'images/chapter9_image_027.png'; md5=5ac74fefd7922c2f140eaa9b9811acaa"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:714(None)
+#: chapter8/xinclude.xml:726(None)
 msgid "@@image: 'images/chapter9_image_028.png'; md5=e3cffdae6ed0a70a54f881238ee640db"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:730(None)
+#: chapter8/xinclude.xml:742(None)
 msgid "@@image: 'images/chapter9_image_030.png'; md5=f8de628537c4e98299f47b9d63737e5b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:762(None)
+#: chapter8/xinclude.xml:774(None)
 msgid "@@image: 'images/chapter9_image_032.png'; md5=7df66b6532d237c1e5c458dfbf020080"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:779(None)
+#: chapter8/xinclude.xml:791(None)
 msgid "@@image: 'images/chapter9_image_034.png'; md5=67d7ce456186668094852a6d908b60f9"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:798(None)
+#: chapter8/xinclude.xml:810(None)
 msgid "@@image: 'images/chapter9_image_035.png'; md5=6ab7ac8d0317aba71a49ceff5cbd5f9b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:819(None)
+#: chapter8/xinclude.xml:831(None)
 msgid "@@image: 'images/chapter9_image_037.png'; md5=3f6ef5d1f63c3d79df1422602a8a9b0f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:837(None)
+#: chapter8/xinclude.xml:849(None)
 msgid "@@image: 'images/chapter9_image_038.png'; md5=5d3b395634128de6f5f2409228471928"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:855(None)
+#: chapter8/xinclude.xml:867(None)
 msgid "@@image: 'images/chapter9_image_039.png'; md5=dc951264aba5eca7a2d5e766bce19cd3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:920(None)
-msgid "@@image: 'images/chapter9_image_041.png'; md5=43de3bf2ef7e71175b056a7595de70d4"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:937(None)
-msgid "@@image: 'images/chapter9_image_042.png'; md5=5e25dc335c5b75cd04618d3d02c8deb8"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:953(None)
-msgid "@@image: 'images/chapter9_image_043.png'; md5=6e8afe28f7db2465d919d7e827866804"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:969(None)
-msgid "@@image: 'images/chapter9_image_044.png'; md5=9702c9036d90a8f14696475ff15b37f1"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:985(None)
-msgid "@@image: 'images/chapter9_image_045.png'; md5=77531c2ebd0be09ee6c28a92a893747e"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1034(None)
+#: chapter8/xinclude.xml:945(None)
 msgid "@@image: 'images/chapter9_image_059.png'; md5=12b7c716ba7a25960dd2a546af40aa25"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1051(None)
+#: chapter8/xinclude.xml:962(None)
 msgid "@@image: 'images/chapter9_image_060.png'; md5=c714bceae73bcc49563b970c38262003"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1067(None)
+#: chapter8/xinclude.xml:978(None)
 msgid "@@image: 'images/chapter9_image_061.png'; md5=7341b4566afdddf9957bb25b429f3e58"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1085(None)
+#: chapter8/xinclude.xml:996(None)
 msgid "@@image: 'images/chapter9_image_062.png'; md5=81c1fc530387ff186ba5f540d18af8a3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1100(None)
+#: chapter8/xinclude.xml:1011(None)
 msgid "@@image: 'images/chapter9_image_063.png'; md5=71e0dde61ff34796bb508de533295a90"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1116(None)
+#: chapter8/xinclude.xml:1027(None)
 msgid "@@image: 'images/chapter9_image_064.png'; md5=362b2aa88c1be70e649c6dff57582304"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1134(None)
+#: chapter8/xinclude.xml:1045(None)
 msgid "@@image: 'images/chapter9_image_065.png'; md5=ac036593a83a96763e3c8ffccbe1e5bb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1166(None)
+#: chapter8/xinclude.xml:1077(None)
 msgid "@@image: 'images/chapter9_image_066.png'; md5=6f79a28f1f5c9efd56c042bf6848319b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1182(None)
+#: chapter8/xinclude.xml:1093(None)
 msgid "@@image: 'images/chapter9_image_068.png'; md5=3d1d3d2d6fe19385d32c131b88bd65c1"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1201(None)
+#: chapter8/xinclude.xml:1112(None)
 msgid "@@image: 'images/chapter9_image_069.png'; md5=68cde861d22289bdb262855bbd252a0b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1217(None)
+#: chapter8/xinclude.xml:1128(None)
 msgid "@@image: 'images/chapter9_image_070.png'; md5=e92e04c9041b24d02947426536dfb39e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1241(None)
+#: chapter8/xinclude.xml:1152(None)
 msgid "@@image: 'images/chapter9_image_071.png'; md5=fc9654ac9201a501ca33c2797639b129"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1286(None)
+#: chapter8/xinclude.xml:1197(None)
 msgid "@@image: 'images/chapter9_image_072.png'; md5=9ff2fcdb13718fdbffbb0d2c858e1b49"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1302(None)
+#: chapter8/xinclude.xml:1213(None)
 msgid "@@image: 'images/chapter9_image_073.png'; md5=93a78d7cf987fba263b7406ad7e1e862"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1360(None)
+#: chapter8/xinclude.xml:1271(None)
 msgid "@@image: 'images/chapter9_image_074.png'; md5=004a9b408fe1916f2d56b5cca247b5df"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1377(None)
+#: chapter8/xinclude.xml:1288(None)
 msgid "@@image: 'images/chapter9_image_075.png'; md5=26a47dcad736c3c0ec390fa2631ef5c3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1392(None)
+#: chapter8/xinclude.xml:1303(None)
 msgid "@@image: 'images/chapter9_image_076.png'; md5=db05a97836c6a54dfa59ac572c18dd98"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1412(None)
+#: chapter8/xinclude.xml:1323(None)
 msgid "@@image: 'images/chapter9_image_077.png'; md5=bfc9a4e93bde10eb7ec997cd049a68d8"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1430(None)
+#: chapter8/xinclude.xml:1341(None)
 msgid "@@image: 'images/chapter9_image_078.png'; md5=4931ddb8343c9b1613fd0f48c4b793e9"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1446(None)
+#: chapter8/xinclude.xml:1357(None)
 msgid "@@image: 'images/chapter9_image_079.png'; md5=72198ad7efbb253594542256274f4785"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1526(None)
+#: chapter8/xinclude.xml:1437(None)
 msgid "@@image: 'images/chapter9_image_080.png'; md5=f30b340f02898d1a338357a1db886acb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1541(None)
+#: chapter8/xinclude.xml:1452(None)
 msgid "@@image: 'images/chapter9_image_081.png'; md5=2dc4baef361452fa378e563c52946ffa"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1555(None)
+#: chapter8/xinclude.xml:1466(None)
 msgid "@@image: 'images/chapter9_image_082.png'; md5=29ce278708778c360bf7588068f949fb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1572(None)
+#: chapter8/xinclude.xml:1483(None)
 msgid "@@image: 'images/chapter9_image_083.png'; md5=fb9c3b3aa5705b401c915999a1b9ff9a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1588(None)
+#: chapter8/xinclude.xml:1499(None)
 msgid "@@image: 'images/chapter9_image_084.png'; md5=58e874bbe006601198f0b641f1500e8e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1605(None)
+#: chapter8/xinclude.xml:1516(None)
 msgid "@@image: 'images/chapter9_image_085.png'; md5=2cc923156c43c9c3f0c1a593d03006b3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1620(None)
+#: chapter8/xinclude.xml:1531(None)
 msgid "@@image: 'images/chapter9_image_086.png'; md5=df2c2fc43dd9428b089be3f014afb522"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1630(None)
+#: chapter8/xinclude.xml:1541(None)
 msgid "@@image: 'images/chapter9_image_087.png'; md5=f3623be307e797d2045f00b28b64bca3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1736(None)
+#: chapter8/xinclude.xml:1647(None)
 msgid "@@image: 'images/chapter9_image_088.png'; md5=c69e7de2f690164c1c6881f82f8f317c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1755(None)
+#: chapter8/xinclude.xml:1666(None)
 msgid "@@image: 'images/chapter9_image_089.png'; md5=501f2e22015955afe94eb941322f1f19"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1773(None)
+#: chapter8/xinclude.xml:1684(None)
 msgid "@@image: 'images/chapter9_image_090.png'; md5=26e723fb78b7b80f30fd3c7052822991"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1793(None)
+#: chapter8/xinclude.xml:1704(None)
 msgid "@@image: 'images/chapter9_image_091.png'; md5=80488f421b0375aa181d037373213bee"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1811(None)
+#: chapter8/xinclude.xml:1722(None)
 msgid "@@image: 'images/chapter9_image_092.png'; md5=c4f7950acc8456ea9fb52ac885a957b5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1845(None)
+#: chapter8/xinclude.xml:1756(None)
 msgid "@@image: 'images/chapter9_image_093.png'; md5=35d112c0991cb5ece8d6a03480613d78"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1958(None)
+#: chapter8/xinclude.xml:1869(None)
 msgid "@@image: 'images/chapter9_image_094.png'; md5=6462e45c9153052dc2847d5cbf941148"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1976(None)
+#: chapter8/xinclude.xml:1887(None)
 msgid "@@image: 'images/chapter9_image_095.png'; md5=a99ef3442223d3a0c88963c4dfb2bd27"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1992(None)
+#: chapter8/xinclude.xml:1903(None)
 msgid "@@image: 'images/chapter9_image_096.png'; md5=8334a2793a93f6175e8e1d561b7fe80c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2009(None)
+#: chapter8/xinclude.xml:1920(None)
 msgid "@@image: 'images/chapter9_image_097.png'; md5=a8826df4cf4d916e85909aa1eb0f1533"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2025(None)
+#: chapter8/xinclude.xml:1936(None)
 msgid "@@image: 'images/chapter9_image_098.png'; md5=5d5b6dc52a181e35f820b0bbc3c2bba5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2042(None)
+#: chapter8/xinclude.xml:1953(None)
 msgid "@@image: 'images/chapter9_image_099.png'; md5=03fa6a9b092e5aab60c5f38f7a502a72"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2064(None)
+#: chapter8/xinclude.xml:1975(None)
 msgid "@@image: 'images/chapter9_image_101.png'; md5=336ac9505f7a4e32367033719e2d6aab"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2082(None)
+#: chapter8/xinclude.xml:1993(None)
 msgid "@@image: 'images/chapter9_image_102.png'; md5=ad159ed7156052b5c8bc3e99c2649fb0"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2100(None)
+#: chapter8/xinclude.xml:2011(None)
 msgid "@@image: 'images/chapter9_image_103.png'; md5=f6dae6ca82171f93a968765e0ea0ad0c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2117(None)
+#: chapter8/xinclude.xml:2028(None)
 msgid "@@image: 'images/chapter9_image_104.png'; md5=78d591d0a3c306a03b81a500eec3b4c7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2137(None)
+#: chapter8/xinclude.xml:2048(None)
 msgid "@@image: 'images/chapter9_image_105.png'; md5=0d928ed8fb39564771a330a68a790c00"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2154(None)
+#: chapter8/xinclude.xml:2065(None)
 msgid "@@image: 'images/chapter9_image_106.png'; md5=df178f30fb266a1e7701a7c4b9fd0a5b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2223(None)
+#: chapter8/xinclude.xml:2134(None)
 msgid "@@image: 'images/chapter9_image_107.png'; md5=97d8aca39685426d02a065e1287ff296"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2239(None)
+#: chapter8/xinclude.xml:2150(None)
 msgid "@@image: 'images/chapter9_image_108.png'; md5=c92cb29f318314344a3346a27e9afa4e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2256(None)
+#: chapter8/xinclude.xml:2167(None)
 msgid "@@image: 'images/chapter9_image_109.png'; md5=0f649ea155c0ca57cbe2aed739ceb646"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2275(None)
+#: chapter8/xinclude.xml:2186(None)
 msgid "@@image: 'images/chapter9_image_110.png'; md5=e162449a9b5b9d3fdb55a21ce8637af2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2297(None)
+#: chapter8/xinclude.xml:2208(None)
 msgid "@@image: 'images/chapter9_image_111.png'; md5=0d561f63ef98397a7d5d934e9d1be7d2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2318(None)
+#: chapter8/xinclude.xml:2229(None)
 msgid "@@image: 'images/chapter9_image_112.png'; md5=725eb4ba029c9a3b65717c5785588215"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2335(None)
+#: chapter8/xinclude.xml:2246(None)
 msgid "@@image: 'images/chapter9_image_113.png'; md5=dec85d800095d443cc97a7207257d59a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2351(None)
+#: chapter8/xinclude.xml:2262(None)
 msgid "@@image: 'images/chapter9_image_114.png'; md5=3421ea8beb518ace64e8e38bdb8de483"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2368(None)
+#: chapter8/xinclude.xml:2279(None)
 msgid "@@image: 'images/chapter9_image_115.png'; md5=9d1d282de3d4c57fd271f9e1586c991f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2383(None)
+#: chapter8/xinclude.xml:2294(None)
 msgid "@@image: 'images/chapter9_image_116.png'; md5=9ce9b8f5839e715a54cb665864a86530"
 msgstr ""
 
@@ -601,7 +571,7 @@ msgstr ""
 msgid "Play, edit and organize music and video files."
 msgstr ""
 
-#: chapter8/xinclude.xml:15(title) chapter8/xinclude.xml:65(title) chapter8/xinclude.xml:338(title) chapter8/xinclude.xml:410(title) chapter8/xinclude.xml:1672(title)
+#: chapter8/xinclude.xml:15(title) chapter8/xinclude.xml:65(title) chapter8/xinclude.xml:338(title) chapter8/xinclude.xml:410(title) chapter8/xinclude.xml:1583(title)
 msgid "Instructor Notes:"
 msgstr ""
 
@@ -621,7 +591,7 @@ msgstr ""
 msgid "Viewing DVDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:27(emphasis) chapter8/xinclude.xml:1821(title)
+#: chapter8/xinclude.xml:27(emphasis) chapter8/xinclude.xml:1732(title)
 msgid "Playing Online Media"
 msgstr ""
 
@@ -638,7 +608,7 @@ msgid "To understand the legal issues associated with the use of proprietary for
 msgstr ""
 
 #: chapter8/xinclude.xml:53(title)
-msgid "Playing Music Files"
+msgid "Playing and Managing Music Files"
 msgstr ""
 
 #: chapter8/xinclude.xml:55(para)
@@ -650,7 +620,7 @@ msgid "You need to demonstrate and let the students play fully with at least 1 m
 msgstr ""
 
 #: chapter8/xinclude.xml:72(title)
-msgid "Playing Music using Rhythmbox"
+msgid "Playing and Managing Music using Rhythmbox"
 msgstr ""
 
 #: chapter8/xinclude.xml:75(title)
@@ -689,11 +659,11 @@ msgstr ""
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files. Select the files that you want to import and click <emphasis role=\"strong\">Open</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:142(title) chapter8/xinclude.xml:1213(title)
+#: chapter8/xinclude.xml:142(title) chapter8/xinclude.xml:1124(title)
 msgid "Selecting the Files to Import"
 msgstr ""
 
-#: chapter8/xinclude.xml:152(title) chapter8/xinclude.xml:622(title) chapter8/xinclude.xml:890(title) chapter8/xinclude.xml:1896(title)
+#: chapter8/xinclude.xml:152(title) chapter8/xinclude.xml:634(title) chapter8/xinclude.xml:904(title) chapter8/xinclude.xml:1807(title)
 msgid "Nice to Know:"
 msgstr ""
 
@@ -773,7 +743,7 @@ msgstr ""
 msgid "Rhythmbox also enables you to listen to music from a variety of sources, such as Internet radio stations and podcasts."
 msgstr ""
 
-#: chapter8/xinclude.xml:315(para) chapter8/xinclude.xml:2676(para)
+#: chapter8/xinclude.xml:315(para) chapter8/xinclude.xml:2587(para)
 msgid "To play music from a podcast of your choice, right-click the <emphasis role=\"strong\">Podcast</emphasis> option in the <emphasis role=\"strong\">Library</emphasis> list and select <emphasis role=\"strong\">New Podcast Feed</emphasis>."
 msgstr ""
 
@@ -781,7 +751,7 @@ msgstr ""
 msgid "Adding New Podcast Feed"
 msgstr ""
 
-#: chapter8/xinclude.xml:329(title) chapter8/xinclude.xml:479(title) chapter8/xinclude.xml:526(title) chapter8/xinclude.xml:1472(title) chapter8/xinclude.xml:1721(title) chapter8/xinclude.xml:1926(title)
+#: chapter8/xinclude.xml:329(title) chapter8/xinclude.xml:491(title) chapter8/xinclude.xml:538(title) chapter8/xinclude.xml:1383(title) chapter8/xinclude.xml:1632(title) chapter8/xinclude.xml:1837(title)
 msgid "Note:"
 msgstr ""
 
@@ -837,1555 +807,1543 @@ msgstr ""
 msgid "Adding New Radio Station"
 msgstr ""
 
-#: chapter8/xinclude.xml:437(para) chapter8/xinclude.xml:2713(para)
+#: chapter8/xinclude.xml:437(para) chapter8/xinclude.xml:2624(para)
 msgid "You can add many more Internet radio stations in the same way and listen to your favourite radio stations with just a click of your mouse."
 msgstr ""
 
-#: chapter8/xinclude.xml:446(title)
+#: chapter8/xinclude.xml:444(title)
+msgid "To manage your iPod using Rhythmbox:"
+msgstr ""
+
+#: chapter8/xinclude.xml:446(para)
+msgid "Enable the plugin: portable player - iPod."
+msgstr ""
+
+#: chapter8/xinclude.xml:450(para)
+msgid "Plug your iPod to your computer.In <emphasis role=\"strong\">Devices</emphasis> pane, you can see your iPod."
+msgstr ""
+
+#: chapter8/xinclude.xml:451(para)
+msgid "Now you can play the musics in your iPod,and you can send the music to iPod by drag and drop,or from iPod to PC."
+msgstr ""
+
+#: chapter8/xinclude.xml:458(title)
 msgid "Playing and Extracting Audio CDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:456(para)
+#: chapter8/xinclude.xml:468(para)
 msgid "Ogg Vorbis: Ogg vorbis is a free, unpatented and open source alternative to the proprietary MP3 format. Like the MP3 format, it discards parts of the sound that humans cannot normally hear. An Ogg Vorbis file is typically a tenth of the size of a WAV format file containing the same content."
 msgstr ""
 
-#: chapter8/xinclude.xml:464(para)
+#: chapter8/xinclude.xml:476(para)
 msgid "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without discarding any information. A FLAC file is typically half the size of a WAV file containing the same content."
 msgstr ""
 
-#: chapter8/xinclude.xml:472(para)
+#: chapter8/xinclude.xml:484(para)
 msgid "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format typically used for short snippets of sound and voice recordings."
 msgstr ""
 
-#: chapter8/xinclude.xml:448(para)
+#: chapter8/xinclude.xml:460(para)
 msgid "Sound Juicer is the default application available in Ubuntu for playing and extracting audio compact discs (CDs). It is an easy-to-use CD player and ripping tool that requires minimal user intervention in playing and extracting audio CDs. Using Sound Juicer, you can play audio tracks directly from the CD and extract audio tracks and convert them into audio files. Sound Juicer allows you to extract audio files into the following three formats: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:484(ulink)
+#: chapter8/xinclude.xml:496(ulink)
 msgid "http://www.vorbis.com/faq/"
 msgstr ""
 
-#: chapter8/xinclude.xml:488(ulink)
+#: chapter8/xinclude.xml:500(ulink)
 msgid "http://flac.sourceforge.net/"
 msgstr ""
 
-#: chapter8/xinclude.xml:481(para)
+#: chapter8/xinclude.xml:493(para)
 msgid "To know more about Ogg Vorbis and FLAC audio format, visit the following Web sites: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:494(title)
+#: chapter8/xinclude.xml:506(title)
 msgid "Playing Audio CDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:497(title)
+#: chapter8/xinclude.xml:509(title)
 msgid "To play audio CDs using Sound Juicer"
 msgstr ""
 
-#: chapter8/xinclude.xml:500(para)
+#: chapter8/xinclude.xml:512(para)
 msgid "Insert an audio CD in the CD drive of your computer. The Sound Juicer CD player and ripper is launched automatically. To start Sound Juicer manually, click the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audio CD Extractor</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:505(title)
+#: chapter8/xinclude.xml:517(title)
 msgid "Launching Sound Juicer"
 msgstr ""
 
-#: chapter8/xinclude.xml:516(para)
+#: chapter8/xinclude.xml:528(para)
 msgid "Sound Juicer's main interface is displayed. When Sound Juicer detects a CD, it examines the CD and tries to search the Internet to locate information about the CD's content. If you are connected to the Internet, Sound Juicer will retrieve the CD artist, title, and track data from MusicBrainz.org."
 msgstr ""
 
-#: chapter8/xinclude.xml:522(para)
+#: chapter8/xinclude.xml:534(para)
 msgid "To play all the tracks sequentially, you can simply click the <emphasis role=\"strong\">Play</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:528(para)
+#: chapter8/xinclude.xml:540(para)
 msgid "MusicBrainz.org is a community-maintained online database, which contains data on over 360,000 published albums."
 msgstr ""
 
-#: chapter8/xinclude.xml:533(title)
+#: chapter8/xinclude.xml:545(title)
 msgid "Playing Audio CD"
 msgstr ""
 
-#: chapter8/xinclude.xml:542(para)
+#: chapter8/xinclude.xml:554(para)
 msgid "Notice that Sound Juicer has fetched the track information from MusicBrainz.org. In the upper part of the Sound Juicer window, you can see the basic information about the disc, including title, artist, genre and total duration. The lower part of the window displays a list of tracks, each with its full title, artist and duration."
 msgstr ""
 
-#: chapter8/xinclude.xml:551(para)
+#: chapter8/xinclude.xml:563(para)
 msgid "To play only the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes and then click the <emphasis role=\"strong\">Play</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:556(title)
+#: chapter8/xinclude.xml:568(title)
 msgid "Selecting the Song tracks"
 msgstr ""
 
-#: chapter8/xinclude.xml:567(para)
+#: chapter8/xinclude.xml:579(para)
 msgid "You can now enjoy listening to your favourite music tracks."
 msgstr ""
 
-#: chapter8/xinclude.xml:571(title)
+#: chapter8/xinclude.xml:583(title)
 msgid "Playing the Selected Tracks"
 msgstr ""
 
-#: chapter8/xinclude.xml:584(title)
+#: chapter8/xinclude.xml:596(title)
 msgid "Extracting Audio CDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:586(para)
+#: chapter8/xinclude.xml:598(para)
 msgid "If you want to listen to your favourite music tracks without needing to insert a CD every time, you can create a copy of the CD and extract the music tracks on your computer."
 msgstr ""
 
-#: chapter8/xinclude.xml:591(title)
+#: chapter8/xinclude.xml:603(title)
 msgid "To extract the audio CD:"
 msgstr ""
 
-#: chapter8/xinclude.xml:594(para)
+#: chapter8/xinclude.xml:606(para)
 msgid "Insert the audio CD and click the <emphasis role=\"strong\">Extract</emphasis> button. However, if you want to define the audio quality, format and the location where the files would be stored, click <emphasis role=\"strong\">Preferences</emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu. This displays the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:599(title)
+#: chapter8/xinclude.xml:611(title)
 msgid "Defining Preferences For Audio Files"
 msgstr ""
 
-#: chapter8/xinclude.xml:610(para)
+#: chapter8/xinclude.xml:622(para)
 msgid "You can use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define a number of things such as how the folder hierarchy should be saved, how the files should be named and whether to eject the CD automatically after the tracks are extracted."
 msgstr ""
 
-#: chapter8/xinclude.xml:615(para)
+#: chapter8/xinclude.xml:627(para)
 msgid "In the last section of the <emphasis role=\"strong\">Preferences</emphasis> dialogue box, you can define the file format in which the tracks would be stored on your computer. Based on your requirements, select any one format from the <emphasis role=\"strong\">Output Format</emphasis> drop-down list."
 msgstr ""
 
-#: chapter8/xinclude.xml:624(para)
+#: chapter8/xinclude.xml:636(para)
 msgid "You can also extract CD audio files to the proprietary, non-free MP3 format. Instructions for extracting audio files into the MP3 format can be found in the help for Sound Juicer. Go to <emphasis role=\"strong\">Help&gt;Content</emphasis> and then navigate to the Preferences section."
 msgstr ""
 
-#: chapter8/xinclude.xml:632(title)
+#: chapter8/xinclude.xml:644(title)
 msgid "Specifying Audio Format"
 msgstr ""
 
-#: chapter8/xinclude.xml:643(para)
+#: chapter8/xinclude.xml:655(para)
 msgid "Each of these file format has its own customisable profile. Depending on the type of the music track and the destination where it has to be stored, you may need to customise these file formats. Click the <emphasis role=\"strong\">Edit Profiles</emphasis> button, then select the desired profile and click the <emphasis role=\"strong\">Edit</emphasis> button to edit the profile of the selected file format according to your needs."
 msgstr ""
 
-#: chapter8/xinclude.xml:651(title)
+#: chapter8/xinclude.xml:663(title)
 msgid "Editing Audio Profile"
 msgstr ""
 
-#: chapter8/xinclude.xml:662(para)
+#: chapter8/xinclude.xml:674(para)
 msgid "The <emphasis role=\"strong\">Editing profile</emphasis> dialogue box for the selected audio profile is displayed. You can edit the audio profile according to your requirements and the click <emphasis role=\"strong\">Close</emphasis> to exit."
 msgstr ""
 
-#: chapter8/xinclude.xml:668(title)
+#: chapter8/xinclude.xml:680(title)
 msgid "Customising Audio Profile"
 msgstr ""
 
-#: chapter8/xinclude.xml:679(para)
+#: chapter8/xinclude.xml:691(para)
 msgid "You can also use the <emphasis role=\"strong\">Preferences</emphasis> dialogue box to define the location where you want the audio files to be stored on your computer. By default, Sound Juicer stores the audio files in the Home directory. To define a location of your choice, select a directory from the <emphasis role=\"strong\">Music Folder</emphasis> drop-down list and click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:689(title)
+#: chapter8/xinclude.xml:701(title)
 msgid "Specifying Audio File Location"
 msgstr ""
 
-#: chapter8/xinclude.xml:700(para)
+#: chapter8/xinclude.xml:712(para)
 msgid "After configuring your preferences, you can go ahead and start extracting all the tracks by clicking the <emphasis role=\"strong\">Extract</emphasis> button. However, if you want to exclude some tracks, deselect them by clearing the corresponding check boxes."
 msgstr ""
 
-#: chapter8/xinclude.xml:705(para)
+#: chapter8/xinclude.xml:717(para)
 msgid "Depending on the speed of your computer, the extracting process can take a long time. You can watch the total progress of the process in the lower left section of the <emphasis role=\"strong\">Sound Juicer</emphasis> window."
 msgstr ""
 
-#: chapter8/xinclude.xml:710(title)
+#: chapter8/xinclude.xml:722(title)
 msgid "Extracting Song Tracks"
 msgstr ""
 
-#: chapter8/xinclude.xml:721(para) chapter8/xinclude.xml:2809(para)
+#: chapter8/xinclude.xml:733(para) chapter8/xinclude.xml:2720(para)
 msgid "The CD audio tracks are now copied as audio files on your hard disk. You can listen to these tracks by simply double-clicking them."
 msgstr ""
 
-#: chapter8/xinclude.xml:726(title)
+#: chapter8/xinclude.xml:738(title)
 msgid "The Copied Tracks"
 msgstr ""
 
-#: chapter8/xinclude.xml:740(title)
+#: chapter8/xinclude.xml:752(title)
 msgid "Burning Audio CDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:742(para)
+#: chapter8/xinclude.xml:754(para)
 msgid "Besides copying audio tracks from a CD to your computer, Ubuntu also enables you to copy music files from your computer onto a CD or DVD. Brasero is the CD/DVD burner application that comes bundled with Ubuntu, by default. It is an easy-to-use application that also allows CD/DVD data disc creation, CD/DVD copying and burning of existing images to CD/DVD."
 msgstr ""
 
-#: chapter8/xinclude.xml:749(title) chapter8/xinclude.xml:2826(title)
+#: chapter8/xinclude.xml:761(title) chapter8/xinclude.xml:2737(title)
 msgid "To burn an audio CD:"
 msgstr ""
 
-#: chapter8/xinclude.xml:752(para)
+#: chapter8/xinclude.xml:764(para)
 msgid "Launch Brasero by selecting the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Brasero Disc Burning</emphasis>. The Brasero window is displayed."
 msgstr ""
 
-#: chapter8/xinclude.xml:758(title)
+#: chapter8/xinclude.xml:770(title)
 msgid "Launching Brasero"
 msgstr ""
 
-#: chapter8/xinclude.xml:769(para)
+#: chapter8/xinclude.xml:781(para)
 msgid "The <emphasis role=\"strong\">Brasero Window</emphasis> displays. Click the <emphasis role=\"strong\">Audio Project</emphasis> button. You will need to navigate to the folder containing the audio tracks you wish to add to the new CD project."
 msgstr ""
 
-#: chapter8/xinclude.xml:775(title)
+#: chapter8/xinclude.xml:787(title)
 msgid "The main window of Brasero"
 msgstr ""
 
-#: chapter8/xinclude.xml:786(para)
+#: chapter8/xinclude.xml:798(para)
 msgid "Now you need to specify the files that you want to be copied onto the blank CD. To start specifying the desired audio files, click the <emphasis role=\"strong\">Music</emphasis> folder. This displays the contents of any items previously imported. Double-click the title of the folder where the music files are located. The files are listed in the middle window. You can now add files to the project using any of the methods described in the right side window."
 msgstr ""
 
-#: chapter8/xinclude.xml:794(title)
+#: chapter8/xinclude.xml:806(title)
 msgid "Specifying Audio Files to Copy"
 msgstr ""
 
-#: chapter8/xinclude.xml:806(para)
+#: chapter8/xinclude.xml:818(para)
 msgid "The selected files now appear in the project window. You can also view the estimated disc usage once these files are written to the disc at the bottom of the project window. Based on this data, you may decide to add or delete some files from your current selection. Once you are sure of the files to be copied to the disc, click the <emphasis role=\"strong\">Burn</emphasis> button to start writing the audio files from your computer to the CD."
 msgstr ""
 
-#: chapter8/xinclude.xml:815(title)
+#: chapter8/xinclude.xml:827(title)
 msgid "Audio Files to Write to Disc"
 msgstr ""
 
-#: chapter8/xinclude.xml:826(para)
+#: chapter8/xinclude.xml:838(para)
 msgid "The Disc Burning Setup window allows you to change the Properties of the project. You can select the <emphasis role=\"strong\">Options</emphasis> checkbox to leave the disc open to add a data session later. Click the <emphasis role=\"strong\">Burn</emphasis> button to begin writing the files to the disc."
 msgstr ""
 
-#: chapter8/xinclude.xml:833(title)
+#: chapter8/xinclude.xml:845(title)
 msgid "Confirming the CD Writing"
 msgstr ""
 
-#: chapter8/xinclude.xml:844(para)
+#: chapter8/xinclude.xml:856(para)
 msgid "Brasero now starts writing the music files to the media disc. You can view the progress in the <emphasis role=\"strong\">Burning Audio Disc</emphasis> dialogue box. This process may take some time depending on the size of the files to be written to disc. Once the process is complete, you have a new CD containing all your favourite songs."
 msgstr ""
 
-#: chapter8/xinclude.xml:851(title)
+#: chapter8/xinclude.xml:863(title)
 msgid "Writing an Audio CD"
 msgstr ""
 
-#: chapter8/xinclude.xml:864(title)
-msgid "Playing Proprietary Multimedia Formats"
+#: chapter8/xinclude.xml:876(title)
+msgid "Playing Multimedia Formats"
 msgstr ""
 
-#: chapter8/xinclude.xml:866(para)
+#: chapter8/xinclude.xml:878(para)
+msgid "Statement about free multimedia formats."
+msgstr ""
+
+#: chapter8/xinclude.xml:880(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
 msgstr ""
 
-#: chapter8/xinclude.xml:875(para)
+#: chapter8/xinclude.xml:889(para)
 msgid "Playback of multimedia files in Ubuntu is handled by the Gstreamer multimedia framework. GStreamer by itself does not provide any multimedia codecs, it relies on codecs that have been packaged into a <emphasis role=\"strong\">plugin</emphasis> that it uses to perform the actual recording and playback.The easist way to install is to install the package \"ubuntu-restricted-extras\".It also contains lots of other restricted softwares,which may be need a licenss."
 msgstr ""
 
-#: chapter8/xinclude.xml:882(para)
+#: chapter8/xinclude.xml:896(para)
 msgid "Other applications, such as VLC, MPlayer and Xine, do not use the Gstreamer framework."
 msgstr ""
 
-#: chapter8/xinclude.xml:885(para)
+#: chapter8/xinclude.xml:899(para)
 msgid "You can use the Synaptic Package Manager, or the Command Line Interface (CLI) to install these multimedia codecs available in the repositories."
 msgstr ""
 
-#: chapter8/xinclude.xml:892(para)
+#: chapter8/xinclude.xml:906(para)
 msgid "Codecs can be installed directly from the Movie Player. When Movie Player recognizes a format it cannot play, it checks if a Gstreamer plugin is available for this format. If it finds one, you can install the codec easily without following the lengthy solution presented below."
 msgstr ""
 
-#: chapter8/xinclude.xml:900(title)
-msgid "To install a codec plugin using Synaptic Package Manager:"
-msgstr ""
-
-#: chapter8/xinclude.xml:903(para) chapter8/xinclude.xml:2884(para)
-msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens."
-msgstr ""
-
-#: chapter8/xinclude.xml:911(para)
-msgid "The <emphasis role=\"strong\">Multiverse</emphasis> and <emphasis role=\"strong\">Restricted</emphasis> repositories are not activated by default in Ubuntu. To install the additional multimedia codecs, you need to first activate these repositories. On the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories</emphasis>. The <emphasis role=\"strong\">Software</emphasis><emphasis role=\"strong\">Sources</emphasis> dialogue box is displayed."
-msgstr ""
-
-#: chapter8/xinclude.xml:916(title)
-msgid "Displaying Software Sources"
-msgstr ""
-
-#: chapter8/xinclude.xml:927(para) chapter8/xinclude.xml:2898(para)
-msgid "To enable the Multiverse and Restricted repositories, select the third and fourth check boxes available on the <emphasis role=\"strong\">Ubuntu Software</emphasis> tabbed page, and click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
-msgstr ""
-
-#: chapter8/xinclude.xml:933(title)
-msgid "Enabling Repositories"
-msgstr ""
-
-#: chapter8/xinclude.xml:944(para) chapter8/xinclude.xml:2905(para)
-msgid "You may receive a notification that your repository information has changed. Click <emphasis role=\"strong\">Close</emphasis> to exit this message."
-msgstr ""
-
-#: chapter8/xinclude.xml:949(title)
-msgid "Repositories Information Notification"
-msgstr ""
-
-#: chapter8/xinclude.xml:960(para) chapter8/xinclude.xml:2911(para)
-msgid "Once you return to the Synaptic Package Manager window, you are required to click the <emphasis role=\"strong\">Reload</emphasis> button to apply your changes."
-msgstr ""
-
-#: chapter8/xinclude.xml:965(title)
-msgid "Applying Changes"
-msgstr ""
-
-#: chapter8/xinclude.xml:976(para) chapter8/xinclude.xml:2917(para)
-msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
-msgstr ""
-
-#: chapter8/xinclude.xml:981(title)
-msgid "Checking Package Information"
-msgstr ""
-
-#: chapter8/xinclude.xml:992(para)
-msgid "After the Multiverse and Restricted repositories are added in the Ubuntu software sources, you can download and install additional multimedia codecs. To install a software package, you need to first locate the package in the Synaptic Package Manager window. You can either search for a specific software package manually or run a search using the search utility provided in the Synaptic Package Manager. To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>,and begain to install \"ubuntu-restricted-extras\" just like in lession 3."
-msgstr ""
-
-#: chapter8/xinclude.xml:1006(title)
+#: chapter8/xinclude.xml:917(title)
 msgid "Creating and Editing Audio Files"
 msgstr ""
 
-#: chapter8/xinclude.xml:1008(para)
+#: chapter8/xinclude.xml:919(para)
 msgid "Ubuntu provides you with various tools to create your own music and audio files. The default application available in Ubuntu for creation of audio files is the GNOME Sound Recorder. Similarly, you can also edit audio files using Audacity."
 msgstr ""
 
-#: chapter8/xinclude.xml:1014(title)
+#: chapter8/xinclude.xml:925(title)
 msgid "Creating Audio Files"
 msgstr ""
 
-#: chapter8/xinclude.xml:1016(para)
+#: chapter8/xinclude.xml:927(para)
 msgid "Ubuntu provides you with tools to create new audio files using an input device such as a microphone. Sound Recorder is the default application available in Ubuntu for creating audio files."
 msgstr ""
 
-#: chapter8/xinclude.xml:1021(title)
+#: chapter8/xinclude.xml:932(title)
 msgid "To start recording audio using Sound Recorder:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1024(para)
+#: chapter8/xinclude.xml:935(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Sound Recorder</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1030(title)
+#: chapter8/xinclude.xml:941(title)
 msgid "Launching Sound Recorder"
 msgstr ""
 
-#: chapter8/xinclude.xml:1041(para)
+#: chapter8/xinclude.xml:952(para)
 msgid "Sound Recorder allows you to record and play .flac, .ogg, and .wav audio files. You can also select the audio quality and formate from the <emphasis role=\"strong\">Record as</emphasis> drop-down list."
 msgstr ""
 
-#: chapter8/xinclude.xml:1047(title)
+#: chapter8/xinclude.xml:958(title)
 msgid "Selecting the quality and formate"
 msgstr ""
 
-#: chapter8/xinclude.xml:1058(para)
+#: chapter8/xinclude.xml:969(para)
 msgid "Before starting the recording, it is advisable to configure the volume control settings to derive quality audio output. To access the volume controls, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open Volume Control</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1063(title)
+#: chapter8/xinclude.xml:974(title)
 msgid "Accessing Volume Controls"
 msgstr ""
 
-#: chapter8/xinclude.xml:1074(para)
+#: chapter8/xinclude.xml:985(para)
 msgid "You use the slider buttons on the tracks to set the volume control for all the audio input and output devices. To further specify your volume preferences, click Preferences on the Edit menu. This opens the <emphasis role=\"strong\">Volume Control Preferences</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:1081(title)
+#: chapter8/xinclude.xml:992(title)
 msgid "Displaying Volume Preferences"
 msgstr ""
 
-#: chapter8/xinclude.xml:1092(para)
+#: chapter8/xinclude.xml:1003(para)
 msgid "You can use the <emphasis role=\"strong\">input</emphasis> tab to setting the input preferences."
 msgstr ""
 
-#: chapter8/xinclude.xml:1096(title)
+#: chapter8/xinclude.xml:1007(title)
 msgid "Input tab"
 msgstr ""
 
-#: chapter8/xinclude.xml:1107(para)
+#: chapter8/xinclude.xml:1018(para)
 msgid "You are returned to the <emphasis role=\"strong\">Sound Recorder</emphasis> window. Now, you can start recording the audio from the selected input device by clicking the <emphasis role=\"strong\">Record</emphasis> button. The recording starts."
 msgstr ""
 
-#: chapter8/xinclude.xml:1112(title)
+#: chapter8/xinclude.xml:1023(title)
 msgid "Recording Sound"
 msgstr ""
 
-#: chapter8/xinclude.xml:1123(para)
+#: chapter8/xinclude.xml:1034(para)
 msgid "After the recording is complete, you can play the recorded sound file by clicking the <emphasis role=\"strong\">Play</emphasis> button. The progress indicator moves along the progress bar as the sound file is playing. You can also view the duration of the recorded file in minutes and seconds under the <emphasis role=\"strong\">File information</emphasis> section."
 msgstr ""
 
-#: chapter8/xinclude.xml:1130(title)
+#: chapter8/xinclude.xml:1041(title)
 msgid "Playing Recorded Sound File"
 msgstr ""
 
-#: chapter8/xinclude.xml:1143(title)
+#: chapter8/xinclude.xml:1054(title)
 msgid "Editing Audio Files"
 msgstr ""
 
-#: chapter8/xinclude.xml:1145(para)
+#: chapter8/xinclude.xml:1056(para)
 msgid "You can use Audacity for editing audio files. Audacity is not included in the default installation of Ubuntu but it is a free and open source software application, which can be installed easily from the Universe repository of Ubuntu. You can install Audacity using either the Add/Remove Applications or the Synaptic Package Manger."
 msgstr ""
 
-#: chapter8/xinclude.xml:1153(title)
+#: chapter8/xinclude.xml:1064(title)
 msgid "To edit audio files using Audacity:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1156(para)
+#: chapter8/xinclude.xml:1067(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Audacity Sound Editor</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1162(title)
+#: chapter8/xinclude.xml:1073(title)
 msgid "Launching Audacity"
 msgstr ""
 
-#: chapter8/xinclude.xml:1173(para)
+#: chapter8/xinclude.xml:1084(para)
 msgid "The Audacity main interface window is displayed. You can use the various controls and tools to play, create and edit audio files."
 msgstr ""
 
-#: chapter8/xinclude.xml:1178(title)
+#: chapter8/xinclude.xml:1089(title)
 msgid "The Audacity Window"
 msgstr ""
 
-#: chapter8/xinclude.xml:1189(para)
+#: chapter8/xinclude.xml:1100(para)
 msgid "You can now start editing an existing audio file in Audacity. To do so, you need to first import the audio file into Audacity. To import an audio file, on the <emphasis role=\"strong\">File</emphasis> menu, point to <emphasis role=\"strong\">Import</emphasis> and then select <emphasis role=\"strong\">Audio</emphasis>. The <emphasis role=\"strong\">Select one or more audio files</emphasis> dialogue box opens."
 msgstr ""
 
-#: chapter8/xinclude.xml:1197(title)
+#: chapter8/xinclude.xml:1108(title)
 msgid "Importing Audio Files into Audacity"
 msgstr ""
 
-#: chapter8/xinclude.xml:1208(para)
+#: chapter8/xinclude.xml:1119(para)
 msgid "Select the audio file that you want to edit and click <emphasis role=\"strong\">Open</emphasis> to open the file in Audacity."
 msgstr ""
 
-#: chapter8/xinclude.xml:1224(para)
+#: chapter8/xinclude.xml:1135(para)
 msgid "The selected audio file opens in the Audacity interface. The audio file is represented as the blue waves in the lower part of the Audacity window. Now you can perform a whole range of tasks on this file.You can cut off some unwanted portion of the imported audio file, insert silence at some point, can add various audio effects on different sections of the file and may even export the file into an altogether different file format."
 msgstr ""
 
-#: chapter8/xinclude.xml:1232(para)
+#: chapter8/xinclude.xml:1143(para)
 msgid "Audacity also allows you to play an audio file. Click the <emphasis role=\"strong\">Play</emphasis> button to start playing the audio file."
 msgstr ""
 
-#: chapter8/xinclude.xml:1237(title)
+#: chapter8/xinclude.xml:1148(title)
 msgid "Playing the Imported File"
 msgstr ""
 
-#: chapter8/xinclude.xml:1248(para)
+#: chapter8/xinclude.xml:1159(para)
 msgid "The audio file starts playing in the Audacity audio editor. You can use the various tools available with Audacity to start editing the current audio file:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1254(para)
+#: chapter8/xinclude.xml:1165(para)
 msgid "Magnifying tool: If you find that due to the length of the current file, you are unable to view the portions that you want to edit, you can use the Magnifying tool. This will let you zoom in on a specific area."
 msgstr ""
 
-#: chapter8/xinclude.xml:1261(para)
+#: chapter8/xinclude.xml:1172(para)
 msgid "Envelop tool: This enables you to change the volume of specific selections of the sound file."
 msgstr ""
 
-#: chapter8/xinclude.xml:1266(para)
+#: chapter8/xinclude.xml:1177(para)
 msgid "Time Shift tool: Allows you to move the entire sound file in relation to time; helpful when you are working with multiple tracks."
 msgstr ""
 
-#: chapter8/xinclude.xml:1272(para)
+#: chapter8/xinclude.xml:1183(para)
 msgid "Selection tool: Enables you to highlight portions of the sound file on which you want to work."
 msgstr ""
 
-#: chapter8/xinclude.xml:1277(para)
+#: chapter8/xinclude.xml:1188(para)
 msgid "To start editing a specific portion of the sound file, activate the <emphasis role=\"strong\">Selection</emphasis> tool by clicking it."
 msgstr ""
 
-#: chapter8/xinclude.xml:1282(title)
+#: chapter8/xinclude.xml:1193(title)
 msgid "Picking the Selection Tool"
 msgstr ""
 
-#: chapter8/xinclude.xml:1293(para)
+#: chapter8/xinclude.xml:1204(para)
 msgid "Select the area you wish to edit by dragging across the area while pressing the left mouse button. The selected area appears in a shade of darker gray."
 msgstr ""
 
-#: chapter8/xinclude.xml:1298(title)
+#: chapter8/xinclude.xml:1209(title)
 msgid "Selecting Audio Portion to Edit"
 msgstr ""
 
-#: chapter8/xinclude.xml:1309(para)
+#: chapter8/xinclude.xml:1220(para)
 msgid "You can now cut the area if you wish to remove this part of the audio file otherwise, edit this portion by applying various sound effects to it. The Effect menu contains all the digital audio effects that you can apply on an audio file. Some of these are:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1317(para)
+#: chapter8/xinclude.xml:1228(para)
 msgid "Amplify - Increases or decreases volume without altering sound quality"
 msgstr ""
 
-#: chapter8/xinclude.xml:1322(para)
+#: chapter8/xinclude.xml:1233(para)
 msgid "BassBoost - Increases the volume of a specific frequency."
 msgstr ""
 
-#: chapter8/xinclude.xml:1327(para)
+#: chapter8/xinclude.xml:1238(para)
 msgid "Echo - Allows you to add an echo specify the delay time."
 msgstr ""
 
-#: chapter8/xinclude.xml:1332(para)
+#: chapter8/xinclude.xml:1243(para)
 msgid "Fade in - Fades from silence to the present volume"
 msgstr ""
 
-#: chapter8/xinclude.xml:1336(para)
+#: chapter8/xinclude.xml:1247(para)
 msgid "Fade out - Fades from present volume to silence"
 msgstr ""
 
-#: chapter8/xinclude.xml:1340(para)
+#: chapter8/xinclude.xml:1251(para)
 msgid "Invert - Flips the audio samples upside down"
 msgstr ""
 
-#: chapter8/xinclude.xml:1344(para)
+#: chapter8/xinclude.xml:1255(para)
 msgid "Noise Removal-Allows you to remove background noise"
 msgstr ""
 
-#: chapter8/xinclude.xml:1348(para)
+#: chapter8/xinclude.xml:1259(para)
 msgid "Reverse - Allows you to play the selection backward"
 msgstr ""
 
-#: chapter8/xinclude.xml:1352(para)
+#: chapter8/xinclude.xml:1263(para)
 msgid "To increase the volume of the selected portion, on the <emphasis role=\"strong\">Effect</emphasis> menu, select <emphasis role=\"strong\">Amplify</emphasis>. The <emphasis role=\"strong\">Amplify</emphasis> window opens."
 msgstr ""
 
-#: chapter8/xinclude.xml:1356(title)
+#: chapter8/xinclude.xml:1267(title)
 msgid "Applying Sound Effects"
 msgstr ""
 
-#: chapter8/xinclude.xml:1367(para)
+#: chapter8/xinclude.xml:1278(para)
 msgid "In the <emphasis role=\"strong\">Amplify</emphasis> window, you can use the slide bar to increase or decrease the amplification. Click OK to apply the effect to the selected portion of the audio."
 msgstr ""
 
-#: chapter8/xinclude.xml:1373(title)
+#: chapter8/xinclude.xml:1284(title)
 msgid "Amplifying the Audio Clip"
 msgstr ""
 
-#: chapter8/xinclude.xml:1384(para)
+#: chapter8/xinclude.xml:1295(para)
 msgid "Notice that the blue waves in the selected area have changed. You can now listen to the changed audio by clicking the <emphasis role=\"strong\">Play</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:1388(title)
+#: chapter8/xinclude.xml:1299(title)
 msgid "Verifying the Edit Effects"
 msgstr ""
 
-#: chapter8/xinclude.xml:1399(para)
+#: chapter8/xinclude.xml:1310(para)
 msgid "After you are satisfied with all the edit effects, you can save the edited audio file. Because the default audio format of Audacity is not readily supported by many applications you should save the file in a more popular audio format, such as Ogg Vorbis or MP3."
 msgstr ""
 
-#: chapter8/xinclude.xml:1405(para)
+#: chapter8/xinclude.xml:1316(para)
 msgid "To save the file in a different file format, click <emphasis role=\"strong\">Export</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1408(title)
+#: chapter8/xinclude.xml:1319(title)
 msgid "Exporting Audio File"
 msgstr ""
 
-#: chapter8/xinclude.xml:1419(para)
+#: chapter8/xinclude.xml:1330(para)
 msgid "In the <emphasis role=\"strong\">Export File</emphasis> dialogue box, select the folder where you want to save the file. Then, select the desired file format from the drop-down list and then click <emphasis role=\"strong\">Save</emphasis> to export the file in the specified file format."
 msgstr ""
 
-#: chapter8/xinclude.xml:1426(title)
+#: chapter8/xinclude.xml:1337(title)
 msgid "Exporting as MP3 File"
 msgstr ""
 
-#: chapter8/xinclude.xml:1437(para)
+#: chapter8/xinclude.xml:1348(para)
 msgid "Audacity starts exporting the file in the specified file format. This process may take up some time depending on the length of the audio file."
 msgstr ""
 
-#: chapter8/xinclude.xml:1442(title)
+#: chapter8/xinclude.xml:1353(title)
 msgid "Export Progress Indicator"
 msgstr ""
 
-#: chapter8/xinclude.xml:1451(para)
+#: chapter8/xinclude.xml:1362(para)
 msgid "The audio file is exported to the specified location. You can now close the Audacity window and listen to the edited audio file whenever you wish."
 msgstr ""
 
-#: chapter8/xinclude.xml:1460(title)
+#: chapter8/xinclude.xml:1371(title)
 msgid "Playing DVDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:1462(para)
+#: chapter8/xinclude.xml:1373(para)
 msgid "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), which attempts to restrict the sotware that can play a DVD. By default, Ubuntu is capable of playing DVDs that are not encrypted. Due to legal restrictions surrounding the CSS format, as well as Ubuntu's commitment to free multimedia formats, some software packages needed for encrypted DVD playback are not installed by default in Ubuntu. You can install these packages from Ubuntu repositories to enable the playback of encrypted DVDs."
 msgstr ""
 
-#: chapter8/xinclude.xml:1474(para)
+#: chapter8/xinclude.xml:1385(para)
 msgid "It is possible that the use of some of the following software to play or copy DVDs is not permitted by law in some countries. Please check your rights before proceeding."
 msgstr ""
 
-#: chapter8/xinclude.xml:1479(para)
+#: chapter8/xinclude.xml:1390(para)
 msgid "You may also consider downloading the following additional applications that are capable of playing certain formats by default:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1485(para)
+#: chapter8/xinclude.xml:1396(para)
 msgid "Mplayer movie player"
 msgstr ""
 
-#: chapter8/xinclude.xml:1489(para)
+#: chapter8/xinclude.xml:1400(para)
 msgid "VLC media player"
 msgstr ""
 
-#: chapter8/xinclude.xml:1493(para) chapter8/xinclude.xml:2536(para)
+#: chapter8/xinclude.xml:1404(para) chapter8/xinclude.xml:2447(para)
 msgid "Xine"
 msgstr ""
 
-#: chapter8/xinclude.xml:1497(para)
-msgid "Totem-xine"
+#: chapter8/xinclude.xml:1408(para)
+msgid "GStreamer"
 msgstr ""
 
-#: chapter8/xinclude.xml:1501(para)
-msgid "Totem Movie Player, the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
+#: chapter8/xinclude.xml:1412(para)
+msgid "Totem Movie Player,which uses GStreamer as its backend and is the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
 msgstr ""
 
-#: chapter8/xinclude.xml:1507(title)
+#: chapter8/xinclude.xml:1418(title)
 msgid "Playing DVDs in Totem Movie Player"
 msgstr ""
 
-#: chapter8/xinclude.xml:1509(para)
+#: chapter8/xinclude.xml:1420(para)
 msgid "After you have installed all the required software packages from various Ubuntu repositories, you can play a DVD on your Totem movie player."
 msgstr ""
 
-#: chapter8/xinclude.xml:1514(title)
+#: chapter8/xinclude.xml:1425(title)
 msgid "To play a DVD on Totem:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1517(para)
+#: chapter8/xinclude.xml:1428(para)
 msgid "Insert the DVD in the DVD drive of your computer. This will automatically launch the Totem and the DVD will start playing."
 msgstr ""
 
-#: chapter8/xinclude.xml:1522(title)
+#: chapter8/xinclude.xml:1433(title)
 msgid "Playing a DVD in Totem"
 msgstr ""
 
-#: chapter8/xinclude.xml:1533(para)
+#: chapter8/xinclude.xml:1444(para)
 msgid "To view the DVD in full screen mode, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Fullscreen</emphasis>. Alternatively, you can simply press <emphasis role=\"strong\">F</emphasis> on your keyboard."
 msgstr ""
 
-#: chapter8/xinclude.xml:1537(title)
+#: chapter8/xinclude.xml:1448(title)
 msgid "Enabling the Full Screen View"
 msgstr ""
 
-#: chapter8/xinclude.xml:1548(para)
+#: chapter8/xinclude.xml:1459(para)
 msgid "You can enjoy the DVD in full screen mode or press <emphasis role=\"strong\">ESC</emphasis> and return to the Totem window."
 msgstr ""
 
-#: chapter8/xinclude.xml:1551(title)
+#: chapter8/xinclude.xml:1462(title)
 msgid "Viewing DVD in Full Screen"
 msgstr ""
 
-#: chapter8/xinclude.xml:1562(para)
+#: chapter8/xinclude.xml:1473(para)
 msgid "Totem also allows you to configure some settings to view the DVD according to your preferences. To configure the preferences settings, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1568(title)
+#: chapter8/xinclude.xml:1479(title)
 msgid "Displaying Totem Configuration"
 msgstr ""
 
-#: chapter8/xinclude.xml:1579(para)
+#: chapter8/xinclude.xml:1490(para)
 msgid "You can use the Preferences dialogue box to define various display settings, such as the brightness, colour, hue and saturation of the display. After specifying your preferences, click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:1584(title)
+#: chapter8/xinclude.xml:1495(title)
 msgid "Customising Display Settings"
 msgstr ""
 
-#: chapter8/xinclude.xml:1595(para)
+#: chapter8/xinclude.xml:1506(para)
 msgid "When watching a DVD, you can use the various options provided in the <emphasis role=\"strong\">Go</emphasis> menu to navigate inside the DVD. To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1601(title)
+#: chapter8/xinclude.xml:1512(title)
 msgid "Navigating Inside a DVD"
 msgstr ""
 
-#: chapter8/xinclude.xml:1612(para)
+#: chapter8/xinclude.xml:1523(para)
 msgid "You are taken to the next frame in the DVD. If you do not want to view the side bar when playing the DVD, click the <emphasis role=\"strong\">Sidebar</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:1616(title)
+#: chapter8/xinclude.xml:1527(title)
 msgid "Hiding the Sidebar"
 msgstr ""
 
-#: chapter8/xinclude.xml:1626(title)
+#: chapter8/xinclude.xml:1537(title)
 msgid "Viewing the DVD"
 msgstr ""
 
-#: chapter8/xinclude.xml:1637(para)
+#: chapter8/xinclude.xml:1548(para)
 msgid "This hides the side bar and now you can view the DVD on a larger space and simultaneously, have all the playback controls right in front of you."
 msgstr ""
 
-#: chapter8/xinclude.xml:1645(title)
+#: chapter8/xinclude.xml:1556(title)
 msgid "Backing up DVDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:1655(para)
+#: chapter8/xinclude.xml:1566(para)
 msgid "Thoggen"
 msgstr ""
 
-#: chapter8/xinclude.xml:1659(para)
+#: chapter8/xinclude.xml:1570(para)
 msgid "K9copy"
 msgstr ""
 
-#: chapter8/xinclude.xml:1663(para)
+#: chapter8/xinclude.xml:1574(para)
 msgid "dvd::rip"
 msgstr ""
 
-#: chapter8/xinclude.xml:1667(para)
+#: chapter8/xinclude.xml:1578(para)
 msgid "HandBrake"
 msgstr ""
 
-#: chapter8/xinclude.xml:1647(para)
+#: chapter8/xinclude.xml:1558(para)
 msgid "If you have a collection of old and not-so-easy-to-find DVDs, you may wish to back up these on your computer or create extra copies of them. You may even want to extract certain tracks from your DVD and watch it later. To do so, Ubuntu provides you with a number of DVD backup applications or DVD rippers. Although these applications are not included in Ubuntu by default, you can download and install them from the Ubuntu repositories. Some of these applications are: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:1674(para)
+#: chapter8/xinclude.xml:1585(para)
 msgid "If the students want to know more about the above applications, advise them to visit the following Web pages: For dvd::rip- <ulink url=\"http://www2.exit1.org/dvdrip/\">http://www2.exit1.org/dvdrip/</ulink> For K9copy- <ulink url=\"http://k9copy.sourceforge.net/\">http://k9copy.sourceforge.net/</ulink> For HandBrake- <ulink url=\"http://handbrake.m0k.org/?chapter=documentation\">http://handbrake.m0k.org/?chapter=documentation</ulink>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1681(title)
+#: chapter8/xinclude.xml:1592(title)
 msgid "Backing up DVDs Using Thoggen"
 msgstr ""
 
-#: chapter8/xinclude.xml:1683(para)
+#: chapter8/xinclude.xml:1594(para)
 msgid "Thoggen is a DVD backup utility for Linux, based on GStreamer and Gtk+. This application is designed to be easy-to-use. Rather than exposing the complexities of the DVD ripping process, which many other applications tend to do, it tries to simplify the process for average users by offering sensible default options."
 msgstr ""
 
-#: chapter8/xinclude.xml:1692(para)
+#: chapter8/xinclude.xml:1603(para)
 msgid "Is easy to use and has a nice graphical user interface (GUI)"
 msgstr ""
 
-#: chapter8/xinclude.xml:1697(para)
+#: chapter8/xinclude.xml:1608(para)
 msgid "Supports title preview, picture cropping, and picture resizing"
 msgstr ""
 
-#: chapter8/xinclude.xml:1702(para)
+#: chapter8/xinclude.xml:1613(para)
 msgid "Provides language Selection for audio track"
 msgstr ""
 
-#: chapter8/xinclude.xml:1706(para)
+#: chapter8/xinclude.xml:1617(para)
 msgid "Encodes into Ogg/Theora video"
 msgstr ""
 
-#: chapter8/xinclude.xml:1710(para)
+#: chapter8/xinclude.xml:1621(para)
 msgid "Can encode from local directory with video DVD files"
 msgstr ""
 
-#: chapter8/xinclude.xml:1714(para)
+#: chapter8/xinclude.xml:1625(para)
 msgid "Is based on the GStreamer multimedia framework, which makes it fairly easy to add additional encoding formats/codecs in future."
 msgstr ""
 
-#: chapter8/xinclude.xml:1690(para)
+#: chapter8/xinclude.xml:1601(para)
 msgid "Thoggen includes certain key features: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:1723(para)
+#: chapter8/xinclude.xml:1634(para)
 msgid "Thoggen should work just fine for the most part, but make still sure to check the list of known issues. <ulink url=\"http://thoggen.net/download/index.html#known-issues\">http://thoggen.net/download/index.html#known-issues</ulink>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1726(para)
+#: chapter8/xinclude.xml:1637(para)
 msgid "To be able to back up your DVD using Thoggen, you need to first install it. You can easily find this application in the Universe repository of Synaptic Package Manager and install it on your computer."
 msgstr ""
 
-#: chapter8/xinclude.xml:1732(title)
+#: chapter8/xinclude.xml:1643(title)
 msgid "Installing Thoggen"
 msgstr ""
 
-#: chapter8/xinclude.xml:1742(title)
+#: chapter8/xinclude.xml:1653(title)
 msgid "To start backing up your DVD using Thoggen:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1745(para)
+#: chapter8/xinclude.xml:1656(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Thoggen DVD Ripper</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1751(title)
+#: chapter8/xinclude.xml:1662(title)
 msgid "Launching Thoggen"
 msgstr ""
 
-#: chapter8/xinclude.xml:1762(para)
+#: chapter8/xinclude.xml:1673(para)
 msgid "The <emphasis role=\"strong\">Thoggen</emphasis> window appears. As a first step to backing up your DVD, it simply asks you to select the specific tracks on the DVD that you want to back up. Specify the tracks by selecting the corresponding check boxes and then click <emphasis role=\"strong\">OK</emphasis> to proceed."
 msgstr ""
 
-#: chapter8/xinclude.xml:1769(title)
+#: chapter8/xinclude.xml:1680(title)
 msgid "Specifying the Tracks to Back up"
 msgstr ""
 
-#: chapter8/xinclude.xml:1780(para)
+#: chapter8/xinclude.xml:1691(para)
 msgid "In the next step of the backing up process, you are allowed to view and configure some of the settings according to your requirements. You can select the picture size from the corresponding drop-down list and define the output crop, by clicking the <emphasis role=\"strong\">Configure Cropping</emphasis> button. Otherwise, you cam simply click <emphasis role=\"strong\">OK</emphasis> to accept the default settings and continue with the process of backing up your DVD."
 msgstr ""
 
-#: chapter8/xinclude.xml:1789(title)
+#: chapter8/xinclude.xml:1700(title)
 msgid "Changing Default Settings"
 msgstr ""
 
-#: chapter8/xinclude.xml:1800(para)
+#: chapter8/xinclude.xml:1711(para)
 msgid "The DVD backing process starts immediately. You can view the progress of the current as well as the entire process in the <emphasis role=\"strong\">Progress</emphasis> section of the Thoggen window. Thoggen takes quite long to backup a DVD. However, the final output is of a very high quality."
 msgstr ""
 
-#: chapter8/xinclude.xml:1807(title)
+#: chapter8/xinclude.xml:1718(title)
 msgid "Backing up DVD"
 msgstr ""
 
-#: chapter8/xinclude.xml:1823(para)
+#: chapter8/xinclude.xml:1734(para)
 msgid "Ubuntu provides you with tools to directly play music and videos available on the Internet. You can listen and watch online videos and audios directly from within your browser but may require to install some special player for this. Your ability to watch or listen to online media depends on how the provider of the music and video has made them available."
 msgstr ""
 
-#: chapter8/xinclude.xml:1831(title)
+#: chapter8/xinclude.xml:1742(title)
 msgid "Watching Videos in a Web Browser"
 msgstr ""
 
-#: chapter8/xinclude.xml:1833(para)
+#: chapter8/xinclude.xml:1744(para)
 msgid "You can play many of the videos available on the Internet directly from within your browser. For example, You can watch the Google videos and the You Tube videos directly in your FireFox window without installing any special player or additional browser plugins. The following screenshot displays a video being played inside the Firefox window:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1841(title)
+#: chapter8/xinclude.xml:1752(title)
 msgid "Watching Video in a Web Browser"
 msgstr ""
 
-#: chapter8/xinclude.xml:1856(title)
+#: chapter8/xinclude.xml:1767(title)
 msgid "Totem Xine plugin:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1858(para)
+#: chapter8/xinclude.xml:1769(para)
 msgid "Install the <emphasis role=\"strong\"> totem-xine-firefox-plugin</emphasis> package from the \"Universe\" repository."
 msgstr ""
 
-#: chapter8/xinclude.xml:1866(title)
+#: chapter8/xinclude.xml:1777(title)
 msgid "Totem gstreamer plugin:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1868(para)
+#: chapter8/xinclude.xml:1779(para)
 msgid "Install the <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</emphasis> package from the \"Universe\" repository."
 msgstr ""
 
-#: chapter8/xinclude.xml:1876(title)
+#: chapter8/xinclude.xml:1787(title)
 msgid "Mplayer plugin:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1878(para)
+#: chapter8/xinclude.xml:1789(para)
 msgid "Install the <emphasis role=\"strong\"> mozilla-mplayer</emphasis> package from the Universe repository"
 msgstr ""
 
-#: chapter8/xinclude.xml:1886(title)
+#: chapter8/xinclude.xml:1797(title)
 msgid "Flash plugin:"
 msgstr ""
 
-#: chapter8/xinclude.xml:1888(para)
+#: chapter8/xinclude.xml:1799(para)
 msgid "install the <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> package from the \"Multiverse\" repository"
 msgstr ""
 
-#: chapter8/xinclude.xml:1850(para)
+#: chapter8/xinclude.xml:1761(para)
 msgid "However, depending on the format of the video that you want to watch, you may also require to download and install certain additional browser plugins. Some of the plugins available for the default Firefox web browser are: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:1898(para)
+#: chapter8/xinclude.xml:1809(para)
 msgid "If you find that all Chinese characters can not display corretcly in flash, you can use this command to correct it: <emphasis role=\"strong\">sudo rm /etc/fonts/conf.d/49-sansserif.conf</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1904(para)
+#: chapter8/xinclude.xml:1815(para)
 msgid "The plugin installation process depends on the framework you use. If you use Totem-gstreamer, the default movie player included in Ubuntu, you need to install the totem-gstreamer-firefox-plugin package. However, to enable playing streaming video in your browser, you need to first install the Microsoft Windows codec and then install the totem plugin."
 msgstr ""
 
-#: chapter8/xinclude.xml:1911(para)
+#: chapter8/xinclude.xml:1822(para)
 msgid "You can even install an additional mediaplayer, such as RealPlayer 10, to watch online video streams in Realmedia formats. When you have installed all the above mentioned plugins and codecs, you can watch RealMedia files even with your default media player, such as Totem. But, you may also want to install RealPlayer on your computer because RealPlayer supports streaming RealMedia files slightly better than other players."
 msgstr ""
 
-#: chapter8/xinclude.xml:1919(para)
+#: chapter8/xinclude.xml:1830(para)
 msgid "The RealPlayer, developed by RealNetworks, supports a number of audio and video codecs such as realaudio, realvideo 10, mp3, ogg vorbis and theora, h263 and AAC. The RealPlayer for Linux is available in the Canonical commercial repository and can also be freely downloaded from the RealPlayer web site."
 msgstr ""
 
-#: chapter8/xinclude.xml:1928(para)
+#: chapter8/xinclude.xml:1839(para)
 msgid "RealPlayer is a proprietary software and is not supported by the Ubuntu community."
 msgstr ""
 
-#: chapter8/xinclude.xml:1933(title)
+#: chapter8/xinclude.xml:1844(title)
 msgid "Installing RealPlayer"
 msgstr ""
 
-#: chapter8/xinclude.xml:1935(para)
+#: chapter8/xinclude.xml:1846(para)
 msgid "As mentioned above, the realPlayer for Linux is available in the Canonical commercial repository. Ubuntu does not include this repository by default. Therefore, you will first need to add Canonical's commercial repository to your system. Once the repository is added, you can search for the Realplayer package and then install it on your computer."
 msgstr ""
 
-#: chapter8/xinclude.xml:1944(title)
+#: chapter8/xinclude.xml:1855(title)
 msgid "Watching Online Videos Using RealPlayer"
 msgstr ""
 
-#: chapter8/xinclude.xml:1949(para)
+#: chapter8/xinclude.xml:1860(para)
 msgid "You can now access the realPlayer from the Applications menu. To access RealPlayer, on the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">RealPlayer 10</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:1953(emphasis)
+#: chapter8/xinclude.xml:1864(emphasis)
 msgid "Launching RealPlayer"
 msgstr ""
 
-#: chapter8/xinclude.xml:1965(para)
+#: chapter8/xinclude.xml:1876(para)
 msgid "The <emphasis role=\"strong\">RealPlayer Setup Assistant</emphasis> is displayed to guide you through the set up of the RealPlayer. Click <emphasis role=\"strong\">Forward</emphasis> to start the set up process."
 msgstr ""
 
-#: chapter8/xinclude.xml:1971(emphasis)
+#: chapter8/xinclude.xml:1882(emphasis)
 msgid "Initiating RealPlayer Set up"
 msgstr ""
 
-#: chapter8/xinclude.xml:1983(para)
+#: chapter8/xinclude.xml:1894(para)
 msgid "After reviewing the release notes of the RealPlayer 10, click <emphasis role=\"strong\">Forward</emphasis> again to proceed."
 msgstr ""
 
-#: chapter8/xinclude.xml:1987(emphasis)
+#: chapter8/xinclude.xml:1898(emphasis)
 msgid "Reviewing realPlayer Release Notes"
 msgstr ""
 
-#: chapter8/xinclude.xml:1999(para)
+#: chapter8/xinclude.xml:1910(para)
 msgid "Before installing the RealPlayer application on your computer, you need to review the terms of the end user license agreement and accept it to be able to proceed with the setup. Click <emphasis role=\"strong\">Accept.</emphasis>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2004(emphasis)
+#: chapter8/xinclude.xml:1915(emphasis)
 msgid "Accepting the License Agreement"
 msgstr ""
 
-#: chapter8/xinclude.xml:2016(para)
+#: chapter8/xinclude.xml:1927(para)
 msgid "You have reached the final screen of the Realplayer setup Assistant. Specify the provided options and click <emphasis role=\"strong\">OK</emphasis> to complete the set up."
 msgstr ""
 
-#: chapter8/xinclude.xml:2020(emphasis)
+#: chapter8/xinclude.xml:1931(emphasis)
 msgid "Completing the Set-up Process"
 msgstr ""
 
-#: chapter8/xinclude.xml:2032(para)
+#: chapter8/xinclude.xml:1943(para)
 msgid "The <emphasis role=\"strong\">RealPlayer</emphasis> window is displayed, indicating that the set up was successful. Now you can watch online streaming media in the RealPlayer."
 msgstr ""
 
-#: chapter8/xinclude.xml:2037(emphasis)
+#: chapter8/xinclude.xml:1948(emphasis)
 msgid "The RealPlayer Window"
 msgstr ""
 
-#: chapter8/xinclude.xml:2049(para)
+#: chapter8/xinclude.xml:1960(para)
 msgid "To start viewing the online video of your choice, launch Firefox and navigate to the Web page from which you want to view the streaming media."
 msgstr ""
 
-#: chapter8/xinclude.xml:2055(para)
+#: chapter8/xinclude.xml:1966(para)
 msgid "On the Web page, click the link to open the video of your choice."
 msgstr ""
 
-#: chapter8/xinclude.xml:2059(emphasis)
+#: chapter8/xinclude.xml:1970(emphasis)
 msgid "Selecting the Link to the Online Video"
 msgstr ""
 
-#: chapter8/xinclude.xml:2071(para)
+#: chapter8/xinclude.xml:1982(para)
 msgid "You are asked to specify whether you want to open the linked file in RealPlayer or save it to your computer. To view the video as online streaming media, accept the default selection and click <emphasis role=\"strong\">OK</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:2077(emphasis)
+#: chapter8/xinclude.xml:1988(emphasis)
 msgid "Viewing Video as Streaming Media"
 msgstr ""
 
-#: chapter8/xinclude.xml:2089(para)
+#: chapter8/xinclude.xml:2000(para)
 msgid "The <emphasis role=\"strong\">Downloads</emphasis> dialogue box displays the progress of the download. After the file is downloaded to your temporary Internet folder, the video starts playing in the <emphasis role=\"strong\"> RealPlayer</emphasis> window."
 msgstr ""
 
-#: chapter8/xinclude.xml:2095(emphasis)
+#: chapter8/xinclude.xml:2006(emphasis)
 msgid "Watching Online Video in RealPlayer"
 msgstr ""
 
-#: chapter8/xinclude.xml:2107(para)
+#: chapter8/xinclude.xml:2018(para)
 msgid "You can add the link to your <emphasis role=\"strong\">Favorites</emphasis> list to be able to view the video again without searching for it on the Internet. To save the video as a <emphasis role=\"strong\">Favorite,</emphasis> on the the <emphasis role=\"strong\">Favorites</emphasis> menu, click <emphasis role=\"strong\">Add to Favorite</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:2112(emphasis)
+#: chapter8/xinclude.xml:2023(emphasis)
 msgid "Saving a Video as Favourite"
 msgstr ""
 
-#: chapter8/xinclude.xml:2124(para)
+#: chapter8/xinclude.xml:2035(para)
 msgid "The video is now saved as your favorite. In future, you can view this video directly from inside your RealPlayer by selecting the link from the <emphasis role=\"strong\">Favorites</emphasis> menu. You can also play an online video directly from inside the RealPlayer by specifying the location of the video. To do so, on the <emphasis role=\"strong\">File</emphasis> menu, click <emphasis role=\"strong\">Open Location</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:2132(emphasis)
+#: chapter8/xinclude.xml:2043(emphasis)
 msgid "Viewing Online Video Directly from RealPlayer"
 msgstr ""
 
-#: chapter8/xinclude.xml:2144(para)
+#: chapter8/xinclude.xml:2055(para)
 msgid "Type the URL or the file path of the video in the <emphasis role=\"strong\">Open Location</emphasis> dialogue box and click <emphasis role=\"strong\">OK</emphasis> to start playing the online streaming video."
 msgstr ""
 
-#: chapter8/xinclude.xml:2149(emphasis)
+#: chapter8/xinclude.xml:2060(emphasis)
 msgid "Specifying Video Location"
 msgstr ""
 
-#: chapter8/xinclude.xml:2164(title)
+#: chapter8/xinclude.xml:2075(title)
 msgid "Editing Videos"
 msgstr ""
 
-#: chapter8/xinclude.xml:2166(para)
+#: chapter8/xinclude.xml:2077(para)
 msgid "In addition to viewing movies and videos, Ubuntu also provides you tools to help you edit a video. The tools available with Ubuntu include:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2170(para)
+#: chapter8/xinclude.xml:2081(para)
 msgid "<emphasis role=\"strong\">Kino:</emphasis> An advanced video editor, Kino captures video to disk in Raw DV and AVI format. It allows you to load multiple video clips, cut and paste portions of video, and save it to an edit decision list in SMIL and XML formats."
 msgstr ""
 
-#: chapter8/xinclude.xml:2175(para)
+#: chapter8/xinclude.xml:2086(para)
 msgid "<emphasis role=\"strong\">Stopmotion:</emphasis> Stopmotion is a free application for creating stop-motion animation movies. It enables you to create stop-motions from pictures imported from a camera or from the harddrive, add sound effects and export the animation to different video formats such as mpeg or avi."
 msgstr ""
 
-#: chapter8/xinclude.xml:2181(para)
+#: chapter8/xinclude.xml:2092(para)
 msgid "<emphasis role=\"strong\">Subtitle Editor:</emphasis> Subtitle Editor is a GTK+2 tool to edit subtitles for movies and videos. you can use it for creating new subtitles or to transform, edit, correct and refine existing subtitles. This programme also shows sound waves, which makes it easier to synchronise subtitles to voices."
 msgstr ""
 
-#: chapter8/xinclude.xml:2187(para)
+#: chapter8/xinclude.xml:2098(para)
 msgid "<emphasis role=\"strong\">Pitivi Video Editor:</emphasis> Pitivi Video Editor is a non-linear editor, which allows you to easily edit audio and video projects. Using Pitivi, you can capture audio and video, mix, resize, cut, and apply effects to audio and video sources. It also allows you to save the projects in any format supported by the GStreamer framework."
 msgstr ""
 
-#: chapter8/xinclude.xml:2195(title)
+#: chapter8/xinclude.xml:2106(title)
 msgid "Editing Videos Using Pitivi Video Editor"
 msgstr ""
 
-#: chapter8/xinclude.xml:2197(para)
+#: chapter8/xinclude.xml:2108(para)
 msgid "Pitivi Video Editor is installed in Ubuntu by default.So you can use it right now."
 msgstr ""
 
-#: chapter8/xinclude.xml:2200(title)
+#: chapter8/xinclude.xml:2111(title)
 msgid "To edit video using Pitivi Video Editor:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2203(para)
+#: chapter8/xinclude.xml:2114(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Pitivi Video Editor</emphasis>. The <emphasis role=\"strong\">Pitivi</emphasis> window opens."
 msgstr ""
 
-#: chapter8/xinclude.xml:2211(para)
+#: chapter8/xinclude.xml:2122(para)
 msgid "The main Pitivi interface is divided into a number of panes. You can use the various buttons on the task bar to perform tasks such as opening, importing, adding, viewing and saving video clips. To edit a video clip, first import the clip in the Pitivi Video editor by clicking the <emphasis role=\"strong\">Import Clips</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:2219(title)
+#: chapter8/xinclude.xml:2130(title)
 msgid "The Pitivi Interface"
 msgstr ""
 
-#: chapter8/xinclude.xml:2230(para)
+#: chapter8/xinclude.xml:2141(para)
 msgid "In the Import a clip dialogue box, navigate to the folder from where you want to import the video clip, select the single or multiple clips to be edited and click <emphasis role=\"strong\">Add</emphasis> to import it in the <emphasis role=\"strong\">Pitivi</emphasis> window."
 msgstr ""
 
-#: chapter8/xinclude.xml:2235(title)
+#: chapter8/xinclude.xml:2146(title)
 msgid "Importing Video Clips in Pitivi"
 msgstr ""
 
-#: chapter8/xinclude.xml:2246(para)
+#: chapter8/xinclude.xml:2157(para)
 msgid "The selected video clip is now imported into the Pitivi Video editor. You can double-click the video clip to view it in the right pane. Click the <emphasis role=\"strong\">Stop</emphasis> button on the control bar to stop the playback."
 msgstr ""
 
-#: chapter8/xinclude.xml:2252(title)
+#: chapter8/xinclude.xml:2163(title)
 msgid "Viewing the Imported Video"
 msgstr ""
 
-#: chapter8/xinclude.xml:2263(para)
+#: chapter8/xinclude.xml:2174(para)
 msgid "To edit the imported video clip, you need to drag them to the bottom pane to add them to the time line and then select the <emphasis role=\"strong\">Project Settings</emphasis> option from the <emphasis role=\"strong\">File</emphasis> menu. This opens the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:2271(title)
+#: chapter8/xinclude.xml:2182(title)
 msgid "Displaying the Project Settings Dialogue Box"
 msgstr ""
 
-#: chapter8/xinclude.xml:2282(para)
+#: chapter8/xinclude.xml:2193(para)
 msgid "In the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box, you can edit the various aspects of the selected movie clip by defining various specifications according to your preferences. You can use the <emphasis role=\"strong\">Video Output</emphasis> section to define the height, width and the frame rate of the video. Similarly, you can define the audio specifications under the <emphasis role=\"strong\">Audio Output</emphasis> section. Click <emphasis role=\"strong\">OK</emphasis> after specifying your preferences."
 msgstr ""
 
-#: chapter8/xinclude.xml:2293(title)
+#: chapter8/xinclude.xml:2204(title)
 msgid "Specifying Edit Preferences"
 msgstr ""
 
-#: chapter8/xinclude.xml:2304(para)
+#: chapter8/xinclude.xml:2215(para)
 msgid "You return to the Pitivi window. To start applying your specifications on the selected video clip, click the <emphasis role=\"strong\">Render project</emphasis> button. This displays the <emphasis role=\"strong\">Render project</emphasis> dialogue box. You can use the <emphasis role=\"strong\">Modify</emphasis> button on the <emphasis role=\"strong\">Render project</emphasis> dialogue box to further modify your specifications for the video clip. Otherwise, click the <emphasis role=\"strong\">Choose file</emphasis> button to specify a file name for the edited video clip."
 msgstr ""
 
-#: chapter8/xinclude.xml:2314(title)
+#: chapter8/xinclude.xml:2225(title)
 msgid "Specifying the Output File"
 msgstr ""
 
-#: chapter8/xinclude.xml:2325(para)
+#: chapter8/xinclude.xml:2236(para)
 msgid "This opens the <emphasis role=\"strong\">Choose file to render to</emphasis> dialogue box. Use this dialogue box to assign a name for the edited video clip and specify the location where you want it to be saved. After specifying these details, click <emphasis role=\"strong\">OK</emphasis> to continue."
 msgstr ""
 
-#: chapter8/xinclude.xml:2331(title)
+#: chapter8/xinclude.xml:2242(title)
 msgid "Selecting the File to Render to"
 msgstr ""
 
-#: chapter8/xinclude.xml:2342(para)
+#: chapter8/xinclude.xml:2253(para)
 msgid "The name of the file now appears on the <emphasis role=\"strong\">Output file</emphasis> button. Start editing the video clip by clicking the <emphasis role=\"strong\">Record</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:2347(title)
+#: chapter8/xinclude.xml:2258(title)
 msgid "Editing the Video File"
 msgstr ""
 
-#: chapter8/xinclude.xml:2358(para)
+#: chapter8/xinclude.xml:2269(para)
 msgid "The Pitivi Video Editor has started rendering a new project based on your specifications. You can view the progress of the process in the progress bar. Once the rendering is complete, click the Close button on the top-right corner to exit the <emphasis role=\"strong\">Render project</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:2364(title)
+#: chapter8/xinclude.xml:2275(title)
 msgid "Project Rendering Progress Indicator"
 msgstr ""
 
-#: chapter8/xinclude.xml:2375(para)
+#: chapter8/xinclude.xml:2286(para)
 msgid "The newly edited video clip is now saved at the specified location."
 msgstr ""
 
-#: chapter8/xinclude.xml:2379(title)
+#: chapter8/xinclude.xml:2290(title)
 msgid "The Edited Video Clip"
 msgstr ""
 
-#: chapter8/xinclude.xml:2393(title)
+#: chapter8/xinclude.xml:2304(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter8/xinclude.xml:2397(para)
+#: chapter8/xinclude.xml:2308(para)
 msgid "Software usage and distribution is controlled by laws and legislations unique to each country."
 msgstr ""
 
-#: chapter8/xinclude.xml:2402(para)
+#: chapter8/xinclude.xml:2313(para)
 msgid "When using or redistributing proprietary media formats, you should be aware of the associated patent or copyright laws."
 msgstr ""
 
-#: chapter8/xinclude.xml:2407(para)
+#: chapter8/xinclude.xml:2318(para)
 msgid "You can use Rhythmbox to play and organise music, listen to Internet radio and import music from CDs."
 msgstr ""
 
-#: chapter8/xinclude.xml:2412(para)
+#: chapter8/xinclude.xml:2323(para)
 msgid "Using Sound Juicer, you can play audio tracks direct from the CD, extract audio tracks and convert them into audio files in various file formats. In addition, the default audio CD/DVD burner for Ubuntu, Brasero, can be used to create audio and data CD/DVDs."
 msgstr ""
 
-#: chapter8/xinclude.xml:2419(para)
+#: chapter8/xinclude.xml:2330(para)
 msgid "Playback of proprietary multimedia formats can be enabled in Ubuntu by installing additional multimedia codecs from the repositories."
 msgstr ""
 
-#: chapter8/xinclude.xml:2425(para)
+#: chapter8/xinclude.xml:2336(para)
 msgid "Sound Recorder can be used to create audio files in various formats."
 msgstr ""
 
-#: chapter8/xinclude.xml:2430(para)
+#: chapter8/xinclude.xml:2341(para)
 msgid "Audacity enables you to record and edit audio files."
 msgstr ""
 
-#: chapter8/xinclude.xml:2434(para)
+#: chapter8/xinclude.xml:2345(para)
 msgid "DVD playback in Totem Movie Player can be enabled by installing the required software packages."
 msgstr ""
 
-#: chapter8/xinclude.xml:2439(para)
+#: chapter8/xinclude.xml:2350(para)
 msgid "Thoggen is a DVD backup utility for Linux that can be used in Ubuntu to copy DVDs."
 msgstr ""
 
-#: chapter8/xinclude.xml:2444(para)
+#: chapter8/xinclude.xml:2355(para)
 msgid "Ubuntu provides you with tools to listen and watch online videos and audios directly from within your browser or in a mediaplayer such as RealPlayer."
 msgstr ""
 
-#: chapter8/xinclude.xml:2450(para)
+#: chapter8/xinclude.xml:2361(para)
 msgid "Pitivi video Editor can be used to play and edit videos."
 msgstr ""
 
-#: chapter8/xinclude.xml:2395(para)
+#: chapter8/xinclude.xml:2306(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2457(title)
+#: chapter8/xinclude.xml:2368(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter8/xinclude.xml:2462(para)
+#: chapter8/xinclude.xml:2373(para)
 msgid "List the main features of a free software license."
 msgstr ""
 
-#: chapter8/xinclude.xml:2469(para)
+#: chapter8/xinclude.xml:2380(para)
 msgid "Enables anyone to distribute or sell the software"
 msgstr ""
 
-#: chapter8/xinclude.xml:2473(para)
+#: chapter8/xinclude.xml:2384(para)
 msgid "Makes the source code of the software available"
 msgstr ""
 
-#: chapter8/xinclude.xml:2477(para)
+#: chapter8/xinclude.xml:2388(para)
 msgid "Allows users to make modifications and to produce derived works"
 msgstr ""
 
-#: chapter8/xinclude.xml:2482(para)
+#: chapter8/xinclude.xml:2393(para)
 msgid "Does not restrict the use of other software"
 msgstr ""
 
-#: chapter8/xinclude.xml:2466(para)
+#: chapter8/xinclude.xml:2377(para)
 msgid "A free software license include the following features: <placeholder-1/>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2490(para)
+#: chapter8/xinclude.xml:2401(para)
 msgid "Which is the default music player in Ubuntu?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2494(para)
+#: chapter8/xinclude.xml:2405(para)
 msgid "Totem"
 msgstr ""
 
-#: chapter8/xinclude.xml:2498(para)
+#: chapter8/xinclude.xml:2409(para)
 msgid "Rhythmbox"
 msgstr ""
 
-#: chapter8/xinclude.xml:2502(para)
+#: chapter8/xinclude.xml:2413(para)
 msgid "Audacity"
 msgstr ""
 
-#: chapter8/xinclude.xml:2506(para)
+#: chapter8/xinclude.xml:2417(para)
 msgid "gtkpod"
 msgstr ""
 
-#: chapter8/xinclude.xml:2512(para)
+#: chapter8/xinclude.xml:2423(para)
 msgid "b) Rhythmbox"
 msgstr ""
 
-#: chapter8/xinclude.xml:2518(para)
+#: chapter8/xinclude.xml:2429(para)
 msgid "What are podcasts?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2522(para)
+#: chapter8/xinclude.xml:2433(para)
 msgid "Podcasts are audio shows, broadcasted over the Internet, that you can subscribe to. Subscribing to a podcast enables you to download each new audio release from the subscribed podcast source."
 msgstr ""
 
-#: chapter8/xinclude.xml:2531(para)
+#: chapter8/xinclude.xml:2442(para)
 msgid "Which application is available in Ubuntu by default to play and extract audio compact discs?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2540(para)
+#: chapter8/xinclude.xml:2451(para)
 msgid "RealPlayer"
 msgstr ""
 
-#: chapter8/xinclude.xml:2544(para)
+#: chapter8/xinclude.xml:2455(para)
 msgid "Brasero"
 msgstr ""
 
-#: chapter8/xinclude.xml:2548(para) chapter8/xinclude.xml:2554(para)
+#: chapter8/xinclude.xml:2459(para) chapter8/xinclude.xml:2465(para)
 msgid "Sound Juicer"
 msgstr ""
 
-#: chapter8/xinclude.xml:2560(para)
+#: chapter8/xinclude.xml:2471(para)
 msgid "In which formats does Sound Juicer enable you to extract audio files onto your computer?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2565(para)
+#: chapter8/xinclude.xml:2476(para)
 msgid "Sound Juicer enables you to extract audio files into the following three formats:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2570(para)
+#: chapter8/xinclude.xml:2481(para)
 msgid "Ogg Vorbis"
 msgstr ""
 
-#: chapter8/xinclude.xml:2574(para)
+#: chapter8/xinclude.xml:2485(para)
 msgid "FLAC"
 msgstr ""
 
-#: chapter8/xinclude.xml:2578(para)
+#: chapter8/xinclude.xml:2489(para)
 msgid "WAV"
 msgstr ""
 
-#: chapter8/xinclude.xml:2586(para)
+#: chapter8/xinclude.xml:2497(para)
 msgid "From where does Sound Juicer retrieves retrieve the CD artist, title, and track data?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2591(para)
+#: chapter8/xinclude.xml:2502(para)
 msgid "Sound Juicer will retrieve the CD artist, title, and track data from MusicBrainz.org."
 msgstr ""
 
-#: chapter8/xinclude.xml:2598(para)
+#: chapter8/xinclude.xml:2509(para)
 msgid "Name the default CD audio recording application available in Ubuntu?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2603(para)
+#: chapter8/xinclude.xml:2514(para)
 msgid "Brasero is the audio CD burner application that comes bundled with Ubuntu, by default."
 msgstr ""
 
-#: chapter8/xinclude.xml:2610(para)
+#: chapter8/xinclude.xml:2521(para)
 msgid "Why do you need to install additional multimedia codecs in Ubuntu?"
 msgstr ""
 
-#: chapter8/xinclude.xml:2615(para)
+#: chapter8/xinclude.xml:2526(para)
 msgid "Due to the legal restrictions associated with the use of proprietary formats, by default, Ubuntu does not offer support for such formats. You need to install additional multimedia codecs to enabling such proprietary media formats in Ubuntu."
 msgstr ""
 
-#: chapter8/xinclude.xml:2624(para)
+#: chapter8/xinclude.xml:2535(para)
 msgid "You can download and install multimedia codecs using the ____________________."
 msgstr ""
 
-#: chapter8/xinclude.xml:2629(para)
+#: chapter8/xinclude.xml:2540(para)
 msgid "Synaptic Package Manager or Command Line Interface"
 msgstr ""
 
-#: chapter8/xinclude.xml:2636(title)
+#: chapter8/xinclude.xml:2547(title)
 msgid "Lab Exercise"
 msgstr ""
 
-#: chapter8/xinclude.xml:2639(title)
+#: chapter8/xinclude.xml:2550(title)
 msgid "Exercise 1: Playing Music Using Rhythmbox"
 msgstr ""
 
-#: chapter8/xinclude.xml:2641(para)
+#: chapter8/xinclude.xml:2552(para)
 msgid "You have recently installed Ubuntu and want to play and organise your music files, listen to music podcasts and Internet radio. List the steps that you would take."
 msgstr ""
 
-#: chapter8/xinclude.xml:2648(para)
+#: chapter8/xinclude.xml:2559(para)
 msgid "On the <emphasis role=\"strong\">Application</emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click <emphasis role=\"strong\">Rhythmbox Music Player</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:2655(para)
+#: chapter8/xinclude.xml:2566(para)
 msgid "To start importing individual music files into Rhythmbox, right-click <emphasis role=\"strong\">Library</emphasis> and click <emphasis role=\"strong\">Import File</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:2661(para)
+#: chapter8/xinclude.xml:2572(para)
 msgid "In the <emphasis role=\"strong\">Import File into Library</emphasis> dialogue box, navigate to the folder from which you want to import the files."
 msgstr ""
 
-#: chapter8/xinclude.xml:2667(para)
+#: chapter8/xinclude.xml:2578(para)
 msgid "Select the files that you want to import and click <emphasis role=\"strong\">Open.</emphasis>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2671(para)
+#: chapter8/xinclude.xml:2582(para)
 msgid "Select the music tracks that you want to play and the <emphasis role=\"strong\">Play</emphasis> button to start playing the selected track."
 msgstr ""
 
-#: chapter8/xinclude.xml:2681(para)
+#: chapter8/xinclude.xml:2592(para)
 msgid "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast Feed</emphasis> text box and click <emphasis role=\"strong\">Add.</emphasis>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2686(para)
+#: chapter8/xinclude.xml:2597(para)
 msgid "To play a podcast episode, select the episode that you want to play and click the <emphasis role=\"strong\">Play</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:2692(para)
+#: chapter8/xinclude.xml:2603(para)
 msgid "To listen to Internet radio, click the <emphasis role=\"strong\">Radio</emphasis> source in the <emphasis role=\"strong\">Library</emphasis> pane."
 msgstr ""
 
-#: chapter8/xinclude.xml:2696(para)
+#: chapter8/xinclude.xml:2607(para)
 msgid "Double-click on the radio station of your choice to listen to the streaming media."
 msgstr ""
 
-#: chapter8/xinclude.xml:2701(para)
+#: chapter8/xinclude.xml:2612(para)
 msgid "To add a new radio station to the existing list of stations, click <emphasis role=\"strong\">New Internet Radio Station</emphasis> and paste the URL of the new radio station in the <emphasis role=\"strong\">URL of Internet radio station</emphasis> text box."
 msgstr ""
 
-#: chapter8/xinclude.xml:2708(para)
+#: chapter8/xinclude.xml:2619(para)
 msgid "Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in the existing list."
 msgstr ""
 
-#: chapter8/xinclude.xml:2720(title)
+#: chapter8/xinclude.xml:2631(title)
 msgid "Exercise 2: Playing and Extracting Audio CDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:2722(para)
+#: chapter8/xinclude.xml:2633(para)
 msgid "You have built up an impressive CD collection over the years and you would like to play these on your Ubuntu desktop, retrieve details about the music tracks and extract your favourite music tracks onto your computer in a compatible format to be able to play them later. List the steps that you would need to perform to do all that you want."
 msgstr ""
 
-#: chapter8/xinclude.xml:2730(title)
+#: chapter8/xinclude.xml:2641(title)
 msgid "To play audio CDs:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2735(para)
+#: chapter8/xinclude.xml:2646(para)
 msgid "Insert an audio CD in the CD drive of your computer. The <emphasis role=\"strong\">Sound Juicer</emphasis> CD player and ripper is launched automatically."
 msgstr ""
 
-#: chapter8/xinclude.xml:2741(para)
+#: chapter8/xinclude.xml:2652(para)
 msgid "Notice that <emphasis role=\"strong\">Sound Juicer</emphasis> has fetched the tracks' information from MusicBrainz.org."
 msgstr ""
 
-#: chapter8/xinclude.xml:2746(para)
+#: chapter8/xinclude.xml:2657(para)
 msgid "To play the tracks of your choice, select the particular tracks by selecting the corresponding checkboxes."
 msgstr ""
 
-#: chapter8/xinclude.xml:2751(para)
+#: chapter8/xinclude.xml:2662(para)
 msgid "Click the <emphasis role=\"strong\">Play</emphasis> button to play the tracks."
 msgstr ""
 
-#: chapter8/xinclude.xml:2757(title)
+#: chapter8/xinclude.xml:2668(title)
 msgid "To extract an audio CD:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2762(para)
+#: chapter8/xinclude.xml:2673(para)
 msgid "Insert the audio CD into your computer's CD drive."
 msgstr ""
 
-#: chapter8/xinclude.xml:2766(para)
+#: chapter8/xinclude.xml:2677(para)
 msgid "On the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences.</emphasis>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2771(para)
+#: chapter8/xinclude.xml:2682(para)
 msgid "In the <emphasis role=\"strong\">Preferences</emphasis> dialogue box, click the <emphasis role=\"strong\">Output Format</emphasis> drop-down list."
 msgstr ""
 
-#: chapter8/xinclude.xml:2777(para)
+#: chapter8/xinclude.xml:2688(para)
 msgid "Select the format of your choice from the <emphasis role=\"strong\">Output Format</emphasis> drop-down list."
 msgstr ""
 
-#: chapter8/xinclude.xml:2781(para)
+#: chapter8/xinclude.xml:2692(para)
 msgid "Select the directory where you want to extract the files from the <emphasis role=\"strong\">Music Folder</emphasis> drop-down list."
 msgstr ""
 
-#: chapter8/xinclude.xml:2787(para)
+#: chapter8/xinclude.xml:2698(para)
 msgid "Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Preferences</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:2792(para)
+#: chapter8/xinclude.xml:2703(para)
 msgid "In the <emphasis role=\"strong\">Sound Juicer</emphasis> window, select the tracks that you want to extract by selecting the corresponding check boxes."
 msgstr ""
 
-#: chapter8/xinclude.xml:2798(para)
+#: chapter8/xinclude.xml:2709(para)
 msgid "Click the <emphasis role=\"strong\">Extract</emphasis> button to start extracting the files."
 msgstr ""
 
-#: chapter8/xinclude.xml:2803(para)
+#: chapter8/xinclude.xml:2714(para)
 msgid "Sound Juicer notifies you after the selected tracks are extracted successfully. Click <emphasis role=\"strong\">Open</emphasis> to view the tracks copied on your hard disk."
 msgstr ""
 
-#: chapter8/xinclude.xml:2816(title)
+#: chapter8/xinclude.xml:2727(title)
 msgid "Exercise 3: Burning Audio CDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:2818(para)
+#: chapter8/xinclude.xml:2729(para)
 msgid "You have recently discovered a Web site from where you can freely download hundreds of songs. You do not want these files to occupy the precious space on your computer's hard drive. Therefore, you want to copy these files on audio CDs, so that you can listen to them in future without taking up space on the hard drive."
 msgstr ""
 
-#: chapter8/xinclude.xml:2829(para)
+#: chapter8/xinclude.xml:2740(para)
 msgid "Insert a blank (recordable) CD in the CD drive of your computer."
 msgstr ""
 
-#: chapter8/xinclude.xml:2834(para)
+#: chapter8/xinclude.xml:2745(para)
 msgid "Click the click the <emphasis role=\"strong\">Make Audio CD</emphasis> button. This launches the <emphasis role=\"strong\">Brasero Disc Burning</emphasis> application."
 msgstr ""
 
-#: chapter8/xinclude.xml:2839(para)
+#: chapter8/xinclude.xml:2750(para)
 msgid "Click the <emphasis role=\"strong\">New Audio Project</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:2844(para)
+#: chapter8/xinclude.xml:2755(para)
 msgid "Navigate to the desired folder with the files you wish to add to display its contents."
 msgstr ""
 
-#: chapter8/xinclude.xml:2849(para)
+#: chapter8/xinclude.xml:2760(para)
 msgid "Select the specific audio files that you want to be copied and click the <emphasis role=\"strong\">Add</emphasis> button or simply drag each file name to the Files area in the right side of the project window."
 msgstr ""
 
-#: chapter8/xinclude.xml:2855(para)
+#: chapter8/xinclude.xml:2766(para)
 msgid "Once you are sure of the files to be copied to the disk, click the <emphasis role=\"strong\">Burn</emphasis> button to start writing the audio files from your computer to the CD."
 msgstr ""
 
-#: chapter8/xinclude.xml:2861(para)
+#: chapter8/xinclude.xml:2772(para)
 msgid "The Disc Burning Setup dialogue box displays. Click <emphasis role=\"strong\">Burn</emphasis> to continue."
 msgstr ""
 
-#: chapter8/xinclude.xml:2867(para)
+#: chapter8/xinclude.xml:2778(para)
 msgid "Brasero now starts writing the music files to the media disc."
 msgstr ""
 
-#: chapter8/xinclude.xml:2872(title)
+#: chapter8/xinclude.xml:2783(title)
 msgid "Exercise 4: Playing Proprietary Multimedia formats"
 msgstr ""
 
-#: chapter8/xinclude.xml:2874(para)
+#: chapter8/xinclude.xml:2785(para)
 msgid "You have a huge collection of music in MP3 format stored on your computer and want to play these music files on your Ubuntu desktop. List the steps that you will need to take to be able install the required multimedia codecs."
 msgstr ""
 
-#: chapter8/xinclude.xml:2881(title)
+#: chapter8/xinclude.xml:2792(title)
 msgid "To Install a codec plugin using Synaptic Package Manager:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2892(para)
+#: chapter8/xinclude.xml:2795(para)
+msgid "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis role=\"strong\">Administration</emphasis> and then click <emphasis role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong\">Synaptic Package Manager</emphasis> window opens."
+msgstr ""
+
+#: chapter8/xinclude.xml:2803(para)
 msgid "The Multiverse and Restricted repositories are not activated by default in Ubuntu. To activate these repositories, on the <emphasis role=\"strong\">Settings</emphasis> menu, click <emphasis role=\"strong\">Repositories.</emphasis> The <emphasis role=\"strong\">Software Sources</emphasis> dialogue box is displayed."
 msgstr ""
 
-#: chapter8/xinclude.xml:2923(para)
+#: chapter8/xinclude.xml:2809(para)
+msgid "To enable the Multiverse and Restricted repositories, select the third and fourth check boxes available on the <emphasis role=\"strong\">Ubuntu Software</emphasis> tabbed page, and click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
+msgstr ""
+
+#: chapter8/xinclude.xml:2816(para)
+msgid "You may receive a notification that your repository information has changed. Click <emphasis role=\"strong\">Close</emphasis> to exit this message."
+msgstr ""
+
+#: chapter8/xinclude.xml:2822(para)
+msgid "Once you return to the Synaptic Package Manager window, you are required to click the <emphasis role=\"strong\">Reload</emphasis> button to apply your changes."
+msgstr ""
+
+#: chapter8/xinclude.xml:2828(para)
+msgid "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the system starts checking the repositories for new, removed or upgraded software packages."
+msgstr ""
+
+#: chapter8/xinclude.xml:2834(para)
 msgid "To install a software package, you need to first locate the package in the Synaptic Package Manager window."
 msgstr ""
 
-#: chapter8/xinclude.xml:2928(para)
+#: chapter8/xinclude.xml:2839(para)
 msgid "To initiate a search for a specific package, click <emphasis role=\"strong\">Search.</emphasis>"
 msgstr ""
 
-#: chapter8/xinclude.xml:2932(para)
+#: chapter8/xinclude.xml:2843(para)
 msgid "In the <emphasis role=\"strong\">Search</emphasis> field, enter the name of the software package that you are looking for. Click <emphasis role=\"strong\">Search</emphasis> to begin the search."
 msgstr ""
 
-#: chapter8/xinclude.xml:2938(para)
+#: chapter8/xinclude.xml:2849(para)
 msgid "Right-click the package to be installed and select <emphasis role=\"strong\">Mark for Installation</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:2942(para)
+#: chapter8/xinclude.xml:2853(para)
 msgid "Once all the required packages are marked, click <emphasis role=\"strong\">Apply</emphasis> to start downloading the packages. The <emphasis role=\"strong\">Summary</emphasis> dialogue box is displayed."
 msgstr ""
 
-#: chapter8/xinclude.xml:2948(para)
+#: chapter8/xinclude.xml:2859(para)
 msgid "To go ahead with the marked installations, click <emphasis role=\"strong\">Apply</emphasis> on the <emphasis role=\"strong\">Summary</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:2952(para)
+#: chapter8/xinclude.xml:2863(para)
 msgid "After all the mark software packages are downloaded and installed, the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box is displayed. Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role=\"strong\">Changes Applied</emphasis> dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:2958(para)
+#: chapter8/xinclude.xml:2869(para)
 msgid "The check box corresponding to the recently installed software package has changed to green, indicating that the software has been installed successfully."
 msgstr ""
 
-#: chapter8/xinclude.xml:2965(title)
+#: chapter8/xinclude.xml:2876(title)
 msgid "Exercise 5: Playing DVDs"
 msgstr ""
 
-#: chapter8/xinclude.xml:2967(para)
+#: chapter8/xinclude.xml:2878(para)
 msgid "One of your friends has recently given you a DVD gift box set of your favourite movies of all times. Now, you want to play this DVD in your Ubuntu desktop and enjoy your favourite movies."
 msgstr ""
 
-#: chapter8/xinclude.xml:2973(title)
+#: chapter8/xinclude.xml:2884(title)
 msgid "To play the DVD in the Movie player:"
 msgstr ""
 
-#: chapter8/xinclude.xml:2976(para)
+#: chapter8/xinclude.xml:2887(para)
 msgid "Install the following software packages from the Universe and Multiverse repositories using the Synaptic Package Manager."
 msgstr ""
 
-#: chapter8/xinclude.xml:2981(para)
+#: chapter8/xinclude.xml:2892(para)
 msgid "gxine"
 msgstr ""
 
-#: chapter8/xinclude.xml:2985(para)
+#: chapter8/xinclude.xml:2896(para)
 msgid "libdvdcss2"
 msgstr ""
 
-#: chapter8/xinclude.xml:2989(para)
+#: chapter8/xinclude.xml:2900(para)
 msgid "libdvdnav4"
 msgstr ""
 
-#: chapter8/xinclude.xml:2993(para)
+#: chapter8/xinclude.xml:2904(para)
 msgid "libdvdplay0"
 msgstr ""
 
-#: chapter8/xinclude.xml:2997(para)
+#: chapter8/xinclude.xml:2908(para)
 msgid "libdvdvread3"
 msgstr ""
 
-#: chapter8/xinclude.xml:3003(para)
+#: chapter8/xinclude.xml:2914(para)
 msgid "Install the Ubuntu Restricted Extras software package from the Ubuntu repository."
 msgstr ""
 
-#: chapter8/xinclude.xml:3008(para)
+#: chapter8/xinclude.xml:2919(para)
 msgid "Insert the DVD into the DVD drive of your computer. This will automatically launch the Totem and the DVD will start playing."
 msgstr ""
 
-#: chapter8/xinclude.xml:3013(para)
+#: chapter8/xinclude.xml:2924(para)
 msgid "To view the DVD in full screen mode, on the View menu, click Fullscreen. Alternatively, you can simply press F on your keyboard."
 msgstr ""
 
-#: chapter8/xinclude.xml:3019(para)
+#: chapter8/xinclude.xml:2930(para)
 msgid "You can enjoy the DVD in full screen mode. At any point of time, while watching the DVD in fullscreen mode, you can press ESC and return to the Totem window."
 msgstr ""
 
-#: chapter8/xinclude.xml:3025(para)
+#: chapter8/xinclude.xml:2936(para)
 msgid "To configure the preferences settings, on the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences.</emphasis>"
 msgstr ""
 
-#: chapter8/xinclude.xml:3029(para)
+#: chapter8/xinclude.xml:2940(para)
 msgid "After specifying your preferences, click <emphasis role=\"strong\">Close</emphasis> to exit the dialogue box."
 msgstr ""
 
-#: chapter8/xinclude.xml:3033(para)
+#: chapter8/xinclude.xml:2944(para)
 msgid "To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
 msgstr ""
 
-#: chapter8/xinclude.xml:3038(para)
+#: chapter8/xinclude.xml:2949(para)
 msgid "You do not want to view the side bar when playing the DVD, click the <emphasis role=\"strong\">Sidebar</emphasis> button."
 msgstr ""
 
-#: chapter8/xinclude.xml:3043(para)
+#: chapter8/xinclude.xml:2954(para)
 msgid "This hides the side bar and now you can view the DVD on a bigger space and simultaneously, have all the playback controls right in front of you."
 msgstr ""
 
