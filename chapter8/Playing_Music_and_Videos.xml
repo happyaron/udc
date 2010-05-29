@@ -50,6 +50,51 @@
   </sect1>
 
   <sect1>
+    <title>Playing Multimedia Formats</title>
+
+    <para>Statement about free multimedia formats.</para>
+
+    <para>As previously stated, due to the legal restrictions associated with
+    the use of proprietary formats, Ubuntu does not offer support for such
+    formats by default. If you wish to play proprietary formats, you will
+    need to install additional multimedia codecs. A multimedia codec is a
+    small piece of software that allows you to watch videos or listen to music
+    of a specific format. Although Ubuntu includes many codecs by default, you
+    may need to install more because there are many different multimedia
+    formats and it is unrealistic to provide them all.</para>
+
+    <para>Playback of multimedia files in Ubuntu is handled by the Gstreamer
+    multimedia framework. GStreamer by itself does not provide any multimedia
+    codecs, it relies on codecs that have been packaged into a <emphasis
+    role="strong">plugin</emphasis> that it uses to perform the actual
+    recording and playback.The easist way to install is to install the package 
+    "ubuntu-restricted-extras".It also contains lots of other restricted softwares,which may be
+    need a licenss. </para>
+
+    <para>Other applications, such as VLC, MPlayer and Xine, do not use the
+    Gstreamer framework.</para>
+
+    <para>Expert for the default Totem for playing videos and rhythmbox for music,you have
+    lots of other choice,such as many user like using smplayer,which is a QT-based frontend
+    of mplayer,and Audacious to play music.</para>
+
+    <para>You can use the Synaptic Package Manager, or the Command Line
+    Interface (CLI) to install these multimedia codecs available in the
+    repositories.</para>
+
+    <tip>
+      <title>Nice to Know:</title>
+
+      <para>Codecs can be installed directly from the Movie Player. When Movie
+      Player recognizes a format it cannot play, it checks if a Gstreamer
+      plugin is available for this format. If it finds one, you can install
+      the codec easily without following the lengthy solution presented
+      below.</para>
+    </tip>
+
+  </sect1>
+
+  <sect1>
     <title>Playing and Managing Music Files</title>
 
     <para>Ubuntu comes with the Rhythmbox Music Player to play and organise
@@ -940,46 +985,7 @@
     </procedure>
   </sect1>
 
-  <sect1>
-    <title>Playing Multimedia Formats</title>
-
-    <para>Statement about free multimedia formats.</para>
-
-    <para>As previously stated, due to the legal restrictions associated with
-    the use of proprietary formats, Ubuntu does not offer support for such
-    formats by default. If you wish to play proprietary formats, you will
-    need to install additional multimedia codecs. A multimedia codec is a
-    small piece of software that allows you to watch videos or listen to music
-    of a specific format. Although Ubuntu includes many codecs by default, you
-    may need to install more because there are many different multimedia
-    formats and it is unrealistic to provide them all.</para>
-
-    <para>Playback of multimedia files in Ubuntu is handled by the Gstreamer
-    multimedia framework. GStreamer by itself does not provide any multimedia
-    codecs, it relies on codecs that have been packaged into a <emphasis
-    role="strong">plugin</emphasis> that it uses to perform the actual
-    recording and playback.The easist way to install is to install the package 
-    "ubuntu-restricted-extras".It also contains lots of other restricted softwares,which may be
-    need a licenss. </para>
-
-    <para>Other applications, such as VLC, MPlayer and Xine, do not use the
-    Gstreamer framework.</para>
-
-    <para>You can use the Synaptic Package Manager, or the Command Line
-    Interface (CLI) to install these multimedia codecs available in the
-    repositories.</para>
-
-    <tip>
-      <title>Nice to Know:</title>
-
-      <para>Codecs can be installed directly from the Movie Player. When Movie
-      Player recognizes a format it cannot play, it checks if a Gstreamer
-      plugin is available for this format. If it finds one, you can install
-      the codec easily without following the lengthy solution presented
-      below.</para>
-    </tip>
-
-  </sect1>
+  
 
 
   <sect1>
@@ -1863,10 +1869,11 @@
       <title>Watching Videos in a Web Browser</title>
 
       <para>You can play many of the videos available on the Internet directly
-      from within your browser. For example, You can watch the Google videos
-      and the You Tube videos directly in your FireFox window without
-      installing any special player or additional browser plugins. The
-      following screenshot displays a video being played inside the Firefox
+      from within your browser,which is supported by HTML5 standard. For example, 
+      You can watch the videos and listen the voices on Wikipedia directly in 
+      your FireFox window without installing any special player or additional browser plugins.
+      Nowdays,there are few online multimedia which is using HTML5,but will be more and more in future days. 
+      The following screenshot displays a video being played inside the Firefox
       window:</para>
 
       <figure float="0">
@@ -1880,47 +1887,42 @@
         </mediaobject>
       </figure>
 
-      <para>However, depending on the format of the video that you want to
-      watch, you may also require to download and install certain additional
-      browser plugins. Some of the plugins available for the default Firefox
-      web browser are: <itemizedlist>
-          <listitem>
-            <formalpara>
-              <title>Totem Xine plugin:</title>
-
-              <para>Install the <emphasis role="strong">
-              totem-xine-firefox-plugin</emphasis> package from the "Universe"
-              repository.</para>
-            </formalpara>
-          </listitem>
+      <para>However,to view the other online multimedia, depending on the format
+      of the video that you want to watch, you may also require to download and
+      install certain additional browser plugins. Some of the plugins available 
+      for the default Firefox web browser are: <itemizedlist>
 
           <listitem>
             <formalpara>
               <title>Totem gstreamer plugin:</title>
 
               <para>Install the <emphasis role="strong">
-              totem-gstreamer-firefox-plugin</emphasis> package from the
-              "Universe" repository.</para>
+              totem-mozilla</emphasis> package from the
+              "Main" repository.</para>
             </formalpara>
           </listitem>
 
-          <listitem>
-            <formalpara>
-              <title>Mplayer plugin:</title>
-
-              <para>Install the <emphasis role="strong">
-              mozilla-mplayer</emphasis> package from the Universe
-              repository</para>
-            </formalpara>
-          </listitem>
-
+          
           <listitem>
             <formalpara>
               <title>Flash plugin:</title>
 
               <para>install the <emphasis role="strong">
               flashplugin-nonfree</emphasis> package from the "Multiverse"
-              repository</para>
+              repository.For someone who is using AMD64,you can install this one,
+              or add the the ppa https://launchpad.net/~sevenmachines/+archive/flash by 
+              sudo apt-add-repository ppa:sevenmachines/flash
+              and install flashplugin64-nonfree,its performance is better and is more stable.</para>
+            </formalpara>
+          </listitem>
+
+          <listitem>
+            <formalpara>
+              <title>Moonlight plugin:</title>
+
+              <para>install the <emphasis role="strong">
+              moonlight-plugin-mozilla</emphasis> package from the "Universe"
+              repository.Moonlight is a clone of Mircosoft's slivelight.</para>
             </formalpara>
           </listitem>
         </itemizedlist></para>
