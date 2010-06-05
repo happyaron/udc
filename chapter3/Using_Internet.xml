@@ -32,6 +32,10 @@
     <listitem>
       <para>Make phone calls using Softphones</para>
     </listitem>
+
+    <listitem>
+      <para>Use Ubuntu One to keep sync</para>
+    </listitem>
   </itemizedlist>
 
   <note userlevel="instructor">
@@ -39,7 +43,7 @@
 
     <para>It is recommended to cover all the topics in this lesson. However,
     if you are running short on time, you can omit the following optional
-    topics: Using Dial-up, Alternative E-mail Client.</para>
+    topics: Using Dial-up, Alternative E-mail Client, Ubuntu One.</para>
   </note>
 
   <sect1>
@@ -1937,6 +1941,188 @@
     </sect2>
   </sect1>
 
+  <sect1>
+    <title>Using Ubuntu One to keep sync</title>
+
+    <para>Ubuntu One is a sync service provided by the sponsor of Ubuntu - 
+    Canonical Ltd, which is powered by the cloud technology. All Ubuntu users get
+    a free Ubuntu One account. Ubuntu One allows you to sync all kinds of files 
+    online so you can access them anywhere. Sync bookmarks, contacts, music and 
+    pictures across all your computers. Take everything everywhere with Ubuntu 
+    One.</para>
+
+    <para>Before setting up Ubuntu One, you should ensure your system is up to 
+    date. Run Update Manager to install any necessary updates by going to 
+    <emphasis role="strong">System</emphasis> » 
+    <emphasis role="strong">Administration</emphasis> »
+    <emphasis role="strong">Update Manager</emphasis>. You may need to restart 
+    your system. Once it's up to date, you can begin this setup process.</para>
+
+      <procedure>
+        <title>To configure Ubuntu One:</title>
+
+        <step performance="required">
+          <para>Open <emphasis role="strong">Ubuntu One Preferences</emphasis>
+          from the <emphasis role="strong">Me menu</emphasis> (your username in 
+          the upper right corner).</para>
+
+          <figure float="0" id="ubuntuone">
+            <title>Ubuntu One from the Me menu</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_074.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>A web browser will open and prompt you to either sign in or 
+          create an account. Ubuntu One uses the Ubuntu single sign on (SSO) 
+          service so if you have a Launchpad account or another account that 
+          uses the Ubuntu SSO service, you can sign in with that. If you have 
+          an account, sign in and skip down to step 7. If you don't have an 
+          account, no worries, you can sign up for a new account following the 
+          steps below.</para>
+
+          <figure float="0">
+            <title>Ubuntu SSO login page</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_075.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">New Account</emphasis> button 
+          to create an Ubuntu SSO account that you can use to login to Ubuntu 
+          One.</para>
+        </step>
+
+        <step performance="required">
+          <para>Enter your email address, the words displayed in the captcha 
+          image below the email address field, and then click the 
+          <emphasis role="strong">Continue</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Ubuntu SSO create account page</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_076.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Check your email for a message from "Login Service" with the
+          subject of "Login Service: Finish your registration". Open this email
+          and click on the link to continue the Ubuntu SSO registration process.</para>
+        </step>
+
+        <step performance="required">
+          <para>Complete your Ubuntu SSO registration by filling in the form and
+          clicking the <emphasis role="strong">Continue</emphasis> button.</para>
+
+          <figure float="0">
+            <title>Ubuntu SSO complete registration page</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_077.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>Click the <emphasis role="strong">Yes, sign me in button</emphasis>
+          to sign in to Ubuntu One.</para>
+
+          <figure float="0">
+            <title>Ubuntu One sign in page</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_078.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In order to sync, you must explicitly add your computer to the 
+          list of devices that sync with your personal cloud. To add your computer
+          to your Ubuntu One account, click on the <emphasis role="strong">Add this
+          Computer button</emphasis>. New users adding their first computer will
+          also accept the Ubuntu One Terms and Conditions.</para>
+
+          <figure float="0">
+            <title>Ubuntu One add your computer page</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_079.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+
+        <step performance="required">
+          <para>In <emphasis role="strong">Ubuntu One Preferences</emphasis> click
+          on the <emphasis role="strong">Devices</emphasis> tab and then the
+          <emphasis role="strong">Connect</emphasis> button to connect to the
+          service. Use Ubuntu One Preferences to monitor current synchronization
+          activity and manage your Ubuntu One preferences.</para>
+
+          <figure float="0">
+            <title>Ubuntu One Preferences</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="images/Lesson04_images_080.png"
+                           format="PNG" width="12cm" />
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </step>
+      </procedure>
+
+      <para>Now, you are able to sync and share files with friends. Simply copy
+      and paste your file to <emphasis role="strong">Ubuntu One</emphasis> directory
+      or sync a file with right click on it and choose the options.</para>
+
+      <tip>
+        <title>Nice to Know:</title>
+        <para>While removing a linked device from the website, don't forget to remove
+        the <emphasis role="strong">UbuntuOne token</emphasis> in Seahorse's 
+        <emphasis role="strong">login</emphasis> keyring in the 
+        <emphasis role="strong">Password</emphasis> tab to let it able to be linked
+        to another account or re-linked.</para>
+      </tip>
+
+      <note>
+        <title>Note:</title>
+
+        <para>To learn more about Ubuntu One features, refer to
+        <ulink url="https://one.ubuntu.com/features">https://one.ubuntu.com/features</ulink>.</para>
+        <para>Having troubles? Refer to the FAQ:
+        <ulink url="https://answers.launchpad.net/ubuntuone/+faqs">https://answers.launchpad.net/ubuntuone/+faqs</ulink>.</para>
+      </note>
+
+  </sect1>
+
   <?hard-pagebreak ?>
 
   <sect1>
@@ -1981,6 +2167,11 @@
         <para>The default instant messenger client on Ubuntu is Pidgin. It is
         a cross-platform instant messenger that supports multiple popular IM
         network protocols.</para>
+      </listitem>
+
+      <listitem>
+        <para>Ubuntu has included Ubuntu One to keep your files, notes and musics
+        sync between devices, no matter where your are.</para>
       </listitem>
 
     </itemizedlist>
@@ -2120,6 +2311,24 @@
 
         <answer>
           <para>A. Skype</para>
+        </answer>
+      </qandaentry>
+
+      <qandaentry>
+        <question>
+          <para>Which of the following is the tool to keep files sync in Ubuntu?</para>
+
+          <para>A. Firefox</para>
+
+          <para>B. Skype</para>
+
+          <para>C. Ubuntu One</para>
+
+          <para>D. Ekiga</para>
+        </question>
+
+        <answer>
+          <para>C. Ubuntu One</para>
         </answer>
       </qandaentry>
     </qandaset>
