@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-06-05 23:21+0800\n"
-"PO-Revision-Date: 2010-05-22 18:39+0800\n"
+"PO-Revision-Date: 2010-06-06 11:38+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -589,7 +589,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1845(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_074.png'; "
 "md5=3539f9a66051a6cdd4c1991b6523a115"
@@ -600,7 +599,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1865(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_075.png'; "
 "md5=806386359107f4923aa0735217c2d504"
@@ -611,7 +609,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1887(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_076.png'; "
 "md5=adc235ff1e0759b839af4c97447c87bb"
@@ -622,7 +619,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1908(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_077.png'; "
 "md5=2f587eb60b6c254e01d53ea07987b325"
@@ -633,7 +629,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1923(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_078.png'; "
 "md5=619e5d6b805ff9080d3331be546d74d9"
@@ -644,7 +639,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1941(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_079.png'; "
 "md5=95d870565705b0ca12572b3bf77701f6"
@@ -655,7 +649,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1959(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/Lesson04_images_080.png'; "
 "md5=354faff3af3975b5472d6e2febf3e02c"
@@ -701,7 +694,7 @@ msgstr "使用软电话打电话"
 
 #: chapter3/xinclude.xml:36(para)
 msgid "Use Ubuntu One to keep sync"
-msgstr ""
+msgstr "使用 Ubuntu One 保持同步"
 
 #: chapter3/xinclude.xml:41(title) chapter3/xinclude.xml:456(title)
 #: chapter3/xinclude.xml:558(title) chapter3/xinclude.xml:714(title)
@@ -710,14 +703,13 @@ msgid "Instructor Notes:"
 msgstr "教员注记："
 
 #: chapter3/xinclude.xml:43(para)
-#, fuzzy
 msgid ""
 "It is recommended to cover all the topics in this lesson. However, if you "
 "are running short on time, you can omit the following optional topics: Using "
 "Dial-up, Alternative E-mail Client, Ubuntu One."
 msgstr ""
 "推荐您完整地讲授本课所有的内容。不过，如果时间有限，可以省略以下的内容：使用"
-"拨号终端，可选的 E-mail 客户端。"
+"拨号终端、可选的 E-mail 客户端、Ubuntu One。"
 
 #: chapter3/xinclude.xml:49(title)
 msgid "Connecting to and Using the Internet"
@@ -2646,7 +2638,7 @@ msgstr ""
 
 #: chapter3/xinclude.xml:1816(title)
 msgid "Using Ubuntu One to keep sync"
-msgstr ""
+msgstr "使用 Ubuntu One 保持同步"
 
 #: chapter3/xinclude.xml:1818(para)
 msgid ""
@@ -2657,6 +2649,10 @@ msgid ""
 "pictures across all your computers. Take everything everywhere with Ubuntu "
 "One."
 msgstr ""
+"Ubuntu One 是 Ubuntu 的赞助商 Canonical 有限公司基于云技术提供的同步服务。"
+"所有 Ubuntu 用户皆免费拥有一个 Ubuntu One 帐号。Ubuntu One 使得您可以将文件"
+"同步于网络之上，以便在任何需要的时候进行访问。您可以使用它同步您的书签、联系"
+"人、音乐、图像以及计算机内的其他任意文件。"
 
 #: chapter3/xinclude.xml:1825(para)
 msgid ""
@@ -2667,26 +2663,28 @@ msgid ""
 "emphasis>. You may need to restart your system. Once it's up to date, you "
 "can begin this setup process."
 msgstr ""
+"设置 Ubuntu One 之前，您需要保证您已经安装全部系统更新。点击 <emphasis "
+"role=\"strong\">系统</emphasis> » <emphasis role=\"strong"
+"\">系统管理</emphasis> » <emphasis role=\"strong\">升级管理器</"
+"emphasis> 安装所有必要的更新。完成后您可能需要重新启动系统。更新完毕后，"
+"您就可以开始进行设置了。"
 
 #: chapter3/xinclude.xml:1833(title)
-#, fuzzy
 msgid "To configure Ubuntu One:"
-msgstr "要在 Ubuntu 上配置 Ekiga："
+msgstr "在 Ubuntu 上配置 Ubuntu One："
 
 #: chapter3/xinclude.xml:1836(para)
-#, fuzzy
 msgid ""
 "Open <emphasis role=\"strong\">Ubuntu One Preferences</emphasis> from the "
 "<emphasis role=\"strong\">Me menu</emphasis> (your username in the upper "
 "right corner)."
 msgstr ""
-"在 <emphasis role=\"strong\">方法</emphasis> 复选框中，选择 <emphasis role="
-"\"strong\">手动</emphasis>，并在 <emphasis role=\"strong\">地址</emphasis> 右"
-"侧点击 <emphasis role=\"strong\">添加</emphasis>。"
+"在屏幕右上角的 <emphasis role=\"strong\">用户状态</emphasis> 菜单中，点击 <emphasis role="
+"\"strong\">Ubuntu One...</emphasis>。"
 
 #: chapter3/xinclude.xml:1841(title)
 msgid "Ubuntu One from the Me menu"
-msgstr ""
+msgstr "用户状态菜单中的 Ubuntu One"
 
 #: chapter3/xinclude.xml:1852(para)
 msgid ""
@@ -2697,19 +2695,20 @@ msgid ""
 "down to step 7. If you don't have an account, no worries, you can sign up "
 "for a new account following the steps below."
 msgstr ""
+"网页浏览器将启动并提示您创建或者登录您的帐号。Ubuntu 使用 Ubuntu 单点登录服"
+"务(Ubuntu SSO)，如果您有 Launchpad 帐号或其他使用 Ubuntu 单点登录服务的帐号，"
+"您可以直接登录，并直接跳至第 7 步；如果您没有这样的帐号，请按照以下方法注册。"
 
 #: chapter3/xinclude.xml:1861(title)
 msgid "Ubuntu SSO login page"
-msgstr ""
+msgstr "Ubuntu 单点登录页面"
 
 #: chapter3/xinclude.xml:1872(para)
-#, fuzzy
 msgid ""
 "Click the <emphasis role=\"strong\">New Account</emphasis> button to create "
 "an Ubuntu SSO account that you can use to login to Ubuntu One."
 msgstr ""
-"在 <emphasis role=\"strong\">有线</emphasis> 选项卡下点击 <emphasis role="
-"\"strong\">添加</emphasis> 按钮。"
+"点击页面中的 <emphasis role=\"strong\">创建帐号</emphasis> 以建立帐号。"
 
 #: chapter3/xinclude.xml:1878(para)
 msgid ""
@@ -2717,10 +2716,12 @@ msgid ""
 "email address field, and then click the <emphasis role=\"strong\">Continue</"
 "emphasis> button."
 msgstr ""
+"输入您的电子邮件地址，并在下方输入图片中显示的两个单词，然后点击"
+"<emphasis role=\"strong\">继续</emphasis> 按钮。"
 
 #: chapter3/xinclude.xml:1883(title)
 msgid "Ubuntu SSO create account page"
-msgstr ""
+msgstr "Ubuntu SSO 创建帐号页面"
 
 #: chapter3/xinclude.xml:1894(para)
 msgid ""
@@ -2728,30 +2729,29 @@ msgid ""
 "\"Login Service: Finish your registration\". Open this email and click on "
 "the link to continue the Ubuntu SSO registration process."
 msgstr ""
+"检收电子邮件，查找其中来自于“登录服务”的主题为“登录服务：完成您的注册”"
+"的邮件。打开此邮件并点击其中的链接以完成 Ubuntu SSO 注册。"
 
 #: chapter3/xinclude.xml:1900(para)
-#, fuzzy
 msgid ""
 "Complete your Ubuntu SSO registration by filling in the form and clicking "
 "the <emphasis role=\"strong\">Continue</emphasis> button."
 msgstr ""
-"在 <emphasis role=\"strong\">用户名</emphasis> 框中输入 Evolution 账户的用户"
-"名。"
+"将需要的信息填入表格并点击 <emphasis role=\"strong\">继续</emphasis> 按钮完成注册。"
 
 #: chapter3/xinclude.xml:1904(title)
 msgid "Ubuntu SSO complete registration page"
-msgstr ""
+msgstr "Ubuntu SSO 完成注册页面"
 
 #: chapter3/xinclude.xml:1915(para)
-#, fuzzy
 msgid ""
 "Click the <emphasis role=\"strong\">Yes, sign me in button</emphasis> to "
 "sign in to Ubuntu One."
-msgstr "然后单击 <emphasis role=\"strong\">完成</emphasis> 来保存书签。"
+msgstr "点击 <emphasis role=\"strong\">是，让我登录</emphasis> 以登录 Ubuntu One。"
 
 #: chapter3/xinclude.xml:1919(title)
 msgid "Ubuntu One sign in page"
-msgstr ""
+msgstr "Ubuntu One 登录页面"
 
 #: chapter3/xinclude.xml:1930(para)
 msgid ""
@@ -2761,10 +2761,14 @@ msgid ""
 "button</emphasis>. New users adding their first computer will also accept "
 "the Ubuntu One Terms and Conditions."
 msgstr ""
+"开始同步前，您要确保您已将需要同步的计算机添加到私人云的设备列表中。"
+"要添加您的计算机到 Ubuntu One 帐号，点击 <emphasis role=\"strong\">Add this"
+" Computer</emphasis>。新用户在添加其第一个计算机时需要接受 Ubuntu One 用户"
+"条款。"
 
 #: chapter3/xinclude.xml:1937(title)
 msgid "Ubuntu One add your computer page"
-msgstr ""
+msgstr "Ubuntu One 添加您的计算机页面"
 
 #: chapter3/xinclude.xml:1948(para)
 msgid ""
@@ -2774,10 +2778,14 @@ msgid ""
 "One Preferences to monitor current synchronization activity and manage your "
 "Ubuntu One preferences."
 msgstr ""
+"在 <emphasis role=\"strong\">Ubuntu One 首选项</emphasis> 窗口中点击 "
+"<emphasis role=\"strong\">设备</emphasis> 标签并点击 <emphasis role="
+"\"strong\">连接</emphasis> 按钮以便链接到服务。Ubuntu One 首选项工具"
+"可用于监控当前的同步活动并且管理您的 Ubuntu One 首选项。"
 
 #: chapter3/xinclude.xml:1955(title)
 msgid "Ubuntu One Preferences"
-msgstr ""
+msgstr "Ubuntu One 首选项"
 
 #: chapter3/xinclude.xml:1966(para)
 msgid ""
@@ -2785,9 +2793,11 @@ msgid ""
 "paste your file to <emphasis role=\"strong\">Ubuntu One</emphasis> directory "
 "or sync a file with right click on it and choose the options."
 msgstr ""
+"现在，您就可以用 Ubuntu One 同步文件或与朋友分享。您只需将文件复制到主目录"
+"中的 <emphasis role=\"strong\">Ubuntu One</emphasis> 文件夹，或者在文件图标"
+"上点击右键并使用菜单中的功能选项。"
 
 #: chapter3/xinclude.xml:1972(para)
-#, fuzzy
 msgid ""
 "While removing a linked device from the website, don't forget to remove the "
 "<emphasis role=\"strong\">UbuntuOne token</emphasis> in Seahorse's <emphasis "
@@ -2795,27 +2805,26 @@ msgid ""
 "\">Password</emphasis> tab to let it able to be linked to another account or "
 "re-linked."
 msgstr ""
-"在 <emphasis role=\"strong\">安全</emphasis> 一节中，可以在 <emphasis role="
-"\"strong\">使用安全连接</emphasis> 下拉列表中选择 <emphasis role=\"strong"
-"\">TLS 加密</emphasis>、<emphasis role=\"strong\">SSL 加密</emphasis> 或 "
-"<emphasis role=\"strong\">不加密</emphasis>。加密使邮件对除了接收者之外的人不"
-"可读。"
+"当您在网站上删除一个已链接的设备时，请在 "
+"<emphasis role=\"strong\">密码和加密密钥</emphasis> 工具里删除 <emphasis role="
+"\"strong\">密码</emphasis> 选项卡下的 <emphasis role=\"strong"
+"\">login</emphasis> 密钥环中的 <emphasis role=\"strong\">UbuntuOne token</emphasis>。"
 
 #: chapter3/xinclude.xml:1982(para)
-#, fuzzy
 msgid ""
 "To learn more about Ubuntu One features, refer to <ulink url=\"https://one."
 "ubuntu.com/features\">https://one.ubuntu.com/features</ulink>."
 msgstr ""
-"关于服务器类型的更多信息，参见：<ulink url=\"https://help.ubuntu.com/"
-"community/EmailClients\">https://help.ubuntu.com/community/EmailClients</"
-"ulink>"
+"欲知更多 Ubuntu One 的特性，请访问 <ulink url=\"https://one."
+"ubuntu.com/features\">https://one.ubuntu.com/features</ulink>."
 
 #: chapter3/xinclude.xml:1984(para)
 msgid ""
 "Having troubles? Refer to the FAQ: <ulink url=\"https://answers.launchpad."
 "net/ubuntuone/+faqs\">https://answers.launchpad.net/ubuntuone/+faqs</ulink>."
 msgstr ""
+"遇到问题？请查看 FAQ：<ulink url=\"https://answers.launchpad."
+"net/ubuntuone/+faqs\">https://answers.launchpad.net/ubuntuone/+faqs</ulink>."
 
 #: chapter3/xinclude.xml:1993(title)
 msgid "Lesson Summary"
@@ -2878,6 +2887,8 @@ msgid ""
 "Ubuntu has included Ubuntu One to keep your files, notes and musics sync "
 "between devices, no matter where your are."
 msgstr ""
+"Ubuntu 已经添加了 Ubuntu One 以便保持您的文件、笔记和音乐能在不同设备之间"
+"同步，不论您身在何方。"
 
 #: chapter3/xinclude.xml:2045(title)
 msgid "Review Exercise"
@@ -3017,28 +3028,24 @@ msgid "D. Firefox"
 msgstr " D. Firefox"
 
 #: chapter3/xinclude.xml:2182(para)
-#, fuzzy
 msgid "Which of the following is the tool to keep files sync in Ubuntu?"
-msgstr "下列哪个是专有软件？"
+msgstr "下列哪个是 Ubuntu 中用于同步文件的工具？"
 
 #: chapter3/xinclude.xml:2184(para)
-#, fuzzy
 msgid "A. Firefox"
-msgstr " D. Firefox"
+msgstr " A. Firefox"
 
 #: chapter3/xinclude.xml:2186(para)
-#, fuzzy
 msgid "B. Skype"
-msgstr " D. Skype"
+msgstr " B. Skype"
 
 #: chapter3/xinclude.xml:2188(para) chapter3/xinclude.xml:2194(para)
 msgid "C. Ubuntu One"
-msgstr ""
+msgstr " C. Ubuntu One"
 
 #: chapter3/xinclude.xml:2190(para)
-#, fuzzy
 msgid "D. Ekiga"
-msgstr " A. Ekiga"
+msgstr " D. Ekiga"
 
 #: chapter3/xinclude.xml:2201(title)
 msgid "Lab Exercise"
