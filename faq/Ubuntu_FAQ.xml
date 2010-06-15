@@ -115,7 +115,7 @@
     	然后选择： <screen format="linespecific">文件 -> 生成包下载脚本</screen>
     	使用这个脚本可以下载所有要安装的软件，以及它们的依赖。
     	例如，您生成了： <screen format="linespecific">download.sh</screen> 脚本，
-    	就可以使用 使用： <screen format="linespecific">./download.sh</screen>
+    	就可以使用： <screen format="linespecific">./download.sh</screen>
     	命令将所有软件包下载到当前目录。
     </para>
     <para>将下载的所有软件包放在同一个目录中，使用：
@@ -445,7 +445,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
   
    <sect2>
     <title>Super 键是键盘上的哪个键？</title>
-    	<para>Super 键也叫做徽标键，在普通的 PC 机上就是画这微软徽标的那个键，一般在
+    	<para>Super 键也叫做徽标键，在普通的 PC 机上就是画着微软徽标的那个键，一般在
 	ctrl 和 alt 之间，有人管它叫 win 键。在 Mac 机上是画苹果徽标的那个键。
     	</para>
    </sect2>
