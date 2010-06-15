@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introducting-ubuntu\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-05-22 16:21+0800\n"
-"PO-Revision-Date: 2010-05-24 10:04+0800\n"
+"PO-Revision-Date: 2010-06-15 16:06+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -577,8 +577,8 @@ msgid ""
 "Ubuntu CDs contain only free software applications; Ubuntu encourages you to "
 "use free and open source software, improve it and pass it on."
 msgstr ""
-"Ubuntu 所有核心应用程序都是自由软件，Ubuntu 鼓励用户使用、改进并传播自由和开源"
-"软件。"
+"Ubuntu 所有核心应用程序都是自由软件，Ubuntu 鼓励用户使用、改进并传播自由和开"
+"源软件。"
 
 #: chapter1/xinclude.xml:304(title) chapter1/xinclude.xml:317(title)
 msgid "Ubuntu Versions"
@@ -750,7 +750,9 @@ msgstr "Ubuntu 10.04 LTS (Lucid Lynx，清醒的猞猁)"
 
 #: chapter1/xinclude.xml:430(para)
 msgid "Ubuntu 10.04 LTS is the third Long Term Support Release of Ubuntu."
-msgstr "2010年04月发布，是 Ubuntu 的第三个长期支持版，桌面支持到 2013年04月，服务器支持到 2015年04月。"
+msgstr ""
+"2010年04月发布，是 Ubuntu 的第三个长期支持版，桌面支持到 2013年04月，服务器支"
+"持到 2015年04月。"
 
 #: chapter1/xinclude.xml:435(title)
 msgid "Ubuntu 10.10 (Maverick Meerkat)"
@@ -1636,7 +1638,7 @@ msgstr "1) Lucid Lynx"
 
 #: chapter1/xinclude.xml:1430(para) chapter1/xinclude.xml:1488(para)
 msgid "a) June 2006"
-msgstr "a) 2006年06月"
+msgstr "a) 2008年04月"
 
 #: chapter1/xinclude.xml:1435(para) chapter1/xinclude.xml:1477(para)
 msgid "2) 4.10"
