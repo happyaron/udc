@@ -77,12 +77,12 @@
     自由的上传软件。PPA 也被用来对一些打算进入 Ubuntu 官方仓库的软件，或者某些软件的新版本进行测试。</para>
     <para>PPA 上的软件极其丰富，如果 Ubuntu 官方仓库中缺少您需要的某款软件，可以去 PPA 上找找看。</para>
     
-    <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/+ppas">launchpad ppa</ulink>上以
+    <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/+ppas">launchpad ppa</ulink>上以:
     <screen format="linespecific">ns2 ppa</screen>
-    为关键字进行搜索，可以看到有两个人在 launchpad 上提供这个软件包。从两个中选择一个，比如
+    为关键字进行搜索，可以看到有两个人在 launchpad 上提供这个软件包。从两个中选择一个，比如:
     <screen format="linespecific" >https://launchpad.net/~wzssyqa/+archive/wzssyqa</screen>
     在这个页面中，可以看看，这个 ppa 的主人有没有提供你所使用的版本 Ubuntu 所对应的 ns2，
-    比如，正好您用的也是 lucid，那么就可以直接使用命令
+    比如，正好您用的也是 lucid，那么就可以直接使用命令：
     <screen format="linespecific">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen>
     将这个 PPA 添加到您的系统中。
     </para>
@@ -112,10 +112,10 @@
    <sect2>
     <title>我这不能上网，怎么下载多个软件，怎么解决依赖？ </title>
     <para>打开“新立德软件包管理器”，选择要安装的软件，并“标记以便安装”。
-    	然后选择 <screen format="linespecific">文件 -> 生成包下载脚本</screen>
+    	然后选择： <screen format="linespecific">文件 -> 生成包下载脚本</screen>
     	使用这个脚本可以下载所有要安装的软件，以及它们的依赖。
-    	例如，您生成了 <screen format="linespecific">download.sh</screen> 脚本，
-    	就可以使用 使用 <screen format="linespecific">./download.sh</screen>
+    	例如，您生成了： <screen format="linespecific">download.sh</screen> 脚本，
+    	就可以使用 使用： <screen format="linespecific">./download.sh</screen>
     	命令将所有软件包下载到当前目录。
     </para>
     <para>将下载的所有软件包放在同一个目录中，使用：
@@ -125,7 +125,7 @@
     <tip>
 		<title>我要去 Windows 上去下载，怎么办？</title>
 		<para>这个文件的大体格式是：
-		以 <screen format="linespecific">#！/bin/sh</screen> 开头，
+		以： <screen format="linespecific">#！/bin/sh</screen> 开头，
 		接着是类似于：
 		<screen format="linespecific">wget http://mirrors.163.com/ubuntu/pool/main/a/acl/acl_2.2.49-3_amd64.deb</screen>
 		的很多行。
@@ -145,7 +145,7 @@
   
    <sect2>
     <title>我进行一些工作的时候，比如编译 C 程序的时候，提示缺少一些文件，怎么办？</title>
-    <para>这很有可能是因为您没有安装一些必需的软件包，可以根据文件名，使用 apt-file 找到这个文件在哪个软件包里。
+    <para>这很有可能是因为您没有安装一些必需的软件包，可以根据文件名，使用 apt-file 找到这个文件在哪个软件包里：
     	<screen format="linespecific">sudo apt-get install apt-file  #安装 apt-file
 sudo apt-file update #更新 apt-file 本地数据库
 sudo apt-file search stdio.h # 或者
@@ -177,13 +177,13 @@ sudo apt-file search /usr/include/stdio.h</screen>
     <sect2>
     <title>根目录没有空间了，可是，我装的软件并不多，这是怎么回事？</title>
     <para>是不是很长时间没有清理 deb 包缓存了？</para>
-    <para>Apt/aptitude/新立德 等，会把下载的 deb 包缓存在 
+    <para>Apt/aptitude/新立德 等，会把下载的 deb 包缓存在：
     	<screen format="linespecific">/var/cache/apt/archives</screen>
     	如果长期不清理，可能占用大量的空间。</para>
 	<para>可以使用如下两个命令清理 deb 包缓存：
     	<screen format="linespecific">sudo apt-get clean #直接清空 /var/cache/apt/archives
   或者
-sudo apt-get autoclean #删除旧版本的包:只留下当前已经安装的版本的缓存</screen>  
+sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的版本的缓存</screen>  
     </para>
    </sect2>
    <sect2>
@@ -223,7 +223,7 @@ sudo apt-get autoclean #删除旧版本的包:只留下当前已经安装的版�
  
    <sect2>
     <title>如何把一个功能做成桌面快捷方式？</title>
-    <para>在桌面上点右键，选择“创建启动器”。输入一条命令，选择一张图片，点击“确定”。例如
+    <para>在桌面上点右键，选择“创建启动器”。输入一条命令，选择一张图片，点击“确定”。例如：
     	<screen format="linespecific">gnome-screenshot -a</screen>
     命令可以让您选择桌面的一个区域进行截图。</para>
     <tip>
@@ -353,11 +353,11 @@ sudo apt-get autoclean #删除旧版本的包:只留下当前已经安装的版�
     <title>Ubuntu 上怎么使用网上银行？</title>
     	<para>可以打各个银行的服务热线询问，他们会给您办法的：
     	   <screen format="linespecific">
-    	   	工商银行:95588　建设银行:95533　招商银行:95555
-		农业银行:95599　中国银行:95566　中信银行:95558
-		交通银行:95559　光大银行:95595　华夏银行:95577
-		兴业银行:95561　民生银行:95568　邮政储蓄银行:95580
-		上海浦发银行:95528　深圳发展银行:95501</screen>
+    	   	工商银行：95588　建设银行：95533　招商银行：95555
+		农业银行：95599　中国银行：95566　中信银行：95558
+		交通银行：95559　光大银行：95595　华夏银行：95577
+		兴业银行：95561　民生银行：95568　邮政储蓄银行：95580
+		上海浦发银行：95528　深圳发展银行：95501</screen>
     	</para>
     	<para>
     	   <screen format="linespecific">
@@ -370,7 +370,7 @@ sudo apt-get autoclean #删除旧版本的包:只留下当前已经安装的版�
    <sect2>
     <title>Ubuntu 上怎么语音视频聊天？</title>
     	<para>由于腾讯公司不支持，在 Linux 上 QQ 最多只能单方视频
-    	   可以使用 Gtalk/Skyper 来代替。
+    	   可以使用 Gtalk/Skype 来代替。
     	</para>
    </sect2>
 
@@ -524,7 +524,7 @@ sudo update-grup</screen>
     		<para>
     		这个地方说的 10 秒启动是在配置比较高的机器上，只安装了默认软件，配合固态硬盘
 		测试得到的数字，可以认为是一个极值，一般的机器是达不到这个数字的。
-		一般来说，启动时间一般在 20 多秒至 30秒。这也很快了，是吗？
+		一般来说，启动时间一般在 20 多秒至 30秒。这也很快了，不是吗？
     		</para>
   	</sect2>
   </sect1>
@@ -605,8 +605,7 @@ sudo shutdown -c '取消关机'</screen>
     <title>关于杀毒软件和防火墙</title>
     <para>
     	记住：安全远远不止杀毒软件和防火墙！
-    	如果想通过安装杀毒软件或者防火墙来提高桌面 Linux 系统的安全性，那么您可以停下了。
-    	先去稍微了解一下关于信息安全的内容再来回吧。
+    	如果想通过安装杀毒软件或者防火墙来提高桌面 Linux 系统的安全性，那么您可以停下了：这几乎是没有什么用处的。
     </para>
     <para>
     	Linux 系统的安全性主要得益于以下几个方面：
@@ -669,7 +668,6 @@ sudo shutdown -c '取消关机'</screen>
     	以及采用 NetBSD 内核的 Debian GNU/NetBSD 系统。甚至还有应用 Debian 的系统架构和工具，采用 OpenSolaris 内核构建而成的 Nexenta OS 系统。
     	在这些 Debian 系统中，以采用 Linux 内核的 Debian GNU/Linux 最为著名。众多的 Linux 发行版，例如 Ubuntu、Knoppix 和 Linspire 及 Xandros 等，
     	都建基于 Debian GNU/Linux。</para>
-    	<para>Debian 于 1993年8月16日 由一名美国普渡大学学生 Ian Murdock 首次发表。</para>
     	<para>1996年，当时的 Debian 计划领导人 Bruce Perens 发表了 Debian 社会契约(Debian Social Contract)
     	及 Debian 自由软件指引(Debian Free Software Guidelines)，定义了开发 Debian 的基本承诺。</para>
     	<para>Debian 有三个主要的分支：statale，testing，unstable。
