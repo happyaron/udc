@@ -373,6 +373,39 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     	   可以使用 Gtalk/Skype 来代替。
     	</para>
    </sect2>
+   
+   <sect2>
+    <title>Ubuntu 上怎么聊 QQ？</title>
+    	<para>WebQQ：<ulink url="http://webqq.qq.com">http://webqq.qq.com</ulink></para>
+   </sect2>
+   
+   <sect2>
+    <title>Rhythmbox/Totem 播放 MP3 文件乱码？</title>
+    	<para>这是因为 Gstreamer 默认将 ID3 标签读取读取为 UTF8 编码。</para>
+    	<para>有三种方法可以解决这个问题：</para>
+    	<itemizedlist>
+      		<listitem>
+        	<para>使用命令<screen format="linespecific">mid3iconv -e GBK */*.mp3</screen> 将 ID3 标签转换为 UTF8编码
+        		但是，这么做，如果将 MP3 文件发送到比较老的 MP3 上，可能又会出现乱码。
+        	</para>
+      		</listitem>
+      		<listitem>
+        	<para>http://forum.ubuntu.org.cn/viewtopic.php?t=278753  下载 id2ape，使用命令：
+        	<screen format="linespecific">python id2ape -e GBK */*.mp3</screen>
+        	将 ID3v2 编码转换为 UTF8 后，写入 APEv2 标签。
+        	以上两种方法，需要安装 <ulink url="apt://python-mutagen">python-mutagen</ulink></para>
+        	</para>
+      		</listitem>
+      		<listitem>
+        	<para>设置环境变量 GST_ID3V2_TAG_ENCODING 和 GST_ID3_TAG_ENCODING，将：
+        	<screen format="linespecific">export GST_ID3_TAG_ENCODING=GBK:UTF-8:GB18030
+export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
+		加入 ~/.bashrc (只影响自己) 或 /etc/profile (影响整个系统)
+        	</para>
+        	
+      		</listitem>
+    	</itemizedlist>
+   </sect2>
 
   </sect1> 
 
@@ -534,6 +567,12 @@ sudo update-grup</screen>
    <sect2>
     <title>Ubuntu 中文论坛上，每页都会给显示一条命令，很酷，从哪里可以找到它们？</title>
     	<screen format="linespecific"><ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink></screen>
+   </sect2>
+   
+   <sect2>
+    <title>Ubuntu 中文论坛上，都有哪些求助方法？</title>
+    	<para>请参考这个帖子：</para>
+    	<screen format="linespecific"><ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink></screen>
    </sect2>
    
    <sect2>
