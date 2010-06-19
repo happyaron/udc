@@ -669,7 +669,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/Lesson04_images_020.png"
-                           format="PNG" width="17cm" />
+                           format="PNG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1609,35 +1609,6 @@
         role="strong">New Instant Message</emphasis>. The <emphasis
         role="strong">New Instant Message</emphasis> window will be
         displayed.</para>
-
-        <figure float="0" id="fig-pidgin_buddylist">
-          <title>New Instant Message</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/Lesson04_images_059.png" format="PNG"
-                         width="8cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
-      </step>
-
-      <step performance="required">
-        <para>To interact with other users, type the screen name or alias of
-        the person you would like to chat with in the <emphasis
-        role="strong">Name</emphasis> box and click <emphasis
-        role="strong">OK</emphasis>. An IM window will be displayed.</para>
-
-        <figure float="0">
-          <title>Specifying Buddy Name</title>
-
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="images/Lesson04_images_060.png" format="PNG"
-                         width="8cm" />
-            </imageobject>
-          </mediaobject>
-        </figure>
       </step>
 
       <step performance="required">
