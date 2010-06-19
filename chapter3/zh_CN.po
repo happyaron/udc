@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-06-05 23:21+0800\n"
-"PO-Revision-Date: 2010-06-06 18:15+0800\n"
+"PO-Revision-Date: 2010-06-19 19:00+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -2210,7 +2210,7 @@ msgstr ""
 msgid ""
 "To connect to an existing e-mail account using the Pidgin instant messenger, "
 "perform the following steps:"
-msgstr "要使用 Empathy 进入一个 IRC 频道，请进行以下操作："
+msgstr "要使用 Empathy 作为 Google Talk 客户端，请进行以下操作："
 
 #: chapter3/xinclude.xml:1415(para)
 msgid ""
@@ -2221,11 +2221,11 @@ msgid ""
 msgstr ""
 "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，用鼠标指向 "
 "<emphasis role=\"strong\">Internet</emphasis>，点击 <emphasis role=\"strong"
-"\">Empathy IM 客户端</emphasis>，启动 Empathy。"
+"\">Empathy 即时通讯客户端</emphasis>，启动 Empathy。"
 
 #: chapter3/xinclude.xml:1422(title)
 msgid "Launching Pidgin Internet Messenger"
-msgstr "启动 Empathy IM 客户端"
+msgstr "启动 Empathy 即时通讯客户端"
 
 #: chapter3/xinclude.xml:1433(para)
 msgid ""
@@ -2233,13 +2233,14 @@ msgid ""
 "existing e-mail account on Pidgin. The <emphasis role=\"strong\">Add "
 "Account</emphasis> dialogue box will be displayed."
 msgstr ""
-"点击 <emphasis role=\"strong\">编辑</emphasis> 菜单中的 <emphasis role="
-"\"strong\">帐户</emphasis>，弹出 <emphasis role=\"strong\">帐户</emphasis> 对"
-"话框。"
+"初次启动时会自动弹出 <emphasis role=\"strong\">消息和 VoIP 帐户助手"
+"</emphasis>，可以添加新帐号或从 Pidgin 等其他软件中导入已经设置过的帐号。"
+"帐户助手也可以通过点击 <emphasis role=\"strong\">编辑</emphasis> 菜单中的 <emphasis role="
+"\"strong\">帐户</emphasis> 项话框来得到。"
 
 #: chapter3/xinclude.xml:1438(title)
 msgid "Adding a New IM Account"
-msgstr "添加新的即时通信帐户"
+msgstr "消息和 VoIP 帐户助手"
 
 #: chapter3/xinclude.xml:1449(para)
 msgid ""
@@ -2253,9 +2254,8 @@ msgid ""
 "box. Click <emphasis role=\"strong\">Save</emphasis> to create the account. "
 "The <emphasis role=\"strong\">Accounts</emphasis> window will be displayed."
 msgstr ""
-"在 <emphasis role=\"strong\">帐户</emphasis> 对话框中点击 <emphasis role="
-"\"strong\">添加</emphasis>，接着在列表中选择 <emphasis role=\"strong\">IRC</"
-"emphasis> 协议，然后点击 <emphasis role=\"strong\">创建</emphasis>。"
+"在 <emphasis role=\"strong\">欢迎使用 Empathy</emphasis> 对话框中选择 <emphasis role="
+"\"strong\">有，现在就输入我的帐户信息</emphasis>，然后点击 <emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/xinclude.xml:1459(title)
 msgid "Providing Basic Account Information"
@@ -2267,14 +2267,20 @@ msgid ""
 "is active in the <emphasis role=\"strong\">Accounts</emphasis> window. Click "
 "<emphasis role=\"strong\">Close</emphasis>."
 msgstr ""
-"在新建帐户窗口填入您想要的昵称等信息，以进入 #ubuntu-cn 频道为例，在 "
-"<emphasis role=\"strong\">网络</emphasis> 中选择 <emphasis role=\"strong"
-"\">Ubuntu Servers</emphasis>，最后点击 <emphasis role=\"strong\">连接</"
-"emphasis>。至此完成了一个帐号的添加。"
+"在帐户详情页面中，在 <emphasis role=\"strong\">您已拥有哪个类型的帐户？"
+"</emphasis> 中选择 <emphasis role=\"strong\">Google Talk</emphasis>，"
+"在 <emphasis role=\"strong\">您的 Google ID 是什么？</emphasis> 下方的框中"
+"输入您的 Google 帐号，在 <emphasis role=\"strong"
+"\">您的 Google 密码是什么？</emphasis> 下方的框中输入您的 Google 帐号的密码"
+"。如果您还要配置除了这个 Google 帐号之外的其他帐号(其他 Google 帐号或者其他"
+"类型如 Yahoo! 帐号)，则在 <emphasis role=\"strong\">您还要设置其他聊天帐户"
+"吗？</emphasis> 下方选择 <emphasis role=\"strong\">是</emphasis>，如果没有"
+"则保持默认的 <emphasis role=\"strong\">没有，就这样吧</emphasis>，最后点击 "
+"<emphasis role=\"strong\">前进</emphasis>。"
 
 #: chapter3/xinclude.xml:1474(title)
 msgid "Viewing Added Accounts"
-msgstr "查看已添加的帐户"
+msgstr "输入个人资料"
 
 #: chapter3/xinclude.xml:1486(para)
 msgid ""
@@ -2282,8 +2288,9 @@ msgid ""
 "\">Add</emphasis> in the <emphasis role=\"strong\">Accounts</emphasis> "
 "window and perform steps 1-4."
 msgstr ""
-"如果您希望添加其他的帐号，请再次点击 <emphasis role=\"strong\">添加</"
-"emphasis> 按钮然后重复步骤 1-4。"
+"您可以在接下来的窗口中输入您的姓名和昵称，这些选项都不是必须的，如果想要"
+"跳过，选择 <emphasis role=\"strong\">暂不启用此特性</emphasis> 复选框，"
+"然后点击 <emphasis role=\"strong\">应用</emphasis> 完成帐户添加。"
 
 #: chapter3/xinclude.xml:1492(para)
 msgid ""
@@ -2307,29 +2314,7 @@ msgid ""
 "displayed."
 msgstr ""
 "要开始使用 Empathy，首先在主界面上将状态设置为 <emphasis role=\"strong\">在线"
-"</emphasis>，然后点击菜单栏中的 <emphasis role=\"strong\">聊天室</emphasis>，"
-"选择 <emphasis role=\"strong\">加入</emphasis>。在服务器栏填入 <emphasis "
-"role=\"strong\">#ubuntu-cn</emphasis>，然后点击 <emphasis role=\"strong\">加"
-"入</emphasis>。"
-
-#: chapter3/xinclude.xml:1512(title)
-msgid "New Instant Message"
-msgstr "新建对话"
-
-#: chapter3/xinclude.xml:1523(para)
-msgid ""
-"To interact with other users, type the screen name or alias of the person "
-"you would like to chat with in the <emphasis role=\"strong\">Name</emphasis> "
-"box and click <emphasis role=\"strong\">OK</emphasis>. An IM window will be "
-"displayed."
-msgstr ""
-"要与单个用户交流，选择菜单栏中 <emphasis role=\"strong\">聊天</emphasis>，然"
-"后点击 <emphasis role=\"strong\">新建对话</emphasis>，再输入 <emphasis role="
-"\"strong\">联系人 ID</emphasis> 即可开始与他或她交流。"
-
-#: chapter3/xinclude.xml:1527(title)
-msgid "Specifying Buddy Name"
-msgstr "与特定好友聊天"
+"</emphasis>，然后在好友列表中选择要进行聊天的好友并双击，打开聊天窗口。"
 
 #: chapter3/xinclude.xml:1538(para)
 msgid ""
@@ -2708,7 +2693,7 @@ msgid ""
 "Click the <emphasis role=\"strong\">New Account</emphasis> button to create "
 "an Ubuntu SSO account that you can use to login to Ubuntu One."
 msgstr ""
-"点击页面中的 <emphasis role=\"strong\">创建帐号</emphasis> 以建立帐号。"
+"点击页面中的 <emphasis role=\"strong\">新建帐号</emphasis> 以建立帐号。"
 
 #: chapter3/xinclude.xml:1878(para)
 msgid ""
