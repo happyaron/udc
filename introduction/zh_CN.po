@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-06-20 10:42+0800\n"
-"PO-Revision-Date: 2010-05-22 18:58+0800\n"
+"PO-Revision-Date: 2010-06-21 13:16+0800\n"
 "Last-Translator: Hunt Xu <mhuntxu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -163,7 +163,7 @@ msgstr "Ubuntu 课程计划"
 
 #: introduction/xinclude.xml:106(title)
 msgid "Ubuntu Session Plan - 1st Day - Introduction and Chapter 1"
-msgstr ""
+msgstr "第一天 - 课程概况和第 1 章"
 
 #: introduction/xinclude.xml:114(emphasis)
 #: introduction/xinclude.xml:557(emphasis)
@@ -172,7 +172,7 @@ msgstr "章节"
 
 #: introduction/xinclude.xml:119(emphasis)
 msgid "Duration (in minutes)"
-msgstr "时长 (分钟)"
+msgstr "时长(分钟)"
 
 #: introduction/xinclude.xml:127(emphasis)
 msgid "DAY 1"
@@ -234,9 +234,8 @@ msgid "Review Exercise"
 msgstr "复习题"
 
 #: introduction/xinclude.xml:221(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 1st Day - Chapter 2"
-msgstr "Ubuntu 课程计划"
+msgstr "第一天 - 第 2 章"
 
 #: introduction/xinclude.xml:229(emphasis)
 msgid "Exploring the Ubuntu Desktop"
@@ -274,9 +273,8 @@ msgid "Lab Exercise"
 msgstr "上机练习"
 
 #: introduction/xinclude.xml:300(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 1st Day - Chapter 3"
-msgstr "Ubuntu 课程计划"
+msgstr "第一天 - 第 3 章"
 
 #: introduction/xinclude.xml:308(emphasis)
 msgid "Using the Internet"
@@ -311,9 +309,8 @@ msgid "Making Phone Calls using Softphones"
 msgstr "使用软电话拨打电话"
 
 #: introduction/xinclude.xml:386(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 1st Day - Chapter 4"
-msgstr "Ubuntu 课程计划"
+msgstr "第一天 - 第 4 章"
 
 #: introduction/xinclude.xml:394(emphasis)
 msgid "Using OpenOffice Applications"
@@ -352,9 +349,8 @@ msgid "Additional Applications"
 msgstr "附加程序"
 
 #: introduction/xinclude.xml:488(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 1st Day - Chapter 5"
-msgstr "Ubuntu 课程计划"
+msgstr "第一天 - 第 5 章"
 
 #: introduction/xinclude.xml:496(emphasis)
 msgid "Ubuntu and Games"
@@ -377,13 +373,12 @@ msgid "Playing Other Popular Games"
 msgstr "游玩其他流行的游戏"
 
 #: introduction/xinclude.xml:549(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 2nd Day - Chapter 6"
-msgstr "Ubuntu 课程计划"
+msgstr "第二天 - 第 6 章"
 
 #: introduction/xinclude.xml:562(emphasis)
 msgid "Duration (in minutes) excl. exercises"
-msgstr "时长 (分钟) excl. exercises"
+msgstr "时长(分钟)"
 
 #: introduction/xinclude.xml:570(emphasis)
 msgid "DAY 2"
@@ -433,9 +428,8 @@ msgid "Adding New Language Settings"
 msgstr "添加新语言设置"
 
 #: introduction/xinclude.xml:682(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 2nd Day - Chapter 7"
-msgstr "Ubuntu 课程计划"
+msgstr "第二天 - 第 7 章"
 
 #: introduction/xinclude.xml:690(emphasis)
 msgid "Making the Most of Images and Photos"
@@ -462,9 +456,8 @@ msgid "Using a Scanner"
 msgstr "扫描仪的使用"
 
 #: introduction/xinclude.xml:768(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 2nd Day - Chapter 8"
-msgstr "Ubuntu 课程计划"
+msgstr "第二天 - 第 8 章"
 
 #: introduction/xinclude.xml:776(emphasis)
 msgid "Playing Music and Videos"
@@ -511,9 +504,8 @@ msgid "Editing Videos"
 msgstr "编辑视频"
 
 #: introduction/xinclude.xml:897(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 2nd Day - Chapter 9"
-msgstr "Ubuntu 课程计划"
+msgstr "第二天 - 第 9 章"
 
 #: introduction/xinclude.xml:904(emphasis)
 msgid "Ubuntu: Help and Support"
@@ -548,9 +540,8 @@ msgid "Paid for Commercial Services"
 msgstr "购买商业服务"
 
 #: introduction/xinclude.xml:998(title)
-#, fuzzy
 msgid "Ubuntu Session Plan - 2nd Day - Chapter 10"
-msgstr "Ubuntu 课程计划"
+msgstr "第二天 - 第 10 章"
 
 #: introduction/xinclude.xml:1006(emphasis)
 msgid "Partitioning and Booting - optional"
