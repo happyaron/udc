@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-06-05 23:21+0800\n"
-"PO-Revision-Date: 2010-06-19 19:00+0800\n"
+"PO-Revision-Date: 2010-06-21 22:53+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -2344,9 +2344,9 @@ msgstr ""
 "软电话是帮助您使用电脑打电话的应用程序。您的服务商可能免费提供电脑到电脑的呼"
 "叫，但电脑到电话或者电话到电脑的呼叫则是收费的。您需要和通信对方使用相同的音"
 "频编码格式，编码器会将您的声音编码为数字格式，待传输至对方电脑后再由解码器转"
-"回声音信号。常见的软电话有 Ekiga，Skype 等。您还可以使用 Pidgin 等程序通过 "
-"Google Talk 一类的 XMPP 协议来进行在线的音视频联系，其工作原理与本节中所述的"
-"内容基本相同，虽然可配置项相对较少，但使用起来更加便捷。"
+"回声音信号。常见的软电话有 Linphone、Ekiga、Skype 等。您还可以使用 Empathy、"
+"Pidgin 等程序通过 Google Talk 一类的 XMPP 协议来进行在线的音视频联系，其工作"
+"原理与本节中所述的内容基本相同，虽然可配置项相对较少，但使用起来更加便捷。"
 
 #: chapter3/xinclude.xml:1568(para)
 msgid ""
@@ -2376,12 +2376,12 @@ msgstr ""
 #: chapter3/xinclude.xml:1586(para)
 msgid "The configuration of Ekiga is described below."
 msgstr ""
-"以下内容描述了如何配置 Ekiga。开始下面的使用前，您需要参照“收发邮件”一节中使"
-"用新立得软件包管理器安装 Thunderbird 的操作搜索并安装软件包 ekiga。"
+"以下内容描述了如何配置 Linphone。开始下面的使用前，您需要参照“收发邮件”一节"
+"中使用新立得软件包管理器安装 Thunderbird 的操作搜索并安装软件包 linphone。"
 
 #: chapter3/xinclude.xml:1590(title)
 msgid "Using Ekiga"
-msgstr "使用 Ekiga"
+msgstr "使用 Linphone"
 
 #: chapter3/xinclude.xml:1592(para)
 msgid ""
@@ -2391,8 +2391,8 @@ msgid ""
 "can use Ekiga to call, send instant messages and be contacted by other Ekiga "
 "users."
 msgstr ""
-"Ekiga 是开源软电话。它是自由的 VoIP 和视频会议软件。VoIP 服务通过互联网传递音"
-"频。您可以使用 Ekiga 打电话、发送即时通信。"
+"Linphone 是自由的 VoIP 和视频会议软件。VoIP 服务通过互联网传递音"
+"频。您可以使用 Linphone 打电话、或进行视频聊天。"
 
 #: chapter3/xinclude.xml:1598(para)
 msgid ""
@@ -2402,7 +2402,7 @@ msgstr "首次运行 Ekiga 时会弹出配置助手以帮助您对 Ekiga 进行�
 
 #: chapter3/xinclude.xml:1602(title)
 msgid "To configure Ekiga on Ubuntu:"
-msgstr "要在 Ubuntu 上配置 Ekiga："
+msgstr "要在 Ubuntu 上配置 Linphone："
 
 #: chapter3/xinclude.xml:1605(para)
 msgid ""
@@ -2414,12 +2414,13 @@ msgid ""
 msgstr ""
 "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单中，用鼠标指向 "
 "<emphasis role=\"strong\">Internet</emphasis>，然后点击 <emphasis role="
-"\"strong\">Ekiga 软电话</emphasis>。弹出 <emphasis role=\"strong\">Ekiga 配置"
-"助手</emphasis>，点击 <emphasis role=\"strong\">前进</emphasis> 继续。"
+"\"strong\">Linphone</emphasis>。弹出 <emphasis role=\"strong\">Linphone"
+"</emphasis> 和 <emphasis role=\"strong\">Linphone video</emphasis> 窗口，"
+"如果您的电脑同时有 IPv4 和 IPv6 连接，它还将弹出提示窗口说明默认使用 IPv4。"
 
 #: chapter3/xinclude.xml:1611(title)
 msgid "Launching Ekiga Softphone"
-msgstr "启动 Ekiga 软电话"
+msgstr "启动 Linphone"
 
 #: chapter3/xinclude.xml:1622(para)
 msgid ""
@@ -2429,12 +2430,12 @@ msgid ""
 "display purposes when you connect to other audio or video applications. "
 "Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
-"在 <emphasis role=\"strong\">个人信息</emphasis> 页输入您的姓名，它将在音频或"
-"视频聊天时显示。完成后请点击 <emphasis role=\"strong\">前进</emphasis>。"
+"在主窗口的 <emphasis role=\"strong\">模式</emphasis> 菜单下选择 "
+"<emphasis role=\"strong\">音频 </emphasis> 以关闭视频聊天窗口。"
 
 #: chapter3/xinclude.xml:1629(title)
 msgid "Specifying Display Name"
-msgstr "指定显示名称"
+msgstr "模式菜单"
 
 #: chapter3/xinclude.xml:1640(para)
 msgid ""
@@ -2443,21 +2444,19 @@ msgid ""
 "existing Ekiga account. You will get this detail from the ekiga.net free SIP "
 "service. Click <emphasis role=\"strong\">Forward</emphasis>."
 msgstr ""
-"在 <emphasis role=\"strong\">ekiga.net 帐户</emphasis> 页输入您将用于登录到服"
-"务的用户名和密码。完成后请点击 <emphasis role=\"strong\">前进</emphasis>。"
+"在主界面的 <emphasis role=\"strong\">Linphone</emphasis> 菜单项中点击 "
+"<emphasis role=\"strong\">首选项</emphasis>，在弹出的设置页面中点击 "
+"<emphasis role=\"strong\">SIP 帐户管理</emphasis> 选项卡。在 "
+"<emphasis role=\"strong\">你的显示名</emphasis> 处填写姓名，在 "
+"<emphasis role=\"strong\">你的用户名</emphasis> 出填写用户名，随后在 "
+"<emphasis role\"strong\"> 你的 SIP 地址结果</emphasis> 中会自动显示您的"
+"结果地址，将这个地址发送给要呼叫您的一方以便他可以发起呼叫。您也可以在下方的 "
+"<emphasis role=\"strong\">Proxy 帐户</emphasis> 中设置其他 SIP 代理帐号，以便"
+"记忆您的地址。完成后点击 <emphasis role\"strong\">确定</emphasis> 保存设置。"
 
 #: chapter3/xinclude.xml:1646(title)
 msgid "Specifying ekiga.net Account Username and Password"
-msgstr "指定 ekiga.net 帐户名和密码"
-
-#: chapter3/xinclude.xml:1658(para)
-msgid ""
-"If you do not have an SIP account, you can click the link <emphasis role="
-"\"strong\">Get an ekiga.net SIP account</emphasis> on the page to create an "
-"SIP account on ekiga.net."
-msgstr ""
-"如果您没有 SIP 帐户，可以点击页面上的 <emphasis role=\"strong\">获得 ekiga."
-"net SIP 帐户</emphasis> 创建一个帐户。"
+msgstr "SIP 帐号管理"
 
 #: chapter3/xinclude.xml:1665(para)
 msgid ""
@@ -2469,14 +2468,12 @@ msgid ""
 "system administrator. Click <emphasis role=\"strong\">Forward</emphasis>. "
 "You can change these settings later."
 msgstr ""
-"在 <emphasis role=\"strong\">连接类型</emphasis> 页选择您的互联网连接类型，使"
-"程序在聊天时提供可能的最佳通话质量。如果您不清楚连接类型，请联系系统管理员。"
-"完成后点击 <emphasis role=\"strong\">前进</emphasis> 继续。这些设置稍后可以修"
-"改。"
+"回到主界面，在最上方的框中输入对方的 SIP 地址，点击框左侧的绿色按钮即可呼叫"
+"对方"
 
 #: chapter3/xinclude.xml:1675(title)
 msgid "Selecting Connection Type"
-msgstr "选择连接类型"
+msgstr "音频呼叫"
 
 #: chapter3/xinclude.xml:1686(para)
 msgid ""
@@ -2489,117 +2486,25 @@ msgid ""
 "to check the functionality of audio devices and the click <emphasis role="
 "\"strong\">Forward</emphasis>."
 msgstr ""
-"在 <emphasis role=\"strong\">音频设备</emphasis> 页根据您的声卡和其他音频输入"
-"输出设备选择，如果不确定请保持默认设置。您可以同系统管理员联系以便了解应该使"
-"用那种选择。完成后请点击 <emphasis role=\"strong\">前进</emphasis>。"
+"如果由对方呼叫，屏幕上会显示出提示，点击 <emphasis role=\"strong\">接听"
+"</emphasis> 开始语音通话。"
 
 #: chapter3/xinclude.xml:1695(title)
 msgid "Selecting Audio Devices"
-msgstr "选择音频设备"
+msgstr "接听音频呼叫"
 
-#: chapter3/xinclude.xml:1706(para)
 msgid ""
-"On the <emphasis role=\"strong\">Video Devices</emphasis> page, select the "
-"video input device from the <emphasis role=\"strong\">Please choose the "
-"video input device</emphasis> box. The video input device is the device "
-"managed by the video manager that will be used to capture video. If you do "
-"not want to do video conferencing or if you do not have a video device, you "
-"may skip this page."
+"People who is recieving a call must has a public IP."
 msgstr ""
-"在 <emphasis role=\"strong\">视频输入设备</emphasis> 页根据您的情况选择设备，"
-"如果不确定请保持默认设置。您可以同系统管理员联系以便了解应该使用那种选择。完"
-"成后请点击 <emphasis role=\"strong\">前进</emphasis>。如果您没有视频设备，可"
-"以跳过此页的设置。"
+"如果通话双方中有一方处于局域网而另一方处于外网，则接听方应为处于外网即拥有"
+"独立公网 IP 的一方。若均处于内网，可以设置 STUN 服务器。"
 
-#: chapter3/xinclude.xml:1714(title)
-msgid "Selecting Video Devices"
-msgstr "选择视频设备"
-
-#: chapter3/xinclude.xml:1725(para)
-msgid ""
-"The configuration of Ekiga is now complete. This window displays a "
-"configuration summary of the settings you have selected. You can verify your "
-"settings here. If you want to make any modification, navigate to the "
-"required page by using <emphasis role=\"strong\">Back</emphasis> and "
-"<emphasis role=\"strong\">Next</emphasis> and make appropriate changes. "
-"Click <emphasis role=\"strong\">Apply</emphasis> to save the configuration."
-msgstr ""
-"至此您已完成对 Ekiga 的配置，此窗口显示了您刚刚选择的设置的小结。您应在此对设"
-"置进行检查，如需更改请使用 <emphasis role=\"strong\">后退</emphasis> 和 "
-"<emphasis role=\"strong\">前进</emphasis> 按钮做出合适的修改。如果确认无误，"
-"点击 <emphasis role=\"strong\">应用</emphasis> 保存设置。"
-
-#: chapter3/xinclude.xml:1733(title)
-msgid "Account Configuration Summary"
-msgstr "帐户配置小结"
-
-#: chapter3/xinclude.xml:1742(para)
-msgid "The Configuration Assistant will close."
-msgstr "配置助手将会关闭。"
-
-#: chapter3/xinclude.xml:1747(para)
-msgid ""
-"After installing Ekiga, if you want to modify any configuration, you can run "
-"the configuration assistant again by <emphasis role=\"strong\">Preferences</"
-"emphasis> on the <emphasis role=\"strong\">Edit</emphasis> menu in the Ekiga "
-"window."
-msgstr ""
-"安装 Ekiga 后，如果您要修改配置，您可以通过 <emphasis role=\"strong\">编辑</"
-"emphasis> 菜单中的 <emphasis role=\"strong\">首选项</emphasis> 再次运行配置向"
-"导。"
-
-#: chapter3/xinclude.xml:1755(para)
 msgid ""
 "For more information on Ekiga, refer to <ulink url=\"http://www.ekiga.org"
 "\">http://www.ekiga.org</ulink>."
 msgstr ""
-"关于 Ekiga 的更多信息，参见 <ulink url=\"http://www.ekiga.org\">http://www."
-"ekiga.org</ulink>"
-
-#: chapter3/xinclude.xml:1758(para)
-msgid ""
-"The Ekiga window will be displayed. It is the default softphone application "
-"available on Ubuntu."
-msgstr "Ekiga 的主窗口将会显示出来。"
-
-#: chapter3/xinclude.xml:1762(title)
-msgid "Ekiga Window"
-msgstr "Ekiga 窗口"
-
-#: chapter3/xinclude.xml:1774(title)
-msgid "Making Calls Using Ekiga"
-msgstr "使用 Ekiga 拨打电话"
-
-#: chapter3/xinclude.xml:1776(term)
-msgid "From Computer to Computer"
-msgstr "从电脑到电脑"
-
-#: chapter3/xinclude.xml:1778(para)
-msgid ""
-"Using Ekiga, you can call anyone who is registered to the public SIP "
-"provider and uses SIP software or hardware. You can use the online address "
-"book of Ekiga to find the SIP addresses of other Ekiga users. It is of "
-"course possible to call non-Ekiga users, registered to any public SIP "
-"provider. To make calls, type the URL address of the user you wish to call "
-"in the <emphasis role=\"strong\">sip:</emphasis> : input box and click the "
-"connect icon on the right of the text box. With the default setup, you can "
-"simply type <emphasis role=\"strong\">sip:foo</emphasis> to call user "
-"<emphasis role=\"strong\">foo@ekiga.net</emphasis>."
-msgstr ""
-"您可以使用 Ekiga 与任何注册了公共 SIP 的用户进行呼叫，可以使用在线 SIP 地址簿"
-"来进行记录 SIP 地址。进行呼叫时，您只将 <emphasis role=\"strong\">sip:</"
-"emphasis> 开头的地址输入，然后点击文本框右侧的呼叫图标。在默认设置下，"
-"<emphasis role=\"strong\">sip:foo</emphasis> 代表 <emphasis role=\"strong"
-"\">foo@ekiga.net</emphasis>。"
-
-#: chapter3/xinclude.xml:1794(para)
-msgid ""
-"To learn more about making phone calls by using Ekiga, refer to <ulink url="
-"\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index.php?"
-"rub=3</ulink>."
-msgstr ""
-"要了解更多关于使用 Ekiga 拨打电话的信息，参见 <ulink url=\"http://www.ekiga."
-"org/index.php?rub=3\">http://www.ekiga.org/index.php?rub=3</ulink>。"
+"Linphone 是跨平台程序，除支持 Linux 外，也可以在 Windows 和 Mac OSX 上使用，"
+"详情请参见 <ulink url=\"http://www.linphone.org\"http://www.linphone.org</ulink>"
 
 #: chapter3/xinclude.xml:1801(title)
 msgid "Skype"
@@ -2929,7 +2834,7 @@ msgstr "b) 邮件客户端"
 
 #: chapter3/xinclude.xml:2102(para)
 msgid "3) Ekiga"
-msgstr "3) Ekiga"
+msgstr "3) Linphone"
 
 #: chapter3/xinclude.xml:2104(para)
 msgid "c) Instant messenger"
@@ -2946,18 +2851,6 @@ msgstr "d) 软电话"
 #: chapter3/xinclude.xml:2118(para)
 msgid "1-b, 2-a, 3-d and 4-c"
 msgstr "1-b，2-a，3-d，4-c"
-
-#: chapter3/xinclude.xml:2124(para)
-msgid "You can get an SIP address from _____________________."
-msgstr "您可以在 ____________________ 获得一个 SIP 地址。"
-
-#: chapter3/xinclude.xml:2128(para)
-msgid ""
-"You can get an SIP address from <ulink url=\"http://www.ekiga.net\">http://"
-"www.ekiga.net</ulink>."
-msgstr ""
-"您可以在 <ulink url=\"http://www.ekiga.net\">http://www.ekiga.net</ulink> 获"
-"得一个 SIP 地址。"
 
 #: chapter3/xinclude.xml:2134(para)
 msgid ""
@@ -3030,7 +2923,7 @@ msgstr " C. Ubuntu One"
 
 #: chapter3/xinclude.xml:2190(para)
 msgid "D. Ekiga"
-msgstr " D. Ekiga"
+msgstr " D. Linphone"
 
 #: chapter3/xinclude.xml:2201(title)
 msgid "Lab Exercise"
@@ -3170,7 +3063,6 @@ msgstr ""
 #~ msgid "Ekiga is the default open source softphone application for Ubuntu."
 #~ msgstr "Ekiga 是 Ubuntu 默认的开源软电话应用程序。"
 
-#, fuzzy
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_073.png'; "
 #~ "md5=d41d8cd98f00b204e9800998ecf8427e"

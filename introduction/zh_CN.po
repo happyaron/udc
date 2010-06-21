@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-06-20 10:42+0800\n"
-"PO-Revision-Date: 2010-06-21 13:16+0800\n"
+"PO-Revision-Date: 2010-06-21 23:01+0800\n"
 "Last-Translator: Hunt Xu <mhuntxu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgstr "使用 Ubuntu 的好处"
 
 #: introduction/xinclude.xml:26(para)
 msgid "How to customise the look and feel of the Ubuntu desktop"
-msgstr "如何自定义 Ubuntu 桌面的观感"
+msgstr "如何自定义 Ubuntu 桌面的外观"
 
 #: introduction/xinclude.xml:30(para)
 msgid "How to navigate through the file system and search for files"
@@ -155,7 +155,7 @@ msgid ""
 "training@canonical.com."
 msgstr ""
 "您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: "
-"sbyy@googlegroups.com。"
+"ubuntu-zh@lists.ubuntu.com。"
 
 #: introduction/xinclude.xml:104(title)
 msgid "Ubuntu Session Plan"
@@ -746,7 +746,7 @@ msgstr "每个课程包括以下几个部分。"
 
 #: introduction/xinclude.xml:1212(para)
 msgid "On the first day,"
-msgstr "在第一天，"
+msgstr "在第一天要首先做的："
 
 #: introduction/xinclude.xml:1215(para)
 msgid ""

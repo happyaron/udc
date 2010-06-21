@@ -1662,9 +1662,6 @@
       IP-based network. You can use Ekiga to call, send instant messages and
       be contacted by other Ekiga users.</para>
 
-      <para>The First Time Configuration Assistant helps you configure Ekiga.
-      It appears automatically when you open Ekiga for the first time.</para>
-
       <procedure>
         <title>To configure Ekiga on Ubuntu:</title>
 
@@ -1725,15 +1722,6 @@
             </mediaobject>
           </figure>
 
-          <note>
-            <title>Note:</title>
-
-            <para>If you do not have an SIP account, you can click the link
-            <emphasis role="strong">Get an ekiga.net SIP account</emphasis> on
-            the page to create an SIP account on ekiga.net.</para>
-          </note>
-        </step>
-
         <step performance="required">
           <para>On the <emphasis role="strong">Connection Type</emphasis>
           page, select the type of Internet connection you are using on your
@@ -1779,112 +1767,18 @@
           </figure>
         </step>
 
-        <step performance="required">
-          <para>On the <emphasis role="strong">Video Devices</emphasis> page,
-          select the video input device from the <emphasis
-          role="strong">Please choose the video input device</emphasis> box.
-          The video input device is the device managed by the video manager
-          that will be used to capture video. If you do not want to do video
-          conferencing or if you do not have a video device, you may skip this
-          page.</para>
-
-          <figure float="0">
-            <title>Selecting Video Devices</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_070.png"
-                           format="PNG" width="12cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
-          <para>The configuration of Ekiga is now complete. This window
-          displays a configuration summary of the settings you have selected.
-          You can verify your settings here. If you want to make any
-          modification, navigate to the required page by using <emphasis
-          role="strong">Back</emphasis> and <emphasis
-          role="strong">Next</emphasis> and make appropriate changes. Click
-          <emphasis role="strong">Apply</emphasis> to save the
-          configuration.</para>
-
-          <figure float="0">
-            <title>Account Configuration Summary</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_071.png"
-                           format="PNG" width="12cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-
-          <para>The Configuration Assistant will close.</para>
-
-          <note>
+        <note>
             <title>Note:</title>
 
-            <para>After installing Ekiga, if you want to modify any
-            configuration, you can run the configuration assistant again by
-            <emphasis role="strong">Preferences</emphasis> on the <emphasis
-            role="strong">Edit</emphasis> menu in the Ekiga window.</para>
-          </note>
+            <para>People who is recieving a call must has a public IP.</para>
+        </note>
 
-          <tip>
+        <tip>
             <title>Nice to Know:</title>
 
             <para>For more information on Ekiga, refer to <ulink
             url="http://www.ekiga.org">http://www.ekiga.org</ulink>.</para>
-          </tip>
-
-          <para>The Ekiga window will be displayed. It is the default
-          softphone application available on Ubuntu.</para>
-
-          <figure float="0">
-            <title>Ekiga Window</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_072.png"
-                           format="PNG" width="10cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-      </procedure>
-
-      <variablelist>
-        <title>Making Calls Using Ekiga</title>
-	<varlistentry>
-	  <term>From Computer to Computer</term>
-	  <listitem>
-	    <para>Using Ekiga, you can call anyone who is registered
-	    to the public SIP provider and uses SIP software or
-	    hardware. You can use the online address book of Ekiga to
-	    find the SIP addresses of other Ekiga users. It is of
-	    course possible to call non-Ekiga users, registered to any
-	    public SIP provider. To make calls, type the URL address
-	    of the user you wish to call in the <emphasis
-	    role="strong">sip:</emphasis> : input box and click the
-	    connect icon on the right of the text box. With the
-	    default setup, you can simply type <emphasis
-	    role="strong">sip:foo</emphasis> to call user <emphasis
-	    role="strong">foo@ekiga.net</emphasis>.</para>
-	  </listitem>
-	</varlistentry>
-      </variablelist>
-
-      <note>
-        <title>Note:</title>
-
-        <para>To learn more about making phone calls by using Ekiga, refer to
-        <ulink
-        url="http://www.ekiga.org/index.php?rub=3">http://www.ekiga.org/index.php?rub=3</ulink>.</para>
-      </note>
-    </sect2>
-
+        </tip>
 
     <sect2>
       <title>Skype</title>
@@ -2212,17 +2106,6 @@
 
         <answer>
           <para>1-b, 2-a, 3-d and 4-c</para>
-        </answer>
-      </qandaentry>
-
-      <qandaentry>
-        <question>
-          <para>You can get an SIP address from _____________________.</para>
-        </question>
-
-        <answer>
-          <para>You can get an SIP address from <ulink
-          url="http://www.ekiga.net">http://www.ekiga.net</ulink>.</para>
         </answer>
       </qandaentry>
 
