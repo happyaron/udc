@@ -171,7 +171,7 @@ sudo apt-file search /usr/include/stdio.h</screen>
     
     <sect2>
     	<title>Ubuntu DVD 可以在什么地方下载到？</title>
-    	<screen format="linespecific"><ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink></screen>
+    	<para><screen format="linespecific"><ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink></screen></para>
     	<para>DVD 是不分 Desktop 和 Alternate 的哦。</para>
     </sect2>
     <sect2>
@@ -363,9 +363,8 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     	   <screen format="linespecific">
     	   	如果有条件，推荐使用 <ulink url="http://www.spdb.com.cn">上海浦发银行</ulink></screen>
     	</para>
-    	<para>关于网银的具体情况可以看：
-    		<screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen>
-    	</para>
+    	<para>关于网银的具体情况可以看：</para>
+    	<para><screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen></para>
    </sect2>
    <sect2>
     <title>Ubuntu 上怎么语音视频聊天？</title>
@@ -565,13 +564,13 @@ sudo update-grup</screen>
     <title>其他问题</title>
    <sect2>
     <title>Ubuntu 中文论坛上，每页都会给显示一条命令，很酷，从哪里可以找到它们？</title>
-    	<screen format="linespecific"><ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink></screen>
+    	<para><screen format="linespecific"><ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink></screen></para>
    </sect2>
    
    <sect2>
     <title>Ubuntu 中文论坛上，都有哪些求助方法？</title>
     	<para>请参考这个帖子：</para>
-    	<screen format="linespecific"><ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink></screen>
+    	<para><screen format="linespecific"><ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink></screen></para>
    </sect2>
    
    <sect2>
@@ -588,7 +587,7 @@ sudo update-grup</screen>
         	<para>Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其它用处。</para>
       		</listitem>
       		<listitem>
-        	<para>文件名输入了一部之后，按 Tab 试试，当然 Tab 也可以补全命令。或者可以试试 zsh，补全功能更加强大。</para>
+        	<para>文件名输入了一部分之后，按 Tab 试试，当然 Tab 也可以补全命令。或者可以试试 zsh，补全功能更加强大。</para>
       		</listitem>
       		<listitem>
         	<para>直接将一个文件拖动到终端框中，看看有什么效果？Gnome 终端中将直接显示出这个文件的绝对路径，而且用单引号引起来。</para>
@@ -679,7 +678,7 @@ sudo shutdown -c '取消关机'</screen>
         	<para>从不明来源下载软件：如果软件仓库中有，坚决从软件仓库中安装</para>
       		</listitem>
       		<listitem>
-        	<para>滥用 sudo：有些用户喜欢使用 sudo 命令，即使是不需要的时候。记住：除非进行系统管理，不要使用 sudo。</para>
+        	<para>滥用 sudo：有些用户喜欢使用 sudo 命令，即使是不需要的时候。记住：除非进行系统管理，不要使用 sudo</para>
       		</listitem>
       		<listitem>
         	<para>使用盗版的商业软件：这是一个极大的安全隐患，因为，根本就不知道是否有人在其中做了手脚</para>
