@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introducting-ubuntu\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-05-22 16:21+0800\n"
-"PO-Revision-Date: 2010-06-15 16:06+0800\n"
+"PO-Revision-Date: 2010-06-21 23:17+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -1485,7 +1485,7 @@ msgstr "Openoffice.org 文字处理"
 
 #: chapter1/xinclude.xml:1282(title)
 msgid "Multimedia:"
-msgstr "多媒体："
+msgstr "多媒体"
 
 #: chapter1/xinclude.xml:1283(para)
 msgid ""
@@ -1576,7 +1576,7 @@ msgstr "复习题"
 msgid ""
 "If you are running short of time, administer this exercise when Exploring "
 "the Ubuntu Desktop in <xref linkend=\"lesson2\"/>."
-msgstr "如果时间紧张，在第二课<xref linkend=lesson2/>的时候做这些练习。"
+msgstr "如果时间紧张，在第二课<xref linkend=\"lesson2\"/> 的时候做这些练习。"
 
 #: chapter1/xinclude.xml:1359(para)
 msgid "What is meant by the term free software?"
@@ -1678,7 +1678,7 @@ msgstr "非技术型用户为 Ubuntu 开发做贡献的方式有美工、翻译�
 
 #: chapter1/xinclude.xml:1518(para)
 msgid "The default web browser on Ubuntu is _________________."
-msgstr "Ubuntu 默认的网页浏览器是：_________________"
+msgstr "Ubuntu 默认的网页浏览器是：_________________。"
 
 #: chapter1/xinclude.xml:1522(para)
 msgid "The default web browser on Ubuntu is Mozilla Firefox."
