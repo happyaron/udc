@@ -1721,6 +1721,7 @@
               </imageobject>
             </mediaobject>
           </figure>
+	</step>
 
         <step performance="required">
           <para>On the <emphasis role="strong">Connection Type</emphasis>
@@ -1766,7 +1767,7 @@
             </mediaobject>
           </figure>
         </step>
-
+      </procedure>
         <note>
             <title>Note:</title>
 
@@ -1779,7 +1780,7 @@
             <para>For more information on Ekiga, refer to <ulink
             url="http://www.ekiga.org">http://www.ekiga.org</ulink>.</para>
         </tip>
-
+    </sect2>
     <sect2>
       <title>Skype</title>
 
