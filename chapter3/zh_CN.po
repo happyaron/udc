@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-06-21 23:25+0800\n"
+"POT-Creation-Date: 2010-06-24 17:20+0800\n"
 "PO-Revision-Date: 2010-06-21 22:53+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -3038,13 +3038,77 @@ msgstr ""
 #~ msgid "Opening RSS Feed Web Page"
 #~ msgstr "打开 Feed 源页面"
 
+#, fuzzy
+#~ msgid "New Instant Message"
+#~ msgstr "即时通信"
+
+#, fuzzy
+#~ msgid ""
+#~ "To interact with other users, type the screen name or alias of the person "
+#~ "you would like to chat with in the <emphasis role=\"strong\">Name</"
+#~ "emphasis> box and click <emphasis role=\"strong\">OK</emphasis>. An IM "
+#~ "window will be displayed."
+#~ msgstr ""
+#~ "要订阅源，在 Liferea 左侧窗格中任意位置右击鼠标，指向 新建 并单击 "
+#~ "<emphasis role=\"strong\">新订阅</emphasis>，弹出 <emphasis role=\"strong"
+#~ "\">新订阅</emphasis> 对话框。"
+
+#, fuzzy
+#~ msgid "Specifying Buddy Name"
+#~ msgstr "模式菜单"
+
 #~ msgid ""
 #~ "The First Time Configuration Assistant helps you configure Ekiga. It "
 #~ "appears automatically when you open Ekiga for the first time."
 #~ msgstr "首次运行 Ekiga 时会弹出配置助手以帮助您对 Ekiga 进行设置。"
 
-#~ msgid "Ekiga is the default open source softphone application for Ubuntu."
+#, fuzzy
+#~ msgid "Selecting Video Devices"
+#~ msgstr "接听音频呼叫"
+
+#, fuzzy
+#~ msgid "The Configuration Assistant will close."
+#~ msgstr ""
+#~ "以下内容描述了如何配置 Linphone。开始下面的使用前，您需要参照“收发邮件”一"
+#~ "节中使用新立得软件包管理器安装 Thunderbird 的操作搜索并安装软件包 "
+#~ "linphone。"
+
+#, fuzzy
+#~ msgid ""
+#~ "The Ekiga window will be displayed. It is the default softphone "
+#~ "application available on Ubuntu."
 #~ msgstr "Ekiga 是 Ubuntu 默认的开源软电话应用程序。"
+
+#, fuzzy
+#~ msgid "Ekiga Window"
+#~ msgstr "聊天窗口"
+
+#, fuzzy
+#~ msgid "Making Calls Using Ekiga"
+#~ msgstr "使用软电话拨打电话"
+
+#, fuzzy
+#~ msgid "From Computer to Computer"
+#~ msgstr "从电话到电脑"
+
+#, fuzzy
+#~ msgid ""
+#~ "To learn more about making phone calls by using Ekiga, refer to <ulink "
+#~ "url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index."
+#~ "php?rub=3</ulink>."
+#~ msgstr ""
+#~ "Linphone 是跨平台程序，除支持 Linux 外，也可以在 Windows 和 Mac OSX 上使"
+#~ "用，详情请参见 <ulink url=\"http://www.linphone.org\"http://www.linphone."
+#~ "org</ulink>"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can get an SIP address from <ulink url=\"http://www.ekiga.net"
+#~ "\">http://www.ekiga.net</ulink>."
+#~ msgstr ""
+#~ "Linphone 是跨平台程序，除支持 Linux 外，也可以在 Windows 和 Mac OSX 上使"
+#~ "用，详情请参见 <ulink url=\"http://www.linphone.org\"http://www.linphone."
+#~ "org</ulink>"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_073.png'; "
@@ -3134,9 +3198,6 @@ msgstr ""
 #~ "phone number 003210444555, 00 is the international dialling code, 91 is "
 #~ "the country code and 1129535955 is the number to call."
 #~ msgstr "Ekiga 可以用于多个服务商"
-
-#~ msgid "From Real Phones to Computer"
-#~ msgstr "从电话到电脑"
 
 #~ msgid ""
 #~ "To download the open source driver, refer to <ulink url=\"www.modemdriver."

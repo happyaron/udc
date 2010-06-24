@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: UDC 10.04\n"
-"POT-Creation-Date: 2010-06-13 21:06+0800\n"
+"POT-Creation-Date: 2010-06-24 17:20+0800\n"
 "PO-Revision-Date: 2010-06-13 21:07+0800\n"
 "Last-Translator: syq <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
@@ -116,9 +116,9 @@ msgstr ""
 #: faq/xinclude.xml:48(para)
 msgid ""
 "对于 Linux 上的商业软件，有些这种只提供 32 位；也有一些开源软件暂时不支持 "
-"AMD64，或者 64 位系统上缺少一些功能。 这时可以安装 <ulink url=\"ia32-libs"
-"\">ia32-libs</ulink> 来运行这些软件，但是这种软件的数量是很少的。 支持 Linux "
-"的商业软件，可移植性一般也相对比较好。"
+"AMD64，或者 64 位系统上缺少一些功能。 这时可以安装 <ulink url=\"apt://ia32-"
+"libs\">ia32-libs</ulink> 来运行这些软件，但是这种软件的数量是很少的。 支持 "
+"Linux 的商业软件，可移植性一般也相对比较好。"
 msgstr ""
 
 #: faq/xinclude.xml:52(para)
@@ -170,13 +170,13 @@ msgstr ""
 #: faq/xinclude.xml:80(para)
 msgid ""
 "例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url=\"https://launchpad."
-"net/+ppas\">launchpad ppa</ulink>上以 <screen format=\"linespecific\">ns2 "
+"net/+ppas\">launchpad ppa</ulink>上以: <screen format=\"linespecific\">ns2 "
 "ppa</screen> 为关键字进行搜索，可以看到有两个人在 launchpad 上提供这个软件"
-"包。从两个中选择一个，比如 https://launchpad.net/~wzssyqa/+archive/wzssyqa 在"
-"这个页面中，可以看看，这个 ppa 的主人有没有提供你所使用的版本 Ubuntu 所对应"
-"的 ns2， 比如，正好您用的也是 lucid，那么就可以直接使用命令 <screen format="
-"\"linespecific\">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen> 将这个 "
-"PPA 添加到您的系统中。"
+"包。从两个中选择一个，比如: <screen format=\"linespecific\">https://"
+"launchpad.net/~wzssyqa/+archive/wzssyqa</screen> 在这个页面中，可以看看，这"
+"个 ppa 的主人有没有提供你所使用的版本 Ubuntu 所对应的 ns2， 比如，正好您用的"
+"也是 lucid，那么就可以直接使用命令： <screen format=\"linespecific\">sudo "
+"apt-add-repository ppa:wzssyqa/wzssyqa</screen> 将这个 PPA 添加到您的系统中。"
 msgstr ""
 
 #: faq/xinclude.xml:90(title)
@@ -234,10 +234,10 @@ msgstr ""
 
 #: faq/xinclude.xml:114(para)
 msgid ""
-"打开“新立德软件包管理器”，选择要安装的软件，并“标记以便安装”。 然后选择 "
+"打开“新立德软件包管理器”，选择要安装的软件，并“标记以便安装”。 然后选择： "
 "<screen format=\"linespecific\">文件 -&gt; 生成包下载脚本</screen> 使用这个脚"
-"本可以下载所有要安装的软件，以及它们的依赖。 例如，您生成了 <screen format="
-"\"linespecific\">download.sh</screen> 脚本， 就可以使用 使用 <screen format="
+"本可以下载所有要安装的软件，以及它们的依赖。 例如，您生成了： <screen format="
+"\"linespecific\">download.sh</screen> 脚本， 就可以使用： <screen format="
 "\"linespecific\">./download.sh</screen> 命令将所有软件包下载到当前目录。"
 msgstr ""
 
@@ -253,7 +253,7 @@ msgstr ""
 
 #: faq/xinclude.xml:127(para)
 msgid ""
-"这个文件的大体格式是： 以 <screen format=\"linespecific\">#！/bin/sh</"
+"这个文件的大体格式是： 以： <screen format=\"linespecific\">#！/bin/sh</"
 "screen> 开头， 接着是类似于： <screen format=\"linespecific\">wget http://"
 "mirrors.163.com/ubuntu/pool/main/a/acl/acl_2.2.49-3_amd64.deb</screen> 的很多"
 "行。 仅仅需要删掉所有 “wget” 以及开头的 “#！/bin/sh” 就可以把后缀改成 lst，作"
@@ -282,11 +282,11 @@ msgstr ""
 #: faq/xinclude.xml:148(para)
 msgid ""
 "这很有可能是因为您没有安装一些必需的软件包，可以根据文件名，使用 apt-file 找"
-"到这个文件在哪个软件包里。 <screen format=\"linespecific\">sudo apt-get "
-"install apt-file  #安装 apt-file</screen><screen format=\"linespecific"
-"\">sudo apt-file update #更新 apt-file 本地数据库</screen><screen format="
-"\"linespecific\">sudo apt-file search stdio.h # 或者</screen><screen format="
-"\"linespecific\">sudo apt-file search /usr/include/stdio.h</screen>"
+"到这个文件在哪个软件包里： <screen format=\"linespecific\">sudo apt-get "
+"install apt-file  #安装 apt-file\n"
+"sudo apt-file update #更新 apt-file 本地数据库\n"
+"sudo apt-file search stdio.h # 或者\n"
+"sudo apt-file search /usr/include/stdio.h</screen>"
 msgstr ""
 
 #: faq/xinclude.xml:154(para)
@@ -301,7 +301,7 @@ msgstr ""
 
 #: faq/xinclude.xml:160(para)
 msgid ""
-"一般来说，只有把 Ubuntu DVD 光盘插入光驱中，会自动询问是否使用 DVD 更新系统"
+"一般来说，只要把 Ubuntu DVD 光盘插入光驱中，会自动询问是否使用 DVD 更新系统"
 "的。"
 msgstr ""
 
@@ -334,7 +334,7 @@ msgstr ""
 msgid "Ubuntu DVD 可以在什么地方下载到？"
 msgstr ""
 
-#: faq/xinclude.xml:174(para)
+#: faq/xinclude.xml:174(ulink)
 msgid "http://cdimage.ubuntu.com/releases/lucid/release/"
 msgstr ""
 
@@ -352,466 +352,521 @@ msgstr ""
 
 #: faq/xinclude.xml:180(para)
 msgid ""
-"Apt/aptitude/新立德 等，会把下载的 deb 包缓存在 <screen format=\"linespecific"
-"\">/var/cache/apt/archives</screen> 如果长期不清理，可能占用大量的空间。"
+"Apt/aptitude/新立德 等，会把下载的 deb 包缓存在： <screen format="
+"\"linespecific\">/var/cache/apt/archives</screen> 如果长期不清理，可能占用大"
+"量的空间。"
 msgstr ""
 
 #: faq/xinclude.xml:183(para)
 msgid ""
-"可以使用如下两个命令清理 deb 包缓存： <screen format=\"linespecific\">\n"
-"    \tsudo apt-get clean #直接清空 /var/cache/apt/archives\n"
-"    \t</screen> 或者 <screen format=\"linespecific\">\n"
-"    \tsudo apt-get autoclean #删除旧版本的包\n"
-"\t    \t\t#比如现在同时有同一个包的新版本和旧版本，会只把旧版本删除\n"
-"    \t</screen>"
+"可以使用如下两个命令清理 deb 包缓存： <screen format=\"linespecific\">sudo "
+"apt-get clean #直接清空 /var/cache/apt/archives\n"
+"  或者\n"
+"sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的版本的缓存</"
+"screen>"
 msgstr ""
 
-#: faq/xinclude.xml:195(title)
+#: faq/xinclude.xml:190(title)
 msgid "我安装的是 Beta/RC 版，我可以升级到正式版吗？"
 msgstr ""
 
-#: faq/xinclude.xml:196(para)
+#: faq/xinclude.xml:191(para)
 msgid ""
-"这当然是没有任何问题的。需要做的只是，跟着升级管理器升级就行了。实际上，甚至"
-"可以从一个版本升级到另一个版本。"
+"这当然是没有任何问题的。需要做的只是，跟着升级管理器升级。实际上，甚至可以从"
+"一个版本升级到另一个版本。"
 msgstr ""
 
-#: faq/xinclude.xml:203(title)
+#: faq/xinclude.xml:198(title)
 msgid "系统管理和个性化配置"
 msgstr ""
 
-#: faq/xinclude.xml:205(title)
+#: faq/xinclude.xml:200(title)
 msgid "Root 用户的口令是什么？安装时并没有要求我输入 root 的口令。"
 msgstr ""
 
-#: faq/xinclude.xml:206(para)
+#: faq/xinclude.xml:201(para)
 msgid ""
 "在很多其它 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 "
 "Ubuntu 中 root 用户默认是被禁用的。"
 msgstr ""
 
-#: faq/xinclude.xml:207(para)
+#: faq/xinclude.xml:202(para)
 msgid "要进行特权操作，只需要在运行的命令前边加上 sudo 。"
 msgstr ""
 
-#: faq/xinclude.xml:208(para)
+#: faq/xinclude.xml:203(para)
 msgid "如果想要临时成为 root 用户进行一些操作，请使用 sudo su 。"
 msgstr ""
 
-#: faq/xinclude.xml:209(para)
+#: faq/xinclude.xml:204(para)
 msgid ""
 "如果必须要启用 root，可以运行 sudo passwd root ，来修改 root 的口令，即可启"
 "用 root。"
 msgstr ""
 
-#: faq/xinclude.xml:211(title)
+#: faq/xinclude.xml:206(title)
 msgid "Ubuntu 是怎么实现禁用 root 的？"
 msgstr ""
 
-#: faq/xinclude.xml:212(para)
+#: faq/xinclude.xml:207(para)
 msgid ""
 "Ubuntu 通过给 root 用户设置一个特殊的口令，以使无论输入什么口令都验证错误，来"
 "达到禁用 root 的目的。"
 msgstr ""
 
-#: faq/xinclude.xml:216(title)
+#: faq/xinclude.xml:211(title)
 msgid "如何开机时自动启动 tomboy/gnote？"
 msgstr ""
 
-#: faq/xinclude.xml:217(para)
+#: faq/xinclude.xml:212(para)
 msgid ""
 "在顶部面板(就是顶部的那个黑框)的空白部分上点击鼠标右键，在弹出菜单中选择“添加"
 "到面板”， 找到 tomboy 或者 gnote 双击即可。"
 msgstr ""
 
-#: faq/xinclude.xml:220(title)
+#: faq/xinclude.xml:215(title)
 msgid "关于 tomboy 和 gnote"
 msgstr ""
 
-#: faq/xinclude.xml:221(para)
+#: faq/xinclude.xml:216(para)
 msgid "Tomboy 是 Gnome 的一款便笺程序，使用 GTK# 编写，依赖 Mono。"
 msgstr ""
 
-#: faq/xinclude.xml:222(para)
+#: faq/xinclude.xml:217(para)
 msgid "Gnote 也是 Gnome 上的一款便笺程序，使用 GTKmm 编写。"
 msgstr ""
 
-#: faq/xinclude.xml:223(para)
+#: faq/xinclude.xml:218(para)
 msgid "这两款程序在界面，使用方法，功能上几乎完全一致。"
 msgstr ""
 
-#: faq/xinclude.xml:224(para)
+#: faq/xinclude.xml:219(para)
 msgid ""
 "Gnote 的产生是因为有人不喜欢 Mono(.NET 的开源实现)， 所以使用 GTKmm 写了一个"
 "和 tomboy 完全一样的软件。"
 msgstr ""
 
-#: faq/xinclude.xml:230(title)
+#: faq/xinclude.xml:225(title)
 msgid "如何把一个功能做成桌面快捷方式？"
 msgstr ""
 
-#: faq/xinclude.xml:231(para)
+#: faq/xinclude.xml:226(para)
 msgid ""
 "在桌面上点右键，选择“创建启动器”。输入一条命令，选择一张图片，点击“确定”。例"
-"如 <screen format=\"linespecific\">gnome-screenshot -a</screen> 命令可以让您"
-"选择桌面的一个区域进行截图。"
+"如： <screen format=\"linespecific\">gnome-screenshot -a</screen> 命令可以让"
+"您选择桌面的一个区域进行截图。"
 msgstr ""
 
-#: faq/xinclude.xml:235(title)
+#: faq/xinclude.xml:230(title)
 msgid "Linux 上使用一定格式的以 desktop 为后缀的文本文件作为启动器。"
 msgstr ""
 
-#: faq/xinclude.xml:236(para)
+#: faq/xinclude.xml:231(para)
 msgid "所有的菜单，面板图标等都是使用这种方法实现的。"
 msgstr ""
 
-#: faq/xinclude.xml:237(para)
+#: faq/xinclude.xml:232(para)
 msgid "如果想把一个主菜单中的一项发送到桌面上，可以在这一项上直接点鼠标右键。"
 msgstr ""
 
-#: faq/xinclude.xml:242(title)
+#: faq/xinclude.xml:237(title)
 msgid "如何安装主题？"
 msgstr ""
 
-#: faq/xinclude.xml:243(para)
+#: faq/xinclude.xml:238(para)
 msgid "首先去网络上下载主题，一般下载得到的是一个压缩包。"
 msgstr ""
 
-#: faq/xinclude.xml:245(title)
+#: faq/xinclude.xml:240(title)
 msgid "几个可以下载主题的网站"
 msgstr ""
 
-#: faq/xinclude.xml:246(ulink)
+#: faq/xinclude.xml:241(ulink)
 msgid "gnome-look.org：下载 Gnome 主题"
 msgstr ""
 
-#: faq/xinclude.xml:247(ulink)
+#: faq/xinclude.xml:242(ulink)
 msgid "kde-look.org：下载 KDE 主题"
 msgstr ""
 
-#: faq/xinclude.xml:248(ulink)
+#: faq/xinclude.xml:243(ulink)
 msgid "xfce-look.org：下载 Xfce 主题"
 msgstr ""
 
-#: faq/xinclude.xml:250(para)
+#: faq/xinclude.xml:245(para)
 msgid ""
 "在桌面空白部分点击右键选择“更改桌面背景”，打开“外观首选项”对话框。切换到“主"
 "题”标签页。"
 msgstr ""
 
-#: faq/xinclude.xml:251(para)
+#: faq/xinclude.xml:246(para)
 msgid "点击下方的“安装”按钮，找到下载的压缩包，即可安装。"
 msgstr ""
 
-#: faq/xinclude.xml:252(para)
+#: faq/xinclude.xml:247(para)
 msgid "注意：此方法只适用于 Gnome 桌面环境。"
 msgstr ""
 
-#: faq/xinclude.xml:256(title)
+#: faq/xinclude.xml:251(title)
 msgid "怎么开机的时候条目变多了？"
 msgstr ""
 
-#: faq/xinclude.xml:257(para)
+#: faq/xinclude.xml:252(para)
 msgid ""
 "这是因为您安装了新的系统内核。每个版本的内核都会在启动是有两项。Ubuntu 为了防"
 "止新版内核有问题， 没有自动删除旧内核。如果确定新内核可以正常工作，就可以删除"
 "旧内核。"
 msgstr ""
 
-#: faq/xinclude.xml:259(para)
+#: faq/xinclude.xml:254(para)
 msgid "有多种方法可以删除多于的内核："
 msgstr ""
 
-#: faq/xinclude.xml:262(para)
+#: faq/xinclude.xml:257(para)
 msgid "使用新立德查找 linux-image，删除当前版本之外的所有内核。"
 msgstr ""
 
-#: faq/xinclude.xml:265(screen)
+#: faq/xinclude.xml:260(screen)
 #, no-wrap
 msgid "sudo apt-get purge ~ilinux-image-.*\\(\\!`uname -r`\\)"
 msgstr ""
 
-#: faq/xinclude.xml:271(title)
+#: faq/xinclude.xml:266(title)
 msgid ""
 "怎么设置鼠标右键菜单？ 以管理员打开/在终端中打开/设为壁纸 等功能是怎么实现"
 "的？"
 msgstr ""
 
-#: faq/xinclude.xml:272(para)
+#: faq/xinclude.xml:267(para)
 msgid ""
 "Ubuntu 中默认使用的文件管理器是 nautilus，nautilus可以通过一些脚本扩展功能，"
 "在 Ubuntu 官方源里，有几个很常用的插件："
 msgstr ""
 
-#: faq/xinclude.xml:277(para)
+#: faq/xinclude.xml:272(para)
 msgid ""
 "<ulink url=\"apt://nautilus-gksu\">nautilus-gksu</ulink> 右键上添加，‘以管理"
 "员身份打开’"
 msgstr ""
 
-#: faq/xinclude.xml:280(para)
+#: faq/xinclude.xml:275(para)
 msgid ""
 "<ulink url=\"apt://nautilus-open-terminal\">nautilus-open-terminal</ulink> 右"
 "键上添加，‘在终端中打开’"
 msgstr ""
 
-#: faq/xinclude.xml:283(para)
+#: faq/xinclude.xml:278(para)
 msgid ""
 "<ulink url=\"apt://nautilus-wallpaper\">nautilus-wallpaper</ulink> 右键上添"
 "加，‘设为壁纸’"
 msgstr ""
 
-#: faq/xinclude.xml:287(para)
+#: faq/xinclude.xml:282(para)
 msgid "源里还有其它几个 nautilus 插件，可以在新立德里搜索 nautilus。"
 msgstr ""
 
-#: faq/xinclude.xml:288(para)
+#: faq/xinclude.xml:283(para)
 msgid ""
 "还有很多有用的 nautilus 插件没有进入 Ubuntu 官方源，您可以在网络上找到。当然"
 "您也可以自己编写一个。"
 msgstr ""
 
-#: faq/xinclude.xml:292(title)
+#: faq/xinclude.xml:287(title)
 msgid "Gedit 打开一些文本文件时会乱码，其它文本编辑器却正常，这是怎么回事？"
 msgstr ""
 
-#: faq/xinclude.xml:293(para)
+#: faq/xinclude.xml:288(para)
 msgid ""
 "这是因为 gedit 默认没有打开对 GB 系列编码的自动检测，可以通过一个命令打开这个"
 "功能： <screen format=\"linespecific\">gconftool-2 --set --type=list --list-"
 "type=string \\\n"
-"    \t\t/apps/gedit-2/preferences/encodings/auto_detected \"[UTF-8,CURRENT,"
+"   /apps/gedit-2/preferences/encodings/auto_detected \"[UTF-8,CURRENT,"
 "GB18030,BIG5-HKSCS,UTF-16]\" </screen>"
 msgstr ""
 
-#: faq/xinclude.xml:297(para)
+#: faq/xinclude.xml:292(para)
 msgid "也可以在 应用程序 -&gt; 系统工具 中找到 配置编辑器"
 msgstr ""
 
-#: faq/xinclude.xml:298(para)
+#: faq/xinclude.xml:293(para)
 msgid ""
 "使用配置编辑器定位到 <screen format=\"linespecific\">/apps/geditor-2/"
-"preferences/encodings</screen> 在其中添加 <screen format=\"linespecific"
+"preferences/encodings</screen> 找到 <screen format=\"linespecific"
+"\">auto_detected</screen> 在其中添加 <screen format=\"linespecific"
 "\">GB18030</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:306(title)
+#: faq/xinclude.xml:302(title)
 msgid "flash 中汉字怎么显示为方块，也不能使用 iBus 输入法？"
 msgstr ""
 
-#: faq/xinclude.xml:307(para)
+#: faq/xinclude.xml:303(para)
 msgid ""
 "对于汉字显示为方块的问题： <screen format=\"linespecific\">sudo rm /etc/"
 "fonts/conf.d/49-sansserif.conf</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:310(para)
+#: faq/xinclude.xml:306(para)
 msgid "关于不能使用中文输入法的问题："
 msgstr ""
 
-#: faq/xinclude.xml:311(para)
+#: faq/xinclude.xml:307(para)
 msgid ""
-"这个是 flash 的一个 bug，一直未得到解决，不过据说 10.1 中将得到解决，现在 "
-"10.1 已经发布了。 如果有兴趣，可以进行测试。"
+"这个是 flash 的一个 bug，一直未得到解决。不过据说 10.1 中将得到解决。现在 "
+"10.1 已经发布了，如果有兴趣，可以进行测试。"
 msgstr ""
 
-#: faq/xinclude.xml:316(title)
+#: faq/xinclude.xml:310(title)
 msgid "我的右上角原来有 网络管理器/信封/喇叭 图标，突然找不到了，怎么找回来？"
 msgstr ""
 
-#: faq/xinclude.xml:317(para)
+#: faq/xinclude.xml:311(para)
 msgid "在上边的面板上点击右键，选择 添加到面板"
 msgstr ""
 
-#: faq/xinclude.xml:318(para)
+#: faq/xinclude.xml:312(para)
 msgid "找到 通知区域 和 指示器小程序，分别双击。"
 msgstr ""
 
-#: faq/xinclude.xml:323(title)
+#: faq/xinclude.xml:317(title)
 msgid "常用工具软件"
 msgstr ""
 
-#: faq/xinclude.xml:325(title)
+#: faq/xinclude.xml:319(title)
 msgid "Ubuntu 中怎么解压 rar 文件？"
 msgstr ""
 
-#: faq/xinclude.xml:326(para)
+#: faq/xinclude.xml:320(para)
 msgid "安装 <ulink url=\"apt://unrar\">unrar</ulink>。"
 msgstr ""
 
-#: faq/xinclude.xml:327(para)
+#: faq/xinclude.xml:321(para)
 msgid ""
 "此外还可以使用开源的 <ulink url=\"apt://unrar-free\">unrar-free</ulink>，这个"
 "包对新版本的 rar 文件支持并不是特别好。"
 msgstr ""
 
-#: faq/xinclude.xml:329(title)
+#: faq/xinclude.xml:323(title)
 msgid "如何将文件压缩成 rar？"
 msgstr ""
 
-#: faq/xinclude.xml:330(para)
+#: faq/xinclude.xml:324(para)
 msgid "为什么一定要使用 rar 格式呢？"
 msgstr ""
 
-#: faq/xinclude.xml:331(para)
+#: faq/xinclude.xml:325(para)
 msgid ""
 "Ubuntu 默认支持 zip，gz，lzma 等几种压缩格式，而且这几种格式都可以使用 "
 "Windows 上常见的 WinRAR，WinZip 等软件解压。但是这几种格式不支持分卷压缩。"
 msgstr ""
 
-#: faq/xinclude.xml:333(para)
+#: faq/xinclude.xml:327(para)
 msgid ""
 "如果需要分卷压缩，可以安装 <ulink url=\"apt://p7zip\">p7zip</ulink> 来添加对 "
 "7z 这种格式的支持。 当然，这种格式也可以使用 WinRAR，WinZip 等软件解压。"
 msgstr ""
 
-#: faq/xinclude.xml:338(title)
+#: faq/xinclude.xml:332(title)
 msgid "在 Linux 上怎么使用飞信？"
 msgstr ""
 
-#: faq/xinclude.xml:339(para)
+#: faq/xinclude.xml:333(para)
 msgid "现在 Linux 上使用飞信的方法有如下几种："
 msgstr ""
 
-#: faq/xinclude.xml:343(para)
+#: faq/xinclude.xml:337(para)
 msgid "linuxfetion， 基于 QT 的飞信客户端，可以通过 ppa 添加"
 msgstr ""
 
-#: faq/xinclude.xml:346(para)
+#: faq/xinclude.xml:340(para)
 msgid ""
 "openfetion 基于 GTK+ 的飞信客户端， 也可以在 ppa 上找到(这个将来有可能会进官"
 "方源)"
 msgstr ""
 
-#: faq/xinclude.xml:349(ulink)
+#: faq/xinclude.xml:341(para)
+msgid ""
+"linuxfetion 和 openfetion 可以在 <ulink url=\"https://launchpad.net/"
+"~happyaron/+archive/ppa\">Aron Xu 的 PPA</ulink>上找到"
+msgstr ""
+
+#: faq/xinclude.xml:344(ulink)
 msgid "Pidgin 的飞信插件"
 msgstr ""
 
-#: faq/xinclude.xml:352(para)
+#: faq/xinclude.xml:347(para)
 msgid ""
 "<ulink url=\"http://mail.139.com/\">中国移动 139 邮箱</ulink> 中可以登录网页"
 "版飞信"
 msgstr ""
 
-#: faq/xinclude.xml:358(title)
+#: faq/xinclude.xml:353(title)
 msgid "Ubuntu 上怎么使用网上银行？"
 msgstr ""
 
-#: faq/xinclude.xml:359(para)
+#: faq/xinclude.xml:354(para)
 msgid ""
 "可以打各个银行的服务热线询问，他们会给您办法的： <screen format="
 "\"linespecific\">\n"
-"    \t   \t工商银行:95588　建设银行:95533　招商银行:95555\n"
-"\t\t农业银行:95599　中国银行:95566　中信银行:95558\n"
-"\t\t交通银行:95559　光大银行:95595　华夏银行:95577\n"
-"\t\t兴业银行:95561　民生银行:95568　邮政储蓄银行:95580\n"
-"\t\t上海浦发银行:95528　深圳发展银行:95501</screen>"
+"    \t   \t工商银行：95588　建设银行：95533　招商银行：95555\n"
+"\t\t农业银行：95599　中国银行：95566　中信银行：95558\n"
+"\t\t交通银行：95559　光大银行：95595　华夏银行：95577\n"
+"\t\t兴业银行：95561　民生银行：95568　邮政储蓄银行：95580\n"
+"\t\t上海浦发银行：95528　深圳发展银行：95501</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:368(screen)
+#: faq/xinclude.xml:364(ulink)
+msgid "上海浦发银行"
+msgstr ""
+
+#: faq/xinclude.xml:363(screen)
 #, no-wrap
 msgid ""
 "\n"
-"    \t   \t如果有条件，推荐使用 上海浦发银行"
+"    \t   \t如果有条件，推荐使用 <placeholder-1/>"
+msgstr ""
+
+#: faq/xinclude.xml:366(para)
+msgid "关于网银的具体情况可以看："
+msgstr ""
+
+#: faq/xinclude.xml:367(ulink)
+msgid "http://www.openbanks.info/"
+msgstr ""
+
+#: faq/xinclude.xml:370(title)
+msgid "Ubuntu 上怎么语音视频聊天？"
 msgstr ""
 
 #: faq/xinclude.xml:371(para)
 msgid ""
-"关于网银的具体情况可以看： <screen format=\"linespecific\">\n"
-"    \t   \t\thttp://www.openbanks.info/\n"
-"    \t   \t</screen>"
+"由于腾讯公司不支持，在 Linux 上 QQ 最多只能单方视频 可以使用 Gtalk/Skype 来代"
+"替。"
 msgstr ""
 
-#: faq/xinclude.xml:378(title)
-msgid "Ubuntu 上怎么语音视频聊天？"
+#: faq/xinclude.xml:377(title)
+msgid "Ubuntu 上怎么聊 QQ？"
 msgstr ""
 
-#: faq/xinclude.xml:379(para)
+#: faq/xinclude.xml:378(para)
+msgid "WebQQ：<ulink url=\"http://webqq.qq.com\">http://webqq.qq.com</ulink>"
+msgstr ""
+
+#: faq/xinclude.xml:382(title)
+msgid "Rhythmbox/Totem 播放 MP3 文件乱码？"
+msgstr ""
+
+#: faq/xinclude.xml:383(para)
+msgid "这是因为 Gstreamer 默认将 ID3 标签读取读取为 UTF8 编码。"
+msgstr ""
+
+#: faq/xinclude.xml:384(para)
+msgid "有三种方法可以解决这个问题："
+msgstr ""
+
+#: faq/xinclude.xml:387(para)
 msgid ""
-"由于腾讯公司不支持，在 Linux 上 QQ 最多只能单方视频 可以使用 Gtalk/Skyper 来"
-"代替。"
+"使用命令<screen format=\"linespecific\">mid3iconv -e GBK */*.mp3</screen> 将 "
+"ID3 标签转换为 UTF8编码 但是，这么做，如果将 MP3 文件发送到比较老的 MP3 上，"
+"可能又会出现乱码。"
 msgstr ""
 
-#: faq/xinclude.xml:387(title)
+#: faq/xinclude.xml:392(para)
+msgid ""
+"http://forum.ubuntu.org.cn/viewtopic.php?t=278753 下载 id2ape，使用命令： "
+"<screen format=\"linespecific\">python id2ape -e GBK */*.mp3</screen> 将 "
+"ID3v2 编码转换为 UTF8 后，写入 APEv2 标签。 以上两种方法，需要安装 <ulink "
+"url=\"apt://python-mutagen\">python-mutagen</ulink>"
+msgstr ""
+
+#: faq/xinclude.xml:398(para)
+msgid ""
+"设置环境变量 GST_ID3V2_TAG_ENCODING 和 GST_ID3_TAG_ENCODING，将： <screen "
+"format=\"linespecific\">export GST_ID3_TAG_ENCODING=GBK:UTF-8:GB18030\n"
+"export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen> 加入 ~/.bashrc (只影"
+"响自己) 或 /etc/profile (影响整个系统)"
+msgstr ""
+
+#: faq/xinclude.xml:411(title)
 msgid "硬件及系统备份"
 msgstr ""
 
-#: faq/xinclude.xml:389(title)
+#: faq/xinclude.xml:413(title)
 msgid "怎么查看硬件信息？"
 msgstr ""
 
-#: faq/xinclude.xml:390(screen)
+#: faq/xinclude.xml:414(screen)
 #, no-wrap
 msgid "lshw"
 msgstr ""
 
-#: faq/xinclude.xml:391(para)
+#: faq/xinclude.xml:415(para)
 msgid "应该足够详细吧？"
 msgstr ""
 
-#: faq/xinclude.xml:394(title)
+#: faq/xinclude.xml:418(title)
 msgid "Ubuntu 挑硬件吗？不支持什么硬件？去什么地方下载驱动程序？"
 msgstr ""
 
-#: faq/xinclude.xml:395(para)
+#: faq/xinclude.xml:419(para)
 msgid "应该说，Ubuntu 现在对硬件的支持非常非常好了。"
 msgstr ""
 
-#: faq/xinclude.xml:399(para)
+#: faq/xinclude.xml:423(para)
 msgid "不要购买 SIS 芯片组和显卡的笔记本。"
 msgstr ""
 
-#: faq/xinclude.xml:402(para)
+#: faq/xinclude.xml:426(para)
 msgid "N 卡的驱动比 A 卡的驱动出得快。"
 msgstr ""
 
-#: faq/xinclude.xml:405(para)
+#: faq/xinclude.xml:429(para)
 msgid "买之前先使用 LiveCD 或 LiveUSB 先实验一下。"
 msgstr ""
 
-#: faq/xinclude.xml:408(para)
+#: faq/xinclude.xml:432(para)
 msgid "大路货比高端货的支持可能更好一点。"
 msgstr ""
 
-#: faq/xinclude.xml:411(para)
+#: faq/xinclude.xml:435(para)
 msgid ""
 "可以多去 Ubuntu 中文论坛看一下，那里有很多大家对于各种硬件兼容性的评价。"
 msgstr ""
 
-#: faq/xinclude.xml:396(para)
+#: faq/xinclude.xml:420(para)
 msgid "但还是有几点可以注意一下： <placeholder-1/>"
 msgstr ""
 
-#: faq/xinclude.xml:415(para)
+#: faq/xinclude.xml:439(para)
 msgid ""
 "一般来说，Ubuntu 中不需要自己手动下载驱动，如果 Ubuntu 默认不支持您的硬件， "
 "可以使用 系统 -&gt; 系统管理 -&gt;硬件驱动 来尝试能不能自动安装驱动。"
 msgstr ""
 
-#: faq/xinclude.xml:418(para)
+#: faq/xinclude.xml:442(para)
 msgid ""
 "如果仍然不能安装好驱动，您可能需要使用搜索引擎等去自己寻找驱动程序。如果能够"
 "确定新版内核可以支持您的硬件， 或者可以从其它地方下载得到驱动程序，那么您可能"
 "需要重新编译内核了。"
 msgstr ""
 
-#: faq/xinclude.xml:423(title)
+#: faq/xinclude.xml:447(title)
 msgid "Linux 怎么进行碎片整理？"
 msgstr ""
 
-#: faq/xinclude.xml:424(para)
+#: faq/xinclude.xml:448(para)
 msgid "Linux 的文件系统做的足够优秀，不需要专门进行碎片整理。"
 msgstr ""
 
-#: faq/xinclude.xml:425(para)
+#: faq/xinclude.xml:449(para)
 msgid "相信我！"
 msgstr ""
 
-#: faq/xinclude.xml:428(title)
+#: faq/xinclude.xml:452(title)
 msgid "我想备份我现在的系统，怎么办？Ghost 好像不行。"
 msgstr ""
 
-#: faq/xinclude.xml:429(para)
+#: faq/xinclude.xml:453(para)
 msgid ""
 "可以使用 ptptptptptpt (6pt) 编写的 <ulink url=\"http://code.google.com/p/"
 "ucloner/downloads/list\">Ucloner</ulink> 来实现这个功能。 在确认安装了 "
@@ -819,366 +874,337 @@ msgid ""
 "压缩包，点击“双击运行”。"
 msgstr ""
 
-#: faq/xinclude.xml:436(para)
+#: faq/xinclude.xml:460(para)
 msgid "备份 是指，把系统备份到一个文件中"
 msgstr ""
 
-#: faq/xinclude.xml:439(para)
+#: faq/xinclude.xml:463(para)
 msgid "恢复 是指，把备份到文件中的系统恢复到硬盘上"
 msgstr ""
 
-#: faq/xinclude.xml:442(para)
+#: faq/xinclude.xml:466(para)
 msgid "克隆 是指，直接将一个系统复制到另外的分区"
 msgstr ""
 
-#: faq/xinclude.xml:447(title)
+#: faq/xinclude.xml:471(title)
 msgid "Billbear 的 lub"
 msgstr ""
 
-#: faq/xinclude.xml:448(para)
+#: faq/xinclude.xml:472(para)
 msgid "论坛上的 billbear 写了一个命令行版的类似的应用 —— lub"
 msgstr ""
 
-#: faq/xinclude.xml:449(para)
+#: faq/xinclude.xml:473(ulink)
 msgid "http://forum.ubuntu.org.cn/viewtopic.php?t=206287"
 msgstr ""
 
-#: faq/xinclude.xml:454(title)
+#: faq/xinclude.xml:478(title)
 msgid "Super 键是键盘上的哪个键？"
 msgstr ""
 
-#: faq/xinclude.xml:455(para)
+#: faq/xinclude.xml:479(para)
 msgid ""
-"Super 键也叫做徽标键，在普通的 PC 机上就是画这微软徽标的那个键，一般在 ctrl "
+"Super 键也叫做徽标键，在普通的 PC 机上就是画着微软徽标的那个键，一般在 ctrl "
 "和 alt 之间，有人管它叫 win 键。在 Mac 机上是画苹果徽标的那个键。"
 msgstr ""
 
-#: faq/xinclude.xml:463(title)
+#: faq/xinclude.xml:487(title)
 msgid "系统的安装和引导"
 msgstr ""
 
-#: faq/xinclude.xml:465(title) faq/xinclude.xml:621(title)
+#: faq/xinclude.xml:489(title)
 msgid "我重新安装了 Windows，可是启动时缺找不到 Ubuntu 的启动项了？"
 msgstr ""
 
-#: faq/xinclude.xml:466(para) faq/xinclude.xml:622(para)
+#: faq/xinclude.xml:490(para)
 msgid "可以使用如下两种方法之一，修复 Ubuntu 的启动："
 msgstr ""
 
-#: faq/xinclude.xml:469(para)
+#: faq/xinclude.xml:493(para)
 msgid ""
 "使用 LiveCD/LiveUSB 或者硬盘安装的方法，进入一个 live 环境，挂载上原来的 根分"
-"区，比如挂载为 /media/sda5，然后运行命令： <screen format=\"linespecific\">\n"
-"    \t\t\t\tsudo chroot /meidia/sda5\n"
-"    \t\t\t\tgrub-install /dev/sda\n"
-"    \t\t\t\tupdate-grub\n"
-"    \t\t\t</screen>"
-msgstr ""
-
-#: faq/xinclude.xml:478(para)
-msgid ""
-"下载 GRUB4DOS，将其中的 grldr 或者 g2ldr 放在 Windows 的 C 盘根目录中，然后修"
-"改 <screen format=\"linespecific\">\n"
-"    \t\t\t\tC：\\boot.ini\n"
-"    \t\t\t</screen> 添加一行 <screen format=\"linespecific\">\n"
-"    \t\t\t\tC：\\grldr = GRUB4DOS   或者\n"
-"    \t\t\t\tC：\\g2ldr = GRUB4DOS\n"
-"    \t\t\t</screen> 并删除 C 盘中的 menu.lst (或者 grub.cfg boot/menu.lst "
-"boot/grub.cfg 等) 文件。 重启系统，选择 GRUB4DOS 项，选择自动探测 grub.cfg 那"
-"一项，就可以带您进入 Ubuntu 系统了。 然后运行命令： <screen format="
-"\"linespecific\">\n"
-"    \t\t\t\tgrub-install /dev/sda\n"
-"    \t\t\t\tsudo update-grup\n"
-"    \t\t\t</screen>"
-msgstr ""
-
-#: faq/xinclude.xml:499(title)
-msgid "/ 是一个什么目录？"
+"区，比如挂载为 /media/sda5，然后运行命令： <screen format=\"linespecific"
+"\">sudo chroot /meidia/sda5\n"
+"grub-install /dev/sda\n"
+"update-grub</screen>"
 msgstr ""
 
 #: faq/xinclude.xml:500(para)
+msgid ""
+"下载 GRUB4DOS，将其中的 grldr 或者 g2ldr 放在 Windows 的 C 盘根目录中，然后修"
+"改 <screen format=\"linespecific\">C：\\boot.ini</screen> 添加一行 <screen "
+"format=\"linespecific\">C：\\grldr = GRUB4DOS   或者\n"
+"C：\\g2ldr = GRUB4DOS</screen> 并删除 C 盘中的 menu.lst (或者 grub.cfg boot/"
+"menu.lst boot/grub.cfg 等) 文件。 重启系统，选择 GRUB4DOS 项，选择自动探测 "
+"grub.cfg 那一项，就可以带您进入 Ubuntu 系统了。 然后运行命令： <screen "
+"format=\"linespecific\">sudo grub-install /dev/sda\n"
+"sudo update-grup</screen>"
+msgstr ""
+
+#: faq/xinclude.xml:515(title)
+msgid "/ 是一个什么目录？"
+msgstr ""
+
+#: faq/xinclude.xml:516(para)
 msgid ""
 "Ubuntu 在安装的时候，会选择一个分区做为根目录，也就是 /，这个目录作为“根”目"
 "录。 所有的其它目录都会挂载在这个目录上面，好像是这个目录的一个子目录。 这"
 "样，整个目录的结构看起来就像一棵大树。"
 msgstr ""
 
-#: faq/xinclude.xml:505(para)
+#: faq/xinclude.xml:521(para)
 msgid ""
 "如果还不明白，那么就举一个更加通俗的例子。 比如，一棵树上的树枝可能真的是这棵"
 "树自己长出来的，也可能是用绳子绑在上边的，这个用绳子绑的过程，就是所谓的“挂载"
 "(mount)”。"
 msgstr ""
 
-#: faq/xinclude.xml:509(para)
+#: faq/xinclude.xml:525(para)
 msgid ""
-"一个 Linux 系统中，具体的挂载方案，在文件： <screen format=\"linespecific"
-"\">\n"
-"    \t\t\t\t/etc/fstab\n"
-"    \t\t\t</screen> 中定义。"
+"一个 Linux 系统中，具体的挂载方案，在文件： <screen format=\"linespecific\">/"
+"etc/fstab</screen> 中定义。"
 msgstr ""
 
-#: faq/xinclude.xml:519(title)
+#: faq/xinclude.xml:533(title)
 msgid "Ubuntu 主要有几种安装方法？"
 msgstr ""
 
-#: faq/xinclude.xml:520(para)
+#: faq/xinclude.xml:534(para)
 msgid "光盘安装：就是从启动计算机，并安装 Ubuntu 系统。"
 msgstr ""
 
-#: faq/xinclude.xml:523(para)
+#: faq/xinclude.xml:537(para)
 msgid ""
 "Wubi 安装：在 Windows 中运行一个程序，将 Ubuntu 安装的 Windows 分区的一个文件"
 "中。 这样就不用给 Ubuntu 单独分配分区，但是会造成硬盘性能较低。适合临时使用。"
 msgstr ""
 
-#: faq/xinclude.xml:527(para)
+#: faq/xinclude.xml:541(para)
 msgid ""
 "硬盘安装：使用系统的引导器(比如 GRUB) 引导 Linux 内核，然后加载 ISO 镜像，实"
 "现不用刻盘安装。"
 msgstr ""
 
-#: faq/xinclude.xml:530(para)
+#: faq/xinclude.xml:544(para)
 msgid ""
 "U 盘安装：将 ISO 镜像烧录到 U 盘中，然后使用 U 盘引导系统，进行安装。如果硬件"
 "支持，这是最方便的方法。 但是，只支持 Desktop 版的镜像。"
 msgstr ""
 
-#: faq/xinclude.xml:534(para)
+#: faq/xinclude.xml:548(para)
 msgid ""
 "网络安装：首先启动一个很小的基本系统，使用这个基本系统，从网络上下载软件包，"
 "进行安装。 适合网速快的情况。这种方法的优势是，安装完成之后不用更新，也能更方"
 "便的控制安装哪些软件包。"
 msgstr ""
 
-#: faq/xinclude.xml:542(title)
+#: faq/xinclude.xml:554(title)
+msgid "有的宣传说 Ubuntu 可以 10 秒启动系统，为什么我的却那么慢？"
+msgstr ""
+
+#: faq/xinclude.xml:555(para)
+msgid ""
+"这个地方说的 10 秒启动是在配置比较高的机器上，只安装了默认软件，配合固态硬盘 "
+"测试得到的数字，可以认为是一个极值，一般的机器是达不到这个数字的。 一般来说，"
+"启动时间一般在 20 多秒至 30秒。这也很快了，不是吗？"
+msgstr ""
+
+#: faq/xinclude.xml:564(title)
 msgid "其他问题"
 msgstr ""
 
-#: faq/xinclude.xml:544(title)
+#: faq/xinclude.xml:566(title)
 msgid "Ubuntu 中文论坛上，每页都会给显示一条命令，很酷，从哪里可以找到它们？"
 msgstr ""
 
-#: faq/xinclude.xml:545(para)
+#: faq/xinclude.xml:567(ulink)
 msgid "http://wiki.ubuntu.org.cn/UbuntuSkills"
 msgstr ""
 
-#: faq/xinclude.xml:552(title)
+#: faq/xinclude.xml:571(title)
+msgid "Ubuntu 中文论坛上，都有哪些求助方法？"
+msgstr ""
+
+#: faq/xinclude.xml:572(para)
+msgid "请参考这个帖子："
+msgstr ""
+
+#: faq/xinclude.xml:573(ulink)
+msgid "http://forum.ubuntu.org.cn/viewtopic.php?t=67441"
+msgstr ""
+
+#: faq/xinclude.xml:577(title)
 msgid "iBus 怎么切换到中文输入法？"
 msgstr ""
 
-#: faq/xinclude.xml:553(para)
+#: faq/xinclude.xml:578(para)
 msgid "Ctrl-Space， 不是 ctrl-shift"
 msgstr ""
 
-#: faq/xinclude.xml:554(para)
+#: faq/xinclude.xml:579(para)
 msgid ""
 "多个输入法之间切换，比如从拼音切换到五笔是 Alt-Shift-L，当然这都是可以设置"
 "的。"
 msgstr ""
 
-#: faq/xinclude.xml:558(title)
+#: faq/xinclude.xml:583(title)
 msgid "在 Gnome 终端中，如果需要输入一个很长的文件名怎么办？"
 msgstr ""
 
-#: faq/xinclude.xml:562(para)
+#: faq/xinclude.xml:587(para)
 msgid ""
 "Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其"
 "它用处。"
 msgstr ""
 
-#: faq/xinclude.xml:565(para)
+#: faq/xinclude.xml:590(para)
 msgid ""
-"文件名输入了一部之后，按 Tab 试试，当然 Tab 也可以补全命令。或者可以试试 "
+"文件名输入了一部分之后，按 Tab 试试，当然 Tab 也可以补全命令。或者可以试试 "
 "zsh，补全功能更加强大。"
 msgstr ""
 
-#: faq/xinclude.xml:568(para)
+#: faq/xinclude.xml:593(para)
 msgid ""
 "直接将一个文件拖动到终端框中，看看有什么效果？Gnome 终端中将直接显示出这个文"
 "件的绝对路径，而且用单引号引起来。"
 msgstr ""
 
-#: faq/xinclude.xml:576(title)
+#: faq/xinclude.xml:600(title)
 msgid "怎么安装新字体？"
 msgstr ""
 
-#: faq/xinclude.xml:577(para)
+#: faq/xinclude.xml:601(para)
 msgid ""
 "将字体复制到 <screen format=\"linespecific\">/usr/share/fonts/truetype</"
 "screen> 然后运行命令： <screen format=\"linespecific\">sudo fc-cache</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:585(title)
+#: faq/xinclude.xml:610(title)
 msgid ""
 "有些 JAVA 程序字体很不正常，字好像颜色分离的，而且变得很瘦，这是怎么回事？"
 msgstr ""
 
-#: faq/xinclude.xml:586(para)
+#: faq/xinclude.xml:611(para)
 msgid ""
 "OpenJDK 的 Swings 的字体渲染有些问题，这会造成 NetBeans 等使用 Swings 的程序"
 "字体显示异常。"
 msgstr ""
 
-#: faq/xinclude.xml:588(para)
+#: faq/xinclude.xml:613(para)
 msgid ""
 "要解决这个问题，在桌面上点右键，选择最后一项‘更改桌面背景’，进入‘字体’标签，"
 "在‘渲染’中， 选择除了‘次像素平滑’之外的另外三个选项都没有这个问题。"
 msgstr ""
 
-#: faq/xinclude.xml:593(title)
+#: faq/xinclude.xml:618(title)
 msgid "怎么实现定时关机？"
 msgstr ""
 
-#: faq/xinclude.xml:594(para)
+#: faq/xinclude.xml:619(para)
 msgid "可以使用 shutdown 命令实现定时关机。"
 msgstr ""
 
-#: faq/xinclude.xml:595(para)
+#: faq/xinclude.xml:620(para)
 msgid ""
-"<screen format=\"linespecific\">\n"
-"    \tsudo shutdown 14:20 '系统将在 14:20 关闭'\n"
-"\tsudo shutdown +20 '20 分钟后关机'\n"
-"\tsudo shutdown now '立即关机'\n"
-"\tsudo shutdown -c '取消关机'\n"
-"    \t</screen> 具体的用法请 <screen format=\"linespecific\">man shutdown</"
-"screen>"
+"<screen format=\"linespecific\">sudo shutdown 14:20 '系统将在 14:20 关闭'\n"
+"sudo shutdown +20 '20 分钟后关机'\n"
+"sudo shutdown now '立即关机'\n"
+"sudo shutdown -c '取消关机'</screen> 具体的用法请 <screen format="
+"\"linespecific\">man shutdown</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:608(title)
+#: faq/xinclude.xml:631(title)
 msgid "如何设置，可以自动登录？"
 msgstr ""
 
-#: faq/xinclude.xml:609(para)
+#: faq/xinclude.xml:632(para)
 msgid ""
-"<screen format=\"linespecific\">\n"
-"    \t系统 -&gt; 系统设置 -&gt; 登录窗口\n"
-"    \t</screen> 或者直接运行 <screen format=\"linespecific\">\n"
-"    \tsudo gdmsetup\n"
-"    \t</screen>"
+"<screen format=\"linespecific\">系统 -&gt; 系统设置 -&gt; 登录窗口</screen> "
+"或者直接运行 <screen format=\"linespecific\">sudo gdmsetup</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:625(para)
-msgid ""
-"使用 LiveCD/LiveUSB 或者硬盘安装的方法，进入一个 live 环境，挂载上原来的 根分"
-"区，比如挂载为 /media/sda5，然后运行命令： <screen format=\"linespecific\">\n"
-"    \t\tsudo chroot /meidia/sda5\n"
-"    \t\tgrub-install /dev/sda\n"
-"    \t\tupdate-grub\n"
-"    \t</screen>"
-msgstr ""
-
-#: faq/xinclude.xml:634(para)
-msgid ""
-"下载 GRUB4DOS，将其中的 grldr 或者 g2ldr 放在 Windows 的 C 盘根目录中，然后修"
-"改 <screen format=\"linespecific\">\n"
-"    \t\tC：\\boot.ini\n"
-"    \t</screen> 添加一行 <screen format=\"linespecific\">\n"
-"    \t\tC：\\grldr = GRUB4DOS   或者\n"
-"    \t\tC：\\g2ldr = GRUB4DOS\n"
-"    \t</screen> 并删除 C 盘中的 menu.lst (或者 grub.cfg boot/menu.lst boot/"
-"grub.cfg 等) 文件。 重启系统，选择 GRUB4DOS 项，选择自动探测 grub.cfg 那一"
-"项，就可以带您进入 Ubuntu 系统了。 然后运行命令： <screen format="
-"\"linespecific\">\n"
-"    \t\tgrub-install /dev/sda\n"
-"    \t\tsudo update-grup\n"
-"    \t</screen>"
-msgstr ""
-
-#: faq/xinclude.xml:655(title)
-msgid "有的宣传说 Ubuntu 可以 10 秒启动系统，为什么我的却那么慢？"
-msgstr ""
-
-#: faq/xinclude.xml:656(para)
-msgid ""
-"这个地方说的 10 秒启动是在配置比较高的机器上，只安装了默认软件，配合固态硬盘 "
-"测试得到的数字，可以认为是一个极值，一般的机器是达不到这个数字的。 一般来说，"
-"启动时间一般在 20 多秒至 30秒。这也很快了，是吗？"
-msgstr ""
-
-#: faq/xinclude.xml:664(title)
+#: faq/xinclude.xml:642(title)
 msgid "关于杀毒软件和防火墙"
 msgstr ""
 
-#: faq/xinclude.xml:665(para)
+#: faq/xinclude.xml:643(para)
 msgid ""
 "记住：安全远远不止杀毒软件和防火墙！ 如果想通过安装杀毒软件或者防火墙来提高桌"
-"面 Linux 系统的安全性，那么您可以停下了。 先去稍微了解一下关于信息安全的内容"
-"再来回吧。"
+"面 Linux 系统的安全性，那么您可以停下了：这几乎是没有什么用处的。"
 msgstr ""
 
-#: faq/xinclude.xml:674(para)
+#: faq/xinclude.xml:651(para)
 msgid "良好的默认配置：绝对不会允许浏览器里运行的脚本去格式化硬盘"
 msgstr ""
 
-#: faq/xinclude.xml:677(para)
+#: faq/xinclude.xml:654(para)
 msgid "落实最小权限原则：用户默认使用的帐号是没有管理员权限的"
 msgstr ""
 
-#: faq/xinclude.xml:680(para)
+#: faq/xinclude.xml:657(para)
 msgid "不是太“智能”：不在用户装桌面系统的时候，连网页服务器都给装上"
 msgstr ""
 
-#: faq/xinclude.xml:683(para)
+#: faq/xinclude.xml:660(para)
 msgid "软件仓库：几乎所有的软件都可以在软件仓库里下载得到"
 msgstr ""
 
-#: faq/xinclude.xml:686(para)
+#: faq/xinclude.xml:663(para)
 msgid "开放的源代码：只要有足够多的眼睛，所有软件缺陷都无处可藏"
 msgstr ""
 
-#: faq/xinclude.xml:670(para)
+#: faq/xinclude.xml:647(para)
 msgid "Linux 系统的安全性主要得益于以下几个方面： <placeholder-1/>"
 msgstr ""
 
-#: faq/xinclude.xml:691(para)
+#: faq/xinclude.xml:668(para)
 msgid ""
 "如果非要安装(或者需要给 Windows 帮忙杀毒)，下边是几个选择： 杀毒软件：ClamAV"
 "(Ubuntu 软件仓库中有)，Avast， NOD32， SAVFL，AntiVir，卡巴斯基 等。 防火墙："
 "Gufw (Ubuntu 软件仓库中有)"
 msgstr ""
 
-#: faq/xinclude.xml:701(para)
+#: faq/xinclude.xml:678(para)
 msgid "从不明来源下载软件：如果软件仓库中有，坚决从软件仓库中安装"
 msgstr ""
 
-#: faq/xinclude.xml:704(para)
+#: faq/xinclude.xml:681(para)
 msgid ""
 "滥用 sudo：有些用户喜欢使用 sudo 命令，即使是不需要的时候。记住：除非进行系统"
-"管理，不要使用 sudo。"
+"管理，不要使用 sudo"
 msgstr ""
 
-#: faq/xinclude.xml:707(para)
+#: faq/xinclude.xml:684(para)
 msgid ""
 "使用盗版的商业软件：这是一个极大的安全隐患，因为，根本就不知道是否有人在其中"
 "做了手脚"
 msgstr ""
 
-#: faq/xinclude.xml:697(para)
+#: faq/xinclude.xml:674(para)
 msgid "Linux 上几种不好的习惯： <placeholder-1/>"
 msgstr ""
 
-#: faq/xinclude.xml:715(title)
-msgid "关于衍生发行版？"
+#: faq/xinclude.xml:692(title)
+msgid "关于衍生发行版"
 msgstr ""
 
-#: faq/xinclude.xml:717(title)
+#: faq/xinclude.xml:694(title)
 msgid "关于 Debian (此部分内容来自 WikiPedia)"
 msgstr ""
 
-#: faq/xinclude.xml:718(para) faq/xinclude.xml:731(para)
+#: faq/xinclude.xml:695(para)
 msgid "Debian 于 1993年8月16日 由一名美国普渡大学学生 Ian Murdock 首次发表。"
 msgstr ""
 
-#: faq/xinclude.xml:719(para)
+#: faq/xinclude.xml:696(para)
 msgid ""
-"Debian（IPA: /ˈdɛ.bi.ən/）是由GPL和其他自由软件许可协议授权的自由软件组成的操"
-"作系统， 由Debian计划(Debian Project)组织维护。Debian计划没有任何的营利组织支"
-"持，它的开发团队完全由来自世界各地的志愿者组成， 官方开发者的总数就将近1000"
-"名，非官方的开发者为数更多。"
+"Debian 是由GPL和其他自由软件许可协议授权的自由软件组成的操作系统， 由Debian计"
+"划(Debian Project)组织维护。Debian计划没有任何的营利组织支持，它的开发团队完"
+"全由来自世界各地的志愿者组成， 官方开发者的总数就将近1000名，非官方的开发者为"
+"数更多。"
 msgstr ""
 
-#: faq/xinclude.xml:722(para)
+#: faq/xinclude.xml:699(para)
 msgid ""
 "Debian 计划组织跟其他自由操作系统(如 Ubuntu、openSUSE、Fedora、Mandriva、"
 "OpenSolaris等)的开发组织不同。 上述这些自由操作系统的开发组织通常背后由公司或"
@@ -1186,13 +1212,13 @@ msgid ""
 "者组成， 背后没有任何公司或机构支持。"
 msgstr ""
 
-#: faq/xinclude.xml:725(para)
+#: faq/xinclude.xml:702(para)
 msgid ""
 "Debian 以其坚守 Unix 和自由软件的精神，以及其给予用户的众多选择而闻名。现在 "
 "Debian 包括了超过 25,000 个软件包并支持 12 个计算机系统结构。"
 msgstr ""
 
-#: faq/xinclude.xml:726(para)
+#: faq/xinclude.xml:703(para)
 msgid ""
 "需要指出的是，Debian 并不是一种 Linux 发行版。Debian 是一个大的系统组织框架，"
 "在这个框架下有多种不同操作系统内核的分支计划， 如采用 Linux 内核的 Debian "
@@ -1204,37 +1230,37 @@ msgid ""
 "等， 都建基于 Debian GNU/Linux。"
 msgstr ""
 
-#: faq/xinclude.xml:732(para)
+#: faq/xinclude.xml:708(para)
 msgid ""
 "1996年，当时的 Debian 计划领导人 Bruce Perens 发表了 Debian 社会契约(Debian "
 "Social Contract) 及 Debian 自由软件指引(Debian Free Software Guidelines)，定"
 "义了开发 Debian 的基本承诺。"
 msgstr ""
 
-#: faq/xinclude.xml:734(para)
+#: faq/xinclude.xml:710(para)
 msgid ""
 "Debian 有三个主要的分支：statale，testing，unstable。 此外还有一个存放实验性"
 "软件的分支 experimental，但 experimental 不是一个完整的分支。"
 msgstr ""
 
-#: faq/xinclude.xml:740(title)
+#: faq/xinclude.xml:716(title)
 msgid "Ubuntu 与 Debian 的关系"
 msgstr ""
 
-#: faq/xinclude.xml:741(para)
+#: faq/xinclude.xml:717(para)
 msgid ""
 "正如上面说所 Debian 一大特点就是保守，同时管理上也过于民主，造成决策缓慢。这"
 "样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。"
 msgstr ""
 
-#: faq/xinclude.xml:742(para)
+#: faq/xinclude.xml:718(para)
 msgid ""
 "Ubuntu 基于 Debian 的 unstable 分支，同时对来自 Debian 的部分软件包进行了一定"
 "的修改，以使其更加适合桌面使用。 同时，优化了安装过程，使 Ubuntu 安装起来更加"
 "容易。"
 msgstr ""
 
-#: faq/xinclude.xml:745(para)
+#: faq/xinclude.xml:721(para)
 msgid ""
 "因为，Ubuntu 对 Debian 的改动比较大，Ubuntu 建立了自己的软件仓库。但是这其中"
 "的大部分软件包都是不加修改的直接从 Debian 软件仓库同步过来的。 当然也有部分软"
@@ -1242,32 +1268,32 @@ msgid ""
 "多。"
 msgstr ""
 
-#: faq/xinclude.xml:748(para)
+#: faq/xinclude.xml:724(para)
 msgid ""
 "Ubuntu 也是坚守自由软件的发行版。但是，Ubuntu 开始的几年，因为和 Debian 开发"
 "者就系统具体应该作成什么样子， 以及 Ubuntu 向 Debian 的回馈通道不是很畅通，造"
 "成了两个社区的关系不是太好。"
 msgstr ""
 
-#: faq/xinclude.xml:750(para)
+#: faq/xinclude.xml:726(para)
 msgid ""
 "现在，两个社区的矛盾已经基本消除，关系也已非常融洽，Ubuntu 向 Debian 回馈的通"
 "道也已经比较畅通。"
 msgstr ""
 
-#: faq/xinclude.xml:751(para)
+#: faq/xinclude.xml:727(para)
 msgid ""
 "Ubuntu benefits from a strong Debian, and Debian benefits from a strong "
 "Ubuntu. - MarkShuttleworth"
 msgstr ""
 
-#: faq/xinclude.xml:752(para)
+#: faq/xinclude.xml:728(para)
 msgid ""
 "Every Debian developer is also an Ubuntu developer, because one way to "
 "contribute to Ubuntu is to contribute to Debian. - MarkShuttleworth"
 msgstr ""
 
-#: faq/xinclude.xml:753(para)
+#: faq/xinclude.xml:729(para)
 msgid ""
 "We incorporate Debian changes regularly, because that introduces the latest "
 "work, the latest upstream code, and the newest packaging efforts from a huge "
@@ -1275,47 +1301,53 @@ msgid ""
 "possible. - MarkShuttleworth"
 msgstr ""
 
-#: faq/xinclude.xml:760(title)
+#: faq/xinclude.xml:736(title)
 msgid "Ubuntu 与其它基于 Ubuntu 的衍生发行版"
 msgstr ""
 
-#: faq/xinclude.xml:761(para)
+#: faq/xinclude.xml:737(para)
 msgid ""
 "随着 Ubuntu 的发展，也出现了一些基于 Ubuntu 的发行版。但是，还没有出现强大得"
 "可以自己建立软件仓库的发行版。"
 msgstr ""
 
-#: faq/xinclude.xml:762(para)
+#: faq/xinclude.xml:738(para)
 msgid ""
 "这些软件一般以更加易于安装，默认的本地化支持，不同的主题风格，不同的软件组"
 "合，以及默认安装一些非自由软件作为卖点。"
 msgstr ""
 
-#: faq/xinclude.xml:763(para)
+#: faq/xinclude.xml:739(para)
 msgid ""
 "这些衍生发行版中，有一些相对比较好的，也尊重知识产权，遵守软件的许可证，不往"
 "系统中添加一些不太受欢迎的软件。"
 msgstr ""
 
-#: faq/xinclude.xml:767(para)
+#: faq/xinclude.xml:743(para)
 msgid ""
 "修改了 GPL 授权协议的软件之后，并没有遵守许可证的要求，发布修改之后的代码；"
 msgstr ""
 
-#: faq/xinclude.xml:770(para)
+#: faq/xinclude.xml:746(para)
 msgid ""
 "不遵守某些商业软件的授权协议，比如，默认使用来自微软的主题，而这些主题都是有"
 "版权的， 或者默认安装 Adobe Flash Player(Adobe 是不允许 Adobe Flash Player 随"
 "光盘发行的)"
 msgstr ""
 
-#: faq/xinclude.xml:775(para)
+#: faq/xinclude.xml:751(para)
+msgid ""
+"把来自社区的贡献说成自己的：比如声称软件是自己翻译的，而实际上自己的贡献很"
+"少，甚至没有。"
+msgstr ""
+
+#: faq/xinclude.xml:754(para)
 msgid ""
 "破坏 Linux 系统中的权限控制，给普通用户开了过大的权限，进行特权操作时，不要求"
 "进行验证,留下严重的安全隐患。"
 msgstr ""
 
-#: faq/xinclude.xml:764(para)
+#: faq/xinclude.xml:740(para)
 msgid ""
 "有的衍生发行版中存在的几个严重问题： <placeholder-1/> 一般来说，使用有上面那"
 "几个问题的衍生发行版的用户，在正牌的开源社区提问的时候，会被无视掉，或者遭遇"

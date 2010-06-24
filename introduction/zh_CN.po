@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course introduction\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-06-20 10:42+0800\n"
+"POT-Creation-Date: 2010-06-24 17:20+0800\n"
 "PO-Revision-Date: 2010-06-21 23:01+0800\n"
 "Last-Translator: Hunt Xu <mhuntxu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -154,8 +154,8 @@ msgid ""
 "Please provide any and all feedback regarding this course to: "
 "training@canonical.com."
 msgstr ""
-"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: "
-"ubuntu-zh@lists.ubuntu.com。"
+"您的反馈对我们课程的改进和传播非常有用。请将您的反馈发送至: ubuntu-zh@lists."
+"ubuntu.com。"
 
 #: introduction/xinclude.xml:104(title)
 msgid "Ubuntu Session Plan"
@@ -503,7 +503,7 @@ msgstr "播放在线媒体"
 msgid "Editing Videos"
 msgstr "编辑视频"
 
-#: introduction/xinclude.xml:897(title)
+#: introduction/xinclude.xml:896(title)
 msgid "Ubuntu Session Plan - 2nd Day - Chapter 9"
 msgstr "第二天 - 第 9 章"
 

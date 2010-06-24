@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
-"POT-Creation-Date: 2010-06-22 00:39+0800\n"
+"POT-Creation-Date: 2010-06-24 17:20+0800\n"
 "PO-Revision-Date: 2010-05-29 10:21+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:132(None)
+#: chapter8/xinclude.xml:162(None)
 msgid ""
 "@@image: 'images/chapter9_image_001.png'; "
 "md5=932c2b7a470bd07dba402e507de678e2"
@@ -27,7 +27,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:148(None)
+#: chapter8/xinclude.xml:178(None)
 msgid ""
 "@@image: 'images/chapter9_image_002.png'; "
 "md5=6cfa24ce224759de58feb3aae8478f93"
@@ -37,7 +37,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:173(None)
+#: chapter8/xinclude.xml:203(None)
 msgid ""
 "@@image: 'images/chapter9_image_003.png'; "
 "md5=bb30b4ccde5f4ed7c44df5ce14e48416"
@@ -47,7 +47,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:190(None)
+#: chapter8/xinclude.xml:220(None)
 msgid ""
 "@@image: 'images/chapter9_image_004.png'; "
 "md5=2a51f22331a89b62d71b31ffd937c8a7"
@@ -57,7 +57,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:222(None)
+#: chapter8/xinclude.xml:252(None)
 msgid ""
 "@@image: 'images/chapter9_image_005.png'; "
 "md5=e45939ad190d02c0a6106e0745012c9a"
@@ -67,7 +67,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:241(None)
+#: chapter8/xinclude.xml:271(None)
 msgid ""
 "@@image: 'images/chapter9_image_006.png'; "
 "md5=f1c12f1d2b60f618f2893bb5f786148c"
@@ -77,58 +77,58 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:258(None)
+#: chapter8/xinclude.xml:288(None)
 msgid ""
 "@@image: 'images/chapter9_image_007.png'; "
 "md5=ca55cff9e847588b7fe460d8bd7fb49e"
 msgstr ""
 "@@image: 'images/chapter9_image_007.png'; "
 "md5=ca55cff9e847588b7fe460d8bd7fb49e"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:289(None)
-msgid ""
-"@@image: 'images/chapter9_image_008.png'; "
-"md5=7ca964d129921eaa70ee8c5f795cfae0"
-msgstr ""
-"@@image: 'images/chapter9_image_008.png'; "
-"md5=7ca964d129921eaa70ee8c5f795cfae0"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:304(None)
-msgid ""
-"@@image: 'images/chapter9_image_009.png'; "
-"md5=674633d5ed410db433bfcbd0c7fcda46"
-msgstr ""
-"@@image: 'images/chapter9_image_009.png'; "
-"md5=674633d5ed410db433bfcbd0c7fcda46"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:319(None)
 msgid ""
-"@@image: 'images/chapter9_image_010.png'; "
-"md5=cf7b15178459eda6ce2f04ef37205068"
+"@@image: 'images/chapter9_image_008.png'; "
+"md5=7ca964d129921eaa70ee8c5f795cfae0"
 msgstr ""
-"@@image: 'images/chapter9_image_010.png'; "
-"md5=cf7b15178459eda6ce2f04ef37205068"
+"@@image: 'images/chapter9_image_008.png'; "
+"md5=7ca964d129921eaa70ee8c5f795cfae0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:335(None)
+#: chapter8/xinclude.xml:334(None)
 msgid ""
-"@@image: 'images/chapter9_image_011.png'; "
-"md5=6c73f41e48174dc9b8e5facf0febb3ec"
+"@@image: 'images/chapter9_image_009.png'; "
+"md5=674633d5ed410db433bfcbd0c7fcda46"
 msgstr ""
-"@@image: 'images/chapter9_image_011.png'; "
-"md5=6c73f41e48174dc9b8e5facf0febb3ec"
+"@@image: 'images/chapter9_image_009.png'; "
+"md5=674633d5ed410db433bfcbd0c7fcda46"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:349(None)
 msgid ""
+"@@image: 'images/chapter9_image_010.png'; "
+"md5=cf7b15178459eda6ce2f04ef37205068"
+msgstr ""
+"@@image: 'images/chapter9_image_010.png'; "
+"md5=cf7b15178459eda6ce2f04ef37205068"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter8/xinclude.xml:365(None)
+msgid ""
+"@@image: 'images/chapter9_image_011.png'; "
+"md5=6c73f41e48174dc9b8e5facf0febb3ec"
+msgstr ""
+"@@image: 'images/chapter9_image_011.png'; "
+"md5=6c73f41e48174dc9b8e5facf0febb3ec"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter8/xinclude.xml:379(None)
+msgid ""
 "@@image: 'images/chapter9_image_012.png'; "
 "md5=23fd58db60455e9504c38028789ddf25"
 msgstr ""
@@ -137,7 +137,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:367(None)
+#: chapter8/xinclude.xml:397(None)
 msgid ""
 "@@image: 'images/chapter9_image_013.png'; "
 "md5=0be1299207b9cf69598cd4bf73410aef"
@@ -147,7 +147,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:398(None)
+#: chapter8/xinclude.xml:428(None)
 msgid ""
 "@@image: 'images/chapter9_image_014.png'; "
 "md5=35514d54992c9427fa868f2c579a0177"
@@ -157,7 +157,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:414(None)
+#: chapter8/xinclude.xml:444(None)
 msgid ""
 "@@image: 'images/chapter9_image_015.png'; "
 "md5=02575c2c9587f06432bfa69b2a46e4d0"
@@ -167,7 +167,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:431(None)
+#: chapter8/xinclude.xml:461(None)
 msgid ""
 "@@image: 'images/chapter9_image_016.png'; "
 "md5=81e945a62d23196dd0264c60db3aa49f"
@@ -177,7 +177,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:448(None)
+#: chapter8/xinclude.xml:478(None)
 msgid ""
 "@@image: 'images/chapter9_image_017.png'; "
 "md5=8b6a4f6d43e2565f71c5b3b489ebff1b"
@@ -187,7 +187,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:474(None)
+#: chapter8/xinclude.xml:504(None)
 msgid ""
 "@@image: 'images/chapter9_image_018.png'; "
 "md5=c14990f213fdfd99fca5072eec2c90f5"
@@ -197,7 +197,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:565(None)
+#: chapter8/xinclude.xml:595(None)
 msgid ""
 "@@image: 'images/chapter9_image_019.png'; "
 "md5=f48a78601bb6ec3f5587ba209c694572"
@@ -207,7 +207,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:593(None)
+#: chapter8/xinclude.xml:623(None)
 msgid ""
 "@@image: 'images/chapter9_image_020.png'; "
 "md5=96537e5d3ddf5f4532ecb2ace853370c"
@@ -217,7 +217,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:616(None)
+#: chapter8/xinclude.xml:646(None)
 msgid ""
 "@@image: 'images/chapter9_image_021.png'; "
 "md5=55c356f7c04df26617e43a6ee62eeae7"
@@ -227,7 +227,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:631(None)
+#: chapter8/xinclude.xml:661(None)
 msgid ""
 "@@image: 'images/chapter9_image_022.png'; "
 "md5=31bb0851218f63da5bbfc1e9a553d4fe"
@@ -237,7 +237,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:659(None)
+#: chapter8/xinclude.xml:689(None)
 msgid ""
 "@@image: 'images/chapter9_image_023.png'; "
 "md5=542c5d08791ffd1220a30afd4b14c818"
@@ -247,7 +247,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:692(None)
+#: chapter8/xinclude.xml:722(None)
 msgid ""
 "@@image: 'images/chapter9_image_024.png'; "
 "md5=22df91a1ba492eb7cfda4134956b3214"
@@ -257,7 +257,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:711(None)
+#: chapter8/xinclude.xml:741(None)
 msgid ""
 "@@image: 'images/chapter9_image_025.png'; "
 "md5=5cbca0f78ab678fe098e33cb84fd14eb"
@@ -267,7 +267,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:728(None)
+#: chapter8/xinclude.xml:758(None)
 msgid ""
 "@@image: 'images/chapter9_image_026.png'; "
 "md5=775342b1f9ca6c286c9c232ba05d2923"
@@ -277,7 +277,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:749(None)
+#: chapter8/xinclude.xml:779(None)
 msgid ""
 "@@image: 'images/chapter9_image_027.png'; "
 "md5=5ac74fefd7922c2f140eaa9b9811acaa"
@@ -287,7 +287,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:770(None)
+#: chapter8/xinclude.xml:800(None)
 msgid ""
 "@@image: 'images/chapter9_image_028.png'; "
 "md5=e3cffdae6ed0a70a54f881238ee640db"
@@ -297,7 +297,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:786(None)
+#: chapter8/xinclude.xml:816(None)
 msgid ""
 "@@image: 'images/chapter9_image_030.png'; "
 "md5=f8de628537c4e98299f47b9d63737e5b"
@@ -307,7 +307,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:818(None)
+#: chapter8/xinclude.xml:848(None)
 msgid ""
 "@@image: 'images/chapter9_image_032.png'; "
 "md5=7df66b6532d237c1e5c458dfbf020080"
@@ -317,7 +317,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:835(None)
+#: chapter8/xinclude.xml:865(None)
 msgid ""
 "@@image: 'images/chapter9_image_034.png'; "
 "md5=67d7ce456186668094852a6d908b60f9"
@@ -327,7 +327,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:854(None)
+#: chapter8/xinclude.xml:884(None)
 msgid ""
 "@@image: 'images/chapter9_image_035.png'; "
 "md5=6ab7ac8d0317aba71a49ceff5cbd5f9b"
@@ -337,7 +337,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:875(None)
+#: chapter8/xinclude.xml:905(None)
 msgid ""
 "@@image: 'images/chapter9_image_037.png'; "
 "md5=3f6ef5d1f63c3d79df1422602a8a9b0f"
@@ -347,7 +347,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:893(None)
+#: chapter8/xinclude.xml:923(None)
 msgid ""
 "@@image: 'images/chapter9_image_038.png'; "
 "md5=5d3b395634128de6f5f2409228471928"
@@ -357,7 +357,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:911(None)
+#: chapter8/xinclude.xml:941(None)
 msgid ""
 "@@image: 'images/chapter9_image_039.png'; "
 "md5=dc951264aba5eca7a2d5e766bce19cd3"
@@ -367,7 +367,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:951(None)
+#: chapter8/xinclude.xml:981(None)
 msgid ""
 "@@image: 'images/chapter9_image_059.png'; "
 "md5=12b7c716ba7a25960dd2a546af40aa25"
@@ -377,7 +377,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:968(None)
+#: chapter8/xinclude.xml:998(None)
 msgid ""
 "@@image: 'images/chapter9_image_060.png'; "
 "md5=c714bceae73bcc49563b970c38262003"
@@ -387,7 +387,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:984(None)
+#: chapter8/xinclude.xml:1014(None)
 msgid ""
 "@@image: 'images/chapter9_image_061.png'; "
 "md5=7341b4566afdddf9957bb25b429f3e58"
@@ -397,7 +397,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1002(None)
+#: chapter8/xinclude.xml:1032(None)
 msgid ""
 "@@image: 'images/chapter9_image_062.png'; "
 "md5=81c1fc530387ff186ba5f540d18af8a3"
@@ -407,7 +407,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1017(None)
+#: chapter8/xinclude.xml:1047(None)
 msgid ""
 "@@image: 'images/chapter9_image_063.png'; "
 "md5=71e0dde61ff34796bb508de533295a90"
@@ -417,7 +417,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1033(None)
+#: chapter8/xinclude.xml:1063(None)
 msgid ""
 "@@image: 'images/chapter9_image_064.png'; "
 "md5=362b2aa88c1be70e649c6dff57582304"
@@ -427,7 +427,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1051(None)
+#: chapter8/xinclude.xml:1081(None)
 msgid ""
 "@@image: 'images/chapter9_image_065.png'; "
 "md5=ac036593a83a96763e3c8ffccbe1e5bb"
@@ -437,7 +437,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1083(None)
+#: chapter8/xinclude.xml:1113(None)
 msgid ""
 "@@image: 'images/chapter9_image_066.png'; "
 "md5=6f79a28f1f5c9efd56c042bf6848319b"
@@ -447,7 +447,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1099(None)
+#: chapter8/xinclude.xml:1129(None)
 msgid ""
 "@@image: 'images/chapter9_image_068.png'; "
 "md5=3d1d3d2d6fe19385d32c131b88bd65c1"
@@ -457,7 +457,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1118(None)
+#: chapter8/xinclude.xml:1148(None)
 msgid ""
 "@@image: 'images/chapter9_image_069.png'; "
 "md5=68cde861d22289bdb262855bbd252a0b"
@@ -467,7 +467,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1134(None)
+#: chapter8/xinclude.xml:1164(None)
 msgid ""
 "@@image: 'images/chapter9_image_070.png'; "
 "md5=e92e04c9041b24d02947426536dfb39e"
@@ -477,7 +477,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1158(None)
+#: chapter8/xinclude.xml:1188(None)
 msgid ""
 "@@image: 'images/chapter9_image_071.png'; "
 "md5=fc9654ac9201a501ca33c2797639b129"
@@ -487,7 +487,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1203(None)
+#: chapter8/xinclude.xml:1233(None)
 msgid ""
 "@@image: 'images/chapter9_image_072.png'; "
 "md5=9ff2fcdb13718fdbffbb0d2c858e1b49"
@@ -497,7 +497,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1219(None)
+#: chapter8/xinclude.xml:1249(None)
 msgid ""
 "@@image: 'images/chapter9_image_073.png'; "
 "md5=93a78d7cf987fba263b7406ad7e1e862"
@@ -507,7 +507,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1277(None)
+#: chapter8/xinclude.xml:1307(None)
 msgid ""
 "@@image: 'images/chapter9_image_074.png'; "
 "md5=004a9b408fe1916f2d56b5cca247b5df"
@@ -517,7 +517,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1294(None)
+#: chapter8/xinclude.xml:1324(None)
 msgid ""
 "@@image: 'images/chapter9_image_075.png'; "
 "md5=26a47dcad736c3c0ec390fa2631ef5c3"
@@ -527,7 +527,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1309(None)
+#: chapter8/xinclude.xml:1339(None)
 msgid ""
 "@@image: 'images/chapter9_image_076.png'; "
 "md5=db05a97836c6a54dfa59ac572c18dd98"
@@ -537,7 +537,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1329(None)
+#: chapter8/xinclude.xml:1359(None)
 msgid ""
 "@@image: 'images/chapter9_image_077.png'; "
 "md5=bfc9a4e93bde10eb7ec997cd049a68d8"
@@ -547,7 +547,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1347(None)
+#: chapter8/xinclude.xml:1377(None)
 msgid ""
 "@@image: 'images/chapter9_image_078.png'; "
 "md5=4931ddb8343c9b1613fd0f48c4b793e9"
@@ -557,7 +557,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1363(None)
+#: chapter8/xinclude.xml:1393(None)
 msgid ""
 "@@image: 'images/chapter9_image_079.png'; "
 "md5=72198ad7efbb253594542256274f4785"
@@ -567,7 +567,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1443(None)
+#: chapter8/xinclude.xml:1473(None)
 msgid ""
 "@@image: 'images/chapter9_image_080.png'; "
 "md5=f30b340f02898d1a338357a1db886acb"
@@ -577,7 +577,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1458(None)
+#: chapter8/xinclude.xml:1488(None)
 msgid ""
 "@@image: 'images/chapter9_image_081.png'; "
 "md5=2dc4baef361452fa378e563c52946ffa"
@@ -587,7 +587,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1472(None)
+#: chapter8/xinclude.xml:1502(None)
 msgid ""
 "@@image: 'images/chapter9_image_082.png'; "
 "md5=29ce278708778c360bf7588068f949fb"
@@ -597,7 +597,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1489(None)
+#: chapter8/xinclude.xml:1519(None)
 msgid ""
 "@@image: 'images/chapter9_image_083.png'; "
 "md5=fb9c3b3aa5705b401c915999a1b9ff9a"
@@ -607,7 +607,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1505(None)
+#: chapter8/xinclude.xml:1535(None)
 msgid ""
 "@@image: 'images/chapter9_image_084.png'; "
 "md5=58e874bbe006601198f0b641f1500e8e"
@@ -617,7 +617,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1522(None)
+#: chapter8/xinclude.xml:1552(None)
 msgid ""
 "@@image: 'images/chapter9_image_085.png'; "
 "md5=2cc923156c43c9c3f0c1a593d03006b3"
@@ -627,7 +627,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1537(None)
+#: chapter8/xinclude.xml:1567(None)
 msgid ""
 "@@image: 'images/chapter9_image_086.png'; "
 "md5=df2c2fc43dd9428b089be3f014afb522"
@@ -637,7 +637,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1547(None)
+#: chapter8/xinclude.xml:1577(None)
 msgid ""
 "@@image: 'images/chapter9_image_087.png'; "
 "md5=f3623be307e797d2045f00b28b64bca3"
@@ -647,7 +647,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1653(None)
+#: chapter8/xinclude.xml:1683(None)
 msgid ""
 "@@image: 'images/chapter9_image_088.png'; "
 "md5=c69e7de2f690164c1c6881f82f8f317c"
@@ -657,7 +657,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1672(None)
+#: chapter8/xinclude.xml:1702(None)
 msgid ""
 "@@image: 'images/chapter9_image_089.png'; "
 "md5=501f2e22015955afe94eb941322f1f19"
@@ -667,7 +667,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1690(None)
+#: chapter8/xinclude.xml:1720(None)
 msgid ""
 "@@image: 'images/chapter9_image_090.png'; "
 "md5=26e723fb78b7b80f30fd3c7052822991"
@@ -677,7 +677,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1710(None)
+#: chapter8/xinclude.xml:1740(None)
 msgid ""
 "@@image: 'images/chapter9_image_091.png'; "
 "md5=80488f421b0375aa181d037373213bee"
@@ -687,7 +687,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1728(None)
+#: chapter8/xinclude.xml:1758(None)
 msgid ""
 "@@image: 'images/chapter9_image_092.png'; "
 "md5=c4f7950acc8456ea9fb52ac885a957b5"
@@ -697,7 +697,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1763(None)
+#: chapter8/xinclude.xml:1793(None)
 msgid ""
 "@@image: 'images/chapter9_image_093.png'; "
 "md5=35d112c0991cb5ece8d6a03480613d78"
@@ -707,7 +707,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1871(None)
+#: chapter8/xinclude.xml:1901(None)
 msgid ""
 "@@image: 'images/chapter9_image_094.png'; "
 "md5=6462e45c9153052dc2847d5cbf941148"
@@ -717,7 +717,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1889(None)
+#: chapter8/xinclude.xml:1919(None)
 msgid ""
 "@@image: 'images/chapter9_image_095.png'; "
 "md5=a99ef3442223d3a0c88963c4dfb2bd27"
@@ -727,7 +727,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1905(None)
+#: chapter8/xinclude.xml:1935(None)
 msgid ""
 "@@image: 'images/chapter9_image_096.png'; "
 "md5=8334a2793a93f6175e8e1d561b7fe80c"
@@ -737,7 +737,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1922(None)
+#: chapter8/xinclude.xml:1952(None)
 msgid ""
 "@@image: 'images/chapter9_image_097.png'; "
 "md5=a8826df4cf4d916e85909aa1eb0f1533"
@@ -747,7 +747,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1938(None)
+#: chapter8/xinclude.xml:1968(None)
 msgid ""
 "@@image: 'images/chapter9_image_098.png'; "
 "md5=5d5b6dc52a181e35f820b0bbc3c2bba5"
@@ -757,7 +757,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1955(None)
+#: chapter8/xinclude.xml:1985(None)
 msgid ""
 "@@image: 'images/chapter9_image_099.png'; "
 "md5=03fa6a9b092e5aab60c5f38f7a502a72"
@@ -767,7 +767,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1977(None)
+#: chapter8/xinclude.xml:2007(None)
 msgid ""
 "@@image: 'images/chapter9_image_101.png'; "
 "md5=336ac9505f7a4e32367033719e2d6aab"
@@ -777,7 +777,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:1995(None)
+#: chapter8/xinclude.xml:2025(None)
 msgid ""
 "@@image: 'images/chapter9_image_102.png'; "
 "md5=ad159ed7156052b5c8bc3e99c2649fb0"
@@ -787,7 +787,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2013(None)
+#: chapter8/xinclude.xml:2043(None)
 msgid ""
 "@@image: 'images/chapter9_image_103.png'; "
 "md5=f6dae6ca82171f93a968765e0ea0ad0c"
@@ -797,7 +797,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2030(None)
+#: chapter8/xinclude.xml:2060(None)
 msgid ""
 "@@image: 'images/chapter9_image_104.png'; "
 "md5=78d591d0a3c306a03b81a500eec3b4c7"
@@ -807,7 +807,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2050(None)
+#: chapter8/xinclude.xml:2080(None)
 msgid ""
 "@@image: 'images/chapter9_image_105.png'; "
 "md5=0d928ed8fb39564771a330a68a790c00"
@@ -817,7 +817,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2067(None)
+#: chapter8/xinclude.xml:2097(None)
 msgid ""
 "@@image: 'images/chapter9_image_106.png'; "
 "md5=df178f30fb266a1e7701a7c4b9fd0a5b"
@@ -827,7 +827,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2136(None)
+#: chapter8/xinclude.xml:2166(None)
 msgid ""
 "@@image: 'images/chapter9_image_107.png'; "
 "md5=97d8aca39685426d02a065e1287ff296"
@@ -837,7 +837,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2152(None)
+#: chapter8/xinclude.xml:2182(None)
 msgid ""
 "@@image: 'images/chapter9_image_108.png'; "
 "md5=c92cb29f318314344a3346a27e9afa4e"
@@ -847,7 +847,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2169(None)
+#: chapter8/xinclude.xml:2199(None)
 msgid ""
 "@@image: 'images/chapter9_image_109.png'; "
 "md5=0f649ea155c0ca57cbe2aed739ceb646"
@@ -857,7 +857,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2188(None)
+#: chapter8/xinclude.xml:2218(None)
 msgid ""
 "@@image: 'images/chapter9_image_110.png'; "
 "md5=e162449a9b5b9d3fdb55a21ce8637af2"
@@ -867,7 +867,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2210(None)
+#: chapter8/xinclude.xml:2240(None)
 msgid ""
 "@@image: 'images/chapter9_image_111.png'; "
 "md5=0d561f63ef98397a7d5d934e9d1be7d2"
@@ -877,7 +877,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2231(None)
+#: chapter8/xinclude.xml:2261(None)
 msgid ""
 "@@image: 'images/chapter9_image_112.png'; "
 "md5=725eb4ba029c9a3b65717c5785588215"
@@ -887,7 +887,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2248(None)
+#: chapter8/xinclude.xml:2278(None)
 msgid ""
 "@@image: 'images/chapter9_image_113.png'; "
 "md5=dec85d800095d443cc97a7207257d59a"
@@ -897,7 +897,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2264(None)
+#: chapter8/xinclude.xml:2294(None)
 msgid ""
 "@@image: 'images/chapter9_image_114.png'; "
 "md5=3421ea8beb518ace64e8e38bdb8de483"
@@ -907,7 +907,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2281(None)
+#: chapter8/xinclude.xml:2311(None)
 msgid ""
 "@@image: 'images/chapter9_image_115.png'; "
 "md5=9d1d282de3d4c57fd271f9e1586c991f"
@@ -917,7 +917,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter8/xinclude.xml:2296(None)
+#: chapter8/xinclude.xml:2326(None)
 msgid ""
 "@@image: 'images/chapter9_image_116.png'; "
 "md5=9ce9b8f5839e715a54cb665864a86530"
@@ -941,9 +941,9 @@ msgstr "本节课中，您将学到："
 msgid "Play, edit and organize music and video files."
 msgstr "播放、编辑和组织音乐视频文件。"
 
-#: chapter8/xinclude.xml:15(title) chapter8/xinclude.xml:109(title)
-#: chapter8/xinclude.xml:382(title) chapter8/xinclude.xml:454(title)
-#: chapter8/xinclude.xml:1589(title)
+#: chapter8/xinclude.xml:15(title) chapter8/xinclude.xml:139(title)
+#: chapter8/xinclude.xml:412(title) chapter8/xinclude.xml:484(title)
+#: chapter8/xinclude.xml:1619(title)
 msgid "Instructor Notes:"
 msgstr "教员注记："
 
@@ -965,7 +965,7 @@ msgstr "播放音频文件"
 msgid "Viewing DVDs"
 msgstr "观看 DVD"
 
-#: chapter8/xinclude.xml:27(emphasis) chapter8/xinclude.xml:1738(title)
+#: chapter8/xinclude.xml:27(emphasis) chapter8/xinclude.xml:1768(title)
 msgid "Playing Online Media"
 msgstr "在线媒体播放"
 
@@ -1010,10 +1010,52 @@ msgid "Playing Multimedia Formats"
 msgstr "播放多媒体音视频"
 
 #: chapter8/xinclude.xml:55(para)
-msgid "Statement about free multimedia formats."
+msgid "There are several open multimedia formate or containers:"
 msgstr ""
 
-#: chapter8/xinclude.xml:57(para)
+#: chapter8/xinclude.xml:58(para)
+msgid "FLAC: a lossless audio codec"
+msgstr ""
+
+#: chapter8/xinclude.xml:61(para)
+msgid ""
+"Matroska (mkv): a container for all type of multimedia formats (audio, "
+"video, images, subtitles)"
+msgstr ""
+
+#: chapter8/xinclude.xml:64(para)
+msgid ""
+"Ogg: a container for Vorbis, FLAC, Speex (audio formats) and Theora (a video "
+"format)"
+msgstr ""
+
+#: chapter8/xinclude.xml:67(para)
+msgid "Vorbis: a lossy audio formate."
+msgstr ""
+
+#: chapter8/xinclude.xml:70(para)
+msgid "Theora: a free lossy video compression format."
+msgstr ""
+
+#: chapter8/xinclude.xml:73(para) chapter8/xinclude.xml:76(para)
+msgid "VP8: an open video compression format owned by Google"
+msgstr ""
+
+#: chapter8/xinclude.xml:79(para)
+msgid ""
+"WebM: a video format designed to provide royalty free high quality video "
+"compression in an open format for use with HTML5 video.A WebM file consists "
+"of VP8 video and Vorbis audio streams, in a container based on a profile of "
+"Matroska."
+msgstr ""
+
+#: chapter8/xinclude.xml:84(para)
+msgid ""
+"For more information,please see:<ulink url=\"http://zh.wikipedia.org/"
+"Open_format\">Open format</ulink>"
+msgstr ""
+
+#: chapter8/xinclude.xml:87(para)
 msgid ""
 "As previously stated, due to the legal restrictions associated with the use "
 "of proprietary formats, Ubuntu does not offer support for such formats by "
@@ -1029,7 +1071,7 @@ msgstr ""
 "它使您可以用特定的格式观看视频或欣赏音乐。虽然 Ubuntu 默认包含很了多解码器，"
 "但您可能还是需要安装其他解码器，毕竟文件格式之多，对其全部支持是不现实的。"
 
-#: chapter8/xinclude.xml:66(para)
+#: chapter8/xinclude.xml:96(para)
 msgid ""
 "Playback of multimedia files in Ubuntu is handled by the Gstreamer "
 "multimedia framework. GStreamer by itself does not provide any multimedia "
@@ -1045,20 +1087,20 @@ msgstr ""
 "装“ubuntu-restricted-extras”包。它也包含很多其它的受限软件，它们可能需要许可"
 "证。"
 
-#: chapter8/xinclude.xml:73(para)
+#: chapter8/xinclude.xml:103(para)
 msgid ""
 "Other applications, such as VLC, MPlayer and Xine, do not use the Gstreamer "
 "framework."
 msgstr " 也有些应用程序不使用 Gstreamer 框架，如 VLC、MPlayer、Xine 等。"
 
-#: chapter8/xinclude.xml:76(para)
+#: chapter8/xinclude.xml:106(para)
 msgid ""
-"Expert for the default Totem for playing videos and rhythmbox for music,you "
+"Except for the default Totem for playing videos and rhythmbox for music,you "
 "have lots of other choice,such as many user like using smplayer,which is a "
 "QT-based frontend of mplayer,and Audacious to play music."
 msgstr ""
 
-#: chapter8/xinclude.xml:80(para)
+#: chapter8/xinclude.xml:110(para)
 msgid ""
 "You can use the Synaptic Package Manager, or the Command Line Interface "
 "(CLI) to install these multimedia codecs available in the repositories."
@@ -1066,12 +1108,12 @@ msgstr ""
 "可以使用新立得软件包管理器或者命令行界面来安装那些可以从软件仓库中获得的多媒"
 "体解码器。"
 
-#: chapter8/xinclude.xml:85(title) chapter8/xinclude.xml:196(title)
-#: chapter8/xinclude.xml:678(title) chapter8/xinclude.xml:1809(title)
+#: chapter8/xinclude.xml:115(title) chapter8/xinclude.xml:226(title)
+#: chapter8/xinclude.xml:708(title) chapter8/xinclude.xml:1839(title)
 msgid "Nice to Know:"
 msgstr "小提示："
 
-#: chapter8/xinclude.xml:87(para)
+#: chapter8/xinclude.xml:117(para)
 msgid ""
 "Codecs can be installed directly from the Movie Player. When Movie Player "
 "recognizes a format it cannot play, it checks if a Gstreamer plugin is "
@@ -1082,12 +1124,12 @@ msgstr ""
 "动检查是否有对应的 Gstreamer 插件。如果有，可以直接安装而不用按照下边给出的冗"
 "长的解决方案。"
 
-#: chapter8/xinclude.xml:97(title)
+#: chapter8/xinclude.xml:127(title)
 #, fuzzy
 msgid "Playing and Managing Music Files"
 msgstr "播放音乐文件"
 
-#: chapter8/xinclude.xml:99(para)
+#: chapter8/xinclude.xml:129(para)
 msgid ""
 "Ubuntu comes with the Rhythmbox Music Player to play and organise music "
 "files. Similar to iTunes in its interface, this music player is a free "
@@ -1102,7 +1144,7 @@ msgstr ""
 "播放音乐文件，收听网络电台，或者从 CD 中导入并组织音乐文件。Rhythmbox 提供对"
 "大量音频格式的支持，它还包含了很多有用的功能，使播放音乐变得更简单和愉快。"
 
-#: chapter8/xinclude.xml:111(para)
+#: chapter8/xinclude.xml:141(para)
 msgid ""
 "You need to demonstrate and let the students play fully with at least 1 "
 "music, 1 DVD playback and 1 audio recording."
@@ -1110,16 +1152,16 @@ msgstr ""
 "这里需要演示播放音乐、DVD 和音频录音，学生应该跟着完整操作至少一首音乐、一张 "
 "DVD 和一条录音。"
 
-#: chapter8/xinclude.xml:116(title)
+#: chapter8/xinclude.xml:146(title)
 #, fuzzy
 msgid "Playing and Managing Music using Rhythmbox"
 msgstr "使用 Rhythmbox 播放音乐"
 
-#: chapter8/xinclude.xml:119(title)
+#: chapter8/xinclude.xml:149(title)
 msgid "To play music using Rhythmbox:"
 msgstr "使用 Rhythmbox 播放音乐："
 
-#: chapter8/xinclude.xml:122(para)
+#: chapter8/xinclude.xml:152(para)
 msgid ""
 "On the <emphasis role=\"strong\">Application</emphasis> menu, point to "
 "<emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click "
@@ -1130,22 +1172,22 @@ msgstr ""
 "\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Rhythmbox 音乐播放"
 "器</emphasis>。将显示一个欢迎界面。"
 
-#: chapter8/xinclude.xml:128(title)
+#: chapter8/xinclude.xml:158(title)
 msgid "Launching Rhythmbox"
 msgstr "启动 Rhythmbox"
 
-#: chapter8/xinclude.xml:139(para)
+#: chapter8/xinclude.xml:169(para)
 msgid ""
 "The main window of the Rhythmbox Music Player opens. Now, you will be able "
 "to organise your favourite music using this window."
 msgstr ""
 "于是打开了 Rhythmbox 音乐播放器主窗口。您将使用这个窗口组织您的喜爱的音乐。"
 
-#: chapter8/xinclude.xml:144(title)
+#: chapter8/xinclude.xml:174(title)
 msgid "The Rhythmbox Music Player"
 msgstr "Rhythmbox 音乐播放器"
 
-#: chapter8/xinclude.xml:155(para)
+#: chapter8/xinclude.xml:185(para)
 msgid ""
 "To start playing music in Rhythmbox, you need to first select the music "
 "source from the <emphasis role=\"strong\">Source</emphasis> list. By default "
@@ -1156,7 +1198,7 @@ msgstr ""
 "列表中选择音乐源。首次打开 Rhythmbox 时，<emphasis role=\"strong\">音乐库</"
 "emphasis> 将被默认选中作为源。"
 
-#: chapter8/xinclude.xml:161(para)
+#: chapter8/xinclude.xml:191(para)
 msgid ""
 "Library is the main source available in Rhythmbox. You can import all your "
 "music files into the Rhythmbox library and can start playing immediately. "
@@ -1172,11 +1214,11 @@ msgstr ""
 "<emphasis role=\"strong\">导入文件</emphasis>按钮。将弹出 <emphasis role="
 "\"strong\">将文件导入到音乐库</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:169(title)
+#: chapter8/xinclude.xml:199(title)
 msgid "Importing Music Files"
 msgstr "导入音乐文件"
 
-#: chapter8/xinclude.xml:180(para)
+#: chapter8/xinclude.xml:210(para)
 msgid ""
 "In the <emphasis role=\"strong\">Import File into Library</emphasis> "
 "dialogue box, navigate to the folder from which you want to import the "
@@ -1187,11 +1229,11 @@ msgstr ""
 "入文件所在的文件夹，选中并点击 <emphasis role=\"strong\">打开</emphasis> 按"
 "钮。"
 
-#: chapter8/xinclude.xml:186(title) chapter8/xinclude.xml:1130(title)
+#: chapter8/xinclude.xml:216(title) chapter8/xinclude.xml:1160(title)
 msgid "Selecting the Files to Import"
 msgstr "选择要导入的文件"
 
-#: chapter8/xinclude.xml:198(para)
+#: chapter8/xinclude.xml:228(para)
 msgid ""
 "While importing music files from your music collection, Rhythmbox also "
 "imports the metadata tags associated with the files. These tags are used by "
@@ -1202,7 +1244,7 @@ msgstr ""
 "Rhythmbox 用于对音乐文件进行分类，包括流派(genre)、艺人(artist)、专辑"
 "(album)、标题(title)和音轨号(track number)等。"
 
-#: chapter8/xinclude.xml:206(para)
+#: chapter8/xinclude.xml:236(para)
 msgid ""
 "The selected music files are imported into the library and displayed in the "
 "the Rhythmbox window. You will notice that the main Rhythmbox window is "
@@ -1220,11 +1262,11 @@ msgstr ""
 "<emphasis role=\"strong\">曲目</emphasis> 嵌板选择要播放的音乐曲目然后使用播"
 "放控制开始播放。"
 
-#: chapter8/xinclude.xml:218(title)
+#: chapter8/xinclude.xml:248(title)
 msgid "The Rhythmbox Window"
 msgstr "Rhythmbox 窗口"
 
-#: chapter8/xinclude.xml:229(para)
+#: chapter8/xinclude.xml:259(para)
 msgid ""
 "If you click the <emphasis role=\"strong\">Play</emphasis> button without "
 "selecting any track, Rhythmbox will start playing the first track from your "
@@ -1240,11 +1282,11 @@ msgstr ""
 "role=\"strong\">添加到播放列表</emphasis> 将曲目添加到播放列表。当再次点击 "
 "<emphasis role=\"strong\">播放</emphasis> 按钮则将停止或暂停播放。"
 
-#: chapter8/xinclude.xml:237(title)
+#: chapter8/xinclude.xml:267(title)
 msgid "Creating New Playlist"
 msgstr "新建播放列表"
 
-#: chapter8/xinclude.xml:248(para)
+#: chapter8/xinclude.xml:278(para)
 msgid ""
 "Rhythmbox offers many additional useful features in the form of various "
 "plugins. Some of these plugins are not turned on by default. To access these "
@@ -1257,11 +1299,11 @@ msgstr ""
 "role=\"strong\">插件</emphasis>，打开 <emphasis role=\"strong\">配置插件</"
 "emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:254(title)
+#: chapter8/xinclude.xml:284(title)
 msgid "Accessing Plugins"
 msgstr "安装插件"
 
-#: chapter8/xinclude.xml:265(para)
+#: chapter8/xinclude.xml:295(para)
 msgid ""
 "You can view all the available plugins in the left pane of the <emphasis "
 "role=\"strong\">Configure Plugins</emphasis> dialogue box. Selecting a "
@@ -1270,7 +1312,7 @@ msgstr ""
 "您可以从 <emphasis role=\"strong\">配置插件</emphasis> 对话框的左嵌板内查看所"
 "有可用插件。选中一个插件在对话框右嵌板内将显示其对应细节。"
 
-#: chapter8/xinclude.xml:273(para)
+#: chapter8/xinclude.xml:303(para)
 msgid ""
 "Depending on your requirements and preferences, you can activate these "
 "plugins to get extra functionality in your Rhythmbox. For example, the "
@@ -1292,11 +1334,11 @@ msgstr ""
 "件。点击 <emphasis role=\"strong\">关闭</emphasis> 按钮退出 <emphasis role="
 "\"strong\">配置插件</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:285(title)
+#: chapter8/xinclude.xml:315(title)
 msgid "Activating Plugins"
 msgstr "激活插件"
 
-#: chapter8/xinclude.xml:296(para)
+#: chapter8/xinclude.xml:326(para)
 msgid ""
 "You are returned to the main Rhythmbox interface. To start retrieving the "
 "song lyrics, on the <emphasis role=\"strong\">View</emphasis> menu, click "
@@ -1305,21 +1347,21 @@ msgstr ""
 "此时回到了 Rhythmbox 主界面。要检索歌词，可在 <emphasis role=\"strong\">编辑"
 "</emphasis> 菜单下点击 <emphasis role=\"strong\">歌词</emphasis> 项。"
 
-#: chapter8/xinclude.xml:300(title)
+#: chapter8/xinclude.xml:330(title)
 msgid "Retrieving Song Lyrics"
 msgstr "检索歌词"
 
-#: chapter8/xinclude.xml:311(para)
+#: chapter8/xinclude.xml:341(para)
 msgid ""
 "Amazingly, Rhythmbox retrieves the song lyrics for you. Now, you can sing "
 "along while listening to your favourite song."
 msgstr "Rhythmbox 可以提供实时歌词。您可以在听歌时跟唱了。"
 
-#: chapter8/xinclude.xml:315(title)
+#: chapter8/xinclude.xml:345(title)
 msgid "The Song Lyrics Retrieved"
 msgstr "已检索到歌词"
 
-#: chapter8/xinclude.xml:326(para)
+#: chapter8/xinclude.xml:356(para)
 msgid ""
 "Similarly, if you wish to view animations while listening to a song, click "
 "the <emphasis role=\"strong\"> Visualization</emphasis> button."
@@ -1327,25 +1369,25 @@ msgstr ""
 "类似地，如果想听歌的同时观看视觉效果，可点击 <emphasis role=\"strong\">可视化"
 "</emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:331(title)
+#: chapter8/xinclude.xml:361(title)
 msgid "Activating Visualisation"
 msgstr "激活可视化"
 
-#: chapter8/xinclude.xml:342(para)
+#: chapter8/xinclude.xml:372(para)
 msgid "You can view animations while playing a song."
 msgstr "可在听歌的同时播放视觉效果。"
 
-#: chapter8/xinclude.xml:345(title)
+#: chapter8/xinclude.xml:375(title)
 msgid "Viewing Animations"
 msgstr "观看视觉效果"
 
-#: chapter8/xinclude.xml:356(para)
+#: chapter8/xinclude.xml:386(para)
 msgid ""
 "Rhythmbox also enables you to listen to music from a variety of sources, "
 "such as Internet radio stations and podcasts."
 msgstr "Rhythmbox 也支持通过其他来源收听音乐，如网络电台和播客等。"
 
-#: chapter8/xinclude.xml:359(para) chapter8/xinclude.xml:2589(para)
+#: chapter8/xinclude.xml:389(para) chapter8/xinclude.xml:2619(para)
 msgid ""
 "To play music from a podcast of your choice, right-click the <emphasis role="
 "\"strong\">Podcast</emphasis> option in the <emphasis role=\"strong"
@@ -1356,18 +1398,18 @@ msgstr ""
 "<emphasis role=\"strong\">播客</emphasis> 选项上点击右键，选择 <emphasis "
 "role=\"strong\">新建播客订阅</emphasis> 项。"
 
-#: chapter8/xinclude.xml:363(title)
+#: chapter8/xinclude.xml:393(title)
 msgid "Adding New Podcast Feed"
 msgstr "添加新播客订阅"
 
-#: chapter8/xinclude.xml:373(title) chapter8/xinclude.xml:535(title)
-#: chapter8/xinclude.xml:582(title) chapter8/xinclude.xml:1389(title)
-#: chapter8/xinclude.xml:1638(title) chapter8/xinclude.xml:1839(title)
+#: chapter8/xinclude.xml:403(title) chapter8/xinclude.xml:565(title)
+#: chapter8/xinclude.xml:612(title) chapter8/xinclude.xml:1419(title)
+#: chapter8/xinclude.xml:1668(title) chapter8/xinclude.xml:1869(title)
 msgid "Note:"
 msgstr "注："
 
 # mohu
-#: chapter8/xinclude.xml:375(para)
+#: chapter8/xinclude.xml:405(para)
 msgid ""
 "Podcasts are audio shows broadcast over the Internet that you can subscribe "
 "to. Subscribing to a podcast enables you to download each new audio release "
@@ -1376,7 +1418,7 @@ msgstr ""
 "播客是通过订阅在 Internet 播放音频文件的网站。您可以从所订阅的播客源下载多媒"
 "体文件的新版本。"
 
-#: chapter8/xinclude.xml:384(para)
+#: chapter8/xinclude.xml:414(para)
 msgid ""
 "If the students want to know more about podcasts, advise them to read the "
 "Wikipedia article on podcasting: <ulink url=\"http://en.wikipedia.org/wiki/"
@@ -1386,7 +1428,7 @@ msgstr ""
 "\"http://zh.wikipedia.org/zh-cn/播客\">http://zh.wikipedia.org/zh-cn/播客</"
 "ulink>。"
 
-#: chapter8/xinclude.xml:390(para)
+#: chapter8/xinclude.xml:420(para)
 msgid ""
 "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast "
 "Feed</emphasis> text box and click <emphasis role=\"strong\">Add</emphasis>."
@@ -1394,11 +1436,11 @@ msgstr ""
 "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框中输入所订阅播客的 "
 "URL，点击 <emphasis role=\"strong\">添加</emphasis>。"
 
-#: chapter8/xinclude.xml:394(title)
+#: chapter8/xinclude.xml:424(title)
 msgid "Entering Podcast Feed URL"
 msgstr "输入播客订阅 URL"
 
-#: chapter8/xinclude.xml:405(para)
+#: chapter8/xinclude.xml:435(para)
 msgid ""
 "Rhythmbox automatically looks for the latest podcasts and downloads them for "
 "you. To play a podcast episode, select the episode that you want to play and "
@@ -1407,11 +1449,11 @@ msgstr ""
 "Rhythmbox 自动查看并下载最新的播客。选择要播放的曲目并点击 <emphasis role="
 "\"strong\">播放</emphasis> 按钮进行播放。"
 
-#: chapter8/xinclude.xml:410(title)
+#: chapter8/xinclude.xml:440(title)
 msgid "Playing a Podcast"
 msgstr "播放一个播客"
 
-#: chapter8/xinclude.xml:421(para)
+#: chapter8/xinclude.xml:451(para)
 msgid ""
 "Rhythmbox also allows you to listen to radio streamed from Internet radio "
 "stations across the world. To listen to Internet radio, click the <emphasis "
@@ -1422,11 +1464,11 @@ msgstr ""
 "role=\"strong\">源</emphasis> 嵌板点击 <emphasis role=\"strong\">电台</"
 "emphasis> 选项。"
 
-#: chapter8/xinclude.xml:427(title)
+#: chapter8/xinclude.xml:457(title)
 msgid "Playing Internet Radio"
 msgstr "播放网络电台"
 
-#: chapter8/xinclude.xml:438(para)
+#: chapter8/xinclude.xml:468(para)
 msgid ""
 "By default the <emphasis role=\"strong\">Radio</emphasis> source lists "
 "several radio stations, each of them broadcasting a different genre of "
@@ -1436,11 +1478,11 @@ msgstr ""
 "默认情况下，<emphasis role=\"strong\">电台</emphasis> 源列出了多个广播电台，"
 "每个电台播放不同流派的音乐。双击该电台播放广播。"
 
-#: chapter8/xinclude.xml:444(title)
+#: chapter8/xinclude.xml:474(title)
 msgid "Listening to a Radio Station"
 msgstr "收听广播电台"
 
-#: chapter8/xinclude.xml:456(para)
+#: chapter8/xinclude.xml:486(para)
 msgid ""
 "Advise students to read the Wikipedia article on Internet Radio if they want "
 "more background information: <ulink url=\"http://en.wikipedia.org/wiki/"
@@ -1450,7 +1492,7 @@ msgstr ""
 "wikipedia.org/zh-cn/网络电台\">http://zh.wikipedia.org/zh-cn/网络电台</"
 "ulink>。"
 
-#: chapter8/xinclude.xml:462(para)
+#: chapter8/xinclude.xml:492(para)
 msgid ""
 "You can also add a new radio station to the existing list by clicking "
 "<emphasis role=\"strong\">New Internet Radio Station</emphasis> and pasting "
@@ -1462,41 +1504,41 @@ msgstr ""
 "<emphasis role=\"strong\">Internet 电台的 URL</emphasis> 文本框粘贴新电台的 "
 "URL 将新电台添加到当前列表。"
 
-#: chapter8/xinclude.xml:470(title)
+#: chapter8/xinclude.xml:500(title)
 msgid "Adding New Radio Station"
 msgstr "添加新广播台"
 
-#: chapter8/xinclude.xml:481(para) chapter8/xinclude.xml:2626(para)
+#: chapter8/xinclude.xml:511(para) chapter8/xinclude.xml:2656(para)
 msgid ""
 "You can add many more Internet radio stations in the same way and listen to "
 "your favourite radio stations with just a click of your mouse."
 msgstr "通过同样的方法添加其他网络电台，轻点鼠标便可收听您喜爱的电台。"
 
-#: chapter8/xinclude.xml:488(title)
+#: chapter8/xinclude.xml:518(title)
 msgid "To manage your iPod using Rhythmbox:"
 msgstr "使用 Rhythmbox 管理 iPod："
 
-#: chapter8/xinclude.xml:490(para)
+#: chapter8/xinclude.xml:520(para)
 msgid "Enable the plugin: portable player - iPod."
 msgstr ""
 
-#: chapter8/xinclude.xml:494(para)
+#: chapter8/xinclude.xml:524(para)
 msgid ""
 "Plug your iPod to your computer.In <emphasis role=\"strong\">Devices</"
 "emphasis> pane, you can see your iPod."
 msgstr ""
 
-#: chapter8/xinclude.xml:495(para)
+#: chapter8/xinclude.xml:525(para)
 msgid ""
 "Now you can play the musics in your iPod,and you can send the music to iPod "
 "by drag and drop,or from iPod to PC."
 msgstr ""
 
-#: chapter8/xinclude.xml:502(title)
+#: chapter8/xinclude.xml:532(title)
 msgid "Playing and Extracting Audio CDs"
 msgstr "提取和播放 CD "
 
-#: chapter8/xinclude.xml:512(para)
+#: chapter8/xinclude.xml:542(para)
 msgid ""
 "Ogg Vorbis: Ogg vorbis is a free, unpatented and open source alternative to "
 "the proprietary MP3 format. Like the MP3 format, it discards parts of the "
@@ -1507,7 +1549,7 @@ msgstr ""
 "式。和 MP3 格式一样，它忽略了人们不敏感的某些频率成分。同样的内容，Ogg "
 "Vorbis 文件文件的大小只有 WAV 文件的十分之一。"
 
-#: chapter8/xinclude.xml:520(para)
+#: chapter8/xinclude.xml:550(para)
 msgid ""
 "FLAC: FLAC stands for Free Lossless Audio Codec. It is an unpatented, open "
 "source audio format. Unlike MP3 or Ogg Vorbis, FLAC compresses audio without "
@@ -1518,7 +1560,7 @@ msgstr ""
 "和 Ogg Vorbis 不同，FLAC 属于无损压缩。同样的内容，FLAC 文件大小通常是 WAV 的"
 "一半。"
 
-#: chapter8/xinclude.xml:528(para)
+#: chapter8/xinclude.xml:558(para)
 msgid ""
 "WAV: WAV is short for Waveform Audio Format. It is an uncompressed format "
 "typically used for short snippets of sound and voice recordings."
@@ -1527,7 +1569,7 @@ msgstr ""
 "用于声音和语音记录的短片段。"
 
 # 根据9.10进行了更改
-#: chapter8/xinclude.xml:504(para)
+#: chapter8/xinclude.xml:534(para)
 msgid ""
 "Sound Juicer is the default application available in Ubuntu for playing and "
 "extracting audio compact discs (CDs). It is an easy-to-use CD player and "
@@ -1544,15 +1586,15 @@ msgstr ""
 "使用 Rhythmbox 音乐播放器提取音频光盘。音乐榨汁机允许您以如下三种格式提取音频"
 "文件：<placeholder-1/> "
 
-#: chapter8/xinclude.xml:540(ulink)
+#: chapter8/xinclude.xml:570(ulink)
 msgid "http://www.vorbis.com/faq/"
 msgstr "http://www.vorbis.com/faq/"
 
-#: chapter8/xinclude.xml:544(ulink)
+#: chapter8/xinclude.xml:574(ulink)
 msgid "http://flac.sourceforge.net/"
 msgstr "http://flac.sourceforge.net/"
 
-#: chapter8/xinclude.xml:537(para)
+#: chapter8/xinclude.xml:567(para)
 msgid ""
 "To know more about Ogg Vorbis and FLAC audio format, visit the following Web "
 "sites: <placeholder-1/>"
@@ -1560,15 +1602,15 @@ msgstr ""
 "要了解关于 Ogg Vorbis 和 FLAC 音频格式的更多信息，访问如下网站：<placeholder-"
 "1/>"
 
-#: chapter8/xinclude.xml:550(title)
+#: chapter8/xinclude.xml:580(title)
 msgid "Playing Audio CDs"
 msgstr "播放音频 CD"
 
-#: chapter8/xinclude.xml:553(title)
+#: chapter8/xinclude.xml:583(title)
 msgid "To play audio CDs using Sound Juicer"
 msgstr "使用音乐榨汁机播放音频 CD。"
 
-#: chapter8/xinclude.xml:556(para)
+#: chapter8/xinclude.xml:586(para)
 msgid ""
 "Insert an audio CD in the CD drive of your computer. The Sound Juicer CD "
 "player and ripper is launched automatically. To start Sound Juicer manually, "
@@ -1581,11 +1623,11 @@ msgstr ""
 "<emphasis role=\"strong\">影音</emphasis> 项下的 <emphasis role=\"strong\">音"
 "频 CD 榨汁机</emphasis>。"
 
-#: chapter8/xinclude.xml:561(title)
+#: chapter8/xinclude.xml:591(title)
 msgid "Launching Sound Juicer"
 msgstr "启动音乐榨汁机"
 
-#: chapter8/xinclude.xml:572(para)
+#: chapter8/xinclude.xml:602(para)
 msgid ""
 "Sound Juicer's main interface is displayed. When Sound Juicer detects a CD, "
 "it examines the CD and tries to search the Internet to locate information "
@@ -1596,7 +1638,7 @@ msgstr ""
 "以定位关于此 CD 内容的信息。如果您您连接到了互联网，音乐榨汁机将从 "
 "MusicBrainz.org 检索 CD 艺人、标题和曲目等信息。"
 
-#: chapter8/xinclude.xml:578(para)
+#: chapter8/xinclude.xml:608(para)
 msgid ""
 "To play all the tracks sequentially, you can simply click the <emphasis role="
 "\"strong\">Play</emphasis> button."
@@ -1604,7 +1646,7 @@ msgstr ""
 "要顺序的播放所有曲目，只需点击 <emphasis role=\"strong\">播放</emphasis> 按"
 "钮。"
 
-#: chapter8/xinclude.xml:584(para)
+#: chapter8/xinclude.xml:614(para)
 msgid ""
 "MusicBrainz.org is a community-maintained online database, which contains "
 "data on over 360,000 published albums."
@@ -1612,11 +1654,11 @@ msgstr ""
 "MusicBrainz.org 是一个由社区维护的在线数据库，包含了 360,000 多个已发行的专辑"
 "的数据信息。"
 
-#: chapter8/xinclude.xml:589(title)
+#: chapter8/xinclude.xml:619(title)
 msgid "Playing Audio CD"
 msgstr "播放音频 CD"
 
-#: chapter8/xinclude.xml:598(para)
+#: chapter8/xinclude.xml:628(para)
 msgid ""
 "Notice that Sound Juicer has fetched the track information from MusicBrainz."
 "org. In the upper part of the Sound Juicer window, you can see the basic "
@@ -1628,7 +1670,7 @@ msgstr ""
 "部查看此光盘的基本信息，包括标题、艺人、流派和总时长等。窗口的下部显示曲目列"
 "表，包含了音轨、歌名、艺人和时间。"
 
-#: chapter8/xinclude.xml:607(para)
+#: chapter8/xinclude.xml:637(para)
 msgid ""
 "To play only the tracks of your choice, select the particular tracks by "
 "selecting the corresponding checkboxes and then click the <emphasis role="
@@ -1637,23 +1679,23 @@ msgstr ""
 "要仅播放选定的曲目，可通过勾取对应的复选框来选定曲目，然后点击 <emphasis "
 "role=\"strong\">播放</emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:612(title)
+#: chapter8/xinclude.xml:642(title)
 msgid "Selecting the Song tracks"
 msgstr "选择歌曲音轨"
 
-#: chapter8/xinclude.xml:623(para)
+#: chapter8/xinclude.xml:653(para)
 msgid "You can now enjoy listening to your favourite music tracks."
 msgstr "现在可以享受您喜欢的音乐了。"
 
-#: chapter8/xinclude.xml:627(title)
+#: chapter8/xinclude.xml:657(title)
 msgid "Playing the Selected Tracks"
 msgstr "播放选中的音轨"
 
-#: chapter8/xinclude.xml:640(title)
+#: chapter8/xinclude.xml:670(title)
 msgid "Extracting Audio CDs"
 msgstr "提取音频 CD"
 
-#: chapter8/xinclude.xml:642(para)
+#: chapter8/xinclude.xml:672(para)
 msgid ""
 "If you want to listen to your favourite music tracks without needing to "
 "insert a CD every time, you can create a copy of the CD and extract the "
@@ -1662,11 +1704,11 @@ msgstr ""
 "如果想欣赏喜欢的曲目而不用每次都插入 CD，可以创建 CD 的一个副本并提取曲目到计"
 "算机。"
 
-#: chapter8/xinclude.xml:647(title)
+#: chapter8/xinclude.xml:677(title)
 msgid "To extract the audio CD:"
 msgstr "提取音频 CD："
 
-#: chapter8/xinclude.xml:650(para)
+#: chapter8/xinclude.xml:680(para)
 msgid ""
 "Insert the audio CD and click the <emphasis role=\"strong\">Extract</"
 "emphasis> button. However, if you want to define the audio quality, format "
@@ -1680,11 +1722,11 @@ msgstr ""
 "emphasis> 菜单上的 <emphasis role=\"strong\">首选项</emphasis> 按钮。将弹出 "
 "<emphasis role=\"strong\">首选项</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:655(title)
+#: chapter8/xinclude.xml:685(title)
 msgid "Defining Preferences For Audio Files"
 msgstr "为音频文件设定参数"
 
-#: chapter8/xinclude.xml:666(para)
+#: chapter8/xinclude.xml:696(para)
 msgid ""
 "You can use the <emphasis role=\"strong\">Preferences</emphasis> dialogue "
 "box to define a number of things such as how the folder hierarchy should be "
@@ -1694,7 +1736,7 @@ msgstr ""
 "可以使用 <emphasis role=\"strong\">首选项</emphasis> 对话框定义一些属性，如以"
 "什么样的文件夹层次保存文件，文件如何命名以及提取曲目后是否自动弹出 CD 等。"
 
-#: chapter8/xinclude.xml:671(para)
+#: chapter8/xinclude.xml:701(para)
 msgid ""
 "In the last section of the <emphasis role=\"strong\">Preferences</emphasis> "
 "dialogue box, you can define the file format in which the tracks would be "
@@ -1705,7 +1747,7 @@ msgstr ""
 "曲目以何种文件格式保存到计算机上。从 <emphasis role=\"strong\">输出格式</"
 "emphasis> 下拉菜单中选择所需格式。"
 
-#: chapter8/xinclude.xml:680(para)
+#: chapter8/xinclude.xml:710(para)
 msgid ""
 "You can also extract CD audio files to the proprietary, non-free MP3 format. "
 "Instructions for extracting audio files into the MP3 format can be found in "
@@ -1716,11 +1758,11 @@ msgstr ""
 "文档中找到。转到 <emphasis role=\"strong\">帮助&gt;内容</emphasis> 然后导航到"
 "首选项节。"
 
-#: chapter8/xinclude.xml:688(title)
+#: chapter8/xinclude.xml:718(title)
 msgid "Specifying Audio Format"
 msgstr "指定音频格式"
 
-#: chapter8/xinclude.xml:699(para)
+#: chapter8/xinclude.xml:729(para)
 msgid ""
 "Each of these file format has its own customisable profile. Depending on the "
 "type of the music track and the destination where it has to be stored, you "
@@ -1734,11 +1776,11 @@ msgstr ""
 "后选择需要配置的文件并点击 <emphasis role=\"strong\">编辑</emphasis> ，根据需"
 "要编辑该配置文件。"
 
-#: chapter8/xinclude.xml:707(title)
+#: chapter8/xinclude.xml:737(title)
 msgid "Editing Audio Profile"
 msgstr "编辑音频配置文件"
 
-#: chapter8/xinclude.xml:718(para)
+#: chapter8/xinclude.xml:748(para)
 msgid ""
 "The <emphasis role=\"strong\">Editing profile</emphasis> dialogue box for "
 "the selected audio profile is displayed. You can edit the audio profile "
@@ -1749,11 +1791,11 @@ msgstr ""
 "以根据需要编辑音频配置文件并点击 <emphasis role=\"strong\">关闭</emphasis> 退"
 "出。"
 
-#: chapter8/xinclude.xml:724(title)
+#: chapter8/xinclude.xml:754(title)
 msgid "Customising Audio Profile"
 msgstr "自定义音频配置文件"
 
-#: chapter8/xinclude.xml:735(para)
+#: chapter8/xinclude.xml:765(para)
 msgid ""
 "You can also use the <emphasis role=\"strong\">Preferences</emphasis> "
 "dialogue box to define the location where you want the audio files to be "
@@ -1769,11 +1811,11 @@ msgstr ""
 "<emphasis role=\"strong\">关闭</emphasis> 按钮退出 <emphasis role=\"strong\">"
 "首选项</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:745(title)
+#: chapter8/xinclude.xml:775(title)
 msgid "Specifying Audio File Location"
 msgstr "指定音频文件位置"
 
-#: chapter8/xinclude.xml:756(para)
+#: chapter8/xinclude.xml:786(para)
 msgid ""
 "After configuring your preferences, you can go ahead and start extracting "
 "all the tracks by clicking the <emphasis role=\"strong\">Extract</emphasis> "
@@ -1783,7 +1825,7 @@ msgstr ""
 "设置了首选项之后，点击 <emphasis role=\"strong\">抓取</emphasis> 按钮开始抓取"
 "所有曲目。如果希望排除一些曲目，可通过清除对应的复选框取消。"
 
-#: chapter8/xinclude.xml:761(para)
+#: chapter8/xinclude.xml:791(para)
 msgid ""
 "Depending on the speed of your computer, the extracting process can take a "
 "long time. You can watch the total progress of the process in the lower left "
@@ -1792,26 +1834,26 @@ msgstr ""
 "提取过程所需的时间依赖于您计算机的速度。可以在 <emphasis role=\"strong\">音乐"
 "榨汁机</emphasis> 窗口左下方看到整个过程的进度。"
 
-#: chapter8/xinclude.xml:766(title)
+#: chapter8/xinclude.xml:796(title)
 msgid "Extracting Song Tracks"
 msgstr "提取歌曲曲目"
 
-#: chapter8/xinclude.xml:777(para) chapter8/xinclude.xml:2722(para)
+#: chapter8/xinclude.xml:807(para) chapter8/xinclude.xml:2752(para)
 msgid ""
 "The CD audio tracks are now copied as audio files on your hard disk. You can "
 "listen to these tracks by simply double-clicking them."
 msgstr ""
 "刻录完成后，CD 音频曲目现在复制为了硬盘上的音频文件。通过双击曲目便可播放。"
 
-#: chapter8/xinclude.xml:782(title)
+#: chapter8/xinclude.xml:812(title)
 msgid "The Copied Tracks"
 msgstr "复制的曲目"
 
-#: chapter8/xinclude.xml:796(title)
+#: chapter8/xinclude.xml:826(title)
 msgid "Burning Audio CDs"
 msgstr "刻录音频 CD"
 
-#: chapter8/xinclude.xml:798(para)
+#: chapter8/xinclude.xml:828(para)
 msgid ""
 "Besides copying audio tracks from a CD to your computer, Ubuntu also enables "
 "you to copy music files from your computer onto a CD or DVD. Brasero is the "
@@ -1823,11 +1865,11 @@ msgstr ""
 "Brasero 是 Ubuntu 默认安装的光盘刻录程序。它是一个易用的程序，支持数据光盘创"
 "建、光盘复制和刻录已有镜像到光盘。"
 
-#: chapter8/xinclude.xml:805(title) chapter8/xinclude.xml:2739(title)
+#: chapter8/xinclude.xml:835(title) chapter8/xinclude.xml:2769(title)
 msgid "To burn an audio CD:"
 msgstr "刻录音频 CD"
 
-#: chapter8/xinclude.xml:808(para)
+#: chapter8/xinclude.xml:838(para)
 msgid ""
 "Launch Brasero by selecting the <emphasis role=\"strong\">Applications</"
 "emphasis> menu, point to <emphasis role=\"strong\">Sound &amp; Video</"
@@ -1838,12 +1880,12 @@ msgstr ""
 "\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Brasero 光盘刻录器"
 "</emphasis> ，弹出 Brasero 窗口。"
 
-#: chapter8/xinclude.xml:814(title)
+#: chapter8/xinclude.xml:844(title)
 msgid "Launching Brasero"
 msgstr "启动 Brasero"
 
 # 怀疑此处原文有错
-#: chapter8/xinclude.xml:825(para)
+#: chapter8/xinclude.xml:855(para)
 msgid ""
 "The <emphasis role=\"strong\">Brasero Window</emphasis> displays. Click the "
 "<emphasis role=\"strong\">Audio Project</emphasis> button. You will need to "
@@ -1853,12 +1895,12 @@ msgstr ""
 "将显示 <emphasis role=\"strong\">Brasero</emphasis> 窗口。点击 <emphasis "
 "role=\"strong\">音频项目</emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:831(title)
+#: chapter8/xinclude.xml:861(title)
 msgid "The main window of Brasero"
 msgstr "Brasero 的主窗口"
 
 # bushihenqingchu
-#: chapter8/xinclude.xml:842(para)
+#: chapter8/xinclude.xml:872(para)
 msgid ""
 "Now you need to specify the files that you want to be copied onto the blank "
 "CD. To start specifying the desired audio files, click the <emphasis role="
@@ -1871,11 +1913,11 @@ msgstr ""
 "现在需要指定预刻录的文件。在左侧嵌板中，通过选择将需要刻录的音频文件添加到右"
 "侧嵌板中。可以多次使用此添加方法以添加不同文件夹下的音频文件。"
 
-#: chapter8/xinclude.xml:850(title)
+#: chapter8/xinclude.xml:880(title)
 msgid "Specifying Audio Files to Copy"
 msgstr "选择文件"
 
-#: chapter8/xinclude.xml:862(para)
+#: chapter8/xinclude.xml:892(para)
 msgid ""
 "The selected files now appear in the project window. You can also view the "
 "estimated disc usage once these files are written to the disc at the bottom "
@@ -1889,11 +1931,11 @@ msgstr ""
 "标，同时也可以选择是刻录到光盘镜像还是刻录到物理光盘。确定好预刻录的文件后，"
 "点击 <emphasis role=\"strong\">刻录</emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:871(title)
+#: chapter8/xinclude.xml:901(title)
 msgid "Audio Files to Write to Disc"
 msgstr "要写入光盘的音乐文件"
 
-#: chapter8/xinclude.xml:882(para)
+#: chapter8/xinclude.xml:912(para)
 msgid ""
 "The Disc Burning Setup window allows you to change the Properties of the "
 "project. You can select the <emphasis role=\"strong\">Options</emphasis> "
@@ -1905,11 +1947,11 @@ msgstr ""
 "\">选项</emphasis> 复选框让光盘处于打开状态以便稍候添加数据。点击 <emphasis "
 "role=\"strong\">刻录</emphasis> 按钮开始将文件写入光盘。"
 
-#: chapter8/xinclude.xml:889(title)
+#: chapter8/xinclude.xml:919(title)
 msgid "Confirming the CD Writing"
 msgstr "设置刻录属性"
 
-#: chapter8/xinclude.xml:900(para)
+#: chapter8/xinclude.xml:930(para)
 msgid ""
 "Brasero now starts writing the music files to the media disc. You can view "
 "the progress in the <emphasis role=\"strong\">Burning Audio Disc</emphasis> "
@@ -1921,15 +1963,15 @@ msgstr ""
 "刻录音频光盘</emphasis> 对话框中查看这个过程。此过程所需时间依赖于写入文件的"
 "大小。过程完成以后，您便拥有了一张带有您喜欢歌曲的新 CD。"
 
-#: chapter8/xinclude.xml:907(title)
+#: chapter8/xinclude.xml:937(title)
 msgid "Writing an Audio CD"
 msgstr "写入音频 CD"
 
-#: chapter8/xinclude.xml:923(title)
+#: chapter8/xinclude.xml:953(title)
 msgid "Creating and Editing Audio Files"
 msgstr "创建和编辑音频文件"
 
-#: chapter8/xinclude.xml:925(para)
+#: chapter8/xinclude.xml:955(para)
 msgid ""
 "Ubuntu provides you with various tools to create your own music and audio "
 "files. The default application available in Ubuntu for creation of audio "
@@ -1939,11 +1981,11 @@ msgstr ""
 "Ubuntu 提供多种工具用以创建音乐和音频文件。Ubuntu 中默认可用的音频文件创建工"
 "具是 GNOME 录音机。类似地，还可以使用 Audacity 编辑音频文件。"
 
-#: chapter8/xinclude.xml:931(title)
+#: chapter8/xinclude.xml:961(title)
 msgid "Creating Audio Files"
 msgstr "创建音频文件"
 
-#: chapter8/xinclude.xml:933(para)
+#: chapter8/xinclude.xml:963(para)
 msgid ""
 "Ubuntu provides you with tools to create new audio files using an input "
 "device such as a microphone. Sound Recorder is the default application "
@@ -1952,11 +1994,11 @@ msgstr ""
 "Ubuntu 提供使用输入设备创建新音频文件的工具，如使用话筒输入。录音机是 Ubuntu "
 "中默认可用的创建音频文件的应用程序。"
 
-#: chapter8/xinclude.xml:938(title)
+#: chapter8/xinclude.xml:968(title)
 msgid "To start recording audio using Sound Recorder:"
 msgstr "使用录音机开始录音："
 
-#: chapter8/xinclude.xml:941(para)
+#: chapter8/xinclude.xml:971(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click "
@@ -1965,11 +2007,11 @@ msgstr ""
 "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上, 点击 <emphasis role="
 "\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">录音机</emphasis>。"
 
-#: chapter8/xinclude.xml:947(title)
+#: chapter8/xinclude.xml:977(title)
 msgid "Launching Sound Recorder"
 msgstr "启动录音机"
 
-#: chapter8/xinclude.xml:958(para)
+#: chapter8/xinclude.xml:988(para)
 msgid ""
 "Sound Recorder allows you to record and play .flac, .ogg, and .wav audio "
 "files. You can also select the audio quality and formate from the <emphasis "
@@ -1978,11 +2020,11 @@ msgstr ""
 "录音机可以录制 .flac、.ogg 和 .wav 音频文件。可以从 <emphasis role=\"strong"
 "\">录制为</emphasis> 下拉列表中选择音频质量和格式。"
 
-#: chapter8/xinclude.xml:964(title)
+#: chapter8/xinclude.xml:994(title)
 msgid "Selecting the quality and formate"
 msgstr "选择质量和格式"
 
-#: chapter8/xinclude.xml:975(para)
+#: chapter8/xinclude.xml:1005(para)
 msgid ""
 "Before starting the recording, it is advisable to configure the volume "
 "control settings to derive quality audio output. To access the volume "
@@ -1993,11 +2035,11 @@ msgstr ""
 "\"strong\">文件</emphasis> 菜单上点击 <emphasis role=\"strong\">打开音量控制"
 "</emphasis>。"
 
-#: chapter8/xinclude.xml:980(title)
+#: chapter8/xinclude.xml:1010(title)
 msgid "Accessing Volume Controls"
 msgstr "音量控制"
 
-#: chapter8/xinclude.xml:991(para)
+#: chapter8/xinclude.xml:1021(para)
 msgid ""
 "You use the slider buttons on the tracks to set the volume control for all "
 "the audio input and output devices. To further specify your volume "
@@ -2007,22 +2049,22 @@ msgstr ""
 "使用对话框上的 <emphasis role=\"strong\">输出音量</emphasis> 滑块调整输出设备"
 "的音量。"
 
-#: chapter8/xinclude.xml:998(title)
+#: chapter8/xinclude.xml:1028(title)
 msgid "Displaying Volume Preferences"
 msgstr "声音首选项"
 
-#: chapter8/xinclude.xml:1009(para)
+#: chapter8/xinclude.xml:1039(para)
 msgid ""
 "You can use the <emphasis role=\"strong\">input</emphasis> tab to setting "
 "the input preferences."
 msgstr ""
 "可以使用 <emphasis role=\"strong\">输入</emphasis> 标签页设置输入首选项。"
 
-#: chapter8/xinclude.xml:1013(title)
+#: chapter8/xinclude.xml:1043(title)
 msgid "Input tab"
 msgstr "输入标签"
 
-#: chapter8/xinclude.xml:1024(para)
+#: chapter8/xinclude.xml:1054(para)
 msgid ""
 "You are returned to the <emphasis role=\"strong\">Sound Recorder</emphasis> "
 "window. Now, you can start recording the audio from the selected input "
@@ -2032,11 +2074,11 @@ msgstr ""
 "返回到 <emphasis role=\"strong\">录音机</emphasis> 窗口。点击 <emphasis role="
 "\"strong\">录制</emphasis> 按钮即可从选中的输入设备开始录音了。"
 
-#: chapter8/xinclude.xml:1029(title)
+#: chapter8/xinclude.xml:1059(title)
 msgid "Recording Sound"
 msgstr "录音"
 
-#: chapter8/xinclude.xml:1040(para)
+#: chapter8/xinclude.xml:1070(para)
 msgid ""
 "After the recording is complete, you can play the recorded sound file by "
 "clicking the <emphasis role=\"strong\">Play</emphasis> button. The progress "
@@ -2048,16 +2090,16 @@ msgstr ""
 "播放声音文件时，进度指示器沿进度条移动。也可以在 <emphasis role=\"strong\">文"
 "件信息</emphasis> 节下以分秒的形式查看录音文件的时间。"
 
-#: chapter8/xinclude.xml:1047(title)
+#: chapter8/xinclude.xml:1077(title)
 msgid "Playing Recorded Sound File"
 msgstr "播放录音文件"
 
-#: chapter8/xinclude.xml:1060(title)
+#: chapter8/xinclude.xml:1090(title)
 msgid "Editing Audio Files"
 msgstr "编辑音频文件"
 
 # 此处可能需要修改，添加/删除程序 估计已经废弃
-#: chapter8/xinclude.xml:1062(para)
+#: chapter8/xinclude.xml:1092(para)
 msgid ""
 "You can use Audacity for editing audio files. Audacity is not included in "
 "the default installation of Ubuntu but it is a free and open source software "
@@ -2069,11 +2111,11 @@ msgstr ""
 "一个可以从 Uubntu 的 Universe 软件库中安装的自由和开放源代码的应用软件。用户"
 "可以使用 Ubuntu 软件中心或使用新立得软件包管理器安装 Audacity。"
 
-#: chapter8/xinclude.xml:1070(title)
+#: chapter8/xinclude.xml:1100(title)
 msgid "To edit audio files using Audacity:"
 msgstr "使用 Audacity 编辑音频文件："
 
-#: chapter8/xinclude.xml:1073(para)
+#: chapter8/xinclude.xml:1103(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click "
@@ -2083,22 +2125,22 @@ msgstr ""
 "\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Audacity</"
 "emphasis>。"
 
-#: chapter8/xinclude.xml:1079(title)
+#: chapter8/xinclude.xml:1109(title)
 msgid "Launching Audacity"
 msgstr "启动 Audacity"
 
-#: chapter8/xinclude.xml:1090(para)
+#: chapter8/xinclude.xml:1120(para)
 msgid ""
 "The Audacity main interface window is displayed. You can use the various "
 "controls and tools to play, create and edit audio files."
 msgstr ""
 "将显示 Audacity 主窗口。可以使用多种控制工具以播放、创建和编辑音频文件。"
 
-#: chapter8/xinclude.xml:1095(title)
+#: chapter8/xinclude.xml:1125(title)
 msgid "The Audacity Window"
 msgstr "Audacity 窗口"
 
-#: chapter8/xinclude.xml:1106(para)
+#: chapter8/xinclude.xml:1136(para)
 msgid ""
 "You can now start editing an existing audio file in Audacity. To do so, you "
 "need to first import the audio file into Audacity. To import an audio file, "
@@ -2113,11 +2155,11 @@ msgstr ""
 "emphasis>。将打开 <emphasis role=\"strong\">选择一个或多个音频文件</"
 "emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:1114(title)
+#: chapter8/xinclude.xml:1144(title)
 msgid "Importing Audio Files into Audacity"
 msgstr "向 Audacity 导入音频文件"
 
-#: chapter8/xinclude.xml:1125(para)
+#: chapter8/xinclude.xml:1155(para)
 msgid ""
 "Select the audio file that you want to edit and click <emphasis role=\"strong"
 "\">Open</emphasis> to open the file in Audacity."
@@ -2125,7 +2167,7 @@ msgstr ""
 "选择要编辑的音频文件并点击 <emphasis role=\"strong\">打开</emphasis> 以在 "
 "Audacity 中打开文件。 "
 
-#: chapter8/xinclude.xml:1141(para)
+#: chapter8/xinclude.xml:1171(para)
 msgid ""
 "The selected audio file opens in the Audacity interface. The audio file is "
 "represented as the blue waves in the lower part of the Audacity window. Now "
@@ -2139,7 +2181,7 @@ msgstr ""
 "某些点上插入静音，可以在文件的不同部分添加多种声音效果，还可以以其他文件格式"
 "导出文件。"
 
-#: chapter8/xinclude.xml:1149(para)
+#: chapter8/xinclude.xml:1179(para)
 msgid ""
 "Audacity also allows you to play an audio file. Click the <emphasis role="
 "\"strong\">Play</emphasis> button to start playing the audio file."
@@ -2147,11 +2189,11 @@ msgstr ""
 "Audacity 也可以播放音频文件。点击 <emphasis role=\"strong\">播放</emphasis> "
 "按钮开始播放。"
 
-#: chapter8/xinclude.xml:1154(title)
+#: chapter8/xinclude.xml:1184(title)
 msgid "Playing the Imported File"
 msgstr "播放已导入的文件"
 
-#: chapter8/xinclude.xml:1165(para)
+#: chapter8/xinclude.xml:1195(para)
 msgid ""
 "The audio file starts playing in the Audacity audio editor. You can use the "
 "various tools available with Audacity to start editing the current audio "
@@ -2160,7 +2202,7 @@ msgstr ""
 "开始在 Audacity 音频编辑器中播放音频文件。可以使用 Audacity 下的多种工具开始"
 "编辑当前音频文件："
 
-#: chapter8/xinclude.xml:1171(para)
+#: chapter8/xinclude.xml:1201(para)
 msgid ""
 "Magnifying tool: If you find that due to the length of the current file, you "
 "are unable to view the portions that you want to edit, you can use the "
@@ -2170,13 +2212,13 @@ msgstr ""
 "镜工具对指定区域进行放大。"
 
 # mohu
-#: chapter8/xinclude.xml:1178(para)
+#: chapter8/xinclude.xml:1208(para)
 msgid ""
 "Envelop tool: This enables you to change the volume of specific selections "
 "of the sound file."
 msgstr "包络工具：可以用来改变声音文件上选定的区域的音量。"
 
-#: chapter8/xinclude.xml:1183(para)
+#: chapter8/xinclude.xml:1213(para)
 msgid ""
 "Time Shift tool: Allows you to move the entire sound file in relation to "
 "time; helpful when you are working with multiple tracks."
@@ -2184,13 +2226,13 @@ msgstr ""
 "时间移动工具：允许您移动与时间有关的声音文件，当您进行多个轨道工作时将很有"
 "用。"
 
-#: chapter8/xinclude.xml:1189(para)
+#: chapter8/xinclude.xml:1219(para)
 msgid ""
 "Selection tool: Enables you to highlight portions of the sound file on which "
 "you want to work."
 msgstr "选择工具：可以高亮显示声音文件中想要编辑的部分。"
 
-#: chapter8/xinclude.xml:1194(para)
+#: chapter8/xinclude.xml:1224(para)
 msgid ""
 "To start editing a specific portion of the sound file, activate the "
 "<emphasis role=\"strong\">Selection</emphasis> tool by clicking it."
@@ -2198,22 +2240,22 @@ msgstr ""
 "点击 <emphasis role=\"strong\">选择</emphasis> 工具激活声音文件的指定部分开始"
 "编辑它。"
 
-#: chapter8/xinclude.xml:1199(title)
+#: chapter8/xinclude.xml:1229(title)
 msgid "Picking the Selection Tool"
 msgstr "选取选择工具"
 
-#: chapter8/xinclude.xml:1210(para)
+#: chapter8/xinclude.xml:1240(para)
 msgid ""
 "Select the area you wish to edit by dragging across the area while pressing "
 "the left mouse button. The selected area appears in a shade of darker gray."
 msgstr ""
 "按住鼠标左键的同时拖动鼠标选择要编辑的区域。选定的区域显示在暗灰色的阴影中。"
 
-#: chapter8/xinclude.xml:1215(title)
+#: chapter8/xinclude.xml:1245(title)
 msgid "Selecting Audio Portion to Edit"
 msgstr "选择要编辑的音频部分"
 
-#: chapter8/xinclude.xml:1226(para)
+#: chapter8/xinclude.xml:1256(para)
 msgid ""
 "You can now cut the area if you wish to remove this part of the audio file "
 "otherwise, edit this portion by applying various sound effects to it. The "
@@ -2223,39 +2265,39 @@ msgstr ""
 "可以通过删除选区移除音频文件的对应部分，也可通过向此部分应用多种声音效果来编"
 "辑它。效果菜单包含可以应用到音频文件的所有数字音频效果。比如："
 
-#: chapter8/xinclude.xml:1234(para)
+#: chapter8/xinclude.xml:1264(para)
 msgid "Amplify - Increases or decreases volume without altering sound quality"
 msgstr "增幅 - 增大或减小声音而不改变音质"
 
-#: chapter8/xinclude.xml:1239(para)
+#: chapter8/xinclude.xml:1269(para)
 msgid "BassBoost - Increases the volume of a specific frequency."
 msgstr "低音增强 - 增加某一特定音频的音量"
 
-#: chapter8/xinclude.xml:1244(para)
+#: chapter8/xinclude.xml:1274(para)
 msgid "Echo - Allows you to add an echo specify the delay time."
 msgstr "回声 - 添加指定的回声延迟时间"
 
-#: chapter8/xinclude.xml:1249(para)
+#: chapter8/xinclude.xml:1279(para)
 msgid "Fade in - Fades from silence to the present volume"
 msgstr "淡入 - 从静音渐变到当前音量"
 
-#: chapter8/xinclude.xml:1253(para)
+#: chapter8/xinclude.xml:1283(para)
 msgid "Fade out - Fades from present volume to silence"
 msgstr "淡出 - 从当前音量渐变到静音"
 
-#: chapter8/xinclude.xml:1257(para)
+#: chapter8/xinclude.xml:1287(para)
 msgid "Invert - Flips the audio samples upside down"
 msgstr "上下反转 - 上下反转声音样本"
 
-#: chapter8/xinclude.xml:1261(para)
+#: chapter8/xinclude.xml:1291(para)
 msgid "Noise Removal-Allows you to remove background noise"
 msgstr "噪声消除 - 消除背景噪音"
 
-#: chapter8/xinclude.xml:1265(para)
+#: chapter8/xinclude.xml:1295(para)
 msgid "Reverse - Allows you to play the selection backward"
 msgstr "反向 - 用来反向播放指定片段"
 
-#: chapter8/xinclude.xml:1269(para)
+#: chapter8/xinclude.xml:1299(para)
 msgid ""
 "To increase the volume of the selected portion, on the <emphasis role="
 "\"strong\">Effect</emphasis> menu, select <emphasis role=\"strong\">Amplify</"
@@ -2265,11 +2307,11 @@ msgstr ""
 "择 <emphasis role=\"strong\">增幅</emphasis>。将打开 <emphasis role=\"strong"
 "\">增幅</emphasis> 窗口。"
 
-#: chapter8/xinclude.xml:1273(title)
+#: chapter8/xinclude.xml:1303(title)
 msgid "Applying Sound Effects"
 msgstr "应用声音效果"
 
-#: chapter8/xinclude.xml:1284(para)
+#: chapter8/xinclude.xml:1314(para)
 msgid ""
 "In the <emphasis role=\"strong\">Amplify</emphasis> window, you can use the "
 "slide bar to increase or decrease the amplification. Click OK to apply the "
@@ -2278,11 +2320,11 @@ msgstr ""
 "在 <emphasis role=\"strong\">增幅</emphasis> 窗口中，可以使用滑动条以增大或减"
 "小增幅。点击确定对音频的选定部分应用此效果。"
 
-#: chapter8/xinclude.xml:1290(title)
+#: chapter8/xinclude.xml:1320(title)
 msgid "Amplifying the Audio Clip"
 msgstr "放大音频剪辑"
 
-#: chapter8/xinclude.xml:1301(para)
+#: chapter8/xinclude.xml:1331(para)
 msgid ""
 "Notice that the blue waves in the selected area have changed. You can now "
 "listen to the changed audio by clicking the <emphasis role=\"strong\">Play</"
@@ -2291,11 +2333,11 @@ msgstr ""
 "注意，选中区域的蓝色波浪已经改变。现在可以通过点击 <emphasis role=\"strong\">"
 "播放</emphasis> 按钮欣赏更改了的音频。"
 
-#: chapter8/xinclude.xml:1305(title)
+#: chapter8/xinclude.xml:1335(title)
 msgid "Verifying the Edit Effects"
 msgstr "验证编辑效果"
 
-#: chapter8/xinclude.xml:1316(para)
+#: chapter8/xinclude.xml:1346(para)
 msgid ""
 "After you are satisfied with all the edit effects, you can save the edited "
 "audio file. Because the default audio format of Audacity is not readily "
@@ -2305,18 +2347,18 @@ msgstr ""
 "对编辑效果满意之后，可以保存已编辑文件。因为 Audacity 默认的音频格式不能被很"
 "多程序支持，可以将文件保存为其他音频格式，例如 Ogg Vorbis 或 MP3。"
 
-#: chapter8/xinclude.xml:1322(para)
+#: chapter8/xinclude.xml:1352(para)
 msgid ""
 "To save the file in a different file format, click <emphasis role=\"strong"
 "\">Export</emphasis>."
 msgstr ""
 "要以不同的格式保存文件，点击 <emphasis role=\"strong\">导出</emphasis>。"
 
-#: chapter8/xinclude.xml:1325(title)
+#: chapter8/xinclude.xml:1355(title)
 msgid "Exporting Audio File"
 msgstr "导出音频文件"
 
-#: chapter8/xinclude.xml:1336(para)
+#: chapter8/xinclude.xml:1366(para)
 msgid ""
 "In the <emphasis role=\"strong\">Export File</emphasis> dialogue box, select "
 "the folder where you want to save the file. Then, select the desired file "
@@ -2327,11 +2369,11 @@ msgstr ""
 "夹。从下拉列表中选择希望的文件格式然后点击 <emphasis role=\"strong\">保存</"
 "emphasis> 导出文件。"
 
-#: chapter8/xinclude.xml:1343(title)
+#: chapter8/xinclude.xml:1373(title)
 msgid "Exporting as MP3 File"
 msgstr "导出为 MP3 文件"
 
-#: chapter8/xinclude.xml:1354(para)
+#: chapter8/xinclude.xml:1384(para)
 msgid ""
 "Audacity starts exporting the file in the specified file format. This "
 "process may take up some time depending on the length of the audio file."
@@ -2339,11 +2381,11 @@ msgstr ""
 "Audacity 开始以指定的文件格式导出文件。此操作将花费的时间依赖于音频文件的长"
 "度。"
 
-#: chapter8/xinclude.xml:1359(title)
+#: chapter8/xinclude.xml:1389(title)
 msgid "Export Progress Indicator"
 msgstr "导出进度指示器"
 
-#: chapter8/xinclude.xml:1368(para)
+#: chapter8/xinclude.xml:1398(para)
 msgid ""
 "The audio file is exported to the specified location. You can now close the "
 "Audacity window and listen to the edited audio file whenever you wish."
@@ -2351,12 +2393,12 @@ msgstr ""
 "音频文件被导出到指定的位置。您现在可以关闭 Audacity 窗口并随时欣赏已编辑的音"
 "频文件。"
 
-#: chapter8/xinclude.xml:1377(title)
+#: chapter8/xinclude.xml:1407(title)
 msgid "Playing DVDs"
 msgstr "播放 DVD"
 
 # 原文错误 sotware
-#: chapter8/xinclude.xml:1379(para)
+#: chapter8/xinclude.xml:1409(para)
 msgid ""
 "Most commercial DVDs are encrypted with the Content Scrambling System (CSS), "
 "which attempts to restrict the sotware that can play a DVD. By default, "
@@ -2372,7 +2414,7 @@ msgstr ""
 "些软件包没有默认安装。您可以从 Ubuntu 软件库中安装这些包以启用播放加密 DVD 的"
 "功能。"
 
-#: chapter8/xinclude.xml:1391(para)
+#: chapter8/xinclude.xml:1421(para)
 msgid ""
 "It is possible that the use of some of the following software to play or "
 "copy DVDs is not permitted by law in some countries. Please check your "
@@ -2381,29 +2423,29 @@ msgstr ""
 "使用如下软件播放或复制 DVD 在某些国家可能是不被法律允许的。请在进行之前确定您"
 "有权这样做。"
 
-#: chapter8/xinclude.xml:1396(para)
+#: chapter8/xinclude.xml:1426(para)
 msgid ""
 "You may also consider downloading the following additional applications that "
 "are capable of playing certain formats by default:"
 msgstr "您也可以考虑下载如下可以默认播放某些格式的附加程序："
 
-#: chapter8/xinclude.xml:1402(para)
+#: chapter8/xinclude.xml:1432(para)
 msgid "Mplayer movie player"
 msgstr "Mplayer 电影播放器"
 
-#: chapter8/xinclude.xml:1406(para)
+#: chapter8/xinclude.xml:1436(para)
 msgid "VLC media player"
 msgstr "VLC 媒体播放器"
 
-#: chapter8/xinclude.xml:1410(para) chapter8/xinclude.xml:2449(para)
+#: chapter8/xinclude.xml:1440(para) chapter8/xinclude.xml:2479(para)
 msgid "Xine"
 msgstr "Xine"
 
-#: chapter8/xinclude.xml:1414(para)
+#: chapter8/xinclude.xml:1444(para)
 msgid "GStreamer"
 msgstr "GStreamer"
 
-#: chapter8/xinclude.xml:1418(para)
+#: chapter8/xinclude.xml:1448(para)
 #, fuzzy
 msgid ""
 "Totem Movie Player,which uses GStreamer as its backend and is the default "
@@ -2416,11 +2458,11 @@ msgstr ""
 "供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 Xine 等媒体播放自由软件可以支"
 "持 DVD 菜单。"
 
-#: chapter8/xinclude.xml:1424(title)
+#: chapter8/xinclude.xml:1454(title)
 msgid "Playing DVDs in Totem Movie Player"
 msgstr "在 Totem 电影播放器中播放 DVD"
 
-#: chapter8/xinclude.xml:1426(para)
+#: chapter8/xinclude.xml:1456(para)
 msgid ""
 "After you have installed all the required software packages from various "
 "Ubuntu repositories, you can play a DVD on your Totem movie player."
@@ -2428,21 +2470,21 @@ msgstr ""
 "从 Ubuntu 软件库安装了所有需要的软件包之后，就可在您的 Totem 电影播放器上播"
 "放 DVD 了。"
 
-#: chapter8/xinclude.xml:1431(title)
+#: chapter8/xinclude.xml:1461(title)
 msgid "To play a DVD on Totem:"
 msgstr "在 Totem 上播放 DVD："
 
-#: chapter8/xinclude.xml:1434(para)
+#: chapter8/xinclude.xml:1464(para)
 msgid ""
 "Insert the DVD in the DVD drive of your computer. This will automatically "
 "launch the Totem and the DVD will start playing."
 msgstr "向计算机的 DVD 驱动器插入 DVD。将自动启动 Totem 并开始播放。"
 
-#: chapter8/xinclude.xml:1439(title)
+#: chapter8/xinclude.xml:1469(title)
 msgid "Playing a DVD in Totem"
 msgstr "在 Totem 中播放 DVD"
 
-#: chapter8/xinclude.xml:1450(para)
+#: chapter8/xinclude.xml:1480(para)
 msgid ""
 "To view the DVD in full screen mode, on the <emphasis role=\"strong\">View</"
 "emphasis> menu, click <emphasis role=\"strong\">Fullscreen</emphasis>. "
@@ -2453,11 +2495,11 @@ msgstr ""
 "击 <emphasis role=\"strong\">全屏</emphasis>。或者，仅需在键盘上按 <emphasis "
 "role=\"strong\">F</emphasis>。"
 
-#: chapter8/xinclude.xml:1454(title)
+#: chapter8/xinclude.xml:1484(title)
 msgid "Enabling the Full Screen View"
 msgstr "启用全屏观看"
 
-#: chapter8/xinclude.xml:1465(para)
+#: chapter8/xinclude.xml:1495(para)
 msgid ""
 "You can enjoy the DVD in full screen mode or press <emphasis role=\"strong"
 "\">ESC</emphasis> and return to the Totem window."
@@ -2465,11 +2507,11 @@ msgstr ""
 "您可以全屏欣赏 DVD 或者按 <emphasis role=\"strong\">ESC</emphasis> 返回到 "
 "Totem 窗口。"
 
-#: chapter8/xinclude.xml:1468(title)
+#: chapter8/xinclude.xml:1498(title)
 msgid "Viewing DVD in Full Screen"
 msgstr "全屏观看 DVD"
 
-#: chapter8/xinclude.xml:1479(para)
+#: chapter8/xinclude.xml:1509(para)
 msgid ""
 "Totem also allows you to configure some settings to view the DVD according "
 "to your preferences. To configure the preferences settings, on the <emphasis "
@@ -2480,11 +2522,11 @@ msgstr ""
 "编辑</emphasis> 菜单上，点击 <emphasis role=\"strong\">首选项</emphasis> 开始"
 "设置。"
 
-#: chapter8/xinclude.xml:1485(title)
+#: chapter8/xinclude.xml:1515(title)
 msgid "Displaying Totem Configuration"
 msgstr "显示 Totem 配置"
 
-#: chapter8/xinclude.xml:1496(para)
+#: chapter8/xinclude.xml:1526(para)
 msgid ""
 "You can use the Preferences dialogue box to define various display settings, "
 "such as the brightness, colour, hue and saturation of the display. After "
@@ -2495,12 +2537,12 @@ msgstr ""
 "定您的首选项之后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话"
 "框。"
 
-#: chapter8/xinclude.xml:1501(title)
+#: chapter8/xinclude.xml:1531(title)
 msgid "Customising Display Settings"
 msgstr "自定义显示设置"
 
 # 此处菜单条没有翻译
-#: chapter8/xinclude.xml:1512(para)
+#: chapter8/xinclude.xml:1542(para)
 msgid ""
 "When watching a DVD, you can use the various options provided in the "
 "<emphasis role=\"strong\">Go</emphasis> menu to navigate inside the DVD. To "
@@ -2511,11 +2553,11 @@ msgstr ""
 "提供的多个选项在 DVD 中导航。要跳到下一片段，可在 <emphasis role=\"strong\">"
 "转到</emphasis> 菜单上，点击 <emphasis role=\"strong\">快进</emphasis>。"
 
-#: chapter8/xinclude.xml:1518(title)
+#: chapter8/xinclude.xml:1548(title)
 msgid "Navigating Inside a DVD"
 msgstr "在 DVD 中导航"
 
-#: chapter8/xinclude.xml:1529(para)
+#: chapter8/xinclude.xml:1559(para)
 msgid ""
 "You are taken to the next frame in the DVD. If you do not want to view the "
 "side bar when playing the DVD, click the <emphasis role=\"strong\">Sidebar</"
@@ -2524,15 +2566,15 @@ msgstr ""
 "您被带到了 DVD 的下一帧。如果播放 DVD 时您不想看到侧边栏，点击 <emphasis "
 "role=\"strong\">侧边栏</emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:1533(title)
+#: chapter8/xinclude.xml:1563(title)
 msgid "Hiding the Sidebar"
 msgstr "隐藏侧边栏"
 
-#: chapter8/xinclude.xml:1543(title)
+#: chapter8/xinclude.xml:1573(title)
 msgid "Viewing the DVD"
 msgstr "观看 DVD"
 
-#: chapter8/xinclude.xml:1554(para)
+#: chapter8/xinclude.xml:1584(para)
 msgid ""
 "This hides the side bar and now you can view the DVD on a larger space and "
 "simultaneously, have all the playback controls right in front of you."
@@ -2540,27 +2582,27 @@ msgstr ""
 "此项隐藏侧边栏，现在您可以以更大的屏幕空间观看 DVD，同时所有的播放控制正好在"
 "您面前。"
 
-#: chapter8/xinclude.xml:1562(title)
+#: chapter8/xinclude.xml:1592(title)
 msgid "Backing up DVDs"
 msgstr "备份 DVD"
 
-#: chapter8/xinclude.xml:1572(para)
+#: chapter8/xinclude.xml:1602(para)
 msgid "Thoggen"
 msgstr "Thoggen"
 
-#: chapter8/xinclude.xml:1576(para)
+#: chapter8/xinclude.xml:1606(para)
 msgid "K9copy"
 msgstr "K9copy"
 
-#: chapter8/xinclude.xml:1580(para)
+#: chapter8/xinclude.xml:1610(para)
 msgid "dvd::rip"
 msgstr "dvd::rip"
 
-#: chapter8/xinclude.xml:1584(para)
+#: chapter8/xinclude.xml:1614(para)
 msgid "HandBrake"
 msgstr "HandBrake"
 
-#: chapter8/xinclude.xml:1564(para)
+#: chapter8/xinclude.xml:1594(para)
 msgid ""
 "If you have a collection of old and not-so-easy-to-find DVDs, you may wish "
 "to back up these on your computer or create extra copies of them. You may "
@@ -2576,7 +2618,7 @@ msgstr ""
 "Ubuntu 中，但是您可以从 Ubuntu 软件库下载并安装它们。这些程序有："
 "<placeholder-1/>"
 
-#: chapter8/xinclude.xml:1591(para)
+#: chapter8/xinclude.xml:1621(para)
 msgid ""
 "If the students want to know more about the above applications, advise them "
 "to visit the following Web pages: For dvd::rip- <ulink url=\"http://www2."
@@ -2593,11 +2635,11 @@ msgstr ""
 "org/?chapter=documentation\">http://handbrake.m0k.org/?"
 "chapter=documentation</ulink>。"
 
-#: chapter8/xinclude.xml:1598(title)
+#: chapter8/xinclude.xml:1628(title)
 msgid "Backing up DVDs Using Thoggen"
 msgstr "使用 Thoggen 备份 DVD"
 
-#: chapter8/xinclude.xml:1600(para)
+#: chapter8/xinclude.xml:1630(para)
 msgid ""
 "Thoggen is a DVD backup utility for Linux, based on GStreamer and Gtk+. This "
 "application is designed to be easy-to-use. Rather than exposing the "
@@ -2609,39 +2651,39 @@ msgstr ""
 "非常容易使用。很多其它程序倾向于暴露 DVD 抓取过程中的复杂性，而它尝试通过提供"
 "合理的默认选项为普通用户简化这个过程。"
 
-#: chapter8/xinclude.xml:1609(para)
+#: chapter8/xinclude.xml:1639(para)
 msgid "Is easy to use and has a nice graphical user interface (GUI)"
 msgstr "友好易用的图形用户界面"
 
-#: chapter8/xinclude.xml:1614(para)
+#: chapter8/xinclude.xml:1644(para)
 msgid "Supports title preview, picture cropping, and picture resizing"
 msgstr "支持标题预览，图片裁剪和图片大小调整。"
 
-#: chapter8/xinclude.xml:1619(para)
+#: chapter8/xinclude.xml:1649(para)
 msgid "Provides language Selection for audio track"
 msgstr "为音频曲目提供语言选择"
 
-#: chapter8/xinclude.xml:1623(para)
+#: chapter8/xinclude.xml:1653(para)
 msgid "Encodes into Ogg/Theora video"
 msgstr "以 Ogg Vorbis/Theora 视频格式编码"
 
-#: chapter8/xinclude.xml:1627(para)
+#: chapter8/xinclude.xml:1657(para)
 msgid "Can encode from local directory with video DVD files"
 msgstr "可对本地目录下的 DVD 文件进行编码"
 
-#: chapter8/xinclude.xml:1631(para)
+#: chapter8/xinclude.xml:1661(para)
 msgid ""
 "Is based on the GStreamer multimedia framework, which makes it fairly easy "
 "to add additional encoding formats/codecs in future."
 msgstr ""
 "基于 GStreamer 多媒体框架的结构使其能够相当容易地添加附加的格式或解码。"
 
-#: chapter8/xinclude.xml:1607(para)
+#: chapter8/xinclude.xml:1637(para)
 msgid "Thoggen includes certain key features: <placeholder-1/>"
 msgstr "Thoggen 包含特定关键特性：<placeholder-1/>"
 
 # 还是 beta 吗？
-#: chapter8/xinclude.xml:1640(para)
+#: chapter8/xinclude.xml:1670(para)
 msgid ""
 "Thoggen should work just fine for the most part, but make still sure to "
 "check the list of known issues. <ulink url=\"http://thoggen.net/download/"
@@ -2652,7 +2694,7 @@ msgstr ""
 "<ulink url=\"http://thoggen.net/download/index.html#known-issues\">http://"
 "thoggen.net/download/index.html#known-issues</ulink>.。"
 
-#: chapter8/xinclude.xml:1643(para)
+#: chapter8/xinclude.xml:1673(para)
 msgid ""
 "To be able to back up your DVD using Thoggen, you need to first install it. "
 "You can easily find this application in the Universe repository of Synaptic "
@@ -2661,16 +2703,16 @@ msgstr ""
 "要使用 Thoggen 备份 DVD ，首先需要安装它。在新立得软件包管理器的 Universe 软"
 "件库中能很方便地找到此程序并在计算机上安装。"
 
-#: chapter8/xinclude.xml:1649(title)
+#: chapter8/xinclude.xml:1679(title)
 msgid "Installing Thoggen"
 msgstr "安装 Thoggen"
 
-#: chapter8/xinclude.xml:1659(title)
+#: chapter8/xinclude.xml:1689(title)
 msgid "To start backing up your DVD using Thoggen:"
 msgstr "使用 Thoggen 备份 DVD："
 
 # Thoggen DVD Ripper?
-#: chapter8/xinclude.xml:1662(para)
+#: chapter8/xinclude.xml:1692(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click "
@@ -2680,11 +2722,11 @@ msgstr ""
 "\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Thoggen DVD "
 "Ripper</emphasis>。"
 
-#: chapter8/xinclude.xml:1668(title)
+#: chapter8/xinclude.xml:1698(title)
 msgid "Launching Thoggen"
 msgstr "启动 Thoggen"
 
-#: chapter8/xinclude.xml:1679(para)
+#: chapter8/xinclude.xml:1709(para)
 msgid ""
 "The <emphasis role=\"strong\">Thoggen</emphasis> window appears. As a first "
 "step to backing up your DVD, it simply asks you to select the specific "
@@ -2696,12 +2738,12 @@ msgstr ""
 "步，要求用户指定 DVD 上想要备份的曲目。通过选中对应的复选框指定曲目然后点击 "
 "<emphasis role=\"strong\">确定</emphasis> 进行处理。"
 
-#: chapter8/xinclude.xml:1686(title)
+#: chapter8/xinclude.xml:1716(title)
 msgid "Specifying the Tracks to Back up"
 msgstr "指定要备份的音轨"
 
 # cam -> can
-#: chapter8/xinclude.xml:1697(para)
+#: chapter8/xinclude.xml:1727(para)
 msgid ""
 "In the next step of the backing up process, you are allowed to view and "
 "configure some of the settings according to your requirements. You can "
@@ -2716,11 +2758,11 @@ msgstr ""
 "点击 <emphasis role=\"strong\">确定</emphasis> 接受默认设置直接进行 DVD 备"
 "份。"
 
-#: chapter8/xinclude.xml:1706(title)
+#: chapter8/xinclude.xml:1736(title)
 msgid "Changing Default Settings"
 msgstr "更改默认设置"
 
-#: chapter8/xinclude.xml:1717(para)
+#: chapter8/xinclude.xml:1747(para)
 msgid ""
 "The DVD backing process starts immediately. You can view the progress of the "
 "current as well as the entire process in the <emphasis role=\"strong"
@@ -2731,12 +2773,12 @@ msgstr ""
 "emphasis> 节中查看当前进程以及全部过程的进度。使用 Thoggen 进行备份可能花费的"
 "时间比较长，但其输出质量相当高。"
 
-#: chapter8/xinclude.xml:1724(title)
+#: chapter8/xinclude.xml:1754(title)
 msgid "Backing up DVD"
 msgstr "备份 DVD"
 
 # You can listen and watch online videos and audios directly  这句有问题吧？
-#: chapter8/xinclude.xml:1740(para)
+#: chapter8/xinclude.xml:1770(para)
 msgid ""
 "Ubuntu provides you with tools to directly play music and videos available "
 "on the Internet. You can listen and watch online videos and audios directly "
@@ -2748,12 +2790,12 @@ msgstr ""
 "乐，观看在线视频，但可能需要安装一些特定的播放器。您能否在线观看多媒体文件取"
 "决于文件提供者所做的设置。"
 
-#: chapter8/xinclude.xml:1748(title)
+#: chapter8/xinclude.xml:1778(title)
 msgid "Watching Videos in a Web Browser"
 msgstr "在网页浏览器中观看视频"
 
 # youtube 需要换掉吗？
-#: chapter8/xinclude.xml:1750(para)
+#: chapter8/xinclude.xml:1780(para)
 #, fuzzy
 msgid ""
 "You can play many of the videos available on the Internet directly from "
@@ -2768,15 +2810,15 @@ msgstr ""
 "频和土豆视频，而不用安装任何专用播放器或附加浏览器组件。下图显示了一个正在 "
 "Firefox 窗口中播放视频的界面。"
 
-#: chapter8/xinclude.xml:1759(title)
+#: chapter8/xinclude.xml:1789(title)
 msgid "Watching Video in a Web Browser"
 msgstr "在网页浏览器中观看视频"
 
-#: chapter8/xinclude.xml:1775(title)
+#: chapter8/xinclude.xml:1805(title)
 msgid "Totem gstreamer plugin:"
 msgstr "Totem gstreamer 插件:"
 
-#: chapter8/xinclude.xml:1777(para)
+#: chapter8/xinclude.xml:1807(para)
 #, fuzzy
 msgid ""
 "Install the <emphasis role=\"strong\"> totem-mozilla</emphasis> package from "
@@ -2785,11 +2827,11 @@ msgstr ""
 "从“Universe”软件库中安装 <emphasis role=\"strong\"> mozilla-mplayer</"
 "emphasis> 包。"
 
-#: chapter8/xinclude.xml:1786(title)
+#: chapter8/xinclude.xml:1816(title)
 msgid "Flash plugin:"
 msgstr "Flash 插件:"
 
-#: chapter8/xinclude.xml:1788(para)
+#: chapter8/xinclude.xml:1818(para)
 msgid ""
 "install the <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> "
 "package from the \"Multiverse\" repository.For someone who is using AMD64,"
@@ -2799,12 +2841,12 @@ msgid ""
 "more stable."
 msgstr ""
 
-#: chapter8/xinclude.xml:1799(title)
+#: chapter8/xinclude.xml:1829(title)
 #, fuzzy
 msgid "Moonlight plugin:"
 msgstr "Flash 插件:"
 
-#: chapter8/xinclude.xml:1801(para)
+#: chapter8/xinclude.xml:1831(para)
 #, fuzzy
 msgid ""
 "install the <emphasis role=\"strong\"> moonlight-plugin-mozilla</emphasis> "
@@ -2814,7 +2856,7 @@ msgstr ""
 "从“Universe”软件库中安装 <emphasis role=\"strong\">totem-xine-firefox-"
 "plugin</emphasis> 包。"
 
-#: chapter8/xinclude.xml:1768(para)
+#: chapter8/xinclude.xml:1798(para)
 #, fuzzy
 msgid ""
 "However,to view the other online multimedia, depending on the format of the "
@@ -2825,7 +2867,7 @@ msgstr ""
 "根据视频的格式，可能要求下载并安装特定的附加浏览器插件。对于默认的 Firefox 浏"
 "览器可用的插件有：<placeholder-1/>"
 
-#: chapter8/xinclude.xml:1811(para)
+#: chapter8/xinclude.xml:1841(para)
 msgid ""
 "If you find that all Chinese characters can not display corretcly in flash, "
 "you can use this command to correct it: <emphasis role=\"strong\">sudo rm /"
@@ -2834,7 +2876,7 @@ msgstr ""
 "如果遇到了 flash 中汉字不能正常显示的现象，可以使用 <emphasis role=\"strong"
 "\">sudo rm /etc/fonts/conf.d/49-sansserif.conf</emphasis> 来，修正这个问题。"
 
-#: chapter8/xinclude.xml:1817(para)
+#: chapter8/xinclude.xml:1847(para)
 msgid ""
 "The plugin installation process depends on the framework you use. If you use "
 "Totem-gstreamer, the default movie player included in Ubuntu, you need to "
@@ -2846,7 +2888,7 @@ msgstr ""
 "gstreamer，需要安装 totem-gstreamer-firefox-plugin。"
 
 # RealPlayer 10?需要换个版本吗？
-#: chapter8/xinclude.xml:1824(para)
+#: chapter8/xinclude.xml:1854(para)
 msgid ""
 "You can even install an additional mediaplayer, such as RealPlayer 10, to "
 "watch online video streams in Realmedia formats. When you have installed all "
@@ -2860,7 +2902,7 @@ msgstr ""
 "看 RealMedia 文件，如 Totem 的。但您可能仍希望在计算机上安装 RealPlayer ，因"
 "为它能比其它播放器更好地支持流式 RealMedia 文件。"
 
-#: chapter8/xinclude.xml:1832(para)
+#: chapter8/xinclude.xml:1862(para)
 msgid ""
 "The RealPlayer, developed by RealNetworks, supports a number of audio and "
 "video codecs such as realaudio, realvideo 10, mp3, ogg vorbis and theora, "
@@ -2872,7 +2914,7 @@ msgstr ""
 "realvideo、mp3、ogg vorbis、theora、h263 以及 AAC等。Linux 版的 RealPlayer 可"
 "以在 medibuntu 软件库中找到，也可以从 RealPlayer 网站免费下载。"
 
-#: chapter8/xinclude.xml:1841(para)
+#: chapter8/xinclude.xml:1871(para)
 msgid ""
 "RealPlayer is a proprietary software and is not supported by the Ubuntu "
 "community."
@@ -2880,11 +2922,11 @@ msgstr ""
 "RealPlayer 是一款商业软件，并不由 Ubuntu 社区提供支持。但是其核心是开源的，可"
 "以从 Ubuntu 社区获得支持，但是其功能相对较少。"
 
-#: chapter8/xinclude.xml:1846(title)
+#: chapter8/xinclude.xml:1876(title)
 msgid "Installing RealPlayer"
 msgstr "安装 RealPlayer "
 
-#: chapter8/xinclude.xml:1848(para)
+#: chapter8/xinclude.xml:1878(para)
 msgid ""
 "As mentioned above, the realPlayer for Linux is available in the Canonical "
 "commercial repository. Ubuntu does not include this repository by default. "
@@ -2897,12 +2939,12 @@ msgstr ""
 "软件源中添加“deb http://packages.medibuntu.org/ lucid free non-free”。添加完"
 "此软件库就可以搜索 Realplayer 包并安装到计算机上了。"
 
-#: chapter8/xinclude.xml:1857(title)
+#: chapter8/xinclude.xml:1887(title)
 msgid "Watching Online Videos Using RealPlayer"
 msgstr "使用 RealPlayer 播放在线视频"
 
 # realplayer 的版本？
-#: chapter8/xinclude.xml:1862(para)
+#: chapter8/xinclude.xml:1892(para)
 msgid ""
 "You can now access the realPlayer from the Applications menu. To access "
 "RealPlayer, on the <emphasis role=\"strong\">Applications</emphasis> menu, "
@@ -2913,11 +2955,11 @@ msgstr ""
 "程序</emphasis> 菜单上，点击 <emphasis role=\"strong\">影音</emphasis> 下的 "
 "<emphasis role=\"strong\">RealPlayer 11</emphasis>。"
 
-#: chapter8/xinclude.xml:1866(emphasis)
+#: chapter8/xinclude.xml:1896(emphasis)
 msgid "Launching RealPlayer"
 msgstr "启动 RealPlayer"
 
-#: chapter8/xinclude.xml:1878(para)
+#: chapter8/xinclude.xml:1908(para)
 msgid ""
 "The <emphasis role=\"strong\">RealPlayer Setup Assistant</emphasis> is "
 "displayed to guide you through the set up of the RealPlayer. Click <emphasis "
@@ -2927,12 +2969,12 @@ msgstr ""
 "RealPlayer 的设置。点击 <emphasis role=\"strong\">下一步</emphasis> 开始设"
 "置。"
 
-#: chapter8/xinclude.xml:1884(emphasis)
+#: chapter8/xinclude.xml:1914(emphasis)
 msgid "Initiating RealPlayer Set up"
 msgstr "初始化 RealPlayer 设置"
 
 # edition of RealPlayer
-#: chapter8/xinclude.xml:1896(para)
+#: chapter8/xinclude.xml:1926(para)
 msgid ""
 "After reviewing the release notes of the RealPlayer 10, click <emphasis role="
 "\"strong\">Forward</emphasis> again to proceed."
@@ -2940,12 +2982,12 @@ msgstr ""
 "查看了 RealPlayer 11 发行注记后，再次点击 <emphasis role=\"strong\">下一步</"
 "emphasis> 以继续。"
 
-#: chapter8/xinclude.xml:1900(emphasis)
+#: chapter8/xinclude.xml:1930(emphasis)
 msgid "Reviewing realPlayer Release Notes"
 msgstr "查看 RealPlayer 发行注记"
 
 # . again
-#: chapter8/xinclude.xml:1912(para)
+#: chapter8/xinclude.xml:1942(para)
 msgid ""
 "Before installing the RealPlayer application on your computer, you need to "
 "review the terms of the end user license agreement and accept it to be able "
@@ -2955,11 +2997,11 @@ msgstr ""
 "\"strong\">接受</emphasis> 复选框，并点击 <emphasis role=\"strong\">下一步</"
 "emphasis>。"
 
-#: chapter8/xinclude.xml:1917(emphasis)
+#: chapter8/xinclude.xml:1947(emphasis)
 msgid "Accepting the License Agreement"
 msgstr "接受许可协议"
 
-#: chapter8/xinclude.xml:1929(para)
+#: chapter8/xinclude.xml:1959(para)
 msgid ""
 "You have reached the final screen of the Realplayer setup Assistant. Specify "
 "the provided options and click <emphasis role=\"strong\">OK</emphasis> to "
@@ -2968,11 +3010,11 @@ msgstr ""
 "已经到达 RealPlayer 安装助手的最后一项。指定提供的选项并点击 <emphasis role="
 "\"strong\">完成</emphasis> 以结束安装。"
 
-#: chapter8/xinclude.xml:1933(emphasis)
+#: chapter8/xinclude.xml:1963(emphasis)
 msgid "Completing the Set-up Process"
 msgstr "完成安装过程"
 
-#: chapter8/xinclude.xml:1945(para)
+#: chapter8/xinclude.xml:1975(para)
 msgid ""
 "The <emphasis role=\"strong\">RealPlayer</emphasis> window is displayed, "
 "indicating that the set up was successful. Now you can watch online "
@@ -2981,25 +3023,25 @@ msgstr ""
 "显示 <emphasis role=\"strong\">RealPlayer</emphasis> 窗口即表明安装成功。现在"
 "可以使用 RealPlayer 观看在线流媒体了。"
 
-#: chapter8/xinclude.xml:1950(emphasis)
+#: chapter8/xinclude.xml:1980(emphasis)
 msgid "The RealPlayer Window"
 msgstr "RealPlayer 窗口"
 
-#: chapter8/xinclude.xml:1962(para)
+#: chapter8/xinclude.xml:1992(para)
 msgid ""
 "To start viewing the online video of your choice, launch Firefox and "
 "navigate to the Web page from which you want to view the streaming media."
 msgstr "打开 Firefox 并导航到流媒体所在网页开始观看在线视频。"
 
-#: chapter8/xinclude.xml:1968(para)
+#: chapter8/xinclude.xml:1998(para)
 msgid "On the Web page, click the link to open the video of your choice."
 msgstr "在网页上，点击链接打开您选择的视频。"
 
-#: chapter8/xinclude.xml:1972(emphasis)
+#: chapter8/xinclude.xml:2002(emphasis)
 msgid "Selecting the Link to the Online Video"
 msgstr "选择在线视频的链接"
 
-#: chapter8/xinclude.xml:1984(para)
+#: chapter8/xinclude.xml:2014(para)
 msgid ""
 "You are asked to specify whether you want to open the linked file in "
 "RealPlayer or save it to your computer. To view the video as online "
@@ -3009,11 +3051,11 @@ msgstr ""
 "此时将询问是在 RealPlayer 中打开此链接还是将其保存到计算机。要以在线流媒体的"
 "方式观看视频，接受默认选择并点击 <emphasis role=\"strong\">确定</emphasis>。"
 
-#: chapter8/xinclude.xml:1990(emphasis)
+#: chapter8/xinclude.xml:2020(emphasis)
 msgid "Viewing Video as Streaming Media"
 msgstr "以流媒体观看视频"
 
-#: chapter8/xinclude.xml:2002(para)
+#: chapter8/xinclude.xml:2032(para)
 msgid ""
 "The <emphasis role=\"strong\">Downloads</emphasis> dialogue box displays the "
 "progress of the download. After the file is downloaded to your temporary "
@@ -3024,11 +3066,11 @@ msgstr ""
 "时网络文件夹后，开始在 <emphasis role=\"strong\"> RealPlayer</emphasis> 窗口"
 "中播放视频。"
 
-#: chapter8/xinclude.xml:2008(emphasis)
+#: chapter8/xinclude.xml:2038(emphasis)
 msgid "Watching Online Video in RealPlayer"
 msgstr "在 RealPlayer 中观看在线视频"
 
-#: chapter8/xinclude.xml:2020(para)
+#: chapter8/xinclude.xml:2050(para)
 msgid ""
 "You can add the link to your <emphasis role=\"strong\">Favorites</emphasis> "
 "list to be able to view the video again without searching for it on the "
@@ -3041,11 +3083,11 @@ msgstr ""
 "中，在 <emphasis role=\"strong\">收藏夹</emphasis> 菜单下点击 <emphasis role="
 "\"strong\">添加到收藏夹</emphasis>。"
 
-#: chapter8/xinclude.xml:2025(emphasis)
+#: chapter8/xinclude.xml:2055(emphasis)
 msgid "Saving a Video as Favourite"
 msgstr "收藏视频链接"
 
-#: chapter8/xinclude.xml:2037(para)
+#: chapter8/xinclude.xml:2067(para)
 msgid ""
 "The video is now saved as your favorite. In future, you can view this video "
 "directly from inside your RealPlayer by selecting the link from the "
@@ -3059,11 +3101,11 @@ msgstr ""
 "RealPlayer 内播放视频，即在 <emphasis role=\"strong\">文件</emphasis> 菜单上"
 "点击 <emphasis role=\"strong\">打开位置</emphasis>。"
 
-#: chapter8/xinclude.xml:2045(emphasis)
+#: chapter8/xinclude.xml:2075(emphasis)
 msgid "Viewing Online Video Directly from RealPlayer"
 msgstr "直接从 RealPlayer 观看在线视频"
 
-#: chapter8/xinclude.xml:2057(para)
+#: chapter8/xinclude.xml:2087(para)
 msgid ""
 "Type the URL or the file path of the video in the <emphasis role=\"strong"
 "\">Open Location</emphasis> dialogue box and click <emphasis role=\"strong"
@@ -3072,15 +3114,15 @@ msgstr ""
 "在 <emphasis role=\"strong\">打开位置</emphasis> 对话框中输入 URL 或文件路径"
 "并点击 <emphasis role=\"strong\">确定</emphasis> 开始播放在线流视频。"
 
-#: chapter8/xinclude.xml:2062(emphasis)
+#: chapter8/xinclude.xml:2092(emphasis)
 msgid "Specifying Video Location"
 msgstr "指定视频位置"
 
-#: chapter8/xinclude.xml:2077(title)
+#: chapter8/xinclude.xml:2107(title)
 msgid "Editing Videos"
 msgstr "编辑视频"
 
-#: chapter8/xinclude.xml:2079(para)
+#: chapter8/xinclude.xml:2109(para)
 msgid ""
 "In addition to viewing movies and videos, Ubuntu also provides you tools to "
 "help you edit a video. The tools available with Ubuntu include:"
@@ -3089,7 +3131,7 @@ msgstr ""
 "括："
 
 # 编辑决定列表???
-#: chapter8/xinclude.xml:2083(para)
+#: chapter8/xinclude.xml:2113(para)
 msgid ""
 "<emphasis role=\"strong\">Kino:</emphasis> An advanced video editor, Kino "
 "captures video to disk in Raw DV and AVI format. It allows you to load "
@@ -3100,7 +3142,7 @@ msgstr ""
 "Raw DV 和 AVI 格式捕获视频。它可以同时加载多个视频剪辑，剪切和粘贴视频片段并"
 "以 SMIL 和 XML 格式保存到编辑决定列表。"
 
-#: chapter8/xinclude.xml:2088(para)
+#: chapter8/xinclude.xml:2118(para)
 msgid ""
 "<emphasis role=\"strong\">Stopmotion:</emphasis> Stopmotion is a free "
 "application for creating stop-motion animation movies. It enables you to "
@@ -3112,7 +3154,7 @@ msgstr ""
 "画电影的自由应用程序。它可以利用摄像机或硬盘导入的图片创建定格动画，添加声音"
 "效果并以不同格式导出动画，如 mpeg 或 avi 等。"
 
-#: chapter8/xinclude.xml:2094(para)
+#: chapter8/xinclude.xml:2124(para)
 msgid ""
 "<emphasis role=\"strong\">Subtitle Editor:</emphasis> Subtitle Editor is a "
 "GTK+2 tool to edit subtitles for movies and videos. you can use it for "
@@ -3124,7 +3166,7 @@ msgstr ""
 "是一款为电影和视频编辑字幕的 GTK+ 工具。可以使用它创建新字幕或传输、编辑、校"
 "对和完善已有字幕。此程序也显示声波，使字幕和声音同步变得容易。"
 
-#: chapter8/xinclude.xml:2100(para)
+#: chapter8/xinclude.xml:2130(para)
 msgid ""
 "<emphasis role=\"strong\">Pitivi Video Editor:</emphasis> Pitivi Video "
 "Editor is a non-linear editor, which allows you to easily edit audio and "
@@ -3137,22 +3179,22 @@ msgstr ""
 "其进行组合、调整大小、切割或者对其应用效果。它允许将项目保存成 GStreamer 框架"
 "支持的任何格式。"
 
-#: chapter8/xinclude.xml:2108(title)
+#: chapter8/xinclude.xml:2138(title)
 msgid "Editing Videos Using Pitivi Video Editor"
 msgstr "使用 Pitivi 视频编辑器编辑视频"
 
-#: chapter8/xinclude.xml:2110(para)
+#: chapter8/xinclude.xml:2140(para)
 msgid ""
 "Pitivi Video Editor is installed in Ubuntu by default.So you can use it "
 "right now."
 msgstr "Ubuntu 默认安装了 Pitivi 视频编辑器，可以立即使用。"
 
-#: chapter8/xinclude.xml:2113(title)
+#: chapter8/xinclude.xml:2143(title)
 msgid "To edit video using Pitivi Video Editor:"
 msgstr "使用 Pitivi 视频编辑器编辑视频："
 
 # 此处有版本号
-#: chapter8/xinclude.xml:2116(para)
+#: chapter8/xinclude.xml:2146(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click "
@@ -3164,7 +3206,7 @@ msgstr ""
 "emphasis>。将打开 <emphasis role=\"strong\">Pitivi</emphasis> 窗口。"
 
 # task bar 疑为 tool bar
-#: chapter8/xinclude.xml:2124(para)
+#: chapter8/xinclude.xml:2154(para)
 msgid ""
 "The main Pitivi interface is divided into a number of panes. You can use the "
 "various buttons on the task bar to perform tasks such as opening, importing, "
@@ -3176,11 +3218,11 @@ msgstr ""
 "和保存视频剪辑等任务。要编辑一个视频，点击 <emphasis role=\"strong\">导入片段"
 "</emphasis> 按钮向 Piviti 视频编辑器中导入剪辑。"
 
-#: chapter8/xinclude.xml:2132(title)
+#: chapter8/xinclude.xml:2162(title)
 msgid "The Pitivi Interface"
 msgstr "Pitivi 界面"
 
-#: chapter8/xinclude.xml:2143(para)
+#: chapter8/xinclude.xml:2173(para)
 msgid ""
 "In the Import a clip dialogue box, navigate to the folder from where you "
 "want to import the video clip, select the single or multiple clips to be "
@@ -3191,11 +3233,11 @@ msgstr ""
 "辑，并点击 <emphasis role=\"strong\">添加</emphasis> 导入到 <emphasis role="
 "\"strong\">Pitivi</emphasis> 窗口。"
 
-#: chapter8/xinclude.xml:2148(title)
+#: chapter8/xinclude.xml:2178(title)
 msgid "Importing Video Clips in Pitivi"
 msgstr "向 Pitivi 导入视频剪辑"
 
-#: chapter8/xinclude.xml:2159(para)
+#: chapter8/xinclude.xml:2189(para)
 msgid ""
 "The selected video clip is now imported into the Pitivi Video editor. You "
 "can double-click the video clip to view it in the right pane. Click the "
@@ -3205,11 +3247,11 @@ msgstr ""
 "选中的视频剪辑现在导入到了 Pitivi 视频编辑器。双击此视频剪辑以在右嵌板查看"
 "它。点击控制条上的 <emphasis role=\"strong\">停止</emphasis> 按钮停止播放。"
 
-#: chapter8/xinclude.xml:2165(title)
+#: chapter8/xinclude.xml:2195(title)
 msgid "Viewing the Imported Video"
 msgstr "查看导入的视频"
 
-#: chapter8/xinclude.xml:2176(para)
+#: chapter8/xinclude.xml:2206(para)
 msgid ""
 "To edit the imported video clip, you need to drag them to the bottom pane to "
 "add them to the time line and then select the <emphasis role=\"strong"
@@ -3222,11 +3264,11 @@ msgstr ""
 "项目设置</emphasis> 选项，打开 <emphasis role=\"strong\">项目设置</emphasis> "
 "对话框。"
 
-#: chapter8/xinclude.xml:2184(title)
+#: chapter8/xinclude.xml:2214(title)
 msgid "Displaying the Project Settings Dialogue Box"
 msgstr "显示项目设置对话框"
 
-#: chapter8/xinclude.xml:2195(para)
+#: chapter8/xinclude.xml:2225(para)
 msgid ""
 "In the <emphasis role=\"strong\">Projects Settings</emphasis> dialogue box, "
 "you can edit the various aspects of the selected movie clip by defining "
@@ -3243,11 +3285,11 @@ msgstr ""
 "出</emphasis> 节下定义音频参数。制定好之后点击 <emphasis role=\"strong\">确定"
 "</emphasis>。"
 
-#: chapter8/xinclude.xml:2206(title)
+#: chapter8/xinclude.xml:2236(title)
 msgid "Specifying Edit Preferences"
 msgstr "设定编辑首选项"
 
-#: chapter8/xinclude.xml:2217(para)
+#: chapter8/xinclude.xml:2247(para)
 msgid ""
 "You return to the Pitivi window. To start applying your specifications on "
 "the selected video clip, click the <emphasis role=\"strong\">Render project</"
@@ -3265,11 +3307,11 @@ msgstr ""
 "点击 <emphasis role=\"strong\">选择文件</emphasis> 按钮为编辑后的视频剪辑指定"
 "一个文件名。"
 
-#: chapter8/xinclude.xml:2227(title)
+#: chapter8/xinclude.xml:2257(title)
 msgid "Specifying the Output File"
 msgstr "指定输出文件"
 
-#: chapter8/xinclude.xml:2238(para)
+#: chapter8/xinclude.xml:2268(para)
 msgid ""
 "This opens the <emphasis role=\"strong\">Choose file to render to</emphasis> "
 "dialogue box. Use this dialogue box to assign a name for the edited video "
@@ -3281,12 +3323,12 @@ msgstr ""
 "辑视频剪辑指定一个名字并指定保存位置。最后点击 <emphasis role=\"strong\">确定"
 "</emphasis> 以继续。"
 
-#: chapter8/xinclude.xml:2244(title)
+#: chapter8/xinclude.xml:2274(title)
 msgid "Selecting the File to Render to"
 msgstr "选择要渲染的文件"
 
 # 原文有误 record 按钮
-#: chapter8/xinclude.xml:2255(para)
+#: chapter8/xinclude.xml:2285(para)
 msgid ""
 "The name of the file now appears on the <emphasis role=\"strong\">Output "
 "file</emphasis> button. Start editing the video clip by clicking the "
@@ -3295,11 +3337,11 @@ msgstr ""
 "文件的名字出现在 <emphasis role=\"strong\">输出文件</emphasis> 按钮上。通过点"
 "击 <emphasis role=\"strong\">渲染</emphasis> 按钮开始编辑。"
 
-#: chapter8/xinclude.xml:2260(title)
+#: chapter8/xinclude.xml:2290(title)
 msgid "Editing the Video File"
 msgstr "编辑视频文件"
 
-#: chapter8/xinclude.xml:2271(para)
+#: chapter8/xinclude.xml:2301(para)
 msgid ""
 "The Pitivi Video Editor has started rendering a new project based on your "
 "specifications. You can view the progress of the process in the progress "
@@ -3311,42 +3353,42 @@ msgstr ""
 "完成后，点击右上角的关闭按钮退出 <emphasis role=\"strong\">渲染工程</"
 "emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:2277(title)
+#: chapter8/xinclude.xml:2307(title)
 msgid "Project Rendering Progress Indicator"
 msgstr "项目进程指示器"
 
-#: chapter8/xinclude.xml:2288(para)
+#: chapter8/xinclude.xml:2318(para)
 msgid "The newly edited video clip is now saved at the specified location."
 msgstr "编辑过的视频剪辑现在已经保存到了指定位置。"
 
-#: chapter8/xinclude.xml:2292(title)
+#: chapter8/xinclude.xml:2322(title)
 msgid "The Edited Video Clip"
 msgstr "已编辑的视频剪辑"
 
-#: chapter8/xinclude.xml:2306(title)
+#: chapter8/xinclude.xml:2336(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter8/xinclude.xml:2310(para)
+#: chapter8/xinclude.xml:2340(para)
 msgid ""
 "Software usage and distribution is controlled by laws and legislations "
 "unique to each country."
 msgstr "软件使用和发行是由每个国家各自的法律法规控制的。"
 
-#: chapter8/xinclude.xml:2315(para)
+#: chapter8/xinclude.xml:2345(para)
 msgid ""
 "When using or redistributing proprietary media formats, you should be aware "
 "of the associated patent or copyright laws."
 msgstr "在使用或重新发布专有媒体格式前，您应该知道与之相关的专利或版权法。"
 
-#: chapter8/xinclude.xml:2320(para)
+#: chapter8/xinclude.xml:2350(para)
 msgid ""
 "You can use Rhythmbox to play and organise music, listen to Internet radio "
 "and import music from CDs."
 msgstr ""
 "您可以使用 Rhythmbox 播放和组织音乐，收听网络电台，或者从 CD 导入音乐。"
 
-#: chapter8/xinclude.xml:2325(para)
+#: chapter8/xinclude.xml:2355(para)
 msgid ""
 "Using Sound Juicer, you can play audio tracks direct from the CD, extract "
 "audio tracks and convert them into audio files in various file formats. In "
@@ -3356,34 +3398,34 @@ msgstr ""
 "使用音乐榨汁机，可以从 CD 播放或提取音频曲目，或者转换成其他格式的音频文件。"
 "另外，Ubuntu 默认的音频光盘刻录器——Brasero 可以用来创建音频和数据光盘。"
 
-#: chapter8/xinclude.xml:2332(para)
+#: chapter8/xinclude.xml:2362(para)
 msgid ""
 "Playback of proprietary multimedia formats can be enabled in Ubuntu by "
 "installing additional multimedia codecs from the repositories."
 msgstr "Ubuntu 中可以通过从软件库安装附加的多媒体解码器来播放专有多媒体格式。"
 
-#: chapter8/xinclude.xml:2338(para)
+#: chapter8/xinclude.xml:2368(para)
 msgid "Sound Recorder can be used to create audio files in various formats."
 msgstr "录音机可以用于创建多种格式的音频文件。"
 
-#: chapter8/xinclude.xml:2343(para)
+#: chapter8/xinclude.xml:2373(para)
 msgid "Audacity enables you to record and edit audio files."
 msgstr "Audacity 支持记录和编辑音频文件"
 
-#: chapter8/xinclude.xml:2347(para)
+#: chapter8/xinclude.xml:2377(para)
 msgid ""
 "DVD playback in Totem Movie Player can be enabled by installing the required "
 "software packages."
 msgstr "可以通过安装需要的软件包以启用 Totem 电影播放器来播放 DVD 。"
 
-#: chapter8/xinclude.xml:2352(para)
+#: chapter8/xinclude.xml:2382(para)
 msgid ""
 "Thoggen is a DVD backup utility for Linux that can be used in Ubuntu to copy "
 "DVDs."
 msgstr ""
 "Thoggen 是 Linux 上的一款 DVD 备份工具，其可以在 Ubuntu 中用于复制 DVD。"
 
-#: chapter8/xinclude.xml:2357(para)
+#: chapter8/xinclude.xml:2387(para)
 msgid ""
 "Ubuntu provides you with tools to listen and watch online videos and audios "
 "directly from within your browser or in a mediaplayer such as RealPlayer."
@@ -3391,72 +3433,72 @@ msgstr ""
 "Ubuntu 提供直接从浏览器或如 RealPlayer 的多媒体播放器中收听和观看在线视频或音"
 "频的工具。"
 
-#: chapter8/xinclude.xml:2363(para)
+#: chapter8/xinclude.xml:2393(para)
 msgid "Pitivi video Editor can be used to play and edit videos."
 msgstr "Pitivi 视频编辑器可以用于播放和编辑视频。"
 
-#: chapter8/xinclude.xml:2308(para)
+#: chapter8/xinclude.xml:2338(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
 msgstr "本课中，您学到了：<placeholder-1/>"
 
-#: chapter8/xinclude.xml:2370(title)
+#: chapter8/xinclude.xml:2400(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter8/xinclude.xml:2375(para)
+#: chapter8/xinclude.xml:2405(para)
 msgid "List the main features of a free software license."
 msgstr "请列出自由软件许可证的主要特点。"
 
-#: chapter8/xinclude.xml:2382(para)
+#: chapter8/xinclude.xml:2412(para)
 msgid "Enables anyone to distribute or sell the software"
 msgstr "允许任何人发行或出售此软件"
 
-#: chapter8/xinclude.xml:2386(para)
+#: chapter8/xinclude.xml:2416(para)
 msgid "Makes the source code of the software available"
 msgstr "提供软件的源代码"
 
-#: chapter8/xinclude.xml:2390(para)
+#: chapter8/xinclude.xml:2420(para)
 msgid "Allows users to make modifications and to produce derived works"
 msgstr "允许用户做出修改并制作衍生作品"
 
-#: chapter8/xinclude.xml:2395(para)
+#: chapter8/xinclude.xml:2425(para)
 msgid "Does not restrict the use of other software"
 msgstr "不限制其他软件的使用"
 
-#: chapter8/xinclude.xml:2379(para)
+#: chapter8/xinclude.xml:2409(para)
 msgid ""
 "A free software license include the following features: <placeholder-1/>"
 msgstr "一款自由软件许可证一般包含如下特点：<placeholder-1/>"
 
-#: chapter8/xinclude.xml:2403(para)
+#: chapter8/xinclude.xml:2433(para)
 msgid "Which is the default music player in Ubuntu?"
 msgstr "Ubuntu 中的默认音乐播放器是哪个？"
 
-#: chapter8/xinclude.xml:2407(para)
+#: chapter8/xinclude.xml:2437(para)
 msgid "Totem"
 msgstr "a) Totem"
 
-#: chapter8/xinclude.xml:2411(para)
+#: chapter8/xinclude.xml:2441(para)
 msgid "Rhythmbox"
 msgstr "b) Rhythmbox"
 
-#: chapter8/xinclude.xml:2415(para)
+#: chapter8/xinclude.xml:2445(para)
 msgid "Audacity"
 msgstr "c) Audacity"
 
-#: chapter8/xinclude.xml:2419(para)
+#: chapter8/xinclude.xml:2449(para)
 msgid "gtkpod"
 msgstr "d) gtkpod"
 
-#: chapter8/xinclude.xml:2425(para)
+#: chapter8/xinclude.xml:2455(para)
 msgid "b) Rhythmbox"
 msgstr "b) Rhythmbox"
 
-#: chapter8/xinclude.xml:2431(para)
+#: chapter8/xinclude.xml:2461(para)
 msgid "What are podcasts?"
 msgstr "什么是播客？"
 
-#: chapter8/xinclude.xml:2435(para)
+#: chapter8/xinclude.xml:2465(para)
 msgid ""
 "Podcasts are audio shows, broadcasted over the Internet, that you can "
 "subscribe to. Subscribing to a podcast enables you to download each new "
@@ -3465,76 +3507,76 @@ msgstr ""
 "播客是一种在互联网上发布文件并允许用户订阅以自动接收新文件的方法，或用此方法"
 "来制作的电台节目。通过订阅播客可以从播客源下载每个新版多媒体文件。"
 
-#: chapter8/xinclude.xml:2444(para)
+#: chapter8/xinclude.xml:2474(para)
 msgid ""
 "Which application is available in Ubuntu by default to play and extract "
 "audio compact discs?"
 msgstr "以下哪个是 Ubuntu 中专用于播放和提取音频光盘的程序？"
 
-#: chapter8/xinclude.xml:2453(para)
+#: chapter8/xinclude.xml:2483(para)
 msgid "RealPlayer"
 msgstr "RealPlayer"
 
-#: chapter8/xinclude.xml:2457(para)
+#: chapter8/xinclude.xml:2487(para)
 msgid "Brasero"
 msgstr "Brasero"
 
-#: chapter8/xinclude.xml:2461(para) chapter8/xinclude.xml:2467(para)
+#: chapter8/xinclude.xml:2491(para) chapter8/xinclude.xml:2497(para)
 msgid "Sound Juicer"
 msgstr "音乐榨汁机"
 
-#: chapter8/xinclude.xml:2473(para)
+#: chapter8/xinclude.xml:2503(para)
 msgid ""
 "In which formats does Sound Juicer enable you to extract audio files onto "
 "your computer?"
 msgstr "音乐榨汁机可以使用何种格式保存提取的音频文件？"
 
-#: chapter8/xinclude.xml:2478(para)
+#: chapter8/xinclude.xml:2508(para)
 msgid ""
 "Sound Juicer enables you to extract audio files into the following three "
 "formats:"
 msgstr "音乐榨汁机可以使用如下格式保存提取的音频文件："
 
-#: chapter8/xinclude.xml:2483(para)
+#: chapter8/xinclude.xml:2513(para)
 msgid "Ogg Vorbis"
 msgstr "Ogg Vorbis"
 
-#: chapter8/xinclude.xml:2487(para)
+#: chapter8/xinclude.xml:2517(para)
 msgid "FLAC"
 msgstr "FLAC"
 
-#: chapter8/xinclude.xml:2491(para)
+#: chapter8/xinclude.xml:2521(para)
 msgid "WAV"
 msgstr "WAV"
 
 # 此处有错？
-#: chapter8/xinclude.xml:2499(para)
+#: chapter8/xinclude.xml:2529(para)
 msgid ""
 "From where does Sound Juicer retrieves retrieve the CD artist, title, and "
 "track data?"
 msgstr "音乐榨汁机从何处检索 CD 艺人、标题和曲目数据？"
 
-#: chapter8/xinclude.xml:2504(para)
+#: chapter8/xinclude.xml:2534(para)
 msgid ""
 "Sound Juicer will retrieve the CD artist, title, and track data from "
 "MusicBrainz.org."
 msgstr "音乐榨汁机从 MusicBrainz.org 检索 CD 艺人、标题和曲目数据。"
 
-#: chapter8/xinclude.xml:2511(para)
+#: chapter8/xinclude.xml:2541(para)
 msgid "Name the default CD audio recording application available in Ubuntu?"
 msgstr "Ubuntu 中的默认可用的 CD 音频记录程序名称是？"
 
-#: chapter8/xinclude.xml:2516(para)
+#: chapter8/xinclude.xml:2546(para)
 msgid ""
 "Brasero is the audio CD burner application that comes bundled with Ubuntu, "
 "by default."
 msgstr "Brasero 是 Ubuntu 默认捆绑的音频 CD 刻录程序。"
 
-#: chapter8/xinclude.xml:2523(para)
+#: chapter8/xinclude.xml:2553(para)
 msgid "Why do you need to install additional multimedia codecs in Ubuntu?"
 msgstr "为什么需要在 Ubuntu 中安装附加多媒体解码器？"
 
-#: chapter8/xinclude.xml:2528(para)
+#: chapter8/xinclude.xml:2558(para)
 msgid ""
 "Due to the legal restrictions associated with the use of proprietary "
 "formats, by default, Ubuntu does not offer support for such formats. You "
@@ -3544,25 +3586,25 @@ msgstr ""
 "由于使用专有格式的法律限制，Ubuntu 默认不提供对这些格式的支持。您需要安装附加"
 "的多媒体解码器以支持这些专有媒体格式。"
 
-#: chapter8/xinclude.xml:2537(para)
+#: chapter8/xinclude.xml:2567(para)
 msgid ""
 "You can download and install multimedia codecs using the "
 "____________________."
 msgstr "您可以使用 ____________________ 安装多媒体解码器。"
 
-#: chapter8/xinclude.xml:2542(para)
+#: chapter8/xinclude.xml:2572(para)
 msgid "Synaptic Package Manager or Command Line Interface"
 msgstr "新立得软件包管理器或命令终端"
 
-#: chapter8/xinclude.xml:2549(title)
+#: chapter8/xinclude.xml:2579(title)
 msgid "Lab Exercise"
 msgstr "上机练习"
 
-#: chapter8/xinclude.xml:2552(title)
+#: chapter8/xinclude.xml:2582(title)
 msgid "Exercise 1: Playing Music Using Rhythmbox"
 msgstr "练习 1：使用 Rhythmbox 播放音乐文件"
 
-#: chapter8/xinclude.xml:2554(para)
+#: chapter8/xinclude.xml:2584(para)
 msgid ""
 "You have recently installed Ubuntu and want to play and organise your music "
 "files, listen to music podcasts and Internet radio. List the steps that you "
@@ -3571,7 +3613,7 @@ msgstr ""
 "您刚安装了 Ubuntu，想在其下播放和组织音乐文件、收听音乐播客和网络电台。列出所"
 "需的操作步骤："
 
-#: chapter8/xinclude.xml:2561(para)
+#: chapter8/xinclude.xml:2591(para)
 msgid ""
 "On the <emphasis role=\"strong\">Application</emphasis> menu, point to "
 "<emphasis role=\"strong\">Sound &amp; Video</emphasis> and then click "
@@ -3581,7 +3623,7 @@ msgstr ""
 "\"strong\">影音</emphasis> 下的 <emphasis role=\"strong\">Rhythmbox 音乐播放"
 "器</emphasis>。"
 
-#: chapter8/xinclude.xml:2568(para)
+#: chapter8/xinclude.xml:2598(para)
 msgid ""
 "To start importing individual music files into Rhythmbox, right-click "
 "<emphasis role=\"strong\">Library</emphasis> and click <emphasis role="
@@ -3590,7 +3632,7 @@ msgstr ""
 "向 Rhythmbox 导入音乐文件，右键点击 <emphasis role=\"strong\">音乐库</"
 "emphasis> 并点击 <emphasis role=\"strong\">导入文件</emphasis>。"
 
-#: chapter8/xinclude.xml:2574(para)
+#: chapter8/xinclude.xml:2604(para)
 msgid ""
 "In the <emphasis role=\"strong\">Import File into Library</emphasis> "
 "dialogue box, navigate to the folder from which you want to import the files."
@@ -3598,14 +3640,14 @@ msgstr ""
 "在 <emphasis role=\"strong\">将文件导入到音乐库</emphasis> 对话框中，导航到文"
 "件所在文件夹。"
 
-#: chapter8/xinclude.xml:2580(para)
+#: chapter8/xinclude.xml:2610(para)
 msgid ""
 "Select the files that you want to import and click <emphasis role=\"strong"
 "\">Open.</emphasis>"
 msgstr "选择要导入的文件并点击 <emphasis role=\"strong\">打开</emphasis>。"
 
 # 怀疑原文有误，缺少一个 click
-#: chapter8/xinclude.xml:2584(para)
+#: chapter8/xinclude.xml:2614(para)
 msgid ""
 "Select the music tracks that you want to play and the <emphasis role=\"strong"
 "\">Play</emphasis> button to start playing the selected track."
@@ -3613,7 +3655,7 @@ msgstr ""
 "选择要播放的音乐曲目，并点击 <emphasis role=\"strong\">播放</emphasis> 按钮开"
 "始播放。"
 
-#: chapter8/xinclude.xml:2594(para)
+#: chapter8/xinclude.xml:2624(para)
 msgid ""
 "Enter the podcast feed URL in the <emphasis role=\"strong\">New Podcast "
 "Feed</emphasis> text box and click <emphasis role=\"strong\">Add.</emphasis>"
@@ -3621,7 +3663,7 @@ msgstr ""
 "在 <emphasis role=\"strong\">新播客订阅</emphasis> 文本框输入 URL，然后点击 "
 "<emphasis role=\"strong\">添加</emphasis>。"
 
-#: chapter8/xinclude.xml:2599(para)
+#: chapter8/xinclude.xml:2629(para)
 msgid ""
 "To play a podcast episode, select the episode that you want to play and "
 "click the <emphasis role=\"strong\">Play</emphasis> button."
@@ -3629,7 +3671,7 @@ msgstr ""
 "要播放一首播客曲目，选择想要播放的曲目并点击 <emphasis role=\"strong\">播放</"
 "emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:2605(para)
+#: chapter8/xinclude.xml:2635(para)
 msgid ""
 "To listen to Internet radio, click the <emphasis role=\"strong\">Radio</"
 "emphasis> source in the <emphasis role=\"strong\">Library</emphasis> pane."
@@ -3637,13 +3679,13 @@ msgstr ""
 "要收听网络电台，点击在 <emphasis role=\"strong\">源</emphasis> 嵌板上的 "
 "<emphasis role=\"strong\">电台</emphasis> 源。"
 
-#: chapter8/xinclude.xml:2609(para)
+#: chapter8/xinclude.xml:2639(para)
 msgid ""
 "Double-click on the radio station of your choice to listen to the streaming "
 "media."
 msgstr "双击某一广播台以收听流媒体。"
 
-#: chapter8/xinclude.xml:2614(para)
+#: chapter8/xinclude.xml:2644(para)
 msgid ""
 "To add a new radio station to the existing list of stations, click <emphasis "
 "role=\"strong\">New Internet Radio Station</emphasis> and paste the URL of "
@@ -3654,18 +3696,18 @@ msgstr ""
 "台</emphasis> 并在 <emphasis role=\"strong\">Internet 电台的 URL</emphasis> "
 "文本框中粘贴新电台的 URL。"
 
-#: chapter8/xinclude.xml:2621(para)
+#: chapter8/xinclude.xml:2651(para)
 msgid ""
 "Click <emphasis role=\"strong\">Add</emphasis> to add the radio station in "
 "the existing list."
 msgstr ""
 "点击 <emphasis role=\"strong\">添加</emphasis> 在现有列表中添加该广播站。"
 
-#: chapter8/xinclude.xml:2633(title)
+#: chapter8/xinclude.xml:2663(title)
 msgid "Exercise 2: Playing and Extracting Audio CDs"
 msgstr "练习 2：播放和提取音频 CD"
 
-#: chapter8/xinclude.xml:2635(para)
+#: chapter8/xinclude.xml:2665(para)
 msgid ""
 "You have built up an impressive CD collection over the years and you would "
 "like to play these on your Ubuntu desktop, retrieve details about the music "
@@ -3677,11 +3719,11 @@ msgstr ""
 "曲的详细信息，您还想将喜欢的歌曲以可用的格式复制到电脑上。列出实现这些功能需"
 "要执行的所有操作。"
 
-#: chapter8/xinclude.xml:2643(title)
+#: chapter8/xinclude.xml:2673(title)
 msgid "To play audio CDs:"
 msgstr "要播放音频 CD："
 
-#: chapter8/xinclude.xml:2648(para)
+#: chapter8/xinclude.xml:2678(para)
 msgid ""
 "Insert an audio CD in the CD drive of your computer. The <emphasis role="
 "\"strong\">Sound Juicer</emphasis> CD player and ripper is launched "
@@ -3690,7 +3732,7 @@ msgstr ""
 "向计算机插入 CD。<emphasis role=\"strong\">音乐榨汁机</emphasis> CD 播放器将"
 "自动启动。"
 
-#: chapter8/xinclude.xml:2654(para)
+#: chapter8/xinclude.xml:2684(para)
 msgid ""
 "Notice that <emphasis role=\"strong\">Sound Juicer</emphasis> has fetched "
 "the tracks' information from MusicBrainz.org."
@@ -3698,27 +3740,27 @@ msgstr ""
 "注意到，<emphasis role=\"strong\">音乐榨汁机</emphasis> 已经从 MusicBrainz."
 "org 取回了曲目信息。"
 
-#: chapter8/xinclude.xml:2659(para)
+#: chapter8/xinclude.xml:2689(para)
 msgid ""
 "To play the tracks of your choice, select the particular tracks by selecting "
 "the corresponding checkboxes."
 msgstr "要播放选择的曲目，可选中对应曲目的复选框。"
 
-#: chapter8/xinclude.xml:2664(para)
+#: chapter8/xinclude.xml:2694(para)
 msgid ""
 "Click the <emphasis role=\"strong\">Play</emphasis> button to play the "
 "tracks."
 msgstr "点击 <emphasis role=\"strong\">播放</emphasis> 按钮播放曲目。"
 
-#: chapter8/xinclude.xml:2670(title)
+#: chapter8/xinclude.xml:2700(title)
 msgid "To extract an audio CD:"
 msgstr "提取音频 CD："
 
-#: chapter8/xinclude.xml:2675(para)
+#: chapter8/xinclude.xml:2705(para)
 msgid "Insert the audio CD into your computer's CD drive."
 msgstr "向计算机中插入音频 CD。"
 
-#: chapter8/xinclude.xml:2679(para)
+#: chapter8/xinclude.xml:2709(para)
 msgid ""
 "On the <emphasis role=\"strong\">Edit</emphasis> menu, click <emphasis role="
 "\"strong\">Preferences.</emphasis>"
@@ -3726,7 +3768,7 @@ msgstr ""
 "在 <emphasis role=\"strong\">编辑</emphasis> 菜单上, 点击 <emphasis role="
 "\"strong\">首选项</emphasis>。"
 
-#: chapter8/xinclude.xml:2684(para)
+#: chapter8/xinclude.xml:2714(para)
 msgid ""
 "In the <emphasis role=\"strong\">Preferences</emphasis> dialogue box, click "
 "the <emphasis role=\"strong\">Output Format</emphasis> drop-down list."
@@ -3734,14 +3776,14 @@ msgstr ""
 "在 <emphasis role=\"strong\">首选项</emphasis> 对话框中, 点击 <emphasis role="
 "\"strong\">输出格式</emphasis> 下拉列表。"
 
-#: chapter8/xinclude.xml:2690(para)
+#: chapter8/xinclude.xml:2720(para)
 msgid ""
 "Select the format of your choice from the <emphasis role=\"strong\">Output "
 "Format</emphasis> drop-down list."
 msgstr ""
 "根据需要从 <emphasis role=\"strong\">输出格式</emphasis> 下拉列表中选定格式。"
 
-#: chapter8/xinclude.xml:2694(para)
+#: chapter8/xinclude.xml:2724(para)
 msgid ""
 "Select the directory where you want to extract the files from the <emphasis "
 "role=\"strong\">Music Folder</emphasis> drop-down list."
@@ -3749,7 +3791,7 @@ msgstr ""
 "从 <emphasis role=\"strong\">音乐文件夹</emphasis> 下拉列表中选择文件存放目"
 "录。"
 
-#: chapter8/xinclude.xml:2700(para)
+#: chapter8/xinclude.xml:2730(para)
 msgid ""
 "Click <emphasis role=\"strong\">Close</emphasis> to exit the <emphasis role="
 "\"strong\">Preferences</emphasis> dialogue box."
@@ -3757,7 +3799,7 @@ msgstr ""
 "点击 <emphasis role=\"strong\">关闭</emphasis> 退出 <emphasis role=\"strong"
 "\">首选项</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:2705(para)
+#: chapter8/xinclude.xml:2735(para)
 msgid ""
 "In the <emphasis role=\"strong\">Sound Juicer</emphasis> window, select the "
 "tracks that you want to extract by selecting the corresponding check boxes."
@@ -3765,13 +3807,13 @@ msgstr ""
 "在 <emphasis role=\"strong\">音乐榨汁机</emphasis> 窗口中，通过选中对应的复选"
 "框选择要提取的曲目。"
 
-#: chapter8/xinclude.xml:2711(para)
+#: chapter8/xinclude.xml:2741(para)
 msgid ""
 "Click the <emphasis role=\"strong\">Extract</emphasis> button to start "
 "extracting the files."
 msgstr "点击 <emphasis role=\"strong\">提取</emphasis> 按钮开始提取文件。"
 
-#: chapter8/xinclude.xml:2716(para)
+#: chapter8/xinclude.xml:2746(para)
 msgid ""
 "Sound Juicer notifies you after the selected tracks are extracted "
 "successfully. Click <emphasis role=\"strong\">Open</emphasis> to view the "
@@ -3780,11 +3822,11 @@ msgstr ""
 "曲目提取成功后，音乐榨汁机将及时通知您。点击 <emphasis role=\"strong\">打开</"
 "emphasis> 查看曲目。"
 
-#: chapter8/xinclude.xml:2729(title)
+#: chapter8/xinclude.xml:2759(title)
 msgid "Exercise 3: Burning Audio CDs"
 msgstr "练习 3：刻录音频 CD"
 
-#: chapter8/xinclude.xml:2731(para)
+#: chapter8/xinclude.xml:2761(para)
 msgid ""
 "You have recently discovered a Web site from where you can freely download "
 "hundreds of songs. You do not want these files to occupy the precious space "
@@ -3796,12 +3838,12 @@ msgstr ""
 "的空间。于是您想要复制这些文件到音频 CD 上，以便将来欣赏它们而不占用硬盘空"
 "间。"
 
-#: chapter8/xinclude.xml:2742(para)
+#: chapter8/xinclude.xml:2772(para)
 msgid "Insert a blank (recordable) CD in the CD drive of your computer."
 msgstr "向计算机的光驱插入一张空白(可刻录的) CD。"
 
 # 此处有错？
-#: chapter8/xinclude.xml:2747(para)
+#: chapter8/xinclude.xml:2777(para)
 msgid ""
 "Click the click the <emphasis role=\"strong\">Make Audio CD</emphasis> "
 "button. This launches the <emphasis role=\"strong\">Brasero Disc Burning</"
@@ -3810,18 +3852,18 @@ msgstr ""
 "点击 <emphasis role=\"strong\">制作音频 CD</emphasis> 按钮，启动 <emphasis "
 "role=\"strong\">Brasero 光盘刻录</emphasis> 程序。"
 
-#: chapter8/xinclude.xml:2752(para)
+#: chapter8/xinclude.xml:2782(para)
 msgid ""
 "Click the <emphasis role=\"strong\">New Audio Project</emphasis> button."
 msgstr "点击 <emphasis role=\"strong\">新建音频项目</emphasis> 按钮。"
 
-#: chapter8/xinclude.xml:2757(para)
+#: chapter8/xinclude.xml:2787(para)
 msgid ""
 "Navigate to the desired folder with the files you wish to add to display its "
 "contents."
 msgstr "导航到预刻录文件所在的文件夹。"
 
-#: chapter8/xinclude.xml:2762(para)
+#: chapter8/xinclude.xml:2792(para)
 msgid ""
 "Select the specific audio files that you want to be copied and click the "
 "<emphasis role=\"strong\">Add</emphasis> button or simply drag each file "
@@ -3830,7 +3872,7 @@ msgstr ""
 "指定预复制文件并点击 <emphasis role=\"strong\">添加</emphasis> 按钮，也可以将"
 "文件拖动到项目窗口右边的文件区域。"
 
-#: chapter8/xinclude.xml:2768(para)
+#: chapter8/xinclude.xml:2798(para)
 msgid ""
 "Once you are sure of the files to be copied to the disk, click the <emphasis "
 "role=\"strong\">Burn</emphasis> button to start writing the audio files from "
@@ -3839,7 +3881,7 @@ msgstr ""
 "确定预复制文件之后，点击 <emphasis role=\"strong\">刻录</emphasis> 按钮开始"
 "向 CD 写入音频文件。"
 
-#: chapter8/xinclude.xml:2774(para)
+#: chapter8/xinclude.xml:2804(para)
 msgid ""
 "The Disc Burning Setup dialogue box displays. Click <emphasis role=\"strong"
 "\">Burn</emphasis> to continue."
@@ -3847,15 +3889,15 @@ msgstr ""
 "显示光盘刻录设置对话框。点击 <emphasis role=\"strong\">刻录</emphasis> 以继"
 "续。"
 
-#: chapter8/xinclude.xml:2780(para)
+#: chapter8/xinclude.xml:2810(para)
 msgid "Brasero now starts writing the music files to the media disc."
 msgstr "Brasero 现在开始向光盘写入音乐文件。"
 
-#: chapter8/xinclude.xml:2785(title)
+#: chapter8/xinclude.xml:2815(title)
 msgid "Exercise 4: Playing Proprietary Multimedia formats"
 msgstr "练习 4：播放专有多媒体格式"
 
-#: chapter8/xinclude.xml:2787(para)
+#: chapter8/xinclude.xml:2817(para)
 msgid ""
 "You have a huge collection of music in MP3 format stored on your computer "
 "and want to play these music files on your Ubuntu desktop. List the steps "
@@ -3864,11 +3906,11 @@ msgstr ""
 "您有大量 MP3 格式的音乐文件存放在计算机上，现在您想在 Ubuntu 桌面上播放这些音"
 "乐。列出安装所需多媒体解码器需要执行的步骤。"
 
-#: chapter8/xinclude.xml:2794(title)
+#: chapter8/xinclude.xml:2824(title)
 msgid "To Install a codec plugin using Synaptic Package Manager:"
 msgstr "使用新立得软件包管理器安装解码插件："
 
-#: chapter8/xinclude.xml:2797(para)
+#: chapter8/xinclude.xml:2827(para)
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and then click <emphasis role="
@@ -3881,7 +3923,7 @@ msgstr ""
 "emphasis> 窗口。"
 
 # 此处原文句号放错地方，又。
-#: chapter8/xinclude.xml:2805(para)
+#: chapter8/xinclude.xml:2835(para)
 msgid ""
 "The Multiverse and Restricted repositories are not activated by default in "
 "Ubuntu. To activate these repositories, on the <emphasis role=\"strong"
@@ -3894,7 +3936,7 @@ msgstr ""
 "<emphasis role=\"strong\">软件库</emphasis>，此时显示 <emphasis role=\"strong"
 "\">软件源</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:2811(para)
+#: chapter8/xinclude.xml:2841(para)
 msgid ""
 "To enable the Multiverse and Restricted repositories, select the third and "
 "fourth check boxes available on the <emphasis role=\"strong\">Ubuntu "
@@ -3905,7 +3947,7 @@ msgstr ""
 "\">Ubuntu 软件</emphasis> 标签页上的第三个和第四个复选框，然后点击 <emphasis "
 "role=\"strong\">关闭</emphasis> 退出此对话框。"
 
-#: chapter8/xinclude.xml:2818(para)
+#: chapter8/xinclude.xml:2848(para)
 msgid ""
 "You may receive a notification that your repository information has changed. "
 "Click <emphasis role=\"strong\">Close</emphasis> to exit this message."
@@ -3913,7 +3955,7 @@ msgstr ""
 "您将收到一个关于软件库信息已更改新的提示信息。点击 <emphasis role=\"strong\">"
 "关闭</emphasis> 退出此消息。"
 
-#: chapter8/xinclude.xml:2824(para)
+#: chapter8/xinclude.xml:2854(para)
 msgid ""
 "Once you return to the Synaptic Package Manager window, you are required to "
 "click the <emphasis role=\"strong\">Reload</emphasis> button to apply your "
@@ -3922,7 +3964,7 @@ msgstr ""
 "返回到新立得软件包管理器窗口，点击 <emphasis role=\"strong\">刷新</emphasis> "
 "按钮来提交您的更改。"
 
-#: chapter8/xinclude.xml:2830(para)
+#: chapter8/xinclude.xml:2860(para)
 msgid ""
 "On clicking the <emphasis role=\"strong\">Reload</emphasis> button, the "
 "system starts checking the repositories for new, removed or upgraded "
@@ -3931,19 +3973,19 @@ msgstr ""
 "点击 <emphasis role=\"strong\">刷新</emphasis> 按钮，系统开始检查软件库以获取"
 "新加入的或更新了版本的软件包。"
 
-#: chapter8/xinclude.xml:2836(para)
+#: chapter8/xinclude.xml:2866(para)
 msgid ""
 "To install a software package, you need to first locate the package in the "
 "Synaptic Package Manager window."
 msgstr "要安装软件包，您首先需要在新立得包管理器窗口中标定此包。"
 
-#: chapter8/xinclude.xml:2841(para)
+#: chapter8/xinclude.xml:2871(para)
 msgid ""
 "To initiate a search for a specific package, click <emphasis role=\"strong"
 "\">Search.</emphasis>"
 msgstr "要开始搜索某个软件包，点击 <emphasis role=\"strong\">搜索</emphasis>。"
 
-#: chapter8/xinclude.xml:2845(para)
+#: chapter8/xinclude.xml:2875(para)
 msgid ""
 "In the <emphasis role=\"strong\">Search</emphasis> field, enter the name of "
 "the software package that you are looking for. Click <emphasis role=\"strong"
@@ -3952,14 +3994,14 @@ msgstr ""
 "在 <emphasis role=\"strong\">搜索</emphasis> 域中，输入要查找的软件包的名字。"
 "点击 <emphasis role=\"strong\">搜索</emphasis> 按钮开始搜索。"
 
-#: chapter8/xinclude.xml:2851(para)
+#: chapter8/xinclude.xml:2881(para)
 msgid ""
 "Right-click the package to be installed and select <emphasis role=\"strong"
 "\">Mark for Installation</emphasis>."
 msgstr ""
 "右键点击要安装的包并选择 <emphasis role=\"strong\">标记以便安装</emphasis>。"
 
-#: chapter8/xinclude.xml:2855(para)
+#: chapter8/xinclude.xml:2885(para)
 msgid ""
 "Once all the required packages are marked, click <emphasis role=\"strong"
 "\">Apply</emphasis> to start downloading the packages. The <emphasis role="
@@ -3968,7 +4010,7 @@ msgstr ""
 "所有需要的软件包都标记了以后，点击 <emphasis role=\"strong\">应用</emphasis> "
 "开始下载软件包。将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:2861(para)
+#: chapter8/xinclude.xml:2891(para)
 msgid ""
 "To go ahead with the marked installations, click <emphasis role=\"strong"
 "\">Apply</emphasis> on the <emphasis role=\"strong\">Summary</emphasis> "
@@ -3977,7 +4019,7 @@ msgstr ""
 "在 <emphasis role=\"strong\">摘要</emphasis> 对话框上点击 <emphasis role="
 "\"strong\">应用</emphasis> 开始安装。"
 
-#: chapter8/xinclude.xml:2865(para)
+#: chapter8/xinclude.xml:2895(para)
 msgid ""
 "After all the mark software packages are downloaded and installed, the "
 "<emphasis role=\"strong\">Changes Applied</emphasis> dialogue box is "
@@ -3988,18 +4030,18 @@ msgstr ""
 "emphasis> 对话框。点击 <emphasis role=\"strong\">关闭</emphasis> 退出 "
 "<emphasis role=\"strong\">变更已应用</emphasis> 对话框。"
 
-#: chapter8/xinclude.xml:2871(para)
+#: chapter8/xinclude.xml:2901(para)
 msgid ""
 "The check box corresponding to the recently installed software package has "
 "changed to green, indicating that the software has been installed "
 "successfully."
 msgstr "最近安装的软件包的复选框显示为绿色，说明此软件已安装成功。"
 
-#: chapter8/xinclude.xml:2878(title)
+#: chapter8/xinclude.xml:2908(title)
 msgid "Exercise 5: Playing DVDs"
 msgstr "练习 5：播放 DVD"
 
-#: chapter8/xinclude.xml:2880(para)
+#: chapter8/xinclude.xml:2910(para)
 msgid ""
 "One of your friends has recently given you a DVD gift box set of your "
 "favourite movies of all times. Now, you want to play this DVD in your Ubuntu "
@@ -4008,57 +4050,57 @@ msgstr ""
 "假设有朋友送了您一张DVD，上面刻录了您最爱看的电影。接下来，您想在 Ubuntu 下播"
 "放它，享受电影的乐趣。"
 
-#: chapter8/xinclude.xml:2886(title)
+#: chapter8/xinclude.xml:2916(title)
 msgid "To play the DVD in the Movie player:"
 msgstr "在电影播放器中播放 DVD："
 
-#: chapter8/xinclude.xml:2889(para)
+#: chapter8/xinclude.xml:2919(para)
 msgid ""
 "Install the following software packages from the Universe and Multiverse "
 "repositories using the Synaptic Package Manager."
 msgstr ""
 "使用新立得软件包管理器从 Universe 和 Multiverse 软件库中安装如下软件包。"
 
-#: chapter8/xinclude.xml:2894(para)
+#: chapter8/xinclude.xml:2924(para)
 msgid "gxine"
 msgstr "gxine"
 
-#: chapter8/xinclude.xml:2898(para)
+#: chapter8/xinclude.xml:2928(para)
 msgid "libdvdcss2"
 msgstr "libdvdcss2"
 
-#: chapter8/xinclude.xml:2902(para)
+#: chapter8/xinclude.xml:2932(para)
 msgid "libdvdnav4"
 msgstr "libdvdnav4"
 
-#: chapter8/xinclude.xml:2906(para)
+#: chapter8/xinclude.xml:2936(para)
 msgid "libdvdplay0"
 msgstr "libdvdplay0"
 
-#: chapter8/xinclude.xml:2910(para)
+#: chapter8/xinclude.xml:2940(para)
 msgid "libdvdvread3"
 msgstr "libdvdvread3"
 
-#: chapter8/xinclude.xml:2916(para)
+#: chapter8/xinclude.xml:2946(para)
 msgid ""
 "Install the Ubuntu Restricted Extras software package from the Ubuntu "
 "repository."
 msgstr "可以从 Ubuntu 软件库安装 Ubuntu 受限软件包。"
 
-#: chapter8/xinclude.xml:2921(para)
+#: chapter8/xinclude.xml:2951(para)
 msgid ""
 "Insert the DVD into the DVD drive of your computer. This will automatically "
 "launch the Totem and the DVD will start playing."
 msgstr "向计算机中插入 DVD。Totem 将自动启动并且开始播放 DVD。"
 
-#: chapter8/xinclude.xml:2926(para)
+#: chapter8/xinclude.xml:2956(para)
 msgid ""
 "To view the DVD in full screen mode, on the View menu, click Fullscreen. "
 "Alternatively, you can simply press F on your keyboard."
 msgstr ""
 "要全屏观看 DVD，可在查看菜单上点击全屏。或者，您可以单击键盘上的 F 键。"
 
-#: chapter8/xinclude.xml:2932(para)
+#: chapter8/xinclude.xml:2962(para)
 msgid ""
 "You can enjoy the DVD in full screen mode. At any point of time, while "
 "watching the DVD in fullscreen mode, you can press ESC and return to the "
@@ -4068,7 +4110,7 @@ msgstr ""
 "口。"
 
 # 难道又错了吗？
-#: chapter8/xinclude.xml:2938(para)
+#: chapter8/xinclude.xml:2968(para)
 msgid ""
 "To configure the preferences settings, on the <emphasis role=\"strong"
 "\">Edit</emphasis> menu, click <emphasis role=\"strong\">Preferences.</"
@@ -4077,7 +4119,7 @@ msgstr ""
 "要设置显示方式，在 <emphasis role=\"strong\">编辑</emphasis> 菜单上，点击 "
 "<emphasis role=\"strong\">首选项</emphasis>。"
 
-#: chapter8/xinclude.xml:2942(para)
+#: chapter8/xinclude.xml:2972(para)
 msgid ""
 "After specifying your preferences, click <emphasis role=\"strong\">Close</"
 "emphasis> to exit the dialogue box."
@@ -4085,7 +4127,7 @@ msgstr ""
 "设定完成后，点击 <emphasis role=\"strong\">关闭</emphasis> 退出此对话框。"
 
 # 此处菜单项不只如何翻译，到时再看看是什么吧
-#: chapter8/xinclude.xml:2946(para)
+#: chapter8/xinclude.xml:2976(para)
 msgid ""
 "To skip to the next frame, on the <emphasis role=\"strong\">Go</emphasis> "
 "menu, click <emphasis role=\"strong\">Skip Forwards</emphasis>."
@@ -4093,7 +4135,7 @@ msgstr ""
 "要跳到下一帧，在 <emphasis role=\"strong\">导航</emphasis> 菜单上，点击 "
 "<emphasis role=\"strong\">快进</emphasis>。"
 
-#: chapter8/xinclude.xml:2951(para)
+#: chapter8/xinclude.xml:2981(para)
 msgid ""
 "You do not want to view the side bar when playing the DVD, click the "
 "<emphasis role=\"strong\">Sidebar</emphasis> button."
@@ -4101,7 +4143,7 @@ msgstr ""
 "播放 DVD 时不想看到侧边栏，点击 <emphasis role=\"strong\">侧边栏</emphasis> "
 "按钮。"
 
-#: chapter8/xinclude.xml:2956(para)
+#: chapter8/xinclude.xml:2986(para)
 msgid ""
 "This hides the side bar and now you can view the DVD on a bigger space and "
 "simultaneously, have all the playback controls right in front of you."
@@ -4118,6 +4160,14 @@ msgstr ""
 
 #~ msgid "Totem Xine plugin:"
 #~ msgstr "Totem Xine 插件:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Install the <emphasis role=\"strong\"> totem-xine-firefox-plugin</"
+#~ "emphasis> package from the \"Universe\" repository."
+#~ msgstr ""
+#~ "从“Universe”软件库中安装 <emphasis role=\"strong\"> totem-gstreamer-"
+#~ "firefox-plugin</emphasis> 包。"
 
 #~ msgid ""
 #~ "Install the <emphasis role=\"strong\"> totem-gstreamer-firefox-plugin</"
