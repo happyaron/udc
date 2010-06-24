@@ -52,7 +52,37 @@
   <sect1>
     <title>Playing Multimedia Formats</title>
 
-    <para>Statement about free multimedia formats.</para>
+    <para>There are several open multimedia formate or containers:</para>
+    <itemizedlist>
+      		<listitem>
+        	<para>FLAC: a lossless audio codec</para>
+      		</listitem>
+      		<listitem>
+        	<para>Matroska (mkv): a container for all type of multimedia formats (audio, video, images, subtitles)</para>
+      		</listitem>
+      		<listitem>
+        	<para>Ogg: a container for Vorbis, FLAC, Speex (audio formats) and Theora (a video format)</para>
+      		</listitem>
+      		<listitem>
+        	<para>Vorbis: a lossy audio formate.</para>
+      		</listitem>
+      		<listitem>
+        	<para>Theora: a free lossy video compression format.</para>
+      		</listitem>
+      		<listitem>
+        	<para>VP8: an open video compression format owned by Google</para>
+      		</listitem>
+      		<listitem>
+        	<para>VP8: an open video compression format owned by Google</para>
+      		</listitem>
+      		<listitem>
+        	<para>WebM: a video format designed to provide royalty free high quality 
+        	video compression in an open format for use with HTML5 video.A WebM file 
+        	consists of VP8 video and Vorbis audio streams, in a container based on 
+        	a profile of Matroska.</para>
+      		</listitem>
+      		<para>For more information,please see:<ulink url="http://zh.wikipedia.org/Open_format">Open format</ulink></para>
+    	</itemizedlist>
 
     <para>As previously stated, due to the legal restrictions associated with
     the use of proprietary formats, Ubuntu does not offer support for such
@@ -74,7 +104,7 @@
     <para>Other applications, such as VLC, MPlayer and Xine, do not use the
     Gstreamer framework.</para>
 
-    <para>Expert for the default Totem for playing videos and rhythmbox for music,you have
+    <para>Except for the default Totem for playing videos and rhythmbox for music,you have
     lots of other choice,such as many user like using smplayer,which is a QT-based frontend
     of mplayer,and Audacious to play music.</para>
 
