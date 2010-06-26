@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-06-22 00:36+0800\n"
+"PO-Revision-Date: 2010-06-26 01:18+0800\n"
 "Last-Translator:  <>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -415,7 +415,7 @@ msgstr ""
 
 #: chapter7/xinclude.xml:112(title)
 msgid "Agave:"
-msgstr "Agave："
+msgstr "Agave"
 
 #: chapter7/xinclude.xml:114(para)
 msgid ""
@@ -435,7 +435,7 @@ msgstr ""
 
 #: chapter7/xinclude.xml:133(title)
 msgid "Blender:"
-msgstr "Blender："
+msgstr "Blender"
 
 #: chapter7/xinclude.xml:135(para)
 msgid ""
@@ -455,12 +455,12 @@ msgstr ""
 "户界面，它完全在 Open GL 下实现且优化了运行速度。Blender 中可以使用 Python 脚"
 "本绑定，并针对常用的文件格式实现了导入/导出功能，例如 3D Studio。Blender 还可"
 "以生成图像、动画和模型，供给游戏或其他第三方引擎使用，它以独立的二进制文件或"
-"网页插件的形式提供互动内容。想获得关于 Blender 的更多信息，可登录网站<ulink "
-"url=\"http://www.blender.org/\">http://www.blender.org/</ulink>进行查看。"
+"网页插件的形式提供互动内容。想获得关于 Blender 的更多信息，可登录网站 <ulink "
+"url=\"http://www.blender.org/\">http://www.blender.org/</ulink> 进行查看。"
 
 #: chapter7/xinclude.xml:157(title)
 msgid "Dia:"
-msgstr "Dia："
+msgstr "Dia"
 
 #: chapter7/xinclude.xml:159(para)
 msgid ""
@@ -478,7 +478,7 @@ msgstr ""
 
 #: chapter7/xinclude.xml:177(title)
 msgid "Gcolor2:"
-msgstr "Gcolor2："
+msgstr "Gcolor2"
 
 #: chapter7/xinclude.xml:179(para)
 msgid ""
@@ -493,7 +493,7 @@ msgstr ""
 
 #: chapter7/xinclude.xml:194(title)
 msgid "GNU paint:"
-msgstr "GNU paint："
+msgstr "GNU paint"
 
 #: chapter7/xinclude.xml:196(para)
 msgid ""
@@ -564,7 +564,7 @@ msgstr ""
 "F-Spot 是 GNOME 桌面上的一款个人相片管理应用程序。用户可以通过它从电脑硬盘、"
 "数码相机甚至是 iPod 中提取并浏览相片。用户可以给照片添加标签，对照片进行分"
 "类，创建照片 CD，通过 Internet 传送和共享照片，还可以执行基本的颜色校正和编"
-"辑。F-Spot 支持 16 种常用的文件类型，包括 JPEG、GIF、TIFF、RAW 等。"
+"辑。F-Spot 支持很多种常用的文件类型，包括 JPEG、GIF、TIFF、RAW 等。"
 
 #: chapter7/xinclude.xml:236(para)
 msgid "The following graphic shows the elements in the F-Spot interface:"
@@ -873,8 +873,9 @@ msgid ""
 "Click the <emphasis role=\"strong\">Redeye Removal</emphasis> icon "
 "underneath the image. F-spot automatically corrects the image."
 msgstr ""
-"单击编辑工具栏下的 <emphasis role=\"strong\">降低红眼</emphasis> 按钮。F-"
-"Spot 将自动对影像进行修正。"
+"单击编辑工具栏下的 <emphasis role=\"strong\">降低红眼</emphasis> 区的 "
+"<emphasis role=\"strong\">修补！</emphasis> 按钮。F-Spot 将自动对影像进行修"
+"正。"
 
 #: chapter7/xinclude.xml:550(para)
 msgid ""
@@ -1106,8 +1107,8 @@ msgid ""
 "<emphasis role=\"strong\">Inkscape Vector illustrator</emphasis>."
 msgstr ""
 "在 <emphasis role=\"strong\">应用程序</emphasis> 菜单上，指向 <emphasis role="
-"\"strong\">图形</emphasis> 并点击 <emphasis role=\"strong\"> Inkscape 矢量插"
-"图 </emphasis> 启动 Inkscape。"
+"\"strong\">图形</emphasis> 并点击 <emphasis role=\"strong\"> Inkscape 矢量绘"
+"图软件</emphasis> 启动 Inkscape。"
 
 #: chapter7/xinclude.xml:727(title)
 msgid "Creating Vector Graphic Images Using InkScape"
