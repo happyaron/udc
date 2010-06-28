@@ -2650,15 +2650,15 @@ msgstr "这样就可以在 Writer 窗口中调出 Math。表达式编辑器会�
 
 #: chapter4/xinclude.xml:3276(para)
 msgid "The simplest method to enter an equation in your document is to use the <emphasis role=\"strong\">Selection</emphasis> window. By default, the <emphasis role=\"strong\">Selection</emphasis> window is not displayed. To display the <emphasis role=\"strong\">Selection</emphasis> window, on the <emphasis role=\"strong\">View</emphasis> menu, click <emphasis role=\"strong\">Selection</emphasis>."
-msgstr "在文档中输入等式最简单的方法是使用 <emphasis role=\"strong\">选择</emphasis> 窗口。该窗口在默认情况下不显示。要显示 <emphasis role=\"strong\">选择</emphasis> 窗口，在 <emphasis role=\"strong\">视图</emphasis> 菜单中单击 <emphasis role=\"strong\">选择</emphasis>。"
+msgstr "在文档中输入等式最简单的方法是使用 <emphasis role=\"strong\">公式元素</emphasis> 窗口。该窗口在默认情况下不显示。要显示 <emphasis role=\"strong\">公式元素</emphasis> 窗口，在 <emphasis role=\"strong\">视图</emphasis> 菜单中勾上 <emphasis role=\"strong\">公式元素</emphasis>。"
 
 #: chapter4/xinclude.xml:3282(title)
 msgid "Displaying the Selection Window"
-msgstr "显示选择窗口"
+msgstr "显示公式元素窗口"
 
 #: chapter4/xinclude.xml:3293(para)
 msgid "The <emphasis role=\"strong\">Selection</emphasis> window appears as a floating toolbar. Notice that the <emphasis role=\"strong\">Selection</emphasis> window is divided into two halves. The upper half contains the symbol categories, and the lower half displays the symbols available in the selected category. You can now start inserting the equation by selecting the symbols from the <emphasis role=\"strong\"> Selection</emphasis> window."
-msgstr "<emphasis role=\"strong\">选择</emphasis> 会作为一个浮动工具栏出现。请注意 <emphasis role=\"strong\">选择</emphasis> 窗口被分成了两部分。上半部分包括符号类别，下半部分显示了被选中类别中的符号。通过在 <emphasis role=\"strong\">选择</emphasis> 窗口中选定符号，您可以立即开始插入等式了。"
+msgstr "<emphasis role=\"strong\">公式元素</emphasis> 会作为一个浮动工具栏出现。请注意 <emphasis role=\"strong\">公式元素</emphasis> 窗口被分成了两部分。上半部分包括符号类别，下半部分显示了被选中类别中的符号。通过在 <emphasis role=\"strong\">公式元素</emphasis> 窗口中选定符号，您可以立即开始插入等式了。"
 
 #: chapter4/xinclude.xml:3300(para)
 msgid "To insert a symbol, such as \"a/b\" select the appropriate category from the upper half and click the appropriate symbol from the lower half of the <emphasis role=\"strong\"> Selection</emphasis> window."
@@ -2666,11 +2666,11 @@ msgstr "要插入一个符号，比如说 \"a/b\"，在上半部分中选择合�
 
 #: chapter4/xinclude.xml:3306(title)
 msgid "Using the Selection Window"
-msgstr "使用选择窗口"
+msgstr "使用公式元素窗口"
 
 #: chapter4/xinclude.xml:3317(para)
 msgid "You will notice that when you select the symbol on the <emphasis role=\"strong\">Selection</emphasis> window, the markup for the selected symbol appears in the equation editor. Simultaneously, some grey boxes appear in the main text body."
-msgstr "您会看到当您在 <emphasis role=\"strong\">选择</emphasis> 窗口选定符号时，在表达式编辑器中会出现相应的标记。而在文档中则会出现一些灰色的小框。"
+msgstr "您会看到当您在 <emphasis role=\"strong\">公式元素</emphasis> 窗口选定符号时，在表达式编辑器中会出现相应的标记。而在文档中则会出现一些灰色的小框。"
 
 #: chapter4/xinclude.xml:3322(para)
 msgid "The <emphasis role=\"strong\">&lt;?&gt;</emphasis> symbols appearing in the equation editor are placeholders where you need to enter the actual text or symbol associated with your formula."
@@ -2686,7 +2686,7 @@ msgstr "当您在占位符中输入所需的文本或符号时，灰色的小框
 
 #: chapter4/xinclude.xml:3345(para)
 msgid "Once you enter the complete equation using the <emphasis role=\"strong\">Selection</emphasis> window, the equation appears as an object in your document window and you can view the complete markup for the equation in the equation editor. Exit the formula editor by clicking anywhere on the document body."
-msgstr "当您使用 <emphasis role=\"strong\">选择</emphasis> 窗口输入完整的等式时，等式会在文档中作为一个对象出现，您可以在表达式编辑器中查看完整的标记。要退出表达式编辑器，请单击文档主体中的其他任意地方。"
+msgstr "当您使用 <emphasis role=\"strong\">公式元素</emphasis> 窗口输入完整的等式时，等式会在文档中作为一个对象出现，您可以在表达式编辑器中查看完整的标记。要退出表达式编辑器，请单击文档主体中的其他任意地方。"
 
 #: chapter4/xinclude.xml:3351(title)
 msgid "The Inserted Equation"
@@ -2714,15 +2714,15 @@ msgstr "尽管希腊字母广泛使用在数学公式，特别是几何公式中
 
 #: chapter4/xinclude.xml:3400(para)
 msgid "You can enter Greek characters by typing the markup language for them in the equation editor. Alternatively, you can use the <emphasis role=\"strong\">Catalog</emphasis> window. To display the Catalog window, on the Tools menu, click Catalog."
-msgstr "您可以通过在表达式编辑器中输入相对应的标记语言的方法来输入希腊字母。此外您也可以使用 <emphasis role=\"strong\">分类</emphasis> 窗口。要显示分类窗口，请在工具菜单中单击分类。"
+msgstr "您可以通过在表达式编辑器中输入相对应的标记语言的方法来输入希腊字母。此外您也可以使用 <emphasis role=\"strong\">图标</emphasis> 窗口。要显示图标窗口，请在工具菜单中单击图标。"
 
 #: chapter4/xinclude.xml:3406(title)
 msgid "Launching the Catalogue Window"
-msgstr "运行分类窗口"
+msgstr "运行图标窗口"
 
 #: chapter4/xinclude.xml:3417(para)
 msgid "The <emphasis role=\"strong\">Symbols </emphasis> dialogue box is displayed. Before selecting a character, ensure that <emphasis role=\"strong\">Greek </emphasis> is selected under the <emphasis role=\"strong\">Symbol</emphasis> set drop-down window. Select the required Greek character from the <emphasis role=\"strong\">Symbols </emphasis> window and click <emphasis role=\"strong\">Insert</emphasis>."
-msgstr "在选定字母之前会显示 <emphasis role=\"strong\">图标组</emphasis> 对话框。选择下拉窗口中的 <emphasis role=\"strong\">希腊语</emphasis> 分类。从 <emphasis role=\"strong\">图标组</emphasis> 窗口中选定所需的希腊语字母，然后单击 <emphasis role=\"strong\">插入</emphasis>。"
+msgstr "在选定字母之前会显示 <emphasis role=\"strong\">图标组</emphasis> 对话框。选择下拉窗口中的 <emphasis role=\"strong\">希腊语</emphasis> 分类。从 <emphasis role=\"strong\">图标组</emphasis> 窗口中选定所需的希腊语字母，然后单击 <emphasis role=\"strong\">采用</emphasis>。"
 
 #: chapter4/xinclude.xml:3423(title)
 msgid "Inserting Greek Symbols"
