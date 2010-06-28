@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-06-24 17:20+0800\n"
-"PO-Revision-Date: 2010-06-24 18:03+0800\n"
+"PO-Revision-Date: 2010-06-28 13:28+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -674,11 +674,11 @@ msgstr " 也有些应用程序不使用 Gstreamer 框架，如 VLC、MPlayer、X
 
 #: chapter8/xinclude.xml:106(para)
 msgid "Except for the default Totem for playing videos and rhythmbox for music,you have lots of other choice,such as many user like using smplayer,which is a QT-based frontend of mplayer,and Audacious to play music."
-msgstr "除了可以使用默认 Totem 播放视频，Rhythmbox 播放音乐，您还有很多其它的选择，例如很多用户喜欢使用 mplayer 的 QT 前端 Smplayer 播放视频，使用 banshee 播放音乐。"
+msgstr "除了可以使用默认的 Totem 播放视频，Rhythmbox 播放音乐，您还有很多其它的选择，例如很多用户喜欢使用 mplayer 的 QT 前端 Smplayer 播放视频，使用 banshee 播放音乐。"
 
 #: chapter8/xinclude.xml:110(para)
 msgid "You can use the Synaptic Package Manager, or the Command Line Interface (CLI) to install these multimedia codecs available in the repositories."
-msgstr "可以使用新立得软件包管理器或者命令行界面来安装那些可以从软件仓库中获得的多媒体解码器。"
+msgstr "可以使用Ubuntu 软件中心、新立得软件包管理器或者命令行界面来安装那些可以从软件仓库中获得的多媒体解码器和播放器软件。"
 
 #: chapter8/xinclude.xml:115(title)
 #: chapter8/xinclude.xml:226(title)

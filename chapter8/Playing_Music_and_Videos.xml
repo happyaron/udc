@@ -73,9 +73,6 @@
         	<para>VP8: an open video compression format owned by Google</para>
       		</listitem>
       		<listitem>
-        	<para>VP8: an open video compression format owned by Google</para>
-      		</listitem>
-      		<listitem>
         	<para>WebM: a video format designed to provide royalty free high quality 
         	video compression in an open format for use with HTML5 video.A WebM file 
         	consists of VP8 video and Vorbis audio streams, in a container based on 
@@ -98,8 +95,8 @@
     codecs, it relies on codecs that have been packaged into a <emphasis
     role="strong">plugin</emphasis> that it uses to perform the actual
     recording and playback.The easist way to install is to install the package 
-    "ubuntu-restricted-extras".It also contains lots of other restricted softwares,which may be
-    need a licenss. </para>
+    <emphasis role="strong">ubuntu-restricted-extras</emphasis>.It also contains lots of other restricted softwares,which may be
+    need a license. All of the processes in this chapter assumed that you have installed this package.</para>
 
     <para>Other applications, such as VLC, MPlayer and Xine, do not use the
     Gstreamer framework.</para>
