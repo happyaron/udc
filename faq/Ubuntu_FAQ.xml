@@ -77,7 +77,7 @@
     自由的上传软件。PPA 也被用来对一些打算进入 Ubuntu 官方仓库的软件，或者某些软件的新版本进行测试。</para>
     <para>PPA 上的软件极其丰富，如果 Ubuntu 官方仓库中缺少您需要的某款软件，可以去 PPA 上找找看。</para>
     
-    <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/+ppas">launchpad ppa</ulink>上以:
+    <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/ubuntu/+ppas">launchpad ppa</ulink> 上以:
     <screen format="linespecific">ns2 ppa</screen>
     为关键字进行搜索，可以看到有两个人在 launchpad 上提供这个软件包。从两个中选择一个，比如:
     <screen format="linespecific" >https://launchpad.net/~wzssyqa/+archive/wzssyqa</screen>
@@ -171,8 +171,10 @@ sudo apt-file search /usr/include/stdio.h</screen>
     
     <sect2>
     	<title>Ubuntu DVD 可以在什么地方下载到？</title>
-    	<para><screen format="linespecific"><ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink></screen></para>
-    	<para>DVD 是不分 Desktop 和 Alternate 的哦。</para>
+    	<para>DVD 版的镜像可以从如下地址下载到：
+    	<screen format="linespecific"><ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink></screen>
+    	</para>
+    	<para>DVD 是不分 Desktop 和 Alternate 的。</para>
     </sect2>
     <sect2>
     <title>根目录没有空间了，可是，我装的软件并不多，这是怎么回事？</title>
@@ -287,7 +289,8 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     <title>Gedit 打开一些文本文件时会乱码，其它文本编辑器却正常，这是怎么回事？</title>
     <para>这是因为 gedit 默认没有打开对 GB 系列编码的自动检测，可以通过一个命令打开这个功能：
     	<screen format="linespecific">gconftool-2 --set --type=list --list-type=string \
-   /apps/gedit-2/preferences/encodings/auto_detected "[UTF-8,CURRENT,GB18030,BIG5-HKSCS,UTF-16]" </screen>
+   /apps/gedit-2/preferences/encodings/auto_detected \
+   "[UTF-8,CURRENT,GB18030,BIG5-HKSCS,UTF-16]" </screen>
     </para>
     <para>也可以在 应用程序 -> 系统工具 中找到 配置编辑器</para>
     <para>使用配置编辑器定位到 
@@ -299,7 +302,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
   </sect2>
   
   <sect2>
-    <title>flash 中汉字怎么显示为方块，也不能使用 iBus 输入法？</title>
+    <title>Flash Player 中汉字怎么显示为方块，也不能使用 iBus 输入法？</title>
     <para>对于汉字显示为方块的问题：
     	<screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen>
     </para>
@@ -338,7 +341,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
       		</listitem>
       		<listitem>
         	<para>openfetion     基于 GTK+ 的飞信客户端， 也可以在 ppa 上找到(这个将来有可能会进官方源)</para>
-        	<para>linuxfetion 和 openfetion 可以在 <ulink url="https://launchpad.net/~happyaron/+archive/ppa">Aron Xu 的 PPA</ulink>上找到</para>
+        	<para>linuxfetion 和 openfetion 可以在 <ulink url="https://launchpad.net/~happyaron/+archive/ppa">Aron Xu 的 PPA</ulink> 上找到</para>
       		</listitem>
       		<listitem>
         	<para><ulink url="http://www.linuxsir.org/bbs/thread320802.html">Pidgin 的飞信插件</ulink></para>
@@ -363,8 +366,8 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     	   <screen format="linespecific">
     	   	如果有条件，推荐使用 <ulink url="http://www.spdb.com.cn">上海浦发银行</ulink></screen>
     	</para>
-    	<para>关于网银的具体情况可以看：</para>
-    	<para><screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen></para>
+    	<para>关于网银的具体情况可以看：
+    	<screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen></para>
    </sect2>
    <sect2>
     <title>Ubuntu 上怎么语音视频聊天？</title>
@@ -564,13 +567,16 @@ sudo update-grup</screen>
     <title>其他问题</title>
    <sect2>
     <title>Ubuntu 中文论坛上，每页都会给显示一条命令，很酷，从哪里可以找到它们？</title>
-    	<para><screen format="linespecific"><ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink></screen></para>
+    	<para>所有的这些命令都整理在了：
+    	<screen format="linespecific"><ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink></screen>
+    	</para>
    </sect2>
    
    <sect2>
     <title>Ubuntu 中文论坛上，都有哪些求助方法？</title>
-    	<para>请参考这个帖子：</para>
-    	<para><screen format="linespecific"><ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink></screen></para>
+    	<para>请参考这个帖子：
+    	<screen format="linespecific"><ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink></screen>
+    	</para>
    	<para>一个强烈的建议：浏览下论坛的各个置顶帖。</para>
    </sect2>
    

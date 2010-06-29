@@ -1472,6 +1472,19 @@
               </imageobject>
             </mediaobject>
           </figure>
+          <para>After selecting the file name,Audacity will ask you to edit the metadata
+          of the new music file.Press OK to start emporting.
+          </para>
+          <figure float="0">
+        	<title>Editing metadata of new music file</title>
+
+        	<mediaobject>
+          	<imageobject>
+            	<imagedata fileref="images/chapter9_image_088.png" format="PNG"
+                       width="14cm" />
+          	</imageobject>
+        	</mediaobject>
+      	  </figure>
         </step>
 
         <step performance="required">
@@ -1654,7 +1667,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/chapter9_image_085.png" format="PNG" width="12cm" />
+                <imagedata fileref="images/chapter9_image_085.png" format="PNG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1682,7 +1695,7 @@
             <mediaobject>
               <imageobject>
                 <imagedata fileref="images/chapter9_image_087.png"
-                           format="PNG" width="17cm" />
+                           format="PNG" width="14cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1786,17 +1799,6 @@
       install it. You can easily find this application in the Universe
       repository of Synaptic Package Manager and install it on your
       computer.</para>
-
-      <figure float="0">
-        <title>Installing Thoggen</title>
-
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="images/chapter9_image_088.png" format="PNG"
-                       width="17cm" />
-          </imageobject>
-        </mediaobject>
-      </figure>
 
       <procedure>
         <title>To start backing up your DVD using Thoggen:</title>
@@ -1935,11 +1937,7 @@
               <title>Flash plugin:</title>
 
               <para>install the <emphasis role="strong">
-              flashplugin-nonfree</emphasis> package from the "Multiverse"
-              repository.For someone who is using AMD64,you can install this one,
-              or add the the ppa https://launchpad.net/~sevenmachines/+archive/flash by 
-              sudo apt-add-repository ppa:sevenmachines/flash
-              and install flashplugin64-nonfree,its performance is better and is more stable.</para>
+              flashplugin-nonfree</emphasis> package from the "Multiverse" repository.</para>
             </formalpara>
           </listitem>
 
@@ -1959,16 +1957,17 @@
 
             <para>If you find that all Chinese characters can not display corretcly in flash,
             you can use this command to correct it:
-            <emphasis role="strong">sudo rm /etc/fonts/conf.d/49-sansserif.conf</emphasis>.
+            <screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen> .
             </para>
-          </tip>
+            <para>For someone who is using AMD64,you can install this one, or add the the ppa 
+            <screen format="linespecific">https://launchpad.net/~sevenmachines/+archive/flash</screen>
+              by 
+              <screen format="linespecific">sudo apt-add-repository ppa:sevenmachines/flash</screen>
+              and install <emphasis role="strong">flashplugin64-nonfree</emphasis>,its performance 
+              is better and is more stable.
+            </para>
 
-      <para>The plugin installation process depends on the framework you use.
-      If you use Totem-gstreamer, the default movie player included in Ubuntu,
-      you need to install the totem-gstreamer-firefox-plugin package. However,
-      to enable playing streaming video in your browser, you need to first
-      install the Microsoft Windows codec and then install the totem
-      plugin.</para>
+          </tip>
 
       <para>You can even install an additional mediaplayer, such as RealPlayer
       10, to watch online video streams in Realmedia formats. When you have

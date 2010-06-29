@@ -741,7 +741,7 @@ $ sudo gedit /etc/default/grub</screen>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_021.png" width="17cm" format="PNG"/>
+                <imagedata fileref="images/Lesson11_images_021.png" width="14cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -760,7 +760,7 @@ $ sudo gedit /etc/default/grub</screen>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_022.png" width="8cm" format="PNG"/>
+                <imagedata fileref="images/Lesson11_images_022.png" width="10cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
