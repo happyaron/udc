@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: UDC 10.04\n"
-"POT-Creation-Date: 2010-06-24 17:20+0800\n"
+"POT-Creation-Date: 2010-06-29 17:14+0800\n"
 "PO-Revision-Date: 2010-06-13 21:07+0800\n"
 "Last-Translator: syq <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
@@ -1033,78 +1033,82 @@ msgstr ""
 msgid "http://forum.ubuntu.org.cn/viewtopic.php?t=67441"
 msgstr ""
 
-#: faq/xinclude.xml:577(title)
+#: faq/xinclude.xml:574(para)
+msgid "一个强烈的建议：浏览下论坛的各个置顶帖。"
+msgstr ""
+
+#: faq/xinclude.xml:578(title)
 msgid "iBus 怎么切换到中文输入法？"
 msgstr ""
 
-#: faq/xinclude.xml:578(para)
+#: faq/xinclude.xml:579(para)
 msgid "Ctrl-Space， 不是 ctrl-shift"
 msgstr ""
 
-#: faq/xinclude.xml:579(para)
+#: faq/xinclude.xml:580(para)
 msgid ""
 "多个输入法之间切换，比如从拼音切换到五笔是 Alt-Shift-L，当然这都是可以设置"
 "的。"
 msgstr ""
 
-#: faq/xinclude.xml:583(title)
+#: faq/xinclude.xml:584(title)
 msgid "在 Gnome 终端中，如果需要输入一个很长的文件名怎么办？"
 msgstr ""
 
-#: faq/xinclude.xml:587(para)
+#: faq/xinclude.xml:588(para)
 msgid ""
 "Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其"
 "它用处。"
 msgstr ""
 
-#: faq/xinclude.xml:590(para)
+#: faq/xinclude.xml:591(para)
 msgid ""
 "文件名输入了一部分之后，按 Tab 试试，当然 Tab 也可以补全命令。或者可以试试 "
 "zsh，补全功能更加强大。"
 msgstr ""
 
-#: faq/xinclude.xml:593(para)
+#: faq/xinclude.xml:594(para)
 msgid ""
 "直接将一个文件拖动到终端框中，看看有什么效果？Gnome 终端中将直接显示出这个文"
 "件的绝对路径，而且用单引号引起来。"
 msgstr ""
 
-#: faq/xinclude.xml:600(title)
+#: faq/xinclude.xml:601(title)
 msgid "怎么安装新字体？"
 msgstr ""
 
-#: faq/xinclude.xml:601(para)
+#: faq/xinclude.xml:602(para)
 msgid ""
 "将字体复制到 <screen format=\"linespecific\">/usr/share/fonts/truetype</"
 "screen> 然后运行命令： <screen format=\"linespecific\">sudo fc-cache</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:610(title)
+#: faq/xinclude.xml:611(title)
 msgid ""
 "有些 JAVA 程序字体很不正常，字好像颜色分离的，而且变得很瘦，这是怎么回事？"
 msgstr ""
 
-#: faq/xinclude.xml:611(para)
+#: faq/xinclude.xml:612(para)
 msgid ""
 "OpenJDK 的 Swings 的字体渲染有些问题，这会造成 NetBeans 等使用 Swings 的程序"
 "字体显示异常。"
 msgstr ""
 
-#: faq/xinclude.xml:613(para)
+#: faq/xinclude.xml:614(para)
 msgid ""
 "要解决这个问题，在桌面上点右键，选择最后一项‘更改桌面背景’，进入‘字体’标签，"
 "在‘渲染’中， 选择除了‘次像素平滑’之外的另外三个选项都没有这个问题。"
 msgstr ""
 
-#: faq/xinclude.xml:618(title)
+#: faq/xinclude.xml:619(title)
 msgid "怎么实现定时关机？"
 msgstr ""
 
-#: faq/xinclude.xml:619(para)
+#: faq/xinclude.xml:620(para)
 msgid "可以使用 shutdown 命令实现定时关机。"
 msgstr ""
 
-#: faq/xinclude.xml:620(para)
+#: faq/xinclude.xml:621(para)
 msgid ""
 "<screen format=\"linespecific\">sudo shutdown 14:20 '系统将在 14:20 关闭'\n"
 "sudo shutdown +20 '20 分钟后关机'\n"
@@ -1113,90 +1117,90 @@ msgid ""
 "\"linespecific\">man shutdown</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:631(title)
+#: faq/xinclude.xml:632(title)
 msgid "如何设置，可以自动登录？"
 msgstr ""
 
-#: faq/xinclude.xml:632(para)
+#: faq/xinclude.xml:633(para)
 msgid ""
 "<screen format=\"linespecific\">系统 -&gt; 系统设置 -&gt; 登录窗口</screen> "
 "或者直接运行 <screen format=\"linespecific\">sudo gdmsetup</screen>"
 msgstr ""
 
-#: faq/xinclude.xml:642(title)
+#: faq/xinclude.xml:643(title)
 msgid "关于杀毒软件和防火墙"
 msgstr ""
 
-#: faq/xinclude.xml:643(para)
+#: faq/xinclude.xml:644(para)
 msgid ""
 "记住：安全远远不止杀毒软件和防火墙！ 如果想通过安装杀毒软件或者防火墙来提高桌"
 "面 Linux 系统的安全性，那么您可以停下了：这几乎是没有什么用处的。"
 msgstr ""
 
-#: faq/xinclude.xml:651(para)
+#: faq/xinclude.xml:652(para)
 msgid "良好的默认配置：绝对不会允许浏览器里运行的脚本去格式化硬盘"
 msgstr ""
 
-#: faq/xinclude.xml:654(para)
+#: faq/xinclude.xml:655(para)
 msgid "落实最小权限原则：用户默认使用的帐号是没有管理员权限的"
 msgstr ""
 
-#: faq/xinclude.xml:657(para)
+#: faq/xinclude.xml:658(para)
 msgid "不是太“智能”：不在用户装桌面系统的时候，连网页服务器都给装上"
 msgstr ""
 
-#: faq/xinclude.xml:660(para)
+#: faq/xinclude.xml:661(para)
 msgid "软件仓库：几乎所有的软件都可以在软件仓库里下载得到"
 msgstr ""
 
-#: faq/xinclude.xml:663(para)
+#: faq/xinclude.xml:664(para)
 msgid "开放的源代码：只要有足够多的眼睛，所有软件缺陷都无处可藏"
 msgstr ""
 
-#: faq/xinclude.xml:647(para)
+#: faq/xinclude.xml:648(para)
 msgid "Linux 系统的安全性主要得益于以下几个方面： <placeholder-1/>"
 msgstr ""
 
-#: faq/xinclude.xml:668(para)
+#: faq/xinclude.xml:669(para)
 msgid ""
 "如果非要安装(或者需要给 Windows 帮忙杀毒)，下边是几个选择： 杀毒软件：ClamAV"
 "(Ubuntu 软件仓库中有)，Avast， NOD32， SAVFL，AntiVir，卡巴斯基 等。 防火墙："
 "Gufw (Ubuntu 软件仓库中有)"
 msgstr ""
 
-#: faq/xinclude.xml:678(para)
+#: faq/xinclude.xml:679(para)
 msgid "从不明来源下载软件：如果软件仓库中有，坚决从软件仓库中安装"
 msgstr ""
 
-#: faq/xinclude.xml:681(para)
+#: faq/xinclude.xml:682(para)
 msgid ""
 "滥用 sudo：有些用户喜欢使用 sudo 命令，即使是不需要的时候。记住：除非进行系统"
 "管理，不要使用 sudo"
 msgstr ""
 
-#: faq/xinclude.xml:684(para)
+#: faq/xinclude.xml:685(para)
 msgid ""
 "使用盗版的商业软件：这是一个极大的安全隐患，因为，根本就不知道是否有人在其中"
 "做了手脚"
 msgstr ""
 
-#: faq/xinclude.xml:674(para)
+#: faq/xinclude.xml:675(para)
 msgid "Linux 上几种不好的习惯： <placeholder-1/>"
 msgstr ""
 
-#: faq/xinclude.xml:692(title)
+#: faq/xinclude.xml:693(title)
 msgid "关于衍生发行版"
 msgstr ""
 
-#: faq/xinclude.xml:694(title)
+#: faq/xinclude.xml:695(title)
 msgid "关于 Debian (此部分内容来自 WikiPedia)"
 msgstr ""
 
-#: faq/xinclude.xml:695(para)
+#: faq/xinclude.xml:696(para)
 msgid "Debian 于 1993年8月16日 由一名美国普渡大学学生 Ian Murdock 首次发表。"
 msgstr ""
 
-#: faq/xinclude.xml:696(para)
+#: faq/xinclude.xml:697(para)
 msgid ""
 "Debian 是由GPL和其他自由软件许可协议授权的自由软件组成的操作系统， 由Debian计"
 "划(Debian Project)组织维护。Debian计划没有任何的营利组织支持，它的开发团队完"
@@ -1204,7 +1208,7 @@ msgid ""
 "数更多。"
 msgstr ""
 
-#: faq/xinclude.xml:699(para)
+#: faq/xinclude.xml:700(para)
 msgid ""
 "Debian 计划组织跟其他自由操作系统(如 Ubuntu、openSUSE、Fedora、Mandriva、"
 "OpenSolaris等)的开发组织不同。 上述这些自由操作系统的开发组织通常背后由公司或"
@@ -1212,13 +1216,13 @@ msgid ""
 "者组成， 背后没有任何公司或机构支持。"
 msgstr ""
 
-#: faq/xinclude.xml:702(para)
+#: faq/xinclude.xml:703(para)
 msgid ""
 "Debian 以其坚守 Unix 和自由软件的精神，以及其给予用户的众多选择而闻名。现在 "
 "Debian 包括了超过 25,000 个软件包并支持 12 个计算机系统结构。"
 msgstr ""
 
-#: faq/xinclude.xml:703(para)
+#: faq/xinclude.xml:704(para)
 msgid ""
 "需要指出的是，Debian 并不是一种 Linux 发行版。Debian 是一个大的系统组织框架，"
 "在这个框架下有多种不同操作系统内核的分支计划， 如采用 Linux 内核的 Debian "
@@ -1230,37 +1234,37 @@ msgid ""
 "等， 都建基于 Debian GNU/Linux。"
 msgstr ""
 
-#: faq/xinclude.xml:708(para)
+#: faq/xinclude.xml:709(para)
 msgid ""
 "1996年，当时的 Debian 计划领导人 Bruce Perens 发表了 Debian 社会契约(Debian "
 "Social Contract) 及 Debian 自由软件指引(Debian Free Software Guidelines)，定"
 "义了开发 Debian 的基本承诺。"
 msgstr ""
 
-#: faq/xinclude.xml:710(para)
+#: faq/xinclude.xml:711(para)
 msgid ""
 "Debian 有三个主要的分支：statale，testing，unstable。 此外还有一个存放实验性"
 "软件的分支 experimental，但 experimental 不是一个完整的分支。"
 msgstr ""
 
-#: faq/xinclude.xml:716(title)
+#: faq/xinclude.xml:717(title)
 msgid "Ubuntu 与 Debian 的关系"
 msgstr ""
 
-#: faq/xinclude.xml:717(para)
+#: faq/xinclude.xml:718(para)
 msgid ""
 "正如上面说所 Debian 一大特点就是保守，同时管理上也过于民主，造成决策缓慢。这"
 "样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。"
 msgstr ""
 
-#: faq/xinclude.xml:718(para)
+#: faq/xinclude.xml:719(para)
 msgid ""
 "Ubuntu 基于 Debian 的 unstable 分支，同时对来自 Debian 的部分软件包进行了一定"
 "的修改，以使其更加适合桌面使用。 同时，优化了安装过程，使 Ubuntu 安装起来更加"
 "容易。"
 msgstr ""
 
-#: faq/xinclude.xml:721(para)
+#: faq/xinclude.xml:722(para)
 msgid ""
 "因为，Ubuntu 对 Debian 的改动比较大，Ubuntu 建立了自己的软件仓库。但是这其中"
 "的大部分软件包都是不加修改的直接从 Debian 软件仓库同步过来的。 当然也有部分软"
@@ -1268,32 +1272,32 @@ msgid ""
 "多。"
 msgstr ""
 
-#: faq/xinclude.xml:724(para)
+#: faq/xinclude.xml:725(para)
 msgid ""
 "Ubuntu 也是坚守自由软件的发行版。但是，Ubuntu 开始的几年，因为和 Debian 开发"
 "者就系统具体应该作成什么样子， 以及 Ubuntu 向 Debian 的回馈通道不是很畅通，造"
 "成了两个社区的关系不是太好。"
 msgstr ""
 
-#: faq/xinclude.xml:726(para)
+#: faq/xinclude.xml:727(para)
 msgid ""
 "现在，两个社区的矛盾已经基本消除，关系也已非常融洽，Ubuntu 向 Debian 回馈的通"
 "道也已经比较畅通。"
 msgstr ""
 
-#: faq/xinclude.xml:727(para)
+#: faq/xinclude.xml:728(para)
 msgid ""
 "Ubuntu benefits from a strong Debian, and Debian benefits from a strong "
 "Ubuntu. - MarkShuttleworth"
 msgstr ""
 
-#: faq/xinclude.xml:728(para)
+#: faq/xinclude.xml:729(para)
 msgid ""
 "Every Debian developer is also an Ubuntu developer, because one way to "
 "contribute to Ubuntu is to contribute to Debian. - MarkShuttleworth"
 msgstr ""
 
-#: faq/xinclude.xml:729(para)
+#: faq/xinclude.xml:730(para)
 msgid ""
 "We incorporate Debian changes regularly, because that introduces the latest "
 "work, the latest upstream code, and the newest packaging efforts from a huge "
@@ -1301,53 +1305,53 @@ msgid ""
 "possible. - MarkShuttleworth"
 msgstr ""
 
-#: faq/xinclude.xml:736(title)
+#: faq/xinclude.xml:737(title)
 msgid "Ubuntu 与其它基于 Ubuntu 的衍生发行版"
 msgstr ""
 
-#: faq/xinclude.xml:737(para)
+#: faq/xinclude.xml:738(para)
 msgid ""
 "随着 Ubuntu 的发展，也出现了一些基于 Ubuntu 的发行版。但是，还没有出现强大得"
 "可以自己建立软件仓库的发行版。"
 msgstr ""
 
-#: faq/xinclude.xml:738(para)
+#: faq/xinclude.xml:739(para)
 msgid ""
 "这些软件一般以更加易于安装，默认的本地化支持，不同的主题风格，不同的软件组"
 "合，以及默认安装一些非自由软件作为卖点。"
 msgstr ""
 
-#: faq/xinclude.xml:739(para)
+#: faq/xinclude.xml:740(para)
 msgid ""
 "这些衍生发行版中，有一些相对比较好的，也尊重知识产权，遵守软件的许可证，不往"
 "系统中添加一些不太受欢迎的软件。"
 msgstr ""
 
-#: faq/xinclude.xml:743(para)
+#: faq/xinclude.xml:744(para)
 msgid ""
 "修改了 GPL 授权协议的软件之后，并没有遵守许可证的要求，发布修改之后的代码；"
 msgstr ""
 
-#: faq/xinclude.xml:746(para)
+#: faq/xinclude.xml:747(para)
 msgid ""
 "不遵守某些商业软件的授权协议，比如，默认使用来自微软的主题，而这些主题都是有"
 "版权的， 或者默认安装 Adobe Flash Player(Adobe 是不允许 Adobe Flash Player 随"
 "光盘发行的)"
 msgstr ""
 
-#: faq/xinclude.xml:751(para)
+#: faq/xinclude.xml:752(para)
 msgid ""
 "把来自社区的贡献说成自己的：比如声称软件是自己翻译的，而实际上自己的贡献很"
 "少，甚至没有。"
 msgstr ""
 
-#: faq/xinclude.xml:754(para)
+#: faq/xinclude.xml:755(para)
 msgid ""
 "破坏 Linux 系统中的权限控制，给普通用户开了过大的权限，进行特权操作时，不要求"
 "进行验证,留下严重的安全隐患。"
 msgstr ""
 
-#: faq/xinclude.xml:740(para)
+#: faq/xinclude.xml:741(para)
 msgid ""
 "有的衍生发行版中存在的几个严重问题： <placeholder-1/> 一般来说，使用有上面那"
 "几个问题的衍生发行版的用户，在正牌的开源社区提问的时候，会被无视掉，或者遭遇"
