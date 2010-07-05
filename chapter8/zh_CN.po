@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-07-05 19:57+0800\n"
-"PO-Revision-Date: 2010-07-05 19:57+0800\n"
+"PO-Revision-Date: 2010-07-05 22:23+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -1446,7 +1446,7 @@ msgstr "GStreamer"
 
 #: chapter8/xinclude.xml:1457(para)
 msgid "Totem Movie Player,which uses GStreamer as its backend and is the default movie player included in Ubuntu can automatically play a DVD when it is inserted into the DVD drive. However, it will not provide access to the DVD menu. Other free software media players like VLC, mplayer and xine do make the DVD menu available."
-msgstr "使用 GStreamer作为后台的 Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD。但它可能不提供对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 Xine 等媒体播放自由软件可以支持 DVD 菜单。"
+msgstr "使用 GStreamer作为后台的 Totem 电影播放器是 Ubuntu 中默认的电影播放器，支持自动播放 DVD，也支持对 DVD 菜单的访问。其它类似 VLC 、MPlayer 和 Xine 等媒体播放自由软件也可以完全支持 DVD 的播放。"
 
 #: chapter8/xinclude.xml:1463(title)
 msgid "Playing DVDs in Totem Movie Player"
