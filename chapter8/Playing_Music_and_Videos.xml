@@ -1473,7 +1473,7 @@
             </mediaobject>
           </figure>
           <para>After selecting the file name,Audacity will ask you to edit the metadata
-          of the new music file.Press OK to start emporting.
+          of the new music file.Press <emphasis role="strong">OK</emphasis> to start emporting.
           </para>
           <figure float="0">
         	<title>Editing metadata of new music file</title>
@@ -1937,7 +1937,7 @@
               <title>Flash plugin:</title>
 
               <para>install the <emphasis role="strong">
-              flashplugin-nonfree</emphasis> package from the "Multiverse" repository.</para>
+              flashplugin-installer</emphasis> package from the "Multiverse" repository.</para>
             </formalpara>
           </listitem>
 

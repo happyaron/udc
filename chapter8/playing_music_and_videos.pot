@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-05 19:34+0800\n"
+"POT-Creation-Date: 2010-07-05 19:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1360,7 +1360,7 @@ msgid "Exporting as MP3 File"
 msgstr ""
 
 #: chapter8/xinclude.xml:1378(para)
-msgid "After selecting the file name,Audacity will ask you to edit the metadata of the new music file.Press OK to start emporting."
+msgid "After selecting the file name,Audacity will ask you to edit the metadata of the new music file.Press <emphasis role=\"strong\">OK</emphasis> to start emporting."
 msgstr ""
 
 #: chapter8/xinclude.xml:1382(title)
@@ -1628,7 +1628,7 @@ msgid "Flash plugin:"
 msgstr ""
 
 #: chapter8/xinclude.xml:1817(para)
-msgid "install the <emphasis role=\"strong\"> flashplugin-nonfree</emphasis> package from the \"Multiverse\" repository."
+msgid "install the <emphasis role=\"strong\"> flashplugin-installer</emphasis> package from the \"Multiverse\" repository."
 msgstr ""
 
 #: chapter8/xinclude.xml:1824(title)
