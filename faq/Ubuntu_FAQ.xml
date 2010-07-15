@@ -9,15 +9,15 @@
     	<title>AMD64 只能用在 AMD 的处理器上吗？</title>
     	<para>不是的！</para>
     	<para>AMD64 也叫做 x86-64, x64，EM64T，Intel64 等。这是普通 x86 处理器
-	(就是传说中的 386,486...)的一种 64 扩展，由 AMD 首先提出，开始时 intel
+	(即的 386,486，奔腾等以及后继型号)的一种 64 位扩展，由 AMD 首先提出，最开始 Intel
 	对于这种技术并不热心，所以，最早支持这种架构的软件通常称之为 AMD64，Ubuntu 也
 	从 Debian 中延续这这种叫法。</para>
 	<para>基本上来说，06年之后生产的 Intel 和 AMD 处理器都支持这种架构。Atom 
 	系列是不支持这种架构的，另外威盛的处理器产品至今也不支持这种架构。</para>
 	<tip>
 		<title>IA64(安腾2) 并不是这种架构</title>
-		<para>IA64 是另外一种完全不同的处理器架构。Intel 当年就是为了
-		推广 IA64，才对 x86-64 不热心的，使 AMD 占据了先发优势。</para>
+		<para>IA64 是另外一种完全不同的处理器架构 —— EPIC。Intel 当时就是为了
+		推广 IA64，才对 x86-64 持冷淡态度，使 AMD 占据了先发优势。</para>
 	</tip>
     </sect2>
     
@@ -29,23 +29,24 @@
     	<para>也可以使用一些专门查看硬件信息的软件查看。</para>
     	<para>如果有安装好的 Linux 系统或者可以使用 LiveCD 或 LiveUSB 启动电脑，可以使用如下命令查看：</para>
     	<screen format="linespecific">cat /proc/cpuinfo |grep lm</screen>
-    	<para>如果能够看到输出，表示您的输出支持 AMD64，如果没有输出则表现不支持。</para>
+    	<para>如果能够看到输出，表示您的 CPU 支持 AMD64，如果没有输出则表示不支持。</para>
     	
     	<tip>
-		<title>如果很遗憾，您的 CPU 不支持 AMD64，但是您的内存却超过了 32 位系统支持的最大量...</title>
-		<para>这时可以安装 linux-image-server 或者 linux-image-generic-pae 这两个包中的一个。
+		<title>如果很遗憾，您的 CPU 不支持 AMD64，但是您的内存却超过了 32 位系统支持的最大量(4GiB)...</title>
+		<para>这时可以使用 linux-image-server 或者 linux-image-generic-pae 这两个包中的一个。
 		或者也可以直接点击下边的这两个链接：</para>
 		<para><ulink url="apt://linux-image-generic-pae">linux-image-generic-pae</ulink></para>
 		<para><ulink url="apt://linux-image-server">linux-image-server</ulink></para>
+		<para>这两个内核开启了物理地址扩展(PAE)功能。</para>
 	</tip>	
     </sect2>
     
     <sect2>
-    	<title>64 位的 Ubuntu 会不会可用软件很少？</title>
+    	<title>64 位 Ubuntu 的可用软件会不会很少？</title>
     	<para>不会的。</para>
     	<para>Linux 系统中，软件以开源软件为主，这些软件编写的时候就非常注意可移植性，
     	一般都可以在多种不同的操作系统甚至硬件平台之间移植，当然也包括 AMD64。</para>
-    	<para>对于 Linux 上的商业软件，有些这种只提供 32 位；也有一些开源软件暂时不支持 AMD64，或者 64 位系统上缺少一些功能。
+    	<para>对于 Linux 上的商业软件，有些只提供 32 位；也有一些开源软件暂时不支持 AMD64，或者 64 位系统上缺少一些功能。
     	这时可以安装 <ulink url="apt://ia32-libs">ia32-libs</ulink> 来运行这些软件，但是这种软件的数量是很少的。
     	支持 Linux 的商业软件，可移植性一般也相对比较好。</para>
     	
@@ -77,11 +78,11 @@
     自由的上传软件。PPA 也被用来对一些打算进入 Ubuntu 官方仓库的软件，或者某些软件的新版本进行测试。</para>
     <para>PPA 上的软件极其丰富，如果 Ubuntu 官方仓库中缺少您需要的某款软件，可以去 PPA 上找找看。</para>
     
-    <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/ubuntu/+ppas">launchpad ppa</ulink> 上以:
-    <screen format="linespecific">ns2 ppa</screen>
-    为关键字进行搜索，可以看到有两个人在 launchpad 上提供这个软件包。从两个中选择一个，比如:
+    <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/ubuntu/+ppas">Personal Package Archives for Ubuntu</ulink> 上以:
+    <screen format="linespecific">ns2</screen>
+    为关键字进行搜索，可以看到 PPA 中所有与 ns2 项匹配的软件包。从两个中选择一个，比如:
     <screen format="linespecific" >https://launchpad.net/~wzssyqa/+archive/wzssyqa</screen>
-    在这个页面中，可以看看，这个 ppa 的主人有没有提供你所使用的版本 Ubuntu 所对应的 ns2，
+    在这个页面中，可以查看，这个 PPA 的主人是否提供您所使用的版本 Ubuntu 所对应的 ns2，
     比如，正好您用的也是 lucid，那么就可以直接使用命令：
     <screen format="linespecific">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen>
     将这个 PPA 添加到您的系统中。
@@ -89,7 +90,7 @@
     <tip>
 		<title>ppa:wzssyqa/wzssyqa 是怎么来的</title>
 		<para>前边的那个 wzssyqa 就是~wzssyqa 去掉 ~，这是此 PPA 的主人在 launchpad 上的帐户名。</para>
-		<para>第二个 wzssyqa 是这个 PPA 的名字。每个人可以建立多个 PPA 的。</para>
+		<para>第二个 wzssyqa 是这个 PPA 的名字。每个 launchpad 账户可以建立多个 PPA。</para>
 		
 		<title>launchpad.net</title>
 		<para>launchpad.net 有很多功能，Ubuntu 的很多开发工作是通过这个平台进行的。
@@ -101,16 +102,16 @@
     <title>由于没有公钥，无法验证下列签名，这个是什么问题，怎么解决？</title>
     <para>为了安全，Ubuntu 软件仓库都是有签名的。</para>
     <para>系统安装的时候，会自带 Ubuntu 官方软件仓库的证书。但是，如果自己添加额外的软件源，将会被告知没有签名。</para>
-    <para>这时，只需要：
+    <para>这时，只需要运行：
     	<screen format="linespecific">sudo apt-key adv --recv-keys --keyserver keyserver.Ubuntu.com xxxxxxxx</screen>
-    	其中的 xxxxxxxx 用签名的最后 8 位代替。
+    	其中的 xxxxxxxx 用签名指纹的最后 8 位代替。
     </para>
     <para>上面的 apt-add-repository 命令会自动下载签名。</para>
     
    </sect2>
    
    <sect2>
-    <title>我这不能上网，怎么下载多个软件，怎么解决依赖？ </title>
+    <title>无法连接互联网的环境中，如何下载多个软件，并解决依赖关系？ </title>
     <para>打开“新立德软件包管理器”，选择要安装的软件，并“标记以便安装”。
     	然后选择： <screen format="linespecific">文件 -> 生成包下载脚本</screen>
     	使用这个脚本可以下载所有要安装的软件，以及它们的依赖。
@@ -135,7 +136,7 @@
    </sect2>
   
    <sect2>
-    <title>apt/新立德把软件给我装哪了？</title>
+    <title>Apt/Aptitude/软件中心/新立德把软件给我装哪了？</title>
     <para>比如要知道 gedit 这个包装了哪些文件：
  	   <screen format="linespecific">dpkg -L gedit</screen>
     </para>
@@ -157,15 +158,16 @@ sudo apt-file search /usr/include/stdio.h</screen>
     </sect2>
     <sect2>
     	<title>怎么使用 DVD 做源？</title>
-    	<para>一般来说，只要把 Ubuntu DVD 光盘插入光驱中，会自动询问是否使用 DVD 更新系统的。</para>
+    	<para>一般来说，只要把 Ubuntu DVD 光盘插入光驱中，会自动询问是否使用 DVD 更新系统。</para>
     	<para>如果没有弹出，可以使用如下命令：
     		<screen format="linespecific">sudo apt-cdrom add</screen>
+    	同时，“软件源“这个程序中，也可以设置使用 DVD 作为软件源。
     	</para>
     </sect2>
     <sect2>
     	<title>我下载的 CD 为什么不能做源？</title>
     	<para>Ubuntu CD 镜像分为两种，Desktop 和 Alternate。</para>
-    	<para>Desktop 版就是 Live CD，可以认为是安装好之后，又打包的，所以是不能作为源的。</para>
+    	<para>Desktop 版就是 Live CD，可以认为是系统安装好之后，又打包而成，所以是不能作为源的。</para>
     	<para>Alternate 可以认为就是放在光盘上的 Ubuntu 软件仓库，所以是可以作为软件源使用的。</para>
     </sect2>
     
@@ -174,12 +176,12 @@ sudo apt-file search /usr/include/stdio.h</screen>
     	<para>DVD 版的镜像可以从如下地址下载到：
     	<screen format="linespecific"><ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink></screen>
     	</para>
-    	<para>DVD 是不分 Desktop 和 Alternate 的。</para>
+    	<para>DVD 是不分 Desktop 和 Alternate 的，而且 DVD 同时具有 Desktop 和 Alternate 的功能。</para>
     </sect2>
     <sect2>
-    <title>根目录没有空间了，可是，我装的软件并不多，这是怎么回事？</title>
+    <title>根分区(/var 分区)没有空间了，可是，我装的软件并不多，这是怎么回事？</title>
     <para>是不是很长时间没有清理 deb 包缓存了？</para>
-    <para>Apt/aptitude/新立德 等，会把下载的 deb 包缓存在：
+    <para>Apt/aptitude/新立德等，会把下载的 deb 包缓存在：
     	<screen format="linespecific">/var/cache/apt/archives</screen>
     	如果长期不清理，可能占用大量的空间。</para>
 	<para>可以使用如下两个命令清理 deb 包缓存：
@@ -191,7 +193,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
    <sect2>
     <title>我安装的是 Beta/RC 版，我可以升级到正式版吗？</title>
     <para>
-    	这当然是没有任何问题的。需要做的只是，跟着升级管理器升级。实际上，甚至可以从一个版本升级到另一个版本。
+    	这当然是没有任何问题的。需要做的只是，按照升级管理器的提示进行升级。实际上，甚至可以从一个版本升级到另一个版本。
     </para>
    </sect2>
   </sect1>
@@ -201,9 +203,10 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
    <sect2>
     <title>Root 用户的口令是什么？安装时并没有要求我输入 root 的口令。</title>
     <para>在很多其它 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 Ubuntu 中 root 用户默认是被禁用的。</para>
-    <para>要进行特权操作，只需要在运行的命令前边加上 sudo 。</para>
+    <para>要进行特权操作，只需要在运行的命令前边加上 sudo。</para>
     <para>如果想要临时成为 root 用户进行一些操作，请使用 sudo su 。</para>
     <para>如果必须要启用 root，可以运行 sudo passwd root ，来修改 root 的口令，即可启用 root。</para>
+    <para>如果之后又想禁用 root，可以使用命令 sudo passwd -l root。</para>
     <tip>
 		<title>Ubuntu 是怎么实现禁用 root 的？</title>
 		<para>Ubuntu 通过给 root 用户设置一个特殊的口令，以使无论输入什么口令都验证错误，来达到禁用 root 的目的。</para>
@@ -250,10 +253,10 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
    </sect2>
 
    <sect2>
-    <title>怎么开机的时候条目变多了？</title>
+    <title>为什么开机的时候条目变多了？</title>
     <para>这是因为您安装了新的系统内核。每个版本的内核都会在启动是有两项。Ubuntu 为了防止新版内核有问题，
     没有自动删除旧内核。如果确定新内核可以正常工作，就可以删除旧内核。</para>
-    <para>有多种方法可以删除多于的内核：</para>
+    <para>有多种方法可以删除多余的内核：</para>
         <itemizedlist>
       		<listitem>
         	<para>使用新立德查找 linux-image，删除当前版本之外的所有内核。</para>
@@ -265,8 +268,8 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
    </sect2>
   
   <sect2>
-    <title>怎么设置鼠标右键菜单？ 以管理员打开/在终端中打开/设为壁纸 等功能是怎么实现的？</title>
-    <para>Ubuntu 中默认使用的文件管理器是 nautilus，nautilus可以通过一些脚本扩展功能，在 Ubuntu 官方源里，有几个很常用的插件：
+    <title>如何设置鼠标右键菜单？ 以管理员打开/在终端中打开/设为壁纸 等功能是怎么实现的？</title>
+    <para>Ubuntu 中默认使用的文件管理器是 nautilus，其可以通过一些脚本扩展功能，在 Ubuntu 官方源里，有几个很常用的插件：
     </para>
     <para>
     	<itemizedlist>
@@ -302,7 +305,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
   </sect2>
   
   <sect2>
-    <title>Flash Player 中汉字怎么显示为方块，也不能使用 iBus 输入法？</title>
+    <title>Flash Player 中汉字显示为方块，也不能使用 iBus 输入法？</title>
     <para>对于汉字显示为方块的问题：
     	<screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen>
     </para>
@@ -321,7 +324,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     <sect2>
     <title>Ubuntu 中怎么解压 rar 文件？</title>
     <para>安装 <ulink url="apt://unrar">unrar</ulink>。</para>
-    <para>此外还可以使用开源的 <ulink url="apt://unrar-free">unrar-free</ulink>，这个包对新版本的 rar 文件支持并不是特别好。</para>
+    <para>此外还可以使用开源的 <ulink url="apt://unrar-free">unrar-free</ulink>，但这个包对新版本的 rar 文件支持并不是特别好。</para>
     <tip>
 		<title>如何将文件压缩成 rar？</title>
 		<para>为什么一定要使用 rar 格式呢？</para>
@@ -366,11 +369,11 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     	   <screen format="linespecific">
     	   	如果有条件，推荐使用 <ulink url="http://www.spdb.com.cn">上海浦发银行</ulink></screen>
     	</para>
-    	<para>关于网银的具体情况可以看：
+    	<para>关于网银的具体情况可以参考：
     	<screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen></para>
    </sect2>
    <sect2>
-    <title>Ubuntu 上怎么语音视频聊天？</title>
+    <title>Ubuntu 上如何进行语音视频聊天？</title>
     	<para>由于腾讯公司不支持，在 Linux 上 QQ 最多只能单方视频
     	   可以使用 Gtalk/Skype 来代替。
     	</para>
@@ -413,9 +416,10 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
   <sect1>
     <title>硬件及系统备份</title>
    <sect2>
-    <title>怎么查看硬件信息？</title>
+    <title>如何查看硬件信息？</title>
     <para><screen format="linespecific">lshw</screen></para>
-    <para>应该足够详细吧？</para>   
+    <para>此命令会给出相当详细的硬件信息。另外还有 lspci，lsusb 等命令。</para>
+    <para>另外也可以访问 /proc 或 /sys 下的相应文件来获得特定硬件的更加详细的信息。</para>   
    </sect2>
    <sect2>
     <title>Ubuntu 挑硬件吗？不支持什么硬件？去什么地方下载驱动程序？</title>
@@ -426,7 +430,7 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
         	<para>不要购买 SIS 芯片组和显卡的笔记本。</para>
       		</listitem>
       		<listitem>
-        	<para>N 卡的驱动比 A 卡的驱动出得快。</para>
+        	<para>N 卡的驱动比 A 卡的驱动更新得更快。</para>
       		</listitem>
       		<listitem>
         	<para>买之前先使用 LiveCD 或 LiveUSB 先实验一下。</para>
@@ -480,7 +484,7 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
    <sect2>
     <title>Super 键是键盘上的哪个键？</title>
     	<para>Super 键也叫做徽标键，在普通的 PC 机上就是画着微软徽标的那个键，一般在
-	ctrl 和 alt 之间，有人管它叫 win 键。在 Mac 机上是画苹果徽标的那个键。
+	ctrl 和 alt 之间，有人管它叫 win 键。在 Mac 上一般是 Command 键。
     	</para>
    </sect2>
 
@@ -523,7 +527,7 @@ sudo update-grup</screen>
     		</para>
     		<para>
 			如果还不明白，那么就举一个更加通俗的例子。
-			比如，一棵树上的树枝可能真的是这棵树自己长出来的，也可能是用绳子绑在上边的，这个用绳子绑的过程，就是所谓的“挂载(mount)”。
+			比如，一棵树上的树枝可能真的是这棵树自己长出来的，也可能是用绳子绑在上边的。这个用绳子绑的过程，就是所谓的“挂载(mount)”。
     		</para>
     		<para>
 			一个 Linux 系统中，具体的挂载方案，在文件：
@@ -558,7 +562,7 @@ sudo update-grup</screen>
     		<para>
     		这个地方说的 10 秒启动是在配置比较高的机器上，只安装了默认软件，配合固态硬盘
 		测试得到的数字，可以认为是一个极值，一般的机器是达不到这个数字的。
-		一般来说，启动时间一般在 20 多秒至 30秒。这也很快了，不是吗？
+		一般来说，启动时间一般在 20 至 30 秒。
     		</para>
   	</sect2>
   </sect1>
@@ -581,7 +585,7 @@ sudo update-grup</screen>
    </sect2>
    
    <sect2>
-    <title>iBus 怎么切换到中文输入法？</title>
+    <title>iBus 如何切换到中文输入法？</title>
     	<para>Ctrl-Space， 不是 ctrl-shift </para>
     	<para>多个输入法之间切换，比如从拼音切换到五笔是 Alt-Shift-L，当然这都是可以设置的。</para>
   </sect2>
@@ -604,7 +608,7 @@ sudo update-grup</screen>
   </sect2>
   
   <sect2>
-    <title>怎么安装新字体？</title>
+    <title>如何安装新字体？</title>
     <para>
     	将字体复制到 
     	<screen format="linespecific">/usr/share/fonts/truetype</screen>
@@ -674,7 +678,7 @@ sudo shutdown -c '取消关机'</screen>
     	
     <para>
     	如果非要安装(或者需要给 Windows 帮忙杀毒)，下边是几个选择：
-    		杀毒软件：ClamAV(Ubuntu 软件仓库中有)，Avast， NOD32， SAVFL，AntiVir，卡巴斯基 等。
+    		杀毒软件：ClamAV(Ubuntu 软件仓库中有)，Avast， NOD32， SAVFL，AntiVir，卡巴斯基等。
     		防火墙：Gufw (Ubuntu 软件仓库中有)
     </para>
     
@@ -743,7 +747,7 @@ sudo shutdown -c '取消关机'</screen>
     	<title>Ubuntu 与其它基于 Ubuntu 的衍生发行版</title>
     	<para>随着 Ubuntu 的发展，也出现了一些基于 Ubuntu 的发行版。但是，还没有出现强大得可以自己建立软件仓库的发行版。</para>
     	<para>这些软件一般以更加易于安装，默认的本地化支持，不同的主题风格，不同的软件组合，以及默认安装一些非自由软件作为卖点。</para>
-    	<para>这些衍生发行版中，有一些相对比较好的，也尊重知识产权，遵守软件的许可证，不往系统中添加一些不太受欢迎的软件。</para>
+    	<para>这些衍生发行版中，有一些相对比较好的，尊重知识产权，遵守软件的许可证，不会向系统中添加一些不太受欢迎的软件。</para>
     	<para>有的衍生发行版中存在的几个严重问题：
     	<itemizedlist>
       		<listitem>
@@ -761,7 +765,7 @@ sudo shutdown -c '取消关机'</screen>
         	<para>破坏 Linux 系统中的权限控制，给普通用户开了过大的权限，进行特权操作时，不要求进行验证,留下严重的安全隐患。</para>
       		</listitem>
         </itemizedlist>
-    	一般来说，使用有上面那几个问题的衍生发行版的用户，在正牌的开源社区提问的时候，会被无视掉，或者遭遇不是太礼貌的对待。所以不建议使用有以上问题的发行版。
+    	一般来说，使用有上面那几个问题的衍生发行版的用户，在开源社区提问的时候，会被无视掉，甚至遭遇不是太礼貌的对待。所以不建议使用有以上问题的发行版。
     	有这些问题的发行版，是不可能建立起强大的开发社区的，当然也就是没有什么前途可言的。
     	</para>
    </sect2>
