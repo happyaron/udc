@@ -808,7 +808,7 @@ msgstr "OpenOffice.org 文字处理的主要特性"
 
 #: chapter4/xinclude.xml:208(para)
 msgid "You may already be familiar with many of the features of this application so only a few of them are included here."
-msgstr "或许您对 OpenOffice.org 办公套件的特性已经有了不少了解，所以这里只介绍它的一部分特性。"
+msgstr "或许您对 OpenOffice.org 文字处理(Writer)的特性已经有了不少了解，所以这里仅介绍它的一部分特性。"
 
 #: chapter4/xinclude.xml:212(title)
 msgid "Writing"
@@ -2178,7 +2178,7 @@ msgstr "按下鼠标左键，拖曳鼠标指针直到结束绘图，松开按键
 
 #: chapter4/xinclude.xml:2531(para)
 msgid "The Drawing toolbar is not discussed in detail because you use its options to draw only basic shapes. For novice users, demonstrate the creation of a few objects, such as square, rectangle and connector. Visit <ulink url=\"http://documentation.openoffice.org/\">http://documentation.openoffice.org/</ulink> for more details on OpenOfice.org products."
-msgstr "我们在此不会详细讲述绘图工具栏，因为您只需用它来绘制基本的图形。您可以为新手示范性地绘制一些对象，例如正方形，椭圆形和连接线。如需了解更多关于 OpenOffice.org 产品的细节，请访问<ulink url=\"http://documentation.openoffice.org/\">http://documentation.openoffice.org/</ulink>"
+msgstr "我们在此不会详细讲述绘图工具栏，因为您只需用它来绘制基本的图形。您可以为新手示范性地绘制一些对象，例如正方形，椭圆形和连接线。如需了解更多关于 OpenOffice.org 产品的细节，请访问 <ulink url=\"http://documentation.openoffice.org/\">http://documentation.openoffice.org/</ulink>"
 
 #: chapter4/xinclude.xml:2539(title)
 msgid "Selecting Objects"
@@ -2562,7 +2562,7 @@ msgstr "您可以通过改变绘图区域中对象的布局来改变其顺序。
 
 #: chapter4/xinclude.xml:3160(para)
 msgid "Draw provides many more features and tools. For more information on the detailed features of Draw and other OpenOffice.org applications, refer the students to <ulink url=\"http://documentation.openoffice.org/\">http://documentation.openoffice.org/</ulink>."
-msgstr "Draw 还提供了更多的特性和工具。如果学生欲获得更多关于 Draw 和其他 OpenOffice.org 软件的详细信息，可让他们访问<ulink url=\"http://documentation.openoffice.org/\">http://documentation.openoffice.org/</ulink>."
+msgstr "Draw 还提供了更多的特性和工具。如果学生欲获得更多关于 Draw 和其他 OpenOffice.org 软件的详细信息，可让他们访问 <ulink url=\"http://documentation.openoffice.org/\">http://documentation.openoffice.org/</ulink>."
 
 #: chapter4/xinclude.xml:3168(title)
 msgid "Using OpenOffice.org Math"
@@ -2570,7 +2570,7 @@ msgstr "使用 OpenOffice.org 公式"
 
 #: chapter4/xinclude.xml:3170(para)
 msgid "Math is the equation writer component of OpenOffice.org office software suite. It contains a number of functions, operators and formatting assistants to help you create properly formatted equations and formulae. These formulae can then be imported for display in any other OpenOffice.org applications."
-msgstr "Openoffice.org 公式（以下简称 Math）是 OpenOffice.org 办公套件中的公式编辑工具。它包括一系列的函数，运算符和格式助手。您可以使用 Math 来创建格式完整的等式和方程式。这些式子可以插入到其他任意 OpenOffice.org 程序中。"
+msgstr "Openoffice.org 公式(Math)是 OpenOffice.org 办公套件中的公式编辑工具。它包括一系列的函数，运算符和格式助手。您可以使用 Math 来创建格式完整的等式和方程式。这些式子可以插入到其他任意 OpenOffice.org 程序中。"
 
 #: chapter4/xinclude.xml:3177(title)
 msgid "Key Features of OpenOffice.org Math"
