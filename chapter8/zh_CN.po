@@ -657,7 +657,7 @@ msgstr "WebM：一种用于高质量 HTML5 视频的免版税且开放的视频�
 
 #: chapter8/xinclude.xml:81(para)
 msgid "For more information,please see:<ulink url=\"http://zh.wikipedia.org/Open_format\">Open format</ulink>"
-msgstr "要获取更多信息，请参考：<ulink url=\"http://zh.wikipedia.org/Open_format\">Open format</ulink>"
+msgstr "要获取更多信息，请参考：<ulink url=\"http://zh.wikipedia.org/zh-cn/%E8%87%AA%E7%94%B1%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F\">Open format</ulink>"
 
 #: chapter8/xinclude.xml:84(para)
 msgid "As previously stated, due to the legal restrictions associated with the use of proprietary formats, Ubuntu does not offer support for such formats by default. If you wish to play proprietary formats, you will need to install additional multimedia codecs. A multimedia codec is a small piece of software that allows you to watch videos or listen to music of a specific format. Although Ubuntu includes many codecs by default, you may need to install more because there are many different multimedia formats and it is unrealistic to provide them all."
@@ -1596,7 +1596,7 @@ msgstr "Thoggen 绝大多数情况下可以很好地工作。尽管如此，仍�
 
 #: chapter8/xinclude.xml:1682(para)
 msgid "To be able to back up your DVD using Thoggen, you need to first install it. You can easily find this application in the Universe repository of Synaptic Package Manager and install it on your computer."
-msgstr "要使用 Thoggen 备份 DVD ，首先需要安装它。同样地，你可以使用 Ubuntu 软件中心、新立德软件包管理器或者命令行界面安装 Thoggen。"
+msgstr "要使用 Thoggen 备份 DVD ，首先需要安装它。同样地，你可以使用 Ubuntu 软件中心、新立得软件包管理器或者命令行界面安装 Thoggen。"
 
 #: chapter8/xinclude.xml:1688(title)
 msgid "To start backing up your DVD using Thoggen:"
