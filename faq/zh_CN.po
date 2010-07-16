@@ -604,7 +604,7 @@ msgstr ""
 
 #: faq/xinclude.xml:299(para)
 msgid ""
-"使用配置编辑器定位到 <screen format=\"linespecific\">/apps/geditor-2/"
+"使用配置编辑器定位到 <screen format=\"linespecific\">/apps/gedit-2/"
 "preferences/encodings</screen> 找到 <screen format=\"linespecific"
 "\">auto_detected</screen> 在其中添加 <screen format=\"linespecific"
 "\">GB18030</screen>"
@@ -1061,7 +1061,7 @@ msgid "iBus 如何切换到中文输入法？"
 msgstr ""
 
 #: faq/xinclude.xml:589(para)
-msgid "Ctrl-Space， 不是 ctrl-shift"
+msgid "Ctrl-Space， 不是 Ctrl-Shift"
 msgstr ""
 
 #: faq/xinclude.xml:590(para)
