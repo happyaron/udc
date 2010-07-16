@@ -83,7 +83,7 @@
     为关键字进行搜索，可以看到 PPA 中所有与 ns2 项匹配的软件包。从两个中选择一个，比如:
     <screen format="linespecific" >https://launchpad.net/~wzssyqa/+archive/wzssyqa</screen>
     在这个页面中，可以查看，这个 PPA 的主人是否提供您所使用的版本 Ubuntu 所对应的 ns2，
-    比如，正好您用的也是 lucid，那么就可以直接使用命令：
+    比如，正好您用的也是 lucid，那么就可以使用前文中“自定义桌面和应用程序 > 软件仓库”给出的方法添加这个 PPA，也可以直接使用命令：
     <screen format="linespecific">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen>
     将这个 PPA 添加到您的系统中。
     </para>
@@ -95,6 +95,11 @@
 		<title>launchpad.net</title>
 		<para>launchpad.net 有很多功能，Ubuntu 的很多开发工作是通过这个平台进行的。
 		大家都亲切地将之称为 LP。</para>
+		
+		<title>警告：注意 PPA 的安全性！！</title>
+		<para>因为 PPA 是相对开放的，几乎是任何人都可以上传软件包，所以，应该尽量避免使用 PPA。
+		      如果必须使用，要使用可以信任的，有固定团队维护的 PPA。
+		</para>
     </tip>
    </sect2>
    
@@ -132,15 +137,18 @@
 		的很多行。
 		仅仅需要删掉所有 “wget” 以及开头的 “#！/bin/sh” 就可以把后缀改成 lst，作为下载列表，导入 Windows 下常用的几种下载软件了。
 		</para>
+		
+		<title>警告：尽量避免这样安装自己下载的 deb 包！！</title>
+		<para>除非 deb 包有可信任的来源，否则，不要安装！随便安装从不可信任的来源下载的 deb 包可能会造成严重的安全隐患。
+		</para>
     </tip>
    </sect2>
   
    <sect2>
     <title>Apt/Aptitude/软件中心/新立德把软件给我装哪了？</title>
-    <para>比如要知道 gedit 这个包装了哪些文件：
+    <para>在新立德中，选中一个安装了的包，点右键，查看属性，也可以看到安装了的文件。</para>
+    <para>当然，也可以使用下边的命令查看安装的文件，如：
  	   <screen format="linespecific">dpkg -L gedit</screen>
-    </para>
-    <para>在新立德中，选中一个安装了的包，点右键，查看属性，也可以看到安装了的文件。
     </para>
    </sect2>
   
@@ -148,20 +156,19 @@
     <title>我进行一些工作的时候，比如编译 C 程序的时候，提示缺少一些文件，怎么办？</title>
     <para>这很有可能是因为您没有安装一些必需的软件包，可以根据文件名，使用 apt-file 找到这个文件在哪个软件包里：
     	<screen format="linespecific">sudo apt-get install apt-file  #安装 apt-file
-sudo apt-file update #更新 apt-file 本地数据库
-sudo apt-file search stdio.h # 或者
-sudo apt-file search /usr/include/stdio.h</screen>
+apt-file update #更新 apt-file 本地数据库
+apt-file search stdio.h # 或者
+apt-file search /usr/include/stdio.h</screen>
     </para>
-    <para>要查看一个没有安装的软件包包含什么文件，可以使用 show 命令：
-    	<screen format="linespecific">sudo apt-file show 6tunnel</screen>
+    <para>要查看一个没有安装的软件包包含什么文件，可以使用 show 命令，如：
+    	<screen format="linespecific">apt-file show 6tunnel</screen>
     </para>
     </sect2>
     <sect2>
-    	<title>怎么使用 DVD 做源？</title>
+    	<title>如何使用 DVD 做源？</title>
     	<para>一般来说，只要把 Ubuntu DVD 光盘插入光驱中，会自动询问是否使用 DVD 更新系统。</para>
-    	<para>如果没有弹出，可以使用如下命令：
+    	<para>如果没有弹出，可以在 <emphasis role="strong">软件源</emphasis> 这个程序中添加，也可以使用如下命令：
     		<screen format="linespecific">sudo apt-cdrom add</screen>
-    	同时，“软件源“这个程序中，也可以设置使用 DVD 作为软件源。
     	</para>
     </sect2>
     <sect2>
@@ -204,18 +211,25 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     <title>Root 用户的口令是什么？安装时并没有要求我输入 root 的口令。</title>
     <para>在很多其它 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 Ubuntu 中 root 用户默认是被禁用的。</para>
     <para>要进行特权操作，只需要在运行的命令前边加上 sudo。</para>
-    <para>如果想要临时成为 root 用户进行一些操作，请使用 sudo su 。</para>
-    <para>如果必须要启用 root，可以运行 sudo passwd root ，来修改 root 的口令，即可启用 root。</para>
-    <para>如果之后又想禁用 root，可以使用命令 sudo passwd -l root。</para>
+    <para>如果想要临时成为 root 用户进行一些操作，请使用 sudo -i 。</para>
     <tip>
 		<title>Ubuntu 是怎么实现禁用 root 的？</title>
 		<para>Ubuntu 通过给 root 用户设置一个特殊的口令，以使无论输入什么口令都验证错误，来达到禁用 root 的目的。</para>
+		
+		<title>警告：不要启用 root，绝对不要！！</title>
+		<para>虽然您也可以启用 root，但是启用 root 给您带来将只会有麻烦，不会有任何好处。</para>
+		
+		<title>警告：不要滥用 root！！</title>
+		<para>除非您正在进行必须使用特权的系统管理工作，不要使用 sudo 命令。
+		记住，Linux 是一个多用户操作系统。可以对整个系统进行的设置，也完全可以在个人环境下进行，包括安装一些软件的插件。
+		如果不能确定，就先使用不带 sudo 的命令试试。
+		</para>
     </tip>	
    </sect2>
    <sect2>
-    <title>如何开机时自动启动 tomboy/gnote？</title>
+    <title>如何开机时自动启动 tomboy？</title>
     <para>在顶部面板(就是顶部的那个黑框)的空白部分上点击鼠标右键，在弹出菜单中选择“添加到面板”，
-    找到 tomboy 或者 gnote 双击即可。</para>
+    找到 tomboy 双击即可。</para>
     <tip>
 		<title>关于 tomboy 和 gnote</title>
 		<para>Tomboy 是 Gnome 的一款便笺程序，使用 GTK# 编写，依赖 Mono。</para>
@@ -268,19 +282,16 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
    </sect2>
   
   <sect2>
-    <title>如何设置鼠标右键菜单？ 以管理员打开/在终端中打开/设为壁纸 等功能是怎么实现的？</title>
+    <title>如何设置鼠标右键菜单？在终端中打开/设为壁纸 等功能是怎么实现的？</title>
     <para>Ubuntu 中默认使用的文件管理器是 nautilus，其可以通过一些脚本扩展功能，在 Ubuntu 官方源里，有几个很常用的插件：
     </para>
     <para>
     	<itemizedlist>
       		<listitem>
-        	<para><ulink url="apt://nautilus-gksu">nautilus-gksu</ulink>    右键上添加，‘以管理员身份打开’</para>
+        	<para><ulink url="apt://nautilus-open-terminal">nautilus-open-terminal</ulink>    在右键菜单上添加，‘在终端中打开’</para>
       		</listitem>
       		<listitem>
-        	<para><ulink url="apt://nautilus-open-terminal">nautilus-open-terminal</ulink>    右键上添加，‘在终端中打开’</para>
-      		</listitem>
-      		<listitem>
-        	<para><ulink url="apt://nautilus-wallpaper">nautilus-wallpaper</ulink>    右键上添加，‘设为壁纸’</para>
+        	<para><ulink url="apt://nautilus-wallpaper">nautilus-wallpaper</ulink>    在右键菜单上添加，‘设为壁纸’</para>
       		</listitem>
     	</itemizedlist>
     </para>
@@ -322,7 +333,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
   <sect1>
     <title>常用工具软件</title>
     <sect2>
-    <title>Ubuntu 中怎么解压 rar 文件？</title>
+    <title>Ubuntu 中如何解压 rar 文件？</title>
     <para>安装 <ulink url="apt://unrar">unrar</ulink>。</para>
     <para>此外还可以使用开源的 <ulink url="apt://unrar-free">unrar-free</ulink>，但这个包对新版本的 rar 文件支持并不是特别好。</para>
     <tip>
@@ -340,17 +351,17 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     <para>
     <itemizedlist>
       		<listitem>
-        	<para>linuxfetion，  基于 QT 的飞信客户端，可以通过 ppa 添加</para>
-      		</listitem>
-      		<listitem>
-        	<para>openfetion     基于 GTK+ 的飞信客户端， 也可以在 ppa 上找到(这个将来有可能会进官方源)</para>
-        	<para>linuxfetion 和 openfetion 可以在 <ulink url="https://launchpad.net/~happyaron/+archive/ppa">Aron Xu 的 PPA</ulink> 上找到</para>
+        	<para>openfetion     基于 GTK+ 的飞信客户端， 可以在 ppa 上找到(这个将来有可能会进官方源)</para>
+        	<para>openfetion 可以在 <ulink url="https://launchpad.net/~happyaron/+archive/ppa">Aron Xu 的 PPA</ulink> 上找到</para>
       		</listitem>
       		<listitem>
         	<para><ulink url="http://www.linuxsir.org/bbs/thread320802.html">Pidgin 的飞信插件</ulink></para>
       		</listitem>
+<!--      		<listitem>-->
+<!--        	<para><ulink url="http://mail.139.com/">中国移动 139 邮箱</ulink> 中可以登录网页版飞信。</para>-->
+<!--      		</listitem>-->
       		<listitem>
-        	<para><ulink url="http://mail.139.com/">中国移动 139 邮箱</ulink> 中可以登录网页版飞信</para>
+        	<para>linuxfetion，  基于 QT 的飞信客户端</para>
       		</listitem>
     	</itemizedlist>
     </para>
@@ -365,19 +376,17 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
 		兴业银行：95561　民生银行：95568　邮政储蓄银行：95580
 		上海浦发银行：95528　深圳发展银行：95501</screen>
     	</para>
-    	<para>
-    	   <screen format="linespecific">
-    	   	如果有条件，推荐使用 <ulink url="http://www.spdb.com.cn">上海浦发银行</ulink></screen>
-    	</para>
+    	<para>总的来说，外资银行对 Linux 的支持比较好，国内的银行浦东发展银行和中国建设银行也支持 Linux 系统。</para>
     	<para>关于网银的具体情况可以参考：
-    	<screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen></para>
-   </sect2>
-   <sect2>
-    <title>Ubuntu 上如何进行语音视频聊天？</title>
-    	<para>由于腾讯公司不支持，在 Linux 上 QQ 最多只能单方视频
-    	   可以使用 Gtalk/Skype 来代替。
+    	<screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen>
     	</para>
    </sect2>
+<!--   <sect2>-->
+<!--    <title>Ubuntu 上如何进行语音视频聊天？</title>-->
+<!--    	<para>由于腾讯公司不支持，在 Linux 上 QQ 最多只能单方视频-->
+<!--    	   可以使用 Gtalk/Skype 来代替。-->
+<!--    	</para>-->
+<!--   </sect2>-->
    
    <sect2>
     <title>Ubuntu 上怎么聊 QQ？</title>
@@ -444,7 +453,7 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
     	</itemizedlist>
     </para>
     <para>一般来说，Ubuntu 中不需要自己手动下载驱动，如果 Ubuntu 默认不支持您的硬件，
-    	可以使用 系统 -> 系统管理 ->硬件驱动 来尝试能不能自动安装驱动。
+    	可以使用 系统 -> 系统管理 ->硬件驱动 来尝试自动安装驱动。
     </para>
     <para>如果仍然不能安装好驱动，您可能需要使用搜索引擎等去自己寻找驱动程序。如果能够确定新版内核可以支持您的硬件，
     	或者可以从其它地方下载得到驱动程序，那么您可能需要重新编译内核了。
@@ -452,11 +461,14 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
    </sect2>
    <sect2>
     <title>Linux 怎么进行碎片整理？</title>
-    <para>Linux 的文件系统做的足够优秀，不需要专门进行碎片整理。</para>
-    <para>相信我！</para>
+    <para>大家常说的磁盘碎片在 Linux 中被称为外部碎片，Linux 中的文件系统设计时考虑到了这个问题，
+    在正常使用的情况下，是不会产生外部磁盘碎片的，当然也就不会影响到磁盘性能。</para>
+    <para>所以，没有必要去专门进行磁盘碎片的整理。</para>
    </sect2>
    <sect2>
     <title>我想备份我现在的系统，怎么办？Ghost 好像不行。</title>
+    <para>因为 Ghost 不支持比较新版本的 ext3 以及 ext4，所有，现在的 Ubuntu 无法使用 Ghost 进行备份。当然 Ghost 也有一定的安全问题。
+    </para>
     <para>可以使用 ptptptptptpt (6pt) 编写的 
     <ulink url="http://code.google.com/p/ucloner/downloads/list">Ucloner</ulink> 来实现这个功能。
     在确认安装了 <ulink url="apt://squashfs-tools">squashfs-tools</ulink> 之后，解压开下载的压缩包，点击“双击运行”。
@@ -511,42 +523,35 @@ update-grub</screen>
     			<screen format="linespecific">C：\grldr = GRUB4DOS   或者
 C：\g2ldr = GRUB4DOS</screen>
     			并删除 C 盘中的 menu.lst (或者 grub.cfg boot/menu.lst boot/grub.cfg 等) 文件。
-    			重启系统，选择 GRUB4DOS 项，选择自动探测 grub.cfg 那一项，就可以带您进入 Ubuntu 系统了。
+    			重启系统，选择 GRUB4DOS 项，选择自动探测 grub.lst(或者 grub.cfg)那一项，就可以带您进入 Ubuntu 系统了。
     			然后运行命令：
 			<screen format="linespecific">sudo grub-install /dev/sda
 sudo update-grup</screen>		
     		</para>
   	</sect2>
   	
-  	<sect2>
-    		<title>/ 是一个什么目录？</title>
-    		<para>
-			Ubuntu 在安装的时候，会选择一个分区做为根目录，也就是 /，这个目录作为“根”目录。
-			所有的其它目录都会挂载在这个目录上面，好像是这个目录的一个子目录。
-			这样，整个目录的结构看起来就像一棵大树。
-    		</para>
-    		<para>
-			如果还不明白，那么就举一个更加通俗的例子。
-			比如，一棵树上的树枝可能真的是这棵树自己长出来的，也可能是用绳子绑在上边的。这个用绳子绑的过程，就是所谓的“挂载(mount)”。
-    		</para>
-    		<para>
-			一个 Linux 系统中，具体的挂载方案，在文件：
-			<screen format="linespecific">/etc/fstab</screen>
-    			中定义。
-    		</para>
-  	</sect2>
+<!--  	<sect2>-->
+<!--    		<title>/ 是一个什么目录？</title>-->
+<!--    		<para>-->
+<!--			Ubuntu 在安装的时候，会选择一个分区做为根目录，也就是 /，这个目录作为“根”目录。-->
+<!--			所有的其它目录都会挂载在这个目录上面，好像是这个目录的一个子目录。-->
+<!--			这样，整个目录的结构看起来就像一棵大树。-->
+<!--    		</para>-->
+<!--    		<para>-->
+<!--			如果还不明白，那么就举一个更加通俗的例子。-->
+<!--			比如，一棵树上的树枝可能真的是这棵树自己长出来的，也可能是用绳子绑在上边的。这个用绳子绑的过程，就是所谓的“挂载(mount)”。-->
+<!--    		</para>-->
+<!--    		<para>-->
+<!--			一个 Linux 系统中，具体的挂载方案，在文件：-->
+<!--			<screen format="linespecific">/etc/fstab</screen>-->
+<!--    			中定义。-->
+<!--    		</para>-->
+<!--  	</sect2>-->
   	
   	<sect2>
-    		<title>Ubuntu 主要有几种安装方法？</title>
+    		<title>常用的几种 Ubuntu 安装方法？</title>
     		<para>
-			光盘安装：就是从启动计算机，并安装 Ubuntu 系统。
-    		</para>
-    		<para>
-			Wubi 安装：在 Windows 中运行一个程序，将 Ubuntu 安装的 Windows 分区的一个文件中。
-			这样就不用给 Ubuntu 单独分配分区，但是会造成硬盘性能较低。适合临时使用。
-    		</para>
-    		<para>
-			硬盘安装：使用系统的引导器(比如 GRUB) 引导 Linux 内核，然后加载 ISO 镜像，实现不用刻盘安装。
+			光盘安装：就是从光盘启动计算机，并安装 Ubuntu 系统。
     		</para>
     		<para>
 			U 盘安装：将 ISO 镜像烧录到 U 盘中，然后使用 U 盘引导系统，进行安装。如果硬件支持，这是最方便的方法。
@@ -555,6 +560,17 @@ sudo update-grup</screen>
     		<para>
 			网络安装：首先启动一个很小的基本系统，使用这个基本系统，从网络上下载软件包，进行安装。
 			适合网速快的情况。这种方法的优势是，安装完成之后不用更新，也能更方便的控制安装哪些软件包。
+    		</para>
+    		<para>
+			硬盘安装：使用系统的引导器(比如 GRUB) 引导 Linux 内核，然后加载 ISO 镜像，实现不用刻盘安装。
+    		</para>
+    		<para>
+			Wubi 安装：在 Windows 中运行一个程序，将 Ubuntu 安装的 Windows 分区的一个文件中。
+			这样就不用给 Ubuntu 单独分配分区，但是会造成硬盘性能较低。适合临时使用。
+    		</para>
+    		<para>
+			具体的安装方法，可以参考这篇帖子：
+			<ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=268355">http://forum.ubuntu.org.cn/viewtopic.php?t=268355</ulink>
     		</para>
   	</sect2>
   	<sect2>
@@ -639,18 +655,22 @@ sudo shutdown -c '取消关机'</screen>
   </sect2>
   
   <sect2>
-    <title>如何设置，可以自动登录？</title>
+    <title>如何自动登录？</title>
     <para>
     	<screen format="linespecific">系统 -> 系统设置 -> 登录窗口</screen>
     	或者直接运行
     	<screen format="linespecific">sudo gdmsetup</screen>
     </para>
+    <tip>
+		<title>警告：不要让具有 sudo 权限的用户自动登录！</title>
+		<para>自动登录会降低系统的安全性，如果让具有 sudo 权限的用户自动登录，将会对系统安全产生更大的威胁。</para>
+    </tip>
   </sect2>
   </sect1>
 
   
   <sect1>
-    <title>关于杀毒软件和防火墙</title>
+    <title>关于系统安全</title>
     <para>
     	记住：安全远远不止杀毒软件和防火墙！
     	如果想通过安装杀毒软件或者防火墙来提高桌面 Linux 系统的安全性，那么您可以停下了：这几乎是没有什么用处的。
@@ -677,9 +697,9 @@ sudo shutdown -c '取消关机'</screen>
     </para>
     	
     <para>
-    	如果非要安装(或者需要给 Windows 帮忙杀毒)，下边是几个选择：
-    		杀毒软件：ClamAV(Ubuntu 软件仓库中有)，Avast， NOD32， SAVFL，AntiVir，卡巴斯基等。
-    		防火墙：Gufw (Ubuntu 软件仓库中有)
+    	如果非要安装(或者需要给 Windows 帮忙杀毒)，可以安装：
+    		ClamAV(杀毒软件)
+    		和 Gufw(防火墙)。
     </para>
     
     <para>
@@ -689,10 +709,11 @@ sudo shutdown -c '取消关机'</screen>
         	<para>从不明来源下载软件：如果软件仓库中有，坚决从软件仓库中安装</para>
       		</listitem>
       		<listitem>
-        	<para>滥用 sudo：有些用户喜欢使用 sudo 命令，即使是不需要的时候。记住：除非进行系统管理，不要使用 sudo</para>
+        	<para>滥用 root：有些用户喜欢使用 sudo 命令，即使是不需要的时候。记住：除非进行系统管理，不要使用 sudo</para>
       		</listitem>
       		<listitem>
-        	<para>使用盗版的商业软件：这是一个极大的安全隐患，因为，根本就不知道是否有人在其中做了手脚</para>
+        	<para>使用盗版的商业软件：这是一个极大的安全隐患，因为，根本就不知道是否有人在其中做了手脚。
+        	另外，一般来说，Ubuntu 提供的开源软件足够丰富，除了自己购买的专业的商业软件，是没有必要使用商业软件的。</para>
       		</listitem>
         </itemizedlist>
     </para>
@@ -702,31 +723,34 @@ sudo shutdown -c '取消关机'</screen>
   <sect1>
     <title>关于衍生发行版</title>
     <sect2>
-    	<title>关于 Debian (此部分内容来自 WikiPedia)</title>
+    	<title>关于 Debian</title>
     	<para>Debian 于 1993年8月16日 由一名美国普渡大学学生 Ian Murdock 首次发表。</para>
     	<para>Debian 是由GPL和其他自由软件许可协议授权的自由软件组成的操作系统，
-    	由Debian计划(Debian Project)组织维护。Debian计划没有任何的营利组织支持，它的开发团队完全由来自世界各地的志愿者组成，
+    	由 Debian 计划(Debian Project)组织维护。Debian计划没有任何的营利组织支持，它的开发团队完全由来自世界各地的志愿者组成，
     	官方开发者的总数就将近1000名，非官方的开发者为数更多。</para>
     	<para>Debian 计划组织跟其他自由操作系统(如 Ubuntu、openSUSE、Fedora、Mandriva、OpenSolaris等)的开发组织不同。
     	上述这些自由操作系统的开发组织通常背后由公司或机构支持。而 Debian 计划组织则完全是一个独立的、分散的开发者组织，纯粹由志愿者组成，
     	背后没有任何公司或机构支持。</para>
-    	<para>Debian 以其坚守 Unix 和自由软件的精神，以及其给予用户的众多选择而闻名。现在 Debian 包括了超过 25,000 个软件包并支持 12 个计算机系统结构。</para>
+    	<para>Debian 以其坚守 Unix 和自由软件的精神，以及其给予用户的众多选择而闻名，其理念是 the universal operating system。现在 Debian 包括了超过 25,000 个软件包并支持 12 个计算机系统结构。</para>
     	<para>需要指出的是，Debian 并不是一种 Linux 发行版。Debian 是一个大的系统组织框架，在这个框架下有多种不同操作系统内核的分支计划，
-    	如采用 Linux 内核的 Debian GNU/Linux 系统、采用 GNU Hurd 内核的 Debian GNU/Hurd 系统、采用 FreeBSD 内核的 Debian GNU/kFreeBSD 系统，
+    	如采用 Linux 内核的 Debian GNU/Linux 系统、采用 FreeBSD 内核的 Debian GNU/kFreeBSD 系统、采用 GNU Hurd 内核的 Debian GNU/Hurd 系统，
     	以及采用 NetBSD 内核的 Debian GNU/NetBSD 系统。甚至还有应用 Debian 的系统架构和工具，采用 OpenSolaris 内核构建而成的 Nexenta OS 系统。
     	在这些 Debian 系统中，以采用 Linux 内核的 Debian GNU/Linux 最为著名。众多的 Linux 发行版，例如 Ubuntu、Knoppix 和 Linspire 及 Xandros 等，
     	都建基于 Debian GNU/Linux。</para>
     	<para>1996年，当时的 Debian 计划领导人 Bruce Perens 发表了 Debian 社会契约(Debian Social Contract)
     	及 Debian 自由软件指引(Debian Free Software Guidelines)，定义了开发 Debian 的基本承诺。</para>
-    	<para>Debian 有三个主要的分支：statale，testing，unstable。
+    	<para>Debian 有三个主要的分支：stable，testing，unstable。
     		此外还有一个存放实验性软件的分支 experimental，但 experimental 不是一个完整的分支。
     	</para>
+    	<note>
+    		<para>此部分改写自 WikiPedia 的 Debian 词条：http://zh.wikipedia.org/zh-cn/debian</para>
+    	</note>
    </sect2>
    
    <sect2>
     	<title>Ubuntu 与 Debian 的关系</title>
-    	<para>正如上面说所 Debian 一大特点就是保守，同时管理上也过于民主，造成决策缓慢。这样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。</para>
-    	<para>Ubuntu 基于 Debian 的 unstable 分支，同时对来自 Debian 的部分软件包进行了一定的修改，以使其更加适合桌面使用。
+    	<para>Debian Stable 版总是相对保守，而其它分支却没有较好支持，同时管理上也过于民主，造成决策缓慢。这样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。</para>
+    	<para>Ubuntu 基于 Debian 的 unstable 或者 testing 分支，同时对来自 Debian 的部分软件包进行了一定的修改，以使其更加适合桌面使用。
     	同时，优化了安装过程，使 Ubuntu 安装起来更加容易。
     	</para>
     	<para>因为，Ubuntu 对 Debian 的改动比较大，Ubuntu 建立了自己的软件仓库。但是这其中的大部分软件包都是不加修改的直接从 Debian 软件仓库同步过来的。
@@ -735,19 +759,20 @@ sudo shutdown -c '取消关机'</screen>
     	<para>Ubuntu 也是坚守自由软件的发行版。但是，Ubuntu 开始的几年，因为和 Debian 开发者就系统具体应该作成什么样子，
     	以及 Ubuntu 向 Debian 的回馈通道不是很畅通，造成了两个社区的关系不是太好。</para>
     	<para>现在，两个社区的矛盾已经基本消除，关系也已非常融洽，Ubuntu 向 Debian 回馈的通道也已经比较畅通。</para>
-    	<para>Ubuntu benefits from a strong Debian, and Debian benefits from a strong Ubuntu. - MarkShuttleworth</para>
-    	<para>Every Debian developer is also an Ubuntu developer, because one way to contribute to Ubuntu is to contribute to Debian. - MarkShuttleworth</para>
-    	<para>We incorporate Debian changes regularly, because that introduces the latest work, the latest upstream code, 
+    	<quote>Ubuntu benefits from a strong Debian, and Debian benefits from a strong Ubuntu. - MarkShuttleworth</quote>
+    	<quote>Every Debian developer is also an Ubuntu developer, because one way to contribute to Ubuntu is to contribute to Debian. - MarkShuttleworth</quote>
+    	<quote>We incorporate Debian changes regularly, because that introduces the latest work, the latest upstream code, 
     	and the newest packaging efforts from a huge and competent open source community. 
     	Without Debian, Ubuntu would not be possible. - MarkShuttleworth
-    	</para>
+    	</quote>
    </sect2>
    
    <sect2>
     	<title>Ubuntu 与其它基于 Ubuntu 的衍生发行版</title>
     	<para>随着 Ubuntu 的发展，也出现了一些基于 Ubuntu 的发行版。但是，还没有出现强大得可以自己建立软件仓库的发行版。</para>
     	<para>这些软件一般以更加易于安装，默认的本地化支持，不同的主题风格，不同的软件组合，以及默认安装一些非自由软件作为卖点。</para>
-    	<para>这些衍生发行版中，有一些相对比较好的，尊重知识产权，遵守软件的许可证，不会向系统中添加一些不太受欢迎的软件。</para>
+    	<para>这些衍生发行版中，有一些相对比较好的，尊重知识产权，遵守软件的许可证，不会向系统中添加一些不太受欢迎的软件。但无论如何，
+    	还是推荐使用官方版的 Ubuntu。</para>
     	<para>有的衍生发行版中存在的几个严重问题：
     	<itemizedlist>
       		<listitem>
@@ -765,7 +790,7 @@ sudo shutdown -c '取消关机'</screen>
         	<para>破坏 Linux 系统中的权限控制，给普通用户开了过大的权限，进行特权操作时，不要求进行验证,留下严重的安全隐患。</para>
       		</listitem>
         </itemizedlist>
-    	一般来说，使用有上面那几个问题的衍生发行版的用户，在开源社区提问的时候，会被无视掉，甚至遭遇不是太礼貌的对待。所以不建议使用有以上问题的发行版。
+    	一般来说，使用有上面那几个问题的衍生发行版的用户，在开源社区提问的时候，会被无视掉，甚至遭遇不是太礼貌的对待。所以应该避免使用有以上问题的发行版。
     	有这些问题的发行版，是不可能建立起强大的开发社区的，当然也就是没有什么前途可言的。
     	</para>
    </sect2>
