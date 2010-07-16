@@ -1507,7 +1507,7 @@ msgstr "选择需要的模式："
 
 #: chapter6/xinclude.xml:845(title)
 msgid "Home Folder:"
-msgstr "主文件夹："
+msgstr "主文件夹"
 
 #: chapter6/xinclude.xml:847(para)
 msgid ""
@@ -1518,7 +1518,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:855(title)
 msgid "Desktop:"
-msgstr "桌面："
+msgstr "桌面"
 
 #: chapter6/xinclude.xml:857(para)
 msgid ""
@@ -1529,7 +1529,7 @@ msgstr ""
 
 #: chapter6/xinclude.xml:865(title)
 msgid "Computer:"
-msgstr "计算机："
+msgstr "计算机"
 
 #: chapter6/xinclude.xml:867(para)
 msgid ""
@@ -1539,7 +1539,7 @@ msgstr "包含全部驱动器和文件系统；使得将文档备份到 CD 和 D
 
 #: chapter6/xinclude.xml:874(title)
 msgid "CD/DVD Creator:"
-msgstr "CD/DVD 创建器："
+msgstr "CD/DVD 创建器"
 
 #: chapter6/xinclude.xml:876(para)
 msgid ""
@@ -1725,7 +1725,7 @@ msgid ""
 "Package Manager."
 msgstr ""
 "Ubuntu 默认包含了一些软件包管理器，使用哪一个取决于您所要完成软件包管理任务的"
-"复杂和精细程度。本课程涵盖添加/删除应用程序工具和新立得软件包管理器。"
+"复杂和精细程度。本课程涵盖 Ubuntu 软件中心和新立得软件包管理器的使用方法。"
 
 #: chapter6/xinclude.xml:1033(para)
 msgid ""
@@ -1794,7 +1794,7 @@ msgid ""
 "Many package names in Ubuntu are quite obscure, so the package manager will "
 "also look at the package description when searching."
 msgstr ""
-"Ubuntu 中的很多软件包名称都十分难以理解，所以软件包管理器还会在搜索时查找软件"
+"由于 Ubuntu 中有些软件包的名称比较晦涩，所以软件包管理器还会在搜索时查找软件"
 "包描述。"
 
 #: chapter6/xinclude.xml:1090(title)
@@ -1900,7 +1900,7 @@ msgid ""
 "advanced packages, such as the Apache web server, the PHP programming "
 "language or Scribe. In such cases, use Synaptic Package Manager."
 msgstr ""
-"添加/删除应用程序无法让您安装和删除某些更高级的软件包，比如 Apache 网络服务、"
+"使用 Ubuntu 软件中心无法让您安装和删除某些更高级的软件包，比如 Apache 网络服务、"
 "PHP 编程语言或 Scribus。这时，就得用新立得软件包管理器。"
 
 #: chapter6/xinclude.xml:1221(para)
@@ -2681,7 +2681,7 @@ msgid ""
 "your pdf files, use a spreadsheet application for creating your daily tasks "
 "and archive your files. Install the following packages:"
 msgstr ""
-"您在您的个人计算机上安装了 Ubuntu 9.10。您想要查看您的 pdf 文件，使用电子表格"
+"您在您的个人计算机上安装了 Ubuntu 10.04。您想要查看 pdf 文件，使用电子表格"
 "应用程序创建您的每日任务并打包您的文件。需要安装以下软件包："
 
 #: chapter6/xinclude.xml:1932(para)
