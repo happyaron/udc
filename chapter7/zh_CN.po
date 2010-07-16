@@ -759,7 +759,7 @@ msgstr "工具控制栏能够显示创建图形的相关选项。举个例子，
 
 #: chapter7/xinclude.xml:836(para)
 msgid "After creating the shape, click <emphasis role=\"strong\">Save</emphasis> on the Command Bar. The <emphasis role=\"strong\">Select file to Save to</emphasis> dialogue box is displayed. Type the name of the file in the <emphasis role=\"strong\">Name</emphasis> text box, specify the location where you want to save the file and click <emphasis role=\"strong\">Save</emphasis>."
-msgstr "创建完图形后，单击命令栏上的 <emphasis role=\"strong\">保存文档</emphasis> 按钮。此时将弹出 <emphasis role=\"strong\">选择打开的文件</emphasis> 对话框。<emphasis role=\"strong\">名称</emphasis> 文本框中键入文件名并指定保存路径后单击 <emphasis role=\"strong\">保存</emphasis> 按钮。"
+msgstr "创建完图形后，单击命令栏上的 <emphasis role=\"strong\">保存文档</emphasis> 按钮。此时将弹出 <emphasis role=\"strong\">选择要保存的文件</emphasis> 对话框。<emphasis role=\"strong\">名称</emphasis> 文本框中键入文件名并指定保存路径后单击 <emphasis role=\"strong\">保存</emphasis> 按钮。"
 
 #: chapter7/xinclude.xml:841(title)
 msgid "Saving an Object"
@@ -787,7 +787,7 @@ msgstr "<ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\"
 
 #: chapter7/xinclude.xml:880(para)
 msgid "Check the status of your scanner at the following Web site: <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink>. This site lists the drivers distributed with sane-backends-1.0.18 and supported hardware and software."
-msgstr "可在 <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink> 站点检查您的扫描仪状态。该站点列出了最新的 sane-backends 锁包含的驱动程序以及所支持的软硬件。"
+msgstr "可在 <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink> 站点检查您的扫描仪状态。该站点列出了最新的 sane-backends 所包含的驱动程序以及所支持的软硬件。"
 
 #: chapter7/xinclude.xml:872(para)
 msgid "You can check the compatibility of your scanner with Ubuntu in one of two ways: <placeholder-1/>"
