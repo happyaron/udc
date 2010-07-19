@@ -83,9 +83,10 @@
     为关键字进行搜索，可以看到 PPA 中所有与 ns2 项匹配的软件包。从两个中选择一个，比如:
     <ulink url="https://launchpad.net/~wzssyqa/+archive/wzssyqa">https://launchpad.net/~wzssyqa/+archive/wzssyqa</ulink>
     在这个页面中，可以查看，这个 PPA 的主人是否提供您所使用的版本 Ubuntu 所对应的 ns2，
-    比如，正好您用的也是 lucid，那么就可以使用前文中“自定义桌面和应用程序 > 软件仓库”给出的方法添加这个 PPA，也可以直接使用命令：
-    <screen format="linespecific">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen>
-    将这个 PPA 添加到您的系统中。
+    比如，正好您用的也是 lucid，那么就可以使用前文中“自定义桌面和应用程序 > 软件仓库”给出的方法添加这个 PPA。
+<!--    ，也可以直接使用命令：-->
+<!--    <screen format="linespecific">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen>-->
+<!--    将这个 PPA 添加到您的系统中。-->
     </para>
     <tip>
 		<title>ppa:wzssyqa/wzssyqa 是怎么来的</title>
@@ -105,31 +106,34 @@
    
    <sect2>
     <title>无法连接互联网的环境中，如何下载多个软件，并解决依赖关系？ </title>
-    <para>打开“新立德软件包管理器”，选择要安装的软件，并“标记以便安装”。
-    	然后选择： <screen format="linespecific">文件 -> 生成包下载脚本</screen>
-    	使用这个脚本可以下载所有要安装的软件，以及它们的依赖。
-    	例如，您生成了： <screen format="linespecific">download.sh</screen> 脚本，
-    	就可以使用： <screen format="linespecific">./download.sh</screen>
-    	命令将所有软件包下载到当前目录。
-    </para>
-    <para>将下载的所有软件包放在同一个目录中，使用：
-    	<screen format="linespecific">sudo dpkg -i *.deb</screen>
-    	命令，就可以将所有软件包都安装上。
-    </para>
-    <tip>
-		<title>我要去 Windows 上去下载，怎么办？</title>
-		<para>这个文件的大体格式是：
-		以： <screen format="linespecific">#！/bin/sh</screen> 开头，
-		接着是类似于：
-		<screen format="linespecific">wget http://mirrors.163.com/ubuntu/pool/main/a/acl/acl_2.2.49-3_amd64.deb</screen>
-		的很多行。
-		仅仅需要删掉所有 “wget” 以及开头的 “#！/bin/sh” 就可以把后缀改成 lst，作为下载列表，导入 Windows 下常用的几种下载软件了。
-		</para>
-		
-		<title>警告：尽量避免这样安装自己下载的 deb 包！！</title>
-		<para>除非 deb 包有可信任的来源，否则，不要安装！随便安装从不可信任的来源下载的 deb 包可能会造成严重的安全隐患。
-		</para>
-    </tip>
+    <para>对于这个问题，您可以使用如下两种方法：</para>
+    <para>可以使用 keryx 来下载并安装需要的软件包：http://keryxproject.org/，这个软件同时支持 Windows、Mac OS X 和 Linux。</para>
+    <para>也可以使用 “新立德软件包管理器”中的 “文件 -> 生成包下载脚本” 功能。但这种方法要求您必须可以更新软件包的信息。</para>
+<!--    <para>打开“新立德软件包管理器”，选择要安装的软件，并“标记以便安装”。-->
+<!--    	然后选择： <screen format="linespecific">文件 -> 生成包下载脚本</screen>-->
+<!--    	使用这个脚本可以下载所有要安装的软件，以及它们的依赖。-->
+<!--    	例如，您生成了： <screen format="linespecific">download.sh</screen> 脚本，-->
+<!--    	就可以使用： <screen format="linespecific">./download.sh</screen>-->
+<!--    	命令将所有软件包下载到当前目录。-->
+<!--    </para>-->
+<!--    <para>将下载的所有软件包放在同一个目录中，使用：-->
+<!--    	<screen format="linespecific">sudo dpkg -i *.deb</screen>-->
+<!--    	命令，就可以将所有软件包都安装上。-->
+<!--    </para>-->
+<!--    <tip>-->
+<!--		<title>我要去 Windows 上去下载，怎么办？</title>-->
+<!--		<para>这个文件的大体格式是：-->
+<!--		以： <screen format="linespecific">#！/bin/sh</screen> 开头，-->
+<!--		接着是类似于：-->
+<!--		<screen format="linespecific">wget http://mirrors.163.com/ubuntu/pool/main/a/acl/acl_2.2.49-3_amd64.deb</screen>-->
+<!--		的很多行。-->
+<!--		仅仅需要删掉所有 “wget” 以及开头的 “#！/bin/sh” 就可以把后缀改成 lst，作为下载列表，导入 Windows 下常用的几种下载软件了。-->
+<!--		</para>-->
+<!--		-->
+<!--		<title>警告：尽量避免这样安装自己下载的 deb 包！！</title>-->
+<!--		<para>除非 deb 包有可信任的来源，否则，不要安装！随便安装从不可信任的来源下载的 deb 包可能会造成严重的安全隐患。-->
+<!--		</para>-->
+<!--    </tip>-->
    </sect2>
   
    <sect2>
@@ -389,7 +393,7 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
         	以上两种方法，需要安装 <ulink url="apt://python-mutagen">python-mutagen</ulink></para>
       		</listitem>      		
     	</itemizedlist>
-    	<para>推荐上边的第一种，设置环境变量的方法。</para>
+    	<para>推荐上边的第一种，即设置环境变量的方法。</para>
    </sect2>
 
   </sect1> 
@@ -595,15 +599,15 @@ sudo update-grub</screen>
     </para>
   </sect2>
   
-  <sect2>
-    <title>如何安装新字体？</title>
-    <para>
-    	将字体复制到 
-    	<screen format="linespecific">/usr/share/fonts/truetype</screen>
-    	然后运行命令：
-    	<screen format="linespecific">sudo fc-cache</screen>
-    </para>
-  </sect2>
+<!--  <sect2>-->
+<!--    <title>如何安装新字体？</title>-->
+<!--    <para>-->
+<!--    	将字体复制到 -->
+<!--    	<screen format="linespecific">/usr/share/fonts/truetype</screen>-->
+<!--    	然后运行命令：-->
+<!--    	<screen format="linespecific">sudo fc-cache</screen>-->
+<!--    </para>-->
+<!--  </sect2>-->
   
   <sect2>
     <title>怎么实现定时关机？</title>
@@ -653,7 +657,7 @@ sudo shutdown -c '取消关机'</screen>
         	<para>软件仓库：几乎所有的软件都可以在软件仓库里下载得到，这样就可以保证软件都是可以信任的</para>
       		</listitem>
       		<listitem>
-        	<para>开放的源代码：只要有足够多的眼睛，所有软件缺陷都无处可藏</para>
+        	<para>开放的源代码：源代码开放对系统的安全和及时发现系统的安全漏洞会有所帮助</para>
       		</listitem>
     	</itemizedlist>
     </para>

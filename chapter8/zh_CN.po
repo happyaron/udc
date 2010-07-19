@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course playing-music-and-videos\n"
 "POT-Creation-Date: 2010-07-05 19:57+0800\n"
-"PO-Revision-Date: 2010-07-05 22:23+0800\n"
+"PO-Revision-Date: 2010-07-19 20:19+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "MIME-Version: 1.0\n"
@@ -909,7 +909,7 @@ msgstr "启用插件：便携播放器 - iPod。"
 
 #: chapter8/xinclude.xml:521(para)
 msgid "Plug your iPod to your computer.In <emphasis role=\"strong\">Devices</emphasis> pane, you can see your iPod."
-msgstr "将您的 iPod 插入计算机。在 <emphasis role=\"strong\">设备</emphasis>嵌板中，就可看到您的 iPod 了。"
+msgstr "将您的 iPod 插入计算机。在 <emphasis role=\"strong\">设备</emphasis> 嵌板中，就可看到您的 iPod 了。"
 
 #: chapter8/xinclude.xml:522(para)
 msgid "Now you can play the musics in your iPod,and you can send the music to iPod by drag and drop,or from iPod to PC."
