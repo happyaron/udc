@@ -1952,22 +1952,22 @@
           </listitem>
         </itemizedlist></para>
 
-        <tip>
-            <title>Nice to Know:</title>
+<!--        <tip>-->
+<!--            <title>Nice to Know:</title>-->
 
-            <para>If you find that all Chinese characters can not display corretcly in flash,
-            you can use this command to correct it:
-            <screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen> .
-            </para>
-            <para>For someone who is using AMD64,you can install this one, or add the the ppa 
-            <screen format="linespecific">https://launchpad.net/~sevenmachines/+archive/flash</screen>
-              by 
-              <screen format="linespecific">sudo apt-add-repository ppa:sevenmachines/flash</screen>
-              and install <emphasis role="strong">flashplugin64-nonfree</emphasis>,its performance 
-              is better and is more stable.
-            </para>
+<!--            <para>If you find that all Chinese characters can not display corretcly in flash,-->
+<!--            you can use this command to correct it:-->
+<!--            <screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen> .-->
+<!--            </para>-->
+<!--            <para>For someone who is using AMD64,you can install this one, or add the the ppa -->
+<!--            <screen format="linespecific">https://launchpad.net/~sevenmachines/+archive/flash</screen>-->
+<!--              by -->
+<!--              <screen format="linespecific">sudo apt-add-repository ppa:sevenmachines/flash</screen>-->
+<!--              and install <emphasis role="strong">flashplugin64-nonfree</emphasis>,its performance -->
+<!--              is better and is more stable.-->
+<!--            </para>-->
 
-          </tip>
+<!--          </tip>-->
 
       <para>You can even install an additional mediaplayer, such as RealPlayer
       10, to watch online video streams in Realmedia formats. When you have
