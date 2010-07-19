@@ -290,19 +290,19 @@
     </para>
   </sect2>
   
-  <sect2>
-    <title>Flash Player 中汉字显示为方块，也不能使用 iBus 输入法？</title>
-    <para>对于汉字显示为方块的问题：
-    	<screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen>
-    </para>
-    <para>关于不能使用中文输入法的问题：</para>
-    <para>这个是 flash 的一个 bug，一直未得到解决。不过据说 10.1 中将得到解决。现在 10.1 已经发布了，如果有兴趣，可以进行测试。</para>
-  </sect2>
-  <sect2>
-    <title>我的右上角原来有 网络管理器/信封/喇叭 图标，突然找不到了，怎么找回来？</title>
-    	<para>在上边的面板上点击右键，选择 添加到面板</para>
-    	<para>找到 通知区域 和 指示器小程序，分别双击。</para>
-  </sect2>
+<!--  <sect2>-->
+<!--    <title>Flash Player 中汉字显示为方块，也不能使用 iBus 输入法？</title>-->
+<!--    <para>对于汉字显示为方块的问题：-->
+<!--    	<screen format="linespecific">sudo rm /etc/fonts/conf.d/49-sansserif.conf</screen>-->
+<!--    </para>-->
+<!--    <para>关于不能使用中文输入法的问题：</para>-->
+<!--    <para>这个是 flash 的一个 bug，一直未得到解决。不过据说 10.1 中将得到解决。现在 10.1 已经发布了，如果有兴趣，可以进行测试。</para>-->
+<!--  </sect2>-->
+<!--  <sect2>-->
+<!--    <title>我的右上角原来有 网络管理器/信封/喇叭 图标，突然找不到了，怎么找回来？</title>-->
+<!--    	<para>在上边的面板上点击右键，选择 添加到面板</para>-->
+<!--    	<para>找到 通知区域 和 指示器小程序，分别双击。</para>-->
+<!--  </sect2>-->
   </sect1>
   
   <sect1>
