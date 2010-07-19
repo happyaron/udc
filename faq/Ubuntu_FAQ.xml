@@ -59,10 +59,10 @@
         	<para>很多软件使用了可移植性比较差的程序库，造成了不可移植；</para>
       		</listitem>
       		<listitem>
-        	<para>出于商业上的考虑不想支持 Windows 64 平台；</para>
+        	<para>出于企业之间关系、对未来技术的判断以及商业策略等方面的考虑不想支持 Windows 64 平台；</para>
       		</listitem>
       		<listitem>
-        	<para>Windows 64 平台的用户很少，软件开发者没有动力。</para>
+        	<para>Windows 64 平台的用户很少，软件供应商没有动力。</para>
       		</listitem>
     	    </itemizedlist>
     </sect2>
@@ -81,7 +81,7 @@
     <para>例如，现在您需要一款叫做 ns2 的软件。您可以去 <ulink url="https://launchpad.net/ubuntu/+ppas">Personal Package Archives for Ubuntu</ulink> 上以:
     <screen format="linespecific">ns2</screen>
     为关键字进行搜索，可以看到 PPA 中所有与 ns2 项匹配的软件包。从两个中选择一个，比如:
-    <screen format="linespecific" >https://launchpad.net/~wzssyqa/+archive/wzssyqa</screen>
+    <ulink url="https://launchpad.net/~wzssyqa/+archive/wzssyqa">https://launchpad.net/~wzssyqa/+archive/wzssyqa</ulink>
     在这个页面中，可以查看，这个 PPA 的主人是否提供您所使用的版本 Ubuntu 所对应的 ns2，
     比如，正好您用的也是 lucid，那么就可以使用前文中“自定义桌面和应用程序 > 软件仓库”给出的方法添加这个 PPA，也可以直接使用命令：
     <screen format="linespecific">sudo apt-add-repository ppa:wzssyqa/wzssyqa</screen>
@@ -156,21 +156,17 @@
     <sect2>
     	<title>Ubuntu DVD 可以在什么地方下载到？</title>
     	<para>DVD 版的镜像可以从如下地址下载到：
-    	<screen format="linespecific"><ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink></screen>
+    	<ulink url="http://cdimage.ubuntu.com/releases/lucid/release/">http://cdimage.ubuntu.com/releases/lucid/release/</ulink>
     	</para>
     	<para>DVD 是不分 Desktop 和 Alternate 的，而且 DVD 同时具有 Desktop 和 Alternate 的功能。</para>
     </sect2>
     <sect2>
-    <title>根分区(/var 分区)没有空间了，可是，我装的软件并不多，这是怎么回事？</title>
+    <title>根分区(如果 /var 单独分区时是 /var 分区)没有空间了，可是，我装的软件并不多，这是怎么回事？</title>
     <para>是不是很长时间没有清理 deb 包缓存了？</para>
     <para>Apt/aptitude/新立德等，会把下载的 deb 包缓存在：
     	<screen format="linespecific">/var/cache/apt/archives</screen>
     	如果长期不清理，可能占用大量的空间。</para>
-	<para>可以使用如下两个命令清理 deb 包缓存：
-    	<screen format="linespecific">sudo apt-get clean #直接清空 /var/cache/apt/archives
-  或者
-sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的版本的缓存</screen>  
-    </para>
+    <para>打开新立得软件包管理器，选择“设置”->“首选项“。在弹出的“首选项“对话框中，选择“文件”标签页，点击其中的“删除缓存的软件包文件”按钮。</para>
    </sect2>
    <sect2>
     <title>我安装的是 Beta/RC 版，我可以升级到正式版吗？</title>
@@ -353,7 +349,7 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
     	</para>
     	<para>总的来说，外资银行对 Linux 的支持比较好，国内的银行浦东发展银行和中国建设银行也支持 Linux 系统。</para>
     	<para>关于网银的具体情况可以参考：
-    	<screen format="linespecific"><ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink></screen>
+    	<ulink url="http://www.openbanks.info/">http://www.openbanks.info/</ulink>
     	</para>
    </sect2>
 <!--   <sect2>-->
@@ -371,19 +367,13 @@ sudo apt-get autoclean #删除旧版本的包：只留下当前已经安装的�
    <sect2>
     <title>Rhythmbox/Totem 播放 MP3 文件乱码？</title>
     	<para>这是因为 Gstreamer 默认将 ID3 标签读取读取为 UTF8 编码。</para>
-    	<para>有三种方法可以解决这个问题：</para>
+    	<para>有两种方法可以较好地解决这个问题：</para>
     	<itemizedlist>
-      		<listitem>
-        	<para>使用命令<screen format="linespecific">mid3iconv -e GBK */*.mp3</screen> 将 ID3 标签转换为 UTF8编码
-        		但是，这么做，如果将 MP3 文件发送到比较老的 MP3 上，可能又会出现乱码。
-        	</para>
-      		</listitem>
-      		<listitem>
-        	<para>http://forum.ubuntu.org.cn/viewtopic.php?t=278753  下载 id2ape，使用命令：
-        	<screen format="linespecific">python id2ape -e GBK */*.mp3</screen>
-        	将 ID3v2 编码转换为 UTF8 后，写入 APEv2 标签。
-        	以上两种方法，需要安装 <ulink url="apt://python-mutagen">python-mutagen</ulink></para>
-      		</listitem>
+<!--      		<listitem>-->
+<!--        	<para>使用命令<screen format="linespecific">mid3iconv -e GBK */*.mp3</screen> 将 ID3 标签转换为 UTF8编码-->
+<!--        		但是，这么做，如果将 MP3 文件发送到比较老的 MP3 上，可能又会出现乱码。-->
+<!--        	</para>-->
+<!--      		</listitem>-->
       		<listitem>
         	<para>设置环境变量 GST_ID3V2_TAG_ENCODING 和 GST_ID3_TAG_ENCODING，将：
         	<screen format="linespecific">export GST_ID3_TAG_ENCODING=GBK:UTF-8:GB18030
@@ -392,7 +382,14 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
         	</para>
         	
       		</listitem>
+      		<listitem>
+        	<para>http://forum.ubuntu.org.cn/viewtopic.php?t=278753  下载 id2ape，使用命令：
+        	<screen format="linespecific">python id2ape -e GBK */*.mp3</screen>
+        	将 ID3v2 编码转换为 UTF8 后，写入 APEv2 标签。
+        	以上两种方法，需要安装 <ulink url="apt://python-mutagen">python-mutagen</ulink></para>
+      		</listitem>      		
     	</itemizedlist>
+    	<para>推荐上边的第一种，设置环境变量的方法。</para>
    </sect2>
 
   </sect1> 
@@ -563,14 +560,14 @@ sudo update-grub</screen>
    <sect2>
     <title>Ubuntu 中文论坛上，每页都会给显示一条命令，很酷，从哪里可以找到它们？</title>
     	<para>所有的这些命令都整理在了：
-    	<screen format="linespecific"><ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink></screen>
+    	<ulink url="http://wiki.ubuntu.org.cn/UbuntuSkills">http://wiki.ubuntu.org.cn/UbuntuSkills</ulink>
     	</para>
    </sect2>
    
    <sect2>
     <title>Ubuntu 中文论坛上，都有哪些求助方法？</title>
     	<para>请参考这个帖子：
-    	<screen format="linespecific"><ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink></screen>
+    	<ulink url="http://forum.ubuntu.org.cn/viewtopic.php?t=67441">http://forum.ubuntu.org.cn/viewtopic.php?t=67441</ulink>
     	</para>
    	<para>一个强烈的建议：浏览下论坛的各个置顶帖。</para>
    </sect2>
@@ -653,7 +650,7 @@ sudo shutdown -c '取消关机'</screen>
         	<para>不是太“智能”：不在用户装桌面系统的时候，连网页服务器都给装上</para>
       		</listitem>
       		<listitem>
-        	<para>软件仓库：几乎所有的软件都可以在软件仓库里下载得到</para>
+        	<para>软件仓库：几乎所有的软件都可以在软件仓库里下载得到，这样就可以保证软件都是可以信任的</para>
       		</listitem>
       		<listitem>
         	<para>开放的源代码：只要有足够多的眼睛，所有软件缺陷都无处可藏</para>
@@ -693,10 +690,10 @@ sudo shutdown -c '取消关机'</screen>
 	 <para>此部分改写自 WikiPedia 的 Debian 词条：http://zh.wikipedia.org/zh-cn/debian</para>
        </note>
     	<para>Debian 于 1993年8月16日 由一名美国普渡大学学生 Ian Murdock 首次发表。</para>
-    	<para>Debian 是由GPL和其他自由软件许可协议授权的自由软件组成的操作系统，
-    	由 Debian 计划(Debian Project)组织维护。Debian计划没有任何的营利组织支持，它的开发团队完全由来自世界各地的志愿者组成，
-    	官方开发者的总数就将近1000名，非官方的开发者为数更多。</para>
-    	<para>Debian 计划组织跟其他自由操作系统(如 Ubuntu、openSUSE、Fedora、Mandriva、OpenSolaris等)的开发组织不同。
+    	<para>Debian 是由 GPL 和其他自由软件许可协议授权的自由软件组成的操作系统，
+    	由 Debian 计划 (Debian Project) 组织维护。Debian 计划没有任何的营利组织支持，它的开发团队完全由来自世界各地的志愿者组成，
+    	官方开发者的总数就将近 1000 名，非官方的开发者为数更多。</para>
+    	<para>Debian 计划组织跟其他自由操作系统(如 Ubuntu、openSUSE、Fedora、Mandriva、OpenSolaris 等)的开发组织不同。
     	上述这些自由操作系统的开发组织通常背后由公司或机构支持。而 Debian 计划组织则完全是一个独立的、分散的开发者组织，纯粹由志愿者组成，
     	背后没有任何公司或机构支持。</para>
     	<para>Debian 以其坚守 Unix 和自由软件的精神，以及其给予用户的众多选择而闻名，其目标是成为 The Universal Operating System，即“通用操作系统”。现在 Debian 包括了超过 25,000 个软件包并支持 12 个计算机硬件构架。</para>
@@ -705,8 +702,8 @@ sudo shutdown -c '取消关机'</screen>
     	以及采用 NetBSD 内核的 Debian GNU/NetBSD 系统。甚至还有应用 Debian 的系统架构和工具，采用 OpenSolaris 内核构建而成的 Nexenta OS 系统。
     	在这些 Debian 系统中，以采用 Linux 内核的 Debian GNU/Linux 最为著名。众多的 Linux 发行版，例如 Ubuntu、Knoppix 和 Linspire 及 Xandros 等，
     	都建基于 Debian GNU/Linux。</para>
-    	<para>1996年，当时的 Debian 计划领导人 Bruce Perens 发表了 Debian 社会契约(Debian Social Contract)
-    	及 Debian 自由软件指引(Debian Free Software Guidelines)，定义了开发 Debian 的基本承诺。</para>
+    	<para>1996年，当时的 Debian 计划领导人 Bruce Perens 发表了 Debian 社会契约 (Debian Social Contract)
+    	及 Debian 自由软件指引 (Debian Free Software Guidelines)，定义了开发 Debian 的基本承诺。</para>
     	<para>Debian 有三个主要的分支：stable，testing，unstable。
     		此外还有一个存放实验性软件的分支 experimental，但 experimental 不是一个完整的分支。
     	</para>
