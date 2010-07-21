@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-17 09:40+0800\n"
+"POT-Creation-Date: 2010-07-21 22:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,157 +12,163 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:107(None)
-msgid "@@image: 'images/Lesson08_images_001.png'; md5=8bd537e57a4337f0e4e6a1c0554d0f0a"
+msgid "@@image: 'images/Lesson08_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:128(None)
-msgid "@@image: 'images/Lesson08_images_002.png'; md5=41a7a6b8f586715aa1ff4d04ae064a70"
+msgid "@@image: 'images/Lesson08_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:152(None)
-msgid "@@image: 'images/Lesson08_images_003.png'; md5=9be36dd5b4cf50a8de3a8ac95a41063e"
+msgid "@@image: 'images/Lesson08_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:172(None)
-msgid "@@image: 'images/Lesson08_images_004.png'; md5=6502cccf26aa4ea555e130157dd3111e"
+msgid "@@image: 'images/Lesson08_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:189(None)
-msgid "@@image: 'images/Lesson08_images_005.png'; md5=f1b544f2bea9d4dcd6f85368cb24f9fc"
+msgid "@@image: 'images/Lesson08_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:244(None)
-msgid "@@image: 'images/Lesson08_images_020.png'; md5=6beaf5f6a0772e4ddacacc1b8b3d3a27"
+msgid "@@image: 'images/Lesson08_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:278(None)
-msgid "@@image: 'images/Lesson08_images_021.png'; md5=cbb9d0175845e3d7ed99e62ff4faf404"
+msgid "@@image: 'images/Lesson08_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:304(None)
-msgid "@@image: 'images/Lesson08_images_022.png'; md5=2d1dc5161c41eac042b3a0c60f2cab55"
+msgid "@@image: 'images/Lesson08_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:315(None)
-msgid "@@image: 'images/Lesson08_images_023.png'; md5=55ab7381c09479463c337c64c276ae3e"
+msgid "@@image: 'images/Lesson08_images_023.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:330(None)
-msgid "@@image: 'images/Lesson08_images_024.png'; md5=9e99cb00b9937b0eb5de3d7166b95bf3"
+msgid "@@image: 'images/Lesson08_images_024.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:344(None)
-msgid "@@image: 'images/Lesson08_images_025.png'; md5=33dad0e43ae2ab8d49c209c44e4d6d97"
+msgid "@@image: 'images/Lesson08_images_025.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:380(None)
-msgid "@@image: 'images/Lesson08_images_026.png'; md5=4bb8006be14b4d13994666ab632ba293"
+msgid "@@image: 'images/Lesson08_images_026.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:398(None)
-msgid "@@image: 'images/Lesson08_images_027.png'; md5=9d342625fd6728620a8a9ed0ce4f3fcc"
+msgid "@@image: 'images/Lesson08_images_027.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:433(None)
-msgid "@@image: 'images/Lesson08_images_028.png'; md5=ff1c6af50a14b74bd4c00590bb33b61e"
+msgid "@@image: 'images/Lesson08_images_028.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:443(None)
-msgid "@@image: 'images/Lesson08_images_029.png'; md5=0bf44424bca8dfaf4af9b38e3665c08c"
+msgid "@@image: 'images/Lesson08_images_029.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:484(None)
-msgid "@@image: 'images/Lesson08_images_030.png'; md5=9b3c5db9927fb8475acafb0883a56a0f"
+msgid "@@image: 'images/Lesson08_images_030.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:494(None)
-msgid "@@image: 'images/Lesson08_images_031.png'; md5=e6b6cee558ae68cd07a5ec45df6e1d7b"
+msgid "@@image: 'images/Lesson08_images_031.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:518(None)
-msgid "@@image: 'images/Lesson08_images_014.png'; md5=0dcdeff4b127e3efdf460fce0a402294"
+msgid "@@image: 'images/Lesson08_images_014.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:538(None)
-msgid "@@image: 'images/Lesson08_images_015.png'; md5=615704c65a56ff537caa44fcf5cf4a6d"
+msgid "@@image: 'images/Lesson08_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:634(None)
-msgid "@@image: 'images/Lesson08_images_017.png'; md5=7744867b4b891c4b19175df337057ff9"
+msgid "@@image: 'images/Lesson08_images_017.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:658(None)
-msgid "@@image: 'images/Lesson08_images_018.png'; md5=930738d64cb364dd8779ef5a74094f42"
+msgid "@@image: 'images/Lesson08_images_018.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:672(None)
-msgid "@@image: 'images/Lesson08_images_019.png'; md5=d60f6aa421c08f8492a5971af90f36cb"
+msgid "@@image: 'images/Lesson08_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:824(None)
-msgid "@@image: 'images/Lesson08_images_038.png'; md5=38443e3d3e5ab66b4d2256f0532fc7d0"
+#: chapter7/xinclude.xml:744(None)
+msgid "@@image: 'images/Lesson08_images_037.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:845(None)
-msgid "@@image: 'images/Lesson08_images_039.png'; md5=23bdbd76a5b061a8de2ea79045834c87"
+#: chapter7/xinclude.xml:834(None)
+msgid "@@image: 'images/Lesson08_images_038.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:920(None)
-msgid "@@image: 'images/Lesson08_images_040.png'; md5=ee7b43ba8b02c8d6b9268c2d1b48a285"
+#: chapter7/xinclude.xml:855(None)
+msgid "@@image: 'images/Lesson08_images_039.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:935(None)
-msgid "@@image: 'images/Lesson08_images_041.png'; md5=91e8f28d9ba382897f31bc116829ca61"
+#: chapter7/xinclude.xml:930(None)
+msgid "@@image: 'images/Lesson08_images_040.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:945(None)
+msgid "@@image: 'images/Lesson08_images_041.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #: chapter7/xinclude.xml:4(title)
@@ -353,7 +359,7 @@ msgstr ""
 msgid "Importing Photos"
 msgstr ""
 
-#: chapter7/xinclude.xml:284(title) chapter7/xinclude.xml:350(title) chapter7/xinclude.xml:548(title) chapter7/xinclude.xml:790(title) chapter7/xinclude.xml:851(title) chapter7/xinclude.xml:941(title)
+#: chapter7/xinclude.xml:284(title) chapter7/xinclude.xml:350(title) chapter7/xinclude.xml:548(title) chapter7/xinclude.xml:800(title) chapter7/xinclude.xml:861(title) chapter7/xinclude.xml:951(title)
 msgid "Note:"
 msgstr ""
 
@@ -642,270 +648,274 @@ msgid "To utilise the full potential of this application requires some hands-on 
 msgstr ""
 
 #: chapter7/xinclude.xml:740(title)
+msgid "Inkscape main UI"
+msgstr ""
+
+#: chapter7/xinclude.xml:750(title)
 msgid "Page:"
 msgstr ""
 
-#: chapter7/xinclude.xml:742(para)
+#: chapter7/xinclude.xml:752(para)
 msgid "This area enables you to specify various options for the output. For example, you can specify the Page dimensions for printing on A4 size paper. The Page adjusts accordingly and you can adjust the proportion the drawing relative to the Page."
 msgstr ""
 
-#: chapter7/xinclude.xml:749(title)
+#: chapter7/xinclude.xml:759(title)
 msgid "Menu Bar:"
 msgstr ""
 
-#: chapter7/xinclude.xml:751(para)
+#: chapter7/xinclude.xml:761(para)
 msgid "This toolbar provides menus such as file save and zoom. You can perform all operations in Inkscape by using the options listed on these menus."
 msgstr ""
 
-#: chapter7/xinclude.xml:757(title)
+#: chapter7/xinclude.xml:767(title)
 msgid "Command Bar:"
 msgstr ""
 
-#: chapter7/xinclude.xml:759(para)
+#: chapter7/xinclude.xml:769(para)
 msgid "This toolbar provides shortcuts to major operations on the menu bar."
 msgstr ""
 
-#: chapter7/xinclude.xml:764(title)
+#: chapter7/xinclude.xml:774(title)
 msgid "Drawing Toolbar:"
 msgstr ""
 
-#: chapter7/xinclude.xml:766(para)
+#: chapter7/xinclude.xml:776(para)
 msgid "This toolbar provides options to perform drawing operations. You can create basic shapes such as a rectangle, a square or an ellipse."
 msgstr ""
 
-#: chapter7/xinclude.xml:772(title)
+#: chapter7/xinclude.xml:782(title)
 msgid "Tools Control Bar:"
 msgstr ""
 
-#: chapter7/xinclude.xml:774(para)
+#: chapter7/xinclude.xml:784(para)
 msgid "This toolbar provides options specific to a tool on the Drawing toolbar. For example, if you select the polygon tool from the Drawing toolbar, the Tools Control Bar displays options to set the corners in the polygon."
 msgstr ""
 
-#: chapter7/xinclude.xml:781(title)
+#: chapter7/xinclude.xml:791(title)
 msgid "Status Bar:"
 msgstr ""
 
-#: chapter7/xinclude.xml:783(para)
+#: chapter7/xinclude.xml:793(para)
 msgid "This toolbar indicates the status of objects such as dimensions and layers. For example, when you roll the mouse over the window, the Status Bar indicates the position of the cursor relative to the window."
 msgstr ""
 
-#: chapter7/xinclude.xml:792(para)
+#: chapter7/xinclude.xml:802(para)
 msgid "Vector drawing software uses standard notation to refer to shapes such as simple lines, rectangles and complicated shapes as objects."
 msgstr ""
 
-#: chapter7/xinclude.xml:798(title)
+#: chapter7/xinclude.xml:808(title)
 msgid "Creating and Saving Objects"
 msgstr ""
 
-#: chapter7/xinclude.xml:800(para)
+#: chapter7/xinclude.xml:810(para)
 msgid "Creating a new object in Inkscape requires extensive use of the Drawing toolbar. However, the options in this toolbar help you to create basic shapes. To create complex objects, you need to further edit, combine and manipulate these shapes."
 msgstr ""
 
-#: chapter7/xinclude.xml:807(title)
+#: chapter7/xinclude.xml:817(title)
 msgid "To create an object by using the Drawing toolbar:"
 msgstr ""
 
-#: chapter7/xinclude.xml:810(para)
+#: chapter7/xinclude.xml:820(para)
 msgid "Click the object button associated with the shape you want to draw. Point anywhere in the page where you want to start drawing the object."
 msgstr ""
 
-#: chapter7/xinclude.xml:816(para)
+#: chapter7/xinclude.xml:826(para)
 msgid "Drag the cursor to the desired size of the object. The object is displayed in the page."
 msgstr ""
 
-#: chapter7/xinclude.xml:820(title)
+#: chapter7/xinclude.xml:830(title)
 msgid "Drawing an Object"
 msgstr ""
 
-#: chapter7/xinclude.xml:829(para)
+#: chapter7/xinclude.xml:839(para)
 msgid "The Tools Control Bar displays options to create the object. For example, if you are creating a rectangle, the toolbar provides the option to specify the height and the width of the rectangle."
 msgstr ""
 
-#: chapter7/xinclude.xml:836(para)
+#: chapter7/xinclude.xml:846(para)
 msgid "After creating the shape, click <emphasis role=\"strong\">Save</emphasis> on the Command Bar. The <emphasis role=\"strong\">Select file to Save to</emphasis> dialogue box is displayed. Type the name of the file in the <emphasis role=\"strong\">Name</emphasis> text box, specify the location where you want to save the file and click <emphasis role=\"strong\">Save</emphasis>."
 msgstr ""
 
-#: chapter7/xinclude.xml:841(title)
+#: chapter7/xinclude.xml:851(title)
 msgid "Saving an Object"
 msgstr ""
 
-#: chapter7/xinclude.xml:853(para)
+#: chapter7/xinclude.xml:863(para)
 msgid "Inkscape saves images as vector graphics. You can resize a vector image without affecting the resolution of the image."
 msgstr ""
 
-#: chapter7/xinclude.xml:862(title)
+#: chapter7/xinclude.xml:872(title)
 msgid "Using a Scanner"
 msgstr ""
 
-#: chapter7/xinclude.xml:864(para)
+#: chapter7/xinclude.xml:874(para)
 msgid "Scanning an object in Ubuntu is simple. If you have a USB scanner, plug the scanner directly into your computer. Most plug-and-play devices are compatible with Ubuntu, if however, the computer fails to detect the scanner, you will need to check its compatibility with Ubuntu."
 msgstr ""
 
-#: chapter7/xinclude.xml:870(title)
+#: chapter7/xinclude.xml:880(title)
 msgid "Checking Scanner Compatibility"
 msgstr ""
 
-#: chapter7/xinclude.xml:875(para)
+#: chapter7/xinclude.xml:885(para)
 msgid "Visit this Web site for the list of scanners and drivers compatible with Ubuntu: <ulink url=\"https://wiki.ubuntu.com/HardwareSupportComponentsScanners\">https://wiki.ubuntu.com/HardwareSupportComponentsScanners</ulink>."
 msgstr ""
 
-#: chapter7/xinclude.xml:880(para)
+#: chapter7/xinclude.xml:890(para)
 msgid "Check the status of your scanner at the following Web site: <ulink url=\"http://www.sane-project.org/sane-backends.html\">http://www.sane-project.org/sane-backends.html</ulink>. This site lists the drivers distributed with sane-backends-1.0.18 and supported hardware and software."
 msgstr ""
 
-#: chapter7/xinclude.xml:872(para)
+#: chapter7/xinclude.xml:882(para)
 msgid "You can check the compatibility of your scanner with Ubuntu in one of two ways: <placeholder-1/>"
 msgstr ""
 
-#: chapter7/xinclude.xml:889(title)
+#: chapter7/xinclude.xml:899(title)
 msgid "Scanning an Image"
 msgstr ""
 
-#: chapter7/xinclude.xml:891(para)
+#: chapter7/xinclude.xml:901(para)
 msgid "You can scan an image by using the scanner interface or the scanning application XSane, which is available in Ubuntu."
 msgstr ""
 
-#: chapter7/xinclude.xml:895(title)
+#: chapter7/xinclude.xml:905(title)
 msgid "To scan an image by using XSane:"
 msgstr ""
 
-#: chapter7/xinclude.xml:898(para)
+#: chapter7/xinclude.xml:908(para)
 msgid "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to <emphasis role=\"strong\">Graphics</emphasis> and click <emphasis role=\"strong\">XSane Image Scanner</emphasis>. XSane automatically searches for a scanner attached to the computer. After your computer detects the scanner, the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box is displayed."
 msgstr ""
 
-#: chapter7/xinclude.xml:907(para)
+#: chapter7/xinclude.xml:917(para)
 msgid "The <emphasis role=\"strong\">XSane Options</emphasis> dialogue box provides options to modify the default settings of the output. You can specify the number of copies to be scanned, the name of the output file, the output file type, and colour and contrast options. After you specify the properties of the output file, place the object on the scanner and click Scan to begin scanning the object."
 msgstr ""
 
-#: chapter7/xinclude.xml:916(title)
+#: chapter7/xinclude.xml:926(title)
 msgid "Using XSane"
 msgstr ""
 
-#: chapter7/xinclude.xml:927(para)
+#: chapter7/xinclude.xml:937(para)
 msgid "After the object is scanned, a viewer window displays the output."
 msgstr ""
 
-#: chapter7/xinclude.xml:931(title)
+#: chapter7/xinclude.xml:941(title)
 msgid "Viewing Scanned Output"
 msgstr ""
 
-#: chapter7/xinclude.xml:943(para)
+#: chapter7/xinclude.xml:953(para)
 msgid "Before beginning the scanning operation, check the compatibility of your scanner with Ubuntu. Sometimes, Ubuntu detects the scanner as hardware but fails to scan if the required driver is missing."
 msgstr ""
 
-#: chapter7/xinclude.xml:951(para)
+#: chapter7/xinclude.xml:961(para)
 msgid "Continue to scan other images or close the <emphasis role=\"strong\">XSane Options</emphasis> dialogue box to exit the application."
 msgstr ""
 
-#: chapter7/xinclude.xml:959(title)
+#: chapter7/xinclude.xml:969(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter7/xinclude.xml:963(para)
+#: chapter7/xinclude.xml:973(para)
 msgid "View and organise your photo collection by using the default Ubuntu graphic applications:"
 msgstr ""
 
-#: chapter7/xinclude.xml:968(para)
+#: chapter7/xinclude.xml:978(para)
 msgid "The <emphasis role=\"strong\">F-Spot Photo Manager</emphasis> enables you to import pictures, organise your photos using tags, create a photo CD, display photos as a slide show and create albums of your photo collection for the Web."
 msgstr ""
 
-#: chapter7/xinclude.xml:977(para)
+#: chapter7/xinclude.xml:987(para)
 msgid "Use GIMP for advanced image manipulation and creation."
 msgstr ""
 
-#: chapter7/xinclude.xml:981(para)
+#: chapter7/xinclude.xml:991(para)
 msgid "Create graphics in the SVG format by using the Inkscape vector graphics editor."
 msgstr ""
 
-#: chapter7/xinclude.xml:986(para)
+#: chapter7/xinclude.xml:996(para)
 msgid "Scan your images and save them in various formats by using XSane Image Scanner."
 msgstr ""
 
-#: chapter7/xinclude.xml:961(para)
+#: chapter7/xinclude.xml:971(para)
 msgid "In this lesson, you learned how to: <placeholder-1/>"
 msgstr ""
 
-#: chapter7/xinclude.xml:993(title)
+#: chapter7/xinclude.xml:1003(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter7/xinclude.xml:998(para)
+#: chapter7/xinclude.xml:1008(para)
 msgid "Which of the default graphics applications provides the option to display only a category of images from a randomly stored pool of images?."
 msgstr ""
 
-#: chapter7/xinclude.xml:1002(para)
+#: chapter7/xinclude.xml:1012(para)
 msgid "a) Inkscape"
 msgstr ""
 
-#: chapter7/xinclude.xml:1004(para) chapter7/xinclude.xml:1012(para)
+#: chapter7/xinclude.xml:1014(para) chapter7/xinclude.xml:1022(para)
 msgid "b) F-Spot"
 msgstr ""
 
-#: chapter7/xinclude.xml:1006(para)
+#: chapter7/xinclude.xml:1016(para)
 msgid "c) Xsane"
 msgstr ""
 
-#: chapter7/xinclude.xml:1008(para)
+#: chapter7/xinclude.xml:1018(para)
 msgid "d) GIMP"
 msgstr ""
 
-#: chapter7/xinclude.xml:1018(para)
+#: chapter7/xinclude.xml:1028(para)
 msgid "Which default graphics application in Ubuntu facilitates photo sharing over the Internet?"
 msgstr ""
 
-#: chapter7/xinclude.xml:1023(para)
+#: chapter7/xinclude.xml:1033(para)
 msgid "The F-Spot Photo Manager"
 msgstr ""
 
-#: chapter7/xinclude.xml:1029(para)
+#: chapter7/xinclude.xml:1039(para)
 msgid "Is there any additional software required to import images from a digital camera?"
 msgstr ""
 
-#: chapter7/xinclude.xml:1034(para)
+#: chapter7/xinclude.xml:1044(para)
 msgid "No, Ubuntu automatically identifies plug-and-play devices. F-Spot Photo Manager can identify the connected device and enable you to import images directly from the application interface."
 msgstr ""
 
-#: chapter7/xinclude.xml:1043(title)
+#: chapter7/xinclude.xml:1053(title)
 msgid "Lab Exercise"
 msgstr ""
 
-#: chapter7/xinclude.xml:1046(title)
+#: chapter7/xinclude.xml:1056(title)
 msgid "Exercise 1: Creating a Web Album by using F-Spot"
 msgstr ""
 
-#: chapter7/xinclude.xml:1048(para)
+#: chapter7/xinclude.xml:1058(para)
 msgid "You have just returned from a vacation with your friends. You decide to write about this experience on your blog and post some photographs of the trip. However, uploading images one by one to the Web site involves a lot of effort and time. You want to find a more convenient way to do this."
 msgstr ""
 
-#: chapter7/xinclude.xml:1056(title)
+#: chapter7/xinclude.xml:1066(title)
 msgid "To perform the required task:"
 msgstr ""
 
-#: chapter7/xinclude.xml:1059(para)
+#: chapter7/xinclude.xml:1069(para)
 msgid "Launch <emphasis role=\"strong\">F-Spot Photo Manager</emphasis>. The default window is displayed."
 msgstr ""
 
-#: chapter7/xinclude.xml:1064(para)
+#: chapter7/xinclude.xml:1074(para)
 msgid "Click <emphasis role=\"strong\">Import</emphasis> on the navigation bar. Navigate to the folder containing the photos <emphasis role=\"strong\">Open</emphasis>. The workspace displays all the images available in the folder."
 msgstr ""
 
-#: chapter7/xinclude.xml:1070(para)
+#: chapter7/xinclude.xml:1080(para)
 msgid "Select the images you want to include in the Web album."
 msgstr ""
 
-#: chapter7/xinclude.xml:1074(para)
+#: chapter7/xinclude.xml:1084(para)
 msgid "Click <emphasis role=\"strong\">Copy</emphasis> to import the selected photos. F-Spot displays the photos in the preview window."
 msgstr ""
 
-#: chapter7/xinclude.xml:1079(para)
+#: chapter7/xinclude.xml:1089(para)
 msgid "In the preview window,select the photos you want include or use <emphasis role=\"strong\">Select All</emphasis> from the <emphasis role=\"strong\">Edit</emphasis> menu."
 msgstr ""
 
-#: chapter7/xinclude.xml:1083(para)
+#: chapter7/xinclude.xml:1093(para)
 msgid "In the <emphasis role=\"strong\">Photo menu</emphasis>, select the <emphasis role=\"strong\">Export to</emphasis> and then <emphasis role=\"strong\">Web Gallery</emphasis>."
 msgstr ""
 
-#: chapter7/xinclude.xml:1086(para)
+#: chapter7/xinclude.xml:1096(para)
 msgid "You will need to enter the name of the Gallery, as well as the URL and log-in information for the site. F-Spot will then upload the selected items to the website."
 msgstr ""
 

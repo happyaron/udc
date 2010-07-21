@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-17 09:40+0800\n"
+"POT-Creation-Date: 2010-07-21 22:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,205 +12,133 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:56(None)
-msgid "@@image: 'images/Lesson10_images_001.png'; md5=e915bba976451f7b3e2468fe1bc82989"
+msgid "@@image: 'images/Lesson10_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:82(None)
-msgid "@@image: 'images/Lesson10_images_002.png'; md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+msgid "@@image: 'images/Lesson10_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:131(None)
-msgid "@@image: 'images/Lesson10_images_003.png'; md5=4516deca4721171cb90f84e24c3138b5"
+msgid "@@image: 'images/Lesson10_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:192(None)
-msgid "@@image: 'images/Lesson10_images_004.png'; md5=f581330fbdbac89582ad56d0fe5cc516"
+msgid "@@image: 'images/Lesson10_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:217(None)
-msgid "@@image: 'images/Lesson10_images_005.png'; md5=8fc250755a7fc2589e3fc8c02cc83520"
+msgid "@@image: 'images/Lesson10_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:238(None)
-msgid "@@image: 'images/Lesson10_images_006.png'; md5=8f999cc18ef54c08352392a0d6f1dac2"
+msgid "@@image: 'images/Lesson10_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:301(None)
-msgid "@@image: 'images/Lesson10_images_007.png'; md5=36e2f61c6c284797e1033a8581cba4e9"
+msgid "@@image: 'images/Lesson10_images_007.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:316(None)
-msgid "@@image: 'images/Lesson10_images_008.png'; md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+msgid "@@image: 'images/Lesson10_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:334(None)
-msgid "@@image: 'images/Lesson10_images_009.png'; md5=7860881cb910500753e6618870bf9b28"
+msgid "@@image: 'images/Lesson10_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:349(None)
-msgid "@@image: 'images/Lesson10_images_010.png'; md5=a56d81763de07e8c82c576e0e61290f9"
+msgid "@@image: 'images/Lesson10_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:363(None)
-msgid "@@image: 'images/Lesson10_images_011.png'; md5=c1c56334f8afcf929c62dce7c246c121"
+msgid "@@image: 'images/Lesson10_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:412(None)
-msgid "@@image: 'images/Lesson10_images_012.png'; md5=75bda44452a7a610f3a9199f9fefa751"
+msgid "@@image: 'images/Lesson10_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:436(None)
-msgid "@@image: 'images/Lesson10_images_013.png'; md5=19c9d8c3013d2ffc0c494b10839aad4b"
+msgid "@@image: 'images/Lesson10_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:495(None)
-msgid "@@image: 'images/Lesson10_images_015.png'; md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+msgid "@@image: 'images/Lesson10_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:510(None)
-msgid "@@image: 'images/Lesson10_images_016.png'; md5=74de2a36f128e97dd46c7e9046b0d4da"
+msgid "@@image: 'images/Lesson10_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:526(None)
-msgid "@@image: 'images/Lesson10_images_018.png'; md5=0521700b06b668ae31897f31e9c086a7"
+msgid "@@image: 'images/Lesson10_images_018.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:552(None)
-msgid "@@image: 'images/Lesson10_images_019.png'; md5=3e8207cbfcfcc242774714ae195ff360"
+msgid "@@image: 'images/Lesson10_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:566(None)
-msgid "@@image: 'images/Lesson10_images_020.png'; md5=0df8bfdec16f42137670df1b19afcb15"
+msgid "@@image: 'images/Lesson10_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:596(None)
-msgid "@@image: 'images/Lesson10_images_021.png'; md5=4fbe18b5540818faad59ff696c4393eb"
+msgid "@@image: 'images/Lesson10_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:637(None)
-msgid "@@image: 'images/Lesson10_images_022.png'; md5=b787be41e41204c97240a11ac501ad2b"
+msgid "@@image: 'images/Lesson10_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:656(None)
-msgid "@@image: 'images/Lesson10_images_023.png'; md5=ad23761748ed0732f480b8eeaa4159e0"
+#: chapter9/xinclude.xml:707(None)
+msgid "@@image: 'images/Lesson10_images_032.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:689(None)
-msgid "@@image: 'images/Lesson10_images_024.png'; md5=4d974ef3cd00828995a855e7ff7c0f7c"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:706(None)
-msgid "@@image: 'images/Lesson10_images_025.png'; md5=c574ffd1b99578759473fff2b4d4d458"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:721(None)
-msgid "@@image: 'images/Lesson10_images_026.png'; md5=d565d8f3620b96ddc2d7de4b27167a86"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:736(None)
-msgid "@@image: 'images/Lesson10_images_027.png'; md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:770(None)
-msgid "@@image: 'images/Lesson10_images_028.png'; md5=c43fccd218eaa732d5c9a7948c46c3ea"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:785(None)
-msgid "@@image: 'images/Lesson10_images_029.png'; md5=555c1ab6556d75cbb01aeea4889a8dde"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:802(None)
-msgid "@@image: 'images/Lesson10_images_030.png'; md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:837(None)
-msgid "@@image: 'images/Lesson10_images_031.png'; md5=6e57129bb90caec2ee5c2f73a2fcd63a"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:873(None)
-msgid "@@image: 'images/Lesson10_images_032.png'; md5=9e46bc184b317ea17c31017b911e1899"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:908(None)
-msgid "@@image: 'images/Lesson10_images_033.png'; md5=fad9bd35e30210d7c255b6c039f9e19e"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:928(None)
-msgid "@@image: 'images/Lesson10_images_034.png'; md5=b05eca7f15e29eb93348ed9d779eee4f"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:952(None)
-msgid "@@image: 'images/Lesson10_images_035.png'; md5=0d34db061c8c7fabbe5b94a2319ef27f"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter9/xinclude.xml:973(None)
-msgid "@@image: 'images/Lesson10_images_036.png'; md5=fd4be2c49135a50cf636fd32d1a2f059"
+#: chapter9/xinclude.xml:741(None)
+msgid "@@image: 'images/Lesson10_images_033.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #: chapter9/xinclude.xml:4(title)
@@ -369,7 +297,7 @@ msgstr ""
 msgid "The Screencasts Page"
 msgstr ""
 
-#: chapter9/xinclude.xml:244(title) chapter9/xinclude.xml:418(title) chapter9/xinclude.xml:472(title) chapter9/xinclude.xml:572(title) chapter9/xinclude.xml:611(title) chapter9/xinclude.xml:814(title) chapter9/xinclude.xml:843(title) chapter9/xinclude.xml:861(title) chapter9/xinclude.xml:958(title) chapter9/xinclude.xml:979(title)
+#: chapter9/xinclude.xml:244(title) chapter9/xinclude.xml:418(title) chapter9/xinclude.xml:472(title) chapter9/xinclude.xml:572(title) chapter9/xinclude.xml:611(title) chapter9/xinclude.xml:695(title)
 msgid "Note:"
 msgstr ""
 
@@ -385,7 +313,7 @@ msgstr ""
 msgid "The vast and ever growing Ubuntu community also offers a range of free support options for your Ubuntu desktop. Apart from the community documentation, the Ubuntu community provides support through:"
 msgstr ""
 
-#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:1093(para)
+#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:854(para)
 msgid "Mailing lists"
 msgstr ""
 
@@ -621,327 +549,199 @@ msgstr ""
 msgid "Information stored on Launchpad can be retrieved anonymously. To submit information on Launchpad, you need to first create an account on Launchpad. You can create a Launchpad account by clicking the <emphasis role=\"strong\">Register</emphasis> link at the top-right corner of the home page and filling the required details under the <emphasis role=\"strong\">Not registered yet?</emphasis> section. Click <emphasis role=\"strong\">Register</emphasis> to complete the registration process. You may also use an OpenID login to access Launchpad. For more information on on OpenID see the project website at: <ulink url=\"https://openid.net\">http://openid.net</ulink>."
 msgstr ""
 
-#: chapter9/xinclude.xml:652(title)
-msgid "Registration Page"
+#: chapter9/xinclude.xml:651(para)
+msgid "Launchpad provides the following different kinds of services:"
 msgstr ""
 
-#: chapter9/xinclude.xml:661(para)
-msgid "After you register, you can log on again and return to the home page to search the required information. You can do this by either asking a fresh question or searching the relevant information within the existing answers on the Launchpad site."
+#: chapter9/xinclude.xml:654(para)
+msgid "OpenID service, as discribed above."
 msgstr ""
 
-#: chapter9/xinclude.xml:667(title)
-msgid "Launchpad Technical Answers"
+#: chapter9/xinclude.xml:658(para)
+msgid "<ulink url=\"https://code.launchpad.net/\">Bazzar</ulink> (bzr) code hosting service."
 msgstr ""
 
-#: chapter9/xinclude.xml:669(para)
-msgid "To search for an answer in the existing questions, click the <emphasis role=\"strong\">Answers</emphasis> icon on the right. This displays the <emphasis role=\"strong\">Questions and answers</emphasis> page. To obtain information about a specific project, such as Ubuntu, you can select the project name from the <emphasis role=\"strong\">Most active projects</emphasis> list. This displays the <emphasis role=\"strong\">Question for Ubuntu</emphasis> page on Launchpad."
+#: chapter9/xinclude.xml:662(para)
+msgid "<ulink url=\"https://bugs.launchpad.net/\">Malone</ulink> bug tracking service."
 msgstr ""
 
-#: chapter9/xinclude.xml:677(title)
-msgid "Nice to Know"
+#: chapter9/xinclude.xml:666(para)
+msgid "<ulink url=\"https://blueprints.launchpad.net/\">Bluprints</ulink> registration and hosting service."
 msgstr ""
 
-#: chapter9/xinclude.xml:679(para)
-msgid "Many applications on Ubuntu provide the <emphasis role=\"strong\">Get Help Online</emphasis> menu entry in their Help menu. This can be used as a shortcut to visit the Technical Answers section in Launchpad."
+#: chapter9/xinclude.xml:670(para)
+msgid "<ulink url=\"https://bugs.launchpad.net/\">Rosetta</ulink> translation hosting service."
 msgstr ""
 
-#: chapter9/xinclude.xml:685(title)
-msgid "Questions and Answers Page"
+#: chapter9/xinclude.xml:674(para)
+msgid "<ulink url=\"https://answers.launchpad.net/\">Questions and Answers</ulink> tracking service."
 msgstr ""
 
-#: chapter9/xinclude.xml:694(para)
-msgid "On this page, all answers specific to the Ubuntu project are listed under various categories. You can type your question in the <emphasis role=\"strong\">Search</emphasis> field to search for an answer in the existing questions. Alternatively, you can click the <emphasis role=\"strong\">Ask a question</emphasis> button to display the <emphasis role=\"strong\">Ask a question</emphasis> page."
+#: chapter9/xinclude.xml:678(para)
+msgid "<ulink url=\"https://launchpad.net/soyuz\">Soyuz</ulink> Personal Package Archive (PPA) service."
 msgstr ""
 
-#: chapter9/xinclude.xml:702(title)
-msgid "Questions for Ubuntu Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:711(para)
-msgid "You can ask a question by selecting your preferred language and then typing the summary of your question in the <emphasis role=\"strong\">Summary</emphasis> field. Clicking <emphasis role=\"strong\">Continue</emphasis> displays a list of questions that may be similar to what you asked."
-msgstr ""
-
-#: chapter9/xinclude.xml:717(title)
-msgid "Ask a Question Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:726(para)
-msgid "If you still do not find the required answer, go ahead and type the description of the problem in the <emphasis role=\"strong\">Description</emphasis> field. You can then click <emphasis role=\"strong\">Add</emphasis> to add the question to the main Launchpad database."
-msgstr ""
-
-#: chapter9/xinclude.xml:732(title)
-msgid "Question Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:741(para)
-msgid "When your question is answered, you will receive an e-mail notification, stating that your question has been replied to."
-msgstr ""
-
-#: chapter9/xinclude.xml:746(title)
-msgid "Launchpad Bug Tracker: Malone"
-msgstr ""
-
-#: chapter9/xinclude.xml:748(para)
-msgid "Malone is a Web-based, collaborative, bug-tracking tool available with Launchpad. It provides you with a location to report any bugs that you find in Ubuntu and its various applications. It also enables you to track the bugs during their life, right until they have been resolved."
-msgstr ""
-
-#: chapter9/xinclude.xml:754(para)
-msgid "If you find any problems in Ubuntu and its related applications, you can report it on Launchpad by clicking the <emphasis role=\"strong\">Bugs</emphasis> icon on home page. This displays the <emphasis role=\"strong\">Bug tracking</emphasis> page of the Launchpad Web site."
-msgstr ""
-
-#: chapter9/xinclude.xml:760(para)
-msgid "The <emphasis role=\"strong\">Bug tracking</emphasis> page displays all the recently reported and recently fixed bugs. Before reporting a new bug on Launchpad, you must run a search in the existing bug reports to ensure that this bug has not been reported already."
-msgstr ""
-
-#: chapter9/xinclude.xml:766(title)
-msgid "The Bug Tracking Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:775(para)
-msgid "You can report a fresh bug on the <emphasis role=\"strong\">Report a bug</emphasis> page, which can be displayed by clicking the <emphasis role=\"strong\">Report a bug</emphasis> button on the <emphasis role=\"strong\">Bug tracking</emphasis> page."
-msgstr ""
-
-#: chapter9/xinclude.xml:778(para)
-msgid "Type a small description of the bug in the <emphasis role=\"strong\">Summary</emphasis> field, and click <emphasis role=\"strong\">Continue</emphasis> to report the bug."
-msgstr ""
-
-#: chapter9/xinclude.xml:781(title)
-msgid "Report a Bug Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:790(para)
-msgid "When you click the <emphasis role=\"strong\">Continue</emphasis> button, the bug tracker displays a list containing similar bugs reported earlier on Launchpad. If you do not find your bug listed here, you can still report the bug as a fresh bug by clicking the <emphasis role=\"strong\">No, I'd like to report a new bug</emphasis> radio button at the bottom of this page. This displays a new section at the bottom of the page."
-msgstr ""
-
-#: chapter9/xinclude.xml:798(title)
-msgid "Look for the Reported Bug"
-msgstr ""
-
-#: chapter9/xinclude.xml:807(para)
-msgid "You are then required to provide further detailed information about the bug, such as the steps to reproduce the bug and version information. After providing the required details, you can finally submit the bug report by clicking the <emphasis role=\"strong\">Submit Bug Report</emphasis> button."
-msgstr ""
-
-#: chapter9/xinclude.xml:816(para)
-msgid "Visit Malone at <ulink url=\"https://launchpad.net/malone\">https://launchpad.net/malone</ulink>."
-msgstr ""
-
-#: chapter9/xinclude.xml:821(title)
-msgid "Shipit"
-msgstr ""
-
-#: chapter9/xinclude.xml:823(para)
-msgid "Shipit is an application you can use to request the delivery of Ubuntu CDs. Although Ubuntu can be freely downloaded from the Internet, you can also request a free-of-charge mail delivery of the Ubuntu CD. This is especially useful if you have slow Internet connection, as downloading the OS can take a while. Delivery may take up to 10 weeks."
-msgstr ""
-
-#: chapter9/xinclude.xml:830(para)
-msgid "The following screenshot displays the Shipit site:"
-msgstr ""
-
-#: chapter9/xinclude.xml:833(title)
-msgid "The Shipit Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:845(para)
-msgid "Visit Shipit at <ulink url=\"http://Shipit.ubuntu.com\">http://Shipit.ubuntu.com</ulink>."
-msgstr ""
-
-#: chapter9/xinclude.xml:851(title) chapter9/xinclude.xml:869(title)
+#: chapter9/xinclude.xml:685(title) chapter9/xinclude.xml:703(title)
 msgid "The Fridge"
 msgstr ""
 
-#: chapter9/xinclude.xml:853(para)
+#: chapter9/xinclude.xml:687(para)
 msgid "The Fridge is an information hub for the Ubuntu community, bringing together news, grassroots marketing, advocacy, team collaboration and great original content. Just like the family fridge at home, this is where the Ubuntu family can exhibit its best work for everyone to see, along with the requisite jokes, reminders, invitations, news clippings and photos."
 msgstr ""
 
-#: chapter9/xinclude.xml:863(para)
+#: chapter9/xinclude.xml:697(para)
 msgid "Visit The Fridge at <ulink url=\"http://fridge.ubuntu.com/\">http://fridge.ubuntu.com/</ulink>."
 msgstr ""
 
-#: chapter9/xinclude.xml:866(para)
+#: chapter9/xinclude.xml:700(para)
 msgid "The following is a screenshot of The Fridge home page:"
 msgstr ""
 
-#: chapter9/xinclude.xml:880(title)
+#: chapter9/xinclude.xml:714(title)
 msgid "Paid For Commercial Services"
 msgstr ""
 
-#: chapter9/xinclude.xml:882(para)
+#: chapter9/xinclude.xml:716(para)
 msgid "Canonical provides professional support across the globe. You can purchase this support by contacting the Global Support Services team on the Ubuntu Web site at <ulink url=\"http://www.ubuntu.com/support/paid\">http://www.ubuntu.com/support/paid</ulink>. Professional support services can also be obtained through the network of companies and partners listed in the Canonical Marketplace."
 msgstr ""
 
-#: chapter9/xinclude.xml:889(title)
+#: chapter9/xinclude.xml:722(title)
 msgid "Professional Support Services from Canonical"
 msgstr ""
 
-#: chapter9/xinclude.xml:891(para)
+#: chapter9/xinclude.xml:724(para)
 msgid "Canonical Global Support Services are deployed to enable 24x7 assistance to customers. The Global Support Services team utilises its vast experience and knowledge base to identify the challenges that customers may face when installing and maintaining new platforms and applications. From optimising your small office set-up to providing guidance on very large deployments, the Global Support Services team is always ready to help you get the most out of Ubuntu."
 msgstr ""
 
-#: chapter9/xinclude.xml:899(para)
+#: chapter9/xinclude.xml:732(para)
 msgid "Support is provided for desktops, servers and thin client servers, and clusters. The following screenshot shows the various types of support services offered:"
 msgstr ""
 
-#: chapter9/xinclude.xml:904(title)
+#: chapter9/xinclude.xml:737(title)
 msgid "The Various Type of Support Page"
 msgstr ""
 
-#: chapter9/xinclude.xml:913(para)
-msgid "To purchase commercial support, click the <emphasis role=\"strong\">contact us</emphasis> link available at the bottom of the <emphasis role=\"strong\">Canonical Global Support Services</emphasis> page. This takes you to the <emphasis role=\"strong\">About us</emphasis> page. You can fill the form provided on this page to request more information about Canonical Global Support Services. Alternatively, you may click the <emphasis role=\"strong\">Purchase Support</emphasis> button present in the left <emphasis role=\"strong\">Navigation</emphasis> pane. If you are a company employee, ask your I.S. team for details of your support options as this will vary from company to company."
+#: chapter9/xinclude.xml:746(para)
+msgid "To purchase commercial support, please refer to <ulink url=\"http://www.ubuntu.com/support/services/\">Canonical Service</ulink>."
 msgstr ""
 
-#: chapter9/xinclude.xml:924(title)
-msgid "About Us Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:933(para)
-msgid "After you purchase the support, you will receive a confirmation e-mail message containing your support ID number. You will also receive a phone call welcoming you to the service."
-msgstr ""
-
-#: chapter9/xinclude.xml:939(title) chapter9/xinclude.xml:948(title)
-msgid "The Canonical Marketplace"
-msgstr ""
-
-#: chapter9/xinclude.xml:941(para)
-msgid "The Canonical Marketplace lists a number of companies and partners located in various regions of the world which provide local support for desktops and servers running Ubuntu."
-msgstr ""
-
-#: chapter9/xinclude.xml:945(para)
-msgid "The following screenshot displays the <emphasis role=\"strong\">Marketplace</emphasis> page on the Ubuntu Web site:"
-msgstr ""
-
-#: chapter9/xinclude.xml:960(para)
-msgid "To find support and solutions from local providers, visit <ulink url=\"http://www.ubuntu.com/support/commercial/marketplace\">http://www.ubuntu.com/support/commercial/marketplace</ulink>."
-msgstr ""
-
-#: chapter9/xinclude.xml:963(para)
-msgid "Selecting your region from the list provided will lead you to a comprehensive list of all the Local Support Service providers in that region. The following screenshot displays a list of all the Local Support Services providers existing in Africa:"
-msgstr ""
-
-#: chapter9/xinclude.xml:969(title)
-msgid "Local Support Services Page"
-msgstr ""
-
-#: chapter9/xinclude.xml:981(para)
-msgid "If your company is providing Ubuntu-related services then you too have the option of being listed in the Canonical Marketplace as a Local Services Provider. To do this simply click the <emphasis role=\"strong\">send us your information</emphasis> link at the bottom of the <emphasis role=\"strong\">Marketplace</emphasis> page."
-msgstr ""
-
-#: chapter9/xinclude.xml:990(title)
+#: chapter9/xinclude.xml:752(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter9/xinclude.xml:992(para)
+#: chapter9/xinclude.xml:754(para)
 msgid "In this lesson, you learned:"
 msgstr ""
 
-#: chapter9/xinclude.xml:996(para)
+#: chapter9/xinclude.xml:758(para)
 msgid "The various sources where you can find both free and paid for support on Ubuntu - system and online documentation, commercial support, community support, Launchpad and The Fridge."
 msgstr ""
 
-#: chapter9/xinclude.xml:1002(para)
+#: chapter9/xinclude.xml:764(para)
 msgid "System and Online documentation provide the primary source of help and contains both official and community documentation."
 msgstr ""
 
-#: chapter9/xinclude.xml:1007(para)
+#: chapter9/xinclude.xml:769(para)
 msgid "The Ubuntu community also provides vital support through mailing lists, Web forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
 msgstr ""
 
-#: chapter9/xinclude.xml:1013(para)
-msgid "You can use Launchpad to perform tasks such as searching Ubuntu related information, tracking bugs in Ubuntu and placing orders for Ubuntu CDs."
+#: chapter9/xinclude.xml:775(para)
+msgid "You can use Launchpad to perform tasks such as searching Ubuntu related information, tracking bugs in Ubuntu."
 msgstr ""
 
-#: chapter9/xinclude.xml:1019(para)
+#: chapter9/xinclude.xml:780(para)
 msgid "The Fridge is an information hub for the Ubuntu community, bringing together news, grassroots marketing, advocacy, team collaboration and great original content."
 msgstr ""
 
-#: chapter9/xinclude.xml:1025(para)
+#: chapter9/xinclude.xml:786(para)
 msgid "Canonical provides professional support across the globe, which you can purchase by contacting the Global Support Services team."
 msgstr ""
 
-#: chapter9/xinclude.xml:1031(para)
+#: chapter9/xinclude.xml:792(para)
 msgid "Professional support services can also be obtained through the companies and partners listed in the Canonical Marketplace."
 msgstr ""
 
-#: chapter9/xinclude.xml:1038(title)
+#: chapter9/xinclude.xml:799(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter9/xinclude.xml:1043(para)
+#: chapter9/xinclude.xml:804(para)
 msgid "Name the major sources of help and support for Ubuntu."
 msgstr ""
 
-#: chapter9/xinclude.xml:1047(para)
+#: chapter9/xinclude.xml:808(para)
 msgid "The major sources of help and support for Ubuntu are system and online documentation, commercial support, community support, Launchpad and the Fridge."
 msgstr ""
 
-#: chapter9/xinclude.xml:1055(para)
+#: chapter9/xinclude.xml:816(para)
 msgid "What types of documentation is available on the documentation site of Ubuntu?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1060(para)
+#: chapter9/xinclude.xml:821(para)
 msgid "Four types of documentations are available on the Ubuntu documentation site. These are the Ubuntu official documentation, community documentation, common questions and Ubuntu screencasts."
 msgstr ""
 
-#: chapter9/xinclude.xml:1069(para)
+#: chapter9/xinclude.xml:830(para)
 msgid "What are the options for obtaining commercial support for Ubuntu?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1074(para)
+#: chapter9/xinclude.xml:835(para)
 msgid "The options for obtaining commercial support are either by getting the support directly from Canonical through their Global Support Services team or through the network of companies and partners that are listed in the Canonical Marketplace."
 msgstr ""
 
-#: chapter9/xinclude.xml:1083(para)
+#: chapter9/xinclude.xml:844(para)
 msgid "What are the different platforms through which the Ubuntu community extends its help and support?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1088(para)
+#: chapter9/xinclude.xml:849(para)
 msgid "The different platforms through which the Ubuntu community extends its help and support are:"
 msgstr ""
 
-#: chapter9/xinclude.xml:1097(para)
+#: chapter9/xinclude.xml:858(para)
 msgid "Web forums"
 msgstr ""
 
-#: chapter9/xinclude.xml:1101(para)
+#: chapter9/xinclude.xml:862(para)
 msgid "IRC channels"
 msgstr ""
 
-#: chapter9/xinclude.xml:1105(para)
+#: chapter9/xinclude.xml:866(para)
 msgid "LoCo teams"
 msgstr ""
 
-#: chapter9/xinclude.xml:1109(para)
+#: chapter9/xinclude.xml:870(para)
 msgid "The Ubuntu wiki"
 msgstr ""
 
-#: chapter9/xinclude.xml:1117(para)
+#: chapter9/xinclude.xml:878(para)
 msgid "What are IRC channels?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1121(para)
+#: chapter9/xinclude.xml:882(para)
 msgid "IRC channels are a form of real-time Internet chat that allows users to talk directly to one another."
 msgstr ""
 
-#: chapter9/xinclude.xml:1128(para)
+#: chapter9/xinclude.xml:889(para)
 msgid "What help and support do the LoCo teams provide to Ubuntu users?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1133(para)
+#: chapter9/xinclude.xml:894(para)
 msgid "The LoCo teams are primarily involved in providing free local support, such as one-on-one troubleshooting, group sessions and presentations about Ubuntu. Simultaneously, these teams are actively engaged in providing non-English support to the Ubuntu users."
 msgstr ""
 
-#: chapter9/xinclude.xml:1142(para)
+#: chapter9/xinclude.xml:903(para)
 msgid "What is Launchpad?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1146(para)
+#: chapter9/xinclude.xml:907(para)
 msgid "Launchpad is a Web-based suite that helps people develop free and open source software. It is a collaborative system developed by Canonical and is primarily used to track many aspects of open source development."
 msgstr ""
 
-#: chapter9/xinclude.xml:1155(para)
+#: chapter9/xinclude.xml:916(para)
 msgid "What is the name of the bug-tracking tool available with Launchpad?"
 msgstr ""
 
-#: chapter9/xinclude.xml:1160(para)
+#: chapter9/xinclude.xml:921(para)
 msgid "Malone is the bug-tracking tool available with Launchpad."
 msgstr ""
 

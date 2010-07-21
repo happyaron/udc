@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-17 09:39+0800\n"
+"POT-Creation-Date: 2010-07-21 22:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,61 +12,67 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:136(None)
-msgid "@@image: 'images/chapter1_img_02.png'; md5=7957ea25aac579a2b7b862880520c777"
+msgid "@@image: 'images/chapter1_img_02.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:194(None)
-msgid "@@image: 'images/chapter1_img_03.png'; md5=2a756b1ed9f8b8cf907728a6699b1152"
+msgid "@@image: 'images/chapter1_img_03.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:240(None)
-msgid "@@image: 'images/chapter1_img_04.png'; md5=c5625b9df7b30e425d856aa8a863393f"
+msgid "@@image: 'images/chapter1_img_04.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:320(None)
-msgid "@@image: 'images/chapter1_img_05.png'; md5=510a7c7dce7e72edf30031b775946801"
+msgid "@@image: 'images/chapter1_img_05.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:886(None)
-msgid "@@image: 'images/Lesson02_images_003.png'; md5=a4a51227912e40025008dbf939f49105"
+#: chapter1/xinclude.xml:853(None)
+msgid "@@image: 'images/Lesson02_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:912(None)
-msgid "@@image: 'images/Lesson02_images_004.png'; md5=b9623c4571de3df2ff01ef96b3ee3912"
+#: chapter1/xinclude.xml:896(None)
+msgid "@@image: 'images/Lesson02_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:1070(None)
-msgid "@@image: 'images/Lesson02_images_006.png'; md5=a866364ec51f76682dd89b0fe99ae5cf"
+#: chapter1/xinclude.xml:922(None)
+msgid "@@image: 'images/Lesson02_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:1260(None)
-msgid "@@image: 'images/Lesson02_images_008.png'; md5=5f2a3a42285abf2fa7679659b0341c56"
+#: chapter1/xinclude.xml:1080(None)
+msgid "@@image: 'images/Lesson02_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:1276(None)
-msgid "@@image: 'images/Lesson02_images_009.png'; md5=2dc5798a29daeb1a8bef38d0a48f2565"
+#: chapter1/xinclude.xml:1270(None)
+msgid "@@image: 'images/Lesson02_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter1/xinclude.xml:1317(None)
-msgid "@@image: 'images/Lesson02_images_010.png'; md5=61821237d9c18ef6589fd90e285391e3"
+#: chapter1/xinclude.xml:1286(None)
+msgid "@@image: 'images/Lesson02_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter1/xinclude.xml:1327(None)
+msgid "@@image: 'images/Lesson02_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
 msgstr ""
 
 #: chapter1/xinclude.xml:4(title)
@@ -85,15 +91,15 @@ msgstr ""
 msgid "The fundamental concepts of open source."
 msgstr ""
 
-#: chapter1/xinclude.xml:14(para) chapter1/xinclude.xml:1331(para)
+#: chapter1/xinclude.xml:14(para) chapter1/xinclude.xml:1341(para)
 msgid "The link between the Free Software Movement, open source and Linux"
 msgstr ""
 
-#: chapter1/xinclude.xml:19(para) chapter1/xinclude.xml:1335(para)
+#: chapter1/xinclude.xml:19(para) chapter1/xinclude.xml:1345(para)
 msgid "How Ubuntu ties in with open source"
 msgstr ""
 
-#: chapter1/xinclude.xml:23(para) chapter1/xinclude.xml:1338(para)
+#: chapter1/xinclude.xml:23(para) chapter1/xinclude.xml:1348(para)
 msgid "How Ubuntu is developed"
 msgstr ""
 
@@ -101,7 +107,7 @@ msgstr ""
 msgid "About Ubuntu versions"
 msgstr ""
 
-#: chapter1/xinclude.xml:31(para) chapter1/xinclude.xml:1344(para)
+#: chapter1/xinclude.xml:31(para) chapter1/xinclude.xml:1354(para)
 msgid "The key differences between Ubuntu and Microsoft Windows"
 msgstr ""
 
@@ -109,7 +115,7 @@ msgstr ""
 msgid "About Open Source"
 msgstr ""
 
-#: chapter1/xinclude.xml:39(title) chapter1/xinclude.xml:217(title) chapter1/xinclude.xml:253(title) chapter1/xinclude.xml:276(title) chapter1/xinclude.xml:1352(title)
+#: chapter1/xinclude.xml:39(title) chapter1/xinclude.xml:217(title) chapter1/xinclude.xml:253(title) chapter1/xinclude.xml:276(title) chapter1/xinclude.xml:1362(title)
 msgid "Instructor Notes:"
 msgstr ""
 
@@ -285,11 +291,11 @@ msgstr ""
 msgid "Stress on the Ubuntu promise because it holds the very essence of the spirit and success of the software."
 msgstr ""
 
-#: chapter1/xinclude.xml:283(para) chapter1/xinclude.xml:1394(para)
+#: chapter1/xinclude.xml:283(para) chapter1/xinclude.xml:1404(para)
 msgid "Ubuntu will always be free of charge, including enterprise releases and security updates."
 msgstr ""
 
-#: chapter1/xinclude.xml:287(para) chapter1/xinclude.xml:1398(para)
+#: chapter1/xinclude.xml:287(para) chapter1/xinclude.xml:1408(para)
 msgid "Ubuntu comes with full commercial support from Canonical and hundreds of companies around the world."
 msgstr ""
 
@@ -569,11 +575,11 @@ msgstr ""
 msgid "Attribute"
 msgstr ""
 
-#: chapter1/xinclude.xml:667(emphasis) chapter1/xinclude.xml:942(emphasis) chapter1/xinclude.xml:1096(emphasis)
+#: chapter1/xinclude.xml:667(emphasis) chapter1/xinclude.xml:952(emphasis) chapter1/xinclude.xml:1106(emphasis)
 msgid "Ubuntu"
 msgstr ""
 
-#: chapter1/xinclude.xml:672(emphasis) chapter1/xinclude.xml:947(emphasis) chapter1/xinclude.xml:1101(emphasis)
+#: chapter1/xinclude.xml:672(emphasis) chapter1/xinclude.xml:957(emphasis) chapter1/xinclude.xml:1111(emphasis)
 msgid "Microsoft Windows"
 msgstr ""
 
@@ -673,411 +679,415 @@ msgstr ""
 msgid "Difficult to backup and migrate to computer"
 msgstr ""
 
-#: chapter1/xinclude.xml:848(para) chapter1/xinclude.xml:1231(para)
+#: chapter1/xinclude.xml:850(title)
+msgid "Price compare"
+msgstr ""
+
+#: chapter1/xinclude.xml:858(para) chapter1/xinclude.xml:1241(para)
 msgid "Looking at each element outlined in the table in greater detail:"
 msgstr ""
 
-#: chapter1/xinclude.xml:851(title)
+#: chapter1/xinclude.xml:861(title)
 msgid "Associated Costs:"
 msgstr ""
 
-#: chapter1/xinclude.xml:852(para)
+#: chapter1/xinclude.xml:862(para)
 msgid "The Microsoft Windows OS is proprietary and the overall price increases with added functionality and applications. The associated price is sometimes a factor of using third party applications and not just a Microsoft decision. With Ubuntu new release versions and applications are free."
 msgstr ""
 
-#: chapter1/xinclude.xml:859(title)
+#: chapter1/xinclude.xml:869(title)
 msgid "New version releases:"
 msgstr ""
 
-#: chapter1/xinclude.xml:860(para)
+#: chapter1/xinclude.xml:870(para)
 msgid "There is only one released version of Ubuntu and therefore features available to home and professional users are the same. The Home and Professional editions of Microsoft Windows are not the same. For example, Microsoft Windows Professional editions have more security features than Home editions."
 msgstr ""
 
-#: chapter1/xinclude.xml:867(para)
+#: chapter1/xinclude.xml:877(para)
 msgid "Ubuntu's 6 monthly release cycle also makes it very easy for users to have access to all the latest applications. An upgrade from one release to the next is free and fully supported. Microsoft scheduled releases are less frequent and less visible to the public."
 msgstr ""
 
-#: chapter1/xinclude.xml:874(title)
+#: chapter1/xinclude.xml:884(title)
 msgid "Security aspects:"
 msgstr ""
 
-#: chapter1/xinclude.xml:875(para)
+#: chapter1/xinclude.xml:885(para)
 msgid "Ubuntu is rarely targeted by malware and viruses. The administrative user root is locked by default in Ubuntu and only certain tasks are run with administrative privileges. Microsoft Windows provides an environment where people can access administrative user directly."
 msgstr ""
 
-#: chapter1/xinclude.xml:883(title)
+#: chapter1/xinclude.xml:893(title)
 msgid "Ubuntu Security"
 msgstr ""
 
-#: chapter1/xinclude.xml:892(title)
+#: chapter1/xinclude.xml:902(title)
 msgid "Customisation:"
 msgstr ""
 
-#: chapter1/xinclude.xml:893(para)
+#: chapter1/xinclude.xml:903(para)
 msgid "As you will discover throughout this course, Ubuntu is yours to design and personalise. You can have different flavours of Ubuntu running parallel; for example, you can install the Kubuntu (KDE) desktop together with Ubuntu (GNOME) and then select the desktop environment you want to use. More than 17,000 packages are available and easily accessible through the Internet. As a result, you are not stuck with using one version because it was the first you installed."
 msgstr ""
 
-#: chapter1/xinclude.xml:905(para)
+#: chapter1/xinclude.xml:915(para)
 msgid "Microsoft Windows is a standard OS with some options for customization. While many applications are available, most are proprietary software which incur a license fee."
 msgstr ""
 
-#: chapter1/xinclude.xml:909(title)
+#: chapter1/xinclude.xml:919(title)
 msgid "Desktop Customisation"
 msgstr ""
 
-#: chapter1/xinclude.xml:917(title)
+#: chapter1/xinclude.xml:927(title)
 msgid "Data Storage:"
 msgstr ""
 
-#: chapter1/xinclude.xml:918(para)
+#: chapter1/xinclude.xml:928(para)
 msgid "User data is often located in multiple locations in Microsoft Windows, which can make backing up and migrating from one computer to another tricky. Ubuntu saves your user information in one place - the home directory. This makes the migration of data from an old computer to a new one easy, as well as keeping user specific backup data separate."
 msgstr ""
 
-#: chapter1/xinclude.xml:926(title) chapter1/xinclude.xml:937(emphasis)
+#: chapter1/xinclude.xml:936(title) chapter1/xinclude.xml:947(emphasis)
 msgid "Installation"
 msgstr ""
 
-#: chapter1/xinclude.xml:928(title)
+#: chapter1/xinclude.xml:938(title)
 msgid "Installation Differences"
 msgstr ""
 
-#: chapter1/xinclude.xml:957(emphasis)
+#: chapter1/xinclude.xml:967(emphasis)
 msgid "OS Installation"
 msgstr ""
 
-#: chapter1/xinclude.xml:965(para)
+#: chapter1/xinclude.xml:975(para)
 msgid "Freely downloadable from the Internet or using a free CD"
 msgstr ""
 
-#: chapter1/xinclude.xml:969(para)
+#: chapter1/xinclude.xml:979(para)
 msgid "Can be used directly from the live-CD"
 msgstr ""
 
-#: chapter1/xinclude.xml:979(para)
+#: chapter1/xinclude.xml:989(para)
 msgid "Purchase required"
 msgstr ""
 
-#: chapter1/xinclude.xml:982(para)
+#: chapter1/xinclude.xml:992(para)
 msgid "OS must be installed on com­puter hard drive"
 msgstr ""
 
-#: chapter1/xinclude.xml:992(emphasis)
+#: chapter1/xinclude.xml:1002(emphasis)
 msgid "Software Installation"
 msgstr ""
 
-#: chapter1/xinclude.xml:1000(para)
+#: chapter1/xinclude.xml:1010(para)
 msgid "Huge variety of applications available by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1004(para)
+#: chapter1/xinclude.xml:1014(para)
 msgid "All freely downloadable from the Internet"
 msgstr ""
 
-#: chapter1/xinclude.xml:1014(para)
+#: chapter1/xinclude.xml:1024(para)
 msgid "Limited selection of software available by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1018(para)
+#: chapter1/xinclude.xml:1028(para)
 msgid "Users can purchase and download some software online, others can only be manually installed"
 msgstr ""
 
-#: chapter1/xinclude.xml:1033(title)
+#: chapter1/xinclude.xml:1043(title)
 msgid "OS Installation:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1034(para)
+#: chapter1/xinclude.xml:1044(para)
 msgid "Both Microsoft Windows and Ubuntu come as pre-installed OSs on computers. However, to install post-purchase, Ubuntu can be freely downloaded from the Internet or a free CD can be requested. Any Microsoft Windows version will need to be purchased."
 msgstr ""
 
-#: chapter1/xinclude.xml:1042(para)
+#: chapter1/xinclude.xml:1052(para)
 msgid "Ubuntu comes in live-CD mode which means you can use the OS directly from the CD without installing it on a host computer. If you like what you see, install it. If you don't, pass it on to a friend. The live-CD option is also useful for system recovery."
 msgstr ""
 
-#: chapter1/xinclude.xml:1047(para)
+#: chapter1/xinclude.xml:1057(para)
 msgid "The installation of Microsoft Windows and Ubuntu is easy and conducted by running the installation CD and booting the computer. Both installations vary in length according to how powerful your computer is, with an average install taking 20 - 30 minutes."
 msgstr ""
 
-#: chapter1/xinclude.xml:1055(title)
+#: chapter1/xinclude.xml:1065(title)
 msgid "Software Installation:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1056(para)
+#: chapter1/xinclude.xml:1066(para)
 msgid "You can add software on Ubuntu by using the Add/Remove Applications and Synaptic Package Manager. The Add/Remove Applications allows you to search the entire directory of free applications recommended for Ubuntu and install the ones you want. In Microsoft Windows, each programme supplies its own installation method. Microsoft Vista has a Digital Locker feature enables users to purchase software online and download it in a protected manner."
 msgstr ""
 
-#: chapter1/xinclude.xml:1067(title)
+#: chapter1/xinclude.xml:1077(title)
 msgid "Installing Software Applications"
 msgstr ""
 
-#: chapter1/xinclude.xml:1078(title) chapter1/xinclude.xml:1091(emphasis)
+#: chapter1/xinclude.xml:1088(title) chapter1/xinclude.xml:1101(emphasis)
 msgid "Applications"
 msgstr ""
 
-#: chapter1/xinclude.xml:1079(para)
+#: chapter1/xinclude.xml:1089(para)
 msgid "The table below displays a comparison between Ubuntu and Microsoft Windows applications:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1082(title)
+#: chapter1/xinclude.xml:1092(title)
 msgid "Application Based Differences"
 msgstr ""
 
-#: chapter1/xinclude.xml:1111(emphasis)
+#: chapter1/xinclude.xml:1121(emphasis)
 msgid "Web browsing and E-mail"
 msgstr ""
 
-#: chapter1/xinclude.xml:1119(para)
+#: chapter1/xinclude.xml:1129(para)
 msgid "Firefox Web browser by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1122(para)
+#: chapter1/xinclude.xml:1132(para)
 msgid "Evolution e-mail client by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1132(para)
+#: chapter1/xinclude.xml:1142(para)
 msgid "Internet Explorer Web browser by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1136(para)
+#: chapter1/xinclude.xml:1146(para)
 msgid "Outlook e-mail client by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1145(emphasis)
+#: chapter1/xinclude.xml:1155(emphasis)
 msgid "Word Processing"
 msgstr ""
 
-#: chapter1/xinclude.xml:1153(para)
+#: chapter1/xinclude.xml:1163(para)
 msgid "OpenOffice.org suite"
 msgstr ""
 
-#: chapter1/xinclude.xml:1162(para)
+#: chapter1/xinclude.xml:1172(para)
 msgid "WordPad by default"
 msgstr ""
 
-#: chapter1/xinclude.xml:1171(emphasis)
+#: chapter1/xinclude.xml:1181(emphasis)
 msgid "Multimedia"
 msgstr ""
 
-#: chapter1/xinclude.xml:1178(para)
+#: chapter1/xinclude.xml:1188(para)
 msgid "Includes Audio CD Extractor, Brasero, Rhythmbox, Movie Player and Sound Recorder"
 msgstr ""
 
-#: chapter1/xinclude.xml:1188(para)
+#: chapter1/xinclude.xml:1198(para)
 msgid "Includes Microsoft Windows Media Player 11 (WMP) and Microsoft Windows Media Center (WMC)"
 msgstr ""
 
-#: chapter1/xinclude.xml:1199(emphasis)
+#: chapter1/xinclude.xml:1209(emphasis)
 msgid "Image Editing and Picture Management"
 msgstr ""
 
-#: chapter1/xinclude.xml:1207(para)
+#: chapter1/xinclude.xml:1217(para)
 msgid "F-Spot photo manager"
 msgstr ""
 
-#: chapter1/xinclude.xml:1210(para)
+#: chapter1/xinclude.xml:1220(para)
 msgid "Gimp for image editing"
 msgstr ""
 
-#: chapter1/xinclude.xml:1219(para)
+#: chapter1/xinclude.xml:1229(para)
 msgid "Picture Gallery application"
 msgstr ""
 
-#: chapter1/xinclude.xml:1222(para)
+#: chapter1/xinclude.xml:1232(para)
 msgid "Paint"
 msgstr ""
 
-#: chapter1/xinclude.xml:1235(title)
+#: chapter1/xinclude.xml:1245(title)
 msgid "Networking, Web browsing and E-mail"
 msgstr ""
 
-#: chapter1/xinclude.xml:1236(para)
+#: chapter1/xinclude.xml:1246(para)
 msgid "Network setup on both Ubuntu and Microsoft Windows is easy. Web browsing features are more or less the same on both OSs."
 msgstr ""
 
-#: chapter1/xinclude.xml:1241(para)
+#: chapter1/xinclude.xml:1251(para)
 msgid "Mozilla Firefox is loaded as the default browser on Ubuntu, and Internet Explorer is the default browser on Vista. You can also install Firefox on Microsoft Windows."
 msgstr ""
 
-#: chapter1/xinclude.xml:1245(para)
+#: chapter1/xinclude.xml:1255(para)
 msgid "Evolution is the default e-mail client on Ubuntu. It connects to POP accounts, conventional UNIX mailboxes and Exchange servers via Outlook Web Access. Evolution also has a built-in Personal Information Manager (PIM) and a calendaring and appointment system. The Microsoft Windows Mail application in Vista is a rewritten version of Outlook Express, with a stripped down calendar or appointment application, Microsoft Windows Calendar. An upgrade to Outlook is suggested if you use the calendar often or if you have a full PIM. Ubuntu users enjoy the out-of-the-box mail client setup facility."
 msgstr ""
 
-#: chapter1/xinclude.xml:1257(title)
+#: chapter1/xinclude.xml:1267(title)
 msgid "Evolution E-mail Client"
 msgstr ""
 
-#: chapter1/xinclude.xml:1265(title)
+#: chapter1/xinclude.xml:1275(title)
 msgid "Word Processing:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1266(para)
+#: chapter1/xinclude.xml:1276(para)
 msgid "The OpenOffice.org suite is installed on Ubuntu by default and provides many features of Microsoft Office. Vista comes with WordPad by default; the full version of Microsoft Word (or Office) for Microsoft Windows, is available at an additional cost."
 msgstr ""
 
-#: chapter1/xinclude.xml:1273(title)
+#: chapter1/xinclude.xml:1283(title)
 msgid "OpenOffice.org Writer"
 msgstr ""
 
-#: chapter1/xinclude.xml:1282(title)
+#: chapter1/xinclude.xml:1292(title)
 msgid "Multimedia:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1283(para)
+#: chapter1/xinclude.xml:1293(para)
 msgid "Several multimedia programmes are configured by default on Ubuntu, such as Audio CD Extractor, Brasero Disc Burning, Rhythmbox Music Player, Movie Player and Sound Recorder. Rhythmbox is the default application for playing audio CDs and organising music and playlists. Rhythmbox is similiar to Microsoft Windows Media Player. You can use Brasero to author audio CDs."
 msgstr ""
 
-#: chapter1/xinclude.xml:1287(para)
+#: chapter1/xinclude.xml:1297(para)
 msgid "To play the mp3 format on Ubuntu, you need to install a codec pack. This is because Ubuntu is not distributed with mp3 codecs due to licensing restrictions. Playback of mp3 files is enabled by default on some versions of Microsoft Windows."
 msgstr ""
 
-#: chapter1/xinclude.xml:1292(para)
+#: chapter1/xinclude.xml:1302(para)
 msgid "Vista has two multimedia programmes, Windows Media Player 11 (WMP for short) and Windows Media Center (WMC for short). WMP is best for playing music, and WMC is useful if you are using the computer as your core entertainment system. WMP can contain a large music library. With the index search system of WMP, you can search music numbers by a particular artist or search for specific numbers."
 msgstr ""
 
-#: chapter1/xinclude.xml:1301(title)
+#: chapter1/xinclude.xml:1311(title)
 msgid "Image Editing and Picture Management:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1302(para)
+#: chapter1/xinclude.xml:1312(para)
 msgid "With the Picture Gallery application of Microsoft Vista, you can upload thousands of images and add tags. You can also organise the images quickly and work on them easily because you can tag them with one click. F-Spot photo manager organises your personal photos on Ubuntu. It integrates seamlessly with popular Web based image databases, such as Flickr and Picasa Web."
 msgstr ""
 
-#: chapter1/xinclude.xml:1310(para)
+#: chapter1/xinclude.xml:1320(para)
 msgid "Ubuntu provides GIMP for image editing which is a powerful Photoshop-like application. Microsoft Windows Vista provides 'Paint' for basic image editing."
 msgstr ""
 
-#: chapter1/xinclude.xml:1314(title)
+#: chapter1/xinclude.xml:1324(title)
 msgid "GIMP"
 msgstr ""
 
-#: chapter1/xinclude.xml:1324(title)
+#: chapter1/xinclude.xml:1334(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter1/xinclude.xml:1325(para)
+#: chapter1/xinclude.xml:1335(para)
 msgid "In this lesson, you learned:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1328(para)
+#: chapter1/xinclude.xml:1338(para)
 msgid "The fundamental concepts of open source"
 msgstr ""
 
-#: chapter1/xinclude.xml:1341(para)
+#: chapter1/xinclude.xml:1351(para)
 msgid "The Ubuntu version naming conventions"
 msgstr ""
 
-#: chapter1/xinclude.xml:1350(title)
+#: chapter1/xinclude.xml:1360(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter1/xinclude.xml:1353(para)
+#: chapter1/xinclude.xml:1363(para)
 msgid "If you are running short of time, administer this exercise when Exploring the Ubuntu Desktop in <xref linkend=\"lesson2\"/>."
 msgstr ""
 
-#: chapter1/xinclude.xml:1359(para)
+#: chapter1/xinclude.xml:1369(para)
 msgid "What is meant by the term free software?"
 msgstr ""
 
-#: chapter1/xinclude.xml:1362(para)
+#: chapter1/xinclude.xml:1372(para)
 msgid "Quoting the Free Software Foundation's 'What is Free Software', the freedoms at the core of free software are defined as:"
 msgstr ""
 
-#: chapter1/xinclude.xml:1367(para)
+#: chapter1/xinclude.xml:1377(para)
 msgid "The freedom to run the programme, for any purpose."
 msgstr ""
 
-#: chapter1/xinclude.xml:1371(para)
+#: chapter1/xinclude.xml:1381(para)
 msgid "The freedom to study how the programme works and adapt it to your needs."
 msgstr ""
 
-#: chapter1/xinclude.xml:1375(para)
+#: chapter1/xinclude.xml:1385(para)
 msgid "The freedom to redistribute copies so you can help others."
 msgstr ""
 
-#: chapter1/xinclude.xml:1379(para)
+#: chapter1/xinclude.xml:1389(para)
 msgid "The freedom to improve the programme and release your improvements to the public, so that everyone benefits."
 msgstr ""
 
-#: chapter1/xinclude.xml:1388(para)
+#: chapter1/xinclude.xml:1398(para)
 msgid "What is the Ubuntu promise?"
 msgstr ""
 
-#: chapter1/xinclude.xml:1403(para)
+#: chapter1/xinclude.xml:1413(para)
 msgid "Ubuntu includes the best translations and accessibility infrastructure that the open source community has to offer."
 msgstr ""
 
-#: chapter1/xinclude.xml:1408(para)
+#: chapter1/xinclude.xml:1418(para)
 msgid "Ubuntu CDs contain only open source applications; Ubuntu encourages you to use free and open source software, improve it and pass it on."
 msgstr ""
 
-#: chapter1/xinclude.xml:1391(para)
+#: chapter1/xinclude.xml:1401(para)
 msgid "The Ubuntu promise is: <placeholder-1/>"
 msgstr ""
 
-#: chapter1/xinclude.xml:1418(para)
+#: chapter1/xinclude.xml:1428(para)
 msgid "Match the Ubuntu versions with the years in which they were released."
 msgstr ""
 
-#: chapter1/xinclude.xml:1427(para) chapter1/xinclude.xml:1469(para)
+#: chapter1/xinclude.xml:1437(para) chapter1/xinclude.xml:1479(para)
 msgid "1) 7.04"
 msgstr ""
 
-#: chapter1/xinclude.xml:1430(para) chapter1/xinclude.xml:1488(para)
+#: chapter1/xinclude.xml:1440(para) chapter1/xinclude.xml:1498(para)
 msgid "a) June 2006"
 msgstr ""
 
-#: chapter1/xinclude.xml:1435(para) chapter1/xinclude.xml:1477(para)
+#: chapter1/xinclude.xml:1445(para) chapter1/xinclude.xml:1487(para)
 msgid "2) 4.10"
 msgstr ""
 
-#: chapter1/xinclude.xml:1438(para) chapter1/xinclude.xml:1496(para)
+#: chapter1/xinclude.xml:1448(para) chapter1/xinclude.xml:1506(para)
 msgid "b) October 2007"
 msgstr ""
 
-#: chapter1/xinclude.xml:1443(para) chapter1/xinclude.xml:1485(para)
+#: chapter1/xinclude.xml:1453(para) chapter1/xinclude.xml:1495(para)
 msgid "3) 6.06"
 msgstr ""
 
-#: chapter1/xinclude.xml:1446(para) chapter1/xinclude.xml:1472(para)
+#: chapter1/xinclude.xml:1456(para) chapter1/xinclude.xml:1482(para)
 msgid "c) April 2007"
 msgstr ""
 
-#: chapter1/xinclude.xml:1451(para) chapter1/xinclude.xml:1493(para)
+#: chapter1/xinclude.xml:1461(para) chapter1/xinclude.xml:1503(para)
 msgid "4) 7.10"
 msgstr ""
 
-#: chapter1/xinclude.xml:1454(para) chapter1/xinclude.xml:1480(para)
+#: chapter1/xinclude.xml:1464(para) chapter1/xinclude.xml:1490(para)
 msgid "d) October 2004"
 msgstr ""
 
-#: chapter1/xinclude.xml:1506(para)
+#: chapter1/xinclude.xml:1516(para)
 msgid "List 3 ways in which non-technical users can contribute towards the development of Ubuntu."
 msgstr ""
 
-#: chapter1/xinclude.xml:1510(para)
+#: chapter1/xinclude.xml:1520(para)
 msgid "The three ways in which non-technical users can contribute towards Ubuntu development are artwork, translation and localisation and document solutions."
 msgstr ""
 
-#: chapter1/xinclude.xml:1518(para)
+#: chapter1/xinclude.xml:1528(para)
 msgid "The default web browser on Ubuntu is _________________."
 msgstr ""
 
-#: chapter1/xinclude.xml:1522(para)
+#: chapter1/xinclude.xml:1532(para)
 msgid "The default web browser on Ubuntu is Mozilla Firefox."
 msgstr ""
 
-#: chapter1/xinclude.xml:1528(para)
+#: chapter1/xinclude.xml:1538(para)
 msgid "The default e-mail client on Ubuntu is __________________."
 msgstr ""
 
-#: chapter1/xinclude.xml:1532(para)
+#: chapter1/xinclude.xml:1542(para)
 msgid "The default e-mail client on Ubuntu is Evolution."
 msgstr ""
 
-#: chapter1/xinclude.xml:1538(para)
+#: chapter1/xinclude.xml:1548(para)
 msgid "What are the advantages of Ubuntu 6 monthly releases?"
 msgstr ""
 
-#: chapter1/xinclude.xml:1542(para)
+#: chapter1/xinclude.xml:1552(para)
 msgid "Quicker upgrade and availability of new applications, as well as improved functionality."
 msgstr ""
 

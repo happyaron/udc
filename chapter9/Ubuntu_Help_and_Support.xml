@@ -650,7 +650,7 @@
     process.  You may also use an OpenID login to access Launchpad.  For more information on
     on OpenID see the project website at: <ulink url="https://openid.net">http://openid.net</ulink>.</para>
 
-    <para>Launchpad provides the following different kinds of services:<para>
+    <para>Launchpad provides the following different kinds of services:</para>
     <itemizedlist>
         <listitem>
           <para>OpenID service, as discribed above.</para>
@@ -669,7 +669,7 @@
         </listitem>
 
         <listitem>
-          <para><ulink url="https://bugs.launchpad.net/">Rosetta</ulink> translation hosting service. For reporting bugs against Ubuntu, please refer to Ubuntu China LoCo Wiki's <ulink url="http://wiki.ubuntu.org.cn/%E9%94%99%E8%AF%AF%E6%8A%A5%E5%91%8A">´íÎó±¨¸æ</ulink> page.</para>
+          <para><ulink url="https://bugs.launchpad.net/">Rosetta</ulink> translation hosting service. </para>
         </listitem>
 
         <listitem>
@@ -681,7 +681,7 @@
         </listitem>
       </itemizedlist>
 
-   </sect1>
+  </sect1>
 
   <sect1>
     <title>The Fridge</title>
