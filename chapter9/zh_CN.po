@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-help-and-support\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-05-22 16:29+0800\n"
-"PO-Revision-Date: 2010-05-19 20:09+0800\n"
+"PO-Revision-Date: 2010-07-21 21:41+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -959,11 +959,11 @@ msgstr ""
 msgid ""
 "There are many ways to connect to an IRC channel and one of them is by using "
 "the Pidgin instant messenger. Connecting to Pidgin was covered in Lesson 3."
-msgstr "有多种方法连接到 IRC 频道，比如第三课介绍过的 Empathy IM 客户端。"
+msgstr "有多种方法连接到 IRC 频道，现在我们介绍如何使用 XChat 来连接到 IRC。开始前，请使用 <emphasis role=\"strong\">Ubuntu 软件中心</emphasis> 搜索并安装 XChat。"
 
 #: chapter9/xinclude.xml:482(title)
 msgid "Once in Pidgin, you can access various IRC channels by:"
-msgstr "如何使用 Empathy 连接到 IRC 频道："
+msgstr "如何使用 XChat 连接到 IRC 频道："
 
 #: chapter9/xinclude.xml:485(para)
 msgid ""
@@ -971,13 +971,11 @@ msgid ""
 "available options, and click <emphasis role=\"strong\">Add Chat</emphasis>. "
 "This displays the <emphasis role=\"strong\">Add Chat</emphasis> dialogue box."
 msgstr ""
-"这里假定您已经按照第三课所讲述的内容添加了 IRC 类型的帐号。在联系人列表窗口点"
-"击 <emphasis role=\"strong\">聊天室</emphasis> 菜单，选择 <emphasis role="
-"\"strong\">加入</emphasis>。"
+"第一次启动 XChat 时，会打开 <emphasis role=\"strong\">网络列表</emphasis> 对话框。请在 <emphasis role=\"strong\">用户信息</emphasis> 中填入您要使用的昵称及其他信息。昵称只能使用英文字母、数字和部分符号，第二、三选择为当前面的昵称不可用时的备用选择，用户名为 IRC 服务器识别您时使用的一个名称，真实姓名则为在聊天室中供别人参考的您的信息。在 <emphasis role=\"strong\">网络</emphasis> 中选择 Ubuntu Servers，然后勾选“启动时不打开网络列表”。最后点击 <emphaisi role=\"strong\">连接</emphasis> 完成设置并连接到服务器。"
 
 #: chapter9/xinclude.xml:491(title)
 msgid "Buddies Menu"
-msgstr "联系人列表"
+msgstr "XChat 网络列表"
 
 #: chapter9/xinclude.xml:502(para)
 msgid ""
@@ -986,13 +984,11 @@ msgid ""
 "Then click <emphasis role=\"strong\">Add</emphasis>. This adds the Ubuntu "
 "users' account to your <emphasis role=\"strong\">Buddies List</emphasis>."
 msgstr ""
-"在 <emphasis role=\"strong\">聊天室</emphasis> 一栏中填入 <emphasis role="
-"\"strong\">#ubuntu-cn</emphasis>，然后点击 <emphasis role=\"strong\">加入</"
-"emphasis>。"
+"连接后会自动打开英文支持频道 #ubuntu，此频道中仅可以使用英语。如果您希望获得中文的技术支持并使其默认打开，请点击 <emphasis role=\"strong\">服务器</emphasis> 菜单中的 <emphasis role=\"strong\">进入频道</emphasis> 并输入<emphasis role=\"strong\">#ubuntu-cn</emphasis> 然后点击 <emphasis role=\"strong\">确定</emphasis>。在左侧的树形显示中您可以看到新出现的 #ubuntu-cn 标签，在其上单击右键并点击 <emhpasis role=\"strong\">添加到最爱</emphasis>。如果您想删除原有的英文频道，请按照相似的方法在其上单击右键并选择 <emphasis role=\"strong\">从收藏中删除</emphasis>，然后关闭该标签即可。"
 
 #: chapter9/xinclude.xml:506(title)
 msgid "Add Chat Dialogue Box"
-msgstr "加入聊天室"
+msgstr "添加频道"
 
 #: chapter9/xinclude.xml:517(para)
 msgid ""
@@ -1600,10 +1596,9 @@ msgstr ""
 #: chapter9/xinclude.xml:1013(para)
 msgid ""
 "You can use Launchpad to perform tasks such as searching Ubuntu related "
-"information, tracking bugs in Ubuntu and placing orders for Ubuntu CDs."
+"information, tracking bugs in Ubuntu."
 msgstr ""
-"您可以使用 Launchpad 搜索 Ubuntu 相关的信息，初步掌握缺陷报告的方法，并且了解"
-"如何申请 Ubuntu CD。"
+"您可以使用 Launchpad 搜索 Ubuntu 相关的信息，并初步掌握缺陷报告的方法。"
 
 #: chapter9/xinclude.xml:1019(para)
 msgid ""

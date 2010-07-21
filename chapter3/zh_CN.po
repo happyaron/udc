@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-06-24 17:20+0800\n"
-"PO-Revision-Date: 2010-06-21 22:53+0800\n"
+"PO-Revision-Date: 2010-07-21 20:17+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -1224,7 +1224,14 @@ msgid ""
 "role=\"strong\">Bookmarks</emphasis> menu."
 msgstr ""
 "要给书签排序或创建新文件夹，在 <emphasis role=\"strong\">书签</emphasis> 菜单"
-"中选择 <emphasis role=\"strong\">管理书签</emphasis>。"
+"中选择 <emphasis role=\"strong\">管理书签</emphasis> 打开 "
+"<emphasis role=\"strong\">我的足迹</emphasis> 对话框。"
+
+msgid "Organize Bookmarks"
+msgstr "管理书签"
+
+msgid "Library"
+msgstr "我的足迹"
 
 #: chapter3/xinclude.xml:550(title)
 msgid "Using an RSS feed reader"
@@ -2437,6 +2444,9 @@ msgstr ""
 "Linphone 是跨平台程序，除支持 Linux 外，也可以在 Windows 和 Mac OSX 上使用，"
 "详情请参见 <ulink url=\"http://www.linphone.org\"http://www.linphone.org</"
 "ulink>"
+
+msgid "Bookmark this page"
+msgstr "将此页加为书签"
 
 #: chapter3/xinclude.xml:1672(title)
 msgid "Skype"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2009-12-31 22:30+0800\n"
-"PO-Revision-Date: 2010-06-29 21:06+0800\n"
+"PO-Revision-Date: 2010-07-21 20:33+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -673,6 +673,9 @@ msgstr "使用 Inkscape 创建矢量图形"
 #: chapter7/xinclude.xml:732(para)
 msgid "To utilise the full potential of this application requires some hands-on experience on similar applications. This topic introduces students to Inkscape and covers the basic concepts. To engage students with some prior experience, use an example from the help manual and make them perform the steps given in the manual."
 msgstr "想要充分利用好这个应用程序，要求有一些在相似应用程序上的实践经验。本节内容向学生们介绍了 Inkscape 及其基本概念。为了满足一些有经验学生的需要，下面将使用一个帮助手册里的例子并按手册里的步骤进行操作。"
+
+msgid "Inkscape main UI"
+msgstr "Inkscape 主界面"
 
 # 不确定
 #: chapter7/xinclude.xml:740(title)

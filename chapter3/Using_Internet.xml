@@ -99,7 +99,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson04_images_001.png" format="PNG"
+            <imagedata fileref="images/Lesson04_images_001.jpg" format="JPG"
                        width="10cm" />
           </imageobject>
         </mediaobject>
@@ -114,7 +114,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson04_images_002.png" format="PNG"
+            <imagedata fileref="images/Lesson04_images_002.jpg" format="JPG"
                        width="10cm" />
           </imageobject>
         </mediaobject>
@@ -142,7 +142,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_003.png" format="PNG" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_003.jpg" format="JPG" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -157,8 +157,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_004.png"
-                           format="PNG" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_004.jpg"
+                           format="JPG" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -214,8 +214,8 @@
 
                 <mediaobject>
                   <imageobject>
-                    <imagedata fileref="images/Lesson04_images_005.png"
-                               format="PNG" width="9cm" />
+                    <imagedata fileref="images/Lesson04_images_005.jpg"
+                               format="JPG" width="9cm" />
                   </imageobject>
                 </mediaobject>
               </figure>
@@ -232,8 +232,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_006.png"
-                           format="PNG" vendor="" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_006.jpg"
+                           format="JPG" vendor="" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -289,8 +289,8 @@
 
                 <mediaobject>
                   <imageobject>
-                    <imagedata fileref="images/Lesson04_images_009.png"
-                               format="PNG" width="10cm" />
+                    <imagedata fileref="images/Lesson04_images_009.jpg"
+                               format="JPG" width="10cm" />
                   </imageobject>
                 </mediaobject>
               </figure>
@@ -317,8 +317,8 @@
 
                 <mediaobject>
                   <imageobject>
-                    <imagedata fileref="images/Lesson04_images_010.png"
-                               format="PNG" width="10cm" />
+                    <imagedata fileref="images/Lesson04_images_010.jpg"
+                               format="JPG" width="10cm" />
                   </imageobject>
                 </mediaobject>
               </figure>
@@ -354,8 +354,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_008.png"
-                           format="PNG" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_008.jpg"
+                           format="JPG" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -373,8 +373,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_007.png"
-                           format="PNG" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_007.jpg"
+                           format="JPG" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -466,7 +466,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson04_images_011.png" format="PNG"
+            <imagedata fileref="images/Lesson04_images_011.jpg" format="JPG"
                        width="12cm" />
           </imageobject>
         </mediaobject>
@@ -498,7 +498,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_012.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_012.jpg" format="JPG"
                          width="6cm" />
             </imageobject>
           </mediaobject>
@@ -527,7 +527,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="images/Lesson04_images_013.png" format="PNG"
+          <imagedata fileref="images/Lesson04_images_013.jpg" format="JPG"
                      width="7cm" />
         </imageobject>
       </mediaobject>
@@ -558,8 +558,18 @@
 
       <step performance="required">
         <para>Open the Firefox Web browser. On the <emphasis role="strong">Bookmarks</emphasis> menu, click on <emphasis role="strong">Bookmark this page</emphasis>.</para>
-      </step>
 
+      <figure float="0">
+          <title><emphasis role="italic">Bookmark this page</emphasis></title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson04_images_016.jpg" format="JPG"
+                         width="6cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </step>
       <step performance="required">
          <para>The Bookmarks dialog box will appear. Select a location to save the new bookmark and add any tags (keywords). </para>
       </step>
@@ -570,6 +580,26 @@
     </procedure>
 
     <para>To sort your bookmarks and create new folders, or categories, select <emphasis role="strong">Organize Bookmarks</emphasis> from the <emphasis role="strong">Bookmarks</emphasis> menu.</para>
+      <figure float="0">
+          <title><emphasis role="italic">Organize Bookmarks</emphasis></title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson04_images_014.jpg" format="JPG"
+                         width="6cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+      <figure float="0">
+          <title><emphasis role="italic">Library</emphasis></title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="images/Lesson04_images_015.jpg" format="JPG"
+                         width="6cm" />
+            </imageobject>
+          </mediaobject>
+        </figure>
   </sect1>
 
   <sect1>
@@ -606,7 +636,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson04_images_017.png" format="PNG"
+            <imagedata fileref="images/Lesson04_images_017.jpg" format="JPG"
                        width="17cm" />
           </imageobject>
         </mediaobject>
@@ -639,8 +669,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_019.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_019.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -657,8 +687,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_020.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_020.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -676,8 +706,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_021.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_021.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -694,8 +724,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_022.png"
-                           format="PNG" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_022.jpg"
+                           format="JPG" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -707,8 +737,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_023.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_023.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -779,8 +809,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_033.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_033.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -807,8 +837,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_034.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_034.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -827,8 +857,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_035.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_035.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -848,8 +878,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_036.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_036.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -882,8 +912,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_037.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_037.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -957,8 +987,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_038.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_038.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1000,8 +1030,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_039.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_039.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1031,8 +1061,8 @@
 
                 <mediaobject>
                   <imageobject>
-                    <imagedata fileref="images/Lesson04_images_040.png"
-                               format="PNG" width="11cm" />
+                    <imagedata fileref="images/Lesson04_images_040.jpg"
+                               format="JPG" width="11cm" />
                   </imageobject>
                 </mediaobject>
               </figure>
@@ -1086,8 +1116,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_041.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_041.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1102,8 +1132,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_042.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_042.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1118,8 +1148,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_043.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_043.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1174,8 +1204,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_044.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_044.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1217,8 +1247,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_045.png"
-                           format="PNG" width="10cm" />
+                <imagedata fileref="images/Lesson04_images_045.jpg"
+                           format="JPG" width="10cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1241,8 +1271,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_046.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_046.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1264,8 +1294,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_047.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_047.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1290,8 +1320,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_048.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_048.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1301,8 +1331,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_049.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_049.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1335,8 +1365,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_050.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_050.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1364,8 +1394,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_051.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_051.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1384,8 +1414,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_052.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_052.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1427,8 +1457,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_053.png"
-                           format="PNG" vendor="" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_053.jpg"
+                           format="JPG" vendor="" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1500,7 +1530,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_054.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_054.jpg" format="JPG"
                          width="11cm" />
             </imageobject>
           </mediaobject>
@@ -1517,7 +1547,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_055.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_055.jpg" format="JPG"
                          width="12cm" />
             </imageobject>
           </mediaobject>
@@ -1541,7 +1571,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_056.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_056.jpg" format="JPG"
                          width="12cm" />
             </imageobject>
           </mediaobject>
@@ -1559,7 +1589,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_057.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_057.jpg" format="JPG"
                          width="12cm" />
             </imageobject>
           </mediaobject>
@@ -1585,7 +1615,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_058.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_058.jpg" format="JPG"
                          width="9cm" />
             </imageobject>
           </mediaobject>
@@ -1610,7 +1640,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson04_images_061.png" format="PNG"
+              <imagedata fileref="images/Lesson04_images_061.jpg" format="JPG"
                          width="11cm" />
             </imageobject>
           </mediaobject>
@@ -1677,8 +1707,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_062.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_062.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1697,8 +1727,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_063.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_063.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1716,8 +1746,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_064.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_064.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1738,8 +1768,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_065.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_065.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1761,8 +1791,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_068.png"
-                           format="PNG" width="12cm" />
+                <imagedata fileref="images/Lesson04_images_068.jpg"
+                           format="JPG" width="12cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1826,8 +1856,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_074.png"
-                           format="PNG" width="8cm" />
+                <imagedata fileref="images/Lesson04_images_074.jpg"
+                           format="JPG" width="8cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1847,8 +1877,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_075.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_075.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1870,8 +1900,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_076.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_076.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1892,8 +1922,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_077.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_077.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1908,8 +1938,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_078.png"
-                           format="PNG" width="15cm" />
+                <imagedata fileref="images/Lesson04_images_078.jpg"
+                           format="JPG" width="15cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1927,8 +1957,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_079.png"
-                           format="PNG" width="17cm" />
+                <imagedata fileref="images/Lesson04_images_079.jpg"
+                           format="JPG" width="17cm" />
               </imageobject>
             </mediaobject>
           </figure>
@@ -1946,8 +1976,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson04_images_080.png"
-                           format="PNG" width="11cm" />
+                <imagedata fileref="images/Lesson04_images_080.jpg"
+                           format="JPG" width="11cm" />
               </imageobject>
             </mediaobject>
           </figure>
