@@ -430,11 +430,12 @@
       		But in some software,they are used as 1024 base,such as 1GB is considered as 1024MB.
       		At the same time,the hardware manufacturers use 1000 base.In order to prevent ambiguity,
       		nowdays,some softwares perfered to use K,M,G etc as 1000 base,and Ki,Mi,Gi etc as 1024 base.
-      		In this book,we just do so.B is short of byte,which is 8 bit.
-      		When ISPs talking about the speed of network,they usually use bit.
-      		1Kbps is 1000 bit per second,then it is 1000/8 B/s=125B/s;1Mbps is 1000*1000/8/1024=122.0703125 KB/s;
-      		1Gbps is 1000*1000*1000/8/1024/1024=119.20928955078125 MB/s.
-      		</para>
+      		In this book,we just do so.</para>
+      		<para> B is short of byte,which is 8 bit.
+      		When ISPs talking about the speed of network,they usually use bit.</para>
+      		<para>1Kbps is 1000 bit per second,then it is 1000/8 B/s=125B/s;</para>
+      		<para>1Mbps is 1000*1000/8/1024=122.0703125 KB/s;</para>
+      		<para>1Gbps is 1000*1000*1000/8/1024/1024=119.20928955078125 MB/s.</para>
     	</tip>
 
         <step performance="required">
