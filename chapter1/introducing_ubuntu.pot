@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-21 22:05+0800\n"
+"POT-Creation-Date: 2010-07-24 19:26+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,67 +12,67 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:136(None)
-msgid "@@image: 'images/chapter1_img_02.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/chapter1_img_02.jpg'; md5=a711e56944f2b514b51588f7f9f994d7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:194(None)
-msgid "@@image: 'images/chapter1_img_03.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/chapter1_img_03.jpg'; md5=988b20219db94705fd392ad0c972f84f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:240(None)
-msgid "@@image: 'images/chapter1_img_04.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/chapter1_img_04.jpg'; md5=a9717c5dede94c34004ab8b1a297ea04"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:320(None)
-msgid "@@image: 'images/chapter1_img_05.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/chapter1_img_05.jpg'; md5=2940b737ea7bcc4d5372c52dc8331fa5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:853(None)
-msgid "@@image: 'images/Lesson02_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_001.jpg'; md5=1af4200a49801c620b1208d42a39894f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:896(None)
-msgid "@@image: 'images/Lesson02_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_003.jpg'; md5=596790914ecfb68117cf0c58b6c11737"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:922(None)
-msgid "@@image: 'images/Lesson02_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_004.jpg'; md5=be55579108aa97de91413da1e5cb6197"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:1080(None)
-msgid "@@image: 'images/Lesson02_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_006.jpg'; md5=91f29efb14e749c5de9150d19c752ead"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:1270(None)
-msgid "@@image: 'images/Lesson02_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_008.jpg'; md5=8b8c92dde10b6acc165242f3695acc38"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:1286(None)
-msgid "@@image: 'images/Lesson02_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_009.jpg'; md5=5270818f1342a64837f7e0c7c18fd5bb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter1/xinclude.xml:1327(None)
-msgid "@@image: 'images/Lesson02_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson02_images_010.jpg'; md5=cd868bd08ff525fe72cb530febf7654c"
 msgstr ""
 
 #: chapter1/xinclude.xml:4(title)

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-07-21 21:50+0800\n"
+"POT-Creation-Date: 2010-07-24 19:26+0800\n"
 "PO-Revision-Date: 2010-07-24 19:22+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -19,53 +19,65 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:101(None)
- 
-msgid "@@image: 'images/Lesson04_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_001.jpg'; "
+"md5=5b300fde0867fffe7e549812695ca6c1"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_002.png'; "
+"md5=40caf7d7cf7b1e74d91fe31b65985314"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:115(None)
- 
-msgid "@@image: 'images/Lesson04_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_002.jpg'; "
+"md5=0d42fbef08b82b2e57a086501994dbc6"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_012.png'; "
+"md5=eab8ec9a280b3b21e7a505051361f842"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:141(None)
- 
-msgid "@@image: 'images/Lesson04_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_003.jpg'; "
+"md5=2fe35a8433e6a24c0a9b1de690c332fc"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_017.png'; "
+"md5=b98f0f92235e06e4b06fc2f5e13836c3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:156(None)
- 
-msgid "@@image: 'images/Lesson04_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_004.jpg'; "
+"md5=6392ff5befc04109d1666f00aa5fe2c0"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_045.png'; "
+"md5=83a998f5092dbff5801950cb4e65bc06"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:210(None)
- 
-msgid "@@image: 'images/Lesson04_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_005.jpg'; "
+"md5=03ed802f473a3ed9168ca42cdf94f758"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_054.png'; "
+"md5=5eaf0d79120309afd3d6b747ce225a47"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:227(None)
- 
-msgid "@@image: 'images/Lesson04_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_006.jpg'; "
+"md5=1121c9833c6ad6a005f3dfc45fe4b7b7"
 msgstr ""
 "@@image: 'images/Lesson04_images_003.png'; "
 "md5=d8a423aec2107af7167da362700dfdf4"
@@ -73,170 +85,208 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:280(None)
- 
-msgid "@@image: 'images/Lesson04_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_009.jpg'; "
+"md5=824f2bb01954543e1a140306c42beda3"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_001.png'; "
+"md5=d4b9be193d949947c9167b9a1540708c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:307(None)
- 
-msgid "@@image: 'images/Lesson04_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_010.jpg'; "
+"md5=4c46c0ca8003769e77e285327a3bd47e"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_061.png'; "
+"md5=664bdf46e036d5cdba337719e3c0a094"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:342(None)
- 
-msgid "@@image: 'images/Lesson04_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_008.jpg'; "
+"md5=1c9677a968f9d1771c51839e0778966b"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_050.png'; "
+"md5=8167fd7d3643de94c0e796864c1166c7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:360(None)
- 
-msgid "@@image: 'images/Lesson04_images_007.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_007.jpg'; "
+"md5=2d89f74f04abc1c00f30761265e4b0ae"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_020.png'; "
+"md5=4949755a8bfc1cb6ce020f2354177a51"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:446(None)
- 
-msgid "@@image: 'images/Lesson04_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_011.jpg'; "
+"md5=46be9a34938b8752dc4e4a5e74671e13"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_001.png'; "
+"md5=d4b9be193d949947c9167b9a1540708c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:477(None)
- 
-msgid "@@image: 'images/Lesson04_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_012.jpg'; "
+"md5=5d09590d300f2ed30c12495d75d06279"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_007.png'; "
+"md5=5fd75fdd4c45f196694b1a886cdb449f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:505(None)
- 
-msgid "@@image: 'images/Lesson04_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_013.jpg'; "
+"md5=5cc369adc7f54ea88780833e742b8efd"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_011.png'; "
+"md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:541(None)
- 
-msgid "@@image: 'images/Lesson04_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_016.jpg'; "
+"md5=e4673784ea6cbb43e8e98dc9328303d5"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_023.png'; "
+"md5=8d682e3cb2b6e2c64de99206536e8a53"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:561(None)
- 
-msgid "@@image: 'images/Lesson04_images_014.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_014.jpg'; "
+"md5=9b86861703991c05f25c3168010ec12c"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_054.png'; "
+"md5=5eaf0d79120309afd3d6b747ce225a47"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:570(None)
- 
-msgid "@@image: 'images/Lesson04_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_015.jpg'; "
+"md5=b1233b328982ee8dea75491f14a3b0ee"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_021.png'; "
+"md5=b782b7eeec4a4ff553b265befa41e57b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:609(None)
- 
-msgid "@@image: 'images/Lesson04_images_017.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_017.jpg'; "
+"md5=35a381685123d74a97abccd96226330a"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_067.png'; "
+"md5=e513272161d7a6fb819abe906f1f5301"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:641(None)
- 
-msgid "@@image: 'images/Lesson04_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_019.jpg'; "
+"md5=9a0a9ee37ae665c1baa65aa901ffa1a1"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_067.png'; "
+"md5=e513272161d7a6fb819abe906f1f5301"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:655(None)
- 
-msgid "@@image: 'images/Lesson04_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_020.jpg'; "
+"md5=e55d4a08e6ae2f73bfa3ef952279960c"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_019.png'; "
+"md5=4e14a40f1f3403faeb3994e799262a90"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:671(None)
- 
-msgid "@@image: 'images/Lesson04_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_021.jpg'; "
+"md5=79112974e5a8c5c3227efb99f1abe43e"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_021.png'; "
+"md5=b782b7eeec4a4ff553b265befa41e57b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:687(None)
- 
-msgid "@@image: 'images/Lesson04_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_022.jpg'; "
+"md5=a4582cdebae863053b8ee1a946890992"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_012.png'; "
+"md5=eab8ec9a280b3b21e7a505051361f842"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:699(None)
- 
-msgid "@@image: 'images/Lesson04_images_023.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_023.jpg'; "
+"md5=b509b4e5b2a3ad2dd3b273aaf5dc7301"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_038.png'; "
+"md5=5f47a11060c391c25d36e4b2ed5dce1f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:769(None)
- 
-msgid "@@image: 'images/Lesson04_images_033.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_033.jpg'; "
+"md5=ef4f0b880a24b39b9b163ee321dc5bdf"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_038.png'; "
+"md5=5f47a11060c391c25d36e4b2ed5dce1f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:795(None)
- 
-msgid "@@image: 'images/Lesson04_images_034.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_034.jpg'; "
+"md5=967ae3fc1039f9420c1bcc994d88fbb3"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_052.png'; "
+"md5=fd2495b8d232ac53a24a0a7caf3879b4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:814(None)
- 
-msgid "@@image: 'images/Lesson04_images_035.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_035.jpg'; "
+"md5=a1c3ddfc62e3f08a31fe077f1da2d44f"
 msgstr ""
 "@@image: 'images/Lesson04_images_003.png'; "
 "md5=d8a423aec2107af7167da362700dfdf4"
@@ -244,26 +294,32 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:833(None)
- 
-msgid "@@image: 'images/Lesson04_images_036.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_036.jpg'; "
+"md5=52841e53c01a262301d0154427542fc2"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_036.png'; "
+"md5=dfb83b07bce60222f1c1394d63742a18"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:861(None)
- 
-msgid "@@image: 'images/Lesson04_images_037.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_037.jpg'; "
+"md5=adf57caf6d7ed671f218e5de401dab18"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_002.png'; "
+"md5=40caf7d7cf7b1e74d91fe31b65985314"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:930(None)
- 
-msgid "@@image: 'images/Lesson04_images_038.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_038.jpg'; "
+"md5=a23a0c8ac01af40ba479d37e3d94bfbc"
 msgstr ""
 "@@image: 'images/Lesson04_images_003.png'; "
 "md5=d8a423aec2107af7167da362700dfdf4"
@@ -271,26 +327,32 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:972(None)
- 
-msgid "@@image: 'images/Lesson04_images_039.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_039.jpg'; "
+"md5=138e6ac48238099f79d6e384ed728b84"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_049.png'; "
+"md5=e05337e94949d316e7d33f04e8fdc7ef"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1001(None)
- 
-msgid "@@image: 'images/Lesson04_images_040.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_040.jpg'; "
+"md5=7ceb898088cb6500c78823080f4c80a7"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_065.png'; "
+"md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1050(None)
- 
-msgid "@@image: 'images/Lesson04_images_041.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_041.jpg'; "
+"md5=749cc2a49c83d4207a0a33e76027f080"
 msgstr ""
 "@@image: 'images/Lesson04_images_003.png'; "
 "md5=d8a423aec2107af7167da362700dfdf4"
@@ -298,272 +360,332 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1064(None)
- 
-msgid "@@image: 'images/Lesson04_images_042.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_042.jpg'; "
+"md5=732bb6136ea464183d5df09a3c5faf1a"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_010.png'; "
+"md5=3bb983caea9be44ab613cecff92574c6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1079(None)
- 
-msgid "@@image: 'images/Lesson04_images_043.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_043.jpg'; "
+"md5=96ceb31eb9d280ca0e11870247c67f11"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_057.png'; "
+"md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1133(None)
- 
-msgid "@@image: 'images/Lesson04_images_044.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_044.jpg'; "
+"md5=5b9c3d92506b3cf9fb74f28a093a1512"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_012.png'; "
+"md5=eab8ec9a280b3b21e7a505051361f842"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1171(None)
- 
-msgid "@@image: 'images/Lesson04_images_045.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_045.jpg'; "
+"md5=f44d2714da99bf9e6f73056e0a006981"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_046.png'; "
+"md5=f4eed7931ec8afd949fa4ea1316c6d99"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1194(None)
- 
-msgid "@@image: 'images/Lesson04_images_046.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_046.jpg'; "
+"md5=b5a6cffc09b4385890815cdf1efa7ea8"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_006.png'; "
+"md5=0c4ef52c58192df4a48f401fe4a9a800"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1216(None)
- 
-msgid "@@image: 'images/Lesson04_images_047.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_047.jpg'; "
+"md5=fac60568e7343209582028384b775961"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_020.png'; "
+"md5=4949755a8bfc1cb6ce020f2354177a51"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1240(None)
- 
-msgid "@@image: 'images/Lesson04_images_048.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_048.jpg'; "
+"md5=1f7828b458c6ed987c142960aa322d3a"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_047.png'; "
+"md5=f9fe38e518e0dfc822d90b576a1aaf94"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1250(None)
- 
-msgid "@@image: 'images/Lesson04_images_049.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_049.jpg'; "
+"md5=ce2309977da197625e8f68b37382d274"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_049.png'; "
+"md5=e05337e94949d316e7d33f04e8fdc7ef"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1283(None)
- 
-msgid "@@image: 'images/Lesson04_images_050.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_050.jpg'; "
+"md5=b7e645b172149715648ea6e6d5fbd1a9"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_038.png'; "
+"md5=5f47a11060c391c25d36e4b2ed5dce1f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1311(None)
- 
-msgid "@@image: 'images/Lesson04_images_051.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_051.jpg'; "
+"md5=4c351889d751375ddef237a998bf8092"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_059.png'; "
+"md5=6448c43e3f7ef377d62dafad0aef2747"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1329(None)
- 
-msgid "@@image: 'images/Lesson04_images_052.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_052.jpg'; "
+"md5=d9801ea0b0f2587ffc8ce244be4c0825"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_065.png'; "
+"md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1371(None)
- 
-msgid "@@image: 'images/Lesson04_images_053.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_053.jpg'; "
+"md5=e63b00c70fed896551fa9711bba6be53"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_002.png'; "
+"md5=40caf7d7cf7b1e74d91fe31b65985314"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1443(None)
- 
-msgid "@@image: 'images/Lesson04_images_054.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_054.jpg'; "
+"md5=c0d462fe8050fb824949aa982ecbc31f"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_044.png'; "
+"md5=84b66e8bb82b84532673d9ec301f8ce5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1459(None)
- 
-msgid "@@image: 'images/Lesson04_images_055.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_055.jpg'; "
+"md5=10a82fdd4873ac5820435d6060fc03f9"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_052.png'; "
+"md5=fd2495b8d232ac53a24a0a7caf3879b4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1480(None)
- 
-msgid "@@image: 'images/Lesson04_images_056.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_056.jpg'; "
+"md5=f8f079b699c8957b762ef68a7c673b64"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_055.png'; "
+"md5=2ef5c7beec99566c262fa20e47c9b6b1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1495(None)
- 
-msgid "@@image: 'images/Lesson04_images_057.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_057.jpg'; "
+"md5=738b88bb76fc598848e895259d6220e9"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_055.png'; "
+"md5=2ef5c7beec99566c262fa20e47c9b6b1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1518(None)
- 
-msgid "@@image: 'images/Lesson04_images_058.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_058.jpg'; "
+"md5=aa835c4f1540afaf04b1fe89216da545"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_019.png'; "
+"md5=4e14a40f1f3403faeb3994e799262a90"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1539(None)
- 
-msgid "@@image: 'images/Lesson04_images_061.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_061.jpg'; "
+"md5=5739c03fd3da8fddf8323f88fd330a02"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_005.png'; "
+"md5=f90ddad622b7e1d9d450f84d37ba2691"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1604(None)
- 
-msgid "@@image: 'images/Lesson04_images_062.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_062.jpg'; "
+"md5=5aef2005d2e6185029ade47d84cfb363"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_040.png'; "
+"md5=2fd83aed2e712e85d8e644fbfe03b004"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1622(None)
- 
-msgid "@@image: 'images/Lesson04_images_063.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_063.jpg'; "
+"md5=8049d2e377304904b96a6cb0a6551286"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_017.png'; "
+"md5=b98f0f92235e06e4b06fc2f5e13836c3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1639(None)
- 
-msgid "@@image: 'images/Lesson04_images_064.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_064.jpg'; "
+"md5=a77461aff7a768bf3aba6dd6bb87939f"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_061.png'; "
+"md5=664bdf46e036d5cdba337719e3c0a094"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1660(None)
- 
-msgid "@@image: 'images/Lesson04_images_065.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_065.jpg'; "
+"md5=dd34c39b6b25db0fcfa1d3c4ff68c909"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_045.png'; "
+"md5=83a998f5092dbff5801950cb4e65bc06"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1680(None)
- 
-msgid "@@image: 'images/Lesson04_images_068.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_068.jpg'; "
+"md5=6e2573793d4db954d3bdb31f87ab8778"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_049.png'; "
+"md5=e05337e94949d316e7d33f04e8fdc7ef"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1743(None)
- 
-msgid "@@image: 'images/Lesson04_images_074.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_074.jpg'; "
+"md5=31f9de9753ba7e71cb5ead6015d4b748"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_043.png'; "
+"md5=ae0f9ea99f7e34c777bf523e69511a73"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1763(None)
- 
-msgid "@@image: 'images/Lesson04_images_075.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_075.jpg'; "
+"md5=e5fb0785697d702b1fb0d1cadecaca3f"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_063.png'; "
+"md5=5d22807688590b901e792f2ab5e0c30b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1785(None)
- 
-msgid "@@image: 'images/Lesson04_images_076.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_076.jpg'; "
+"md5=0024c2a522aec813aaff4202f6551740"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_006.png'; "
+"md5=0c4ef52c58192df4a48f401fe4a9a800"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1806(None)
- 
-msgid "@@image: 'images/Lesson04_images_077.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_077.jpg'; "
+"md5=636c51e2c5db39e7d8c33fd2b952c151"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_017.png'; "
+"md5=b98f0f92235e06e4b06fc2f5e13836c3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1821(None)
- 
-msgid "@@image: 'images/Lesson04_images_078.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_078.jpg'; "
+"md5=a2e8d7aa55e438c9a2c0cc6bbedb02bb"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_034.png'; "
+"md5=437a2cddd755d263e8aec6aabb8de2d4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1839(None)
- 
-msgid "@@image: 'images/Lesson04_images_079.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_079.jpg'; "
+"md5=d57905768c51bc0a197f803a190bc051"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_063.png'; "
+"md5=5d22807688590b901e792f2ab5e0c30b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1857(None)
- 
-msgid "@@image: 'images/Lesson04_images_080.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson04_images_080.jpg'; "
+"md5=06527594410da5ceba512f4aa119ff54"
 msgstr ""
-"@@image: 'images/Lesson04_images_003.png'; "
-"md5=d8a423aec2107af7167da362700dfdf4"
+"@@image: 'images/Lesson04_images_006.png'; "
+"md5=0c4ef52c58192df4a48f401fe4a9a800"
 
 #: chapter3/xinclude.xml:4(title)
 msgid "Using the Internet"
@@ -2976,22 +3098,367 @@ msgstr ""
 "  王英华 https://launchpad.net/~wantinghard"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_001.png'; "
-#~ "md5=d4b9be193d949947c9167b9a1540708c"
+#~ "@@image: 'images/Lesson04_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
 #~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_001.png'; "
-#~ "md5=d4b9be193d949947c9167b9a1540708c"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_002.png'; "
-#~ "md5=40caf7d7cf7b1e74d91fe31b65985314"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_002.png'; "
-#~ "md5=40caf7d7cf7b1e74d91fe31b65985314"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_003.png'; "
 #~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_007.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_014.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_017.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_023.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_033.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_034.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_035.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_036.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_037.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_038.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_039.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_040.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_041.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_042.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_043.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_044.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_045.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_046.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_047.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_048.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_049.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_050.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_051.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_052.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_053.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_054.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_055.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_056.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_057.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_058.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_061.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_062.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_063.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_064.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_065.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_068.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_074.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_075.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_076.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_077.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_078.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_079.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_003.png'; "
+#~ "md5=d8a423aec2107af7167da362700dfdf4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_080.jpg'; md5=THIS FILE DOESN'T EXIST"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_003.png'; "
 #~ "md5=d8a423aec2107af7167da362700dfdf4"
@@ -3004,39 +3471,11 @@ msgstr ""
 #~ "md5=d8750abf1bde2b7adfbb50d527786646"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_005.png'; "
-#~ "md5=f90ddad622b7e1d9d450f84d37ba2691"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_005.png'; "
-#~ "md5=f90ddad622b7e1d9d450f84d37ba2691"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_006.png'; "
-#~ "md5=0c4ef52c58192df4a48f401fe4a9a800"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_006.png'; "
-#~ "md5=0c4ef52c58192df4a48f401fe4a9a800"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_009.png'; "
 #~ "md5=bdd3d023838ec3db87180769e12a24ac"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_009.png'; "
 #~ "md5=bdd3d023838ec3db87180769e12a24ac"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_010.png'; "
-#~ "md5=3bb983caea9be44ab613cecff92574c6"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_010.png'; "
-#~ "md5=3bb983caea9be44ab613cecff92574c6"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_008.png'; "
-#~ "md5=bf584a76c9cb521d7bd7d25568986fef"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_038.png'; "
-#~ "md5=5f47a11060c391c25d36e4b2ed5dce1f"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_007.png'; "
@@ -3046,53 +3485,11 @@ msgstr ""
 #~ "md5=5fd75fdd4c45f196694b1a886cdb449f"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_011.png'; "
-#~ "md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_011.png'; "
-#~ "md5=db5bcc1b2ad675d1ca0a51f07e0859e7"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_012.png'; "
-#~ "md5=eab8ec9a280b3b21e7a505051361f842"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_012.png'; "
-#~ "md5=eab8ec9a280b3b21e7a505051361f842"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_013.png'; "
 #~ "md5=bebf42a7ceaf3b6b015e7fdf60426267"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_013.png'; "
 #~ "md5=bebf42a7ceaf3b6b015e7fdf60426267"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_017.png'; "
-#~ "md5=b98f0f92235e06e4b06fc2f5e13836c3"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_017.png'; "
-#~ "md5=b98f0f92235e06e4b06fc2f5e13836c3"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_019.png'; "
-#~ "md5=4e14a40f1f3403faeb3994e799262a90"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_019.png'; "
-#~ "md5=4e14a40f1f3403faeb3994e799262a90"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_020.png'; "
-#~ "md5=4949755a8bfc1cb6ce020f2354177a51"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_020.png'; "
-#~ "md5=4949755a8bfc1cb6ce020f2354177a51"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_021.png'; "
-#~ "md5=b782b7eeec4a4ff553b265befa41e57b"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_021.png'; "
-#~ "md5=b782b7eeec4a4ff553b265befa41e57b"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_022.png'; "
@@ -3102,25 +3499,11 @@ msgstr ""
 #~ "md5=91dfbb6b2a086a36221e81498a8e8581"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_023.png'; "
-#~ "md5=8d682e3cb2b6e2c64de99206536e8a53"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_023.png'; "
-#~ "md5=8d682e3cb2b6e2c64de99206536e8a53"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_033.png'; "
 #~ "md5=03de1f5df797949eccb8f8eff28ac818"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_033.png'; "
 #~ "md5=03de1f5df797949eccb8f8eff28ac818"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_034.png'; "
-#~ "md5=437a2cddd755d263e8aec6aabb8de2d4"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_034.png'; "
-#~ "md5=437a2cddd755d263e8aec6aabb8de2d4"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_035.png'; "
@@ -3130,13 +3513,6 @@ msgstr ""
 #~ "md5=3345b54e883daebe553840e9cfe39a76"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_036.png'; "
-#~ "md5=dfb83b07bce60222f1c1394d63742a18"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_036.png'; "
-#~ "md5=dfb83b07bce60222f1c1394d63742a18"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_037.png'; "
 #~ "md5=97ec38036bb8f12dd506c17f1e7e2280"
 #~ msgstr ""
@@ -3144,25 +3520,11 @@ msgstr ""
 #~ "md5=97ec38036bb8f12dd506c17f1e7e2280"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_038.png'; "
-#~ "md5=5f47a11060c391c25d36e4b2ed5dce1f"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_038.png'; "
-#~ "md5=5f47a11060c391c25d36e4b2ed5dce1f"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_039.png'; "
 #~ "md5=a6d421f12ddf48a6ee0cfa08d8458f73"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_039.png'; "
 #~ "md5=a6d421f12ddf48a6ee0cfa08d8458f73"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_040.png'; "
-#~ "md5=2fd83aed2e712e85d8e644fbfe03b004"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_040.png'; "
-#~ "md5=2fd83aed2e712e85d8e644fbfe03b004"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_041.png'; "
@@ -3179,41 +3541,6 @@ msgstr ""
 #~ "md5=c98e352cb573bc4baf00b6cbcd47c122"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_043.png'; "
-#~ "md5=ae0f9ea99f7e34c777bf523e69511a73"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_043.png'; "
-#~ "md5=ae0f9ea99f7e34c777bf523e69511a73"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_044.png'; "
-#~ "md5=84b66e8bb82b84532673d9ec301f8ce5"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_044.png'; "
-#~ "md5=84b66e8bb82b84532673d9ec301f8ce5"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_045.png'; "
-#~ "md5=83a998f5092dbff5801950cb4e65bc06"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_045.png'; "
-#~ "md5=83a998f5092dbff5801950cb4e65bc06"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_046.png'; "
-#~ "md5=f4eed7931ec8afd949fa4ea1316c6d99"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_046.png'; "
-#~ "md5=f4eed7931ec8afd949fa4ea1316c6d99"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_047.png'; "
-#~ "md5=f9fe38e518e0dfc822d90b576a1aaf94"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_047.png'; "
-#~ "md5=f9fe38e518e0dfc822d90b576a1aaf94"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_048.png'; "
 #~ "md5=bad4d554f3eb6a0aec058e512e65aefe"
 #~ msgstr ""
@@ -3221,32 +3548,11 @@ msgstr ""
 #~ "md5=bad4d554f3eb6a0aec058e512e65aefe"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_049.png'; "
-#~ "md5=e05337e94949d316e7d33f04e8fdc7ef"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_049.png'; "
-#~ "md5=e05337e94949d316e7d33f04e8fdc7ef"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_050.png'; "
-#~ "md5=8167fd7d3643de94c0e796864c1166c7"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_050.png'; "
-#~ "md5=8167fd7d3643de94c0e796864c1166c7"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_051.png'; "
 #~ "md5=3f28b42dd1fa02530ec17a348dd4a364"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_051.png'; "
 #~ "md5=3f28b42dd1fa02530ec17a348dd4a364"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_052.png'; "
-#~ "md5=fd2495b8d232ac53a24a0a7caf3879b4"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_052.png'; "
-#~ "md5=fd2495b8d232ac53a24a0a7caf3879b4"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_053.png'; "
@@ -3263,25 +3569,11 @@ msgstr ""
 #~ "md5=5eaf0d79120309afd3d6b747ce225a47"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_055.png'; "
-#~ "md5=2ef5c7beec99566c262fa20e47c9b6b1"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_055.png'; "
-#~ "md5=2ef5c7beec99566c262fa20e47c9b6b1"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_056.png'; "
 #~ "md5=439085aa024594823dc364c42985bc55"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_056.png'; "
 #~ "md5=439085aa024594823dc364c42985bc55"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_057.png'; "
-#~ "md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_057.png'; "
-#~ "md5=6ce7d17ebf16ccd0c406837bc9cf6f86"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_058.png'; "
@@ -3291,25 +3583,11 @@ msgstr ""
 #~ "md5=095e9d1a3bceb3597b6e23015c596dfa"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_061.png'; "
-#~ "md5=664bdf46e036d5cdba337719e3c0a094"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_061.png'; "
-#~ "md5=664bdf46e036d5cdba337719e3c0a094"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_062.png'; "
 #~ "md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_062.png'; "
 #~ "md5=5b08c1b7629c085c39d0e4dfb0b5bf00"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_063.png'; "
-#~ "md5=5d22807688590b901e792f2ab5e0c30b"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_063.png'; "
-#~ "md5=5d22807688590b901e792f2ab5e0c30b"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_064.png'; "
@@ -3319,60 +3597,11 @@ msgstr ""
 #~ "md5=45f2616f137fb9560478644e2abb4684"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson04_images_065.png'; "
-#~ "md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_065.png'; "
-#~ "md5=790afcbc0bc0e5b4acb4a7b8f41c8b57"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson04_images_068.png'; "
 #~ "md5=23abfd38e1d159df3d6ebc2a45d96ec1"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_068.png'; "
 #~ "md5=23abfd38e1d159df3d6ebc2a45d96ec1"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_074.png'; "
-#~ "md5=3539f9a66051a6cdd4c1991b6523a115"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_067.png'; "
-#~ "md5=e513272161d7a6fb819abe906f1f5301"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_075.png'; "
-#~ "md5=806386359107f4923aa0735217c2d504"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_054.png'; "
-#~ "md5=5eaf0d79120309afd3d6b747ce225a47"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_076.png'; "
-#~ "md5=adc235ff1e0759b839af4c97447c87bb"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_052.png'; "
-#~ "md5=fd2495b8d232ac53a24a0a7caf3879b4"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_077.png'; "
-#~ "md5=2f587eb60b6c254e01d53ea07987b325"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_017.png'; "
-#~ "md5=b98f0f92235e06e4b06fc2f5e13836c3"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_078.png'; "
-#~ "md5=619e5d6b805ff9080d3331be546d74d9"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_007.png'; "
-#~ "md5=5fd75fdd4c45f196694b1a886cdb449f"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_079.png'; "
-#~ "md5=95d870565705b0ca12572b3bf77701f6"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_063.png'; "
-#~ "md5=5d22807688590b901e792f2ab5e0c30b"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_080.png'; "
@@ -3387,13 +3616,6 @@ msgstr ""
 #~ msgstr ""
 #~ "@@image: 'images/Lesson04_images_018.png'; "
 #~ "md5=d0435acbbbff7c9bf70095223f12b622"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson04_images_059.png'; "
-#~ "md5=6448c43e3f7ef377d62dafad0aef2747"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson04_images_059.png'; "
-#~ "md5=6448c43e3f7ef377d62dafad0aef2747"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_060.png'; "
@@ -3426,11 +3648,9 @@ msgstr ""
 #~ msgid "Opening RSS Feed Web Page"
 #~ msgstr "打开 Feed 源页面"
 
- 
 #~ msgid "New Instant Message"
 #~ msgstr "即时通信"
 
- 
 #~ msgid ""
 #~ "To interact with other users, type the screen name or alias of the person "
 #~ "you would like to chat with in the <emphasis role=\"strong\">Name</"
@@ -3441,7 +3661,6 @@ msgstr ""
 #~ "<emphasis role=\"strong\">新订阅</emphasis>，弹出 <emphasis role=\"strong"
 #~ "\">新订阅</emphasis> 对话框。"
 
- 
 #~ msgid "Specifying Buddy Name"
 #~ msgstr "模式菜单"
 
@@ -3450,36 +3669,29 @@ msgstr ""
 #~ "appears automatically when you open Ekiga for the first time."
 #~ msgstr "首次运行 Ekiga 时会弹出配置助手以帮助您对 Ekiga 进行设置。"
 
- 
 #~ msgid "Selecting Video Devices"
 #~ msgstr "接听音频呼叫"
 
- 
 #~ msgid "The Configuration Assistant will close."
 #~ msgstr ""
 #~ "以下内容描述了如何配置 Linphone。开始下面的使用前，您需要参照“收发邮件”一"
 #~ "节中使用新立得软件包管理器安装 Thunderbird 的操作搜索并安装软件包 "
 #~ "linphone。"
 
- 
 #~ msgid ""
 #~ "The Ekiga window will be displayed. It is the default softphone "
 #~ "application available on Ubuntu."
 #~ msgstr "Ekiga 是 Ubuntu 默认的开源软电话应用程序。"
 
- 
 #~ msgid "Ekiga Window"
 #~ msgstr "聊天窗口"
 
- 
 #~ msgid "Making Calls Using Ekiga"
 #~ msgstr "使用软电话拨打电话"
 
- 
 #~ msgid "From Computer to Computer"
 #~ msgstr "从电话到电脑"
 
- 
 #~ msgid ""
 #~ "To learn more about making phone calls by using Ekiga, refer to <ulink "
 #~ "url=\"http://www.ekiga.org/index.php?rub=3\">http://www.ekiga.org/index."
@@ -3489,7 +3701,6 @@ msgstr ""
 #~ "用，详情请参见 <ulink url=\"http://www.linphone.org\"http://www.linphone."
 #~ "org</ulink>"
 
- 
 #~ msgid ""
 #~ "You can get an SIP address from <ulink url=\"http://www.ekiga.net"
 #~ "\">http://www.ekiga.net</ulink>."

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-21 22:05+0800\n"
+"POT-Creation-Date: 2010-07-24 19:27+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -275,7 +275,7 @@ msgid "Root 用户的口令是什么？安装时并没有要求我输入 root �
 msgstr ""
 
 #: faq/xinclude.xml:187(para)
-msgid "在很多其它 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 Ubuntu 中 root 用户默认是被禁用的。"
+msgid "在很多其他 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 Ubuntu 中 root 用户默认是被禁用的。"
 msgstr ""
 
 #: faq/xinclude.xml:188(para)
@@ -432,7 +432,7 @@ msgid "<ulink url=\"apt://nautilus-wallpaper\">nautilus-wallpaper</ulink> 在右
 msgstr ""
 
 #: faq/xinclude.xml:273(para)
-msgid "源里还有其它几个 nautilus 插件，可以在新立德里搜索 nautilus。"
+msgid "源里还有其他几个 nautilus 插件，可以在新立德里搜索 nautilus。"
 msgstr ""
 
 #: faq/xinclude.xml:274(para)
@@ -440,7 +440,7 @@ msgid "还有很多有用的 nautilus 插件没有进入 Ubuntu 官方源，您�
 msgstr ""
 
 #: faq/xinclude.xml:278(title)
-msgid "Gedit 打开一些文本文件时会乱码，其它文本编辑器却正常，这是怎么回事？"
+msgid "Gedit 打开一些文本文件时会乱码，其他文本编辑器却正常，这是怎么回事？"
 msgstr ""
 
 #: faq/xinclude.xml:279(para)
@@ -617,7 +617,7 @@ msgid "一般来说，Ubuntu 中不需要自己手动下载驱动，如果 Ubunt
 msgstr ""
 
 #: faq/xinclude.xml:434(para)
-msgid "如果仍然不能安装好驱动，您可能需要使用搜索引擎等去自己寻找驱动程序。如果能够确定新版内核可以支持您的硬件， 或者可以从其它地方下载得到驱动程序，那么您可能需要重新编译内核了。"
+msgid "如果仍然不能安装好驱动，您可能需要使用搜索引擎等去自己寻找驱动程序。如果能够确定新版内核可以支持您的硬件， 或者可以从其他地方下载得到驱动程序，那么您可能需要重新编译内核了。"
 msgstr ""
 
 #: faq/xinclude.xml:439(title)
@@ -681,7 +681,7 @@ msgid "系统的安装和引导"
 msgstr ""
 
 #: faq/xinclude.xml:484(title)
-msgid "我重新安装了 Windows，可是启动时缺找不到 Ubuntu 的启动项了？"
+msgid "我重新安装了 Windows，可是启动时却找不到 Ubuntu 的启动项了？"
 msgstr ""
 
 #: faq/xinclude.xml:485(para)
@@ -773,7 +773,7 @@ msgid "在 Gnome 终端中，如果需要输入一个很长的文件名怎么办
 msgstr ""
 
 #: faq/xinclude.xml:590(para)
-msgid "Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其它用处。"
+msgid "Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其他用处。"
 msgstr ""
 
 #: faq/xinclude.xml:593(para)
@@ -909,7 +909,7 @@ msgid "Ubuntu 与 Debian 的关系"
 msgstr ""
 
 #: faq/xinclude.xml:718(para)
-msgid "Debian Stable 版总是相对保守，而其它分支却没有较好支持，同时管理上也过于民主，造成决策缓慢。这样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。"
+msgid "Debian Stable 版总是相对保守，而其他分支却没有较好支持，同时管理上也过于民主，造成决策缓慢。这样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。"
 msgstr ""
 
 #: faq/xinclude.xml:719(para)
@@ -941,7 +941,7 @@ msgid "We incorporate Debian changes regularly, because that introduces the late
 msgstr ""
 
 #: faq/xinclude.xml:735(title)
-msgid "Ubuntu 与其它基于 Ubuntu 的衍生发行版"
+msgid "Ubuntu 与其他基于 Ubuntu 的衍生发行版"
 msgstr ""
 
 #: faq/xinclude.xml:736(para)

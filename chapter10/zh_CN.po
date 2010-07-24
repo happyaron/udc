@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-07-21 21:51+0800\n"
-"PO-Revision-Date: 2010-07-22 18:23+0800\n"
+"POT-Creation-Date: 2010-07-24 19:27+0800\n"
+"PO-Revision-Date: 2010-07-24 19:24+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -19,104 +19,143 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:73(None)
-msgid "@@image: 'images/partitioning.jpg'; md5=THIS FILE DOESN'T EXIST"
-msgstr "@@image: 'images/partitioning.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/partitioning.jpg'; md5=df1f813a2b986ee4299fe92b4a229916"
+msgstr ""
+"@@image: 'images/partitioning.png'; md5=298c8736f0c8ffb7db851a599c36d209"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:335(None)
-msgid "@@image: 'images/Lesson11_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_010.jpg'; "
+"md5=69ddb7a3d5ad310dbda1ec95c52b2657"
 msgstr ""
-"@@image: 'images/Lesson11_images_010.png'; "
-"md5=7ec8d09387042fd37594bde338f095a1"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:378(None)
-msgid "@@image: 'images/Lesson11_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_011.jpg'; "
+"md5=97f4d7264b93ddd20266cd7d857db953"
 msgstr ""
-"@@image: 'images/Lesson11_images_011.png'; "
-"md5=0c00ea24d1a7d400c5b471c0e30ec453"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:400(None)
-msgid "@@image: 'images/Lesson11_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_012.jpg'; "
+"md5=7118e18d834d82720d09b4aef1363998"
 msgstr ""
-"@@image: 'images/Lesson11_images_012.png'; "
-"md5=348fd039d7c34656c8cd11efb9eae6af"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:474(None)
-msgid "@@image: 'images/Lesson11_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:475(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_013.jpg'; "
+"md5=d0f793cbf525ae3a3fad97bad6341c4d"
 msgstr ""
-"@@image: 'images/Lesson11_images_013.png'; "
-"md5=d2ff5aee05fcb83b41c5c3de6556a594"
+"@@image: 'images/Lesson11_images_006.png'; "
+"md5=6f36f59efee2ffacc10d33b637411146"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:502(None)
-msgid "@@image: 'images/Lesson11_images_014.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:503(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_014.jpg'; "
+"md5=054390c7412fe871ec514cc5880d8187"
 msgstr ""
-"@@image: 'images/Lesson11_images_014.png'; "
-"md5=27e50f3d7a7b75e09bd1424fcafebfd4"
+"@@image: 'images/Lesson11_images_008.png'; "
+"md5=56eb37e1b19f4e4a0597515121ced608"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:517(None)
-msgid "@@image: 'images/Lesson11_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:518(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_015.jpg'; "
+"md5=8bda93fde9fb1f940dbb5e3d72946881"
 msgstr ""
-"@@image: 'images/Lesson11_images_015.png'; "
-"md5=e0e7bb9b30a4ccb80654618acbcfeda9"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:551(None)
-msgid "@@image: 'images/Lesson11_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:552(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_016.jpg'; "
+"md5=4380da587544bea88386c3d21417361a"
 msgstr ""
-"@@image: 'images/Lesson11_images_016.png'; "
-"md5=d30cec53df0670b5d10c53f8515ab0bd"
+"@@image: 'images/Lesson11_images_001.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:616(None)
-msgid "@@image: 'images/Lesson11_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:617(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_019.jpg'; "
+"md5=d67160cdcd17606443ec295c9c805162"
 msgstr ""
-"@@image: 'images/Lesson11_images_019.png'; "
-"md5=7d4016aeebf76c4a537c4747c26eed8e"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:639(None)
-msgid "@@image: 'images/Lesson11_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:640(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_020.jpg'; "
+"md5=2af2a43186e8b4ce299849c2eb9904fe"
 msgstr ""
-"@@image: 'images/Lesson11_images_020.png'; "
-"md5=4042007ddb930ae6700336e0891bd5fa"
+"@@image: 'images/Lesson11_images_005.png'; "
+"md5=25ea694c1cab9372cb2c613b4a4d8e26"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:666(None)
-msgid "@@image: 'images/Lesson11_images_017.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:667(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_017.jpg'; "
+"md5=74ca693df2502fae3eab1eeb0c19ed6b"
 msgstr ""
-"@@image: 'images/Lesson11_images_017.png'; "
-"md5=28573138c388c86e9157d950d60570af"
+"@@image: 'images/Lesson11_images_007.png'; "
+"md5=57ac242cfa0360abe1a09056e815b529"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:758(None)
-msgid "@@image: 'images/Lesson11_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:759(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_021.jpg'; "
+"md5=1e4141e859ecef2de20bb724856a76b1"
 msgstr ""
-"@@image: 'images/Lesson11_images_021.png'; "
-"md5=d3fea9381a9ee8559c93753d17428cf9"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter10/xinclude.xml:777(None)
-msgid "@@image: 'images/Lesson11_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+#: chapter10/xinclude.xml:778(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson11_images_022.jpg'; "
+"md5=2cb87d164e283a3b2d34de3755514f61"
 msgstr ""
-"@@image: 'images/Lesson11_images_022.png'; "
-"md5=bdd4136b29ea1301145dffae8a707c6f"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #: chapter10/xinclude.xml:4(title)
 msgid "Partitioning and Booting"
@@ -303,8 +342,8 @@ msgstr ""
 "结构化的方式放置文件。有许多种不同的文件系统类型，每种都有其优点。对于 "
 "Microsoft Windows，最主要的两种文件系统是 FAT(文件分配表，File Allocation "
 "Table)和 NTFS (新技术文件系统，New Technology File System)。对于 Ubuntu，有很"
-"多选项，包括 ext2，ext3，ext4，reiserfs，xfs 以及很多其它种类。Ubuntu 安装程"
-"序默认选择 ext4，但是当然也可以换成其它的。"
+"多选项，包括 ext2，ext3，ext4，reiserfs，xfs 以及很多其他种类。Ubuntu 安装程"
+"序默认选择 ext4，但是当然也可以换成其他的。"
 
 #: chapter10/xinclude.xml:130(title) chapter10/xinclude.xml:150(title)
 #: chapter10/xinclude.xml:226(title) chapter10/xinclude.xml:265(title)
@@ -404,7 +443,7 @@ msgstr ""
 "大小进行一些思考，以避免稍候不必要的大小调整操作。"
 
 #: chapter10/xinclude.xml:187(title) chapter10/xinclude.xml:282(title)
-#: chapter10/xinclude.xml:737(title)
+#: chapter10/xinclude.xml:738(title)
 msgid "Caution:"
 msgstr "小心："
 
@@ -416,7 +455,7 @@ msgid ""
 "requires you to predict how much space each partition needs."
 msgstr ""
 "因为将磁盘分割为了固定大小的分区，有时可能会用尽 home 分区的磁盘空间。这即使"
-"在其它分区还有大量可用空间时也可能发生。优秀合适的分区方案要求您估计每个分区"
+"在其他分区还有大量可用空间时也可能发生。优秀合适的分区方案要求您估计每个分区"
 "需要的磁盘空间。"
 
 #: chapter10/xinclude.xml:196(para)
@@ -427,7 +466,7 @@ msgid ""
 "disk space, it is best to have the /home, /tmp, /usr and /var directories as "
 "individual partitions separate from the root (/) partition."
 msgstr ""
-"对于新用户、家庭用户和其它单用户，一个单独的根(/)分区外加一个交换分区可能是最"
+"对于新用户、家庭用户和其他单用户，一个单独的根(/)分区外加一个交换分区可能是最"
 "简单最方便的创建和使用方案。然而，对于多用户系统或者有大量磁盘空间的计算机，"
 "最好将 /home，/tmp，和/var 目录作为与根(/)分区分离的单独分区。"
 
@@ -647,7 +686,7 @@ msgstr ""
 "些数据，这些数据将使用淡黄色区域表示。"
 
 # 到底该是啥？
-#: chapter10/xinclude.xml:354(title) chapter10/xinclude.xml:794(title)
+#: chapter10/xinclude.xml:354(title) chapter10/xinclude.xml:795(title)
 msgid "Instructor Notes:"
 msgstr "教师注记："
 
@@ -735,16 +774,13 @@ msgstr ""
 "定分区大小。您也可以通过拖动顶部白条上的黑色粗体箭头指定大小。"
 
 #: chapter10/xinclude.xml:429(para)
+#, fuzzy
 msgid ""
 "According to ISO 2955, the upper case prefixes are 1000 base. But in some "
 "software,they are used as 1024 base,such as 1GB is considered as 1024MB. At "
 "the same time,the hardware manufacturers use 1000 base.In order to prevent "
 "ambiguity, nowdays,some softwares perfered to use K,M,G etc as 1000 base,and "
-"Ki,Mi,Gi etc as 1024 base. In this book,we just do so.B is short of byte,"
-"which is 8 bit. When ISPs talking about the speed of network,they usually "
-"use bit. 1Kbps is 1000 bit per second,then it is 1000/8 B/s=125B/s;1Mbps is "
-"1000*1000/8/1024=122.0703125 KB/s; 1Gbps is "
-"1000*1000*1000/8/1024/1024=119.20928955078125 MB/s."
+"Ki,Mi,Gi etc as 1024 base. In this book,we just do so."
 msgstr ""
 "根据 ISO 2955，大写的词头是 1000 进制的。但是，在一些软件中，被当作 1024 进制"
 "的使用，例如 1GB 被认为成 1024MB；同时，硬件制造商使用的是标准的 1000 进制。"
@@ -754,7 +790,25 @@ msgstr ""
 "于 1000/8 B/s=125B/s；1Mbps 等于 1000*1000/8/1024=122.0703125 KB/s；1Gbps 等"
 "于 1000*1000*1000/8/1024/1024=119.20928955078125 MB/s。"
 
-#: chapter10/xinclude.xml:441(para)
+#: chapter10/xinclude.xml:434(para)
+msgid ""
+"B is short of byte,which is 8 bit. When ISPs talking about the speed of "
+"network,they usually use bit."
+msgstr ""
+
+#: chapter10/xinclude.xml:436(para)
+msgid "1Kbps is 1000 bit per second,then it is 1000/8 B/s=125B/s;"
+msgstr ""
+
+#: chapter10/xinclude.xml:437(para)
+msgid "1Mbps is 1000*1000/8/1024=122.0703125 KB/s;"
+msgstr ""
+
+#: chapter10/xinclude.xml:438(para)
+msgid "1Gbps is 1000*1000*1000/8/1024/1024=119.20928955078125 MB/s."
+msgstr ""
+
+#: chapter10/xinclude.xml:442(para)
 msgid ""
 "Select Primary, Logical or Extended partition from the <emphasis role="
 "\"strong\">Create as</emphasis> drop-down list."
@@ -762,7 +816,7 @@ msgstr ""
 "从 <emphasis role=\"strong\">创建为</emphasis> 下拉列表中选择主、逻辑或扩展分"
 "区。"
 
-#: chapter10/xinclude.xml:446(para)
+#: chapter10/xinclude.xml:447(para)
 msgid ""
 "Next, specify the file system by selecting from the <emphasis role=\"strong"
 "\">Filesystem</emphasis> drop-down list."
@@ -771,7 +825,7 @@ msgstr ""
 "指定文件系统。"
 
 # 又见可恶的白条
-#: chapter10/xinclude.xml:450(para)
+#: chapter10/xinclude.xml:451(para)
 msgid ""
 "Click the <emphasis role=\"strong\">Add</emphasis> button to complete the "
 "partition. The white bar updates to show a new partition on the disk."
@@ -780,7 +834,7 @@ msgstr ""
 "以显示磁盘上的一个新分区。"
 
 # 此处的按钮 很可能有误
-#: chapter10/xinclude.xml:456(para)
+#: chapter10/xinclude.xml:457(para)
 msgid ""
 "You can create multiple partitions at this stage by following the above-"
 "mentioned procedure and then clicking <emphasis role=\"strong\">Apply</"
@@ -792,7 +846,7 @@ msgstr ""
 "emphasis> 对话框。"
 
 # 有误
-#: chapter10/xinclude.xml:463(para)
+#: chapter10/xinclude.xml:464(para)
 msgid ""
 "The <emphasis role=\"strong\">Apply operations to hard disk</emphasis> "
 "dialogue box recommends that you back up data before performing the changes "
@@ -804,11 +858,11 @@ msgstr ""
 "之前备份数据并且在提交更改到硬盘时进行最后的确认。点击 <emphasis role="
 "\"strong\">应用</emphasis> 按钮以按您指定的对硬盘进行分区和格式化。"
 
-#: chapter10/xinclude.xml:470(title)
+#: chapter10/xinclude.xml:471(title)
 msgid "Confirmation Box"
 msgstr "确认对话框"
 
-#: chapter10/xinclude.xml:481(para)
+#: chapter10/xinclude.xml:482(para)
 msgid ""
 "The system starts applying the changes to the hard disk. The duration of the "
 "operation will depend on the size of the new partition. You can click the "
@@ -819,7 +873,7 @@ msgstr ""
 "以点击 <emphasis role=\"strong\">细节</emphasis> 按钮来查看更多关于何处怎样更"
 "改的信息。"
 
-#: chapter10/xinclude.xml:489(para)
+#: chapter10/xinclude.xml:490(para)
 msgid ""
 "Once you receive a message that all the specified operations have been "
 "successfully completed, you can safely close the window by clicking the "
@@ -834,11 +888,11 @@ msgstr ""
 "emphasis> 按钮保存此处理的输出以备将来参考。"
 
 # 此处也有误
-#: chapter10/xinclude.xml:498(title)
+#: chapter10/xinclude.xml:499(title)
 msgid "Applying Pending Operations Box"
 msgstr "应用待执行操作操作对话框"
 
-#: chapter10/xinclude.xml:509(para)
+#: chapter10/xinclude.xml:510(para)
 msgid ""
 "The newly created partition is now visible in the <emphasis role=\"strong"
 "\">GParted</emphasis> window. You will also notice that your system "
@@ -847,11 +901,11 @@ msgstr ""
 "新创建的分区现在可以在 <emphasis role=\"strong\">GParted</emphasis> 窗口中看"
 "到。您也会注意到系统自动挂载了这个新建分区。"
 
-#: chapter10/xinclude.xml:513(title)
+#: chapter10/xinclude.xml:514(title)
 msgid "GParted with New Partition"
 msgstr "GParted 以及其中显示的新分区"
 
-#: chapter10/xinclude.xml:522(para)
+#: chapter10/xinclude.xml:523(para)
 msgid ""
 "Mounting refers to the process of attaching the newly created partition or "
 "drive to an existing directory to make it accessible. The directory where "
@@ -870,7 +924,7 @@ msgstr ""
 "开并且此分区作为桌面上的一个图标显示。"
 
 # 此处好像是 卸载？而不是 卸载 卷
-#: chapter10/xinclude.xml:536(para)
+#: chapter10/xinclude.xml:537(para)
 msgid ""
 "When you no longer want to access the new partitions, you can unmount them "
 "by right-clicking the <emphasis role=\"strong\">disk</emphasis> icon on the "
@@ -881,7 +935,7 @@ msgstr ""
 "emphasis> 图标上点击右键并且从快捷菜单中选择 <emphasis role=\"strong\">卸载</"
 "emphasis> 选项卸载它们。"
 
-#: chapter10/xinclude.xml:543(para)
+#: chapter10/xinclude.xml:544(para)
 msgid ""
 "If you want delete a existing partition,you can right-click the partition, "
 "and choose <emphasis role=\"strong\">delete</emphasis>."
@@ -890,15 +944,15 @@ msgstr ""
 "除</emphasis>。<emphasis role=\"strong\">警告：</emphasis> 删除一个分区，将会"
 "造成其中的数据 <emphasis role=\"strong\">永久丢失！</emphasis>"
 
-#: chapter10/xinclude.xml:547(title)
+#: chapter10/xinclude.xml:548(title)
 msgid "Deleting a Partition"
 msgstr "删除分区"
 
-#: chapter10/xinclude.xml:561(title)
+#: chapter10/xinclude.xml:562(title)
 msgid "Boot-up Options"
 msgstr "引导选项"
 
-#: chapter10/xinclude.xml:563(para)
+#: chapter10/xinclude.xml:564(para)
 msgid ""
 "Booting up is a process through which the operating system is loaded into "
 "the computer's main memory or random access memory (RAM). The boot-up "
@@ -916,7 +970,7 @@ msgstr ""
 "光盘或闪存盘以启动此引导过程。如果有多个操作系统安装在您的计算机上，BIOS 配置"
 "决定引导时先加载哪个操作系统。"
 
-#: chapter10/xinclude.xml:573(para)
+#: chapter10/xinclude.xml:574(para)
 msgid ""
 "Only after all system files have been loaded into the main memory, is the "
 "operating system given control of the computer. The operating system "
@@ -926,7 +980,7 @@ msgstr ""
 "只有所有的系统文件都加载到主存后，操作系统才接管计算机。操作系统执行要求的初"
 "始化命令然后等待地一个交互式输入。"
 
-#: chapter10/xinclude.xml:578(para)
+#: chapter10/xinclude.xml:579(para)
 msgid ""
 "However, as a superuser or user with administrative privileges, it is "
 "possible for you to change the boot-up configuration to define the "
@@ -936,7 +990,7 @@ msgstr ""
 "但是，作为一个超级用户或有管理特权的用户，您可以更改引导配置以定义系统的引导"
 "顺序，更改引导时的默认操作系统或使一个命令在引导时自动运行。"
 
-#: chapter10/xinclude.xml:583(para)
+#: chapter10/xinclude.xml:584(para)
 msgid ""
 "One way to change or check your BIOS setting is to restart your computer, "
 "and press a key to enter the setup function before it starts to load any "
@@ -951,52 +1005,52 @@ msgstr ""
 "设置后，可以通过跟随用于设置的指导进行希望的更改。然而，当在 BIOS 设置中进行"
 "任何更改时需要非常谨慎，因为一项错误的设置可能使计算机不能正常引导。"
 
-#: chapter10/xinclude.xml:592(para)
+#: chapter10/xinclude.xml:593(para)
 msgid ""
 "You can also perform these configuration changes by using a command line on "
 "your computer's terminal."
 msgstr "也可以通过使用计算机的终端中的命令行来执行这些配置。"
 
-#: chapter10/xinclude.xml:596(title)
+#: chapter10/xinclude.xml:597(title)
 msgid "Running a System Command Automatically at Start-Up"
 msgstr "在启动时自动运行系统命令"
 
-#: chapter10/xinclude.xml:598(para)
+#: chapter10/xinclude.xml:599(para)
 msgid ""
 "At times, you may wish to add a custom command for the start-up process so "
 "that your computer executes this command every time it boots up."
 msgstr ""
 "有时，您可能想要为启动过程添加自定义的命令以使计算机每次引导时执行此命令。"
 
-#: chapter10/xinclude.xml:603(title)
+#: chapter10/xinclude.xml:604(title)
 msgid "To run a system command automatically at start-up:"
 msgstr "在启动时自动运行系统命令："
 
-#: chapter10/xinclude.xml:606(para)
+#: chapter10/xinclude.xml:607(para)
 msgid "On the Terminal, type the following command to open the rc.local file:"
 msgstr "在终端中，输入如下命令以打开 rc.local 文件："
 
 # 为什么要换行？
-#: chapter10/xinclude.xml:609(screen)
+#: chapter10/xinclude.xml:610(screen)
 #, no-wrap
 msgid "$ sudo nano /etc/rc.local"
 msgstr "sudo gedit /etc/rc.local"
 
-#: chapter10/xinclude.xml:612(title)
+#: chapter10/xinclude.xml:613(title)
 msgid "Terminal Window"
 msgstr "终端窗口"
 
-#: chapter10/xinclude.xml:621(para)
+#: chapter10/xinclude.xml:622(para)
 msgid ""
 "The rc.local file contains a script that is executed after all the other "
 "initial scripts. You can insert your own initialisation scripts in this file "
 "if you want some services to be executed automatically during the start-up "
 "process."
 msgstr ""
-"rc.local 文件包含在其它所有初始化脚本之后执行的脚本。如果想要在启动过程期间自"
+"rc.local 文件包含在其他所有初始化脚本之后执行的脚本。如果想要在启动过程期间自"
 "动执行一些服务，您可以向此文件插入您自己的初始脚本。"
 
-#: chapter10/xinclude.xml:628(para)
+#: chapter10/xinclude.xml:629(para)
 msgid ""
 "The rc.local file opens in the Terminal window. Type the command that you "
 "want to run at system start-up before the line, exit 0."
@@ -1004,23 +1058,23 @@ msgstr ""
 "在终端窗口打开 rc.local 文件。在行 exit 0 之前输入您想要系统启动时运行的命"
 "令。"
 
-#: chapter10/xinclude.xml:632(screen)
+#: chapter10/xinclude.xml:633(screen)
 #, no-wrap
 msgid "$ date &gt; /home/oem/newbackup"
 msgstr "date &gt; /home/sbyy/newbackup"
 
 # 此为病句，我自己都看不懂
-#: chapter10/xinclude.xml:635(title)
+#: chapter10/xinclude.xml:636(title)
 msgid "Making Settings for rc.local File"
 msgstr "在 rc.local 文件中进行设置"
 
-#: chapter10/xinclude.xml:646(para)
+#: chapter10/xinclude.xml:647(para)
 msgid ""
 "After you enter the command you want executed at system start-up, press CTRL"
 "+X to save and exit the edited file."
 msgstr "输入完想要在启动时执行的命令之后，按 CTRL+X 保存并退出编辑的文件。"
 
-#: chapter10/xinclude.xml:653(para)
+#: chapter10/xinclude.xml:654(para)
 msgid ""
 "When you reboot the system, the rc.local file executes. If you want to "
 "display the output of the above command, type the following command in the "
@@ -1029,25 +1083,25 @@ msgstr ""
 "当重启系统时，执行 rc.local 文件。如果想显示上边命令的输出，在终端中输入如下"
 "命令："
 
-#: chapter10/xinclude.xml:657(screen)
+#: chapter10/xinclude.xml:658(screen)
 #, no-wrap
 msgid "$ cat newbackup"
 msgstr "cat newbackup"
 
-#: chapter10/xinclude.xml:659(para)
+#: chapter10/xinclude.xml:660(para)
 msgid "The following image shows the output of the above command:"
 msgstr "如下图像显示了上边命令的输出："
 
-#: chapter10/xinclude.xml:662(title)
+#: chapter10/xinclude.xml:663(title)
 msgid "The content of newbackup"
 msgstr "newbackup 文件中的内容"
 
-#: chapter10/xinclude.xml:675(title)
+#: chapter10/xinclude.xml:676(title)
 msgid "Changing the Default Operating System at Boot"
 msgstr "更改引导时的默认操作系统"
 
 # grub2?
-#: chapter10/xinclude.xml:677(para)
+#: chapter10/xinclude.xml:678(para)
 msgid ""
 "When multiple operating systems are installed on a computer, this is "
 "referred to as a multi-boot configuration. Typically, the operating system "
@@ -1059,12 +1113,12 @@ msgstr ""
 "端列出的操作系统被加载到计算机。要选择打开计算机时启动的操作系统，请编辑 "
 "grub2 配置文件。"
 
-#: chapter10/xinclude.xml:685(para)
+#: chapter10/xinclude.xml:686(para)
 msgid ""
 "Back up the configuration file, and open it in a text editor, as follows:"
 msgstr "备份配置文件，并且打开在文本编辑器中打开它，就像下边这样："
 
-#: chapter10/xinclude.xml:688(screen)
+#: chapter10/xinclude.xml:689(screen)
 #, no-wrap
 msgid ""
 "$ sudo cp /etc/default/grub /etc/default/grub_backup \n"
@@ -1073,28 +1127,28 @@ msgstr ""
 "sudo cp /etc/default/grub /etc/default/grub_backup \n"
 "sudo gedit /etc/default/grub"
 
-#: chapter10/xinclude.xml:693(para)
+#: chapter10/xinclude.xml:694(para)
 msgid "Find the line written below to change the default sequence:"
 msgstr "找到下边的行以修改默认的顺序："
 
 # 根据 grub2 进行了改写
-#: chapter10/xinclude.xml:696(screen)
+#: chapter10/xinclude.xml:697(screen)
 #, no-wrap
 msgid "... default 0 ..."
 msgstr "GRUB_DEFAULT=0"
 
-#: chapter10/xinclude.xml:698(para)
+#: chapter10/xinclude.xml:699(para)
 msgid "Replace this line with the following line:"
 msgstr "使用如下行替代此行："
 
 # 根据grub2 进行了改写
-#: chapter10/xinclude.xml:700(screen)
+#: chapter10/xinclude.xml:701(screen)
 #, no-wrap
 msgid "default X"
 msgstr "GRUB_DEFAULT=X"
 
 # 此处为grub的内容
-#: chapter10/xinclude.xml:702(para)
+#: chapter10/xinclude.xml:703(para)
 msgid ""
 "Replace X with a number based on the order in which your operating systems "
 "appear in the configuration file. You should start counting from 0. For "
@@ -1106,27 +1160,27 @@ msgstr ""
 "如，如果希望默认启动的操作系统是列表中的第一个，用 0 替换 X；如果希望默认启动"
 "的操作系统是列表中的第二个，使用 1 替换 X。"
 
-#: chapter10/xinclude.xml:711(para)
+#: chapter10/xinclude.xml:712(para)
 msgid "Save this file and shut down editor.Then run the commond follew"
 msgstr "保存此文件并关闭文本编辑器。然后运行如下命令："
 
-#: chapter10/xinclude.xml:712(screen)
+#: chapter10/xinclude.xml:713(screen)
 #, no-wrap
 msgid "sudo update-grub"
 msgstr "sudo update-grub"
 
-#: chapter10/xinclude.xml:716(para)
+#: chapter10/xinclude.xml:717(para)
 msgid ""
 "Now you can reboot your system and can see that the Default operating system "
 "have been changed."
 msgstr "现在可以重启系统并看到已经更改了默认操作系统。"
 
-#: chapter10/xinclude.xml:722(title)
+#: chapter10/xinclude.xml:723(title)
 msgid "Configuring Start-Up Services"
 msgstr "配置启动应用程序"
 
 # 根据 9.10 进行了修改
-#: chapter10/xinclude.xml:724(para)
+#: chapter10/xinclude.xml:725(para)
 msgid ""
 "When Ubuntu starts up, many services are started for your convenience. Some "
 "services are mandatory for Ubuntu to work properly on your computer. Others "
@@ -1136,13 +1190,13 @@ msgid ""
 "and scanning system, which is of no use if you don't own an HP device)."
 msgstr ""
 "当 Ubuntu 启动时，为了您的方便，启动了很多服务。一些服务是对 Ubuntu 正常工作"
-"是必需的，取消会造成系统不能正常启动或运行。其它一些是可以取消的，取消了不会"
+"是必需的，取消会造成系统不能正常启动或运行。其他一些是可以取消的，取消了不会"
 "造成影响或仅仅会造成不便。这些可取消服务的中的一些您可能永远不需要，可能仅仅"
 "是因为您不想要它们(例如用户文件夹更新，它在更改系统的登录语言时更新用户主目录"
 "中的几个文件夹的名字)或者就是您没有此设备(例如蓝牙管理器，如果您没有蓝牙设备"
 "它就没用)。"
 
-#: chapter10/xinclude.xml:732(para)
+#: chapter10/xinclude.xml:733(para)
 msgid ""
 "Although these services are harmless, they increase your computer's start-up "
 "time. By de-activating some of these services, you should get a slightly "
@@ -1151,7 +1205,7 @@ msgstr ""
 "虽然这些自启动应用程序无害，它们增加您系统的启动时间，增加系统负荷。通过取消"
 "这些自启动程序中的一部分，您可能获得稍微快一点的启动速度，更低的资源占用。"
 
-#: chapter10/xinclude.xml:739(para)
+#: chapter10/xinclude.xml:740(para)
 msgid ""
 "Read the service information before you disable any service because "
 "disabling some services may stop your system from booting-up or running "
@@ -1161,14 +1215,14 @@ msgstr ""
 "给您造成不便或对系统性能及稳定性等产生一定影响。"
 
 # 根据 9.10 进行了更改
-#: chapter10/xinclude.xml:744(para)
+#: chapter10/xinclude.xml:745(para)
 msgid ""
 "To configure the start-up services, you need to have administrative "
 "privileges. Then, perform the following steps:"
 msgstr "要配置自动启动的应用程序，请执行如下步骤："
 
 # 为910进行了更改
-#: chapter10/xinclude.xml:749(para)
+#: chapter10/xinclude.xml:750(para)
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and then click <emphasis role="
@@ -1179,28 +1233,28 @@ msgstr ""
 "</emphasis>."
 
 # 话说 910 里没有此项
-#: chapter10/xinclude.xml:754(title)
+#: chapter10/xinclude.xml:755(title)
 msgid "Services Window"
 msgstr "启动应用程序"
 
 # 为9.10进行了更改
-#: chapter10/xinclude.xml:765(para)
+#: chapter10/xinclude.xml:766(para)
 msgid ""
 "Type your administrative password. The <emphasis role=\"strong\">Services "
 "settings</emphasis> window opens."
 msgstr "将打开 <emphasis role=\"strong\">启动应用程序首选项</emphasis> 窗口。"
 
-#: chapter10/xinclude.xml:769(para)
+#: chapter10/xinclude.xml:770(para)
 msgid ""
 "Select the services you want running by selecting or clearing the respective "
 "check boxes."
 msgstr "通过选择或清除对应的复选框选择想运行的服务。"
 
-#: chapter10/xinclude.xml:773(title)
+#: chapter10/xinclude.xml:774(title)
 msgid "Services Settings Window"
 msgstr "启动应用程序首选项窗口"
 
-#: chapter10/xinclude.xml:784(para)
+#: chapter10/xinclude.xml:785(para)
 msgid ""
 "If you want to add a new item to list,click <emphasis role=\"strong\"> add</"
 "emphasis>;if you want delete an item from list,click <emphasis role=\"strong"
@@ -1216,7 +1270,7 @@ msgstr ""
 "复选框。"
 
 # 根据 9.10 进行了更改
-#: chapter10/xinclude.xml:796(para)
+#: chapter10/xinclude.xml:797(para)
 msgid ""
 "If you want greater control over the boot-up services, install Boot-up "
 "Manager (bum). You can install bum from the Universe repository. You need to "
@@ -1229,21 +1283,21 @@ msgstr ""
 "向 <emphasis role=\"strong\">系统管理</emphasis> 然后点击 <emphasis role="
 "\"strong\">启动管理器</emphasis>。"
 
-#: chapter10/xinclude.xml:804(title)
+#: chapter10/xinclude.xml:805(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter10/xinclude.xml:808(para)
+#: chapter10/xinclude.xml:809(para)
 msgid ""
 "Partitioning your hard disk is similar to splitting rooms with walls in a "
 "house."
 msgstr "对硬盘进行分区类似于使用墙将房子分割为房间。"
 
-#: chapter10/xinclude.xml:813(para)
+#: chapter10/xinclude.xml:814(para)
 msgid "You can run Ubuntu on a single or multiple partitions or drives."
 msgstr "可以在单个或多个分区或驱动器上运行 Ubuntu。"
 
-#: chapter10/xinclude.xml:818(para)
+#: chapter10/xinclude.xml:819(para)
 msgid ""
 "Before partitioning the hard drive, you should make sure that there is no "
 "data on the hard drive. If the hard drive on which you are creating a "
@@ -1253,13 +1307,13 @@ msgstr ""
 "在对硬盘驱动器分区之前，应该确定硬盘驱动器上没有数据。如果您要在上边创建分区"
 "的硬盘驱动器包含数据并且希望保留它，在处理之前备份数据会更安全。"
 
-#: chapter10/xinclude.xml:825(para)
+#: chapter10/xinclude.xml:826(para)
 msgid ""
 "You can create a partition by using both the partition editor and the "
 "command-line interface."
 msgstr "可以使用分区编辑器或命令行界面创建分区。"
 
-#: chapter10/xinclude.xml:830(para)
+#: chapter10/xinclude.xml:831(para)
 msgid ""
 "It is possible for you to change the boot-up configuration to define the "
 "computer's boot order, change the default operating system to boot or make a "
@@ -1268,7 +1322,7 @@ msgstr ""
 "可以引导设置以决定计算机引导顺序，更改默认引导的操作系统或者使一个系统命令启"
 "动时自动运行。"
 
-#: chapter10/xinclude.xml:837(para)
+#: chapter10/xinclude.xml:838(para)
 msgid ""
 "To run a set of commands each time the system boots up, you need to include "
 "the commands in the /etc/rc.local file so that the computer executes them "
@@ -1277,13 +1331,13 @@ msgstr ""
 "要在每次系统引导时运行一组命令，需要包含这些命令到 /etc/rc.local 文件以使计算"
 "机在每次引导时执行它们。"
 
-#: chapter10/xinclude.xml:843(para)
+#: chapter10/xinclude.xml:844(para)
 msgid ""
 "You can change the default operating system at boot by making changes in the "
 "configuration file."
 msgstr "可以通过修改配置文件来更改启动时的默认操作系统。"
 
-#: chapter10/xinclude.xml:848(para)
+#: chapter10/xinclude.xml:849(para)
 msgid ""
 "You must read the service information before disabling any service because "
 "disabling some services may stop your system from booting-up or running "
@@ -1292,82 +1346,82 @@ msgstr ""
 "禁用任何自启动应用程序之前，必须要阅读程序信息，因为禁用一些程序的自启动可能"
 "对系统的可用性产生影响。"
 
-#: chapter10/xinclude.xml:806(para)
+#: chapter10/xinclude.xml:807(para)
 msgid "In this lesson, you learned that: <placeholder-1/>"
 msgstr "本节课学到了：<placeholder-1/>"
 
-#: chapter10/xinclude.xml:856(title)
+#: chapter10/xinclude.xml:857(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter10/xinclude.xml:861(para)
+#: chapter10/xinclude.xml:862(para)
 msgid "What are the advantages of partitioning?"
 msgstr "进行分区的好处是什么？"
 
-#: chapter10/xinclude.xml:865(para)
+#: chapter10/xinclude.xml:866(para)
 msgid "The following are the advantages of partitioning:"
 msgstr "下边是进行分区的好处："
 
 # 可恶的病句
-#: chapter10/xinclude.xml:869(para)
+#: chapter10/xinclude.xml:870(para)
 msgid "Minimises data loss"
 msgstr "使数据丢失的可能最小化"
 
-#: chapter10/xinclude.xml:873(para)
+#: chapter10/xinclude.xml:874(para)
 msgid "Enhances security"
 msgstr "增强安全性"
 
-#: chapter10/xinclude.xml:877(para)
+#: chapter10/xinclude.xml:878(para)
 msgid "Enhances performance"
 msgstr "增强性能"
 
-#: chapter10/xinclude.xml:885(para)
+#: chapter10/xinclude.xml:886(para)
 msgid "Why do you need to use the sudo command?"
 msgstr "为什么需要使用 sudo 命令？"
 
-#: chapter10/xinclude.xml:889(para)
+#: chapter10/xinclude.xml:890(para)
 msgid ""
 "In Unix-based operating systems, you need to use the sudo command to run "
 "programmes that require administrative privileges."
 msgstr "在基于 Unix 的操作系统中，需要使用 sudo 命令来运行需要管理特权的程序。"
 
-#: chapter10/xinclude.xml:897(para)
+#: chapter10/xinclude.xml:898(para)
 msgid "Which of these file systems does Ubuntu use by default?"
 msgstr "Ubuntu 默认使用这些文件系统中的哪一个？"
 
 # 原文前边竟然没有编号，或许我需要给它加上
-#: chapter10/xinclude.xml:901(para)
+#: chapter10/xinclude.xml:902(para)
 msgid "Fat 32"
 msgstr "a) Fat 32"
 
-#: chapter10/xinclude.xml:905(para)
+#: chapter10/xinclude.xml:906(para)
 msgid "NTFS"
 msgstr "b) NTFS"
 
-#: chapter10/xinclude.xml:909(para)
+#: chapter10/xinclude.xml:910(para)
 msgid "Ext3"
 msgstr "c) Ext4"
 
 # o,ext3 again
-#: chapter10/xinclude.xml:915(para)
+#: chapter10/xinclude.xml:916(para)
 msgid "c) Ext3"
 msgstr "c) Ext4"
 
-#: chapter10/xinclude.xml:921(para)
+#: chapter10/xinclude.xml:922(para)
 msgid ""
 "If you want to run a system command automatically at start-up, where should "
 "you add the command?"
 msgstr "如果想在系统启动时自动运行一个系统命令，向何处添加此命令？"
 
-#: chapter10/xinclude.xml:926(para)
+#: chapter10/xinclude.xml:927(para)
 msgid "The command needs to be added to the /etc/rc.local file."
 msgstr "此命令需要添加到 /etc/rc.local 文件。"
 
-#: chapter10/xinclude.xml:933(para)
+#: chapter10/xinclude.xml:934(para)
 msgid "Is it possible to disable all the start-up services? Why?"
 msgstr "可以禁用所有的自启动的应用程序吗？为什么？"
 
-#: chapter10/xinclude.xml:938(para)
+#: chapter10/xinclude.xml:939(para)
 msgid ""
 "No, it is not possible to disable all start-up services because disabling "
 "some services will stop your system from booting-up or running properly."
@@ -1375,15 +1429,15 @@ msgstr ""
 "可以，可以禁用启动应用程序中列出的所有条目，但是禁用某些选项会系统缺少某些功"
 "能，甚至是对桌面用户很重要的功能，如上网；因此一定要慎重。"
 
-#: chapter10/xinclude.xml:947(title)
+#: chapter10/xinclude.xml:948(title)
 msgid "Lab Exercise"
 msgstr "上机练习"
 
-#: chapter10/xinclude.xml:950(title)
+#: chapter10/xinclude.xml:951(title)
 msgid "Exercise 1"
 msgstr "练习 1"
 
-#: chapter10/xinclude.xml:952(para)
+#: chapter10/xinclude.xml:953(para)
 msgid ""
 "As a previous Microsoft Windows user, you want to have a dual-boot "
 "configuration on your computer and create a separate partition to run "
@@ -1395,11 +1449,11 @@ msgstr ""
 "建一个分离的分区以在上边运行 Microsoft Windows 系统。要实现此任务，您需要创建"
 "一个 5-GiB 的主分区并且格式化为 Microsoft Windows 兼容的文件系统。"
 
-#: chapter10/xinclude.xml:960(title)
+#: chapter10/xinclude.xml:961(title)
 msgid "Option a: To create a Partition using Partition Editor:"
 msgstr "使用分区编辑器创建分区："
 
-#: chapter10/xinclude.xml:963(para)
+#: chapter10/xinclude.xml:964(para)
 msgid ""
 "On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
 "role=\"strong\">Administration</emphasis> and then click <emphasis role="
@@ -1409,7 +1463,7 @@ msgstr ""
 "\"strong\">系统管理</emphasis> 然后点击 <emphasis role=\"strong\">分区编辑器"
 "</emphasis>。"
 
-#: chapter10/xinclude.xml:969(para)
+#: chapter10/xinclude.xml:970(para)
 msgid ""
 "In the drive drop-down box, select the hard drive you need to partition by "
 "specifying its logical name. The window refreshes and shows you a "
@@ -1419,7 +1473,7 @@ msgstr ""
 "此驱动器的代表。"
 
 # 白条，白条鸡可不好
-#: chapter10/xinclude.xml:975(para)
+#: chapter10/xinclude.xml:976(para)
 msgid ""
 "Right-click the white bar and click <emphasis role=\"strong\">New</emphasis> "
 "to create a new partition. The <emphasis role=\"strong\">Create new "
@@ -1430,14 +1484,14 @@ msgstr ""
 "示 <emphasis role=\"strong\">创建新分区</emphasis>对话框，在其上选择此分区的"
 "参数。"
 
-#: chapter10/xinclude.xml:980(para)
+#: chapter10/xinclude.xml:981(para)
 msgid ""
 "In the <emphasis role=\"strong\">New Size</emphasis> dialogue box, select "
 "the size of the new partition."
 msgstr ""
 "<emphasis role=\"strong\">新大小</emphasis>对话框中，选择新分区的大小。"
 
-#: chapter10/xinclude.xml:985(para)
+#: chapter10/xinclude.xml:986(para)
 msgid ""
 "In the <emphasis role=\"strong\">Create as</emphasis> box, select <emphasis "
 "role=\"strong\">Primary Partition</emphasis>."
@@ -1445,11 +1499,11 @@ msgstr ""
 "在 <emphasis role=\"strong\">创建为</emphasis> 对话框中，选择 <emphasis role="
 "\"strong\">主分区</emphasis>。"
 
-#: chapter10/xinclude.xml:990(para)
+#: chapter10/xinclude.xml:991(para)
 msgid "Next, specify the file system. Select ntfs."
 msgstr "下一步，指定文件系统，选择 ntfs。"
 
-#: chapter10/xinclude.xml:994(para)
+#: chapter10/xinclude.xml:995(para)
 msgid ""
 "Click <emphasis role=\"strong\">Add</emphasis> to compute the partition. The "
 "graphical display updates to show a new partition on the disk."
@@ -1457,7 +1511,7 @@ msgstr ""
 "点击 <emphasis role=\"strong\">添加</emphasis>以计算此分区。图形显示更新以显"
 "示磁盘上的一个新分区。"
 
-#: chapter10/xinclude.xml:1000(para)
+#: chapter10/xinclude.xml:1001(para)
 msgid ""
 "If you are sure about the specification of the new partition, click "
 "<emphasis role=\"strong\">Apply</emphasis>. The disk will be partitioned and "
@@ -1473,17 +1527,80 @@ msgstr ""
 "YunQiang Su <wzssyqa@gmail.com>, 2010\n"
 "Yvonne Ye <feidaozhanchen@gmail.com>, 2010"
 
-#~ msgid ""
-#~ "@@image: 'images/partitioning.png'; md5=298c8736f0c8ffb7db851a599c36d209"
-#~ msgstr ""
-#~ "@@image: 'images/partitioning.png'; md5=298c8736f0c8ffb7db851a599c36d209"
+#~ msgid "@@image: 'images/partitioning.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr "@@image: 'images/partitioning.jpg'; md5=THIS FILE DOESN'T EXIST"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson11_images_018.png'; "
-#~ "md5=d19248d0d3a735121d9fdd29dcd807b6"
+#~ "@@image: 'images/Lesson11_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
 #~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_018.png'; "
-#~ "md5=d19248d0d3a735121d9fdd29dcd807b6"
+#~ "@@image: 'images/Lesson11_images_010.png'; "
+#~ "md5=7ec8d09387042fd37594bde338f095a1"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_011.png'; "
+#~ "md5=0c00ea24d1a7d400c5b471c0e30ec453"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_012.png'; "
+#~ "md5=348fd039d7c34656c8cd11efb9eae6af"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_013.png'; "
+#~ "md5=d2ff5aee05fcb83b41c5c3de6556a594"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_014.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_014.png'; "
+#~ "md5=27e50f3d7a7b75e09bd1424fcafebfd4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_015.png'; "
+#~ "md5=e0e7bb9b30a4ccb80654618acbcfeda9"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_016.png'; "
+#~ "md5=d30cec53df0670b5d10c53f8515ab0bd"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_019.png'; "
+#~ "md5=7d4016aeebf76c4a537c4747c26eed8e"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_020.png'; "
+#~ "md5=4042007ddb930ae6700336e0891bd5fa"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_017.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_017.png'; "
+#~ "md5=28573138c388c86e9157d950d60570af"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_021.png'; "
+#~ "md5=d3fea9381a9ee8559c93753d17428cf9"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_022.png'; "
+#~ "md5=bdd4136b29ea1301145dffae8a707c6f"
 
 #~ msgid ""
 #~ "If you want more control on the mount of partitions,you can click "
@@ -1501,13 +1618,6 @@ msgstr ""
 #~ msgstr "Palimpsest 磁盘实用工具"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson11_images_001.png'; "
-#~ "md5=d9a676693a685cc75b9de885913bfcf6"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_001.png'; "
-#~ "md5=d9a676693a685cc75b9de885913bfcf6"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson11_images_003.png'; "
 #~ "md5=20817092e102f3a6e169f480ac4fdd2f"
 #~ msgstr ""
@@ -1520,34 +1630,6 @@ msgstr ""
 #~ msgstr ""
 #~ "@@image: 'images/Lesson11_images_004.png'; "
 #~ "md5=ab4b8d3b8012a27aa2fb06081787392f"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson11_images_005.png'; "
-#~ "md5=25ea694c1cab9372cb2c613b4a4d8e26"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_005.png'; "
-#~ "md5=25ea694c1cab9372cb2c613b4a4d8e26"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson11_images_006.png'; "
-#~ "md5=6f36f59efee2ffacc10d33b637411146"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_006.png'; "
-#~ "md5=6f36f59efee2ffacc10d33b637411146"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson11_images_007.png'; "
-#~ "md5=57ac242cfa0360abe1a09056e815b529"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_007.png'; "
-#~ "md5=57ac242cfa0360abe1a09056e815b529"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson11_images_008.png'; "
-#~ "md5=56eb37e1b19f4e4a0597515121ced608"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_008.png'; "
-#~ "md5=56eb37e1b19f4e4a0597515121ced608"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson11_images_009.png'; "

@@ -184,7 +184,7 @@
     <title>系统管理和个性化配置</title>
    <sect2>
     <title>Root 用户的口令是什么？安装时并没有要求我输入 root 的口令。</title>
-    <para>在很多其它 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 Ubuntu 中 root 用户默认是被禁用的。</para>
+    <para>在很多其他 Linux 发行版上，root 用户是默认启用的，而 Ubuntu 不是这样的。在 Ubuntu 中 root 用户默认是被禁用的。</para>
     <para>要进行特权操作，只需要在运行的命令前边加上 sudo。</para>
     <para>如果想要临时成为 root 用户进行一些操作，请使用 sudo -i 。</para>
     <tip>
@@ -270,12 +270,12 @@
       		</listitem>
     	</itemizedlist>
     </para>
-    <para>源里还有其它几个 nautilus 插件，可以在新立德里搜索 nautilus。</para>
+    <para>源里还有其他几个 nautilus 插件，可以在新立德里搜索 nautilus。</para>
     <para>还有很多有用的 nautilus 插件没有进入 Ubuntu 官方源，您可以在网络上找到。当然您也可以自己编写一个。</para>
   </sect2>
   
   <sect2>
-    <title>Gedit 打开一些文本文件时会乱码，其它文本编辑器却正常，这是怎么回事？</title>
+    <title>Gedit 打开一些文本文件时会乱码，其他文本编辑器却正常，这是怎么回事？</title>
     <para>这是因为 gedit 默认没有打开对 GB 系列编码的自动检测，可以通过一个命令打开这个功能：
     	<screen format="linespecific">gconftool-2 --set --type=list --list-type=string \
    /apps/gedit-2/preferences/encodings/auto_detected \
@@ -432,7 +432,7 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
     	可以使用 系统 -> 系统管理 ->硬件驱动 来尝试自动安装驱动。
     </para>
     <para>如果仍然不能安装好驱动，您可能需要使用搜索引擎等去自己寻找驱动程序。如果能够确定新版内核可以支持您的硬件，
-    	或者可以从其它地方下载得到驱动程序，那么您可能需要重新编译内核了。
+    	或者可以从其他地方下载得到驱动程序，那么您可能需要重新编译内核了。
     </para>  
    </sect2>
    <sect2>
@@ -510,7 +510,7 @@ sudo update-grub</screen>
 <!--    		<title>/ 是一个什么目录？</title>-->
 <!--    		<para>-->
 <!--			Ubuntu 在安装的时候，会选择一个分区做为根目录，也就是 /，这个目录作为“根”目录。-->
-<!--			所有的其它目录都会挂载在这个目录上面，好像是这个目录的一个子目录。-->
+<!--			所有的其他目录都会挂载在这个目录上面，好像是这个目录的一个子目录。-->
 <!--			这样，整个目录的结构看起来就像一棵大树。-->
 <!--    		</para>-->
 <!--    		<para>-->
@@ -587,7 +587,7 @@ sudo update-grub</screen>
     <para>
     	<itemizedlist>
       		<listitem>
-        	<para>Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其它用处。</para>
+        	<para>Ctrl-Shift-C 复制；Ctrl-Shift-V 粘贴。这是因为 Ctrl-C 和 Ctrl-V 在终端中有其他用处。</para>
       		</listitem>
       		<listitem>
         	<para>文件名输入了一部分之后，按 Tab 试试，当然 Tab 也可以补全命令。</para>
@@ -715,7 +715,7 @@ sudo shutdown -c '取消关机'</screen>
    
    <sect2>
     	<title>Ubuntu 与 Debian 的关系</title>
-    	<para>Debian Stable 版总是相对保守，而其它分支却没有较好支持，同时管理上也过于民主，造成决策缓慢。这样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。</para>
+    	<para>Debian Stable 版总是相对保守，而其他分支却没有较好支持，同时管理上也过于民主，造成决策缓慢。这样 Debian 开发者之一的 马克·舍特尔沃斯 决定创建 Ubuntu 项目。</para>
     	<para>Ubuntu 基于 Debian 的 unstable 或者 testing 分支，同时对来自 Debian 的部分软件包进行了一定的修改，以使其更加适合桌面使用。
     	同时，优化了安装过程，使 Ubuntu 安装起来更加容易。
     	</para>
@@ -732,7 +732,7 @@ sudo shutdown -c '取消关机'</screen>
    </sect2>
    
    <sect2>
-    	<title>Ubuntu 与其它基于 Ubuntu 的衍生发行版</title>
+    	<title>Ubuntu 与其他基于 Ubuntu 的衍生发行版</title>
     	<para>随着 Ubuntu 的发展，也出现了一些基于 Ubuntu 的发行版。但是，还没有出现强大得可以自己建立软件仓库的发行版。</para>
     	<para>这些软件一般以更加易于安装，默认的本地化支持，不同的主题风格，不同的软件组合，以及默认安装一些非自由软件作为卖点。</para>
     	<para>这些衍生发行版中，有一些相对比较好的，尊重知识产权，遵守软件的许可证，不会向系统中添加一些不太受欢迎的软件。但无论如何，

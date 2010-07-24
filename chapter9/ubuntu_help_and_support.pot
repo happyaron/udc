@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-21 22:05+0800\n"
+"POT-Creation-Date: 2010-07-24 19:27+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,133 +12,133 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:56(None)
-msgid "@@image: 'images/Lesson10_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_001.jpg'; md5=be9910bcbf86b449f1663d0dd6312097"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:82(None)
-msgid "@@image: 'images/Lesson10_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_002.jpg'; md5=3eedb18f0de3533c540e552f6ab21431"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:131(None)
-msgid "@@image: 'images/Lesson10_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_003.jpg'; md5=0793d3b4a3bc1d6a49ec02987f162c85"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:192(None)
-msgid "@@image: 'images/Lesson10_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_004.jpg'; md5=7a285e3a952bb1ddf933d6e72bc190bd"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:217(None)
-msgid "@@image: 'images/Lesson10_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_005.jpg'; md5=04367bf9471dfce78355c222f09fa9c0"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:238(None)
-msgid "@@image: 'images/Lesson10_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_006.jpg'; md5=dfc05f1a6a7cc52f110a0ac48dae5633"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:301(None)
-msgid "@@image: 'images/Lesson10_images_007.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_007.jpg'; md5=78c35963997ce63ba2b8e7dacb1df593"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:316(None)
-msgid "@@image: 'images/Lesson10_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_008.jpg'; md5=2747721c6d4157e5f64adba02555a1b1"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:334(None)
-msgid "@@image: 'images/Lesson10_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_009.jpg'; md5=4a13ca70d27f8d718808ee5b9af01811"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:349(None)
-msgid "@@image: 'images/Lesson10_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_010.jpg'; md5=5088035e3439a9c06f320562a5ec5246"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:363(None)
-msgid "@@image: 'images/Lesson10_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_011.jpg'; md5=b9f68b719d2855eb7fcc78254baa1de3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:412(None)
-msgid "@@image: 'images/Lesson10_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_012.jpg'; md5=8d4175673f75ca72e1111d30fcb04689"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:436(None)
-msgid "@@image: 'images/Lesson10_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_013.jpg'; md5=38f0758d7a22a8cb8697c7320a8641a2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:495(None)
-msgid "@@image: 'images/Lesson10_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_015.jpg'; md5=32be2fa2e9e5861b2f69d95c093ae824"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:510(None)
-msgid "@@image: 'images/Lesson10_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_016.jpg'; md5=06029537e2c25a6dd694a8097706dc32"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:526(None)
-msgid "@@image: 'images/Lesson10_images_018.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_018.jpg'; md5=22cf2e926721df732e4ddc3c18dd7f73"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:552(None)
-msgid "@@image: 'images/Lesson10_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_019.jpg'; md5=3af1e3c7cacbacfa0117461cf1515dc6"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:566(None)
-msgid "@@image: 'images/Lesson10_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_020.jpg'; md5=296b0d78c0732a60c620207765db06d7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:596(None)
-msgid "@@image: 'images/Lesson10_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_021.jpg'; md5=0a12c25d0e6c968b14bb20ce38740d17"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:637(None)
-msgid "@@image: 'images/Lesson10_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_022.jpg'; md5=acd3dad37956039a0472cc6a4e85c1f3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:707(None)
-msgid "@@image: 'images/Lesson10_images_032.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_032.jpg'; md5=b01835db8f63b8452f52d332ddb9cb18"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:741(None)
-msgid "@@image: 'images/Lesson10_images_033.jpg'; md5=THIS FILE DOESN'T EXIST"
+msgid "@@image: 'images/Lesson10_images_033.jpg'; md5=f0e36a9181441c44a8ed9747a9014bb9"
 msgstr ""
 
 #: chapter9/xinclude.xml:4(title)
@@ -313,7 +313,7 @@ msgstr ""
 msgid "The vast and ever growing Ubuntu community also offers a range of free support options for your Ubuntu desktop. Apart from the community documentation, the Ubuntu community provides support through:"
 msgstr ""
 
-#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:854(para)
+#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:853(para)
 msgid "Mailing lists"
 msgstr ""
 
@@ -605,7 +605,7 @@ msgstr ""
 msgid "Canonical provides professional support across the globe. You can purchase this support by contacting the Global Support Services team on the Ubuntu Web site at <ulink url=\"http://www.ubuntu.com/support/paid\">http://www.ubuntu.com/support/paid</ulink>. Professional support services can also be obtained through the network of companies and partners listed in the Canonical Marketplace."
 msgstr ""
 
-#: chapter9/xinclude.xml:722(title)
+#: chapter9/xinclude.xml:722(sect2)
 msgid "Professional Support Services from Canonical"
 msgstr ""
 
@@ -625,123 +625,123 @@ msgstr ""
 msgid "To purchase commercial support, please refer to <ulink url=\"http://www.ubuntu.com/support/services/\">Canonical Service</ulink>."
 msgstr ""
 
-#: chapter9/xinclude.xml:752(title)
+#: chapter9/xinclude.xml:751(title)
 msgid "Lesson Summary"
 msgstr ""
 
-#: chapter9/xinclude.xml:754(para)
+#: chapter9/xinclude.xml:753(para)
 msgid "In this lesson, you learned:"
 msgstr ""
 
-#: chapter9/xinclude.xml:758(para)
+#: chapter9/xinclude.xml:757(para)
 msgid "The various sources where you can find both free and paid for support on Ubuntu - system and online documentation, commercial support, community support, Launchpad and The Fridge."
 msgstr ""
 
-#: chapter9/xinclude.xml:764(para)
+#: chapter9/xinclude.xml:763(para)
 msgid "System and Online documentation provide the primary source of help and contains both official and community documentation."
 msgstr ""
 
-#: chapter9/xinclude.xml:769(para)
+#: chapter9/xinclude.xml:768(para)
 msgid "The Ubuntu community also provides vital support through mailing lists, Web forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
 msgstr ""
 
-#: chapter9/xinclude.xml:775(para)
+#: chapter9/xinclude.xml:774(para)
 msgid "You can use Launchpad to perform tasks such as searching Ubuntu related information, tracking bugs in Ubuntu."
 msgstr ""
 
-#: chapter9/xinclude.xml:780(para)
+#: chapter9/xinclude.xml:779(para)
 msgid "The Fridge is an information hub for the Ubuntu community, bringing together news, grassroots marketing, advocacy, team collaboration and great original content."
 msgstr ""
 
-#: chapter9/xinclude.xml:786(para)
+#: chapter9/xinclude.xml:785(para)
 msgid "Canonical provides professional support across the globe, which you can purchase by contacting the Global Support Services team."
 msgstr ""
 
-#: chapter9/xinclude.xml:792(para)
+#: chapter9/xinclude.xml:791(para)
 msgid "Professional support services can also be obtained through the companies and partners listed in the Canonical Marketplace."
 msgstr ""
 
-#: chapter9/xinclude.xml:799(title)
+#: chapter9/xinclude.xml:798(title)
 msgid "Review Exercise"
 msgstr ""
 
-#: chapter9/xinclude.xml:804(para)
+#: chapter9/xinclude.xml:803(para)
 msgid "Name the major sources of help and support for Ubuntu."
 msgstr ""
 
-#: chapter9/xinclude.xml:808(para)
+#: chapter9/xinclude.xml:807(para)
 msgid "The major sources of help and support for Ubuntu are system and online documentation, commercial support, community support, Launchpad and the Fridge."
 msgstr ""
 
-#: chapter9/xinclude.xml:816(para)
+#: chapter9/xinclude.xml:815(para)
 msgid "What types of documentation is available on the documentation site of Ubuntu?"
 msgstr ""
 
-#: chapter9/xinclude.xml:821(para)
+#: chapter9/xinclude.xml:820(para)
 msgid "Four types of documentations are available on the Ubuntu documentation site. These are the Ubuntu official documentation, community documentation, common questions and Ubuntu screencasts."
 msgstr ""
 
-#: chapter9/xinclude.xml:830(para)
+#: chapter9/xinclude.xml:829(para)
 msgid "What are the options for obtaining commercial support for Ubuntu?"
 msgstr ""
 
-#: chapter9/xinclude.xml:835(para)
+#: chapter9/xinclude.xml:834(para)
 msgid "The options for obtaining commercial support are either by getting the support directly from Canonical through their Global Support Services team or through the network of companies and partners that are listed in the Canonical Marketplace."
 msgstr ""
 
-#: chapter9/xinclude.xml:844(para)
+#: chapter9/xinclude.xml:843(para)
 msgid "What are the different platforms through which the Ubuntu community extends its help and support?"
 msgstr ""
 
-#: chapter9/xinclude.xml:849(para)
+#: chapter9/xinclude.xml:848(para)
 msgid "The different platforms through which the Ubuntu community extends its help and support are:"
 msgstr ""
 
-#: chapter9/xinclude.xml:858(para)
+#: chapter9/xinclude.xml:857(para)
 msgid "Web forums"
 msgstr ""
 
-#: chapter9/xinclude.xml:862(para)
+#: chapter9/xinclude.xml:861(para)
 msgid "IRC channels"
 msgstr ""
 
-#: chapter9/xinclude.xml:866(para)
+#: chapter9/xinclude.xml:865(para)
 msgid "LoCo teams"
 msgstr ""
 
-#: chapter9/xinclude.xml:870(para)
+#: chapter9/xinclude.xml:869(para)
 msgid "The Ubuntu wiki"
 msgstr ""
 
-#: chapter9/xinclude.xml:878(para)
+#: chapter9/xinclude.xml:877(para)
 msgid "What are IRC channels?"
 msgstr ""
 
-#: chapter9/xinclude.xml:882(para)
+#: chapter9/xinclude.xml:881(para)
 msgid "IRC channels are a form of real-time Internet chat that allows users to talk directly to one another."
 msgstr ""
 
-#: chapter9/xinclude.xml:889(para)
+#: chapter9/xinclude.xml:888(para)
 msgid "What help and support do the LoCo teams provide to Ubuntu users?"
 msgstr ""
 
-#: chapter9/xinclude.xml:894(para)
+#: chapter9/xinclude.xml:893(para)
 msgid "The LoCo teams are primarily involved in providing free local support, such as one-on-one troubleshooting, group sessions and presentations about Ubuntu. Simultaneously, these teams are actively engaged in providing non-English support to the Ubuntu users."
 msgstr ""
 
-#: chapter9/xinclude.xml:903(para)
+#: chapter9/xinclude.xml:902(para)
 msgid "What is Launchpad?"
 msgstr ""
 
-#: chapter9/xinclude.xml:907(para)
+#: chapter9/xinclude.xml:906(para)
 msgid "Launchpad is a Web-based suite that helps people develop free and open source software. It is a collaborative system developed by Canonical and is primarily used to track many aspects of open source development."
 msgstr ""
 
-#: chapter9/xinclude.xml:916(para)
+#: chapter9/xinclude.xml:915(para)
 msgid "What is the name of the bug-tracking tool available with Launchpad?"
 msgstr ""
 
-#: chapter9/xinclude.xml:921(para)
+#: chapter9/xinclude.xml:920(para)
 msgid "Malone is the bug-tracking tool available with Launchpad."
 msgstr ""
 

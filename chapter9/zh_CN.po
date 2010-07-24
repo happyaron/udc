@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course ubuntu-help-and-support\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-07-21 22:05+0800\n"
+"POT-Creation-Date: 2010-07-24 19:27+0800\n"
 "PO-Revision-Date: 2010-07-22 18:44+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -19,200 +19,244 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:56(None)
- 
-msgid "@@image: 'images/Lesson10_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_001.jpg'; "
+"md5=be9910bcbf86b449f1663d0dd6312097"
 msgstr ""
-"@@image: 'images/Lesson10_images_001.png'; "
-"md5=e915bba976451f7b3e2468fe1bc82989"
+"@@image: 'images/Lesson10_images_036.png'; "
+"md5=fd4be2c49135a50cf636fd32d1a2f059"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:82(None)
- 
-msgid "@@image: 'images/Lesson10_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_002.jpg'; "
+"md5=3eedb18f0de3533c540e552f6ab21431"
 msgstr ""
-"@@image: 'images/Lesson10_images_002.png'; "
-"md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+"@@image: 'images/Lesson10_images_027.png'; "
+"md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:131(None)
- 
-msgid "@@image: 'images/Lesson10_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_003.jpg'; "
+"md5=0793d3b4a3bc1d6a49ec02987f162c85"
 msgstr ""
-"@@image: 'images/Lesson10_images_003.png'; "
-"md5=4516deca4721171cb90f84e24c3138b5"
+"@@image: 'images/Lesson10_images_035.png'; "
+"md5=0d34db061c8c7fabbe5b94a2319ef27f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:192(None)
- 
-msgid "@@image: 'images/Lesson10_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_004.jpg'; "
+"md5=7a285e3a952bb1ddf933d6e72bc190bd"
 msgstr ""
-"@@image: 'images/Lesson10_images_004.png'; "
-"md5=f581330fbdbac89582ad56d0fe5cc516"
+"@@image: 'images/Lesson10_images_034.png'; "
+"md5=b05eca7f15e29eb93348ed9d779eee4f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:217(None)
- 
-msgid "@@image: 'images/Lesson10_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_005.jpg'; "
+"md5=04367bf9471dfce78355c222f09fa9c0"
 msgstr ""
-"@@image: 'images/Lesson10_images_005.png'; "
-"md5=8fc250755a7fc2589e3fc8c02cc83520"
+"@@image: 'images/Lesson10_images_023.png'; "
+"md5=ad23761748ed0732f480b8eeaa4159e0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:238(None)
- 
-msgid "@@image: 'images/Lesson10_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_006.jpg'; "
+"md5=dfc05f1a6a7cc52f110a0ac48dae5633"
 msgstr ""
-"@@image: 'images/Lesson10_images_006.png'; "
-"md5=8f999cc18ef54c08352392a0d6f1dac2"
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:301(None)
- 
-msgid "@@image: 'images/Lesson10_images_007.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_007.jpg'; "
+"md5=78c35963997ce63ba2b8e7dacb1df593"
 msgstr ""
-"@@image: 'images/Lesson10_images_007.png'; "
-"md5=36e2f61c6c284797e1033a8581cba4e9"
+"@@image: 'images/Lesson10_images_017.png'; "
+"md5=967f8515f6267d3893957f7ece56f95a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:316(None)
- 
-msgid "@@image: 'images/Lesson10_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_008.jpg'; "
+"md5=2747721c6d4157e5f64adba02555a1b1"
 msgstr ""
-"@@image: 'images/Lesson10_images_008.png'; "
-"md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:334(None)
- 
-msgid "@@image: 'images/Lesson10_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_009.jpg'; "
+"md5=4a13ca70d27f8d718808ee5b9af01811"
 msgstr ""
-"@@image: 'images/Lesson10_images_009.png'; "
-"md5=7860881cb910500753e6618870bf9b28"
+"@@image: 'images/Lesson10_images_023.png'; "
+"md5=ad23761748ed0732f480b8eeaa4159e0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:349(None)
- 
-msgid "@@image: 'images/Lesson10_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_010.jpg'; "
+"md5=5088035e3439a9c06f320562a5ec5246"
 msgstr ""
-"@@image: 'images/Lesson10_images_010.png'; "
-"md5=a56d81763de07e8c82c576e0e61290f9"
+"@@image: 'images/Lesson10_images_014.png'; "
+"md5=576fd5224bd2af6fd60110056c47846a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:363(None)
- 
-msgid "@@image: 'images/Lesson10_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_011.jpg'; "
+"md5=b9f68b719d2855eb7fcc78254baa1de3"
 msgstr ""
-"@@image: 'images/Lesson10_images_011.png'; "
-"md5=c1c56334f8afcf929c62dce7c246c121"
+"@@image: 'images/Lesson10_images_022.png'; "
+"md5=b787be41e41204c97240a11ac501ad2b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:412(None)
- 
-msgid "@@image: 'images/Lesson10_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_012.jpg'; "
+"md5=8d4175673f75ca72e1111d30fcb04689"
 msgstr ""
-"@@image: 'images/Lesson10_images_012.png'; "
-"md5=75bda44452a7a610f3a9199f9fefa751"
+"@@image: 'images/Lesson10_images_025.png'; "
+"md5=c574ffd1b99578759473fff2b4d4d458"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:436(None)
- 
-msgid "@@image: 'images/Lesson10_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_013.jpg'; "
+"md5=38f0758d7a22a8cb8697c7320a8641a2"
 msgstr ""
-"@@image: 'images/Lesson10_images_013.png'; "
-"md5=19c9d8c3013d2ffc0c494b10839aad4b"
+"@@image: 'images/Lesson10_images_022.png'; "
+"md5=b787be41e41204c97240a11ac501ad2b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:495(None)
- 
-msgid "@@image: 'images/Lesson10_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_015.jpg'; "
+"md5=32be2fa2e9e5861b2f69d95c093ae824"
 msgstr ""
-"@@image: 'images/Lesson10_images_015.png'; "
-"md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+"@@image: 'images/Lesson10_images_031.png'; "
+"md5=6e57129bb90caec2ee5c2f73a2fcd63a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:510(None)
- 
-msgid "@@image: 'images/Lesson10_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_016.jpg'; "
+"md5=06029537e2c25a6dd694a8097706dc32"
 msgstr ""
-"@@image: 'images/Lesson10_images_016.png'; "
-"md5=74de2a36f128e97dd46c7e9046b0d4da"
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:526(None)
- 
-msgid "@@image: 'images/Lesson10_images_018.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_018.jpg'; "
+"md5=22cf2e926721df732e4ddc3c18dd7f73"
 msgstr ""
-"@@image: 'images/Lesson10_images_018.png'; "
-"md5=0521700b06b668ae31897f31e9c086a7"
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:552(None)
- 
-msgid "@@image: 'images/Lesson10_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_019.jpg'; "
+"md5=3af1e3c7cacbacfa0117461cf1515dc6"
 msgstr ""
-"@@image: 'images/Lesson10_images_019.png'; "
-"md5=3e8207cbfcfcc242774714ae195ff360"
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:566(None)
- 
-msgid "@@image: 'images/Lesson10_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_020.jpg'; "
+"md5=296b0d78c0732a60c620207765db06d7"
 msgstr ""
-"@@image: 'images/Lesson10_images_020.png'; "
-"md5=0df8bfdec16f42137670df1b19afcb15"
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:596(None)
- 
-msgid "@@image: 'images/Lesson10_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_021.jpg'; "
+"md5=0a12c25d0e6c968b14bb20ce38740d17"
 msgstr ""
-"@@image: 'images/Lesson10_images_021.png'; "
-"md5=4fbe18b5540818faad59ff696c4393eb"
+"@@image: 'images/Lesson10_images_035.png'; "
+"md5=0d34db061c8c7fabbe5b94a2319ef27f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:637(None)
- 
-msgid "@@image: 'images/Lesson10_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_022.jpg'; "
+"md5=acd3dad37956039a0472cc6a4e85c1f3"
 msgstr ""
-"@@image: 'images/Lesson10_images_002.png'; "
-"md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+"@@image: 'images/Lesson10_images_028.png'; "
+"md5=c43fccd218eaa732d5c9a7948c46c3ea"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:707(None)
- 
-msgid "@@image: 'images/Lesson10_images_032.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_032.jpg'; "
+"md5=b01835db8f63b8452f52d332ddb9cb18"
 msgstr ""
-"@@image: 'images/Lesson10_images_032.png'; "
-"md5=9e46bc184b317ea17c31017b911e1899"
+"@@image: 'images/Lesson10_images_026.png'; "
+"md5=d565d8f3620b96ddc2d7de4b27167a86"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter9/xinclude.xml:741(None)
- 
-msgid "@@image: 'images/Lesson10_images_033.jpg'; md5=THIS FILE DOESN'T EXIST"
+#, fuzzy
+msgid ""
+"@@image: 'images/Lesson10_images_033.jpg'; "
+"md5=f0e36a9181441c44a8ed9747a9014bb9"
 msgstr ""
-"@@image: 'images/Lesson10_images_033.png'; "
-"md5=fad9bd35e30210d7c255b6c039f9e19e"
+"@@image: 'images/Lesson10_images_030.png'; "
+"md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
 
 #: chapter9/xinclude.xml:4(title)
 msgid "Ubuntu Help and Support"
@@ -543,7 +587,7 @@ msgstr ""
 "不断壮大的 Ubuntu 社区也在一定范围内提供对 Ubuntu 桌面的免费支持。除社区文档"
 "外还提供以下的支持方式："
 
-#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:854(para)
+#: chapter9/xinclude.xml:262(para) chapter9/xinclude.xml:853(para)
 msgid "Mailing lists"
 msgstr "邮件列表"
 
@@ -1040,7 +1084,8 @@ msgid ""
 "<ulink url=\"https://code.launchpad.net/\">Bazzar</ulink> (bzr) code hosting "
 "service."
 msgstr ""
-"<ulink url=\"https://code.launchpad.net/\">Bazzar</ulink> (bzr) 代码托管服务。"
+"<ulink url=\"https://code.launchpad.net/\">Bazzar</ulink> (bzr) 代码托管服"
+"务。"
 
 #: chapter9/xinclude.xml:662(para)
 msgid ""
@@ -1054,8 +1099,8 @@ msgid ""
 "<ulink url=\"https://blueprints.launchpad.net/\">Bluprints</ulink> "
 "registration and hosting service."
 msgstr ""
-"<ulink url=\"https://blueprints.launchpad.net/\">Bluprints</ulink> "
-"注册及托管服务。"
+"<ulink url=\"https://blueprints.launchpad.net/\">Bluprints</ulink> 注册及托管"
+"服务。"
 
 #: chapter9/xinclude.xml:670(para)
 msgid ""
@@ -1069,17 +1114,15 @@ msgid ""
 "<ulink url=\"https://answers.launchpad.net/\">Questions and Answers</ulink> "
 "tracking service."
 msgstr ""
-"<ulink url=\"https://answers.launchpad.net/\">技术问答</ulink> "
-"平台服务。"
-
+"<ulink url=\"https://answers.launchpad.net/\">技术问答</ulink> 平台服务。"
 
 #: chapter9/xinclude.xml:678(para)
 msgid ""
 "<ulink url=\"https://launchpad.net/soyuz\">Soyuz</ulink> Personal Package "
 "Archive (PPA) service."
 msgstr ""
-"<ulink url=\"https://launchpad.net/soyuz\">Soyuz</ulink> 个人软件包仓库"
-"(PPA)服务。"
+"<ulink url=\"https://launchpad.net/soyuz\">Soyuz</ulink> 个人软件包仓库(PPA)"
+"服务。"
 
 #: chapter9/xinclude.xml:685(title) chapter9/xinclude.xml:703(title)
 msgid "The Fridge"
@@ -1127,7 +1170,7 @@ msgstr ""
 "队订购支持，也可以在 Canonical 市场寻找 Canonical 合作伙伴提供的专业支持服"
 "务。"
 
-#: chapter9/xinclude.xml:722(title)
+#: chapter9/xinclude.xml:722(sect2)
 msgid "Professional Support Services from Canonical"
 msgstr "Canonical 提供的专业支持服务"
 
@@ -1164,19 +1207,18 @@ msgid ""
 "To purchase commercial support, please refer to <ulink url=\"http://www."
 "ubuntu.com/support/services/\">Canonical Service</ulink>."
 msgstr ""
-"要购买商业服务，请参考 <ulink url=\"http://www."
-"ubuntu.com/support/services/\">Canonical 服务</ulink> 页面。"
-""
+"要购买商业服务，请参考 <ulink url=\"http://www.ubuntu.com/support/services/"
+"\">Canonical 服务</ulink> 页面。"
 
-#: chapter9/xinclude.xml:752(title)
+#: chapter9/xinclude.xml:751(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter9/xinclude.xml:754(para)
+#: chapter9/xinclude.xml:753(para)
 msgid "In this lesson, you learned:"
 msgstr "在本课中，您已经学习了："
 
-#: chapter9/xinclude.xml:758(para)
+#: chapter9/xinclude.xml:757(para)
 msgid ""
 "The various sources where you can find both free and paid for support on "
 "Ubuntu - system and online documentation, commercial support, community "
@@ -1185,13 +1227,13 @@ msgstr ""
 "您可以获得关于 Ubuntu 的帮助的各种资源 - 系统和在线文档、社区支持、"
 "Launchpad、Fridge 新闻站和商业支持。"
 
-#: chapter9/xinclude.xml:764(para)
+#: chapter9/xinclude.xml:763(para)
 msgid ""
 "System and Online documentation provide the primary source of help and "
 "contains both official and community documentation."
 msgstr "系统和在线文档是最基本的帮助信息来源，它们包含了官方文档和社区文档。"
 
-#: chapter9/xinclude.xml:769(para)
+#: chapter9/xinclude.xml:768(para)
 msgid ""
 "The Ubuntu community also provides vital support through mailing lists, Web "
 "forums, IRC channels, LoCo teams and the Ubuntu Team Wiki."
@@ -1199,14 +1241,14 @@ msgstr ""
 "Ubuntu 社区还通过邮件列表、网络论坛、IRC 频道、本地社区团队和 Wiki 提供重要的"
 "支持。"
 
-#: chapter9/xinclude.xml:775(para)
+#: chapter9/xinclude.xml:774(para)
 msgid ""
 "You can use Launchpad to perform tasks such as searching Ubuntu related "
 "information, tracking bugs in Ubuntu."
 msgstr ""
 "您可以使用 Launchpad 搜索 Ubuntu 相关的信息，并初步掌握缺陷报告的方法。"
 
-#: chapter9/xinclude.xml:780(para)
+#: chapter9/xinclude.xml:779(para)
 msgid ""
 "The Fridge is an information hub for the Ubuntu community, bringing together "
 "news, grassroots marketing, advocacy, team collaboration and great original "
@@ -1215,28 +1257,28 @@ msgstr ""
 "Fridge 新闻站是 Ubuntu 社区重要的新闻汇聚地，它囊括了新闻、基层营销、宣传推"
 "广、团队合作和很多原创内容。"
 
-#: chapter9/xinclude.xml:786(para)
+#: chapter9/xinclude.xml:785(para)
 msgid ""
 "Canonical provides professional support across the globe, which you can "
 "purchase by contacting the Global Support Services team."
 msgstr ""
 "Canonical 提供全球专业支持，您可以通过与全球支持服务团队联系以进行购买。"
 
-#: chapter9/xinclude.xml:792(para)
+#: chapter9/xinclude.xml:791(para)
 msgid ""
 "Professional support services can also be obtained through the companies and "
 "partners listed in the Canonical Marketplace."
 msgstr "您还可以通过 Canonical 市场所列出的公司获得专业支持。"
 
-#: chapter9/xinclude.xml:799(title)
+#: chapter9/xinclude.xml:798(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter9/xinclude.xml:804(para)
+#: chapter9/xinclude.xml:803(para)
 msgid "Name the major sources of help and support for Ubuntu."
 msgstr "Ubuntu 的主要帮助和支持资源的名称各是哪些？"
 
-#: chapter9/xinclude.xml:808(para)
+#: chapter9/xinclude.xml:807(para)
 msgid ""
 "The major sources of help and support for Ubuntu are system and online "
 "documentation, commercial support, community support, Launchpad and the "
@@ -1245,12 +1287,12 @@ msgstr ""
 "Ubuntu 的主要帮助和支持资源有系统和在线文档、社区支持、商业支持、Launchpad "
 "和 Fridge 新闻站。"
 
-#: chapter9/xinclude.xml:816(para)
+#: chapter9/xinclude.xml:815(para)
 msgid ""
 "What types of documentation is available on the documentation site of Ubuntu?"
 msgstr "Ubuntu 文档网站上有哪些类型的文档？"
 
-#: chapter9/xinclude.xml:821(para)
+#: chapter9/xinclude.xml:820(para)
 msgid ""
 "Four types of documentations are available on the Ubuntu documentation site. "
 "These are the Ubuntu official documentation, community documentation, common "
@@ -1259,11 +1301,11 @@ msgstr ""
 "Ubuntu 文档网站上共有四种类型的文档，它们分别是：Ubuntu 官方文档、社区文档、"
 "常见问题和 Ubuntu 屏幕录像。"
 
-#: chapter9/xinclude.xml:830(para)
+#: chapter9/xinclude.xml:829(para)
 msgid "What are the options for obtaining commercial support for Ubuntu?"
 msgstr "要获得 Ubuntu 的商业支持有哪些选择？"
 
-#: chapter9/xinclude.xml:835(para)
+#: chapter9/xinclude.xml:834(para)
 msgid ""
 "The options for obtaining commercial support are either by getting the "
 "support directly from Canonical through their Global Support Services team "
@@ -1273,50 +1315,50 @@ msgstr ""
 "可以通过 Canonical 全球支持服务小组或其他在 Canonical 市场列出的合作伙伴获得"
 "商业支持。"
 
-#: chapter9/xinclude.xml:844(para)
+#: chapter9/xinclude.xml:843(para)
 msgid ""
 "What are the different platforms through which the Ubuntu community extends "
 "its help and support?"
 msgstr "Ubuntu 社区通过哪些平台来扩展其帮助和支持？"
 
-#: chapter9/xinclude.xml:849(para)
+#: chapter9/xinclude.xml:848(para)
 msgid ""
 "The different platforms through which the Ubuntu community extends its help "
 "and support are:"
 msgstr "Ubuntu 社区通过以下平台扩展其帮助和支持："
 
-#: chapter9/xinclude.xml:858(para)
+#: chapter9/xinclude.xml:857(para)
 msgid "Web forums"
 msgstr "网络论坛"
 
-#: chapter9/xinclude.xml:862(para)
+#: chapter9/xinclude.xml:861(para)
 msgid "IRC channels"
 msgstr "IRC 频道"
 
-#: chapter9/xinclude.xml:866(para)
+#: chapter9/xinclude.xml:865(para)
 msgid "LoCo teams"
 msgstr "本地社区团队"
 
-#: chapter9/xinclude.xml:870(para)
+#: chapter9/xinclude.xml:869(para)
 msgid "The Ubuntu wiki"
 msgstr "Ubuntu Wiki"
 
-#: chapter9/xinclude.xml:878(para)
+#: chapter9/xinclude.xml:877(para)
 msgid "What are IRC channels?"
 msgstr "什么是 IRC 频道？"
 
-#: chapter9/xinclude.xml:882(para)
+#: chapter9/xinclude.xml:881(para)
 msgid ""
 "IRC channels are a form of real-time Internet chat that allows users to talk "
 "directly to one another."
 msgstr ""
 "IRC 频道是一种即时互联网聊天工具，它使不同的人可以直接、即时地进行交流。"
 
-#: chapter9/xinclude.xml:889(para)
+#: chapter9/xinclude.xml:888(para)
 msgid "What help and support do the LoCo teams provide to Ubuntu users?"
 msgstr "本地社区团队为 Ubuntu 用户提供哪些帮助和支持？"
 
-#: chapter9/xinclude.xml:894(para)
+#: chapter9/xinclude.xml:893(para)
 msgid ""
 "The LoCo teams are primarily involved in providing free local support, such "
 "as one-on-one troubleshooting, group sessions and presentations about "
@@ -1326,11 +1368,11 @@ msgstr ""
 "本地社区团队主要提供免费的本地支持，例如一对一的问题处理、进行关于 Ubuntu 的"
 "演讲和聚会。同时，这些团队都积极地参与对非英语用户提供支持。"
 
-#: chapter9/xinclude.xml:903(para)
+#: chapter9/xinclude.xml:902(para)
 msgid "What is Launchpad?"
 msgstr "什么是 Launchpad？"
 
-#: chapter9/xinclude.xml:907(para)
+#: chapter9/xinclude.xml:906(para)
 msgid ""
 "Launchpad is a Web-based suite that helps people develop free and open "
 "source software. It is a collaborative system developed by Canonical and is "
@@ -1339,11 +1381,11 @@ msgstr ""
 "Launchpad 是一个基于 Web 界面的自由软件开发工具套件，由 Canonical 开发并以为"
 "开源软件开放提供多项跟踪服务为基本目标。"
 
-#: chapter9/xinclude.xml:916(para)
+#: chapter9/xinclude.xml:915(para)
 msgid "What is the name of the bug-tracking tool available with Launchpad?"
 msgstr "Launchpad 提供的缺陷跟踪工具的名字是什么？"
 
-#: chapter9/xinclude.xml:921(para)
+#: chapter9/xinclude.xml:920(para)
 msgid "Malone is the bug-tracking tool available with Launchpad."
 msgstr "Malone 是 Launchpad 所提供的缺陷跟踪工具。"
 
@@ -1359,18 +1401,136 @@ msgstr ""
 "  wzssyqa https://launchpad.net/~wzssyqa"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson10_images_022.png'; "
-#~ "md5=b787be41e41204c97240a11ac501ad2b"
+#~ "@@image: 'images/Lesson10_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
 #~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_022.png'; "
-#~ "md5=b787be41e41204c97240a11ac501ad2b"
+#~ "@@image: 'images/Lesson10_images_001.png'; "
+#~ "md5=e915bba976451f7b3e2468fe1bc82989"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson10_images_023.png'; "
-#~ "md5=ad23761748ed0732f480b8eeaa4159e0"
+#~ "@@image: 'images/Lesson10_images_002.jpg'; md5=THIS FILE DOESN'T EXIST"
 #~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_023.png'; "
-#~ "md5=ad23761748ed0732f480b8eeaa4159e0"
+#~ "@@image: 'images/Lesson10_images_002.png'; "
+#~ "md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_003.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_003.png'; "
+#~ "md5=4516deca4721171cb90f84e24c3138b5"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_004.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_004.png'; "
+#~ "md5=f581330fbdbac89582ad56d0fe5cc516"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_005.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_005.png'; "
+#~ "md5=8fc250755a7fc2589e3fc8c02cc83520"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_006.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_006.png'; "
+#~ "md5=8f999cc18ef54c08352392a0d6f1dac2"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_007.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_007.png'; "
+#~ "md5=36e2f61c6c284797e1033a8581cba4e9"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_008.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_008.png'; "
+#~ "md5=d4efcf45890a3c5d609a1ec70eee6e2d"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_009.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_009.png'; "
+#~ "md5=7860881cb910500753e6618870bf9b28"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_010.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_010.png'; "
+#~ "md5=a56d81763de07e8c82c576e0e61290f9"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_011.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_011.png'; "
+#~ "md5=c1c56334f8afcf929c62dce7c246c121"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_012.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_012.png'; "
+#~ "md5=75bda44452a7a610f3a9199f9fefa751"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_013.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_013.png'; "
+#~ "md5=19c9d8c3013d2ffc0c494b10839aad4b"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_015.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_015.png'; "
+#~ "md5=ed2d237abe0e6d2cb63199dbceffe0cf"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_016.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_016.png'; "
+#~ "md5=74de2a36f128e97dd46c7e9046b0d4da"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_018.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_018.png'; "
+#~ "md5=0521700b06b668ae31897f31e9c086a7"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_019.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_019.png'; "
+#~ "md5=3e8207cbfcfcc242774714ae195ff360"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_020.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_020.png'; "
+#~ "md5=0df8bfdec16f42137670df1b19afcb15"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_021.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_021.png'; "
+#~ "md5=4fbe18b5540818faad59ff696c4393eb"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_022.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_002.png'; "
+#~ "md5=76e4a2387bc2ed13431afbbc7e4df5c4"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_032.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_032.png'; "
+#~ "md5=9e46bc184b317ea17c31017b911e1899"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson10_images_033.jpg'; md5=THIS FILE DOESN'T EXIST"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson10_images_033.png'; "
+#~ "md5=fad9bd35e30210d7c255b6c039f9e19e"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson10_images_024.png'; "
@@ -1380,74 +1540,11 @@ msgstr ""
 #~ "md5=4d974ef3cd00828995a855e7ff7c0f7c"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson10_images_025.png'; "
-#~ "md5=c574ffd1b99578759473fff2b4d4d458"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_025.png'; "
-#~ "md5=c574ffd1b99578759473fff2b4d4d458"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_026.png'; "
-#~ "md5=d565d8f3620b96ddc2d7de4b27167a86"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_026.png'; "
-#~ "md5=d565d8f3620b96ddc2d7de4b27167a86"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_027.png'; "
-#~ "md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_027.png'; "
-#~ "md5=e87fec5c40399226f4d4fd5ccb3ef0e1"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_028.png'; "
-#~ "md5=c43fccd218eaa732d5c9a7948c46c3ea"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_028.png'; "
-#~ "md5=c43fccd218eaa732d5c9a7948c46c3ea"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson10_images_029.png'; "
 #~ "md5=555c1ab6556d75cbb01aeea4889a8dde"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson10_images_029.png'; "
 #~ "md5=555c1ab6556d75cbb01aeea4889a8dde"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_030.png'; "
-#~ "md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_030.png'; "
-#~ "md5=2f6a6c1cfc0a16ba6889eda00c21ebc5"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_031.png'; "
-#~ "md5=6e57129bb90caec2ee5c2f73a2fcd63a"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_031.png'; "
-#~ "md5=6e57129bb90caec2ee5c2f73a2fcd63a"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_034.png'; "
-#~ "md5=b05eca7f15e29eb93348ed9d779eee4f"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_034.png'; "
-#~ "md5=b05eca7f15e29eb93348ed9d779eee4f"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_035.png'; "
-#~ "md5=0d34db061c8c7fabbe5b94a2319ef27f"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_035.png'; "
-#~ "md5=0d34db061c8c7fabbe5b94a2319ef27f"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_036.png'; "
-#~ "md5=fd4be2c49135a50cf636fd32d1a2f059"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_036.png'; "
-#~ "md5=fd4be2c49135a50cf636fd32d1a2f059"
 
 #~ msgid "Registration Page"
 #~ msgstr "注册"
@@ -1741,19 +1838,5 @@ msgstr ""
 #~ "emphasis> 页下方的 <emphasis role=\"strong\">send us your information</"
 #~ "emphasis> 链接即可。"
 
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_014.png'; "
-#~ "md5=576fd5224bd2af6fd60110056c47846a"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_014.png'; "
-#~ "md5=576fd5224bd2af6fd60110056c47846a"
-
 #~ msgid "Ubuntu Forum Rules Page"
 #~ msgstr "Ubuntu 论坛守则"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson10_images_017.png'; "
-#~ "md5=967f8515f6267d3893957f7ece56f95a"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson10_images_017.png'; "
-#~ "md5=967f8515f6267d3893957f7ece56f95a"
