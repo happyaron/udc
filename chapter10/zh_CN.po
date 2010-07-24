@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-07-24 19:27+0800\n"
-"PO-Revision-Date: 2010-07-24 19:24+0800\n"
+"PO-Revision-Date: 2010-07-24 19:48+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:73(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/partitioning.jpg'; md5=df1f813a2b986ee4299fe92b4a229916"
 msgstr ""
@@ -28,7 +28,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:335(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_010.jpg'; "
 "md5=69ddb7a3d5ad310dbda1ec95c52b2657"
@@ -39,7 +39,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:378(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_011.jpg'; "
 "md5=97f4d7264b93ddd20266cd7d857db953"
@@ -50,7 +50,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:400(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_012.jpg'; "
 "md5=7118e18d834d82720d09b4aef1363998"
@@ -61,7 +61,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:475(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_013.jpg'; "
 "md5=d0f793cbf525ae3a3fad97bad6341c4d"
@@ -72,7 +72,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:503(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_014.jpg'; "
 "md5=054390c7412fe871ec514cc5880d8187"
@@ -83,7 +83,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:518(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_015.jpg'; "
 "md5=8bda93fde9fb1f940dbb5e3d72946881"
@@ -94,7 +94,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:552(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_016.jpg'; "
 "md5=4380da587544bea88386c3d21417361a"
@@ -105,7 +105,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:617(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_019.jpg'; "
 "md5=d67160cdcd17606443ec295c9c805162"
@@ -116,7 +116,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:640(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_020.jpg'; "
 "md5=2af2a43186e8b4ce299849c2eb9904fe"
@@ -127,7 +127,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:667(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_017.jpg'; "
 "md5=74ca693df2502fae3eab1eeb0c19ed6b"
@@ -138,7 +138,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:759(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_021.jpg'; "
 "md5=1e4141e859ecef2de20bb724856a76b1"
@@ -149,7 +149,7 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:778(None)
-#, fuzzy
+
 msgid ""
 "@@image: 'images/Lesson11_images_022.jpg'; "
 "md5=2cb87d164e283a3b2d34de3755514f61"
@@ -774,7 +774,7 @@ msgstr ""
 "定分区大小。您也可以通过拖动顶部白条上的黑色粗体箭头指定大小。"
 
 #: chapter10/xinclude.xml:429(para)
-#, fuzzy
+
 msgid ""
 "According to ISO 2955, the upper case prefixes are 1000 base. But in some "
 "software,they are used as 1024 base,such as 1GB is considered as 1024MB. At "
@@ -795,18 +795,19 @@ msgid ""
 "B is short of byte,which is 8 bit. When ISPs talking about the speed of "
 "network,they usually use bit."
 msgstr ""
+"B 是字节的缩写，代表 8 位。您的服务提供商(ISP)在谈论网速时使用的是位而非字节。"
 
 #: chapter10/xinclude.xml:436(para)
 msgid "1Kbps is 1000 bit per second,then it is 1000/8 B/s=125B/s;"
-msgstr ""
+msgstr "1Kbps 是每秒 1000 位，因而是 125B/s；"
 
 #: chapter10/xinclude.xml:437(para)
 msgid "1Mbps is 1000*1000/8/1024=122.0703125 KB/s;"
-msgstr ""
+msgstr "1Mbps 是 1000*1000/8/1024=122.0703125 KB/s；"
 
 #: chapter10/xinclude.xml:438(para)
 msgid "1Gbps is 1000*1000*1000/8/1024/1024=119.20928955078125 MB/s."
-msgstr ""
+msgstr "1Gbps 是 1000*1000*1000/8/1024/1024=119.20928955078125 MB/s。"
 
 #: chapter10/xinclude.xml:442(para)
 msgid ""
