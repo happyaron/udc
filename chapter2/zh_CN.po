@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-desktop-course exploring-the-ubuntu-desktop\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
 "POT-Creation-Date: 2010-07-24 19:26+0800\n"
-"PO-Revision-Date: 2010-07-25 11:42+0800\n"
+"PO-Revision-Date: 2010-07-21 22:12+0800\n"
 "Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -900,7 +900,7 @@ msgstr "从回收站中删除文件"
 
 #: chapter2/xinclude.xml:491(title)
 msgid "Changing the Default Language"
-msgstr "添加语言支持和更改默认语言"
+msgstr "更改默认语言"
 
 #: chapter2/xinclude.xml:493(para)
 msgid ""
