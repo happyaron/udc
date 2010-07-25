@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course using-internet\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-07-24 19:26+0800\n"
+"POT-Creation-Date: 2010-07-25 13:11+0800\n"
 "PO-Revision-Date: 2010-07-25 12:23+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -19,7 +19,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:101(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_001.jpg'; "
 "md5=5b300fde0867fffe7e549812695ca6c1"
@@ -30,7 +29,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:115(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_002.jpg'; "
 "md5=0d42fbef08b82b2e57a086501994dbc6"
@@ -41,7 +39,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:141(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_003.jpg'; "
 "md5=2fe35a8433e6a24c0a9b1de690c332fc"
@@ -52,7 +49,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:156(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_004.jpg'; "
 "md5=6392ff5befc04109d1666f00aa5fe2c0"
@@ -63,7 +59,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:210(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_005.jpg'; "
 "md5=03ed802f473a3ed9168ca42cdf94f758"
@@ -74,7 +69,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:227(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_006.jpg'; "
 "md5=1121c9833c6ad6a005f3dfc45fe4b7b7"
@@ -85,7 +79,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:280(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_009.jpg'; "
 "md5=824f2bb01954543e1a140306c42beda3"
@@ -96,7 +89,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:307(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_010.jpg'; "
 "md5=4c46c0ca8003769e77e285327a3bd47e"
@@ -107,7 +99,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:342(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_008.jpg'; "
 "md5=1c9677a968f9d1771c51839e0778966b"
@@ -118,7 +109,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:360(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_007.jpg'; "
 "md5=2d89f74f04abc1c00f30761265e4b0ae"
@@ -129,7 +119,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:446(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_011.jpg'; "
 "md5=46be9a34938b8752dc4e4a5e74671e13"
@@ -140,7 +129,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:477(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_012.jpg'; "
 "md5=5d09590d300f2ed30c12495d75d06279"
@@ -151,7 +139,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:505(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_013.jpg'; "
 "md5=5cc369adc7f54ea88780833e742b8efd"
@@ -162,7 +149,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:541(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_016.jpg'; "
 "md5=e4673784ea6cbb43e8e98dc9328303d5"
@@ -173,7 +159,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:561(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_014.jpg'; "
 "md5=9b86861703991c05f25c3168010ec12c"
@@ -184,7 +169,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:570(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_015.jpg'; "
 "md5=b1233b328982ee8dea75491f14a3b0ee"
@@ -195,7 +179,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:609(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_017.jpg'; "
 "md5=35a381685123d74a97abccd96226330a"
@@ -206,7 +189,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:641(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_019.jpg'; "
 "md5=9a0a9ee37ae665c1baa65aa901ffa1a1"
@@ -217,7 +199,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:655(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_020.jpg'; "
 "md5=e55d4a08e6ae2f73bfa3ef952279960c"
@@ -228,7 +209,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:671(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_021.jpg'; "
 "md5=79112974e5a8c5c3227efb99f1abe43e"
@@ -239,7 +219,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:687(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_022.jpg'; "
 "md5=a4582cdebae863053b8ee1a946890992"
@@ -250,7 +229,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:699(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_023.jpg'; "
 "md5=b509b4e5b2a3ad2dd3b273aaf5dc7301"
@@ -261,7 +239,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:769(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_033.jpg'; "
 "md5=ef4f0b880a24b39b9b163ee321dc5bdf"
@@ -272,7 +249,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:795(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_034.jpg'; "
 "md5=967ae3fc1039f9420c1bcc994d88fbb3"
@@ -283,7 +259,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:814(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_035.jpg'; "
 "md5=a1c3ddfc62e3f08a31fe077f1da2d44f"
@@ -294,7 +269,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:833(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_036.jpg'; "
 "md5=52841e53c01a262301d0154427542fc2"
@@ -305,7 +279,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:861(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_037.jpg'; "
 "md5=adf57caf6d7ed671f218e5de401dab18"
@@ -316,7 +289,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:930(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_038.jpg'; "
 "md5=a23a0c8ac01af40ba479d37e3d94bfbc"
@@ -327,7 +299,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:972(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_039.jpg'; "
 "md5=138e6ac48238099f79d6e384ed728b84"
@@ -338,7 +309,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1001(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_040.jpg'; "
 "md5=7ceb898088cb6500c78823080f4c80a7"
@@ -349,7 +319,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1050(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_041.jpg'; "
 "md5=749cc2a49c83d4207a0a33e76027f080"
@@ -360,7 +329,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1064(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_042.jpg'; "
 "md5=732bb6136ea464183d5df09a3c5faf1a"
@@ -371,7 +339,6 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter3/xinclude.xml:1079(None)
-
 msgid ""
 "@@image: 'images/Lesson04_images_043.jpg'; "
 "md5=96ceb31eb9d280ca0e11870247c67f11"
@@ -381,52 +348,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1133(None)
-
-msgid ""
-"@@image: 'images/Lesson04_images_044.jpg'; "
-"md5=5b9c3d92506b3cf9fb74f28a093a1512"
-msgstr ""
-"@@image: 'images/Lesson04_images_012.png'; "
-"md5=eab8ec9a280b3b21e7a505051361f842"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1171(None)
-
-msgid ""
-"@@image: 'images/Lesson04_images_045.jpg'; "
-"md5=f44d2714da99bf9e6f73056e0a006981"
-msgstr ""
-"@@image: 'images/Lesson04_images_046.png'; "
-"md5=f4eed7931ec8afd949fa4ea1316c6d99"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1194(None)
-
-msgid ""
-"@@image: 'images/Lesson04_images_046.jpg'; "
-"md5=b5a6cffc09b4385890815cdf1efa7ea8"
-msgstr ""
-"@@image: 'images/Lesson04_images_006.png'; "
-"md5=0c4ef52c58192df4a48f401fe4a9a800"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1216(None)
-
-msgid ""
-"@@image: 'images/Lesson04_images_047.jpg'; "
-"md5=fac60568e7343209582028384b775961"
-msgstr ""
-"@@image: 'images/Lesson04_images_020.png'; "
-"md5=4949755a8bfc1cb6ce020f2354177a51"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1240(None)
-
+#: chapter3/xinclude.xml:1129(None)
 msgid ""
 "@@image: 'images/Lesson04_images_048.jpg'; "
 "md5=1f7828b458c6ed987c142960aa322d3a"
@@ -436,8 +358,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1250(None)
-
+#: chapter3/xinclude.xml:1139(None)
 msgid ""
 "@@image: 'images/Lesson04_images_049.jpg'; "
 "md5=ce2309977da197625e8f68b37382d274"
@@ -447,8 +368,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1283(None)
-
+#: chapter3/xinclude.xml:1170(None)
 msgid ""
 "@@image: 'images/Lesson04_images_050.jpg'; "
 "md5=b7e645b172149715648ea6e6d5fbd1a9"
@@ -458,8 +378,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1311(None)
-
+#: chapter3/xinclude.xml:1198(None)
 msgid ""
 "@@image: 'images/Lesson04_images_051.jpg'; "
 "md5=4c351889d751375ddef237a998bf8092"
@@ -469,8 +388,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1329(None)
-
+#: chapter3/xinclude.xml:1216(None)
 msgid ""
 "@@image: 'images/Lesson04_images_052.jpg'; "
 "md5=d9801ea0b0f2587ffc8ce244be4c0825"
@@ -480,8 +398,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1371(None)
-
+#: chapter3/xinclude.xml:1258(None)
 msgid ""
 "@@image: 'images/Lesson04_images_053.jpg'; "
 "md5=e63b00c70fed896551fa9711bba6be53"
@@ -491,8 +408,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1443(None)
-
+#: chapter3/xinclude.xml:1330(None)
 msgid ""
 "@@image: 'images/Lesson04_images_054.jpg'; "
 "md5=c0d462fe8050fb824949aa982ecbc31f"
@@ -502,8 +418,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1459(None)
-
+#: chapter3/xinclude.xml:1346(None)
 msgid ""
 "@@image: 'images/Lesson04_images_055.jpg'; "
 "md5=10a82fdd4873ac5820435d6060fc03f9"
@@ -513,8 +428,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1480(None)
-
+#: chapter3/xinclude.xml:1367(None)
 msgid ""
 "@@image: 'images/Lesson04_images_056.jpg'; "
 "md5=f8f079b699c8957b762ef68a7c673b64"
@@ -524,8 +438,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1495(None)
-
+#: chapter3/xinclude.xml:1382(None)
 msgid ""
 "@@image: 'images/Lesson04_images_057.jpg'; "
 "md5=738b88bb76fc598848e895259d6220e9"
@@ -535,8 +448,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1518(None)
-
+#: chapter3/xinclude.xml:1405(None)
 msgid ""
 "@@image: 'images/Lesson04_images_058.jpg'; "
 "md5=aa835c4f1540afaf04b1fe89216da545"
@@ -546,8 +458,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1539(None)
-
+#: chapter3/xinclude.xml:1426(None)
 msgid ""
 "@@image: 'images/Lesson04_images_061.jpg'; "
 "md5=5739c03fd3da8fddf8323f88fd330a02"
@@ -557,8 +468,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1604(None)
-
+#: chapter3/xinclude.xml:1491(None)
 msgid ""
 "@@image: 'images/Lesson04_images_062.jpg'; "
 "md5=5aef2005d2e6185029ade47d84cfb363"
@@ -568,8 +478,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1622(None)
-
+#: chapter3/xinclude.xml:1509(None)
 msgid ""
 "@@image: 'images/Lesson04_images_063.jpg'; "
 "md5=8049d2e377304904b96a6cb0a6551286"
@@ -579,8 +488,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1639(None)
-
+#: chapter3/xinclude.xml:1526(None)
 msgid ""
 "@@image: 'images/Lesson04_images_064.jpg'; "
 "md5=a77461aff7a768bf3aba6dd6bb87939f"
@@ -590,8 +498,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1660(None)
-
+#: chapter3/xinclude.xml:1547(None)
 msgid ""
 "@@image: 'images/Lesson04_images_065.jpg'; "
 "md5=dd34c39b6b25db0fcfa1d3c4ff68c909"
@@ -601,8 +508,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1680(None)
-
+#: chapter3/xinclude.xml:1567(None)
 msgid ""
 "@@image: 'images/Lesson04_images_068.jpg'; "
 "md5=6e2573793d4db954d3bdb31f87ab8778"
@@ -612,8 +518,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1743(None)
-
+#: chapter3/xinclude.xml:1630(None)
 msgid ""
 "@@image: 'images/Lesson04_images_074.jpg'; "
 "md5=31f9de9753ba7e71cb5ead6015d4b748"
@@ -623,8 +528,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1763(None)
-
+#: chapter3/xinclude.xml:1650(None)
 msgid ""
 "@@image: 'images/Lesson04_images_075.jpg'; "
 "md5=e5fb0785697d702b1fb0d1cadecaca3f"
@@ -634,8 +538,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1785(None)
-
+#: chapter3/xinclude.xml:1672(None)
 msgid ""
 "@@image: 'images/Lesson04_images_076.jpg'; "
 "md5=0024c2a522aec813aaff4202f6551740"
@@ -645,8 +548,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1806(None)
-
+#: chapter3/xinclude.xml:1693(None)
 msgid ""
 "@@image: 'images/Lesson04_images_077.jpg'; "
 "md5=636c51e2c5db39e7d8c33fd2b952c151"
@@ -656,8 +558,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1821(None)
-
+#: chapter3/xinclude.xml:1708(None)
 msgid ""
 "@@image: 'images/Lesson04_images_078.jpg'; "
 "md5=a2e8d7aa55e438c9a2c0cc6bbedb02bb"
@@ -667,8 +568,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1839(None)
-
+#: chapter3/xinclude.xml:1726(None)
 msgid ""
 "@@image: 'images/Lesson04_images_079.jpg'; "
 "md5=d57905768c51bc0a197f803a190bc051"
@@ -678,8 +578,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter3/xinclude.xml:1857(None)
-
+#: chapter3/xinclude.xml:1744(None)
 msgid ""
 "@@image: 'images/Lesson04_images_080.jpg'; "
 "md5=06527594410da5ceba512f4aa119ff54"
@@ -891,9 +790,8 @@ msgstr "选择 <emphasis role=\"strong\">IPv4 设置</emphasis> 来配置连接�
 #: chapter3/xinclude.xml:594(title) chapter3/xinclude.xml:617(title)
 #: chapter3/xinclude.xml:839(title) chapter3/xinclude.xml:867(title)
 #: chapter3/xinclude.xml:882(title) chapter3/xinclude.xml:913(title)
-#: chapter3/xinclude.xml:1087(title) chapter3/xinclude.xml:1177(title)
-#: chapter3/xinclude.xml:1501(title) chapter3/xinclude.xml:1687(title)
-#: chapter3/xinclude.xml:1878(title)
+#: chapter3/xinclude.xml:1087(title) chapter3/xinclude.xml:1388(title)
+#: chapter3/xinclude.xml:1574(title) chapter3/xinclude.xml:1765(title)
 msgid "Note:"
 msgstr "注："
 
@@ -1117,9 +1015,8 @@ msgstr ""
 "络，单击您想连接到的网络即可。"
 
 #: chapter3/xinclude.xml:408(title) chapter3/xinclude.xml:775(title)
-#: chapter3/xinclude.xml:1105(title) chapter3/xinclude.xml:1150(title)
-#: chapter3/xinclude.xml:1570(title) chapter3/xinclude.xml:1693(title)
-#: chapter3/xinclude.xml:1869(title)
+#: chapter3/xinclude.xml:1105(title) chapter3/xinclude.xml:1457(title)
+#: chapter3/xinclude.xml:1580(title) chapter3/xinclude.xml:1756(title)
 msgid "Nice to Know:"
 msgstr "小提示："
 
@@ -1161,8 +1058,8 @@ msgid ""
 msgstr ""
 "Ndiswrapper 是一个 Linux 模块，它允许 Ubuntu 使用 Microsoft Windows 的无线网"
 "卡驱动。ndiswrapper 的配置工具可以很方便地通过 <emphasis role=\"strong"
-"\">Ubuntu 软件中心</emphasis> 安装。<emphasis role=\"strong\">Windows 无线网卡"
-"驱动</emphasis> 配置程序在 <emphasis role=\"strong\">系统</emphasis> 的 "
+"\">Ubuntu 软件中心</emphasis> 安装。<emphasis role=\"strong\">Windows 无线网"
+"卡驱动</emphasis> 配置程序在 <emphasis role=\"strong\">系统</emphasis> 的 "
 "<emphasis role=\"strong\">系统管理</emphasis> 中。"
 
 #: chapter3/xinclude.xml:435(title)
@@ -1365,8 +1262,8 @@ msgid ""
 "following the procedure described in <emphasis role=\"strong\">Using "
 "Alternative E-Mail Client</emphasis> section."
 msgstr ""
-"您可以按照第六章 <emphasis role=\"strong\">使用 Ubuntu 软件中心</emphasis> "
-"一节里的步骤使用 Ubuntu 软件中心方便地安装 Liferea。"
+"您可以按照第六章 <emphasis role=\"strong\">使用 Ubuntu 软件中心</emphasis> 一"
+"节里的步骤使用 Ubuntu 软件中心方便地安装 Liferea。"
 
 #: chapter3/xinclude.xml:601(para)
 msgid ""
@@ -1905,133 +1802,13 @@ msgid ""
 "The Thunderbird e-mail application is available in the Universe repository "
 "and can be installed on your computer from the Synaptic Package Manager."
 msgstr ""
-"Thunderbird 处在 Universe 仓库中，您可以参照第六章使用 Ubuntu 软件中心进行搜索和安装。如果您需要安装 Thunderbird 的中文支持，请在安装完 Thunderbird 后继续搜索并安装其中文包，搜索关键词可以使用如“Thunderbird Chinese”，安装结果中提示 zh-cn 的一个即为简体中文语言支持。语言支持安装完毕后，请您关闭已经打开的 Thunderbird 并重新打开，即可使用中文版的程序。"
+"Thunderbird 处在 Universe 仓库中，您可以参照第六章使用 Ubuntu 软件中心进行搜"
+"索和安装。如果您需要安装 Thunderbird 的中文支持，请在安装完 Thunderbird 后继"
+"续搜索并安装其中文包，搜索关键词可以使用如“Thunderbird Chinese”，安装结果中提"
+"示 zh-cn 的一个即为简体中文语言支持。语言支持安装完毕后，请您关闭已经打开的 "
+"Thunderbird 并重新打开，即可使用中文版的程序。"
 
-#: chapter3/xinclude.xml:1118(title)
-msgid "To install Thunderbird on Ubuntu, perform the following steps:"
-msgstr "要在 Ubuntu 上安装 Thunderbird，请按照以下步骤操作："
-
-#: chapter3/xinclude.xml:1122(para)
-msgid ""
-"On the <emphasis role=\"strong\">System</emphasis> menu, point to <emphasis "
-"role=\"strong\">Administration</emphasis> and select <emphasis role=\"strong"
-"\">Synaptic Package Manager</emphasis>. The <emphasis role=\"strong"
-"\">Synaptic Package Manager</emphasis> window will be displayed."
-msgstr ""
-"在 <emphasis role=\"strong\">系统</emphasis> 菜单上，指向 <emphasis role="
-"\"strong\">系统管理</emphasis> 并选择 <emphasis role=\"strong\">新立得软件包"
-"管理器</emphasis>。将显示 <emphasis role=\"strong\">新立得软件包管理器</"
-"emphasis> 窗口。"
-
-#: chapter3/xinclude.xml:1129(title)
-msgid "Launching Synaptic Package Manager"
-msgstr "启动新立得软件包管理器"
-
-# 原文是对话框，似乎不合适
-#: chapter3/xinclude.xml:1140(para)
-msgid ""
-"In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
-"dialogue box, you can select the package you need. The left pane lists the "
-"categories, and the right pane lists the packages. You can search for the "
-"package by clicking Search and specifying its name. If you do not know the "
-"name of the package, select the category in the left pane to filter the list "
-"of packages. You can then select the check box next to the required package "
-"in the right pane."
-msgstr ""
-"在 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口中，可以选择需"
-"要的包。左嵌板列出了分类，右嵌板列出了软件包。可以通过点击搜索并指定名字进行"
-"搜索。如果不知道软件的名字，在左嵌板中选择分类以过滤软件列表。然后可以在右嵌"
-"板选择需要的包前边的复选框。"
-
-#: chapter3/xinclude.xml:1152(para)
-msgid ""
-"If you want to view the installed and uninstalled packages, click <emphasis "
-"role=\"strong\">Status</emphasis>. To know the source repository of the "
-"package, click <emphasis role=\"strong\">Origin</emphasis>. Click <emphasis "
-"role=\"strong\">Custom Filters</emphasis> if you want to know whether a "
-"package is broken or can be upgraded."
-msgstr ""
-"如果想查看已安装的和未安装软件包，点击 <emphasis role=\"strong\">状态</"
-"emphasis>。要了解包所在的软件仓库，点击 <emphasis role=\"strong\">源自</"
-"emphasis>。如果想知道一个软件包是否损坏或可升级，点击 <emphasis role=\"strong"
-"\">自定义过滤器</emphasis>。"
-
-#: chapter3/xinclude.xml:1160(para)
-msgid ""
-"Click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role="
-"\"strong\">Find</emphasis> dialogue box opens. Type the name of the package, "
-"<emphasis role=\"strong\">Thunderbird</emphasis>, in the <emphasis role="
-"\"strong\">Search</emphasis> field and click <emphasis role=\"strong"
-"\">Search</emphasis>. The Mozilla Thunderbird package displays in the right "
-"pane of the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
-"window."
-msgstr ""
-"点击 <emphasis role=\"strong\">搜索</emphasis>，打开 <emphasis role=\"strong"
-"\">查找</emphasis> 对话框。在 <emphasis role=\"strong\">搜索</emphasis> 域中"
-"输入包的名字，<emphasis role=\"strong\">thunderbird</emphasis>，然后点击 "
-"<emphasis role=\"strong\">搜索</emphasis>。Mozilla Thunderbird 软件包显示在"
-"了 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口的右侧面板中。"
-
-#: chapter3/xinclude.xml:1167(title)
-msgid "Searching Thunderbird"
-msgstr "搜索 Thunderbird"
-
-# 此 section 为何？
-#: chapter3/xinclude.xml:1179(para)
-msgid ""
-"To return to the list of categories after searching the packages using "
-"<emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong"
-"\">Sections</emphasis>."
-msgstr ""
-"要在使用 <emphasis role=\"strong\">搜索</emphasis> 之后返回到组别列表，点击 "
-"<emphasis role=\"strong\">组别</emphasis>。"
-
-#: chapter3/xinclude.xml:1186(para)
-msgid ""
-"Select the <emphasis role=\"strong\">Mark for Installation</emphasis> check "
-"box to install the package."
-msgstr ""
-"选中“thunderbird”，单击右键并在弹出的菜单里选择 <emphasis role=\"strong\">标"
-"记以便安装</emphasis> 以安装此包。"
-
-#: chapter3/xinclude.xml:1190(title)
-msgid "Marking Thunderbird for Installation"
-msgstr "标记 Thunderbird 以安装"
-
-#: chapter3/xinclude.xml:1201(para)
-msgid ""
-"The package that you choose to install may depend on other packages. In this "
-"case, you are notified about the dependencies. To continue making the "
-"changes required to resolve the dependencies, click <emphasis role=\"strong"
-"\">Mark</emphasis>."
-msgstr ""
-"选择以安装的包可能依赖于其它包。此时，提示您此依赖关系。要继续进行此更改要求"
-"解决此依赖关系，点击 <emphasis role=\"strong\">标记</emphasis>。然后请重复步"
-"骤 3-5，搜索并标记安装软件包 thunderbird-locale-zh-cn，这是 Mozilla "
-"Thunderbird 的简体中文语言支持文件。"
-
-#: chapter3/xinclude.xml:1208(para)
-msgid ""
-"To confirm that you want to make the marked changes, click <emphasis role="
-"\"strong\">Apply.</emphasis>"
-msgstr ""
-"要确认您要执行已标记的变更，请点击 <emphasis role=\"strong\">应用</"
-"emphasis>。"
-
-#: chapter3/xinclude.xml:1212(title)
-msgid "Confirming Changes"
-msgstr "确认变更"
-
-#: chapter3/xinclude.xml:1223(para)
-msgid ""
-"The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, "
-"prompting you for a final check before making the marked changes. Click "
-"<emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
-msgstr ""
-"将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框，在最后进行标记的更改"
-"之前进行提示。点击 <emphasis role=\"strong\">应用</emphasis> 继续此更改。"
-
-#: chapter3/xinclude.xml:1228(para)
+#: chapter3/xinclude.xml:1117(para)
 msgid ""
 "This completes the procedure of installing Thunderbird by using Synaptic "
 "Package Manager. To access Thunderbird, on the <emphasis role=\"strong"
@@ -2044,37 +1821,37 @@ msgstr ""
 "向 <emphasis role=\"strong\">Internet</emphasis> 并点击 <emphasis role="
 "\"strong\">Mozilla Thunderbird Mail/News</emphasis>。 "
 
-#: chapter3/xinclude.xml:1233(para)
+#: chapter3/xinclude.xml:1122(para)
 msgid "This displays the Thunderbird window."
 msgstr "这样 Thunderbird 窗口便会显示出来。"
 
-#: chapter3/xinclude.xml:1236(title)
+#: chapter3/xinclude.xml:1125(title)
 msgid "Launching Mozilla Thunderbird Mail/News"
 msgstr "启动 Mozilla Thunderbird"
 
-#: chapter3/xinclude.xml:1246(title)
+#: chapter3/xinclude.xml:1135(title)
 msgid "Thunderbird Window"
 msgstr "Thunderbird 窗口"
 
-#: chapter3/xinclude.xml:1258(title)
+#: chapter3/xinclude.xml:1145(title)
 msgid "Features of Thunderbird"
 msgstr "Thunderbird 的特性"
 
-#: chapter3/xinclude.xml:1260(para)
+#: chapter3/xinclude.xml:1147(para)
 msgid ""
 "Thunderbird features many enhancements to help you better manage your inbox, "
 "send emails and organise your correspondence."
 msgstr "Thunderbird 特性能帮助您更好地管理收件箱、发送和组织信件。"
 
-#: chapter3/xinclude.xml:1264(para)
+#: chapter3/xinclude.xml:1151(para)
 msgid "Some of its key features are:"
 msgstr "关键特性："
 
-#: chapter3/xinclude.xml:1269(title)
+#: chapter3/xinclude.xml:1156(title)
 msgid "Stop Junk Mail"
 msgstr "阻止垃圾邮件"
 
-#: chapter3/xinclude.xml:1271(para)
+#: chapter3/xinclude.xml:1158(para)
 msgid ""
 "If you are tired of spam and annoying advertising in your Inbox, Mozilla "
 "Thunderbird provides effective tools for detecting junk mail. These tools "
@@ -2086,15 +1863,15 @@ msgstr ""
 "测垃圾邮件的高效工具。这些工具分析邮件消息并识别出那些最可能是垃圾邮件的。垃"
 "圾邮件可以自动探测出来并放置到一个特定的文件夹中。"
 
-#: chapter3/xinclude.xml:1279(title)
+#: chapter3/xinclude.xml:1166(title)
 msgid "Stopping Junk Mail"
 msgstr "阻止垃圾邮件"
 
-#: chapter3/xinclude.xml:1289(title)
+#: chapter3/xinclude.xml:1176(title)
 msgid "To activate the junk mail filters in Thunderbird:"
 msgstr "要在 Thunderbird 中激活垃圾邮件过滤器"
 
-#: chapter3/xinclude.xml:1291(para)
+#: chapter3/xinclude.xml:1178(para)
 msgid ""
 "On the <emphasis role=\"strong\">Tools</emphasis> menu, click <emphasis role="
 "\"strong\">Junk Mail Controls</emphasis>. The <emphasis role=\"strong\">Junk "
@@ -2104,40 +1881,40 @@ msgstr ""
 "\"strong\">对文件夹运行垃圾邮件控制</emphasis>，<emphasis role=\"strong\">垃"
 "圾邮件控制</emphasis> 窗口就会出现。"
 
-#: chapter3/xinclude.xml:1300(title)
+#: chapter3/xinclude.xml:1187(title)
 msgid "Customise your mail"
 msgstr "定制外观"
 
-#: chapter3/xinclude.xml:1302(para)
+#: chapter3/xinclude.xml:1189(para)
 msgid ""
 "You have three column views to access you e-mail messages: Classic, Wide and "
 "Vertical view."
 msgstr "您有三种可选的视图用以查看您的电子邮件：经典视图、宽视图和直视图。"
 
-#: chapter3/xinclude.xml:1307(title)
+#: chapter3/xinclude.xml:1194(title)
 msgid "Customising the E-mail View"
 msgstr "定制电子邮件视图"
 
-#: chapter3/xinclude.xml:1319(title)
+#: chapter3/xinclude.xml:1206(title)
 msgid "Built-in Spell Checker"
 msgstr "内建拼写检查器"
 
-#: chapter3/xinclude.xml:1321(para)
+#: chapter3/xinclude.xml:1208(para)
 msgid ""
 "To check for correct spelling, click <emphasis role=\"strong\">Spell</"
 "emphasis> on the toolbar."
 msgstr ""
 "要检查拼写，点击工具栏上的 <emphasis role=\"strong\">拼写</emphasis> 按钮。"
 
-#: chapter3/xinclude.xml:1325(title)
+#: chapter3/xinclude.xml:1212(title)
 msgid "Spell Checker"
 msgstr "拼写检查器"
 
-#: chapter3/xinclude.xml:1337(title)
+#: chapter3/xinclude.xml:1224(title)
 msgid "Security"
 msgstr "安全"
 
-#: chapter3/xinclude.xml:1339(para)
+#: chapter3/xinclude.xml:1226(para)
 msgid ""
 "Thunderbird provides enhanced security features, which is equivalent to "
 "enterprise and government-grade security. It offers built-in support for "
@@ -2147,11 +1924,11 @@ msgstr ""
 "对安全多功能互联网邮件扩展 (Secure/Multipurpose Internet Mail Extensions, S/"
 "MIME) 安全邮件的支持。"
 
-#: chapter3/xinclude.xml:1348(title)
+#: chapter3/xinclude.xml:1235(title)
 msgid "Extensions"
 msgstr "扩展"
 
-#: chapter3/xinclude.xml:1350(para)
+#: chapter3/xinclude.xml:1237(para)
 msgid ""
 "Extensions are powerful tools to help you build a mail client that meets "
 "your specific needs. Mozilla Thunderbird has several features, such as quick "
@@ -2160,11 +1937,11 @@ msgstr ""
 "扩展是能够帮助您满足特定需求的强大工具。 Mozilla Thunderbird 拥有多项特性，例"
 "如快速搜索、智能地址簿、高级消息过滤等。"
 
-#: chapter3/xinclude.xml:1359(title)
+#: chapter3/xinclude.xml:1246(title)
 msgid "News Reader"
 msgstr "新闻阅读器"
 
-#: chapter3/xinclude.xml:1361(para)
+#: chapter3/xinclude.xml:1248(para)
 msgid ""
 "Mozilla Thunderbird makes it easier to subscribe to your favourite "
 "newsgroups, downloading headers and messages and offline support."
@@ -2172,15 +1949,15 @@ msgstr ""
 "Mozilla Thunderbird 使添加您喜爱的新闻组更加容易，并且可选择只下载消息头或者"
 "下载完整消息；另外，还提供了离线支持。"
 
-#: chapter3/xinclude.xml:1367(title)
+#: chapter3/xinclude.xml:1254(title)
 msgid "Thunderbird as a Newsgroup"
 msgstr "Thunderbird 作为新闻组使用"
 
-#: chapter3/xinclude.xml:1379(title)
+#: chapter3/xinclude.xml:1266(title)
 msgid "Themes"
 msgstr "主题"
 
-#: chapter3/xinclude.xml:1381(para)
+#: chapter3/xinclude.xml:1268(para)
 msgid ""
 "As with most elements on Ubuntu, you can personalise the themes to change "
 "the look and feel of Mozilla Thunderbird. A theme can change the toolbar "
@@ -2189,11 +1966,11 @@ msgstr ""
 "同 Ubuntu 中大多数元素一样，您可以修改 Mozilla Thunderbird 的主题以改变其外"
 "观。主题可以仅变换工具栏图标，也可以彻底改变应用程序的外观。"
 
-#: chapter3/xinclude.xml:1390(title)
+#: chapter3/xinclude.xml:1277(title)
 msgid "Cross-Platform Support"
 msgstr "跨平台支持"
 
-#: chapter3/xinclude.xml:1392(para)
+#: chapter3/xinclude.xml:1279(para)
 msgid ""
 "Thunderbird is used on various platforms, such as Ubuntu, Microsoft Windows, "
 "Mac OS X and Unix-based operating systems."
@@ -2201,11 +1978,11 @@ msgstr ""
 "Thunderbird 支持包括 Ubuntu 在内的 Linux 系统，Microsoft Windows，Mac OS X 及"
 "众多 Unix 和类 Unix 操作系统。"
 
-#: chapter3/xinclude.xml:1402(title)
+#: chapter3/xinclude.xml:1289(title)
 msgid "Instant Messaging"
 msgstr "即时通信"
 
-#: chapter3/xinclude.xml:1404(para)
+#: chapter3/xinclude.xml:1291(para)
 msgid ""
 "E-mail message is not expected to be real-time, which means you can respond "
 "to it when time allows. But when 'Immediacy' is required, instant messaging "
@@ -2221,7 +1998,7 @@ msgstr ""
 "用，在办公室工作时也可以省去大量电子邮件带来的不便。即时通讯工具常常还支持免"
 "费地使用语音或视频同他人联络。"
 
-#: chapter3/xinclude.xml:1413(para)
+#: chapter3/xinclude.xml:1300(para)
 msgid ""
 "The default instant messenger client on Ubuntu is Pidgin, a cross-platform "
 "instant messenger that supports various popular IM network protocols. Using "
@@ -2245,13 +2022,13 @@ msgstr ""
 "丰富的功能和更好的跨平台兼容性，同时可以作为下一节中所述的 VoIP 音视频客户"
 "端。"
 
-#: chapter3/xinclude.xml:1428(title)
+#: chapter3/xinclude.xml:1315(title)
 msgid ""
 "To connect to an existing e-mail account using the Pidgin instant messenger, "
 "perform the following steps:"
 msgstr "要使用 Empathy 作为 Google Talk 客户端，请进行以下操作："
 
-#: chapter3/xinclude.xml:1432(para)
+#: chapter3/xinclude.xml:1319(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
@@ -2262,11 +2039,11 @@ msgstr ""
 "<emphasis role=\"strong\">Internet</emphasis>，点击 <emphasis role=\"strong"
 "\">Empathy 即时通讯客户端</emphasis>，启动 Empathy。"
 
-#: chapter3/xinclude.xml:1439(title)
+#: chapter3/xinclude.xml:1326(title)
 msgid "Launching Pidgin Internet Messenger"
 msgstr "启动 Empathy 即时通讯客户端"
 
-#: chapter3/xinclude.xml:1450(para)
+#: chapter3/xinclude.xml:1337(para)
 msgid ""
 "Click <emphasis role=\"strong\">Add</emphasis> to configure your any "
 "existing e-mail account on Pidgin. The <emphasis role=\"strong\">Add "
@@ -2277,11 +2054,11 @@ msgstr ""
 "手也可以通过点击 <emphasis role=\"strong\">编辑</emphasis> 菜单中的 "
 "<emphasis role=\"strong\">帐户</emphasis> 项话框来得到。"
 
-#: chapter3/xinclude.xml:1455(title)
+#: chapter3/xinclude.xml:1342(title)
 msgid "Adding a New IM Account"
 msgstr "消息和 VoIP 帐户助手"
 
-#: chapter3/xinclude.xml:1466(para)
+#: chapter3/xinclude.xml:1353(para)
 msgid ""
 "In the <emphasis role=\"strong\">Add Account</emphasis> dialogue box, select "
 "the protocol, which is your e-mail account server name from the <emphasis "
@@ -2297,11 +2074,11 @@ msgstr ""
 "<emphasis role=\"strong\">有，现在就输入我的帐户信息</emphasis>，然后点击 "
 "<emphasis role=\"strong\">前进</emphasis>。"
 
-#: chapter3/xinclude.xml:1476(title)
+#: chapter3/xinclude.xml:1363(title)
 msgid "Providing Basic Account Information"
 msgstr "提供基本帐户信息"
 
-#: chapter3/xinclude.xml:1487(para)
+#: chapter3/xinclude.xml:1374(para)
 msgid ""
 "You can see the newly created account with a check mark indicating that it "
 "is active in the <emphasis role=\"strong\">Accounts</emphasis> window. Click "
@@ -2318,11 +2095,11 @@ msgstr ""
 "\"strong\">没有，就这样吧</emphasis>，最后点击 <emphasis role=\"strong\">前进"
 "</emphasis>。"
 
-#: chapter3/xinclude.xml:1491(title)
+#: chapter3/xinclude.xml:1378(title)
 msgid "Viewing Added Accounts"
 msgstr "输入个人资料"
 
-#: chapter3/xinclude.xml:1503(para)
+#: chapter3/xinclude.xml:1390(para)
 msgid ""
 "If you want to add another e-mail account, click <emphasis role=\"strong"
 "\">Add</emphasis> in the <emphasis role=\"strong\">Accounts</emphasis> "
@@ -2332,7 +2109,7 @@ msgstr ""
 "过，选择 <emphasis role=\"strong\">暂不启用此特性</emphasis> 复选框，然后点"
 "击 <emphasis role=\"strong\">应用</emphasis> 完成帐户添加。"
 
-#: chapter3/xinclude.xml:1509(para)
+#: chapter3/xinclude.xml:1396(para)
 msgid ""
 "Now, click the <emphasis role=\"strong\">Pidgin</emphasis> icon on the top "
 "panel of the desktop to view the <emphasis role=\"strong\">Buddy List</"
@@ -2342,11 +2119,11 @@ msgstr ""
 "菜单中点击 <emphasis role=\"strong\">Empathy</emphasis>，这样会直接打开 "
 "Empathy 主界面，也就是好友列表。"
 
-#: chapter3/xinclude.xml:1514(title)
+#: chapter3/xinclude.xml:1401(title)
 msgid "Viewing Buddy List"
 msgstr "查看好友列表"
 
-#: chapter3/xinclude.xml:1525(para)
+#: chapter3/xinclude.xml:1412(para)
 msgid ""
 "To start using Pidgin, on the <emphasis role=\"strong\">Buddies</emphasis> "
 "menu, click <emphasis role=\"strong\">New Instant Message</emphasis>. The "
@@ -2356,21 +2133,21 @@ msgstr ""
 "要开始使用 Empathy，首先在主界面上将状态设置为 <emphasis role=\"strong\">在线"
 "</emphasis>，然后在好友列表中选择要进行聊天的好友并双击，打开聊天窗口。"
 
-#: chapter3/xinclude.xml:1530(para)
+#: chapter3/xinclude.xml:1417(para)
 msgid ""
 "You can use the box at the bottom of the window to type your messages and "
 "press Enter to send them. This is how you can start your conversation."
 msgstr "可以在窗口下方的栏中输入您的信息，然后按回车发送。"
 
-#: chapter3/xinclude.xml:1535(title)
+#: chapter3/xinclude.xml:1422(title)
 msgid "IM Window"
 msgstr "聊天窗口"
 
-#: chapter3/xinclude.xml:1549(title)
+#: chapter3/xinclude.xml:1436(title)
 msgid "Making Phone Calls Using Softphones"
 msgstr "使用软电话拨打电话"
 
-#: chapter3/xinclude.xml:1551(para)
+#: chapter3/xinclude.xml:1438(para)
 msgid ""
 "A softphone is a software programme that is used to make telephone calls "
 "over the Internet using a computer instead of using a regular phone. Your "
@@ -2388,7 +2165,7 @@ msgstr ""
 "Pidgin 等程序通过 Google Talk 一类的 XMPP 协议来进行在线的音视频联系，其工作"
 "原理与本节中所述的内容基本相同，虽然可配置项相对较少，但使用起来更加便捷。"
 
-#: chapter3/xinclude.xml:1560(para)
+#: chapter3/xinclude.xml:1447(para)
 msgid ""
 "You use a softphone with a headset connected to the computer or with a USB "
 "phone. The features of softphone include all standard telephony features, "
@@ -2403,7 +2180,7 @@ msgstr ""
 "天等功能。用软电话进行通信需要您和对方都有话筒和耳机、合适的互联网连接以及相"
 "应的聊天服务帐号。"
 
-#: chapter3/xinclude.xml:1572(para)
+#: chapter3/xinclude.xml:1459(para)
 msgid ""
 "Skype, Google Talk and Vonage are Internet telephony service providers whose "
 "software you would need to install on your computer. But these three "
@@ -2413,17 +2190,17 @@ msgstr ""
 "Skype 和 Google Talk 等服务商都提供在线电话服务，但他们之间并不兼容，因此您不"
 "能直接给其他服务提供商的用户打电话。"
 
-#: chapter3/xinclude.xml:1578(para)
+#: chapter3/xinclude.xml:1465(para)
 msgid "The configuration of Ekiga is described below."
 msgstr ""
 "以下内容描述了如何配置 Linphone。开始下面的使用前，您需要参照“收发邮件”一节中"
 "使用新立得软件包管理器安装 Thunderbird 的操作搜索并安装软件包 linphone。"
 
-#: chapter3/xinclude.xml:1582(title)
+#: chapter3/xinclude.xml:1469(title)
 msgid "Using Ekiga"
 msgstr "使用 Linphone"
 
-#: chapter3/xinclude.xml:1584(para)
+#: chapter3/xinclude.xml:1471(para)
 msgid ""
 "Ekiga is an open source softphone application for Ubuntu. It is a free Voice "
 "over IP (VoIP) and video conferencing application. VoIP routes voice "
@@ -2434,11 +2211,11 @@ msgstr ""
 "Linphone 是自由的 VoIP 和视频会议软件。VoIP 服务通过互联网传递音频。您可以使"
 "用 Linphone 打电话、或进行视频聊天。"
 
-#: chapter3/xinclude.xml:1591(title)
+#: chapter3/xinclude.xml:1478(title)
 msgid "To configure Ekiga on Ubuntu:"
 msgstr "要在 Ubuntu 上配置 Linphone："
 
-#: chapter3/xinclude.xml:1594(para)
+#: chapter3/xinclude.xml:1481(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
@@ -2452,11 +2229,11 @@ msgstr ""
 "emphasis> 和 <emphasis role=\"strong\">Linphone video</emphasis> 窗口，如果您"
 "的电脑同时有 IPv4 和 IPv6 连接，它还将弹出提示窗口说明默认使用 IPv4。"
 
-#: chapter3/xinclude.xml:1600(title)
+#: chapter3/xinclude.xml:1487(title)
 msgid "Launching Ekiga Softphone"
 msgstr "启动 Linphone"
 
-#: chapter3/xinclude.xml:1611(para)
+#: chapter3/xinclude.xml:1498(para)
 msgid ""
 "On the <emphasis role=\"strong\">Personal Information</emphasis> page, type "
 "your full name in the <emphasis role=\"strong\">Please enter your first name "
@@ -2467,11 +2244,11 @@ msgstr ""
 "在主窗口的 <emphasis role=\"strong\">模式</emphasis> 菜单下选择 <emphasis "
 "role=\"strong\">音频 </emphasis> 以关闭视频聊天窗口。"
 
-#: chapter3/xinclude.xml:1618(title)
+#: chapter3/xinclude.xml:1505(title)
 msgid "Specifying Display Name"
 msgstr "模式菜单"
 
-#: chapter3/xinclude.xml:1629(para)
+#: chapter3/xinclude.xml:1516(para)
 msgid ""
 "On the <emphasis role=\"strong\">ekiga.net Account</emphasis> page, type "
 "your Ekiga's account user name and password that you use to log in to your "
@@ -2488,11 +2265,11 @@ msgstr ""
 "emphasis> 中设置其他 SIP 代理帐号，以便记忆您的地址。完成后点击 <emphasis "
 "role\"strong\">确定</emphasis> 保存设置。"
 
-#: chapter3/xinclude.xml:1635(title)
+#: chapter3/xinclude.xml:1522(title)
 msgid "Specifying ekiga.net Account Username and Password"
 msgstr "SIP 帐号管理"
 
-#: chapter3/xinclude.xml:1646(para)
+#: chapter3/xinclude.xml:1533(para)
 msgid ""
 "On the <emphasis role=\"strong\">Connection Type</emphasis> page, select the "
 "type of Internet connection you are using on your computer from the "
@@ -2505,11 +2282,11 @@ msgstr ""
 "回到主界面，在最上方的框中输入对方的 SIP 地址，点击框左侧的绿色按钮即可呼叫对"
 "方"
 
-#: chapter3/xinclude.xml:1656(title)
+#: chapter3/xinclude.xml:1543(title)
 msgid "Selecting Connection Type"
 msgstr "音频呼叫"
 
-#: chapter3/xinclude.xml:1667(para)
+#: chapter3/xinclude.xml:1554(para)
 msgid ""
 "Ekiga requires audio output and input devices to play and record sound "
 "files. The audio output device is used to play audio and audio input device "
@@ -2523,17 +2300,17 @@ msgstr ""
 "如果由对方呼叫，屏幕上会显示出提示，点击 <emphasis role=\"strong\">接听</"
 "emphasis> 开始语音通话。"
 
-#: chapter3/xinclude.xml:1676(title)
+#: chapter3/xinclude.xml:1563(title)
 msgid "Selecting Audio Devices"
 msgstr "接听音频呼叫"
 
-#: chapter3/xinclude.xml:1689(para)
+#: chapter3/xinclude.xml:1576(para)
 msgid "People who is recieving a call must has a public IP."
 msgstr ""
 "如果通话双方中有一方处于局域网而另一方处于外网，则接听方应为处于外网即拥有独"
 "立公网 IP 的一方。若均处于内网，可以设置 STUN 服务器。"
 
-#: chapter3/xinclude.xml:1695(para)
+#: chapter3/xinclude.xml:1582(para)
 msgid ""
 "For more information on Ekiga, refer to <ulink url=\"http://www.ekiga.org"
 "\">http://www.ekiga.org</ulink>."
@@ -2542,11 +2319,11 @@ msgstr ""
 "详情请参见 <ulink url=\"http://www.linphone.org\">http://www.linphone.org</"
 "ulink>"
 
-#: chapter3/xinclude.xml:1699(title)
+#: chapter3/xinclude.xml:1586(title)
 msgid "Skype"
 msgstr "Skype"
 
-#: chapter3/xinclude.xml:1701(para)
+#: chapter3/xinclude.xml:1588(para)
 msgid ""
 "Skype is another softphone that can be used on Ubuntu to make calls over the "
 "Internet. The source code of Skype is proprietary, but the software is free "
@@ -2562,11 +2339,11 @@ msgstr ""
 "点的去中心技术。Skype 连接是加密的，可以保证您和别人的通话不被窃听。在这里我"
 "们不对 Skype 进行更深入的探讨。"
 
-#: chapter3/xinclude.xml:1714(title)
+#: chapter3/xinclude.xml:1601(title)
 msgid "Using Ubuntu One to keep sync"
 msgstr "使用 Ubuntu One 保持同步"
 
-#: chapter3/xinclude.xml:1716(para)
+#: chapter3/xinclude.xml:1603(para)
 msgid ""
 "Ubuntu One is a sync service provided by the sponsor of Ubuntu - Canonical "
 "Ltd, which is powered by the cloud technology. All Ubuntu users get a free "
@@ -2580,7 +2357,7 @@ msgstr ""
 "于网络之上，以便在任何需要的时候进行访问。您可以使用它同步您的书签、联系人、"
 "音乐、图像以及计算机内的其他任意文件。"
 
-#: chapter3/xinclude.xml:1723(para)
+#: chapter3/xinclude.xml:1610(para)
 msgid ""
 "Before setting up Ubuntu One, you should ensure your system is up to date. "
 "Run Update Manager to install any necessary updates by going to <emphasis "
@@ -2594,11 +2371,11 @@ msgstr ""
 "<emphasis role=\"strong\">升级管理器</emphasis> 安装所有必要的更新。完成后您"
 "可能需要重新启动系统。更新完毕后，您就可以开始进行设置了。"
 
-#: chapter3/xinclude.xml:1731(title)
+#: chapter3/xinclude.xml:1618(title)
 msgid "To configure Ubuntu One:"
 msgstr "在 Ubuntu 上配置 Ubuntu One："
 
-#: chapter3/xinclude.xml:1734(para)
+#: chapter3/xinclude.xml:1621(para)
 msgid ""
 "Open <emphasis role=\"strong\">Ubuntu One Preferences</emphasis> from the "
 "<emphasis role=\"strong\">Me menu</emphasis> (your username in the upper "
@@ -2607,11 +2384,11 @@ msgstr ""
 "在屏幕右上角的 <emphasis role=\"strong\">用户状态</emphasis> 菜单中，点击 "
 "<emphasis role=\"strong\">Ubuntu One...</emphasis>"
 
-#: chapter3/xinclude.xml:1739(title)
+#: chapter3/xinclude.xml:1626(title)
 msgid "Ubuntu One from the Me menu"
 msgstr "用户状态菜单中的 Ubuntu One"
 
-#: chapter3/xinclude.xml:1750(para)
+#: chapter3/xinclude.xml:1637(para)
 msgid ""
 "A web browser will open and prompt you to either sign in or create an "
 "account. Ubuntu One uses the Ubuntu single sign on (SSO) service so if you "
@@ -2624,18 +2401,18 @@ msgstr ""
 "(Ubuntu SSO)，如果您有 Launchpad 帐号或其他使用 Ubuntu 单点登录服务的帐号，您"
 "可以直接登录，并直接跳至第 7 步；如果您没有这样的帐号，请按照以下方法注册。"
 
-#: chapter3/xinclude.xml:1759(title)
+#: chapter3/xinclude.xml:1646(title)
 msgid "Ubuntu SSO login page"
 msgstr "Ubuntu 单点登录页面"
 
-#: chapter3/xinclude.xml:1770(para)
+#: chapter3/xinclude.xml:1657(para)
 msgid ""
 "Click the <emphasis role=\"strong\">New Account</emphasis> button to create "
 "an Ubuntu SSO account that you can use to login to Ubuntu One."
 msgstr ""
 "点击页面中的 <emphasis role=\"strong\">新建帐号</emphasis> 以建立帐号。"
 
-#: chapter3/xinclude.xml:1776(para)
+#: chapter3/xinclude.xml:1663(para)
 msgid ""
 "Enter your email address, the words displayed in the captcha image below the "
 "email address field, and then click the <emphasis role=\"strong\">Continue</"
@@ -2644,11 +2421,11 @@ msgstr ""
 "输入您的电子邮件地址，并在下方输入图片中显示的两个单词，然后点击 <emphasis "
 "role=\"strong\">继续</emphasis> 按钮。"
 
-#: chapter3/xinclude.xml:1781(title)
+#: chapter3/xinclude.xml:1668(title)
 msgid "Ubuntu SSO create account page"
 msgstr "Ubuntu SSO 创建帐号页面"
 
-#: chapter3/xinclude.xml:1792(para)
+#: chapter3/xinclude.xml:1679(para)
 msgid ""
 "Check your email for a message from \"Login Service\" with the subject of "
 "\"Login Service: Finish your registration\". Open this email and click on "
@@ -2657,7 +2434,7 @@ msgstr ""
 "检收电子邮件，查找其中来自于“登录服务”的主题为“登录服务：完成您的注册”的邮"
 "件。打开此邮件并点击其中的链接以完成 Ubuntu SSO 注册。"
 
-#: chapter3/xinclude.xml:1798(para)
+#: chapter3/xinclude.xml:1685(para)
 msgid ""
 "Complete your Ubuntu SSO registration by filling in the form and clicking "
 "the <emphasis role=\"strong\">Continue</emphasis> button."
@@ -2665,22 +2442,22 @@ msgstr ""
 "将需要的信息填入表格并点击 <emphasis role=\"strong\">继续</emphasis> 按钮完成"
 "注册。"
 
-#: chapter3/xinclude.xml:1802(title)
+#: chapter3/xinclude.xml:1689(title)
 msgid "Ubuntu SSO complete registration page"
 msgstr "Ubuntu SSO 完成注册页面"
 
-#: chapter3/xinclude.xml:1813(para)
+#: chapter3/xinclude.xml:1700(para)
 msgid ""
 "Click the <emphasis role=\"strong\">Yes, sign me in button</emphasis> to "
 "sign in to Ubuntu One."
 msgstr ""
 "点击 <emphasis role=\"strong\">是，让我登录</emphasis> 以登录 Ubuntu One。"
 
-#: chapter3/xinclude.xml:1817(title)
+#: chapter3/xinclude.xml:1704(title)
 msgid "Ubuntu One sign in page"
 msgstr "Ubuntu One 登录页面"
 
-#: chapter3/xinclude.xml:1828(para)
+#: chapter3/xinclude.xml:1715(para)
 msgid ""
 "In order to sync, you must explicitly add your computer to the list of "
 "devices that sync with your personal cloud. To add your computer to your "
@@ -2693,11 +2470,11 @@ msgstr ""
 "Computer</emphasis>。新用户在添加其第一个计算机时需要接受 Ubuntu One 用户条"
 "款。"
 
-#: chapter3/xinclude.xml:1835(title)
+#: chapter3/xinclude.xml:1722(title)
 msgid "Ubuntu One add your computer page"
 msgstr "Ubuntu One 添加您的计算机页面"
 
-#: chapter3/xinclude.xml:1846(para)
+#: chapter3/xinclude.xml:1733(para)
 msgid ""
 "In <emphasis role=\"strong\">Ubuntu One Preferences</emphasis> click on the "
 "<emphasis role=\"strong\">Devices</emphasis> tab and then the <emphasis role="
@@ -2710,11 +2487,11 @@ msgstr ""
 "\">连接</emphasis> 按钮以便链接到服务。Ubuntu One 首选项工具可用于监控当前的"
 "同步活动并且管理您的 Ubuntu One 首选项。"
 
-#: chapter3/xinclude.xml:1853(title)
+#: chapter3/xinclude.xml:1740(title)
 msgid "Ubuntu One Preferences"
 msgstr "Ubuntu One 首选项"
 
-#: chapter3/xinclude.xml:1864(para)
+#: chapter3/xinclude.xml:1751(para)
 msgid ""
 "Now, you are able to sync and share files with friends. Simply copy and "
 "paste your file to <emphasis role=\"strong\">Ubuntu One</emphasis> directory "
@@ -2724,7 +2501,7 @@ msgstr ""
 "的 <emphasis role=\"strong\">Ubuntu One</emphasis> 文件夹，或者在文件图标上点"
 "击右键并使用菜单中的功能选项。"
 
-#: chapter3/xinclude.xml:1870(para)
+#: chapter3/xinclude.xml:1757(para)
 msgid ""
 "While removing a linked device from the website, don't forget to remove the "
 "<emphasis role=\"strong\">UbuntuOne token</emphasis> in Seahorse's <emphasis "
@@ -2737,7 +2514,7 @@ msgstr ""
 "的 <emphasis role=\"strong\">login</emphasis> 密钥环中的 <emphasis role="
 "\"strong\">UbuntuOne token</emphasis>。"
 
-#: chapter3/xinclude.xml:1880(para)
+#: chapter3/xinclude.xml:1767(para)
 msgid ""
 "To learn more about Ubuntu One features, refer to <ulink url=\"https://one."
 "ubuntu.com/features\">https://one.ubuntu.com/features</ulink>."
@@ -2745,7 +2522,7 @@ msgstr ""
 "欲知更多 Ubuntu One 的特性，请访问 <ulink url=\"https://one.ubuntu.com/"
 "features\">https://one.ubuntu.com/features</ulink>"
 
-#: chapter3/xinclude.xml:1882(para)
+#: chapter3/xinclude.xml:1769(para)
 msgid ""
 "Having troubles? Refer to the FAQ: <ulink url=\"https://answers.launchpad."
 "net/ubuntuone/+faqs\">https://answers.launchpad.net/ubuntuone/+faqs</ulink>."
@@ -2753,21 +2530,21 @@ msgstr ""
 "遇到问题？请查看 FAQ：<ulink url=\"https://answers.launchpad.net/ubuntuone/"
 "+faqs\">https://answers.launchpad.net/ubuntuone/+faqs</ulink>"
 
-#: chapter3/xinclude.xml:1891(title)
+#: chapter3/xinclude.xml:1778(title)
 msgid "Lesson Summary"
 msgstr "本课小结"
 
-#: chapter3/xinclude.xml:1894(para)
+#: chapter3/xinclude.xml:1781(para)
 msgid "In this lesson, you learned that:"
 msgstr "在本课中，您已经学习了："
 
-#: chapter3/xinclude.xml:1897(para)
+#: chapter3/xinclude.xml:1784(para)
 msgid ""
 "You can connect a computer to the Internet using cable, wireless and dial-up "
 "connections."
 msgstr "您可以使用电缆、无线和拨号方式连接至互联网。"
 
-#: chapter3/xinclude.xml:1902(para)
+#: chapter3/xinclude.xml:1789(para)
 msgid ""
 "Mozilla Firefox is an open source, powerful and secure Web browser. It is "
 "available for free and is the default browser on Ubuntu."
@@ -2775,7 +2552,7 @@ msgstr ""
 "Mozilla Firefox 是一个开源的、强大且安全的网页浏览器。它可以自由获得，并且是 "
 "Ubuntu 的默认浏览器。"
 
-#: chapter3/xinclude.xml:1908(para)
+#: chapter3/xinclude.xml:1795(para)
 msgid ""
 "Firefox includes two powerful features that make your online experience "
 "better and more productive -integrated search system and bookmarking."
@@ -2783,18 +2560,18 @@ msgstr ""
 "Firefox 拥有两个强大的可以提高您的上网体验和效率的功能 - 集成的搜索系统和书签"
 "功能。"
 
-#: chapter3/xinclude.xml:1914(para)
+#: chapter3/xinclude.xml:1801(para)
 msgid ""
 "Liferea is an RSS feed reader, which offers useful features to manage your "
 "newsgroup subscription."
 msgstr ""
 "Liferea 是一个 Feed 阅读器，提供了新闻组订阅管理等方便您使用的诸多特性。"
 
-#: chapter3/xinclude.xml:1919(para)
+#: chapter3/xinclude.xml:1806(para)
 msgid "Evolution is the default e-mail client for Ubuntu."
 msgstr "Evolution 是 Ubuntu 默认的邮件客户端。"
 
-#: chapter3/xinclude.xml:1923(para)
+#: chapter3/xinclude.xml:1810(para)
 msgid ""
 "Mozilla Thunderbird is the e-mail application developed by Mozilla "
 "Foundation. It is a free, cross-platform e-mail and news client."
@@ -2802,14 +2579,14 @@ msgstr ""
 "Mozilla Thunderbird 由 Mozilla 基金会开发，它是一个自由的、跨平台的电子邮件和"
 "新闻组应用程序。"
 
-#: chapter3/xinclude.xml:1929(para)
+#: chapter3/xinclude.xml:1816(para)
 msgid ""
 "The default instant messenger client on Ubuntu is Pidgin. It is a cross-"
 "platform instant messenger that supports multiple popular IM network "
 "protocols."
 msgstr "Ubuntu 上的默认即时通讯程序是 Empathy。它支持多种流行的即时通讯协议。"
 
-#: chapter3/xinclude.xml:1935(para)
+#: chapter3/xinclude.xml:1822(para)
 msgid ""
 "Ubuntu has included Ubuntu One to keep your files, notes and musics sync "
 "between devices, no matter where your are."
@@ -2817,160 +2594,160 @@ msgstr ""
 "Ubuntu 已经添加了 Ubuntu One 以便保持您的文件、笔记和音乐能在不同设备之间同"
 "步，不论您身在何方。"
 
-#: chapter3/xinclude.xml:1943(title)
+#: chapter3/xinclude.xml:1830(title)
 msgid "Review Exercise"
 msgstr "复习题"
 
-#: chapter3/xinclude.xml:1948(para)
+#: chapter3/xinclude.xml:1835(para)
 msgid "What are the three main ways to connect to the Internet?"
 msgstr "连接到互联网的三种主要方式分别是什么？"
 
-#: chapter3/xinclude.xml:1953(para)
+#: chapter3/xinclude.xml:1840(para)
 msgid ""
 "The three main ways to connect to the Internet are through cable, wireless "
 "and dial-up connections."
 msgstr "这三种主要方式分别是通过电缆、无线和拨号接入。"
 
-#: chapter3/xinclude.xml:1960(para)
+#: chapter3/xinclude.xml:1847(para)
 msgid "Why do you require a bookmark in Firefox?"
 msgstr "为什么需要在 Firefox 中使用书签？"
 
-#: chapter3/xinclude.xml:1964(para)
+#: chapter3/xinclude.xml:1851(para)
 msgid ""
 "Mozilla Firefox uses a bookmark for quick access to saved Web addresses."
 msgstr "Mozilla Firefox 使用书签来加速访问已保存的网页地址。"
 
-#: chapter3/xinclude.xml:1971(para)
+#: chapter3/xinclude.xml:1858(para)
 msgid "What is a feed?"
 msgstr "什么是 Feed？"
 
-#: chapter3/xinclude.xml:1975(para)
+#: chapter3/xinclude.xml:1862(para)
 msgid ""
 "A feed is an XML Web page that contains a list of links to other Web pages."
 msgstr "Feed 是一个 XML 页面，包含了到其他网页的链接列表。"
 
-#: chapter3/xinclude.xml:1982(para)
+#: chapter3/xinclude.xml:1869(para)
 msgid "Match the following:"
 msgstr "连线题："
 
-#: chapter3/xinclude.xml:1988(para)
+#: chapter3/xinclude.xml:1875(para)
 msgid "1) Evolution"
 msgstr "1) Evolution"
 
-#: chapter3/xinclude.xml:1990(para)
+#: chapter3/xinclude.xml:1877(para)
 msgid "a) Web browser"
 msgstr "a) 网页浏览器"
 
-#: chapter3/xinclude.xml:1994(para)
+#: chapter3/xinclude.xml:1881(para)
 msgid "2) Firefox"
 msgstr "2) Firefox"
 
-#: chapter3/xinclude.xml:1996(para)
+#: chapter3/xinclude.xml:1883(para)
 msgid "b) Mail client"
 msgstr "b) 邮件客户端"
 
-#: chapter3/xinclude.xml:2000(para)
+#: chapter3/xinclude.xml:1887(para)
 msgid "3) Ekiga"
 msgstr "3) Linphone"
 
-#: chapter3/xinclude.xml:2002(para)
+#: chapter3/xinclude.xml:1889(para)
 msgid "c) Instant messenger"
 msgstr "c) 即时聊天工具"
 
-#: chapter3/xinclude.xml:2006(para)
+#: chapter3/xinclude.xml:1893(para)
 msgid "4) Pidgin"
 msgstr "4) Empathy"
 
-#: chapter3/xinclude.xml:2008(para)
+#: chapter3/xinclude.xml:1895(para)
 msgid "d) Phone calls"
 msgstr "d) 软电话"
 
-#: chapter3/xinclude.xml:2016(para)
+#: chapter3/xinclude.xml:1903(para)
 msgid "1-b, 2-a, 3-d and 4-c"
 msgstr "1-b，2-a，3-d，4-c"
 
-#: chapter3/xinclude.xml:2022(para)
+#: chapter3/xinclude.xml:1909(para)
 msgid ""
 "The source code of Skype software is _____________________, but the software "
 "is _____________________to use."
 msgstr ""
 "Skype 的源代码是 _____________________ 的，但使用 _____________________ 的。"
 
-#: chapter3/xinclude.xml:2027(para)
+#: chapter3/xinclude.xml:1914(para)
 msgid ""
 "The source code of Skype software is proprietary, but the software is free "
 "to use."
 msgstr "Skype 的源代码是专有的，但使用是免费的。"
 
-#: chapter3/xinclude.xml:2034(para)
+#: chapter3/xinclude.xml:1921(para)
 msgid "Which of the following is an RSS feed reader?"
 msgstr "下列哪个是 Feed 阅读器？"
 
-#: chapter3/xinclude.xml:2036(para)
+#: chapter3/xinclude.xml:1923(para)
 msgid "A. Ekiga"
 msgstr " A. Ekiga"
 
-#: chapter3/xinclude.xml:2038(para) chapter3/xinclude.xml:2046(para)
+#: chapter3/xinclude.xml:1925(para) chapter3/xinclude.xml:1933(para)
 msgid "B. Liferea"
 msgstr " B. Liferea"
 
-#: chapter3/xinclude.xml:2040(para)
+#: chapter3/xinclude.xml:1927(para)
 msgid "C. Pan"
 msgstr " C. Pan"
 
-#: chapter3/xinclude.xml:2042(para)
+#: chapter3/xinclude.xml:1929(para)
 msgid "D. Skype"
 msgstr " D. Skype"
 
-#: chapter3/xinclude.xml:2052(para)
+#: chapter3/xinclude.xml:1939(para)
 msgid "Which of the following is proprietary software?"
 msgstr "下列哪个是专有软件？"
 
-#: chapter3/xinclude.xml:2054(para) chapter3/xinclude.xml:2064(para)
+#: chapter3/xinclude.xml:1941(para) chapter3/xinclude.xml:1951(para)
 msgid "A. Skype"
 msgstr " A. Skype"
 
-#: chapter3/xinclude.xml:2056(para)
+#: chapter3/xinclude.xml:1943(para)
 msgid "B. Ekiga"
 msgstr " B. Ekiga"
 
-#: chapter3/xinclude.xml:2058(para)
+#: chapter3/xinclude.xml:1945(para)
 msgid "C. Liferea"
 msgstr " C. Liferea"
 
-#: chapter3/xinclude.xml:2060(para)
+#: chapter3/xinclude.xml:1947(para)
 msgid "D. Firefox"
 msgstr " D. Firefox"
 
-#: chapter3/xinclude.xml:2070(para)
+#: chapter3/xinclude.xml:1957(para)
 msgid "Which of the following is the tool to keep files sync in Ubuntu?"
 msgstr "下列哪个是 Ubuntu 中用于同步文件的工具？"
 
-#: chapter3/xinclude.xml:2072(para)
+#: chapter3/xinclude.xml:1959(para)
 msgid "A. Firefox"
 msgstr " A. Firefox"
 
-#: chapter3/xinclude.xml:2074(para)
+#: chapter3/xinclude.xml:1961(para)
 msgid "B. Skype"
 msgstr " B. Skype"
 
-#: chapter3/xinclude.xml:2076(para) chapter3/xinclude.xml:2082(para)
+#: chapter3/xinclude.xml:1963(para) chapter3/xinclude.xml:1969(para)
 msgid "C. Ubuntu One"
 msgstr " C. Ubuntu One"
 
-#: chapter3/xinclude.xml:2078(para)
+#: chapter3/xinclude.xml:1965(para)
 msgid "D. Ekiga"
 msgstr " D. Linphone"
 
-#: chapter3/xinclude.xml:2089(title)
+#: chapter3/xinclude.xml:1976(title)
 msgid "Lab Exercise"
 msgstr "上机练习"
 
-#: chapter3/xinclude.xml:2091(title)
+#: chapter3/xinclude.xml:1978(title)
 msgid "Exercise 1"
 msgstr "练习 1"
 
-#: chapter3/xinclude.xml:2093(para)
+#: chapter3/xinclude.xml:1980(para)
 msgid ""
 "You use Liferea as a newsreader on your computer. Recently, you met a friend "
 "who informed you about a Web site that offers RSS feeds, <ulink url=\"http://"
@@ -2981,7 +2758,7 @@ msgstr ""
 "\"http://forum.ubuntu.org.cn\">http://forum.ubuntu.org.cn</ulink> 提供 Feed。"
 "现在您希望配置 Liferea 接收该网站的最新头条。"
 
-#: chapter3/xinclude.xml:2102(para)
+#: chapter3/xinclude.xml:1989(para)
 msgid ""
 "Open the following Web site <ulink url=\"http://www.lifehacker.com\">http://"
 "www.lifehacker.com</ulink>. This site offers RSS feeds."
@@ -2989,7 +2766,7 @@ msgstr ""
 "打开 <ulink url=\"http://forum.ubuntu.org.cn\">http://forum.ubuntu.org.cn</"
 "ulink>，此站点提供 Feed。"
 
-#: chapter3/xinclude.xml:2107(para)
+#: chapter3/xinclude.xml:1994(para)
 msgid ""
 "In the left pane, under <emphasis role=\"strong\">syndication</emphasis>, "
 "click <emphasis role=\"strong\">Full content (with ads).</emphasis> Save the "
@@ -3002,11 +2779,11 @@ msgstr ""
 "org.cn/feed.php\">http://forum.ubuntu.org.cn/feed.php</ulink>，这就是 Feed "
 "源。"
 
-#: chapter3/xinclude.xml:2114(para)
+#: chapter3/xinclude.xml:2001(para)
 msgid "Open Liferea."
 msgstr "打开 Liferea。"
 
-#: chapter3/xinclude.xml:2118(para)
+#: chapter3/xinclude.xml:2005(para)
 msgid ""
 "Right-click in the left pane, point to <emphasis role=\"strong\">New</"
 "emphasis> and click <emphasis role=\"strong\">New Subscription</emphasis>. "
@@ -3016,7 +2793,7 @@ msgstr ""
 "点击窗口左上方的 <emphasis role=\"strong\">新增订阅</emphasis> 按钮打开新增订"
 "阅对话框。"
 
-#: chapter3/xinclude.xml:2124(para)
+#: chapter3/xinclude.xml:2011(para)
 msgid ""
 "In the <emphasis role=\"strong\">New Subscription</emphasis> dialogue box, "
 "type the saved URL <ulink url=\"http://feeds.gawker.com/lifehacker/full"
@@ -3026,11 +2803,11 @@ msgstr ""
 "<ulink url=\"http://forum.ubuntu.org.cn/feed.php\">http://forum.ubuntu.org."
 "cn/feed.php</ulink> 并点击确定。"
 
-#: chapter3/xinclude.xml:2131(title)
+#: chapter3/xinclude.xml:2018(title)
 msgid "Exercise 2"
 msgstr "练习 2"
 
-#: chapter3/xinclude.xml:2133(para)
+#: chapter3/xinclude.xml:2020(para)
 msgid ""
 "You want to chat with your friend, who uses Google talk (gtalk). Configure "
 "Pidgin to chat using gtalk."
@@ -3038,7 +2815,7 @@ msgstr ""
 "如果您希望与使用  Google Talk (gtalk) 的朋友进行在线聊天，请配置 Empathy 使"
 "用 gtalk。"
 
-#: chapter3/xinclude.xml:2139(para)
+#: chapter3/xinclude.xml:2026(para)
 msgid ""
 "On the <emphasis role=\"strong\">Applications</emphasis> menu, point to "
 "<emphasis role=\"strong\">Internet</emphasis> and click <emphasis role="
@@ -3048,7 +2825,7 @@ msgstr ""
 "role=\"strong\">Internet</emphasis> 然后点击 <emphasis role=\"strong"
 "\">Empathy IM 客户端</emphasis>。"
 
-#: chapter3/xinclude.xml:2145(para)
+#: chapter3/xinclude.xml:2032(para)
 msgid ""
 "On the <emphasis role=\"strong\">Accounts</emphasis> menu, click <emphasis "
 "role=\"strong\">Add/Edit</emphasis>. The <emphasis role=\"strong\">Accounts</"
@@ -3058,7 +2835,7 @@ msgstr ""
 "role=\"strong\">帐户</emphasis>，<emphasis role=\"strong\">帐户</emphasis> 窗"
 "口随即显示。"
 
-#: chapter3/xinclude.xml:2150(para)
+#: chapter3/xinclude.xml:2037(para)
 msgid ""
 "In the <emphasis role=\"strong\">Accounts</emphasis> window, click <emphasis "
 "role=\"strong\">Add</emphasis>. The <emphasis role=\"strong\">Add Account</"
@@ -3068,7 +2845,7 @@ msgstr ""
 "\"strong\">添加</emphasis>。在列表中选择 <emphasis role=\"strong\">Google "
 "Talk</emphasis> 并 <emphasis role=\"strong\">创建</emphasis>。"
 
-#: chapter3/xinclude.xml:2155(para)
+#: chapter3/xinclude.xml:2042(para)
 msgid ""
 "In the <emphasis role=\"strong\">Add Account</emphasis> window, select "
 "<emphasis role=\"strong\">xmpp</emphasis> from the <emphasis role=\"strong"
@@ -3082,7 +2859,7 @@ msgstr ""
 "名，<emphasis role=\"strong\">密码</emphasis> 处填写您的密码，最后点击 "
 "<emphasis role=\"strong\">连接</emphasis>。"
 
-#: chapter3/xinclude.xml:2164(para)
+#: chapter3/xinclude.xml:2051(para)
 msgid "You are now connected to the gtalk server."
 msgstr "至此，您已连接至 GTalk 服务器"
 
@@ -3096,6 +2873,146 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Azrael Green https://launchpad.net/~azrael-green\n"
 "  王英华 https://launchpad.net/~wantinghard"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_044.jpg'; "
+#~ "md5=5b9c3d92506b3cf9fb74f28a093a1512"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_012.png'; "
+#~ "md5=eab8ec9a280b3b21e7a505051361f842"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_045.jpg'; "
+#~ "md5=f44d2714da99bf9e6f73056e0a006981"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_046.png'; "
+#~ "md5=f4eed7931ec8afd949fa4ea1316c6d99"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_046.jpg'; "
+#~ "md5=b5a6cffc09b4385890815cdf1efa7ea8"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_006.png'; "
+#~ "md5=0c4ef52c58192df4a48f401fe4a9a800"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson04_images_047.jpg'; "
+#~ "md5=fac60568e7343209582028384b775961"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson04_images_020.png'; "
+#~ "md5=4949755a8bfc1cb6ce020f2354177a51"
+
+#~ msgid "To install Thunderbird on Ubuntu, perform the following steps:"
+#~ msgstr "要在 Ubuntu 上安装 Thunderbird，请按照以下步骤操作："
+
+#~ msgid ""
+#~ "On the <emphasis role=\"strong\">System</emphasis> menu, point to "
+#~ "<emphasis role=\"strong\">Administration</emphasis> and select <emphasis "
+#~ "role=\"strong\">Synaptic Package Manager</emphasis>. The <emphasis role="
+#~ "\"strong\">Synaptic Package Manager</emphasis> window will be displayed."
+#~ msgstr ""
+#~ "在 <emphasis role=\"strong\">系统</emphasis> 菜单上，指向 <emphasis role="
+#~ "\"strong\">系统管理</emphasis> 并选择 <emphasis role=\"strong\">新立得软件"
+#~ "包管理器</emphasis>。将显示 <emphasis role=\"strong\">新立得软件包管理器</"
+#~ "emphasis> 窗口。"
+
+#~ msgid "Launching Synaptic Package Manager"
+#~ msgstr "启动新立得软件包管理器"
+
+# 原文是对话框，似乎不合适
+#~ msgid ""
+#~ "In the <emphasis role=\"strong\">Synaptic Package Manager</emphasis> "
+#~ "dialogue box, you can select the package you need. The left pane lists "
+#~ "the categories, and the right pane lists the packages. You can search for "
+#~ "the package by clicking Search and specifying its name. If you do not "
+#~ "know the name of the package, select the category in the left pane to "
+#~ "filter the list of packages. You can then select the check box next to "
+#~ "the required package in the right pane."
+#~ msgstr ""
+#~ "在 <emphasis role=\"strong\">新立得软件包管理器</emphasis> 窗口中，可以选"
+#~ "择需要的包。左嵌板列出了分类，右嵌板列出了软件包。可以通过点击搜索并指定名"
+#~ "字进行搜索。如果不知道软件的名字，在左嵌板中选择分类以过滤软件列表。然后可"
+#~ "以在右嵌板选择需要的包前边的复选框。"
+
+#~ msgid ""
+#~ "If you want to view the installed and uninstalled packages, click "
+#~ "<emphasis role=\"strong\">Status</emphasis>. To know the source "
+#~ "repository of the package, click <emphasis role=\"strong\">Origin</"
+#~ "emphasis>. Click <emphasis role=\"strong\">Custom Filters</emphasis> if "
+#~ "you want to know whether a package is broken or can be upgraded."
+#~ msgstr ""
+#~ "如果想查看已安装的和未安装软件包，点击 <emphasis role=\"strong\">状态</"
+#~ "emphasis>。要了解包所在的软件仓库，点击 <emphasis role=\"strong\">源自</"
+#~ "emphasis>。如果想知道一个软件包是否损坏或可升级，点击 <emphasis role="
+#~ "\"strong\">自定义过滤器</emphasis>。"
+
+#~ msgid ""
+#~ "Click <emphasis role=\"strong\">Search</emphasis>. The <emphasis role="
+#~ "\"strong\">Find</emphasis> dialogue box opens. Type the name of the "
+#~ "package, <emphasis role=\"strong\">Thunderbird</emphasis>, in the "
+#~ "<emphasis role=\"strong\">Search</emphasis> field and click <emphasis "
+#~ "role=\"strong\">Search</emphasis>. The Mozilla Thunderbird package "
+#~ "displays in the right pane of the <emphasis role=\"strong\">Synaptic "
+#~ "Package Manager</emphasis> window."
+#~ msgstr ""
+#~ "点击 <emphasis role=\"strong\">搜索</emphasis>，打开 <emphasis role="
+#~ "\"strong\">查找</emphasis> 对话框。在 <emphasis role=\"strong\">搜索</"
+#~ "emphasis> 域中输入包的名字，<emphasis role=\"strong\">thunderbird</"
+#~ "emphasis>，然后点击 <emphasis role=\"strong\">搜索</emphasis>。Mozilla "
+#~ "Thunderbird 软件包显示在了 <emphasis role=\"strong\">新立得软件包管理器</"
+#~ "emphasis> 窗口的右侧面板中。"
+
+#~ msgid "Searching Thunderbird"
+#~ msgstr "搜索 Thunderbird"
+
+# 此 section 为何？
+#~ msgid ""
+#~ "To return to the list of categories after searching the packages using "
+#~ "<emphasis role=\"strong\">Search</emphasis>, click <emphasis role=\"strong"
+#~ "\">Sections</emphasis>."
+#~ msgstr ""
+#~ "要在使用 <emphasis role=\"strong\">搜索</emphasis> 之后返回到组别列表，点"
+#~ "击 <emphasis role=\"strong\">组别</emphasis>。"
+
+#~ msgid ""
+#~ "Select the <emphasis role=\"strong\">Mark for Installation</emphasis> "
+#~ "check box to install the package."
+#~ msgstr ""
+#~ "选中“thunderbird”，单击右键并在弹出的菜单里选择 <emphasis role=\"strong\">"
+#~ "标记以便安装</emphasis> 以安装此包。"
+
+#~ msgid "Marking Thunderbird for Installation"
+#~ msgstr "标记 Thunderbird 以安装"
+
+#~ msgid ""
+#~ "The package that you choose to install may depend on other packages. In "
+#~ "this case, you are notified about the dependencies. To continue making "
+#~ "the changes required to resolve the dependencies, click <emphasis role="
+#~ "\"strong\">Mark</emphasis>."
+#~ msgstr ""
+#~ "选择以安装的包可能依赖于其它包。此时，提示您此依赖关系。要继续进行此更改要"
+#~ "求解决此依赖关系，点击 <emphasis role=\"strong\">标记</emphasis>。然后请重"
+#~ "复步骤 3-5，搜索并标记安装软件包 thunderbird-locale-zh-cn，这是 Mozilla "
+#~ "Thunderbird 的简体中文语言支持文件。"
+
+#~ msgid ""
+#~ "To confirm that you want to make the marked changes, click <emphasis role="
+#~ "\"strong\">Apply.</emphasis>"
+#~ msgstr ""
+#~ "要确认您要执行已标记的变更，请点击 <emphasis role=\"strong\">应用</"
+#~ "emphasis>。"
+
+#~ msgid "Confirming Changes"
+#~ msgstr "确认变更"
+
+#~ msgid ""
+#~ "The <emphasis role=\"strong\">Summary</emphasis> dialogue box opens, "
+#~ "prompting you for a final check before making the marked changes. Click "
+#~ "<emphasis role=\"strong\">Apply</emphasis> to continue with the changes."
+#~ msgstr ""
+#~ "将显示 <emphasis role=\"strong\">摘要</emphasis> 对话框，在最后进行标记的"
+#~ "更改之前进行提示。点击 <emphasis role=\"strong\">应用</emphasis> 继续此更"
+#~ "改。"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson04_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"
