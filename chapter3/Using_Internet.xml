@@ -1188,125 +1188,6 @@
       repository and can be installed on your computer from the Synaptic
       Package Manager.</para>
 
-      <procedure>
-        <title>To install Thunderbird on Ubuntu, perform the following
-        steps:</title>
-
-        <step performance="required">
-          <para>On the <emphasis role="strong">System</emphasis> menu, point
-          to <emphasis role="strong">Administration</emphasis> and select
-          <emphasis role="strong">Synaptic Package Manager</emphasis>. The
-          <emphasis role="strong">Synaptic Package Manager</emphasis> window
-          will be displayed.</para>
-
-          <figure float="0">
-            <title>Launching Synaptic Package Manager</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_044.jpg"
-                           format="JPG" width="12cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
-          <para>In the <emphasis role="strong">Synaptic Package
-          Manager</emphasis> dialogue box, you can select the package you
-          need. The left pane lists the categories, and the right pane lists
-          the packages. You can search for the package by clicking Search and
-          specifying its name. If you do not know the name of the package,
-          select the category in the left pane to filter the list of packages.
-          You can then select the check box next to the required package in
-          the right pane.</para>
-
-          <tip>
-            <title>Nice to Know:</title>
-
-            <para>If you want to view the installed and uninstalled packages,
-            click <emphasis role="strong">Status</emphasis>. To know the
-            source repository of the package, click <emphasis
-            role="strong">Origin</emphasis>. Click <emphasis
-            role="strong">Custom Filters</emphasis> if you want to know
-            whether a package is broken or can be upgraded.</para>
-          </tip>
-        </step>
-
-        <step performance="required">
-          <para>Click <emphasis role="strong">Search</emphasis>. The <emphasis
-          role="strong">Find</emphasis> dialogue box opens. Type the name of
-          the package, <emphasis role="strong">Thunderbird</emphasis>, in the
-          <emphasis role="strong">Search</emphasis> field and click <emphasis
-          role="strong">Search</emphasis>. The Mozilla Thunderbird package
-          displays in the right pane of the <emphasis role="strong">Synaptic
-          Package Manager</emphasis> window.</para>
-
-          <figure float="0">
-            <title>Searching Thunderbird</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_045.jpg"
-                           format="JPG" width="10cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-
-          <note>
-            <title>Note:</title>
-
-            <para>To return to the list of categories after searching the
-            packages using <emphasis role="strong">Search</emphasis>, click
-            <emphasis role="strong">Sections</emphasis>.</para>
-          </note>
-        </step>
-
-        <step performance="required">
-          <para>Select the <emphasis role="strong">Mark for
-          Installation</emphasis> check box to install the package.</para>
-
-          <figure float="0">
-            <title>Marking Thunderbird for Installation</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_046.jpg"
-                           format="JPG" width="17cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
-          <para>The package that you choose to install may depend on other
-          packages. In this case, you are notified about the dependencies. To
-          continue making the changes required to resolve the dependencies,
-          click <emphasis role="strong">Mark</emphasis>.</para>
-        </step>
-
-        <step performance="required">
-          <para>To confirm that you want to make the marked changes, click
-          <emphasis role="strong">Apply.</emphasis></para>
-
-          <figure float="0">
-            <title>Confirming Changes</title>
-
-            <mediaobject>
-              <imageobject>
-                <imagedata fileref="images/Lesson04_images_047.jpg"
-                           format="JPG" width="12cm" />
-              </imageobject>
-            </mediaobject>
-          </figure>
-        </step>
-
-        <step performance="required">
-          <para>The <emphasis role="strong">Summary</emphasis> dialogue box
-          opens, prompting you for a final check before making the marked
-          changes. Click <emphasis role="strong">Apply</emphasis> to continue
-          with the changes.</para>
-
           <para>This completes the procedure of installing Thunderbird by
           using Synaptic Package Manager. To access Thunderbird, on the
           <emphasis role="strong">Applications</emphasis> menu, point to
@@ -1336,8 +1217,6 @@
               </imageobject>
             </mediaobject>
           </figure>
-        </step>
-      </procedure>
 
       <formalpara>
         <title>Features of Thunderbird</title>
