@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course managing-graphics-and-photos\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-07-24 19:27+0800\n"
+"POT-Creation-Date: 2010-08-01 13:41+0800\n"
 "PO-Revision-Date: 2010-07-21 22:16+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -20,129 +20,129 @@ msgstr ""
 #: chapter7/xinclude.xml:107(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_001.jpg'; "
-"md5=d204aa0efcde1fb99f883db19caba2a8"
-msgstr ""
-"@@image: 'images/Lesson08_images_032.png'; "
-"md5=d9a676693a685cc75b9de885913bfcf6"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:128(None)
-
-msgid ""
-"@@image: 'images/Lesson08_images_002.jpg'; "
-"md5=72070d22b5a251c66bf5a00c2c1bb465"
-msgstr ""
-"@@image: 'images/Lesson08_images_032.png'; "
-"md5=d9a676693a685cc75b9de885913bfcf6"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:152(None)
-
-msgid ""
-"@@image: 'images/Lesson08_images_003.jpg'; "
-"md5=d29805997e3423c5022e605e881f7eb7"
-msgstr ""
-"@@image: 'images/Lesson08_images_032.png'; "
-"md5=d9a676693a685cc75b9de885913bfcf6"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:172(None)
-
-msgid ""
-"@@image: 'images/Lesson08_images_004.jpg'; "
-"md5=92f6ff86538f7dbcee686275ab9765ca"
-msgstr ""
-"@@image: 'images/Lesson08_images_032.png'; "
-"md5=d9a676693a685cc75b9de885913bfcf6"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:189(None)
-
-msgid ""
-"@@image: 'images/Lesson08_images_005.jpg'; "
-"md5=387c55c3f4e8437be113620dd054bfe0"
+"@@image: 'images/Lesson08_images_001.png'; "
+"md5=8bd537e57a4337f0e4e6a1c0554d0f0a"
 msgstr ""
 "@@image: 'images/Lesson08_images_036.png'; "
 "md5=53acf89b475965e1b6364f01928e0997"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:244(None)
+#: chapter7/xinclude.xml:128(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_020.jpg'; "
-"md5=0bf1e5c94be2aac3dc78967fe0c1974f"
+"@@image: 'images/Lesson08_images_002.png'; "
+"md5=41a7a6b8f586715aa1ff4d04ae064a70"
+msgstr ""
+"@@image: 'images/Lesson08_images_033.png'; "
+"md5=e901fae93e7d36ada0c055fb9a178d48"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:152(None)
+
+msgid ""
+"@@image: 'images/Lesson08_images_003.png'; "
+"md5=9be36dd5b4cf50a8de3a8ac95a41063e"
+msgstr ""
+"@@image: 'images/Lesson08_images_033.png'; "
+"md5=e901fae93e7d36ada0c055fb9a178d48"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:172(None)
+
+msgid ""
+"@@image: 'images/Lesson08_images_004.png'; "
+"md5=6502cccf26aa4ea555e130157dd3111e"
+msgstr ""
+"@@image: 'images/Lesson08_images_036.png'; "
+"md5=53acf89b475965e1b6364f01928e0997"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:189(None)
+
+msgid ""
+"@@image: 'images/Lesson08_images_005.png'; "
+"md5=f1b544f2bea9d4dcd6f85368cb24f9fc"
 msgstr ""
 "@@image: 'images/Lesson08_images_035.png'; "
 "md5=f43fc43aa63e9d07da967866c31d9f6a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:278(None)
+#: chapter7/xinclude.xml:244(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_021.jpg'; "
-"md5=b5e6ea23f0ac4338c4ced5e1b42f6c65"
+"@@image: 'images/Lesson08_images_020.png'; "
+"md5=6beaf5f6a0772e4ddacacc1b8b3d3a27"
 msgstr ""
 "@@image: 'images/Lesson08_images_032.png'; "
 "md5=d9a676693a685cc75b9de885913bfcf6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:278(None)
+
+msgid ""
+"@@image: 'images/Lesson08_images_021.png'; "
+"md5=cbb9d0175845e3d7ed99e62ff4faf404"
+msgstr ""
+"@@image: 'images/Lesson08_images_035.png'; "
+"md5=f43fc43aa63e9d07da967866c31d9f6a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:304(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_022.jpg'; "
-"md5=c858abb525b711b76e6b0358ffde6dc5"
-msgstr ""
-"@@image: 'images/Lesson08_images_034.png'; "
-"md5=6d1cb8d56cfe15494545ab6643b90ec0"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:315(None)
-
-msgid ""
-"@@image: 'images/Lesson08_images_023.jpg'; "
-"md5=dfe196e31f56d8b9bd6788789c2cf31b"
+"@@image: 'images/Lesson08_images_022.png'; "
+"md5=2d1dc5161c41eac042b3a0c60f2cab55"
 msgstr ""
 "@@image: 'images/Lesson08_images_032.png'; "
 "md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:315(None)
+
+msgid ""
+"@@image: 'images/Lesson08_images_023.png'; "
+"md5=55ab7381c09479463c337c64c276ae3e"
+msgstr ""
+"@@image: 'images/Lesson08_images_035.png'; "
+"md5=f43fc43aa63e9d07da967866c31d9f6a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:330(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_024.jpg'; "
-"md5=818baf51c920155dda58b922c6e9c27b"
+"@@image: 'images/Lesson08_images_024.png'; "
+"md5=9e99cb00b9937b0eb5de3d7166b95bf3"
 msgstr ""
-"@@image: 'images/Lesson08_images_034.png'; "
-"md5=6d1cb8d56cfe15494545ab6643b90ec0"
+"@@image: 'images/Lesson08_images_033.png'; "
+"md5=e901fae93e7d36ada0c055fb9a178d48"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:344(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_025.jpg'; "
-"md5=1395006c34c104962591eb1c49c5c33c"
+"@@image: 'images/Lesson08_images_025.png'; "
+"md5=33dad0e43ae2ab8d49c209c44e4d6d97"
 msgstr ""
-"@@image: 'images/Lesson08_images_034.png'; "
-"md5=6d1cb8d56cfe15494545ab6643b90ec0"
+"@@image: 'images/Lesson08_images_033.png'; "
+"md5=e901fae93e7d36ada0c055fb9a178d48"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:380(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_026.jpg'; "
-"md5=0be6d9d496a09d0c0a795b04fdfbfb13"
+"@@image: 'images/Lesson08_images_026.png'; "
+"md5=4bb8006be14b4d13994666ab632ba293"
 msgstr ""
 "@@image: 'images/Lesson08_images_033.png'; "
 "md5=e901fae93e7d36ada0c055fb9a178d48"
@@ -152,19 +152,19 @@ msgstr ""
 #: chapter7/xinclude.xml:398(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_027.jpg'; "
-"md5=b7848fa2f4d9e95693c6e8d0f277df01"
+"@@image: 'images/Lesson08_images_027.png'; "
+"md5=9d342625fd6728620a8a9ed0ce4f3fcc"
 msgstr ""
-"@@image: 'images/Lesson08_images_035.png'; "
-"md5=f43fc43aa63e9d07da967866c31d9f6a"
+"@@image: 'images/Lesson08_images_033.png'; "
+"md5=e901fae93e7d36ada0c055fb9a178d48"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:433(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_028.jpg'; "
-"md5=8ee30bfe7109979f2510fd47649f3a2d"
+"@@image: 'images/Lesson08_images_028.png'; "
+"md5=ff1c6af50a14b74bd4c00590bb33b61e"
 msgstr ""
 "@@image: 'images/Lesson08_images_033.png'; "
 "md5=e901fae93e7d36ada0c055fb9a178d48"
@@ -174,74 +174,74 @@ msgstr ""
 #: chapter7/xinclude.xml:443(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_029.jpg'; "
-"md5=8000f7660b9bd556d099c5f554eeca3f"
-msgstr ""
-"@@image: 'images/Lesson08_images_032.png'; "
-"md5=d9a676693a685cc75b9de885913bfcf6"
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:484(None)
-
-msgid ""
-"@@image: 'images/Lesson08_images_030.jpg'; "
-"md5=e69d4fc5cb2eeff46898240968d1d284"
+"@@image: 'images/Lesson08_images_029.png'; "
+"md5=0bf44424bca8dfaf4af9b38e3665c08c"
 msgstr ""
 "@@image: 'images/Lesson08_images_035.png'; "
 "md5=f43fc43aa63e9d07da967866c31d9f6a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: chapter7/xinclude.xml:494(None)
+#: chapter7/xinclude.xml:484(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_031.jpg'; "
-"md5=8e3af05cb5eaeb473a5c79f991383f13"
+"@@image: 'images/Lesson08_images_030.png'; "
+"md5=9b3c5db9927fb8475acafb0883a56a0f"
 msgstr ""
 "@@image: 'images/Lesson08_images_032.png'; "
 "md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
+#: chapter7/xinclude.xml:494(None)
+
+msgid ""
+"@@image: 'images/Lesson08_images_031.png'; "
+"md5=e6b6cee558ae68cd07a5ec45df6e1d7b"
+msgstr ""
+"@@image: 'images/Lesson08_images_036.png'; "
+"md5=53acf89b475965e1b6364f01928e0997"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:518(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_014.jpg'; "
-"md5=e1a334a08f88e2369364e34cdfdc6d74"
+"@@image: 'images/Lesson08_images_014.png'; "
+"md5=0dcdeff4b127e3efdf460fce0a402294"
 msgstr ""
-"@@image: 'images/Lesson08_images_033.png'; "
-"md5=e901fae93e7d36ada0c055fb9a178d48"
+"@@image: 'images/Lesson08_images_035.png'; "
+"md5=f43fc43aa63e9d07da967866c31d9f6a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:538(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_015.jpg'; "
-"md5=529d3aa53fadc9c362eae6142d4a05e3"
+"@@image: 'images/Lesson08_images_015.png'; "
+"md5=615704c65a56ff537caa44fcf5cf4a6d"
 msgstr ""
-"@@image: 'images/Lesson08_images_033.png'; "
-"md5=e901fae93e7d36ada0c055fb9a178d48"
+"@@image: 'images/Lesson08_images_032.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:634(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_017.jpg'; "
-"md5=8d39cde431fb9a614bbbf689e123bd43"
+"@@image: 'images/Lesson08_images_017.png'; "
+"md5=7744867b4b891c4b19175df337057ff9"
 msgstr ""
-"@@image: 'images/Lesson08_images_034.png'; "
-"md5=6d1cb8d56cfe15494545ab6643b90ec0"
+"@@image: 'images/Lesson08_images_035.png'; "
+"md5=f43fc43aa63e9d07da967866c31d9f6a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:658(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_018.jpg'; "
-"md5=eaf0a30428dfa25f0b8d33aed4d0e5f1"
+"@@image: 'images/Lesson08_images_018.png'; "
+"md5=930738d64cb364dd8779ef5a74094f42"
 msgstr ""
 "@@image: 'images/Lesson08_images_033.png'; "
 "md5=e901fae93e7d36ada0c055fb9a178d48"
@@ -251,30 +251,30 @@ msgstr ""
 #: chapter7/xinclude.xml:672(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_019.jpg'; "
-"md5=4ebc370efe80b14707154d6d7e97201a"
+"@@image: 'images/Lesson08_images_019.png'; "
+"md5=d60f6aa421c08f8492a5971af90f36cb"
 msgstr ""
-"@@image: 'images/Lesson08_images_036.png'; "
-"md5=53acf89b475965e1b6364f01928e0997"
+"@@image: 'images/Lesson08_images_032.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:744(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_037.jpg'; "
-"md5=fbc0fbc1a54f79a67a63904965d95321"
+"@@image: 'images/Lesson08_images_037.png'; "
+"md5=a80eff21a40e287ef8e73c7f194a916c"
 msgstr ""
-"@@image: 'images/Lesson08_images_035.png'; "
-"md5=f43fc43aa63e9d07da967866c31d9f6a"
+"@@image: 'images/Lesson08_images_032.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:834(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_038.jpg'; "
-"md5=c539eac6abf77b9014ce631dcdda9f61"
+"@@image: 'images/Lesson08_images_038.png'; "
+"md5=38443e3d3e5ab66b4d2256f0532fc7d0"
 msgstr ""
 "@@image: 'images/Lesson08_images_035.png'; "
 "md5=f43fc43aa63e9d07da967866c31d9f6a"
@@ -284,33 +284,33 @@ msgstr ""
 #: chapter7/xinclude.xml:855(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_039.jpg'; "
-"md5=64326d1115aa969f865b7d9cb5535a24"
+"@@image: 'images/Lesson08_images_039.png'; "
+"md5=23bdbd76a5b061a8de2ea79045834c87"
 msgstr ""
-"@@image: 'images/Lesson08_images_034.png'; "
-"md5=6d1cb8d56cfe15494545ab6643b90ec0"
+"@@image: 'images/Lesson08_images_033.png'; "
+"md5=e901fae93e7d36ada0c055fb9a178d48"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:930(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_040.jpg'; "
-"md5=5fcf1b3a0acbe1c6fc3c91da6a7d42ae"
+"@@image: 'images/Lesson08_images_040.png'; "
+"md5=ee7b43ba8b02c8d6b9268c2d1b48a285"
 msgstr ""
-"@@image: 'images/Lesson08_images_035.png'; "
-"md5=f43fc43aa63e9d07da967866c31d9f6a"
+"@@image: 'images/Lesson08_images_032.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter7/xinclude.xml:945(None)
 
 msgid ""
-"@@image: 'images/Lesson08_images_041.jpg'; "
-"md5=06898bf00da178d664084af0ff9dfd39"
+"@@image: 'images/Lesson08_images_041.png'; "
+"md5=91e8f28d9ba382897f31bc116829ca61"
 msgstr ""
-"@@image: 'images/Lesson08_images_034.png'; "
-"md5=6d1cb8d56cfe15494545ab6643b90ec0"
+"@@image: 'images/Lesson08_images_032.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #: chapter7/xinclude.xml:4(title)
 msgid "Making The Most of Images and Photos"
@@ -1617,6 +1617,90 @@ msgid "translator-credits"
 msgstr ""
 "Yvonne Ye <feidaozhanchen@gmail.com>, 2010\n"
 "YunQiang Su <wzssyqa@gmail.com>, 2010"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_003.jpg'; "
+#~ "md5=d29805997e3423c5022e605e881f7eb7"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_032.png'; "
+#~ "md5=d9a676693a685cc75b9de885913bfcf6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_021.jpg'; "
+#~ "md5=b5e6ea23f0ac4338c4ced5e1b42f6c65"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_032.png'; "
+#~ "md5=d9a676693a685cc75b9de885913bfcf6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_022.jpg'; "
+#~ "md5=c858abb525b711b76e6b0358ffde6dc5"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_034.png'; "
+#~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_023.jpg'; "
+#~ "md5=dfe196e31f56d8b9bd6788789c2cf31b"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_032.png'; "
+#~ "md5=d9a676693a685cc75b9de885913bfcf6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_024.jpg'; "
+#~ "md5=818baf51c920155dda58b922c6e9c27b"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_034.png'; "
+#~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_025.jpg'; "
+#~ "md5=1395006c34c104962591eb1c49c5c33c"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_034.png'; "
+#~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_029.jpg'; "
+#~ "md5=8000f7660b9bd556d099c5f554eeca3f"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_032.png'; "
+#~ "md5=d9a676693a685cc75b9de885913bfcf6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_017.jpg'; "
+#~ "md5=8d39cde431fb9a614bbbf689e123bd43"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_034.png'; "
+#~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_037.jpg'; "
+#~ "md5=fbc0fbc1a54f79a67a63904965d95321"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_035.png'; "
+#~ "md5=f43fc43aa63e9d07da967866c31d9f6a"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_038.jpg'; "
+#~ "md5=c539eac6abf77b9014ce631dcdda9f61"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_035.png'; "
+#~ "md5=f43fc43aa63e9d07da967866c31d9f6a"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_039.jpg'; "
+#~ "md5=64326d1115aa969f865b7d9cb5535a24"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_034.png'; "
+#~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson08_images_041.jpg'; "
+#~ "md5=06898bf00da178d664084af0ff9dfd39"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson08_images_034.png'; "
+#~ "md5=6d1cb8d56cfe15494545ab6643b90ec0"
 
 #~ msgid ""
 #~ "@@image: 'images/Lesson08_images_001.jpg'; md5=THIS FILE DOESN'T EXIST"

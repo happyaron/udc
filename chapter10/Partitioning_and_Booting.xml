@@ -70,7 +70,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="images/partitioning.jpg" width="4cm" format="JPG"/>
+          <imagedata fileref="images/partitioning.png" width="4cm" format="PNG"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -332,7 +332,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_010.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_010.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -375,7 +375,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_011.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_011.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>  
@@ -397,7 +397,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_012.jpg" width="12cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_012.png" width="12cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -472,7 +472,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_013.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_013.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -500,7 +500,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_014.jpg" width="7cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_014.png" width="7cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -515,7 +515,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_015.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_015.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -549,7 +549,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_016.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_016.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -614,7 +614,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_019.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_019.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -637,7 +637,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_020.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_020.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -664,7 +664,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_017.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_017.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -756,7 +756,7 @@ $ sudo gedit /etc/default/grub</screen>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_021.jpg" width="14cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_021.png" width="14cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -775,7 +775,7 @@ $ sudo gedit /etc/default/grub</screen>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson11_images_022.jpg" width="10cm" format="JPG"/>
+                <imagedata fileref="images/Lesson11_images_022.png" width="10cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>

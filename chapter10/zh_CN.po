@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-desktop-course partitioning-and-booting\n"
 "Report-Msgid-Bugs-To: sbyy <sbyy@googlegroups.com>\n"
-"POT-Creation-Date: 2010-07-24 19:27+0800\n"
+"POT-Creation-Date: 2010-08-01 13:41+0800\n"
 "PO-Revision-Date: 2010-07-24 19:48+0800\n"
 "Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
 "Language-Team: Chinese (simplified) <sbyy@googlegroups.com>\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: chapter10/xinclude.xml:73(None)
 
 msgid ""
-"@@image: 'images/partitioning.jpg'; md5=df1f813a2b986ee4299fe92b4a229916"
+"@@image: 'images/partitioning.png'; md5=298c8736f0c8ffb7db851a599c36d209"
 msgstr ""
 "@@image: 'images/partitioning.png'; md5=298c8736f0c8ffb7db851a599c36d209"
 
@@ -30,8 +30,8 @@ msgstr ""
 #: chapter10/xinclude.xml:335(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_010.jpg'; "
-"md5=69ddb7a3d5ad310dbda1ec95c52b2657"
+"@@image: 'images/Lesson11_images_010.png'; "
+"md5=7ec8d09387042fd37594bde338f095a1"
 msgstr ""
 "@@image: 'images/Lesson11_images_018.png'; "
 "md5=d19248d0d3a735121d9fdd29dcd807b6"
@@ -41,30 +41,30 @@ msgstr ""
 #: chapter10/xinclude.xml:378(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_011.jpg'; "
-"md5=97f4d7264b93ddd20266cd7d857db953"
+"@@image: 'images/Lesson11_images_011.png'; "
+"md5=0c00ea24d1a7d400c5b471c0e30ec453"
 msgstr ""
-"@@image: 'images/Lesson11_images_018.png'; "
-"md5=d19248d0d3a735121d9fdd29dcd807b6"
+"@@image: 'images/Lesson11_images_009.png'; "
+"md5=7ccec49f504d61500cc25c59db863cb8"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:400(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_012.jpg'; "
-"md5=7118e18d834d82720d09b4aef1363998"
+"@@image: 'images/Lesson11_images_012.png'; "
+"md5=348fd039d7c34656c8cd11efb9eae6af"
 msgstr ""
-"@@image: 'images/Lesson11_images_018.png'; "
-"md5=d19248d0d3a735121d9fdd29dcd807b6"
+"@@image: 'images/Lesson11_images_001.png'; "
+"md5=d9a676693a685cc75b9de885913bfcf6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:475(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_013.jpg'; "
-"md5=d0f793cbf525ae3a3fad97bad6341c4d"
+"@@image: 'images/Lesson11_images_013.png'; "
+"md5=d2ff5aee05fcb83b41c5c3de6556a594"
 msgstr ""
 "@@image: 'images/Lesson11_images_006.png'; "
 "md5=6f36f59efee2ffacc10d33b637411146"
@@ -74,41 +74,41 @@ msgstr ""
 #: chapter10/xinclude.xml:503(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_014.jpg'; "
-"md5=054390c7412fe871ec514cc5880d8187"
+"@@image: 'images/Lesson11_images_014.png'; "
+"md5=27e50f3d7a7b75e09bd1424fcafebfd4"
 msgstr ""
-"@@image: 'images/Lesson11_images_008.png'; "
-"md5=56eb37e1b19f4e4a0597515121ced608"
+"@@image: 'images/Lesson11_images_003.png'; "
+"md5=20817092e102f3a6e169f480ac4fdd2f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:518(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_015.jpg'; "
-"md5=8bda93fde9fb1f940dbb5e3d72946881"
+"@@image: 'images/Lesson11_images_015.png'; "
+"md5=e0e7bb9b30a4ccb80654618acbcfeda9"
 msgstr ""
-"@@image: 'images/Lesson11_images_018.png'; "
-"md5=d19248d0d3a735121d9fdd29dcd807b6"
+"@@image: 'images/Lesson11_images_006.png'; "
+"md5=6f36f59efee2ffacc10d33b637411146"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:552(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_016.jpg'; "
-"md5=4380da587544bea88386c3d21417361a"
+"@@image: 'images/Lesson11_images_016.png'; "
+"md5=d30cec53df0670b5d10c53f8515ab0bd"
 msgstr ""
-"@@image: 'images/Lesson11_images_001.png'; "
-"md5=d9a676693a685cc75b9de885913bfcf6"
+"@@image: 'images/Lesson11_images_008.png'; "
+"md5=56eb37e1b19f4e4a0597515121ced608"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:617(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_019.jpg'; "
-"md5=d67160cdcd17606443ec295c9c805162"
+"@@image: 'images/Lesson11_images_019.png'; "
+"md5=7d4016aeebf76c4a537c4747c26eed8e"
 msgstr ""
 "@@image: 'images/Lesson11_images_018.png'; "
 "md5=d19248d0d3a735121d9fdd29dcd807b6"
@@ -118,30 +118,30 @@ msgstr ""
 #: chapter10/xinclude.xml:640(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_020.jpg'; "
-"md5=2af2a43186e8b4ce299849c2eb9904fe"
+"@@image: 'images/Lesson11_images_020.png'; "
+"md5=4042007ddb930ae6700336e0891bd5fa"
 msgstr ""
-"@@image: 'images/Lesson11_images_005.png'; "
-"md5=25ea694c1cab9372cb2c613b4a4d8e26"
+"@@image: 'images/Lesson11_images_003.png'; "
+"md5=20817092e102f3a6e169f480ac4fdd2f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:667(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_017.jpg'; "
-"md5=74ca693df2502fae3eab1eeb0c19ed6b"
+"@@image: 'images/Lesson11_images_017.png'; "
+"md5=28573138c388c86e9157d950d60570af"
 msgstr ""
-"@@image: 'images/Lesson11_images_007.png'; "
-"md5=57ac242cfa0360abe1a09056e815b529"
+"@@image: 'images/Lesson11_images_018.png'; "
+"md5=d19248d0d3a735121d9fdd29dcd807b6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter10/xinclude.xml:759(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_021.jpg'; "
-"md5=1e4141e859ecef2de20bb724856a76b1"
+"@@image: 'images/Lesson11_images_021.png'; "
+"md5=d3fea9381a9ee8559c93753d17428cf9"
 msgstr ""
 "@@image: 'images/Lesson11_images_018.png'; "
 "md5=d19248d0d3a735121d9fdd29dcd807b6"
@@ -151,8 +151,8 @@ msgstr ""
 #: chapter10/xinclude.xml:778(None)
 
 msgid ""
-"@@image: 'images/Lesson11_images_022.jpg'; "
-"md5=2cb87d164e283a3b2d34de3755514f61"
+"@@image: 'images/Lesson11_images_022.png'; "
+"md5=bdd4136b29ea1301145dffae8a707c6f"
 msgstr ""
 "@@image: 'images/Lesson11_images_018.png'; "
 "md5=d19248d0d3a735121d9fdd29dcd807b6"
@@ -774,7 +774,6 @@ msgstr ""
 "定分区大小。您也可以通过拖动顶部白条上的黑色粗体箭头指定大小。"
 
 #: chapter10/xinclude.xml:429(para)
-
 msgid ""
 "According to ISO 2955, the upper case prefixes are 1000 base. But in some "
 "software,they are used as 1024 base,such as 1GB is considered as 1024MB. At "
@@ -795,7 +794,8 @@ msgid ""
 "B is short of byte,which is 8 bit. When ISPs talking about the speed of "
 "network,they usually use bit."
 msgstr ""
-"B 是字节的缩写，代表 8 位。您的服务提供商(ISP)在谈论网速时使用的是位而非字节。"
+"B 是字节的缩写，代表 8 位。您的服务提供商(ISP)在谈论网速时使用的是位而非字"
+"节。"
 
 #: chapter10/xinclude.xml:436(para)
 msgid "1Kbps is 1000 bit per second,then it is 1000/8 B/s=125B/s;"
@@ -1528,6 +1528,48 @@ msgstr ""
 "YunQiang Su <wzssyqa@gmail.com>, 2010\n"
 "Yvonne Ye <feidaozhanchen@gmail.com>, 2010"
 
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_010.jpg'; "
+#~ "md5=69ddb7a3d5ad310dbda1ec95c52b2657"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_018.png'; "
+#~ "md5=d19248d0d3a735121d9fdd29dcd807b6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_011.jpg'; "
+#~ "md5=97f4d7264b93ddd20266cd7d857db953"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_018.png'; "
+#~ "md5=d19248d0d3a735121d9fdd29dcd807b6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_019.jpg'; "
+#~ "md5=d67160cdcd17606443ec295c9c805162"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_018.png'; "
+#~ "md5=d19248d0d3a735121d9fdd29dcd807b6"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_020.jpg'; "
+#~ "md5=2af2a43186e8b4ce299849c2eb9904fe"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_005.png'; "
+#~ "md5=25ea694c1cab9372cb2c613b4a4d8e26"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_017.jpg'; "
+#~ "md5=74ca693df2502fae3eab1eeb0c19ed6b"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_007.png'; "
+#~ "md5=57ac242cfa0360abe1a09056e815b529"
+
+#~ msgid ""
+#~ "@@image: 'images/Lesson11_images_021.jpg'; "
+#~ "md5=1e4141e859ecef2de20bb724856a76b1"
+#~ msgstr ""
+#~ "@@image: 'images/Lesson11_images_018.png'; "
+#~ "md5=d19248d0d3a735121d9fdd29dcd807b6"
+
 #~ msgid "@@image: 'images/partitioning.jpg'; md5=THIS FILE DOESN'T EXIST"
 #~ msgstr "@@image: 'images/partitioning.jpg'; md5=THIS FILE DOESN'T EXIST"
 
@@ -1619,25 +1661,11 @@ msgstr ""
 #~ msgstr "Palimpsest 磁盘实用工具"
 
 #~ msgid ""
-#~ "@@image: 'images/Lesson11_images_003.png'; "
-#~ "md5=20817092e102f3a6e169f480ac4fdd2f"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_003.png'; "
-#~ "md5=20817092e102f3a6e169f480ac4fdd2f"
-
-#~ msgid ""
 #~ "@@image: 'images/Lesson11_images_004.png'; "
 #~ "md5=ab4b8d3b8012a27aa2fb06081787392f"
 #~ msgstr ""
 #~ "@@image: 'images/Lesson11_images_004.png'; "
 #~ "md5=ab4b8d3b8012a27aa2fb06081787392f"
-
-#~ msgid ""
-#~ "@@image: 'images/Lesson11_images_009.png'; "
-#~ "md5=7ccec49f504d61500cc25c59db863cb8"
-#~ msgstr ""
-#~ "@@image: 'images/Lesson11_images_009.png'; "
-#~ "md5=7ccec49f504d61500cc25c59db863cb8"
 
 #~ msgid "Installing GParted by Using Synaptic Package Manager"
 #~ msgstr "使用新立得包管理器安装 GParted"

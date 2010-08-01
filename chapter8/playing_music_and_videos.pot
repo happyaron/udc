@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-07-25 13:11+0800\n"
+"POT-Creation-Date: 2010-08-01 13:41+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,553 +12,553 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:159(None)
-msgid "@@image: 'images/chapter9_image_001.jpg'; md5=cc02d9e7704ae1182c425d502afe97e1"
+msgid "@@image: 'images/chapter9_image_001.png'; md5=932c2b7a470bd07dba402e507de678e2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:175(None)
-msgid "@@image: 'images/chapter9_image_002.jpg'; md5=67c01c1e7e2c6f76b602c95c110f9d77"
+msgid "@@image: 'images/chapter9_image_002.png'; md5=6cfa24ce224759de58feb3aae8478f93"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:200(None)
-msgid "@@image: 'images/chapter9_image_003.jpg'; md5=ab09cedaaba63139d24d489e88ba73fa"
+msgid "@@image: 'images/chapter9_image_003.png'; md5=bb30b4ccde5f4ed7c44df5ce14e48416"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:217(None)
-msgid "@@image: 'images/chapter9_image_004.jpg'; md5=eeb04cb5ec5472ddc69d1eb225cfaa31"
+msgid "@@image: 'images/chapter9_image_004.png'; md5=2a51f22331a89b62d71b31ffd937c8a7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:249(None)
-msgid "@@image: 'images/chapter9_image_005.jpg'; md5=8dd0bedf7f32a76d9dc89835827687cc"
+msgid "@@image: 'images/chapter9_image_005.png'; md5=e45939ad190d02c0a6106e0745012c9a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:268(None)
-msgid "@@image: 'images/chapter9_image_006.jpg'; md5=13c2ec6cf773abf0283debdd3b0ae92e"
+msgid "@@image: 'images/chapter9_image_006.png'; md5=f1c12f1d2b60f618f2893bb5f786148c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:285(None)
-msgid "@@image: 'images/chapter9_image_007.jpg'; md5=0adeda888480469c55de25b68821f500"
+msgid "@@image: 'images/chapter9_image_007.png'; md5=ca55cff9e847588b7fe460d8bd7fb49e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:316(None)
-msgid "@@image: 'images/chapter9_image_008.jpg'; md5=d4f2848e18643fa968dd4b68cd1a79a1"
+msgid "@@image: 'images/chapter9_image_008.png'; md5=7ca964d129921eaa70ee8c5f795cfae0"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:331(None)
-msgid "@@image: 'images/chapter9_image_009.jpg'; md5=50880888a3c93b319bee42316b4d877b"
+msgid "@@image: 'images/chapter9_image_009.png'; md5=674633d5ed410db433bfcbd0c7fcda46"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:346(None)
-msgid "@@image: 'images/chapter9_image_010.jpg'; md5=61350ea397b0949db682e577eb26c786"
+msgid "@@image: 'images/chapter9_image_010.png'; md5=cf7b15178459eda6ce2f04ef37205068"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:362(None)
-msgid "@@image: 'images/chapter9_image_011.jpg'; md5=9e783c1eaabc0ef55805e2bef6bb4aa2"
+msgid "@@image: 'images/chapter9_image_011.png'; md5=6c73f41e48174dc9b8e5facf0febb3ec"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:376(None)
-msgid "@@image: 'images/chapter9_image_012.jpg'; md5=536cf267259cb75a4fc9be073cd1c0e6"
+msgid "@@image: 'images/chapter9_image_012.png'; md5=23fd58db60455e9504c38028789ddf25"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:394(None)
-msgid "@@image: 'images/chapter9_image_013.jpg'; md5=e3631a286e25a95954ba5aabb97fd429"
+msgid "@@image: 'images/chapter9_image_013.png'; md5=0be1299207b9cf69598cd4bf73410aef"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:425(None)
-msgid "@@image: 'images/chapter9_image_014.jpg'; md5=7dedc48f1ea29c6d5e892ec5f75a6f11"
+msgid "@@image: 'images/chapter9_image_014.png'; md5=35514d54992c9427fa868f2c579a0177"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:441(None)
-msgid "@@image: 'images/chapter9_image_015.jpg'; md5=27fcca3f0e3a186dec1a27f32303c920"
+msgid "@@image: 'images/chapter9_image_015.png'; md5=02575c2c9587f06432bfa69b2a46e4d0"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:458(None)
-msgid "@@image: 'images/chapter9_image_016.jpg'; md5=31f3d37ef48d4456393ed2bd5186fa25"
+msgid "@@image: 'images/chapter9_image_016.png'; md5=81e945a62d23196dd0264c60db3aa49f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:475(None)
-msgid "@@image: 'images/chapter9_image_017.jpg'; md5=0cb821e3f79d964fa9c4dce5cf8acb04"
+msgid "@@image: 'images/chapter9_image_017.png'; md5=8b6a4f6d43e2565f71c5b3b489ebff1b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:501(None)
-msgid "@@image: 'images/chapter9_image_018.jpg'; md5=93a756f69b7c0a30baf74f8f015cd104"
+msgid "@@image: 'images/chapter9_image_018.png'; md5=c14990f213fdfd99fca5072eec2c90f5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:529(None)
-msgid "@@image: 'images/chapter9_image_117.jpg'; md5=cfea4a9255ed0121269f756627d3ff0e"
+msgid "@@image: 'images/chapter9_image_117.png'; md5=f1645b02c0e98c388dca9cfd53dc124f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:602(None)
-msgid "@@image: 'images/chapter9_image_019.jpg'; md5=eaa72946fa9a374a3fa4d39da4a0e845"
+msgid "@@image: 'images/chapter9_image_019.png'; md5=f48a78601bb6ec3f5587ba209c694572"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:630(None)
-msgid "@@image: 'images/chapter9_image_020.jpg'; md5=338eaaac7c8331656ad20363f18947bc"
+msgid "@@image: 'images/chapter9_image_020.png'; md5=96537e5d3ddf5f4532ecb2ace853370c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:653(None)
-msgid "@@image: 'images/chapter9_image_021.jpg'; md5=211926cc3734738842ab9bdff0e94dfb"
+msgid "@@image: 'images/chapter9_image_021.png'; md5=55c356f7c04df26617e43a6ee62eeae7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:668(None)
-msgid "@@image: 'images/chapter9_image_022.jpg'; md5=d07798a0dbbb53b0b0e4721e80ab05eb"
+msgid "@@image: 'images/chapter9_image_022.png'; md5=31bb0851218f63da5bbfc1e9a553d4fe"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:696(None)
-msgid "@@image: 'images/chapter9_image_023.jpg'; md5=ffac08780ed42031d2be5bb051fd7aeb"
+msgid "@@image: 'images/chapter9_image_023.png'; md5=542c5d08791ffd1220a30afd4b14c818"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:729(None)
-msgid "@@image: 'images/chapter9_image_024.jpg'; md5=46f6e2901ac08ba0b171d30961e30493"
+msgid "@@image: 'images/chapter9_image_024.png'; md5=22df91a1ba492eb7cfda4134956b3214"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:748(None)
-msgid "@@image: 'images/chapter9_image_025.jpg'; md5=69a44b93df5eeb55e5117439c78dedb9"
+msgid "@@image: 'images/chapter9_image_025.png'; md5=5cbca0f78ab678fe098e33cb84fd14eb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:765(None)
-msgid "@@image: 'images/chapter9_image_026.jpg'; md5=aae6afe764aa9a46aed1929868f792de"
+msgid "@@image: 'images/chapter9_image_026.png'; md5=775342b1f9ca6c286c9c232ba05d2923"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:786(None)
-msgid "@@image: 'images/chapter9_image_027.jpg'; md5=e1d989180a36f6ab936ac320af82f7f7"
+msgid "@@image: 'images/chapter9_image_027.png'; md5=5ac74fefd7922c2f140eaa9b9811acaa"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:807(None)
-msgid "@@image: 'images/chapter9_image_028.jpg'; md5=7871a78a0ab256b9dab75968cde863d4"
+msgid "@@image: 'images/chapter9_image_028.png'; md5=e3cffdae6ed0a70a54f881238ee640db"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:823(None)
-msgid "@@image: 'images/chapter9_image_030.jpg'; md5=3e846f3cda4a03fbc69ad70dfd2ad85a"
+msgid "@@image: 'images/chapter9_image_030.png'; md5=f8de628537c4e98299f47b9d63737e5b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:855(None)
-msgid "@@image: 'images/chapter9_image_032.jpg'; md5=529b9225472fcb62d39b821e4d16c8f8"
+msgid "@@image: 'images/chapter9_image_032.png'; md5=7df66b6532d237c1e5c458dfbf020080"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:872(None)
-msgid "@@image: 'images/chapter9_image_034.jpg'; md5=f114832f587286f2fb1df15b43f1be51"
+msgid "@@image: 'images/chapter9_image_034.png'; md5=67d7ce456186668094852a6d908b60f9"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:891(None)
-msgid "@@image: 'images/chapter9_image_035.jpg'; md5=8a4188619d438ffa90780eee79361cb4"
+msgid "@@image: 'images/chapter9_image_035.png'; md5=6ab7ac8d0317aba71a49ceff5cbd5f9b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:912(None)
-msgid "@@image: 'images/chapter9_image_036.jpg'; md5=dd490c818bfc99b48c24b6ba0fccdb0e"
+msgid "@@image: 'images/chapter9_image_036.png'; md5=e3a32b8b1812102aa3ad065fcdc621f5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:930(None)
-msgid "@@image: 'images/chapter9_image_038.jpg'; md5=0473d4b3cab566e6769faa41f6a1607b"
+msgid "@@image: 'images/chapter9_image_038.png'; md5=5d3b395634128de6f5f2409228471928"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:948(None)
-msgid "@@image: 'images/chapter9_image_039.jpg'; md5=d7d45b0ab1f46e9799effd99299b851a"
+msgid "@@image: 'images/chapter9_image_039.png'; md5=dc951264aba5eca7a2d5e766bce19cd3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:988(None)
-msgid "@@image: 'images/chapter9_image_059.jpg'; md5=224007fbd1883b9824b476e7612d04ce"
+msgid "@@image: 'images/chapter9_image_059.png'; md5=12b7c716ba7a25960dd2a546af40aa25"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1005(None)
-msgid "@@image: 'images/chapter9_image_060.jpg'; md5=6c4b7c7651f6f33c3411cf8ec8d6f611"
+msgid "@@image: 'images/chapter9_image_060.png'; md5=c714bceae73bcc49563b970c38262003"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1021(None)
-msgid "@@image: 'images/chapter9_image_061.jpg'; md5=6347ade8ee80bee750a00c561c428f63"
+msgid "@@image: 'images/chapter9_image_061.png'; md5=7341b4566afdddf9957bb25b429f3e58"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1039(None)
-msgid "@@image: 'images/chapter9_image_062.jpg'; md5=7d249f4bb5cb8387499252d061e3ced9"
+msgid "@@image: 'images/chapter9_image_062.png'; md5=81c1fc530387ff186ba5f540d18af8a3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1054(None)
-msgid "@@image: 'images/chapter9_image_063.jpg'; md5=5ad7ca1f5d0605788663053c95929cd3"
+msgid "@@image: 'images/chapter9_image_063.png'; md5=71e0dde61ff34796bb508de533295a90"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1070(None)
-msgid "@@image: 'images/chapter9_image_064.jpg'; md5=0522b02c060f538b83c4dfa45bfd840b"
+msgid "@@image: 'images/chapter9_image_064.png'; md5=362b2aa88c1be70e649c6dff57582304"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1088(None)
-msgid "@@image: 'images/chapter9_image_065.jpg'; md5=ca8b2767cb8cfc5b41325bbe67da2179"
+msgid "@@image: 'images/chapter9_image_065.png'; md5=ac036593a83a96763e3c8ffccbe1e5bb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1120(None)
-msgid "@@image: 'images/chapter9_image_066.jpg'; md5=61c2903d158adfdfbbfffda0f1b4a438"
+msgid "@@image: 'images/chapter9_image_066.png'; md5=6f79a28f1f5c9efd56c042bf6848319b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1136(None)
-msgid "@@image: 'images/chapter9_image_068.jpg'; md5=f9bb8e598ef8caf91c0250fa35b5571f"
+msgid "@@image: 'images/chapter9_image_068.png'; md5=3d1d3d2d6fe19385d32c131b88bd65c1"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1155(None)
-msgid "@@image: 'images/chapter9_image_069.jpg'; md5=ea63cbeb1c64e10d2a6177d9adbcd2ec"
+msgid "@@image: 'images/chapter9_image_069.png'; md5=68cde861d22289bdb262855bbd252a0b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1171(None)
-msgid "@@image: 'images/chapter9_image_070.jpg'; md5=4f4e979c6af8c42d988b524b3fb36d61"
+msgid "@@image: 'images/chapter9_image_070.png'; md5=e92e04c9041b24d02947426536dfb39e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1195(None)
-msgid "@@image: 'images/chapter9_image_071.jpg'; md5=082ed9e2986ddfe762043840e3757440"
+msgid "@@image: 'images/chapter9_image_071.png'; md5=fc9654ac9201a501ca33c2797639b129"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1240(None)
-msgid "@@image: 'images/chapter9_image_072.jpg'; md5=3150eb4de9d63b02468151229ca5f9f8"
+msgid "@@image: 'images/chapter9_image_072.png'; md5=9ff2fcdb13718fdbffbb0d2c858e1b49"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1256(None)
-msgid "@@image: 'images/chapter9_image_073.jpg'; md5=8c49b537ee2da623e79f8699519fdb8d"
+msgid "@@image: 'images/chapter9_image_073.png'; md5=93a78d7cf987fba263b7406ad7e1e862"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1314(None)
-msgid "@@image: 'images/chapter9_image_074.jpg'; md5=63a8f414000e72551cb3e61d651f7bae"
+msgid "@@image: 'images/chapter9_image_074.png'; md5=004a9b408fe1916f2d56b5cca247b5df"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1331(None)
-msgid "@@image: 'images/chapter9_image_075.jpg'; md5=e92e7f3b636aa6145fec5d8a26000e35"
+msgid "@@image: 'images/chapter9_image_075.png'; md5=26a47dcad736c3c0ec390fa2631ef5c3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1346(None)
-msgid "@@image: 'images/chapter9_image_076.jpg'; md5=262da0cdc4c3892450a48b41785c0e3a"
+msgid "@@image: 'images/chapter9_image_076.png'; md5=db05a97836c6a54dfa59ac572c18dd98"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1366(None)
-msgid "@@image: 'images/chapter9_image_077.jpg'; md5=58ceff752ae6279bcb7fd06185bf2db1"
+msgid "@@image: 'images/chapter9_image_077.png'; md5=bfc9a4e93bde10eb7ec997cd049a68d8"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1384(None)
-msgid "@@image: 'images/chapter9_image_078.jpg'; md5=90f17124b241c0518ce36525fcf3716f"
+msgid "@@image: 'images/chapter9_image_078.png'; md5=4931ddb8343c9b1613fd0f48c4b793e9"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1396(None)
-msgid "@@image: 'images/chapter9_image_088.jpg'; md5=03fb234a0cc6565eccfda2378ef1740c"
+msgid "@@image: 'images/chapter9_image_088.png'; md5=c69e7de2f690164c1c6881f82f8f317c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1412(None)
-msgid "@@image: 'images/chapter9_image_079.jpg'; md5=f346c4cb9fb00318d89f177a0b0687ff"
+msgid "@@image: 'images/chapter9_image_079.png'; md5=72198ad7efbb253594542256274f4785"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1492(None)
-msgid "@@image: 'images/chapter9_image_080.jpg'; md5=b2c08002eeafbc10b6325d6b39b16e7f"
+msgid "@@image: 'images/chapter9_image_080.png'; md5=f30b340f02898d1a338357a1db886acb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1507(None)
-msgid "@@image: 'images/chapter9_image_081.jpg'; md5=6916f4189843f39e2a5071b7aa5a2598"
+msgid "@@image: 'images/chapter9_image_081.png'; md5=2dc4baef361452fa378e563c52946ffa"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1521(None)
-msgid "@@image: 'images/chapter9_image_082.jpg'; md5=bf0c72563b8534d46c932df950a94810"
+msgid "@@image: 'images/chapter9_image_082.png'; md5=29ce278708778c360bf7588068f949fb"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1538(None)
-msgid "@@image: 'images/chapter9_image_083.jpg'; md5=f23a5b2af20129eef55df97760745fa4"
+msgid "@@image: 'images/chapter9_image_083.png'; md5=fb9c3b3aa5705b401c915999a1b9ff9a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1554(None)
-msgid "@@image: 'images/chapter9_image_084.jpg'; md5=208bcca34efd7a22b07aa2bdb9010d9b"
+msgid "@@image: 'images/chapter9_image_084.png'; md5=58e874bbe006601198f0b641f1500e8e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1571(None)
-msgid "@@image: 'images/chapter9_image_085.jpg'; md5=197f784fc8d3e5e85f04ee1f01cf8e6b"
+msgid "@@image: 'images/chapter9_image_085.png'; md5=2cc923156c43c9c3f0c1a593d03006b3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1586(None)
-msgid "@@image: 'images/chapter9_image_086.jpg'; md5=820e1b5cf84c1408a39b92b2a07c5fc6"
+msgid "@@image: 'images/chapter9_image_086.png'; md5=df2c2fc43dd9428b089be3f014afb522"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1596(None)
-msgid "@@image: 'images/chapter9_image_087.jpg'; md5=02d5c888fde96e5dd06ac368fd6e0e0a"
+msgid "@@image: 'images/chapter9_image_087.png'; md5=f3623be307e797d2045f00b28b64bca3"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1711(None)
-msgid "@@image: 'images/chapter9_image_089.jpg'; md5=012356f34e0bc6811c0236b89dae6715"
+msgid "@@image: 'images/chapter9_image_089.png'; md5=501f2e22015955afe94eb941322f1f19"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1729(None)
-msgid "@@image: 'images/chapter9_image_090.jpg'; md5=b3b73347fbd2d2bec0d32ea38c907c0f"
+msgid "@@image: 'images/chapter9_image_090.png'; md5=26e723fb78b7b80f30fd3c7052822991"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1749(None)
-msgid "@@image: 'images/chapter9_image_091.jpg'; md5=31e716cd46c66364c4c40e72e1792f2d"
+msgid "@@image: 'images/chapter9_image_091.png'; md5=80488f421b0375aa181d037373213bee"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1767(None)
-msgid "@@image: 'images/chapter9_image_092.jpg'; md5=c8e73eaeb24f1bf5ba3f031ce2b639a6"
+msgid "@@image: 'images/chapter9_image_092.png'; md5=c4f7950acc8456ea9fb52ac885a957b5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1802(None)
-msgid "@@image: 'images/chapter9_image_093.jpg'; md5=e12fc96276519cde2506280f8640e189"
+msgid "@@image: 'images/chapter9_image_093.png'; md5=35d112c0991cb5ece8d6a03480613d78"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1907(None)
-msgid "@@image: 'images/chapter9_image_094.jpg'; md5=2794f4ae0aa9d295f151e22ae366097a"
+msgid "@@image: 'images/chapter9_image_094.png'; md5=6462e45c9153052dc2847d5cbf941148"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1925(None)
-msgid "@@image: 'images/chapter9_image_095.jpg'; md5=fbe09372150dc803647c21b84066dd54"
+msgid "@@image: 'images/chapter9_image_095.png'; md5=a99ef3442223d3a0c88963c4dfb2bd27"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1941(None)
-msgid "@@image: 'images/chapter9_image_096.jpg'; md5=874657ea1f35de7fc8fc76bf2d82e39f"
+msgid "@@image: 'images/chapter9_image_096.png'; md5=8334a2793a93f6175e8e1d561b7fe80c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1958(None)
-msgid "@@image: 'images/chapter9_image_097.jpg'; md5=91823274b882f42ee88e510e8616e651"
+msgid "@@image: 'images/chapter9_image_097.png'; md5=a8826df4cf4d916e85909aa1eb0f1533"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1974(None)
-msgid "@@image: 'images/chapter9_image_098.jpg'; md5=70d2da93a16850bf17edd22f5cb04739"
+msgid "@@image: 'images/chapter9_image_098.png'; md5=5d5b6dc52a181e35f820b0bbc3c2bba5"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:1991(None)
-msgid "@@image: 'images/chapter9_image_099.jpg'; md5=81ed9149c591d7894191fcc925e9b15e"
+msgid "@@image: 'images/chapter9_image_099.png'; md5=03fa6a9b092e5aab60c5f38f7a502a72"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2013(None)
-msgid "@@image: 'images/chapter9_image_101.jpg'; md5=cffe301973d1e798262e11f956e38519"
+msgid "@@image: 'images/chapter9_image_101.png'; md5=336ac9505f7a4e32367033719e2d6aab"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2031(None)
-msgid "@@image: 'images/chapter9_image_102.jpg'; md5=00589e0f370b24327a903ef365a04118"
+msgid "@@image: 'images/chapter9_image_102.png'; md5=ad159ed7156052b5c8bc3e99c2649fb0"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2049(None)
-msgid "@@image: 'images/chapter9_image_103.jpg'; md5=cbb85d02e90fb72b228f0a39a41b3387"
+msgid "@@image: 'images/chapter9_image_103.png'; md5=f6dae6ca82171f93a968765e0ea0ad0c"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2066(None)
-msgid "@@image: 'images/chapter9_image_104.jpg'; md5=2a223a39db0621fa90c59206059e537d"
+msgid "@@image: 'images/chapter9_image_104.png'; md5=78d591d0a3c306a03b81a500eec3b4c7"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2086(None)
-msgid "@@image: 'images/chapter9_image_105.jpg'; md5=889186432eca07f6cce08ed77b1c8633"
+msgid "@@image: 'images/chapter9_image_105.png'; md5=0d928ed8fb39564771a330a68a790c00"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2103(None)
-msgid "@@image: 'images/chapter9_image_106.jpg'; md5=9c018c0601b660b924ca22593097a0c3"
+msgid "@@image: 'images/chapter9_image_106.png'; md5=df178f30fb266a1e7701a7c4b9fd0a5b"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2172(None)
-msgid "@@image: 'images/chapter9_image_107.jpg'; md5=fd64e48c1d21340d198102c2698572b0"
+msgid "@@image: 'images/chapter9_image_107.png'; md5=97d8aca39685426d02a065e1287ff296"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2188(None)
-msgid "@@image: 'images/chapter9_image_108.jpg'; md5=303cd441323bfbf0256c657cff8f157f"
+msgid "@@image: 'images/chapter9_image_108.png'; md5=c92cb29f318314344a3346a27e9afa4e"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2205(None)
-msgid "@@image: 'images/chapter9_image_109.jpg'; md5=a2ead3f2df6b89d9297e41ef6cc5554f"
+msgid "@@image: 'images/chapter9_image_109.png'; md5=0f649ea155c0ca57cbe2aed739ceb646"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2224(None)
-msgid "@@image: 'images/chapter9_image_110.jpg'; md5=dae7d3847cf66688c523fdd40ad0c38b"
+msgid "@@image: 'images/chapter9_image_110.png'; md5=e162449a9b5b9d3fdb55a21ce8637af2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2246(None)
-msgid "@@image: 'images/chapter9_image_111.jpg'; md5=0866e52190bdccc1018ad21f95e0a346"
+msgid "@@image: 'images/chapter9_image_111.png'; md5=0d561f63ef98397a7d5d934e9d1be7d2"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2267(None)
-msgid "@@image: 'images/chapter9_image_112.jpg'; md5=7d4605db56e9a979e18823064c819002"
+msgid "@@image: 'images/chapter9_image_112.png'; md5=725eb4ba029c9a3b65717c5785588215"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2284(None)
-msgid "@@image: 'images/chapter9_image_113.jpg'; md5=801f8eb37a387198645493df51bc2200"
+msgid "@@image: 'images/chapter9_image_113.png'; md5=dec85d800095d443cc97a7207257d59a"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2300(None)
-msgid "@@image: 'images/chapter9_image_114.jpg'; md5=da2929bff3e2c086bb4c1790b4500482"
+msgid "@@image: 'images/chapter9_image_114.png'; md5=3421ea8beb518ace64e8e38bdb8de483"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2317(None)
-msgid "@@image: 'images/chapter9_image_115.jpg'; md5=0c2353f6451b724abb1351392bedab35"
+msgid "@@image: 'images/chapter9_image_115.png'; md5=9d1d282de3d4c57fd271f9e1586c991f"
 msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: chapter8/xinclude.xml:2332(None)
-msgid "@@image: 'images/chapter9_image_116.jpg'; md5=113de286337ebc49ae44312f7fb8967d"
+msgid "@@image: 'images/chapter9_image_116.png'; md5=9ce9b8f5839e715a54cb665864a86530"
 msgstr ""
 
 #: chapter8/xinclude.xml:4(title)

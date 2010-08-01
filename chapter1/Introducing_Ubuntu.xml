@@ -133,7 +133,7 @@
         <title>Linus Benedict Torvalds</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/chapter1_img_02.jpg" width="11cm" format="JPG"/>
+            <imagedata fileref="images/chapter1_img_02.png" width="11cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -191,7 +191,7 @@
         <title>Founders of the Open Source Movement</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/chapter1_img_03.jpg" width="17cm" format="JPG"/>
+            <imagedata fileref="images/chapter1_img_03.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -237,7 +237,7 @@
       <title>Mark Shuttleworth</title>
       <mediaobject>
         <imageobject>
-          <imagedata fileref="images/chapter1_img_04.jpg" width="7cm" format="JPG"/>
+          <imagedata fileref="images/chapter1_img_04.png" width="7cm" format="PNG"/>
         </imageobject>
       </mediaobject>
     </figure>Based on the principles of time-based releases, a
@@ -317,7 +317,7 @@
         <title>Ubuntu Versions</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/chapter1_img_05.jpg" width="17cm" format="JPG"/>
+            <imagedata fileref="images/chapter1_img_05.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -850,7 +850,7 @@
       <title>Price compare</title>
       <mediaobject>
         <imageobject>
-          <imagedata fileref="images/Lesson02_images_001.jpg" format="JPG"/>
+          <imagedata fileref="images/Lesson02_images_001.png" format="PNG"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -893,7 +893,7 @@
       <title>Ubuntu Security</title>
       <mediaobject>
         <imageobject>
-          <imagedata fileref="images/Lesson02_images_003.jpg" format="JPG"/>
+          <imagedata fileref="images/Lesson02_images_003.png" format="PNG"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -919,7 +919,7 @@
       <title>Desktop Customisation</title>
       <mediaobject>
         <imageobject>
-          <imagedata fileref="images/Lesson02_images_004.jpg" format="JPG"/>
+          <imagedata fileref="images/Lesson02_images_004.png" format="PNG"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -1077,7 +1077,7 @@
             <title>Installing Software Applications</title>
             <mediaobject>
               <imageobject>
-                <imagedata fileref="images/Lesson02_images_006.jpg" width="17cm" format="JPG"/>
+                <imagedata fileref="images/Lesson02_images_006.png" width="17cm" format="PNG"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -1267,7 +1267,7 @@
         <title>Evolution E-mail Client</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson02_images_008.jpg" width="17cm" format="JPG"/>
+            <imagedata fileref="images/Lesson02_images_008.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1283,7 +1283,7 @@
           <title>OpenOffice.org Writer</title>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="images/Lesson02_images_009.jpg" width="17cm" format="JPG"/>
+              <imagedata fileref="images/Lesson02_images_009.png" width="17cm" format="PNG"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1324,7 +1324,7 @@
         <title>GIMP</title>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="images/Lesson02_images_010.jpg" width="17cm" format="JPG"/>
+            <imagedata fileref="images/Lesson02_images_010.png" width="17cm" format="PNG"/>
           </imageobject>
         </mediaobject>
       </figure>
