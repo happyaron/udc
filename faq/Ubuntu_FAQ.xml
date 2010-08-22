@@ -382,7 +382,7 @@
         	<para>设置环境变量 GST_ID3V2_TAG_ENCODING 和 GST_ID3_TAG_ENCODING，将：
         	<screen format="linespecific">export GST_ID3_TAG_ENCODING=GBK:UTF-8:GB18030
 export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
-		加入 ~/.bashrc (只影响自己) 或 /etc/profile (影响整个系统)
+		加入 ~/.profile (只影响自己) 或 /etc/profile (影响整个系统)
         	</para>
         	
       		</listitem>
@@ -613,9 +613,9 @@ sudo update-grub</screen>
     <title>怎么实现定时关机？</title>
     <para>可以使用 shutdown 命令实现定时关机。</para>
     <para>
-    	<screen format="linespecific">sudo shutdown 14:20 '系统将在 14:20 关闭'
-sudo shutdown +20 '20 分钟后关机'
-sudo shutdown now '立即关机'
+    	<screen format="linespecific">sudo shutdown -h 14:20 '系统将在 14:20 关闭'
+sudo shutdown -h +20 '20 分钟后关机'
+sudo shutdown -h now '立即关机'
 sudo shutdown -c '取消关机'</screen>
     	具体的用法请 
     	<screen format="linespecific">man shutdown</screen>
