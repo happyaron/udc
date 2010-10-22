@@ -487,7 +487,7 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
     		</para>
     		<para>
 			使用 LiveCD/LiveUSB 或者硬盘安装的方法，进入一个 live 环境，挂载上原来的
-			根分区，比如挂载为 /media/sda5，然后运行命令：
+			根分区，比如挂载为 /media/sda5，如果有 /boot 分区也要一起挂载，这个例子中就需要挂载到 /media/sda5/boot。然后运行命令：
 			<screen format="linespecific">sudo mount --bind /dev /media/sda5/dev # 挂载 dev 文件系统
 sudo mount --bind /proc /media/sda5/proc # 挂载 proc 文件系统			
 sudo chroot /meidia/sda5
