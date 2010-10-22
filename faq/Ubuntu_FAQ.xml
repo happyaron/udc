@@ -481,25 +481,27 @@ export GST_ID3V2_TAG_ENCODING=GBK:UTF-8:GB18030</screen>
   <sect1>
   	<title>系统的安装和引导</title>
   	<sect2>
-    		<title>我重新安装了 Windows，可是启动时却找不到 Ubuntu 的启动项了？</title>
+    		<title>我重新安装了 Windows，可是启动时缺找不到 Ubuntu 的启动项了？</title>
     		<para>
 			可以使用如下两种方法之一，修复 Ubuntu 的启动：
     		</para>
     		<para>
 			使用 LiveCD/LiveUSB 或者硬盘安装的方法，进入一个 live 环境，挂载上原来的
 			根分区，比如挂载为 /media/sda5，然后运行命令：
-			<screen format="linespecific">sudo chroot /meidia/sda5
+			<screen format="linespecific">sudo mount --bind /dev /media/sda5/dev # 挂载 dev 文件系统
+sudo mount --bind /proc /media/sda5/proc # 挂载 proc 文件系统			
+sudo chroot /meidia/sda5
 grub-install /dev/sda
 update-grub</screen>
     		</para>
     		<para>
-			下载 GRUB4DOS，将其中的 grldr 或者 g2ldr 放在 Windows 的 C 盘根目录中，然后修改 
+			或者，下载 GRUB4DOS，将其中的 grldr 或者 g2ldr 放在 Windows 的 C 盘根目录中，然后修改 
 			<screen format="linespecific">C：\boot.ini</screen>
     			添加一行
     			<screen format="linespecific">C：\grldr = GRUB4DOS   或者
 C：\g2ldr = GRUB4DOS</screen>
     			并删除 C 盘中的 menu.lst (或者 grub.cfg boot/menu.lst boot/grub.cfg 等) 文件。
-    			重启系统，选择 GRUB4DOS 项，选择自动探测 grub.lst(或者 grub.cfg)那一项，就可以带您进入 Ubuntu 系统了。
+    			重启系统，选择 GRUB4DOS 项，选择自动探测 menu.lst(或者 grub.cfg)那一项，就可以带您进入 Ubuntu 系统了。
     			然后运行命令：
 			<screen format="linespecific">sudo grub-install /dev/sda
 sudo update-grub</screen>		
